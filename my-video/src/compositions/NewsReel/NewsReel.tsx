@@ -58,21 +58,31 @@ const BUCKET_BED: Record<string, string> = {
   wildcard:         "audio/bed_tide.mp3",         // backwards, atmospheric
 };
 
-// V6 rev2: 12 musically distinct lavfi-synthesized beds, −16 LUFS normalized.
+// V7 (2026-04-25) — Four rotation moods, real broadcast-grade tracks.
+// Each daily post gets one of the four moods; rotation is applied at the
+// slate-assignment layer (props.json → audioBed) so adjacent posts never
+// play the same track and the full stack of 12-13 keeps the viewer fresh.
+// Legacy V6 lavfi beds retained for back-compat on older post folders.
 const AVAILABLE_BEDS = new Set<string>([
-  "audio/news_bed.mp3",                    // legacy master (kept for back-compat)
-  "audio/bed_anchor.mp3",                  // G major, 90 BPM — anchor-news feel
-  "audio/bed_pressure.mp3",                // D minor, 56 BPM — dark throbbing tension
-  "audio/bed_weight.mp3",                  // F minor, 60 BPM — oppressive low drone
-  "audio/bed_velocity.mp3",                // G minor, 130 BPM — driving rhythmic
-  "audio/bed_echo.mp3",                    // C major, 70 BPM — reverberant, diplomatic
-  "audio/bed_tide.mp3",                    // A minor, 50 BPM — ocean swell, majestic
-  "audio/bed_voltage.mp3",                 // A minor, 120 BPM — electric pulsing
-  "audio/bed_fog.mp3",                     // B minor, 55 BPM — foggy lowpass, clandestine
-  "audio/bed_steel.mp3",                   // E minor, 85 BPM — metallic, aecho bells
-  "audio/bed_pulse_syn.mp3",               // D minor, 108 BPM — square-wave harmonic stack
-  "audio/bed_cycle.mp3",                   // E minor, 100 BPM — 4-note arpeggio
-  "audio/bed_ambient_syn.mp3",             // F minor, 65 BPM — atmospheric synth pad
+  // V7 rotation moods
+  "audio/mood_cinematic.mp3",              // slow piano + sub-bass + sparse strings
+  "audio/mood_newsroom.mp3",               // rhythmic synth arps + light percussion
+  "audio/mood_orchestral.mp3",             // low strings + soft brass + distant piano
+  "audio/mood_mideast.mp3",                // oud + qanun + deep drum + cinematic pad
+  // Legacy V6 rev2 beds (kept so old post folders keep rendering)
+  "audio/news_bed.mp3",
+  "audio/bed_anchor.mp3",
+  "audio/bed_pressure.mp3",
+  "audio/bed_weight.mp3",
+  "audio/bed_velocity.mp3",
+  "audio/bed_echo.mp3",
+  "audio/bed_tide.mp3",
+  "audio/bed_voltage.mp3",
+  "audio/bed_fog.mp3",
+  "audio/bed_steel.mp3",
+  "audio/bed_pulse_syn.mp3",
+  "audio/bed_cycle.mp3",
+  "audio/bed_ambient_syn.mp3",
 ]);
 
 // Bucket → default accent color. Gives each topic bucket a distinct visual
