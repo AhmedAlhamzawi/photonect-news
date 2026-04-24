@@ -60,9 +60,9 @@ fi
 echo "━━━ PHASE 1 — validating props ━━━"
 missing=0
 for slug in "${SLUGS[@]}"; do
-  pj="$POSTS/$slug/props.json"
+  pj="$POSTS/$slug/.meta/props.json"
   if [ ! -f "$pj" ]; then
-    echo "  MISSING $slug/props.json"
+    echo "  MISSING $slug/.meta/props.json"
     missing=$((missing+1))
     continue
   fi
@@ -171,7 +171,7 @@ for slug in "${SLUGS[@]}"; do
   audio_rms=$(ffmpeg -y -ss 2 -t 5 -i "$mp4" -ac 1 -af "volumedetect" -f null - 2>&1 | grep "mean_volume" | awk -F': ' '{print $2}' | awk '{print $1}' | head -1)
 
   # Read variant: Variant B has intentional dark lower half for typography; QA must know this.
-  slug_variant=$(python3 -c "import json; p=json.load(open('$POSTS/$slug/props.json')); print(p.get('variant','A'))" 2>/dev/null || echo "A")
+  slug_variant=$(python3 -c "import json; p=json.load(open('$POSTS/$slug/.meta/props.json')); print(p.get('variant','A'))" 2>/dev/null || echo "A")
 
   # Combined QA: PIL luminance + margin-safe-zone sanity + audio presence
   python3 - "$slug" "$qa_dir" "$audio_rms" "$slug_variant" << 'PY'

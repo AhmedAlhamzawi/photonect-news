@@ -51,20 +51,20 @@ MONTH=$(echo "$SLUG" | cut -d- -f2)
 DAY=$(echo "$SLUG" | cut -d- -f3)
 MONTH_EN=$(date -j -f "%Y-%m-%d" "$YEAR-$MONTH-$DAY" "+%b %d • %Y" 2>/dev/null | tr '[:lower:]' '[:upper:]' || echo "APR 18 • 2026")
 
+mkdir -p "$DST/.meta"
 sed \
   -e "s|{{SLUG}}|$SLUG|g" \
   -e "s|{{DATE_LABEL}}|$MONTH_EN|g" \
   -e "s|{{ARABIC_DATE_LABEL}}|$DAY $MONTH $YEAR|g" \
   -e "s|{{TOPIC_BUCKET}}|$BUCKET|g" \
-  "$TPL/props.template.json" > "$DST/props.json"
+  "$TPL/props.template.json" > "$DST/.meta/props.json"
 
 cp "$TPL/caption.template.txt" "$DST/caption.txt"
 
 echo "scaffolded:"
-echo "  props:   $DST/props.json"
+echo "  props:   $DST/.meta/props.json"
 echo "  caption: $DST/caption.txt"
 echo "  images:  $IMG_DST  (drop hero.mp4 + broll_1/2/3 here)"
 echo ""
-echo "next: fill props.json placeholders, drop media, then:"
-echo "  cd '$HOME/Desktop/Claude <> Ahmed - 2nd Brain/Photonect/my-video'"
-echo "  npx remotion render NewsReel '$DST/newsreel.mp4' --props='$DST/props.json'"
+echo "next: fill .meta/props.json placeholders, drop media, then:"
+echo "  bash data/_template/render-reel.sh $SLUG v3"

@@ -37,7 +37,7 @@ def lint(posts_dir: Path) -> list[tuple[str, str]]:
     for post_dir in sorted(posts_dir.iterdir()):
         if not post_dir.is_dir():
             continue
-        props_path = post_dir / "props.json"
+        props_path = post_dir / ".meta" / "props.json"
         if not props_path.exists():
             continue
         try:
@@ -75,8 +75,8 @@ def main() -> int:
 
     tech_ai_count = sum(
         1 for d in POSTS.iterdir()
-        if d.is_dir() and (d / "props.json").exists()
-        and json.loads((d / "props.json").read_text()).get("topicBucket") == "tech_ai"
+        if d.is_dir() and (d / ".meta" / "props.json").exists()
+        and json.loads((d / ".meta" / "props.json").read_text()).get("topicBucket") == "tech_ai"
     )
     print(f"LINT PASS — all {tech_ai_count} tech_ai post(s) have numeric supportingStat")
     return 0

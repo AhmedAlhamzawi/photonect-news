@@ -21,7 +21,7 @@ fi
 
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 MYVIDEO="${MYVIDEO:-$HOME/Desktop/Claude <> Ahmed - 2nd Brain/Photonect/my-video}"
-PROPS="$ROOT/data/posts/$SLUG/props.json"
+PROPS="$ROOT/data/posts/$SLUG/.meta/props.json"
 
 case "$VARIANT" in
   v1) OUT="$ROOT/data/posts/$SLUG/newsreel.mp4" ;;
@@ -73,7 +73,7 @@ LINT_EOF
 
 # Auto-hunt media if not yet done for this slug. This keeps every render
 # grounded in story-specific imagery and prevents reuse of stale stock.
-STAMP="$ROOT/data/posts/$SLUG/media-stamp.json"
+STAMP="$ROOT/data/posts/$SLUG/.meta/media-stamp.json"
 if [ ! -f "$STAMP" ]; then
   echo "no media stamp for $SLUG — running hunter first"
   "$ROOT/data/_template/hunt-media.sh" "$SLUG"

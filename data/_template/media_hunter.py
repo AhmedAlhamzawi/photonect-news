@@ -913,9 +913,11 @@ def hunt_slot(slug: str, slot: str, archetype: str, accent: str,
 
 def process_post(slug: str, ledger: dict[str, Any], force: bool = False) -> bool:
     post = POSTS / slug
-    props_path = post / "props.json"
+    meta = post / ".meta"
+    meta.mkdir(exist_ok=True)
+    props_path = meta / "props.json"
     if not props_path.exists():
-        print(f"skip {slug}: no props.json")
+        print(f"skip {slug}: no .meta/props.json")
         return False
 
     props = json.loads(props_path.read_text())
@@ -924,9 +926,9 @@ def process_post(slug: str, ledger: dict[str, Any], force: bool = False) -> bool
     beats = props.get("beats") or []
 
     media_dir = MEDIA_ROOT / slug
-    stamp = post / "media-stamp.json"
+    stamp = meta / "media-stamp.json"
     if stamp.exists() and not force:
-        print(f"skip {slug}: media-stamp.json present (use --force to re-hunt)")
+        print(f"skip {slug}: .meta/media-stamp.json present (use --force to re-hunt)")
         return False
 
     # Wipe old media so we do not accidentally reuse stale files.
@@ -996,7 +998,7 @@ def main() -> int:
     ledger = load_ledger()
 
     if args.all:
-        slugs = sorted([p.name for p in POSTS.iterdir() if p.is_dir() and (p / "props.json").exists()])
+        slugs = sorted([p.name for p in POSTS.iterdir() if p.is_dir() and (p / ".meta" / "props.json").exists()])
     elif args.slug:
         slugs = [args.slug]
     else:
