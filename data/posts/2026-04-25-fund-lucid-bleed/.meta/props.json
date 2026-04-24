@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 25 • 2026",
+  "arabicDateLabel": "٢٥ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "الصندوق",
+    "arabicHeadline": "لوسيد تنزف — ٩ مليار دخلت، ٢.٥ فقط بقيت",
+    "englishSubhead": "PIF • LUCID BLEED • $9B IN → $2.5B LEFT • $550M NEW",
+    "heroQueries": [
+      "Lucid Air sedan silver studio",
+      "Yasir Al-Rumayyan PIF governor portrait",
+      "Lucid factory Casa Grande Arizona aerial",
+      "Lucid stock chart decline red screen",
+      "PIF Saudi Arabia glass tower Riyadh"
+    ],
+    "heroMedia": "images/news/2026-04-25-fund-lucid-bleed/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحفرة",
+      "arabicHeading": "٣.٧٥× — مقابل كل دولار من الصندوق، ربع دولار قيمة سوقية",
+      "arabicBody": "ضخّ صندوق الاستثمارات العامة تسعة مليارات دولار في لوسيد منذ ٢٠١٨ مقابل حصة تتجاوز خمسين بالمئة، لكن القيمة السوقية للشركة انهارت إلى ٢.٥ مليار دولار فقط — كل دولار استُثمر بات يعادل ربع دولار",
+      "bigStat": {
+        "value": "$9B",
+        "label": "PIF invested since 2018",
+        "arabicLabel": "إجمالي الضخ منذ ٢٠١٨"
+      },
+      "supportingStats": [
+        {
+          "label": "القيمة السوقية",
+          "value": "٢.٥ مليار"
+        },
+        {
+          "label": "نسبة الخسارة",
+          "value": "٧٢٪"
+        },
+        {
+          "label": "حصة الصندوق",
+          "value": "٥٠٪+"
+        }
+      ],
+      "broll": "images/news/2026-04-25-fund-lucid-bleed/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D4A24C"
+    },
+    {
+      "label": "الضخ الجديد",
+      "arabicHeading": "٥٥٠ مليون دولار إضافية هذا الشهر — ورئيس تنفيذي جديد",
+      "arabicBody": "ضخّ الصندوق ٥٥٠ مليون دولار جديدة في أبريل على شكل أسهم ممتازة قابلة للتحويل، وعيّن رئيساً تنفيذياً جديداً بعد خسارة ربعية قاربت المليار دولار، ونقد متاح لا يتجاوز ٧٠٠ مليون — السؤال: كم مرة يعيد الصندوق الضخ قبل أن يتخذ قراراً مختلفاً؟",
+      "bigStat": {
+        "value": "$550M",
+        "label": "new convertible preferred, Apr 2026",
+        "arabicLabel": "ضخ جديد هذا الشهر"
+      },
+      "supportingStats": [
+        {
+          "label": "الخسارة الربعية",
+          "value": "~مليار $"
+        },
+        {
+          "label": "النقد المتبقي",
+          "value": "~٧٠٠ مليون"
+        },
+        {
+          "label": "الرئيس التنفيذي",
+          "value": "جديد"
+        }
+      ],
+      "broll": "images/news/2026-04-25-fund-lucid-bleed/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D4A24C"
+    },
+    {
+      "label": "الرهان الأخير",
+      "arabicHeading": "أوبر تضخ ٥٠٠ مليون — و٣٥ ألف روبوتاكسي لوسيد في الطريق",
+      "arabicBody": "أعلنت أوبر استثمار ٥٠٠ مليون دولار وشراكة طويلة لشراء ٣٥ ألف سيارة لوسيد لأسطول الروبوتاكسي المستقبلي — لكن سهم لوسيد استمر في النزول، والسوق يتساءل: هل الاستحواذ الكامل من الصندوق هو المخرج الوحيد من هذا النزيف؟",
+      "bigStat": {
+        "value": "35K",
+        "label": "Lucid robotaxis ordered by Uber",
+        "arabicLabel": "روبوتاكسي لوسيد لأسطول أوبر"
+      },
+      "supportingStats": [
+        {
+          "label": "استثمار أوبر",
+          "value": "٥٠٠ مليون"
+        },
+        {
+          "label": "رد فعل السهم",
+          "value": "يواصل النزول"
+        },
+        {
+          "label": "السيناريو",
+          "value": "استحواذ الصندوق؟"
+        }
+      ],
+      "broll": "images/news/2026-04-25-fund-lucid-bleed/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D4A24C"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg Opinion",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "24/7 Wall St",
+      "domain": "247wallst.com"
+    },
+    {
+      "name": "Carbon Credits",
+      "domain": "carboncredits.com"
+    },
+    {
+      "name": "Electric-Vehicles",
+      "domain": "eletric-vehicles.com"
+    },
+    {
+      "name": "IndexBox",
+      "domain": "indexbox.io"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "صندوق الاستثمارات العامة ضخ تسعة مليارات دولار في لوسيد منذ عام ٢٠١٨ مقابل حصة أكبر من النصف",
+    "القيمة السوقية الحالية للشركة ٢.٥ مليار دولار فقط — ربع رأس المال الذي ضخّه الصندوق السعودي",
+    "ضخ جديد في أبريل ٢٠٢٦ بقيمة ٥٥٠ مليون دولار على شكل أسهم ممتازة قابلة للتحويل إلى عادية",
+    "تعيين رئيس تنفيذي جديد لقيادة لوسيد بعد سلسلة من الخسائر الفصلية وتراجع سعر السهم",
+    "خسارة الربع الأول من ٢٠٢٦ تقترب من مليار دولار مع نقد متبقٍ لا يتجاوز سبعمائة مليون",
+    "أوبر تستثمر ٥٠٠ مليون دولار وتلتزم بشراء ٣٥ ألف سيارة لوسيد لأسطول الروبوتاكسي المستقبلي",
+    "السوق يطرح سؤالاً واحداً: هل الاستحواذ الكامل من الصندوق هو المخرج الوحيد من هذا النزيف؟"
+  ]
+}
