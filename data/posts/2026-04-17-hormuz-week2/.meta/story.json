@@ -1,0 +1,59 @@
+{
+  "postId": "2026-04-17-hormuz-week2",
+  "renderedAt": "2026-04-17T13:30:00+03:00",
+  "composition": "NewsReel",
+  "durationSeconds": 30,
+  "resolution": "1080x1920",
+  "fps": 30,
+  "lead": "US Strait of Hormuz blockade — week 2",
+  "headlineArabic": "سفن تُزيّف هويتها لاختراق الحصار الأمريكي في هرمز",
+  "angle": "Ship 'spoofing' — vessels faking transponders to breach the blockade",
+  "beats": [
+    {
+      "label": "what_is_happening",
+      "headline": "US Marines patrol Hormuz; ships falsify AIS data; Iran halts petrochem exports",
+      "keyStat": "Day 4 of blockade",
+      "supporting": [
+        "12+ suspected spoofing vessels",
+        "Iran petrochem exports paused",
+        "Russia eyed as alternative export route",
+        "USS Tripoli — live Marine hoist training"
+      ]
+    },
+    {
+      "label": "why_it_matters",
+      "headline": "Jet fuel spiking +34% in a week; European airlines face potential shortages",
+      "keyStat": "+34% jet fuel spike",
+      "supporting": [
+        "Iran reroutings underway",
+        "High shortage risk for EU airlines",
+        "IMF warns governments not to shield consumers",
+        "Truce at risk per Iran warning"
+      ]
+    },
+    {
+      "label": "what_next",
+      "headline": "Trump hints truce talks in days; Iran pivots toward Russia as export alternative",
+      "keyStat": "72h decisive window",
+      "supporting": [
+        "Scenario 1: Truce talks",
+        "Scenario 2: Escalation",
+        "Scenario 3: Permanent reroute via Russia/Pakistan"
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "NPR", "url": "https://www.npr.org/2026/04/16/nx-s1-5783870/strait-of-hormuz-naval-blockade", "headline": "3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz", "publishedAt": "2026-04-16T09:00" },
+    { "name": "Al Jazeera English", "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire", "headline": "Iran warns US naval blockade threatens ceasefire", "publishedAt": "2026-04-15T15:29" },
+    { "name": "BBC News", "url": "https://www.bbc.com/news/videos/cx2449xklnko", "headline": "Is the US blockade of Iran working?", "publishedAt": "2026-04-15T17:17" },
+    { "name": "CBS News", "url": "https://www.cbsnews.com/news/iran-war-strait-of-hormuz-us-blockade-sanctioned-sh", "headline": "Iran claims tanker transits Strait of Hormuz amid blockade", "publishedAt": "2026-04-15T14:31" },
+    { "name": "ABC News", "url": "https://abcnews.com/International/ship-spoofing-iran-linked-vessel-breach-us-blo", "headline": "What to know about 'ship spoofing' by Iran-linked vessel to breach the US blockade", "publishedAt": "2026-04-16T09:13" },
+    { "name": "Fortune", "url": "https://fortune.com/", "headline": "Peace talks are back on while the U.S. plays cat-and-mouse with rogue ships in the Strait of Hormuz", "publishedAt": "2026-04-16T09:51" }
+  ],
+  "assetsUsed": [
+    { "type": "video", "pexelsId": 20489097, "filename": "broll_tanker.mp4", "used": "hero (breaking scene)" },
+    { "type": "video", "pexelsId": 31122898, "filename": "broll_carrier.mp4", "used": "beat 1 (what's happening)" },
+    { "type": "image", "pexelsId": 13247379, "filename": "still_refinery.jpg", "used": "beat 2 (why it matters)" },
+    { "type": "video", "pexelsId": 35492500, "filename": "broll_cargo_night.mp4", "used": "beat 3 (what's next)" }
+  ]
+}

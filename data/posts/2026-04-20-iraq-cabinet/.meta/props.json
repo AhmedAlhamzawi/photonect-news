@@ -1,0 +1,143 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "iraq_domestic",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "كابينة العميدي: كشف التركيبة اليوم ومهلة دستورية حتى السبت",
+    "englishSubhead": "IRAQ • AMEDI CABINET REVEAL",
+    "heroQueries": [
+      "Baghdad skyline Tigris river aerial",
+      "Al-Shaheed Monument Baghdad",
+      "Baghdad Convention Center exterior",
+      "Victory Arch Baghdad"
+    ],
+    "heroMedia": "images/news/2026-04-20-iraq-cabinet/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العميدي يكشف تركيبة الحكومة اليوم — وعبد المهدي مرشح الائتلاف الكردي الشيعي لرئاسة الوزراء",
+      "arabicBody": "الرئيس نزار العميدي، المنتخب في ١١ أبريل بـ٢٢٧ صوتاً، يقدّم اليوم صيغته المقترحة لكابينة الوزراء. تحالف الديمقراطي الكردستاني مع الاتحاد الوطني يدفع باتجاه عادل عبد المهدي رئيساً للوزراء، فيما يهدّد التيار الصدري بمقاطعة الجلسة إذا لم يُستبعد وجوه الإطار التنسيقي القديمة.",
+      "bigStat": {
+        "value": "24h",
+        "label": "until constitutional deadline",
+        "arabicLabel": "ساعة حتى نهاية المهلة الدستورية"
+      },
+      "supportingStats": [
+        {
+          "label": "مرشح الائتلاف الكردي الشيعي",
+          "value": "ABDUL-MAHDI"
+        },
+        {
+          "label": "أصوات انتخاب العميدي",
+          "value": "227 VOTES"
+        },
+        {
+          "label": "موقف التيار الصدري",
+          "value": "BOYCOTT THREAT"
+        },
+        {
+          "label": "المهلة الدستورية",
+          "value": "APR 21"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iraq-cabinet/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الدعم النفطي وأنبوب كركوك-جيهان: أوراق المساومة على طاولة تشكيل الحكومة",
+      "arabicBody": "عبد المهدي يعرض إصلاح دعم الوقود الذي يكلّف الخزينة ١٢ مليار دولار سنوياً مقابل دعم الصدريين. الديمقراطي الكردستاني يطالب بحصة ٥٠٪ من إيرادات أنبوب كركوك-جيهان الذي ضخّ ٣٤٠ ألف برميل يومياً بعد إعادة التشغيل. هذه أول تشكيلة حكومة عراقية تُناقَش تحت ظلّ الحرب الإقليمية.",
+      "bigStat": {
+        "value": "340K",
+        "label": "bpd Kirkuk-Ceyhan pipeline",
+        "arabicLabel": "ألف برميل يومياً عبر أنبوب كركوك-جيهان"
+      },
+      "supportingStats": [
+        {
+          "label": "كلفة دعم الوقود السنوية",
+          "value": "$12B"
+        },
+        {
+          "label": "حصة كردستان المطلوبة",
+          "value": "50% PIPELINE"
+        },
+        {
+          "label": "عدد الوزارات المتنازع عليها",
+          "value": "7 MINISTRIES"
+        },
+        {
+          "label": "مقاعد الإطار التنسيقي",
+          "value": "130 SEATS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iraq-cabinet/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات قبل السبت — العميدي أمام أول اختبار للصلاحيات",
+      "arabicBody": "إذا فشل العميدي في تمرير الكابينة قبل ٢١ أبريل، يدخل العراق فراغاً دستورياً وسط أسوأ أزمة إقليمية. السيناريو الأول: تمرير سريع بعد تنازلات على الوزارات السيادية. الثاني: تأجيل قسري يطلق أزمة سياسية. الثالث: حكومة إنقاذ تكنوقراط برعاية المرجعية.",
+      "bigStat": {
+        "value": "21",
+        "label": "April • constitutional cliff",
+        "arabicLabel": "أبريل الموعد النهائي دستورياً"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "FAST-TRACK DEAL"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "FORCED POSTPONEMENT"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "TECHNOCRAT RESCUE"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iraq-cabinet/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "الرئيس العميدي يكشف اليوم تركيبة الحكومة الجديدة — ٢٤ ساعة حتى المهلة الدستورية",
+    "عادل عبد المهدي مرشح تحالف الديمقراطي الكردستاني والاتحاد الوطني لرئاسة الوزراء",
+    "التيار الصدري يهدد بمقاطعة جلسة التصويت إذا لم يُستبعد وجوه الإطار التنسيقي القديمة",
+    "إصلاح دعم الوقود ورقة المساومة: ١٢ مليار دولار سنوياً تكلف الخزينة العراقية",
+    "كردستان تطالب بـ٥٠٪ من إيرادات كركوك-جيهان بعد تدفق ٣٤٠ ألف برميل يومياً",
+    "الإطار التنسيقي يحشد ١٣٠ مقعداً نيابياً لعرقلة التشكيلة الكردية-الشيعية المقترحة",
+    "أول حكومة عراقية تُشكّل تحت ظل الحرب الإقليمية: اختبار حقيقي لصلاحيات الرئاسة"
+  ]
+}

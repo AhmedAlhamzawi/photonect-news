@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 17 • 2026",
+  "arabicDateLabel": "١٧ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "أزمة",
+    "arabicHeadline": "العراق في الظلام: الغاز الإيراني ينهار من ١٩ إلى ٥ مليون متر مكعب — والكهرباء تلفظ أنفاسها",
+    "englishSubhead": "IRAQ BLACKOUT • GAS COLLAPSE",
+    "heroMedia": "images/news/2026-04-17-iraq-blackout/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "واردات الغاز من إيران تنهار ٧٤٪ — وشبكة الكهرباء العراقية تفقد ٨٠٠٠ ميغاواط",
+      "arabicBody": "الحصار الأمريكي وأزمة هرمز تقطعان خطوط إمداد الغاز الإيراني التي تغذّي ثلث كهرباء العراق. وزارة الكهرباء تُعلن عجزاً قياسياً، والمحطات تعمل على وقود احتياطي محدود. المواطن يعود إلى المولدات الأهلية.",
+      "bigStat": {
+        "value": "-74%",
+        "label": "Iran gas imports collapse",
+        "arabicLabel": "انهيار واردات الغاز الإيراني — يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الوارد قبل الأزمة",
+          "value": "19M m³"
+        },
+        {
+          "label": "الوارد حالياً",
+          "value": "5M m³"
+        },
+        {
+          "label": "عجز الشبكة",
+          "value": "8,000 MW"
+        },
+        {
+          "label": "الثلث الذي كانت تغذّيه إيران",
+          "value": "33%"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iraq-blackout/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المولدات الأهلية تلتهم الدخل — وأسعار الوقود تتضاعف قبل الصيف",
+      "arabicBody": "الأسر العراقية تُنفق حصّة متزايدة من دخلها على الاشتراكات الأهلية ووقود المولدات. وزارة المالية تُحذّر من ضغط تضخمي غير مسبوق. رجال الأعمال يُوقفون توسعات — والفصل الصيفي لم يبدأ بعد.",
+      "bigStat": {
+        "value": "2×",
+        "label": "diesel price surge",
+        "arabicLabel": "تضاعف أسعار وقود المولدات"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة البيوت على مولدات",
+          "value": "70%+"
+        },
+        {
+          "label": "ارتفاع أسعار الاشتراكات",
+          "value": "+85%"
+        },
+        {
+          "label": "تحذير وزارة المالية",
+          "value": "INFLATION SHOCK"
+        },
+        {
+          "label": "ذروة الطلب المتوقعة",
+          "value": "JUL-AUG"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iraq-blackout/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#E74C3C"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة مخارج للحكومة العراقية — كلها مكلفة سياسياً",
+      "arabicBody": "الخيارات تتضيّق قبل الصيف: استيراد طارئ من تركيا أو قطر (باهظ)، تسريع ربط الخليج عبر مجلس التعاون (سياسياً معقد)، أو قبول عجز هيكلي يفتح الباب لاحتجاجات. الحكومة تبحث المسارات الثلاثة معاً.",
+      "bigStat": {
+        "value": "3 opts",
+        "label": "government paths",
+        "arabicLabel": "خيارات متاحة — كلّها مكلفة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "QATAR/TURKEY LNG"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "GCC GRID LINK"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "ACCEPT DEFICIT"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iraq-blackout/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Al Sharq Al Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "Iraq Oil Report",
+      "domain": "iraqoilreport.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "AP News",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "واردات الغاز الإيراني للعراق تنهار من ١٩ إلى ٥ مليون متر مكعب يومياً",
+    "وزارة الكهرباء تُعلن عن عجز ٨٠٠٠ ميغاواط — الأعلى في تاريخ الشبكة",
+    "أسعار وقود المولدات الأهلية تتضاعف قبل بداية الصيف بأسابيع",
+    "وزارة المالية تُحذّر من صدمة تضخمية قد تضرب الأسر متوسطة الدخل",
+    "الحكومة العراقية تُجري مفاوضات طارئة مع قطر وتركيا لاستيراد LNG",
+    "مجلس التعاون الخليجي يدرس تسريع ربط شبكة الكهرباء مع العراق",
+    "مسؤولون: الصيف المقبل قد يشهد أطول انقطاعات كهربائية منذ ٢٠١٩"
+  ],
+  "topicBucket": "iraq_domestic"
+}

@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Photonect NEWS — Iraq V7 | ١٠ أبريل ٢٠٢٦</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#050505;display:flex;flex-direction:column;align-items:center;gap:16px;padding:16px;font-family:'Tajawal','Cairo',sans-serif;}
+.lbl{color:#333;font:10px monospace;margin-bottom:-10px;}
+.slide{width:1080px;height:1080px;position:relative;overflow:hidden;font-family:'Tajawal','Cairo',sans-serif;background:#0a0a0a;}
+
+:root{--gold:#FFC217;--red:#D72638;--dark:#0a0a0a;--pol:#3B82F6;--eco:#10B981;--sec:#EF4444;--oil:#F59E0B;--soc:#A855F7;}
+
+/* ─── GLOBAL COMPONENTS ─── */
+.logo{display:inline-flex;flex-direction:column;align-items:center;gap:0;}
+.logo .r{width:16px;height:5px;background:var(--red);border-radius:1px;}
+.logo .n{font-family:'Cairo';font-weight:900;font-size:14px;letter-spacing:2px;color:#fff;line-height:1.2;}
+.logo .s{font-family:'Cairo';font-weight:800;font-size:7px;letter-spacing:4px;color:var(--gold);}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:12px 36px;position:relative;z-index:5;}
+.tag{padding:4px 14px;border-radius:12px;font-size:11px;font-weight:800;color:#fff;letter-spacing:1px;}
+.pg{color:rgba(255,255,255,.25);font-size:11px;font-weight:600;font-family:'Cairo',monospace;direction:ltr;}
+.dots{display:flex;gap:6px;justify-content:center;}
+.dots .d{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.1);}
+.dots .d.a{background:var(--gold);width:16px;border-radius:3px;}
+.story-card{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:14px 16px;border-right:4px solid;}
+.story-card .sc-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;}
+.story-card .sc-title{font-size:15px;font-weight:800;color:#fff;flex:1;}
+.story-card .sc-badge{padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;flex-shrink:0;margin-right:8px;}
+.story-card .sc-desc{font-size:13px;color:rgba(255,255,255,.4);line-height:1.5;}
+.story-card .sc-highlight{color:var(--gold);font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 1 — COVER
+═══════════════════════════════════════════════ */
+.s1 .bg{position:absolute;inset:0;background:url('./images/baghdad.jpg') center/cover;opacity:.35;}
+.s1 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.2) 0%,rgba(10,10,10,.6) 20%,rgba(10,10,10,.9) 50%,#0a0a0a 70%);}
+.s1 .gl{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,var(--red),var(--gold),var(--pol),var(--eco));z-index:5;}
+
+.s1 .hero{text-align:center;padding:8px 36px 6px;position:relative;z-index:3;}
+.s1 .hero .flag{font-size:52px;line-height:1.1;}
+.s1 .hero h1{font-size:58px;font-weight:900;color:#fff;line-height:1.0;margin:4px 0;}
+.s1 .hero .dline{width:80px;height:2px;background:var(--gold);margin:5px auto;}
+.s1 .hero .datesub{font-size:15px;color:var(--gold);font-weight:700;}
+
+/* BREAKING TICKER — new V7 */
+.breaking-ticker{background:var(--red);padding:7px 36px;display:flex;align-items:center;gap:10px;position:relative;z-index:3;}
+.bt-label{background:#fff;color:var(--red);font-size:10px;font-weight:900;padding:2px 8px;border-radius:4px;white-space:nowrap;flex-shrink:0;}
+.bt-text{color:#fff;font-size:13px;font-weight:700;line-height:1.2;}
+
+/* Headline cards grid */
+.hl-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px;padding:8px 36px;position:relative;z-index:3;}
+.hl-big{grid-column:span 2;background:rgba(255,194,23,.07);border:1px solid rgba(255,194,23,.18);border-radius:14px;padding:16px 18px;display:flex;gap:14px;align-items:center;}
+.hl-big .hl-stat{text-align:center;flex-shrink:0;min-width:80px;}
+.hl-big .hl-stat .hn{font-size:36px;font-weight:900;font-family:'Cairo';color:var(--gold);line-height:1;}
+.hl-big .hl-stat .hl{font-size:10px;color:rgba(255,255,255,.3);margin-top:2px;}
+.hl-big .hl-body{}
+.hl-big .hl-body .ht{font-size:17px;font-weight:800;color:#fff;line-height:1.3;margin-bottom:3px;}
+.hl-big .hl-body .hd{font-size:12px;color:rgba(255,255,255,.4);line-height:1.4;}
+
+.hl-sm{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:12px 14px;display:flex;gap:10px;align-items:flex-start;}
+.hl-sm .hl-accent{width:3px;border-radius:2px;align-self:stretch;flex-shrink:0;}
+.hl-sm .ht{font-size:14px;font-weight:700;color:#fff;line-height:1.3;margin-bottom:2px;}
+.hl-sm .hd{font-size:11px;color:rgba(255,255,255,.35);line-height:1.3;}
+
+/* Quick stats strip */
+.qstats{display:flex;gap:5px;padding:6px 36px;position:relative;z-index:3;}
+.qs{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:9px 6px;text-align:center;}
+.qs .qn{font-size:19px;font-weight:900;font-family:'Cairo';line-height:1;}
+.qs .ql{font-size:9px;color:rgba(255,255,255,.3);margin-top:2px;line-height:1.2;}
+
+.s1 .bot{position:absolute;bottom:0;left:0;right:0;background:var(--gold);padding:11px 36px;display:flex;justify-content:space-between;align-items:center;z-index:5;}
+.s1 .bot .sw{color:#0a0a0a;font-size:14px;font-weight:800;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 2 — PRESIDENTIAL ELECTION (Big Story)
+═══════════════════════════════════════════════ */
+.s2 .bg{position:absolute;inset:0;background:url('./images/shaheed.jpg') center 30%/cover;opacity:.12;}
+.s2 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.5) 0%,rgba(10,10,10,.85) 30%,#0a0a0a 58%);}
+.s2 .hdr{padding:10px 36px 8px;position:relative;z-index:3;}
+.s2 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--gold);}
+.s2 .title{color:#fff;font-size:34px;font-weight:900;line-height:1.1;margin:4px 0;}
+.s2 .sub{color:rgba(255,255,255,.4);font-size:14px;line-height:1.4;}
+
+/* Countdown — 1 DAY */
+.countdown-card{margin:8px 36px;background:linear-gradient(135deg,rgba(255,194,23,.12),rgba(255,194,23,.03));border:1px solid rgba(255,194,23,.3);border-radius:14px;padding:14px 20px;display:flex;align-items:center;gap:16px;position:relative;z-index:3;}
+.cd-num{font-size:62px;font-weight:900;font-family:'Cairo';color:var(--gold);line-height:1;flex-shrink:0;}
+.cd-unit{font-size:16px;color:var(--gold);font-weight:700;flex-shrink:0;margin-top:8px;}
+.cd-text{flex:1;}
+.cd-text .cdt{font-size:16px;font-weight:800;color:#fff;margin-bottom:3px;}
+.cd-text .cdd{font-size:12px;color:rgba(255,255,255,.4);line-height:1.4;}
+
+/* KDP vs PUK matchup */
+.matchup{margin:8px 36px;display:flex;gap:0;border-radius:14px;overflow:hidden;border:1px solid rgba(255,255,255,.08);position:relative;z-index:3;}
+.m-side{flex:1;padding:14px 16px;}
+.m-side .party{font-size:10px;font-weight:900;letter-spacing:2px;margin-bottom:4px;}
+.m-side .name{font-size:18px;font-weight:900;color:#fff;margin-bottom:2px;}
+.m-side .role{font-size:12px;color:rgba(255,255,255,.35);}
+.m-side .badge{display:inline-block;padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;margin-top:6px;}
+.m-vs{width:44px;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:900;color:rgba(255,255,255,.15);background:rgba(255,255,255,.02);font-family:'Cairo';border-right:1px solid rgba(255,255,255,.06);border-left:1px solid rgba(255,255,255,.06);}
+
+/* Mechanics grid */
+.mech-row{display:flex;gap:6px;padding:7px 36px;position:relative;z-index:3;}
+.mech-card{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:10px 12px;text-align:center;}
+.mech-card .mc-n{font-size:26px;font-weight:900;font-family:'Cairo';line-height:1;}
+.mech-card .mc-l{font-size:11px;color:rgba(255,255,255,.35);margin-top:3px;line-height:1.3;}
+
+.s2 .content{padding:6px 36px;display:flex;flex-direction:column;gap:6px;position:relative;z-index:3;}
+.s2 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(255,194,23,.07);border-top:1px solid rgba(255,194,23,.15);padding:11px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s2 .bbar .bf{color:var(--gold);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 3 — US-IRAQ RUPTURE + SECURITY
+   NEW V7: SVG Iraq Map of Events
+═══════════════════════════════════════════════ */
+.s3 .bg{position:absolute;inset:0;background:url('./images/dark_globe.jpg') center/cover;opacity:.07;}
+.s3 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 40%);}
+.s3 .hdr{padding:10px 36px 7px;position:relative;z-index:3;}
+.s3 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--sec);}
+.s3 .title{color:#fff;font-size:33px;font-weight:900;line-height:1.1;margin:4px 0;}
+.s3 .sub{color:rgba(255,255,255,.4);font-size:13px;}
+
+/* Split layout: left=map, right=events list — flex fill */
+.s3{display:flex;flex-direction:column;}
+.s3 .split{display:flex;gap:10px;padding:7px 36px 0;position:relative;z-index:3;flex:1;min-height:0;}
+.s3 .map-col{width:220px;flex-shrink:0;padding-bottom:50px;}
+.s3 .events-col{flex:1;display:flex;flex-direction:column;gap:6px;padding-bottom:50px;}
+.s3 .ev-item{flex:1;}
+
+/* Iraq SVG map container */
+.iraq-map-box{background:rgba(255,255,255,.02);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:8px;height:100%;}
+.iraq-map-box .map-title{font-size:10px;font-weight:800;color:rgba(255,255,255,.3);letter-spacing:2px;text-align:center;margin-bottom:4px;}
+
+/* Event item (vertical list) */
+.ev-item{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:10px;padding:11px 14px;border-right:3px solid;}
+.ev-item .ev-head{display:flex;align-items:center;gap:8px;margin-bottom:3px;}
+.ev-item .ev-loc{font-size:10px;font-weight:800;color:rgba(255,255,255,.3);letter-spacing:1px;}
+.ev-item .ev-badge{padding:2px 8px;border-radius:4px;font-size:9px;font-weight:800;margin-right:auto;}
+.ev-item .ev-title{font-size:14px;font-weight:800;color:#fff;line-height:1.3;margin-bottom:2px;}
+.ev-item .ev-desc{font-size:11px;color:rgba(255,255,255,.35);line-height:1.4;}
+
+.s3 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(239,68,68,.06);border-top:1px solid rgba(239,68,68,.12);padding:11px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s3 .bbar .bf{color:var(--sec);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 4 — OIL / HORMUZ / ELECTRICITY
+   NEW V7: Electricity crisis bar chart
+═══════════════════════════════════════════════ */
+.s4 .bg{position:absolute;inset:0;background:url('./images/tanker_ship.jpg') center/cover;opacity:.12;}
+.s4 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 45%);}
+.s4 .hdr{padding:10px 36px 7px;position:relative;z-index:3;}
+.s4 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--oil);}
+.s4 .title{color:#fff;font-size:34px;font-weight:900;line-height:1.1;margin:4px 0;}
+.s4 .sub{color:rgba(255,255,255,.4);font-size:13px;line-height:1.4;}
+
+/* Oil compare panel */
+.oil-compare{display:flex;gap:0;margin:8px 36px;border-radius:14px;overflow:hidden;border:1px solid rgba(255,255,255,.08);position:relative;z-index:3;}
+.oc-side{flex:1;padding:14px 16px;text-align:center;}
+.oc-side .oc-label{font-size:10px;font-weight:800;letter-spacing:2px;opacity:.4;margin-bottom:4px;}
+.oc-side .oc-num{font-size:42px;font-weight:900;font-family:'Cairo';line-height:1;}
+.oc-side .oc-unit{font-size:11px;color:rgba(255,255,255,.3);margin-top:2px;}
+.oc-side .oc-sub{font-size:11px;margin-top:4px;font-weight:700;}
+.oc-arrow{width:44px;display:flex;align-items:center;justify-content:center;font-size:22px;color:var(--red);background:rgba(215,38,56,.05);}
+
+/* Metric row */
+.met-row{display:flex;gap:5px;padding:7px 36px;position:relative;z-index:3;}
+.met-card{flex:1;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:11px;padding:11px 8px;text-align:center;position:relative;overflow:hidden;}
+.met-card .mc-top{position:absolute;top:0;left:0;right:0;height:3px;}
+.met-card .mc-label{font-size:10px;color:rgba(255,255,255,.3);font-weight:600;margin-bottom:4px;}
+.met-card .mc-value{font-size:24px;font-weight:900;font-family:'Cairo';line-height:1;}
+.met-card .mc-delta{font-size:10px;font-weight:700;margin-top:3px;display:inline-block;padding:2px 7px;border-radius:4px;}
+.mc-delta.up{background:rgba(16,185,129,.12);color:#10B981;}
+.mc-delta.dn{background:rgba(239,68,68,.12);color:#EF4444;}
+.mc-delta.warn{background:rgba(245,158,11,.12);color:var(--oil);}
+
+/* NEW V7: Electricity crisis bar */
+.power-bar-box{margin:7px 36px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:12px 16px;position:relative;z-index:3;}
+.pb-title{font-size:12px;font-weight:800;color:rgba(255,255,255,.5);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;}
+.pb-title .pb-tag{color:var(--red);font-size:10px;font-weight:900;background:rgba(215,38,56,.1);padding:2px 8px;border-radius:4px;}
+.pb-track{height:22px;background:rgba(255,255,255,.04);border-radius:6px;overflow:hidden;margin-bottom:4px;position:relative;}
+.pb-fill{height:100%;border-radius:6px;display:flex;align-items:center;padding-right:8px;justify-content:flex-end;}
+.pb-fill-val{font-size:11px;font-weight:900;color:#0a0a0a;font-family:'Cairo';}
+.pb-labels{display:flex;justify-content:space-between;font-size:10px;color:rgba(255,255,255,.3);}
+
+.s4 .content{padding:5px 36px;display:flex;flex-direction:column;gap:5px;position:relative;z-index:3;}
+.s4 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(245,158,11,.05);border-top:1px solid rgba(245,158,11,.1);padding:11px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s4 .bbar .bf{color:var(--oil);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 5 — HUMAN STORY + WHAT TO WATCH
+═══════════════════════════════════════════════ */
+.s5 .bg{position:absolute;inset:0;background:url('./images/redsky.jpg') center/cover;opacity:.08;}
+.s5 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 38%);}
+.s5 .hdr{padding:10px 36px 7px;position:relative;z-index:3;}
+.s5 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--gold);}
+.s5 .title{color:#fff;font-size:33px;font-weight:900;line-height:1.1;margin:4px 0;}
+
+/* Human story — featured card */
+.human-story{margin:8px 36px;background:linear-gradient(135deg,rgba(255,194,23,.09),rgba(255,194,23,.02));border:1px solid rgba(255,194,23,.2);border-radius:14px;padding:16px 18px;position:relative;z-index:3;}
+.human-story .hs-tag{display:inline-block;background:var(--gold);color:#0a0a0a;padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;margin-bottom:6px;}
+.human-story .hs-title{font-size:19px;font-weight:900;color:#fff;margin-bottom:5px;line-height:1.2;}
+.human-story .hs-desc{font-size:13px;color:rgba(255,255,255,.45);line-height:1.55;}
+.human-story .hs-highlight{color:var(--gold);font-weight:700;}
+/* Swap detail strip inside human story */
+.hs-swap{display:flex;gap:8px;margin-top:8px;}
+.hs-sw-item{flex:1;background:rgba(255,255,255,.04);border-radius:8px;padding:7px 10px;text-align:center;}
+.hs-sw-item .swn{font-size:18px;font-weight:900;font-family:'Cairo';}
+.hs-sw-item .swl{font-size:10px;color:rgba(255,255,255,.35);margin-top:2px;}
+
+/* Watch list */
+.s5 .watch{margin:7px 36px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:13px;padding:12px 16px;position:relative;z-index:3;}
+.s5 .watch .wt{color:var(--gold);font-size:15px;font-weight:900;margin-bottom:7px;display:flex;align-items:center;gap:6px;}
+.s5 .wi{display:flex;align-items:flex-start;gap:9px;margin-bottom:6px;}
+.s5 .wi:last-child{margin-bottom:0;}
+.s5 .wi .wd{width:7px;height:7px;border-radius:50%;margin-top:5px;flex-shrink:0;}
+.s5 .wi .wl{font-size:14px;font-weight:800;color:#fff;line-height:1.25;}
+.s5 .wi .wdesc{font-size:11px;color:rgba(255,255,255,.32);margin-top:1px;}
+
+/* Displaced persons strip — fills empty space at bottom */
+.data-strip{margin:6px 36px;display:flex;gap:6px;position:relative;z-index:3;}
+.ds-card{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:9px 10px;text-align:center;}
+.ds-card .dsn{font-size:22px;font-weight:900;font-family:'Cairo';line-height:1;}
+.ds-card .dsl{font-size:10px;color:rgba(255,255,255,.3);margin-top:2px;line-height:1.2;}
+
+.s5 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;padding:11px 36px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid rgba(255,255,255,.05);}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 6 — SOURCES (compact, no empty space)
+═══════════════════════════════════════════════ */
+.s6{background:#0a0a0a;}
+.s6 .gl{position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--red),var(--gold),var(--pol),var(--eco));z-index:5;}
+.s6 .top{text-align:center;padding:18px 36px 5px;}
+.s6 .sep{height:1px;background:rgba(255,255,255,.05);margin:5px 60px;}
+.s6 .stitle{text-align:center;font-size:28px;font-weight:900;color:#fff;margin:4px 0 2px;}
+.s6 .ssub{text-align:center;font-size:12px;color:rgba(255,255,255,.25);margin-bottom:4px;}
+
+/* Source grid — 3-column for tighter layout */
+.s6 .srcs{padding:3px 36px;display:flex;flex-wrap:wrap;gap:5px;}
+.s6 .sr{display:flex;align-items:center;gap:6px;padding:8px 11px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:8px;width:calc(33.33% - 4px);}
+.s6 .sr .sn{background:var(--gold);color:#0a0a0a;min-width:20px;height:20px;border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:900;font-family:'Cairo';flex-shrink:0;}
+.s6 .sr .sname{color:#fff;font-size:11px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:1;}
+
+/* Context box — fills space and adds value */
+.s6 .context-box{margin:8px 36px;background:rgba(255,194,23,.05);border:1px solid rgba(255,194,23,.12);border-radius:12px;padding:12px 16px;}
+.s6 .cb-title{font-size:13px;font-weight:800;color:var(--gold);margin-bottom:5px;}
+.s6 .cb-text{font-size:12px;color:rgba(255,255,255,.35);line-height:1.6;}
+
+.s6 .credits{padding:4px 36px;}
+.s6 .credit-item{font-size:10px;color:rgba(255,255,255,.18);line-height:1.5;}
+
+.s6 .bottom{position:absolute;bottom:0;left:0;right:0;text-align:center;padding:8px 36px 10px;background:rgba(255,255,255,.01);border-top:1px solid rgba(255,255,255,.04);}
+.s6 .follow{color:rgba(255,255,255,.3);font-size:12px;}
+.s6 .handle{color:var(--gold);font-size:20px;font-weight:900;direction:ltr;display:inline-block;margin-top:2px;}
+.s6 .tagline{color:rgba(255,255,255,.12);font-size:10px;margin-top:2px;}
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 1: COVER
+══════════════════════════════════════════════════════ -->
+<div class="lbl">1/6 — COVER</div>
+<div class="slide s1" id="slide1">
+<div class="bg"></div><div class="ov"></div><div class="gl"></div>
+<div class="nav">
+  <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+  <div style="display:flex;align-items:center;gap:5px;">
+    <div style="width:7px;height:7px;border-radius:50%;background:var(--red);box-shadow:0 0 7px var(--red);"></div>
+    <span style="color:rgba(255,255,255,.5);font-size:12px;font-weight:700;">١٠ أبريل ٢٠٢٦</span>
+  </div>
+</div>
+
+<div class="s1 hero">
+  <div class="flag">🇮🇶</div>
+  <h1>العراق اليوم</h1>
+  <div class="dline"></div>
+  <div class="datesub">ملخص ٢٤ ساعة — كل ما يهمّك في ٦ شرائح</div>
+</div>
+
+<!-- BREAKING TICKER — new V7 feature -->
+<div class="breaking-ticker">
+  <div class="bt-label">عاجل</div>
+  <div class="bt-text">الانتخابات الرئاسية غداً الساعة ١١ — واشنطن تستدعي السفير العراقي — أول ناقلة عراقية تعبر هرمز منذ فبراير</div>
+</div>
+
+<div class="hl-grid">
+  <!-- BIG: Election tomorrow -->
+  <div class="hl-big">
+    <div class="hl-stat">
+      <div class="hn">١</div>
+      <div class="hl">يوم متبقي</div>
+    </div>
+    <div class="hl-body">
+      <div class="ht">انتخاب رئيس الجمهورية غداً — KDP ضد PUK</div>
+      <div class="hd">فؤاد حسين (KDP) أمام نزار عميدي (PUK) · مسعود بارزاني يحذّر من "التسرّع"</div>
+    </div>
+  </div>
+  <!-- Small: US-Iraq rupture -->
+  <div class="hl-sm">
+    <div class="hl-accent" style="background:var(--red);"></div>
+    <div>
+      <div class="ht">واشنطن تستدعي السفير</div>
+      <div class="hd">تتهم بغداد بـ"التغطية على الميليشيات" — أحدّ خطاب أمريكي منذ ٢٠٠٣</div>
+    </div>
+  </div>
+  <!-- Small: Hormuz opens -->
+  <div class="hl-sm">
+    <div class="hl-accent" style="background:var(--eco);"></div>
+    <div>
+      <div class="ht">هرمز يُفتح — أول ناقلة</div>
+      <div class="hd">Ocean Thunder · ١M برميل · إيران تفرض رسوم عبور $١M/سفينة</div>
+    </div>
+  </div>
+</div>
+
+<div class="qstats">
+  <div class="qs"><div class="qn" style="color:var(--oil);">$١٢٣</div><div class="ql">برميل البصرة<br>+١٣٪ هذا الأسبوع</div></div>
+  <div class="qs"><div class="qn" style="color:var(--red);">٩٠٠K</div><div class="ql">برميل/يوم<br>إنتاج حالي</div></div>
+  <div class="qs"><div class="qn" style="color:var(--eco);">١,٣١٠</div><div class="ql">دينار/دولار<br>سعر رسمي</div></div>
+  <div class="qs"><div class="qn" style="color:var(--pol);">٢٢٠</div><div class="ql">صوت للفوز<br>من ٣٢٩ نائباً</div></div>
+</div>
+
+<div class="s1 bot">
+  <div class="sw">← اسحب لقراءة القصة كاملة</div>
+  <div class="dots"><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 2: PRESIDENTIAL ELECTION — BIG STORY
+══════════════════════════════════════════════════════ -->
+<div class="lbl">2/6 — PRESIDENTIAL ELECTION</div>
+<div class="slide s2" id="slide2">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav">
+    <div class="pg">٢ / ٦</div>
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div>
+    <div class="tag" style="background:var(--gold);color:#0a0a0a;">القصة الرئيسية</div>
+  </div>
+  <div class="ch">رئاسة الجمهورية</div>
+  <div class="title">غداً يُحسم — والكرد منقسمون<br>على أنفسهم</div>
+  <div class="sub">١١ أبريل، الساعة ١١ صباحاً · البرلمان يصوّت · مصير المنصب الكردي</div>
+</div>
+
+<!-- COUNTDOWN: 1 DAY -->
+<div class="countdown-card">
+  <div class="cd-num">١</div>
+  <div class="cd-unit">يوم</div>
+  <div class="cd-text">
+    <div class="cdt">الجلسة مؤكّدة — رئيس البرلمان: "التنسيق اكتمل"</div>
+    <div class="cdd">المنصب محجوز دستورياً للكرد منذ ٢٠٠٥ · رابع تأجيل منذ يناير · هذه المرة لا تأجيل</div>
+  </div>
+</div>
+
+<!-- KDP vs PUK -->
+<div class="matchup">
+  <div class="m-side" style="background:rgba(245,158,11,.05);">
+    <div class="party" style="color:var(--oil);">KDP — الحزب الديمقراطي</div>
+    <div class="name">فؤاد حسين</div>
+    <div class="role">وزير الخارجية · مواليد ١٩٤٦</div>
+    <div class="badge" style="background:rgba(245,158,11,.12);color:var(--oil);">مرشح بارزاني</div>
+  </div>
+  <div class="m-vs">VS</div>
+  <div class="m-side" style="background:rgba(59,130,246,.05);">
+    <div class="party" style="color:var(--pol);">PUK — الاتحاد الوطني</div>
+    <div class="name">نزار عميدي</div>
+    <div class="role">وزير البيئة سابقاً · مواليد ١٩٦٨</div>
+    <div class="badge" style="background:rgba(59,130,246,.12);color:var(--pol);">مرشح البيت الطالباني</div>
+  </div>
+</div>
+
+<!-- Constitutional mechanics -->
+<div class="mech-row">
+  <div class="mech-card">
+    <div class="mc-n" style="color:var(--gold);">٢٢٠</div>
+    <div class="mc-l">صوت للفوز<br>في الجولة الأولى<br>(ثلثا البرلمان)</div>
+  </div>
+  <div class="mech-card">
+    <div class="mc-n" style="color:var(--pol);">٣٢٩</div>
+    <div class="mc-l">إجمالي<br>مقاعد البرلمان<br>العراقي</div>
+  </div>
+  <div class="mech-card">
+    <div class="mc-n" style="color:var(--sec);">١٦٥</div>
+    <div class="mc-l">الأغلبية البسيطة<br>في الجولة الثانية<br>إن تعذّر الثلثان</div>
+  </div>
+  <div class="mech-card">
+    <div class="mc-n" style="color:rgba(255,255,255,.3);">٤</div>
+    <div class="mc-l">مرات أُجّلت<br>الجلسة منذ<br>يناير ٢٠٢٦</div>
+  </div>
+</div>
+
+<div class="s2 content">
+  <div class="story-card" style="border-right-color:var(--sec);">
+    <div class="sc-head">
+      <div class="sc-title" style="color:var(--sec);">مسعود بارزاني يُحذّر: "التسرّع يُعمّق الانقسامات"</div>
+      <div class="sc-badge" style="background:rgba(239,68,68,.12);color:var(--sec);">أمس</div>
+    </div>
+    <div class="sc-desc">رئيس KDP أرسل إشارة قلق رغم تأكيد الجلسة. الرسالة الضمنية: <span class="sc-highlight">لم يُحسم التوافق الكردي الداخلي حول المرشح</span>. KDP تريد فؤاد حسين. PUK ترفض إلا بعميدي. الحرب تُلقي بظلالها على كل حسابات التفاوض.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--pol);">
+    <div class="sc-head">
+      <div class="sc-title">ماذا يفعل الرئيس فعلاً في العراق؟</div>
+    </div>
+    <div class="sc-desc">منصب شرفي بصلاحيات محدودة دستورياً، لكنه <span class="sc-highlight">مفتاح "المحاصصة"</span> — توافق الكرد يُعني استقرار الحكومة بأكملها. الفشل اليوم = أزمة حكومية في ذروة الحرب.</div>
+  </div>
+</div>
+
+<div class="s2 bbar">
+  <div class="bf">المحاصصة: رئاسة الجمهورية للكرد · رئاسة الوزراء للشيعة · رئاسة البرلمان للسنة</div>
+  <div class="dots"><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 3: US-IRAQ RUPTURE + SECURITY MAP
+     NEW V7: SVG Iraq map of events
+══════════════════════════════════════════════════════ -->
+<div class="lbl">3/6 — US-IRAQ RUPTURE + SECURITY MAP</div>
+<div class="slide s3" id="slide3">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav">
+    <div class="pg">٣ / ٦</div>
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div>
+    <div class="tag" style="background:var(--sec);">دبلوماسية وأمن</div>
+  </div>
+  <div class="ch">أشدّ أزمة دبلوماسية منذ ٢٠٠٣</div>
+  <div class="title">واشنطن: بغداد تغطّي<br>على الميليشيات</div>
+  <div class="sub">٩ أبريل — وزارة الخارجية الأمريكية تستدعي السفير العراقي نزار خيرالله</div>
+</div>
+
+<div class="s3 split">
+  <!-- LEFT: Iraq event map (SVG) -->
+  <div class="map-col">
+    <div class="iraq-map-box">
+      <div class="map-title">خريطة الأحداث</div>
+      <!-- Simplified SVG map of Iraq with event markers -->
+      <svg viewBox="0 0 200 280" width="100%" style="display:block;" xmlns="http://www.w3.org/2000/svg">
+        <!-- Iraq outline (simplified polygon) -->
+        <polygon points="
+          80,10 120,10 145,22 158,35 162,55 170,70 168,90 160,105
+          155,120 158,140 152,160 145,175 130,185 118,200
+          110,220 105,240 95,248 85,248 78,235 72,215
+          65,198 55,182 48,165 42,150 38,135 35,118
+          40,100 38,82 45,65 52,48 60,30 68,18"
+          fill="rgba(255,255,255,.04)" stroke="rgba(255,255,255,.12)" stroke-width="1.5"/>
+
+        <!-- KURDISTAN region shading -->
+        <polygon points="80,10 120,10 145,22 158,35 162,55 155,72 138,80 120,78 105,72 95,65 88,50 80,35"
+          fill="rgba(59,130,246,.08)" stroke="rgba(59,130,246,.2)" stroke-width="1"/>
+
+        <!-- BASRA region shading -->
+        <polygon points="78,215 85,248 95,248 105,240 110,220 118,200 108,198 95,210 85,220"
+          fill="rgba(245,158,11,.08)" stroke="rgba(245,158,11,.15)" stroke-width="1"/>
+
+        <!-- Event dots -->
+        <!-- Baghdad (center) — US embassy alert -->
+        <circle cx="105" cy="148" r="8" fill="rgba(215,38,56,.3)" stroke="#D72638" stroke-width="1.5"/>
+        <circle cx="105" cy="148" r="4" fill="#D72638"/>
+        <text x="115" y="152" fill="rgba(255,255,255,.7)" font-size="9" font-family="Cairo,sans-serif">بغداد</text>
+
+        <!-- Erbil (Kurdistan) — presidential election -->
+        <circle cx="140" cy="62" r="7" fill="rgba(245,158,11,.3)" stroke="#F59E0B" stroke-width="1.5"/>
+        <circle cx="140" cy="62" r="3.5" fill="#F59E0B"/>
+        <text x="148" y="66" fill="rgba(255,255,255,.6)" font-size="8" font-family="Cairo,sans-serif">أربيل</text>
+
+        <!-- Duhok — Barzani home drone strike -->
+        <circle cx="118" cy="26" r="6" fill="rgba(239,68,68,.25)" stroke="#EF4444" stroke-width="1.5"/>
+        <circle cx="118" cy="26" r="3" fill="#EF4444"/>
+        <text x="126" y="30" fill="rgba(255,255,255,.5)" font-size="8" font-family="Cairo,sans-serif">دهوك</text>
+
+        <!-- Basra — drone attacks, Kuwait rockets -->
+        <circle cx="120" cy="228" r="8" fill="rgba(239,68,68,.3)" stroke="#EF4444" stroke-width="1.5"/>
+        <circle cx="120" cy="228" r="4" fill="#EF4444"/>
+        <text x="84" y="232" fill="rgba(255,255,255,.6)" font-size="9" font-family="Cairo,sans-serif">البصرة</text>
+
+        <!-- Rumaila oilfield (southwest of Basra) -->
+        <circle cx="100" cy="238" r="6" fill="rgba(245,158,11,.25)" stroke="#F59E0B" stroke-width="1.5"/>
+        <circle cx="100" cy="238" r="3" fill="#F59E0B"/>
+
+        <!-- Kirkuk -->
+        <circle cx="128" cy="100" r="5" fill="rgba(16,185,129,.25)" stroke="#10B981" stroke-width="1.5"/>
+        <circle cx="128" cy="100" r="2.5" fill="#10B981"/>
+        <text x="135" y="104" fill="rgba(255,255,255,.5)" font-size="8" font-family="Cairo,sans-serif">كركوك</text>
+
+        <!-- Legend -->
+        <circle cx="18" cy="258" r="4" fill="#D72638"/>
+        <text x="24" y="262" fill="rgba(255,255,255,.4)" font-size="7" font-family="Cairo,sans-serif">أمن/دبلوماسية</text>
+        <circle cx="18" cy="270" r="4" fill="#F59E0B"/>
+        <text x="24" y="274" fill="rgba(255,255,255,.4)" font-size="7" font-family="Cairo,sans-serif">نفط/سياسة</text>
+      </svg>
+    </div>
+  </div>
+
+  <!-- RIGHT: Event list -->
+  <div class="events-col">
+    <!-- US-Iraq rupture -->
+    <div class="ev-item" style="border-right-color:var(--red);">
+      <div class="ev-head">
+        <div class="ev-loc">بغداد — واشنطن</div>
+        <div class="ev-badge" style="background:rgba(239,68,68,.15);color:var(--red);">٩ أبريل</div>
+      </div>
+      <div class="ev-title">أمريكا تتهم بغداد: "تغطية سياسية ومالية وعملياتية للميليشيات"</div>
+      <div class="ev-desc">لاندو (وكيل الخارجية) يستدعي السفير خيرالله. المطلب: تفكيك الميليشيات المتحالفة مع إيران فوراً.</div>
+    </div>
+
+    <!-- Militia drone attacks on US embassy/airport -->
+    <div class="ev-item" style="border-right-color:var(--sec);">
+      <div class="ev-head">
+        <div class="ev-loc">بغداد — مطار بغداد الدولي</div>
+        <div class="ev-badge" style="background:rgba(239,68,68,.12);color:var(--sec);">٨ أبريل</div>
+      </div>
+      <div class="ev-title">مسيّرات تستهدف المركز الدبلوماسي الأمريكي والمطار</div>
+      <div class="ev-desc">السفارة الأمريكية: "احتمال هجمات إضافية — حالة التأهب القصوى". العراق مصنّف المستوى ٤: "لا تسافر".</div>
+    </div>
+
+    <!-- Kuwait rockets on Basra -->
+    <div class="ev-item" style="border-right-color:var(--oil);">
+      <div class="ev-head">
+        <div class="ev-loc">البصرة — قادمة من الكويت</div>
+        <div class="ev-badge" style="background:rgba(245,158,11,.12);color:var(--oil);">٧ أبريل</div>
+      </div>
+      <div class="ev-title">صواريخ من الأراضي الكويتية تقتل ٣ أشخاص — محتجّون يقتحمون القنصلية الكويتية</div>
+      <div class="ev-desc">الحادثة الأغرب في الأزمة. الكويت نفت أي علاقة. البصرة تحت توتر بالغ.</div>
+    </div>
+
+    <!-- Barzani home targeted -->
+    <div class="ev-item" style="border-right-color:var(--pol);">
+      <div class="ev-head">
+        <div class="ev-loc">دهوك — إقليم كردستان</div>
+        <div class="ev-badge" style="background:rgba(59,130,246,.12);color:var(--pol);">٢٨ مارس</div>
+      </div>
+      <div class="ev-title">مسيّرة تستهدف منزل الرئيس نيجيرفان بارزاني</div>
+      <div class="ev-desc">كان خارج المنزل. لا إصابات. ترامب: "دعمنا الكامل للعراق". توم باراك اتصل بنيجيرفان في ١ أبريل.</div>
+    </div>
+  </div>
+</div>
+
+<div class="s3 bbar">
+  <div class="bf">الحكومة العراقية: "لن نسمح باستخدام أراضينا منطلقاً لهجمات" — وواشنطن لم تُصدّق</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 4: OIL / HORMUZ / ELECTRICITY CRISIS
+══════════════════════════════════════════════════════ -->
+<div class="lbl">4/6 — OIL / HORMUZ / ELECTRICITY</div>
+<div class="slide s4" id="slide4">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav">
+    <div class="pg">٤ / ٦</div>
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div>
+    <div class="tag" style="background:var(--oil);color:#0a0a0a;">نفط وطاقة</div>
+  </div>
+  <div class="ch">هرمز يتنفّس — لكن أزمة الكهرباء تتفاقم</div>
+  <div class="title">أول ناقلة عراقية تعبر الضيق<br>منذ فبراير — وإيران تجني الثمن</div>
+  <div class="sub">Ocean Thunder · ١ مليون برميل · رسوم عبور $١ مليون/ناقلة · ١٧ مليون برميل تنتظر</div>
+</div>
+
+<!-- Oil before/after -->
+<div class="oil-compare">
+  <div class="oc-side" style="background:rgba(16,185,129,.05);">
+    <div class="oc-label" style="color:var(--eco);">قبل الحرب</div>
+    <div class="oc-num" style="color:var(--eco);">٣.٤M</div>
+    <div class="oc-unit">برميل / يوم (تصدير)</div>
+    <div class="oc-sub" style="color:var(--eco);">حصة أوبك+ الآن: ٤.٣M</div>
+  </div>
+  <div class="oc-arrow">→</div>
+  <div class="oc-side" style="background:rgba(215,38,56,.06);">
+    <div class="oc-label" style="color:var(--red);">اليوم</div>
+    <div class="oc-num" style="color:var(--red);">٩٠٠K</div>
+    <div class="oc-unit">انخفاض ٧٣٪</div>
+    <div class="oc-sub" style="color:var(--gold);">يمكن العودة خلال أسبوع واحد</div>
+  </div>
+</div>
+
+<!-- Metrics -->
+<div class="met-row">
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--oil);"></div>
+    <div class="mc-label">سعر البصرة</div>
+    <div class="mc-value" style="color:var(--oil);">$١٢٣</div>
+    <div class="mc-delta warn">+١٣٪ أسبوعياً</div>
+  </div>
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--eco);"></div>
+    <div class="mc-label">كركوك-جيهان</div>
+    <div class="mc-value" style="color:var(--eco);">٢٥٠K</div>
+    <div class="mc-delta up">يضخّ الآن</div>
+  </div>
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--red);"></div>
+    <div class="mc-label">الرميلة (BP)</div>
+    <div class="mc-value" style="color:var(--red);">٤٠٠K</div>
+    <div class="mc-delta dn">من ١.٣٥M</div>
+  </div>
+  <div class="met-card">
+    <div class="mc-top" style="background:rgba(255,255,255,.1);"></div>
+    <div class="mc-label">بالانتظار بالخليج</div>
+    <div class="mc-value" style="color:rgba(255,255,255,.5);">٢٠M</div>
+    <div class="mc-delta warn">برميل عائم</div>
+  </div>
+</div>
+
+<!-- NEW V7: Electricity crisis bar chart -->
+<div class="power-bar-box">
+  <div class="pb-title">
+    <span>أزمة الكهرباء — الطاقة المتاحة مقابل الاحتياج الصيفي</span>
+    <span class="pb-tag">أزمة قادمة</span>
+  </div>
+  <!-- Current (28%) -->
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+    <div style="width:72px;font-size:10px;color:rgba(255,255,255,.4);text-align:left;flex-shrink:0;">الآن</div>
+    <div class="pb-track" style="flex:1;">
+      <div class="pb-fill" style="width:28%;background:linear-gradient(90deg,#D72638,#EF4444);">
+        <span class="pb-fill-val" style="color:#fff;">١٤K</span>
+      </div>
+    </div>
+    <div style="font-size:10px;color:rgba(255,255,255,.3);width:30px;flex-shrink:0;">ميغاواط</div>
+  </div>
+  <!-- Summer demand (100%) -->
+  <div style="display:flex;align-items:center;gap:8px;">
+    <div style="width:72px;font-size:10px;color:rgba(255,255,255,.4);text-align:left;flex-shrink:0;">صيف ٢٠٢٦</div>
+    <div class="pb-track" style="flex:1;">
+      <div class="pb-fill" style="width:100%;background:linear-gradient(90deg,#10B981,#34D399);">
+        <span class="pb-fill-val">٥٠K</span>
+      </div>
+    </div>
+    <div style="font-size:10px;color:rgba(255,255,255,.3);width:30px;flex-shrink:0;">ميغاواط</div>
+  </div>
+  <div class="pb-labels" style="margin-top:5px;">
+    <span>إيران تغذّي ٤٠٪ من احتياج العراق للوقود · إمدادات الغاز انهارت من ١٩M إلى ٥M م³/يوم</span>
+    <span style="color:var(--red);font-weight:700;">عجز ٧٢٪</span>
+  </div>
+</div>
+
+<div class="s4 content">
+  <div class="story-card" style="border-right-color:var(--eco);">
+    <div class="sc-head">
+      <div class="sc-title" style="color:var(--eco);">رئيس نفط البصرة (رويترز حصري): "نعود لـ ٣.٤ مليون خلال أسبوع"</div>
+      <div class="sc-badge" style="background:rgba(16,185,129,.12);color:var(--eco);">٦ أبريل</div>
+    </div>
+    <div class="sc-desc">البنية التحتية سليمة. المخزونات جاهزة. الشرط الوحيد: <span class="sc-highlight">فتح هرمز بالكامل</span>. لكن الشرط السياسي أقوى من الجاهزية التقنية.</div>
+  </div>
+</div>
+
+<div class="s4 bbar">
+  <div class="bf">العراق يخسر ~$٢٠٠ مليون يومياً من إيرادات النفط المفقودة منذ فبراير</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 5: HUMAN STORY + WHAT TO WATCH
+══════════════════════════════════════════════════════ -->
+<div class="lbl">5/6 — HUMAN STORY + WHAT TO WATCH</div>
+<div class="slide s5" id="slide5">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav">
+    <div class="pg">٥ / ٦</div>
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div>
+    <div class="tag" style="background:var(--gold);color:#0a0a0a;">على الأرض</div>
+  </div>
+  <div class="ch">قصة وتطورات</div>
+  <div class="title">حين تصبح الحرب قصة فرد</div>
+</div>
+
+<!-- HUMAN STORY: Shelly Kittleson -->
+<div class="human-story">
+  <div class="hs-tag">قصة اليوم الإنسانية</div>
+  <div class="hs-title">شيلي كيتلسون — صحفية أمريكية حرّة تُطلق سراحها بعد ٧ أيام</div>
+  <div class="hs-desc">
+    اختطفتها <span class="hs-highlight">كتائب حزب الله</span> من شارع بغداد في <span class="hs-highlight">٣١ مارس</span>.
+    أُطلق سراحها في <span class="hs-highlight">٧ أبريل</span> بعد وساطة السوداني.
+    الثمن: الإفراج عن عدد من عناصر الكتائب المعتقلين بسبب هجمات على قاعدة أمريكية في سوريا.
+    روبيو: "مرتاحون لإطلاق سراح هذه الأمريكية — نعمل على مغادرتها الآمنة من العراق."
+  </div>
+  <div class="hs-swap">
+    <div class="hs-sw-item"><div class="swn" style="color:var(--eco);">٧</div><div class="swl">أيام في الأسر</div></div>
+    <div class="hs-sw-item"><div class="swn" style="color:var(--gold);">٤٩</div><div class="swl">عمرها بالسنوات</div></div>
+    <div class="hs-sw-item"><div class="swn" style="color:var(--red);">صفقة</div><div class="swl">تبادل محتجزين</div></div>
+    <div class="hs-sw-item"><div class="swn" style="color:rgba(255,255,255,.4);">فوراً</div><div class="swl">أُمرت بمغادرة العراق</div></div>
+  </div>
+</div>
+
+<!-- WHAT TO WATCH -->
+<div class="s5 watch">
+  <div class="wt"><span style="font-size:16px;">📌</span> ما نراقبه الأسبوع القادم</div>
+  <div class="wi">
+    <div class="wd" style="background:var(--gold);"></div>
+    <div style="flex:1;">
+      <div class="wl" style="color:var(--gold);">١١ أبريل — نتيجة التصويت الرئاسي</div>
+      <div class="wdesc">هل يصل أي مرشح لـ ٢٢٠ صوتاً؟ أم نحن أمام جولة ثانية وتأزّم جديد؟</div>
+    </div>
+  </div>
+  <div class="wi">
+    <div class="wd" style="background:var(--eco);"></div>
+    <div style="flex:1;">
+      <div class="wl" style="color:var(--eco);">هل تفتح إيران هرمز بالكامل؟</div>
+      <div class="wdesc">Ocean Thunder كانت الأولى — هل يصبح ممراً منتظماً أم حادثة منفردة؟</div>
+    </div>
+  </div>
+  <div class="wi">
+    <div class="wd" style="background:var(--red);"></div>
+    <div style="flex:1;">
+      <div class="wl" style="color:var(--red);">ردّ أمريكا على الميليشيات</div>
+      <div class="wdesc">بعد استدعاء السفير — هل تأتي عقوبات على البنك المركزي العراقي؟</div>
+    </div>
+  </div>
+  <div class="wi">
+    <div class="wd" style="background:var(--soc);"></div>
+    <div style="flex:1;">
+      <div class="wl" style="color:var(--soc);">٦,٠٠٠+ داعشي من سوريا في السجون العراقية</div>
+      <div class="wdesc">منظمة هيومن رايتس ووتش تحذّر من انتهاكات. لا شفافية في المحاكمات.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Data strip — fills remaining space -->
+<div class="data-strip">
+  <div class="ds-card"><div class="dsn" style="color:var(--red);">٣٠٠+</div><div class="dsl">هجوم ميليشيا على<br>أهداف أمريكية منذ فبراير</div></div>
+  <div class="ds-card"><div class="dsn" style="color:var(--soc);">٦,٠٠٠</div><div class="dsl">داعشي من سوريا<br>نقلوا للعراق</div></div>
+  <div class="ds-card"><div class="dsn" style="color:var(--eco);">١ أسبوع</div><div class="dsl">لاستعادة كامل<br>صادرات النفط</div></div>
+  <div class="ds-card"><div class="dsn" style="color:var(--gold);">٩٠٪</div><div class="dsl">من الإيرادات<br>تعتمد على النفط</div></div>
+</div>
+
+<div class="s5 bbar">
+  <div style="color:rgba(255,255,255,.3);font-size:12px;font-weight:700;">تحديث جديد كل ٢ ساعة — @photonect.news</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div></div>
+</div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════
+     SLIDE 6: SOURCES — 3-column, tight, no empty space
+══════════════════════════════════════════════════════ -->
+<div class="lbl">6/6 — SOURCES</div>
+<div class="slide s6" id="slide6">
+<div class="gl"></div>
+<div class="top">
+  <div class="logo" style="display:inline-flex;">
+    <div class="r" style="width:20px;height:6px;"></div>
+    <div class="n" style="font-size:20px;">PHOTONECT</div>
+    <div class="s">NEWS</div>
+  </div>
+</div>
+<div class="sep"></div>
+<div class="stitle">المصادر</div>
+<div class="ssub">لا نكذب — كل رقم قابل للتحقق بنفسك</div>
+<div class="sep"></div>
+
+<div class="srcs">
+  <div class="sr"><div class="sn">١</div><div class="sname">Al Jazeera</div></div>
+  <div class="sr"><div class="sn">٢</div><div class="sname">Reuters</div></div>
+  <div class="sr"><div class="sn">٣</div><div class="sname">Al-Monitor</div></div>
+  <div class="sr"><div class="sn">٤</div><div class="sname">Kurdistan24</div></div>
+  <div class="sr"><div class="sn">٥</div><div class="sname">Shafaq News</div></div>
+  <div class="sr"><div class="sn">٦</div><div class="sname">Iraq Business News</div></div>
+  <div class="sr"><div class="sn">٧</div><div class="sname">The National</div></div>
+  <div class="sr"><div class="sn">٨</div><div class="sname">Rudaw</div></div>
+  <div class="sr"><div class="sn">٩</div><div class="sname">US Embassy Baghdad</div></div>
+  <div class="sr"><div class="sn">١٠</div><div class="sname">State Dept.</div></div>
+  <div class="sr"><div class="sn">١١</div><div class="sname">Kpler (tanker data)</div></div>
+  <div class="sr"><div class="sn">١٢</div><div class="sname">Trading Economics</div></div>
+  <div class="sr"><div class="sn">١٣</div><div class="sname">HRW (ISIS prisoners)</div></div>
+  <div class="sr"><div class="sn">١٤</div><div class="sname">Long War Journal</div></div>
+  <div class="sr"><div class="sn">١٥</div><div class="sname">Washington Post</div></div>
+</div>
+
+<!-- Context box — adds value, fills space -->
+<div class="context-box">
+  <div class="cb-title">السياق الذي تحتاجه</div>
+  <div class="cb-text">
+    المحاصصة العراقية منذ ٢٠٠٥: رئاسة الجمهورية للكرد · رئاسة الوزراء للشيعة · رئاسة البرلمان للسنة.
+    العراق يعتمد على النفط لأكثر من ٩٠٪ من إيراداته الحكومية. إيران تغطي نحو ٤٠٪ من احتياج العراق للوقود وثلث كهربائه.
+    الميليشيات الموالية لإيران رسمياً جزء من قوات الحشد الشعبي، التي هي رسمياً جزء من الدولة العراقية.
+  </div>
+</div>
+
+<div class="credits">
+  <div class="credit-item">صورة الغلاف: بغداد — Wikimedia Commons (CC BY-SA 2.0) · صورة نصب الشهيد: Wikimedia Commons</div>
+  <div class="credit-item">بيانات النفط: Kpler, EIA, Iraq Business News · بيانات العملة: Trading Economics · بيانات الكهرباء: Shafaq News</div>
+</div>
+
+<div class="bottom">
+  <div class="follow">أخبار العراق والمنطقة — كل ساعتين</div>
+  <div class="handle">@photonect.news</div>
+  <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+  <div class="dots" style="margin-top:5px;"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div></div>
+</div>
+</div>
+
+</body>
+</html>

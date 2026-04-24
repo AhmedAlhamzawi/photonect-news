@@ -1,0 +1,93 @@
+{
+  "dateLabel": "{{DATE_LABEL}}",
+  "arabicDateLabel": "{{ARABIC_DATE_LABEL}}",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "{{TOPIC_BUCKET}}",
+
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "{{ARABIC_HEADLINE}}",
+    "englishSubhead": "{{ENGLISH_SUBHEAD}}",
+    "heroMedia": "images/news/{{SLUG}}/hero.mp4",
+    "heroMediaType": "video"
+  },
+
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "{{BEAT1_HEADING}}",
+      "arabicBody": "{{BEAT1_BODY}}",
+      "bigStat": {
+        "value": "{{BEAT1_STAT_VALUE}}",
+        "label": "{{BEAT1_STAT_EN_LABEL}}",
+        "arabicLabel": "{{BEAT1_STAT_AR_LABEL}}"
+      },
+      "supportingStats": [
+        { "label": "{{BEAT1_SS1_LABEL}}", "value": "{{BEAT1_SS1_VALUE}}" },
+        { "label": "{{BEAT1_SS2_LABEL}}", "value": "{{BEAT1_SS2_VALUE}}" },
+        { "label": "{{BEAT1_SS3_LABEL}}", "value": "{{BEAT1_SS3_VALUE}}" },
+        { "label": "{{BEAT1_SS4_LABEL}}", "value": "{{BEAT1_SS4_VALUE}}" }
+      ],
+      "broll": "images/news/{{SLUG}}/broll_1.mp4",
+      "brollType": "video",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "{{BEAT2_HEADING}}",
+      "arabicBody": "{{BEAT2_BODY}}",
+      "bigStat": {
+        "value": "{{BEAT2_STAT_VALUE}}",
+        "label": "{{BEAT2_STAT_EN_LABEL}}",
+        "arabicLabel": "{{BEAT2_STAT_AR_LABEL}}"
+      },
+      "supportingStats": [
+        { "label": "{{BEAT2_SS1_LABEL}}", "value": "{{BEAT2_SS1_VALUE}}" },
+        { "label": "{{BEAT2_SS2_LABEL}}", "value": "{{BEAT2_SS2_VALUE}}" },
+        { "label": "{{BEAT2_SS3_LABEL}}", "value": "{{BEAT2_SS3_VALUE}}" },
+        { "label": "{{BEAT2_SS4_LABEL}}", "value": "{{BEAT2_SS4_VALUE}}" }
+      ],
+      "broll": "images/news/{{SLUG}}/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "{{BEAT3_HEADING}}",
+      "arabicBody": "{{BEAT3_BODY}}",
+      "bigStat": {
+        "value": "{{BEAT3_STAT_VALUE}}",
+        "label": "{{BEAT3_STAT_EN_LABEL}}",
+        "arabicLabel": "{{BEAT3_STAT_AR_LABEL}}"
+      },
+      "supportingStats": [
+        { "label": "السيناريو الأول", "value": "{{BEAT3_SCEN1}}" },
+        { "label": "السيناريو الثاني", "value": "{{BEAT3_SCEN2}}" },
+        { "label": "السيناريو الثالث", "value": "{{BEAT3_SCEN3}}" }
+      ],
+      "broll": "images/news/{{SLUG}}/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#5B8FF9"
+    }
+  ],
+
+  "sources": [
+    { "name": "{{SRC1_NAME}}", "domain": "{{SRC1_DOMAIN}}" },
+    { "name": "{{SRC2_NAME}}", "domain": "{{SRC2_DOMAIN}}" },
+    { "name": "{{SRC3_NAME}}", "domain": "{{SRC3_DOMAIN}}" },
+    { "name": "{{SRC4_NAME}}", "domain": "{{SRC4_DOMAIN}}" },
+    { "name": "{{SRC5_NAME}}", "domain": "{{SRC5_DOMAIN}}" },
+    { "name": "{{SRC6_NAME}}", "domain": "{{SRC6_DOMAIN}}" }
+  ],
+
+  "arabicTicker": [
+    "{{TICKER1}}",
+    "{{TICKER2}}",
+    "{{TICKER3}}",
+    "{{TICKER4}}",
+    "{{TICKER5}}",
+    "{{TICKER6}}",
+    "{{TICKER7}}"
+  ]
+}

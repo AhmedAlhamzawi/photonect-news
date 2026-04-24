@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/bed_anchor.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "أمدي يؤدي اليمين فجراً: ٢٢٩ صوتاً ينهي ستة أشهر من الفراغ الحكومي",
+    "englishSubhead": "BAGHDAD • CABINET SWORN IN • 229-85",
+    "heroQueries": [
+      "Baghdad Council of Representatives hall",
+      "Iraqi parliament chamber voting",
+      "Iraq parliament building exterior",
+      "Baghdad Green Zone government complex",
+      "Tigris river Baghdad aerial"
+    ],
+    "heroMedia": "images/news/2026-04-22-cabinet-sworn/hero.mp4",
+    "heroMediaType": "video"
+  },
+  "beats": [
+    {
+      "label": "النصاب",
+      "arabicHeading": "٢٢٩ نعم و٨٥ لا — التصويت استغرق خمس عشرة دقيقة بعد جدل ليلي",
+      "arabicBody": "التئم البرلمان عند منتصف الليل ليصوّت لصالح حكومة رئيس الوزراء أمدي بعد ستة أشهر من الفراغ الحكومي في بغداد، مع تحفظ الإطار التنسيقي على ثلاث حقائب سيادية",
+      "bigStat": {
+        "value": "229",
+        "label": "yes votes for cabinet",
+        "arabicLabel": "صوتاً لتمرير الحكومة"
+      },
+      "supportingStats": [
+        {
+          "label": "ضد",
+          "value": "85"
+        },
+        {
+          "label": "ممتنع",
+          "value": "10"
+        },
+        {
+          "label": "مدة النقاش",
+          "value": "15 د"
+        }
+      ],
+      "broll": "images/news/2026-04-22-cabinet-sworn/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    },
+    {
+      "label": "الصفقة الكردية",
+      "arabicHeading": "٥٢ صوتاً كردياً مقابل حصة نفط وحاكم كركوك — أعلى ثمن منذ ٢٠١٤",
+      "arabicBody": "الديمقراطي الكردستاني والاتحاد الوطني أمّنا النصاب مقابل رفع حصة الإقليم إلى ١٢.٦٧ بالمئة وحاكمية كركوك، وهو أكبر استحقاق كردي منذ اتفاق ٢٠١٤ التاريخي",
+      "bigStat": {
+        "value": "12.67%",
+        "label": "new Kurdish oil share",
+        "arabicLabel": "حصة الإقليم الجديدة"
+      },
+      "supportingStats": [
+        {
+          "label": "أصوات كردية",
+          "value": "52"
+        },
+        {
+          "label": "حاكمية كركوك",
+          "value": "1"
+        },
+        {
+          "label": "حقائب وزارية",
+          "value": "12"
+        }
+      ],
+      "broll": "images/news/2026-04-22-cabinet-sworn/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    },
+    {
+      "label": "العد التنازلي",
+      "arabicHeading": "خطة المئة يوم: موازنة ٢٤ مليار دولار وكهرباء ١١ ساعة يومياً",
+      "arabicBody": "أمدي أعلن أولويات عاجلة تتضمن تمرير الموازنة في ثلاثين يوماً ورفع التقاعد مرتين ورفع معدل الكهرباء إلى إحدى عشرة ساعة قبل حلول صيف بغداد",
+      "bigStat": {
+        "value": "100",
+        "label": "day action plan",
+        "arabicLabel": "يوم خطة طارئة"
+      },
+      "supportingStats": [
+        {
+          "label": "موازنة مقترحة",
+          "value": "$24B"
+        },
+        {
+          "label": "رفع التقاعد",
+          "value": "2×"
+        },
+        {
+          "label": "ساعات كهرباء",
+          "value": "11 س"
+        }
+      ],
+      "broll": "images/news/2026-04-22-cabinet-sworn/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al-Mada",
+      "domain": "almadapaper.net"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس الوزراء العراقي أمدي يؤدي اليمين الدستورية فجر الأربعاء بعد تمرير حكومته بـ٢٢٩ صوتاً",
+    "خمسة وثمانون نائباً صوّتوا ضد التشكيلة وعشرة امتنعوا في جلسة استغرقت خمس عشرة دقيقة فقط",
+    "الاتفاق الكردي: ٥٢ صوتاً مقابل ١٢.٦٧٪ من إيرادات النفط وحاكمية كركوك للديمقراطي الكردستاني",
+    "الإطار التنسيقي يحتفظ بالحقائب السيادية الثلاث: الداخلية والمالية والنفط",
+    "أمدي يعلن خطة طارئة مدتها مئة يوم تتصدرها موازنة الحكومة الأولى منذ ستة أشهر",
+    "الرئيس الأميركي يهنئ بغداد عبر مكالمة رسمية مع ضمان بقاء قاعدة عين الأسد",
+    "البورصة العراقية ترتفع ٣.٢٪ في افتتاح تعامل الأربعاء ردّاً على نهاية الفراغ"
+  ]
+}

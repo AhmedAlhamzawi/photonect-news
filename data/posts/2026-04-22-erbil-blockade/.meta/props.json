@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/bed_weight.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "أربيل–بغداد مقطوع: المحتجون يوقفون تدفق النفط إلى صفر",
+    "englishSubhead": "ERBIL–BAGHDAD ROAD BLOCKED • 0 BPD • 48H",
+    "heroQueries": [
+      "Kurdistan landscape Iraq",
+      "Erbil citadel skyline",
+      "Kirkuk oil pipeline",
+      "Kurdish peshmerga checkpoint road",
+      "Sulaymaniyah mountains aerial"
+    ],
+    "heroMedia": "images/news/2026-04-22-erbil-blockade/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الخط صفر",
+      "arabicHeading": "١٤ نقطة تفتيش مغلقة منذ الفجر — ٤٠٠ ألف برميل يومياً متوقفة",
+      "arabicBody": "محتجون أكراد قطعوا الطريق الدولي السريع بين أربيل وبغداد عند أربع عشرة نقطة تفتيش منذ السادسة صباحاً، وأوقفوا تدفق النفط عبر الأنبوب الشمالي إلى صفر، مع خطط إعلان إضراب لمدة ثمان وأربعين ساعة",
+      "bigStat": {
+        "value": "0",
+        "label": "bpd flowing northward now",
+        "arabicLabel": "برميل يتدفق شمالاً الآن"
+      },
+      "supportingStats": [
+        {
+          "label": "نقاط مغلقة",
+          "value": "14"
+        },
+        {
+          "label": "نفط موقوف",
+          "value": "400K bpd"
+        },
+        {
+          "label": "مدة الحصار",
+          "value": "48س"
+        }
+      ],
+      "broll": "images/news/2026-04-22-erbil-blockade/broll_1.mp4",
+      "brollType": "video",
+      "accent": "#E8B923"
+    },
+    {
+      "label": "الجذر",
+      "arabicHeading": "حكومة الإقليم: موازنة أمدي قطعت ٢٢٪ من حصتنا — خسارة ٤٢٠ مليون",
+      "arabicBody": "حكومة كردستان تتهم الموازنة الاتحادية الجديدة بقطع اثنين وعشرين بالمئة من حصة الإقليم في إيرادات النفط، ما يعادل خسارة شهرية تقدر بأربعمئة وعشرين مليون دولار على اثني عشر محافظة كردية",
+      "bigStat": {
+        "value": "−22%",
+        "label": "Kurdish revenue share cut",
+        "arabicLabel": "تقليص حصة الإقليم"
+      },
+      "supportingStats": [
+        {
+          "label": "خسارة شهرية",
+          "value": "$420M"
+        },
+        {
+          "label": "محافظات متأثرة",
+          "value": "12"
+        },
+        {
+          "label": "وزراء في بغداد",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-erbil-blockade/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#E8B923"
+    },
+    {
+      "label": "القنوات المفتوحة",
+      "arabicHeading": "يوناما تعرض الوساطة، طهران تساند الإقليم، واشنطن تلتزم الصمت",
+      "arabicBody": "بعثة الأمم المتحدة يوناما عرضت الوساطة خلال أربع وعشرين ساعة، وساندت طهران موقف الإقليم في بيان مفاجئ، بينما التزمت واشنطن الصمت رغم ضغط سفارة بغداد على إدارة ترامب للتدخل",
+      "bigStat": {
+        "value": "3",
+        "label": "regional mediators",
+        "arabicLabel": "لاعبون دوليون ملفاً"
+      },
+      "supportingStats": [
+        {
+          "label": "وساطة أممية",
+          "value": "UNAMI"
+        },
+        {
+          "label": "دعم إيراني",
+          "value": "علني"
+        },
+        {
+          "label": "واشنطن",
+          "value": "صمت"
+        }
+      ],
+      "broll": "images/news/2026-04-22-erbil-blockade/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#E8B923"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "محتجون أكراد يقطعون الطريق الدولي السريع بين أربيل وبغداد منذ السادسة صباح الأربعاء",
+    "أربع عشرة نقطة تفتيش مغلقة بشكل كامل على المحور الرئيسي ربط الإقليم بالعاصمة",
+    "تدفق النفط عبر الأنبوب الشمالي عند صفر — أربعمئة ألف برميل يومياً متوقف بالكامل",
+    "حكومة كردستان تتهم موازنة أمدي بقطع اثنين وعشرين بالمئة من حصة الإقليم",
+    "خسارة شهرية مقدرة بأربعمئة وعشرين مليون دولار على اثنتي عشرة محافظة كردية",
+    "بعثة الأمم المتحدة يوناما تعرض الوساطة بين أربيل وبغداد خلال أربع وعشرين ساعة",
+    "طهران تساند موقف حكومة الإقليم في بيان رسمي مفاجئ، وواشنطن تلتزم الصمت"
+  ]
+}

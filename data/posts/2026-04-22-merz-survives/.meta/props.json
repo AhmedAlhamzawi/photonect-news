@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "C",
+  "audioBed": "audio/bed_ambient_syn.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ميرتس ينجو بفارق ثلاثة أصوات — ٣٦٤ مقابل ٣٦١ في البوندستاغ",
+    "englishSubhead": "BERLIN • MERZ SURVIVES BY 3 VOTES",
+    "heroQueries": [
+      "Bundestag Reichstag Berlin interior",
+      "Reichstag building Berlin dome",
+      "Berlin Brandenburg Gate evening",
+      "German flag parliament",
+      "Berlin Mitte architecture"
+    ],
+    "heroMedia": "images/news/2026-04-22-merz-survives/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "بالثلاثة",
+      "arabicHeading": "٣٦٤ ضد حجب الثقة، ٣٦١ مع — اثنا عشر امتناعاً أنقذت الحكومة",
+      "arabicBody": "المستشار الألماني فريدريش ميرتس نجا من تصويت حجب الثقة في البوندستاغ مساء الأربعاء بفارق ثلاثة أصوات فقط، في ختام أسبوع من الضغط الشعبي على خلفية احتجاجات برلين",
+      "bigStat": {
+        "value": "3",
+        "label": "vote margin of survival",
+        "arabicLabel": "فارق النجاة الهش"
+      },
+      "supportingStats": [
+        {
+          "label": "ضد حجب الثقة",
+          "value": "364"
+        },
+        {
+          "label": "مع الحجب",
+          "value": "361"
+        },
+        {
+          "label": "ممتنع",
+          "value": "12"
+        }
+      ],
+      "broll": "images/news/2026-04-22-merz-survives/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    },
+    {
+      "label": "الخلاف الداخلي",
+      "arabicHeading": "الحزب الديمقراطي الحر يعلن انسحاب ٤ وزراء خلال ٧٢ ساعة",
+      "arabicBody": "أعلن شريك الائتلاف الليبرالي انسحاب أربعة وزراء من حكومة ميرتس غداة النجاة الهشة، ما يفتح فراغاً وزارياً خطيراً قبل ميزانية ٢٠٢٧ المرتقبة وجلسة الناتو في بروكسل",
+      "bigStat": {
+        "value": "4",
+        "label": "FDP ministers resigning",
+        "arabicLabel": "وزراء منسحبون"
+      },
+      "supportingStats": [
+        {
+          "label": "مهلة ائتلاف",
+          "value": "72 س"
+        },
+        {
+          "label": "تراجع في استطلاع",
+          "value": "−12%"
+        },
+        {
+          "label": "منصب شاغر",
+          "value": "4"
+        }
+      ],
+      "broll": "images/news/2026-04-22-merz-survives/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    },
+    {
+      "label": "الاحتمالات",
+      "arabicHeading": "انتخابات مبكّرة في سبتمبر، أو إعادة تشكيل، أو ٢٠٢٧ نهاية الولاية",
+      "arabicBody": "ثلاثة سيناريوهات مطروحة: انتخابات مبكّرة تحت ضغط إس بي دي، أو إعادة تشكيل ائتلافي يضم الخضر والاشتراكيين الديمقراطيين، أو الصمود حتى موعد ٢٠٢٧ الدستوري",
+      "bigStat": {
+        "value": "3",
+        "label": "open paths forward",
+        "arabicLabel": "مسارات محتملة"
+      },
+      "supportingStats": [
+        {
+          "label": "انتخابات مبكّرة",
+          "value": "سبتمبر"
+        },
+        {
+          "label": "شائعات ائتلاف",
+          "value": "CDU+SPD"
+        },
+        {
+          "label": "نهاية دستورية",
+          "value": "2027"
+        }
+      ],
+      "broll": "images/news/2026-04-22-merz-survives/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Der Spiegel",
+      "domain": "spiegel.de"
+    },
+    {
+      "name": "Deutsche Welle",
+      "domain": "dw.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Frankfurter Allgemeine",
+      "domain": "faz.net"
+    }
+  ],
+  "arabicTicker": [
+    "المستشار الألماني فريدريش ميرتس ينجو من حجب الثقة في البوندستاغ بفارق ثلاثة أصوات فقط",
+    "٣٦٤ ضد حجب الثقة مقابل ٣٦١ مع — اثنا عشر امتناعاً حاسماً من الخضر أنقذ الائتلاف",
+    "الحزب الديمقراطي الحر يُعلن انسحاب أربعة وزراء من حكومة ميرتس خلال اثنتين وسبعين ساعة",
+    "تراجع حزب ميرتس الاتحادي اثني عشر نقطة في استطلاعات يومية منذ احتجاج خمسمئة ألف ببرلين",
+    "الاحتمالات الثلاثة: انتخابات مبكّرة سبتمبر، إعادة تشكيل مع اشتراكيين ديمقراطيين، أو الصمود حتى ٢٠٢٧",
+    "اليورو يرتفع بشكل طفيف في تعاملات فرانكفورت بعد نجاة المستشار من الأزمة السياسية",
+    "قمة الناتو المقررة في بروكسل الشهر المقبل قد تتأجل بسبب الفراغ الوزاري المرتقب"
+  ]
+}

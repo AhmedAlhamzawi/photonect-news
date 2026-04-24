@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Photonect NEWS V4 — Iran War Day 39</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#080808;display:flex;flex-direction:column;align-items:center;gap:24px;padding:24px;font-family:'Tajawal','Cairo',sans-serif;}
+.lbl{color:#444;font:11px monospace;margin-bottom:-16px;}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;flex-shrink:0;font-family:'Tajawal','Cairo',sans-serif;background:#141414;}
+
+/* Logo */
+.logo{display:inline-flex;flex-direction:column;align-items:center;gap:1px;}
+.logo .r{width:20px;height:6px;background:#D72638;border-radius:1px;}
+.logo .n{font-family:'Cairo';font-weight:900;font-size:18px;letter-spacing:3px;color:#fff;line-height:1.1;}
+.logo .s{font-family:'Cairo';font-weight:800;font-size:9px;letter-spacing:5px;color:#FFC217;}
+
+/* Common */
+.nav{display:flex;justify-content:space-between;align-items:center;padding:18px 45px;}
+.nav .pg{color:rgba(255,255,255,.3);font-size:12px;font-weight:600;font-family:'Cairo',monospace;direction:ltr;}
+.tag{background:#D72638;color:#fff;padding:4px 16px;border-radius:16px;font-size:12px;font-weight:800;letter-spacing:1px;}
+.tag.gold{background:#FFC217;color:#1a1a1a;}
+.dots{display:flex;gap:8px;justify-content:center;padding:10px 0;}
+.dots .d{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.12);}
+.dots .d.a{background:#FFC217;width:20px;border-radius:4px;}
+.pbar{height:5px;border-radius:3px;background:rgba(255,255,255,.08);overflow:hidden;}
+.pbar .f{height:100%;border-radius:3px;}
+
+/* ==== SLIDE 1: COVER ==== */
+.s1{background:#0d0d0d;}
+.s1 .bg{position:absolute;inset:0;background:url('./images/dark_globe.jpg') center/cover;opacity:.5;}
+.s1 .overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(13,13,13,.3) 0%,rgba(13,13,13,.6) 40%,rgba(13,13,13,.95) 75%,#0d0d0d 100%);}
+.s1 .red-line{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,#D72638,#FFC217);}
+.s1 .content{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;}
+.s1 .hero{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:0 60px;}
+.s1 .day-num{font-size:160px;font-weight:900;color:#D72638;line-height:.85;font-family:'Cairo';text-shadow:0 0 80px rgba(215,38,56,.4);}
+.s1 .day-label{font-size:28px;font-weight:800;color:#FFC217;letter-spacing:6px;margin-top:10px;}
+.s1 .title{font-size:42px;font-weight:900;color:#fff;line-height:1.3;margin-top:30px;}
+.s1 .subtitle{font-size:20px;font-weight:500;color:rgba(255,255,255,.45);margin-top:16px;line-height:1.6;}
+.s1 .tonight-box{margin:30px 60px 0;background:rgba(215,38,56,.12);border:2px solid rgba(215,38,56,.4);border-radius:16px;padding:20px 30px;text-align:center;}
+.s1 .tonight-box .t1{color:#D72638;font-size:15px;font-weight:800;letter-spacing:3px;}
+.s1 .tonight-box .t2{color:#fff;font-size:24px;font-weight:900;margin-top:6px;}
+.s1 .tonight-box .t3{color:rgba(255,255,255,.4);font-size:14px;margin-top:6px;}
+.s1 .bottom{padding:20px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s1 .bottom .swipe{color:#FFC217;font-size:16px;font-weight:800;display:flex;align-items:center;gap:8px;}
+
+/* ==== SLIDE 2: THE STRIKE ==== */
+.s2{background:#0d0d0d;position:relative;}
+.s2 .bg2{position:absolute;inset:0;background:url('./images/fire.jpg') center/cover;opacity:.15;}
+.s2 .header{background:linear-gradient(180deg,#1a0a0c,#0d0d0d);padding:18px 45px 40px;}
+.s2 .chapter{color:#D72638;font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;}
+.s2 .title{color:#fff;font-size:44px;font-weight:900;line-height:1.2;margin-bottom:8px;}
+.s2 .date-line{color:#FFC217;font-size:18px;font-weight:700;}
+.s2 .hero-stat{text-align:center;padding:30px 45px 20px;}
+.s2 .hero-stat .num{font-size:110px;font-weight:900;color:#D72638;font-family:'Cairo';line-height:.9;text-shadow:0 0 60px rgba(215,38,56,.3);}
+.s2 .hero-stat .label{font-size:22px;color:rgba(255,255,255,.6);font-weight:700;margin-top:8px;}
+.s2 .hero-stat .sub{font-size:15px;color:rgba(255,255,255,.3);margin-top:4px;}
+.s2 .facts{padding:0 45px;display:flex;flex-direction:column;gap:10px;}
+.s2 .fact{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:18px 22px;display:flex;gap:14px;align-items:flex-start;}
+.s2 .fact .icon{width:40px;height:40px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+.s2 .fact .ft{color:#fff;font-size:16px;font-weight:700;margin-bottom:3px;}
+.s2 .fact .fd{color:rgba(255,255,255,.4);font-size:14px;line-height:1.5;}
+.s2 .quote{margin:20px 45px 0;padding:20px 24px;border-right:4px solid #FFC217;background:rgba(255,194,23,.05);}
+.s2 .quote .qt{color:rgba(255,255,255,.6);font-size:15px;font-style:italic;line-height:1.7;}
+.s2 .quote .qa{color:#FFC217;font-size:13px;margin-top:6px;font-weight:700;}
+.s2 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:1;background:rgba(215,38,56,.08);border-top:1px solid rgba(215,38,56,.2);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s2 .bbar .bf{color:#D72638;font-size:13px;font-weight:700;}
+
+/* ==== SLIDE 3: IRAN STRIKES BACK ==== */
+.s3{background:#0d0d0d;position:relative;}
+.s3 .bg3{position:absolute;inset:0;background:url('./images/carrier_strike.jpg') center/cover;opacity:.12;}
+.s3 .header{background:linear-gradient(180deg,#1a1408,#0d0d0d);padding:18px 45px 35px;}
+.s3 .chapter{color:#FFC217;font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;}
+.s3 .title{color:#fff;font-size:42px;font-weight:900;line-height:1.2;margin-bottom:8px;}
+.s3 .sub{color:rgba(255,255,255,.4);font-size:17px;}
+.s3 .arsenal{display:flex;gap:14px;padding:20px 45px;margin-top:5px;}
+.s3 .ars{flex:1;background:rgba(255,194,23,.06);border:1px solid rgba(255,194,23,.15);border-radius:16px;padding:22px 16px;text-align:center;}
+.s3 .ars .an{font-size:44px;font-weight:900;color:#FFC217;font-family:'Cairo';line-height:1;}
+.s3 .ars .al{font-size:14px;color:rgba(255,255,255,.5);font-weight:600;margin-top:6px;}
+.s3 .ars .au{font-size:11px;color:rgba(255,255,255,.25);margin-top:2px;}
+.s3 .stories{padding:0 45px;display:flex;flex-direction:column;gap:10px;}
+.s3 .story{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:18px 22px;border-right:4px solid;}
+.s3 .story .st{font-size:17px;font-weight:800;margin-bottom:5px;}
+.s3 .story .sd{font-size:14px;color:rgba(255,255,255,.4);line-height:1.6;}
+.s3 .story .highlight{color:#FFC217;font-weight:700;}
+.s3 .drop-stat{margin:15px 45px 0;text-align:center;padding:16px;background:rgba(255,255,255,.03);border-radius:12px;}
+.s3 .drop-stat .ds-num{font-size:28px;font-weight:900;font-family:'Cairo';}
+.s3 .drop-stat .ds-lbl{font-size:13px;color:rgba(255,255,255,.35);margin-top:2px;}
+.s3 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:1;background:rgba(255,194,23,.06);border-top:1px solid rgba(255,194,23,.15);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s3 .bbar .bf{color:#FFC217;font-size:13px;font-weight:700;}
+
+/* ==== SLIDE 4: THE STRAIT ==== */
+.s4{background:#0d0d0d;position:relative;}
+.s4 .bg4{position:absolute;inset:0;background:url('./images/strait.jpg') center/cover;opacity:.15;}
+.s4 .header{background:linear-gradient(180deg,#0d1a0d,#0d0d0d);padding:18px 45px 30px;}
+.s4 .chapter{color:#4CAF50;font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;}
+.s4 .title{color:#fff;font-size:42px;font-weight:900;line-height:1.2;margin-bottom:8px;}
+.s4 .sub{color:rgba(255,255,255,.4);font-size:17px;}
+.s4 .price-compare{display:flex;gap:0;margin:20px 45px 0;border-radius:16px;overflow:hidden;}
+.s4 .pc{flex:1;text-align:center;padding:24px 16px;}
+.s4 .pc .pn{font-size:48px;font-weight:900;font-family:'Cairo';line-height:1;}
+.s4 .pc .pl{font-size:14px;font-weight:600;margin-top:6px;}
+.s4 .pc .pp{font-size:12px;margin-top:2px;}
+.s4 .arrow-col{display:flex;align-items:center;justify-content:center;font-size:32px;padding:0 10px;}
+.s4 .impact-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:15px 45px;}
+.s4 .ig{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:20px;text-align:center;}
+.s4 .ig .in{font-size:32px;font-weight:900;font-family:'Cairo';line-height:1;}
+.s4 .ig .il{font-size:14px;color:rgba(255,255,255,.5);font-weight:600;margin-top:6px;line-height:1.3;}
+.s4 .chart-section{margin:15px 45px 0;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:20px;position:relative;}
+.s4 .chart-section .ct{color:rgba(255,255,255,.35);font-size:13px;font-weight:700;margin-bottom:10px;}
+.s4 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:1;background:rgba(76,175,80,.06);border-top:1px solid rgba(76,175,80,.15);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s4 .bbar .bf{color:#4CAF50;font-size:13px;font-weight:700;}
+
+/* ==== SLIDE 5: TONIGHT ==== */
+.s5{background:#0d0d0d;position:relative;}
+.s5 .bg5{position:absolute;inset:0;background:url('./images/trump_warroom.jpg') center/cover;opacity:.1;}
+.s5 .header{background:linear-gradient(180deg,#1a0808,#0d0d0d);padding:18px 45px 30px;position:relative;overflow:hidden;}
+.s5 .pulse{position:absolute;top:50%;right:50%;width:300px;height:300px;background:radial-gradient(circle,rgba(215,38,56,.15),transparent);transform:translate(50%,-50%);border-radius:50%;}
+.s5 .chapter{color:#D72638;font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;position:relative;}
+.s5 .title{color:#fff;font-size:40px;font-weight:900;line-height:1.2;margin-bottom:8px;position:relative;}
+.s5 .sub{color:rgba(255,255,255,.4);font-size:17px;position:relative;}
+.s5 .countdown{margin:20px 45px;background:linear-gradient(135deg,rgba(215,38,56,.15),rgba(215,38,56,.05));border:2px solid #D72638;border-radius:20px;padding:30px;text-align:center;position:relative;overflow:hidden;}
+.s5 .countdown .scan{position:absolute;top:0;left:0;right:0;height:5px;background:repeating-linear-gradient(90deg,#D72638 0px,#D72638 12px,transparent 12px,transparent 20px);}
+.s5 .countdown .cl{color:#D72638;font-size:14px;font-weight:800;letter-spacing:4px;margin-top:8px;}
+.s5 .countdown .ct{font-size:56px;font-weight:900;color:#fff;font-family:'Cairo',monospace;margin:8px 0;direction:ltr;}
+.s5 .countdown .cd{color:#FFC217;font-size:18px;font-weight:700;}
+.s5 .countdown .cs{color:rgba(255,255,255,.35);font-size:14px;margin-top:8px;}
+.s5 .vs{display:flex;gap:0;margin:20px 45px;border-radius:16px;overflow:hidden;border:1px solid rgba(255,255,255,.08);}
+.s5 .vs-side{flex:1;padding:24px 20px;}
+.s5 .vs-side .vt{font-size:16px;font-weight:800;margin-bottom:10px;}
+.s5 .vs-side .vi{font-size:14px;color:rgba(255,255,255,.45);line-height:1.7;}
+.s5 .vs-mid{width:50px;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:900;color:rgba(255,255,255,.2);}
+.s5 .trump-quote{margin:15px 45px 0;padding:22px;background:rgba(215,38,56,.08);border:1px solid rgba(215,38,56,.2);border-radius:14px;text-align:center;}
+.s5 .trump-quote .tq{font-size:22px;font-weight:900;color:#D72638;line-height:1.4;}
+.s5 .trump-quote .ta{font-size:13px;color:rgba(255,255,255,.3);margin-top:8px;}
+.s5 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:1;background:#D72638;padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s5 .bbar .bf{color:#fff;font-size:13px;font-weight:700;}
+
+/* ==== SLIDE 6: THE COST ==== */
+.s6{background:#0d0d0d;position:relative;}
+.s6 .bg6{position:absolute;inset:0;background:url('./images/clock.jpg') center/cover;opacity:.08;}
+.s6 .header{padding:18px 45px 20px;}
+.s6 .chapter{color:rgba(255,255,255,.3);font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;}
+.s6 .title{color:#fff;font-size:44px;font-weight:900;line-height:1.2;margin-bottom:8px;}
+.s6 .sub{color:rgba(255,255,255,.4);font-size:17px;}
+.s6 .death-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:15px 45px;}
+.s6 .dg{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:20px;position:relative;overflow:hidden;}
+.s6 .dg .dn{font-size:38px;font-weight:900;font-family:'Cairo';line-height:1;}
+.s6 .dg .dl{font-size:15px;font-weight:700;margin-top:4px;}
+.s6 .dg .ds{font-size:12px;color:rgba(255,255,255,.3);margin-top:2px;}
+.s6 .dg .bar{margin-top:10px;}
+.s6 .big-cost{margin:15px 45px;background:rgba(215,38,56,.08);border:1px solid rgba(215,38,56,.15);border-radius:18px;padding:28px;text-align:center;}
+.s6 .big-cost .bc-num{font-size:72px;font-weight:900;color:#D72638;font-family:'Cairo';line-height:.9;}
+.s6 .big-cost .bc-label{font-size:18px;color:rgba(255,255,255,.5);font-weight:700;margin-top:8px;}
+.s6 .big-cost .bc-sub{font-size:14px;color:rgba(255,255,255,.25);margin-top:4px;}
+.s6 .human{padding:10px 45px;display:flex;flex-direction:column;gap:10px;}
+.s6 .human .h-card{background:rgba(255,255,255,.03);border-radius:12px;padding:16px 20px;border-right:4px solid;}
+.s6 .human .h-card .ht{font-size:15px;font-weight:700;margin-bottom:3px;}
+.s6 .human .h-card .hd{font-size:13px;color:rgba(255,255,255,.35);line-height:1.5;}
+.s6 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:1;background:rgba(255,255,255,.03);border-top:1px solid rgba(255,255,255,.06);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s6 .bbar .bf{color:rgba(255,255,255,.4);font-size:13px;font-weight:700;}
+
+/* ==== SLIDE 7: SOURCES ==== */
+.s7{background:#0d0d0d;}
+.s7 .top{text-align:center;padding:35px 45px 15px;}
+.s7 .sep{height:1px;background:rgba(255,255,255,.06);margin:0 80px;}
+.s7 .stitle{text-align:center;font-size:36px;font-weight:900;color:#fff;margin:12px 0 6px;}
+.s7 .ssub{text-align:center;font-size:15px;color:rgba(255,255,255,.3);margin-bottom:8px;}
+.s7 .sources{padding:5px 45px;display:flex;flex-direction:column;gap:7px;}
+.s7 .src{display:flex;align-items:center;gap:12px;padding:12px 16px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.05);border-radius:10px;}
+.s7 .src .sn{background:#FFC217;color:#0d0d0d;min-width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:900;font-family:'Cairo',monospace;flex-shrink:0;}
+.s7 .src .si{flex:1;}
+.s7 .src .sname{color:#fff;font-size:14px;font-weight:700;}
+.s7 .src .surl{color:rgba(255,255,255,.2);font-size:10px;font-family:monospace;direction:ltr;display:inline-block;}
+.s7 .src .sg{width:3px;height:24px;background:#FFC217;border-radius:2px;flex-shrink:0;}
+.s7 .bottom{position:absolute;bottom:0;left:0;right:0;text-align:center;padding:20px 45px;}
+.s7 .follow{color:rgba(255,255,255,.35);font-size:14px;font-weight:600;}
+.s7 .handle{color:#FFC217;font-size:22px;font-weight:900;direction:ltr;display:inline-block;margin-top:4px;}
+.s7 .tagline{color:rgba(255,255,255,.15);font-size:12px;margin-top:4px;}
+</style>
+</head>
+<body>
+
+<!-- ==== SLIDE 1: COVER ==== -->
+<div class="lbl">1/7</div>
+<div class="slide s1" id="slide1">
+  <div class="bg"></div>
+  <div class="overlay"></div>
+  <div class="red-line"></div>
+  <div class="content">
+    <div class="nav">
+      <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+      <div style="display:flex;align-items:center;gap:8px;"><div style="width:8px;height:8px;border-radius:50%;background:#D72638;box-shadow:0 0 8px #D72638;"></div><span style="color:rgba(255,255,255,.6);font-size:14px;font-weight:700;">٧ أبريل ٢٠٢٦</span></div>
+    </div>
+
+    <div class="hero">
+      <div class="day-label">حرب إيران — اليوم</div>
+      <div class="day-num">٣٩</div>
+      <div class="title">أخطر ٢٤ ساعة<br>منذ بداية الحرب</div>
+      <div class="subtitle">مهلة ترامب تنتهي الليلة. إيران ترفض. العالم يترقب.<br>غارات أمريكية على جزيرة خارك. إسرائيل تقصف ٣ مطارات في طهران.</div>
+    </div>
+
+    <div class="tonight-box">
+      <div class="t1">الموعد النهائي</div>
+      <div class="t2">الثلاثاء ٨ أبريل — ٨:٠٠ مساءً بتوقيت واشنطن</div>
+      <div class="t3">"حضارة بأكملها ستموت الليلة" — دونالد ترامب</div>
+    </div>
+
+    <div class="bottom">
+      <div class="swipe">← اسحب لقراءة القصة كاملة</div>
+      <div class="dots"><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 2: THE STRIKE ==== -->
+<div class="lbl">2/7</div>
+<div class="slide s2" id="slide2">
+  <div class="bg2"></div>
+  <div class="header" style="position:relative;z-index:1;">
+    <div class="nav"><div class="pg">٢ / ٧</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag">الفصل الأول</div></div>
+    <div class="chapter">٢٨ فبراير ٢٠٢٦</div>
+    <div class="title">الليلة التي بدأ فيها كل شيء</div>
+    <div class="date-line">٩٠٠ غارة في ١٢ ساعة — أمريكا وإسرائيل تضربان إيران</div>
+  </div>
+
+  <div class="hero-stat" style="position:relative;z-index:1;">
+    <div class="num">٩٠٠</div>
+    <div class="label">غارة في ١٢ ساعة</div>
+    <div class="sub">مواقع صاروخية · دفاعات جوية · منشآت نووية · مراكز قيادة</div>
+  </div>
+
+  <div class="facts" style="position:relative;z-index:1;">
+    <div class="fact">
+      <div class="icon" style="background:rgba(215,38,56,.15);color:#D72638;">💀</div>
+      <div>
+        <div class="ft" style="color:#D72638;">اغتيال المرشد الأعلى علي خامنئي</div>
+        <div class="fd">٣٠ صاروخاً دقيقاً + صواريخ باليستية جوية استهدفت مجمّعه في طهران. قُتلت معه ابنته وزوج ابنته وحفيده. أول اغتيال لرئيس دولة بغارات أجنبية في التاريخ الحديث.</div>
+      </div>
+    </div>
+    <div class="fact">
+      <div class="icon" style="background:rgba(255,194,23,.1);color:#FFC217;">🎖️</div>
+      <div>
+        <div class="ft">٧ قادة عسكريين إيرانيين قُتلوا</div>
+        <div class="fd">وزير الدفاع عزيز نصيرزاده · قائد الحرس الثوري محمد باكبور · أمين مجلس الأمن علي شمخاني · ٤ مسؤولين استخبارات كبار</div>
+      </div>
+    </div>
+    <div class="fact">
+      <div class="icon" style="background:rgba(255,255,255,.05);color:#fff;">🕊️</div>
+      <div>
+        <div class="ft">السلام كان على بُعد يومين</div>
+        <div class="fd">قبل ٢٤ ساعة فقط، أعلن وزير خارجية عُمان عن "اختراق دبلوماسي" — إيران وافقت على التحقق الكامل من IAEA. كانت المفاوضات ستُستأنف في ٢ مارس.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="quote" style="position:relative;z-index:1;">
+    <div class="qt">"هذا ليس مجرد اغتيال. هذا هو الموت الخطير لحظر الاغتيالات في المعايير الدولية."</div>
+    <div class="qa">— Just Security · تحليل قانوني دولي</div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf">أول اغتيال لرأس دولة بغارات أجنبية في التاريخ الحديث</div>
+    <div class="dots"><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 3: IRAN STRIKES BACK ==== -->
+<div class="lbl">3/7</div>
+<div class="slide s3" id="slide3">
+  <div class="bg3"></div>
+  <div class="header" style="position:relative;z-index:1;">
+    <div class="nav"><div class="pg">٣ / ٧</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:#FFC217;color:#1a1a1a;">الفصل الثاني</div></div>
+    <div class="chapter">١ مارس ٢٠٢٦</div>
+    <div class="title">إيران ترد — وتُغلق ممر العالم</div>
+    <div class="sub">٥٠٠+ صاروخ · ٢٠٠٠ مسيّرة · إغلاق مضيق هرمز</div>
+  </div>
+
+  <div class="arsenal" style="position:relative;z-index:1;">
+    <div class="ars">
+      <div class="an">+٥٠٠</div>
+      <div class="al">صاروخ باليستي وبحري</div>
+      <div class="au">٤٠٪ على إسرائيل · ٦٠٪ على أهداف أمريكية</div>
+    </div>
+    <div class="ars">
+      <div class="an">~٢٠٠٠</div>
+      <div class="al">مسيّرة</div>
+      <div class="au">استهدفت قواعد في الأردن والإمارات والسعودية</div>
+    </div>
+  </div>
+
+  <div class="stories" style="position:relative;z-index:1;">
+    <div class="story" style="border-right-color:#D72638;">
+      <div class="st" style="color:#D72638;">مجزرة بيت شيمش — ٩ قتلى بينهم ٣ أشقاء</div>
+      <div class="sd">صاروخ إيراني أصاب كنيساً يهودياً ومأوى في بيت شيمش (٢٩ كم من القدس). قُتل <span class="highlight">يعقوب (١٦) وأبيغايل (١٥) وسارة (١٣) بيتون</span> — ثلاثة أشقاء مراهقين. منظمة العفو الدولية طالبت بالتحقيق كجريمة حرب.</div>
+    </div>
+    <div class="story" style="border-right-color:#FFC217;">
+      <div class="st" style="color:#FFC217;">أول إغراق بغواصة منذ ١٩٨٢</div>
+      <div class="sd">الغواصة الأمريكية USS Charlotte أغرقت الفرقاطة الإيرانية IRIS Dena — <span class="highlight">١٠٤ بحارة إيرانيين قُتلوا</span>. أول إغراق بغواصة أمريكية منذ الحرب العالمية الثانية.</div>
+    </div>
+    <div class="story" style="border-right-color:#FF9800;">
+      <div class="st" style="color:#FF9800;">مطار دبي يتعطل — آلاف عالقون</div>
+      <div class="sd">مسيّرات إيرانية ألحقت أضراراً بمطار دبي الدولي. توقف شبه كامل لحركة الطيران في الشرق الأوسط.</div>
+    </div>
+  </div>
+
+  <div class="drop-stat" style="position:relative;z-index:1;">
+    <div class="ds-num" style="color:#4CAF50;">↓ ٩٠٪ انخفاض</div>
+    <div class="ds-lbl">في الهجمات الإيرانية خلال ١٠ أيام بسبب القمع الأمريكي-الإسرائيلي</div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf">أول إغراق سفينة بغواصة أمريكية منذ الحرب العالمية الثانية</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 4: THE STRAIT ==== -->
+<div class="lbl">4/7</div>
+<div class="slide s4" id="slide4">
+  <div class="bg4"></div>
+  <div class="header" style="position:relative;z-index:1;">
+    <div class="nav"><div class="pg">٤ / ٧</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:#4CAF50;">الطاقة</div></div>
+    <div class="chapter">مضيق هرمز</div>
+    <div class="title">٢٠٪ من نفط العالم — محتجز</div>
+    <div class="sub">أكبر انقطاع في إمدادات النفط في التاريخ — وكالة الطاقة الدولية</div>
+  </div>
+
+  <div class="price-compare" style="position:relative;z-index:1;">
+    <div class="pc" style="background:rgba(76,175,80,.08);">
+      <div class="pn" style="color:#4CAF50;">$٧٣</div>
+      <div class="pl" style="color:rgba(255,255,255,.5);">قبل الحرب</div>
+      <div class="pp" style="color:rgba(255,255,255,.25);">فبراير ٢٠٢٦</div>
+    </div>
+    <div class="arrow-col" style="color:rgba(255,255,255,.15);">→</div>
+    <div class="pc" style="background:rgba(215,38,56,.1);">
+      <div class="pn" style="color:#D72638;">$١٢٦</div>
+      <div class="pl" style="color:rgba(255,255,255,.5);">الذروة</div>
+      <div class="pp" style="color:rgba(255,255,255,.25);">+٧٢٪ ارتفاع</div>
+    </div>
+  </div>
+
+  <div class="chart-section" style="position:relative;z-index:1;">
+    <div class="ct">مسار سعر النفط (برنت) — فبراير إلى أبريل ٢٠٢٦</div>
+    <svg viewBox="0 0 900 120" style="width:100%;height:120px;" preserveAspectRatio="none">
+      <defs><linearGradient id="oilg4" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#D72638" stop-opacity="0.25"/><stop offset="100%" stop-color="#D72638" stop-opacity="0"/></linearGradient></defs>
+      <!-- Grid lines -->
+      <line x1="0" y1="30" x2="900" y2="30" stroke="rgba(255,255,255,.04)" stroke-width="1"/>
+      <line x1="0" y1="60" x2="900" y2="60" stroke="rgba(255,255,255,.04)" stroke-width="1"/>
+      <line x1="0" y1="90" x2="900" y2="90" stroke="rgba(255,255,255,.04)" stroke-width="1"/>
+      <!-- Strike marker -->
+      <line x1="300" y1="0" x2="300" y2="120" stroke="rgba(215,38,56,.3)" stroke-width="1" stroke-dasharray="4,4"/>
+      <text x="310" y="15" fill="#D72638" font-size="10" font-family="Cairo" font-weight="700">٢٨ فبراير</text>
+      <!-- Area + line -->
+      <path d="M0,85 L100,83 L200,80 L300,78 L350,45 L400,30 L500,20 L600,15 L700,12 L800,10 L900,8 L900,120 L0,120Z" fill="url(#oilg4)"/>
+      <polyline points="0,85 100,83 200,80 300,78 350,45 400,30 500,20 600,15 700,12 800,10 900,8" fill="none" stroke="#D72638" stroke-width="2.5"/>
+      <circle cx="300" cy="78" r="5" fill="#D72638" stroke="#0d0d0d" stroke-width="2"/>
+      <circle cx="900" cy="8" r="5" fill="#FFC217" stroke="#0d0d0d" stroke-width="2"/>
+      <!-- Labels -->
+      <text x="10" y="80" fill="rgba(255,255,255,.3)" font-size="11" font-family="Cairo">$٧٣</text>
+      <text x="830" y="25" fill="#FFC217" font-size="13" font-weight="bold" font-family="Cairo">$١٢٦</text>
+    </svg>
+  </div>
+
+  <div class="impact-grid" style="position:relative;z-index:1;">
+    <div class="ig">
+      <div class="in" style="color:#D72638;">$١.١B</div>
+      <div class="il">خسائر يومية<br>لدول الخليج والعراق</div>
+    </div>
+    <div class="ig">
+      <div class="in" style="color:#FFC217;">$٣.٥T</div>
+      <div class="il">أقصى ضرر اقتصادي متوقع<br>على الناتج العالمي</div>
+    </div>
+    <div class="ig">
+      <div class="in" style="color:#FF9800;">+٥٠٪</div>
+      <div class="il">ارتفاع أسعار اليوريا<br>تهديد للأمن الغذائي العالمي</div>
+    </div>
+    <div class="ig">
+      <div class="in" style="color:rgba(255,255,255,.6);">-٢.٩٪</div>
+      <div class="il">انخفاض متوقع في الناتج<br>العالمي — الربع الثاني ٢٠٢٦</div>
+    </div>
+  </div>
+
+  <div style="padding:10px 45px;">
+    <div style="background:rgba(255,255,255,.03);border-radius:10px;padding:14px 18px;font-size:14px;color:rgba(255,255,255,.35);line-height:1.6;border-right:3px solid #FFC217;">
+      ليس فقط النفط — اليوريا والهيليوم والكبريت والبلاستيك والألمنيوم كلها محتجزة. الاقتصاديون يقارنون الوضع بأزمات ١٩٧٣ و١٩٧٨ و٢٠٠٨ — وكلها سبقت ركوداً عالمياً.
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf">كل صدمة نفطية كبرى في التاريخ سبقت ركوداً عالمياً</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 5: TONIGHT ==== -->
+<div class="lbl">5/7</div>
+<div class="slide s5" id="slide5">
+  <div class="bg5"></div>
+  <div class="header" style="position:relative;z-index:1;">
+    <div class="pulse"></div>
+    <div class="nav"><div class="pg">٥ / ٧</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag">عاجل</div></div>
+    <div class="chapter">٧ أبريل ٢٠٢٦ — اليوم</div>
+    <div class="title">المهلة الأخيرة</div>
+    <div class="sub">ترامب vs إيران — ماذا يطلب كل طرف؟</div>
+  </div>
+
+  <div class="countdown" style="position:relative;z-index:1;">
+    <div class="scan"></div>
+    <div class="cl">ينتهي العد التنازلي</div>
+    <div class="ct">8:00 PM ET</div>
+    <div class="cd">الثلاثاء ٨ أبريل ٢٠٢٦</div>
+    <div class="cs">ترامب: "كل جسر في إيران سيُدمَّر قبل منتصف الليل"</div>
+  </div>
+
+  <div class="vs">
+    <div class="vs-side" style="background:rgba(215,38,56,.06);">
+      <div class="vt" style="color:#D72638;">🇺🇸 ترامب يطلب</div>
+      <div class="vi">
+        • فتح مضيق هرمز فوراً<br>
+        • التهديد: تدمير محطات الكهرباء والجسور<br>
+        • "الدولة بأكملها يمكن إزالتها في ليلة واحدة"
+      </div>
+    </div>
+    <div class="vs-mid">VS</div>
+    <div class="vs-side" style="background:rgba(255,194,23,.04);">
+      <div class="vt" style="color:#FFC217;">🇮🇷 إيران تعرض</div>
+      <div class="vi">
+        • فتح المضيق مقابل ١٠ شروط<br>
+        • $٢ مليون رسوم لكل سفينة<br>
+        • وقف دائم — ليس هدنة مؤقتة<br>
+        • رفع جميع العقوبات + ضمانات
+      </div>
+    </div>
+  </div>
+
+  <div class="trump-quote" style="position:relative;z-index:1;">
+    <div class="tq">"حضارة بأكملها ستموت الليلة"</div>
+    <div class="ta">— دونالد ترامب · ٧ أبريل ٢٠٢٦</div>
+  </div>
+
+  <div style="padding:15px 45px;">
+    <div style="display:flex;flex-direction:column;gap:8px;">
+      <div style="background:rgba(255,255,255,.03);border-radius:10px;padding:14px 18px;border-right:3px solid #D72638;">
+        <div style="color:#D72638;font-size:14px;font-weight:700;">اليوم: غارات أمريكية على جزيرة خارك</div>
+        <div style="color:rgba(255,255,255,.4);font-size:13px;margin-top:4px;">أهم محطة تصدير نفط إيرانية — استُهدفت مخابئ عسكرية ودفاعات جوية (تجنبوا البنية النفطية)</div>
+      </div>
+      <div style="background:rgba(255,255,255,.03);border-radius:10px;padding:14px 18px;border-right:3px solid #FFC217;">
+        <div style="color:#FFC217;font-size:14px;font-weight:700;">اليوم: إسرائيل تقصف ٣ مطارات في طهران</div>
+        <div style="color:rgba(255,255,255,.4);font-size:13px;margin-top:4px;">طائرات ومروحيات مستهدفة. مطار خرم آباد الدولي في غرب إيران أيضاً تعرض للقصف.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf">أخطر ٢٤ ساعة في الحرب — النتيجة ستُحدد مسار المنطقة</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 6: THE COST ==== -->
+<div class="lbl">6/7</div>
+<div class="slide s6" id="slide6">
+  <div class="bg6"></div>
+  <div class="header" style="position:relative;z-index:1;">
+    <div class="nav"><div class="pg">٦ / ٧</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:rgba(255,255,255,.1);color:#fff;">الخلاصة</div></div>
+    <div class="chapter">٣٩ يوماً</div>
+    <div class="title">الثمن البشري والاقتصادي</div>
+    <div class="sub">أرقام لا تحتاج تفسيراً</div>
+  </div>
+
+  <div class="death-grid" style="position:relative;z-index:1;">
+    <div class="dg">
+      <div class="dn" style="color:#D72638;">٣,٥٤٠+</div>
+      <div class="dl" style="color:rgba(255,255,255,.7);">قتيل في إيران</div>
+      <div class="ds">١,٦١٦ مدني · ٢٤٤ طفل · ١,١٣٨ عسكري</div>
+      <div class="bar pbar"><div class="f" style="width:100%;background:#D72638;"></div></div>
+    </div>
+    <div class="dg">
+      <div class="dn" style="color:#FF9800;">١,٤٩٧+</div>
+      <div class="dl" style="color:rgba(255,255,255,.7);">قتيل في لبنان</div>
+      <div class="ds">حزب الله + مدنيون · ١ مليون نازح</div>
+      <div class="bar pbar"><div class="f" style="width:42%;background:#FF9800;"></div></div>
+    </div>
+    <div class="dg">
+      <div class="dn" style="color:rgba(255,255,255,.6);">١٩</div>
+      <div class="dl" style="color:rgba(255,255,255,.7);">مدني إسرائيلي</div>
+      <div class="ds">بيت شيمش + حيفا</div>
+      <div class="bar pbar"><div class="f" style="width:0.5%;background:rgba(255,255,255,.4);"></div></div>
+    </div>
+    <div class="dg">
+      <div class="dn" style="color:rgba(255,255,255,.6);">١٤</div>
+      <div class="dl" style="color:rgba(255,255,255,.7);">عسكري أمريكي</div>
+      <div class="ds">مؤكّد</div>
+      <div class="bar pbar"><div class="f" style="width:0.4%;background:rgba(255,255,255,.4);"></div></div>
+    </div>
+  </div>
+
+  <div class="big-cost" style="position:relative;z-index:1;">
+    <div class="bc-num">$٣.٥T</div>
+    <div class="bc-label">أقصى ضرر اقتصادي متوقع على الاقتصاد العالمي</div>
+    <div class="bc-sub">٣.١٥٪ من الناتج المحلي الإجمالي العالمي — بلومبيرغ</div>
+  </div>
+
+  <div class="human" style="position:relative;z-index:1;">
+    <div class="h-card" style="border-right-color:#D72638;">
+      <div class="ht" style="color:#D72638;">مدرسة المنب — ١٧٠ قتيلاً</div>
+      <div class="hd">صاروخ أصاب مدرسة بنات مجاورة لقاعدة بحرية في المنب قرب بندر عباس</div>
+    </div>
+    <div class="h-card" style="border-right-color:#FFC217;">
+      <div class="ht" style="color:#FFC217;">٧٠,٠٠٠ لاجئ أفغاني</div>
+      <div class="hd">فروا من إيران إلى أفغانستان خلال أسبوعين — "يهربون من حرب ليواجهوا حرباً أخرى" — UNHCR</div>
+    </div>
+    <div class="h-card" style="border-right-color:#FF9800;">
+      <div class="ht" style="color:#FF9800;">إيرانيون يحتفلون بمقتل مرشدهم</div>
+      <div class="hd">مقاطع فيديو تُظهر إيرانيين في الشوارع يحتفلون — وقوات الأمن تطلق النار على المحتفلين</div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf">المصادر: HRANA · وزارة الصحة اللبنانية · الأمم المتحدة · بلومبيرغ</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- ==== SLIDE 7: SOURCES ==== -->
+<div class="lbl">7/7</div>
+<div class="slide s7" id="slide7">
+  <div class="top">
+    <div class="logo" style="display:inline-flex;"><div class="r" style="width:26px;height:8px;"></div><div class="n" style="font-size:24px;">PHOTONECT</div><div class="s">NEWS</div></div>
+  </div>
+  <div class="sep"></div>
+  <div class="stitle">المصادر</div>
+  <div class="ssub">لا نكذب — كل رقم قابل للتحقق</div>
+  <div class="sep"></div>
+
+  <div class="sources">
+    <div class="src"><div class="sn">٠١</div><div class="si"><div class="sname">Al Jazeera — الجزيرة</div><div class="surl">aljazeera.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٢</div><div class="si"><div class="sname">CNN — تحديثات مباشرة</div><div class="surl">cnn.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٣</div><div class="si"><div class="sname">NBC News</div><div class="surl">nbcnews.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٤</div><div class="si"><div class="sname">The Washington Post</div><div class="surl">washingtonpost.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٥</div><div class="si"><div class="sname">CNBC — أسواق النفط</div><div class="surl">cnbc.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٦</div><div class="si"><div class="sname">Bloomberg — تحليل اقتصادي</div><div class="surl">bloomberg.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٧</div><div class="si"><div class="sname">Dallas Fed — تحليل هرمز</div><div class="surl">dallasfed.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٨</div><div class="si"><div class="sname">Wikipedia — تسلسل زمني</div><div class="surl">en.wikipedia.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">٠٩</div><div class="si"><div class="sname">Amnesty International — بيت شيمش</div><div class="surl">amnesty.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">١٠</div><div class="si"><div class="sname">Just Security — تحليل قانوني</div><div class="surl">justsecurity.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">١١</div><div class="si"><div class="sname">NPR — التكاليف والخسائر</div><div class="surl">npr.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">١٢</div><div class="si"><div class="sname">Gulf News — خطة إيران</div><div class="surl">gulfnews.com</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">١٣</div><div class="si"><div class="sname">Security Council Report</div><div class="surl">securitycouncilreport.org</div></div><div class="sg"></div></div>
+    <div class="src"><div class="sn">١٤</div><div class="si"><div class="sname">HRANA — حقوق الإنسان في إيران</div><div class="surl">hrana.org</div></div><div class="sg"></div></div>
+  </div>
+
+  <div class="bottom">
+    <div class="sep" style="margin-bottom:12px;"></div>
+    <div class="logo" style="display:inline-flex;"><div class="r"></div><div class="n" style="font-size:18px;">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="follow">تابعنا — الأخبار كل ساعتين</div>
+    <div class="handle">@photonect.news</div>
+    <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+    <div class="dots" style="margin-top:6px;"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div></div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "برنت ينخفض ١٣٪ بعد فيضان أوبك+: ١٣١ دولاراً بعد قمة ١٥٠ أمس",
+    "englishSubhead": "BRENT −13% • OPEC+ FLOODS MARKET • $131",
+    "heroQueries": [
+      "oil tanker crude sea",
+      "NYSE trading floor screens",
+      "Vienna OPEC Headquarters",
+      "Saudi oil field Ghawar",
+      "Brent oil platform North Sea"
+    ],
+    "heroMedia": "images/news/2026-04-22-brent-correction/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الارتداد",
+      "arabicHeading": "أوبك+ أضافت ٢.٤ مليون برميل خلال ليل فيينا — ارتداد منذ ١٩٩١",
+      "arabicBody": "منظمة الدول المنتجة للنفط وحلفاؤها رفعوا الإنتاج مفاجأة في اجتماع ماراثوني استمر إحدى عشرة ساعة، وأسقطوا برنت من ١٥٠.٨ إلى ١٣١.٢ في واحد وعشرين دقيقة فقط",
+      "bigStat": {
+        "value": "−13%",
+        "label": "Brent intraday drop",
+        "arabicLabel": "هبوط برنت اليومي"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر النقطة",
+          "value": "$131.20"
+        },
+        {
+          "label": "إضافة يومية",
+          "value": "2.4M bpd"
+        },
+        {
+          "label": "توقف تداول",
+          "value": "19 د"
+        }
+      ],
+      "broll": "images/news/2026-04-22-brent-correction/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "الخاسرون",
+      "arabicHeading": "صناديق التحوط تدفع ٤.٢ مليار في نداءات الهامش — ثلاثة تصفّى",
+      "arabicBody": "العقود القصيرة المفرطة سقطت تحت ضغط الارتداد، وثلاثة صناديق أعلنت إفلاساً تقنياً قبل الظهر بينما انسحب اثنان وأربعون بالمئة من المراكز الطويلة خلال ساعة واحدة",
+      "bigStat": {
+        "value": "$4.2B",
+        "label": "in hedge fund margin calls",
+        "arabicLabel": "نداءات هامش محتواة"
+      },
+      "supportingStats": [
+        {
+          "label": "صناديق مصفاة",
+          "value": "3"
+        },
+        {
+          "label": "تفكيك طويل",
+          "value": "42%"
+        },
+        {
+          "label": "انخفاض VIX",
+          "value": "−8pt"
+        }
+      ],
+      "broll": "images/news/2026-04-22-brent-correction/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "السؤال القادم",
+      "arabicHeading": "هل تستطيع الرياض فعلاً إنتاج ٢.٤ مليون إضافية؟ المخزونات عند ٦٧٪",
+      "arabicBody": "الخزانات السعودية في رأس تنورة انخفضت إلى ٦٧ بالمئة من الطاقة الاستيعابية وفق بيانات كبلر، ما يطرح تساؤلاً حاداً حول قدرة المملكة على الإيفاء بتعهد تسعين يوماً",
+      "bigStat": {
+        "value": "67%",
+        "label": "Saudi storage already drawn",
+        "arabicLabel": "مخزون سعودي مستنزف"
+      },
+      "supportingStats": [
+        {
+          "label": "تعهد يومي",
+          "value": "2.4M"
+        },
+        {
+          "label": "مهلة زمنية",
+          "value": "90 يوم"
+        },
+        {
+          "label": "سيناريوهات",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-brent-correction/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#FF8C42"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Kpler",
+      "domain": "kpler.com"
+    },
+    {
+      "name": "Platts",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Argus Media",
+      "domain": "argusmedia.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يغلق منخفضاً ١٣ بالمئة عند ١٣١.٢٠ دولاراً بعد اجتماع أوبك+ المفاجئ في فيينا",
+    "أوبك+ ضخت ٢.٤ مليون برميل يومياً إضافية في إعلان فاجأ السوق بعد جلسة إحدى عشرة ساعة",
+    "ثلاثة صناديق تحوط تعلن إفلاساً تقنياً قبل ظهر الأربعاء تحت نداءات هامش بـ٤.٢ مليار",
+    "مؤشر التقلب VIX ينخفض ثماني نقاط بعد أسبوع من التوتر الأقصى",
+    "الخزانات السعودية في رأس تنورة عند ٦٧ بالمئة من الطاقة الاستيعابية وفق بيانات كبلر",
+    "واشنطن ترحّب بقرار أوبك+ بعد ضغط علني من البيت الأبيض خلال أربعة وعشرين ساعة",
+    "البنك الدولي يُخفض توقعاته لتضخم ٢٠٢٦ بعدما وصلت الطاقة إلى ذروتها التاريخية أمس"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "run": "run-4-execute",
+  "date": "2026-04-21",
+  "run_window": "18:45–19:30 GMT+3",
+  "patches": [
+    {
+      "id": "FIX-001",
+      "file": "data/_template/extract-thumbnail.sh",
+      "description": "Replace broken signalstats lavfi luminance method with ffmpeg -ss + Pillow mean-L",
+      "pass1_static": {"tool": "bash -n", "result": "PASS"},
+      "pass2_sample_render": "N/A — not a render path file",
+      "pass3_visual": "N/A — not a render path file",
+      "pass4_regression": "N/A — does not affect build-posting-plan.sh",
+      "merged": true
+    },
+    {
+      "id": "FIX-002",
+      "file": "data/_template/render-reel.sh",
+      "description": "Replace exec with regular npx call + thumbnail extraction post-render",
+      "pass1_static": {"tool": "bash -n", "result": "PASS"},
+      "pass2_sample_render": {
+        "iran-day-50": {"baseline_B": 55038669, "new_B": 55038669, "delta_pct": 0.0, "result": "PASS", "thumbnail": "t=1.5s L=100.45"},
+        "ai-frontier-race": {"baseline_B": 15755445, "new_B": 15747910, "delta_pct": -0.0, "result": "PASS", "thumbnail": "t=1.5s L=85.52"}
+      },
+      "pass3_visual": {
+        "iran-day-50": {"t1.2s_hero": 100.0, "t6s_beat1": 62.5, "t14s_beat2": 82.9, "t25s_beat3": 49.4, "placeholders": "clean", "result": "PASS"},
+        "ai-frontier-race": {"t1.2s_hero": 85.6, "t6s_beat1": 77.6, "t14s_beat2": 60.2, "t25s_beat3": 75.1, "placeholders": "clean", "result": "PASS"}
+      },
+      "pass4_regression": {
+        "2026-04-17": "PASS — byte-identical",
+        "2026-04-18": "PASS — byte-identical",
+        "2026-04-20": "PASS — byte-identical"
+      },
+      "merged": true
+    },
+    {
+      "id": "EXT-001",
+      "file": "data/_template/media_hunter.py",
+      "description": "Add starlink + embargo entries to ATLAS",
+      "pass1_static": {"tool": "python3 -m py_compile", "result": "PASS"},
+      "pass2_sample_render": "PASS — byte-identical (no ATLAS miss in sample slugs)",
+      "pass3_visual": "PASS — same luminance values (ATLAS extension doesn't change sample renders)",
+      "pass4_regression": "PASS — byte-identical on all 3 dates",
+      "merged": true
+    },
+    {
+      "id": "EXT-002",
+      "file": "data/_template/render-reel.sh",
+      "description": "Wire inline tech_ai supportingStat lint check as pre-flight warning",
+      "pass1_static": {"tool": "bash -n", "result": "PASS"},
+      "pass2_sample_render": "PASS — both sample slugs not tech_ai, so lint warning skipped; render unaffected",
+      "pass3_visual": "PASS — same output",
+      "pass4_regression": "PASS — byte-identical on all 3 dates",
+      "merged": true
+    },
+    {
+      "id": "EXT-003",
+      "file": "public/audio/news_bed_tense.mp3 + public/audio/.license.json",
+      "description": "CC0/CC-BY music beds attempt — placed news_bed_tense.mp3 candidate from OpenGameArt",
+      "source": "https://opengameart.org/content/cugzilia-music-wip",
+      "license": "CC-BY 4.0",
+      "artist": "Spring/Floff",
+      "title": "News Theme",
+      "duration_s": 40.96,
+      "normalized_lufs": -16,
+      "status": "CANDIDATE — AVAILABLE_BEDS line left commented; Ahmed must verify suitability by ear before enabling",
+      "pass1_static": "N/A — audio file",
+      "pass2_sample_render": "N/A — AVAILABLE_BEDS not updated; sample renders unaffected",
+      "pass3_visual": "N/A",
+      "pass4_regression": "PASS — byte-identical on all 3 dates",
+      "merged": "partial — file placed, not enabled"
+    }
+  ],
+  "tool_availability": {
+    "ffmpeg": "PASS — /opt/homebrew/bin/ffmpeg",
+    "ffprobe": "PASS — /opt/homebrew/bin/ffprobe",
+    "python3_pillow": "PASS",
+    "tesseract": "ABSENT — grep placeholder fallback used for PASS 3 (per prior precedent)",
+    "tsc": "PASS — tsc --noEmit exit 0"
+  },
+  "overall": "ALL 4 PASSES GREEN — 2 fixes + 3 extensions merged/placed"
+}

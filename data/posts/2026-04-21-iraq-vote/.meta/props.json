@@ -1,0 +1,95 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "البرلمان يصوّت الليلة: حكومة عبد المهدي أمام خط النهاية",
+    "englishSubhead": "BAGHDAD • CABINET VOTE TONIGHT",
+    "heroQueries": [
+      "Iraqi Council of Representatives session hall Baghdad",
+      "Iraq parliament chamber voting",
+      "Iraqi parliament building exterior Baghdad",
+      "Baghdad Green Zone government complex",
+      "Iraq parliament MPs vote"
+    ],
+    "heroMedia": "images/news/2026-04-21-iraq-vote/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم السحري",
+      "arabicHeading": "العتبة: لا تمر الحكومة إلا بـ٢٢٧ صوتاً",
+      "bigStat": {
+        "value": "227",
+        "label": "votes needed tonight",
+        "arabicLabel": "الحد الأدنى لتمرير التشكيلة"
+      },
+      "broll": "images/news/2026-04-21-iraq-vote/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    },
+    {
+      "label": "الجدار",
+      "arabicHeading": "الإطار التنسيقي يُحكم قبضته على ١٣٠ مقعداً",
+      "bigStat": {
+        "value": "130",
+        "label": "seats against the cabinet",
+        "arabicLabel": "كتلة معترضة قد توقف التصويت"
+      },
+      "broll": "images/news/2026-04-21-iraq-vote/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    },
+    {
+      "label": "الساعة صفر",
+      "arabicHeading": "قبل منتصف الليل — أو فراغ دستوري يبتلع بغداد",
+      "bigStat": {
+        "value": "6",
+        "label": "hours to constitutional deadline",
+        "arabicLabel": "ساعات تفصل العراق عن الفراغ"
+      },
+      "broll": "images/news/2026-04-21-iraq-vote/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFD447"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "البرلمان العراقي يصوّت الليلة على حكومة رئيس الوزراء المكلف عادل عبد المهدي",
+    "الرقم الحاسم: ٢٢٧ صوتاً لتمرير التشكيلة قبل انتهاء المهلة الدستورية",
+    "الإطار التنسيقي يحشد ١٣٠ نائباً لإسقاط الكابينة أو إجبارها على تنازلات",
+    "التيار الصدري يبقي قرار المقاطعة معلقاً حتى آخر لحظة قبل التصويت",
+    "الديمقراطي الكردستاني والاتحاد الوطني يؤمنان النصاب مقابل حصة كركوك",
+    "منتصف الليل: الموعد الأخير قبل دخول العراق فراغاً دستورياً غير مسبوق",
+    "ثلاثة سيناريوهات متوقعة: تمرير سريع، تأجيل قسري، أو حكومة تكنوقراط طارئة"
+  ],
+  "variant": "A",
+  "audioBed": "audio/news_bed_urgent.mp3"
+}

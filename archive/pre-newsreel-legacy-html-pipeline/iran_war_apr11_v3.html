@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Photonect NEWS — حرب إيران | ١١ أبريل ٢٠٢٦ — الإصدار الثالث</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Tajawal', sans-serif;
+    background: #111;
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 40px;
+  }
+
+  /* ─── SLIDE BASE ─── */
+  .slide {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    background: #0d0d0d;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+
+  /* ─── PHOTO LAYER ─── */
+  .photo-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+  }
+
+  /* ─── OVERLAYS ─── */
+  .overlay-dark {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.68);
+    z-index: 1;
+  }
+  .overlay-gradient-b {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.97) 40%, rgba(0,0,0,0.35) 100%);
+    z-index: 1;
+  }
+  .overlay-gradient-l {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.85) 60%);
+    z-index: 1;
+  }
+  .overlay-red-tint {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(215,38,56,0.18) 0%, rgba(0,0,0,0) 60%);
+    z-index: 2;
+  }
+
+  /* ─── CONTENT LAYER ─── */
+  .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 36px 50px 0;
+  }
+
+  /* ─── TOP BAR ─── */
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    flex-shrink: 0;
+  }
+
+  .logo-block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1px;
+  }
+  .logo-wordmark {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 3px;
+    line-height: 1;
+    position: relative;
+  }
+  .logo-red-rect {
+    width: 14px;
+    height: 6px;
+    background: #D72638;
+    display: block;
+    margin: 0 0 3px auto;
+  }
+  .logo-news {
+    font-family: 'Cairo', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    color: #FFC217;
+    letter-spacing: 4px;
+    line-height: 1;
+    margin-top: 2px;
+  }
+
+  /* Day badge */
+  .day-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .day-pill {
+    background: #D72638;
+    color: #fff;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    padding: 7px 18px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+  .day-label {
+    color: rgba(255,255,255,0.65);
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Tajawal', sans-serif;
+  }
+
+  /* Breaking / Confirmed badges — NEW ELEMENT */
+  .status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 5px 14px;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .status-badge.breaking {
+    background: #D72638;
+    color: #fff;
+  }
+  .status-badge.confirmed {
+    background: rgba(76,175,80,0.18);
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+  }
+  .status-badge.developing {
+    background: rgba(255,194,23,0.15);
+    border: 1px solid #FFC217;
+    color: #FFC217;
+  }
+  .status-badge::before {
+    content: '';
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: currentColor;
+    display: inline-block;
+  }
+
+  /* ─── WAR TIMELINE BAR ─── */
+  .timeline-bar {
+    height: 5px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 3px;
+    margin-bottom: 28px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .timeline-fill {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: linear-gradient(to left, #D72638, #FFC217);
+    border-radius: 3px;
+  }
+
+  /* ─── LABEL / TAG ─── */
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFC217;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+    flex-shrink: 0;
+  }
+  .tag-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #D72638;
+    flex-shrink: 0;
+  }
+  .tag-line {
+    width: 30px;
+    height: 2px;
+    background: #FFC217;
+    flex-shrink: 0;
+  }
+
+  /* ─── TYPOGRAPHY ─── */
+  h1, h2 {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    color: #fff;
+    line-height: 1.15;
+  }
+  .headline-xl { font-size: 72px; line-height: 1.06; letter-spacing: -1px; }
+  .headline-l  { font-size: 56px; line-height: 1.1; }
+  .headline-m  { font-size: 44px; line-height: 1.15; }
+  .headline-s  { font-size: 36px; line-height: 1.2; }
+
+  .gold  { color: #FFC217; }
+  .red   { color: #D72638; }
+  .green { color: #4CAF50; }
+  .white { color: #ffffff; }
+
+  .body-text {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: rgba(255,255,255,0.85);
+    line-height: 1.75;
+  }
+  .body-sm {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    color: rgba(255,255,255,0.8);
+    line-height: 1.7;
+  }
+  .caption {
+    font-size: 15px;
+    color: rgba(255,255,255,0.45);
+    font-weight: 400;
+    font-family: 'Tajawal';
+  }
+
+  /* ─── QUOTE BLOCK ─── */
+  .quote-block {
+    border-right: 5px solid #FFC217;
+    padding: 18px 22px;
+    background: rgba(255,194,23,0.08);
+    border-radius: 0 6px 6px 0;
+    margin: 14px 0;
+  }
+  .quote-block.red-border { border-right-color: #D72638; background: rgba(215,38,56,0.08); }
+  .quote-text {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 800;
+    font-size: 36px;
+    color: #fff;
+    line-height: 1.25;
+  }
+  .quote-attr {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+    color: #FFC217;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .quote-attr.red { color: #D72638; }
+
+  /* ─── STAT CARDS ─── */
+  .stat-row {
+    display: flex;
+    gap: 16px;
+    margin: 16px 0;
+    flex-shrink: 0;
+  }
+  .stat-card {
+    flex: 1;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 10px;
+    padding: 18px 20px;
+    text-align: center;
+  }
+  .stat-card.gold-border { border-color: rgba(255,194,23,0.35); }
+  .stat-card.red-border  { border-color: rgba(215,38,56,0.4); }
+  .stat-num {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-label {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+    color: rgba(255,255,255,0.6);
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  /* ─── BOTTOM BAR ─── */
+  .bottom-bar {
+    background: rgba(255,255,255,0.05);
+    border-top: 1px solid rgba(255,194,23,0.22);
+    padding: 15px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    flex-shrink: 0;
+  }
+  .bottom-fact {
+    font-family: 'Cairo', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #FFC217;
+    letter-spacing: 0.5px;
+  }
+  .slide-dots {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.22);
+  }
+  .dot.active {
+    background: #FFC217;
+    width: 22px;
+    border-radius: 4px;
+  }
+
+  /* ─── DIVIDER ─── */
+  .divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(255,255,255,0.1);
+    margin: 16px 0;
+    flex-shrink: 0;
+  }
+  .divider-gold {
+    height: 2px;
+    background: linear-gradient(to left, #FFC217, transparent);
+    margin: 16px 0;
+    flex-shrink: 0;
+  }
+
+  /* ─── PERSIAN GULF SVG MAP (SLIDE 3) ─── */
+  .gulf-map-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 90px;
+  }
+
+  /* ─── DISPUTE CARD (SLIDE 4) ─── */
+  .dispute-grid {
+    display: flex;
+    gap: 0;
+    flex: 1;
+    margin-bottom: 90px;
+  }
+  .dispute-side {
+    flex: 1;
+    padding: 28px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .dispute-side.iran-side {
+    background: linear-gradient(135deg, rgba(215,38,56,0.2), rgba(215,38,56,0.06));
+    border: 1px solid rgba(215,38,56,0.35);
+    border-radius: 12px 0 0 12px;
+    border-left: none;
+  }
+  .dispute-side.us-side {
+    background: linear-gradient(135deg, rgba(30,60,120,0.3), rgba(30,60,120,0.1));
+    border: 1px solid rgba(100,140,255,0.3);
+    border-radius: 0 12px 12px 0;
+    border-right: none;
+  }
+  .dispute-flag {
+    font-size: 42px;
+    margin-bottom: 10px;
+    line-height: 1;
+  }
+  .dispute-label {
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 14px;
+    letter-spacing: 1px;
+  }
+  .dispute-claim {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .dispute-sub {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 17px;
+    color: rgba(255,255,255,0.55);
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+  .verdict-badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3px;
+    background: rgba(255,255,255,0.1);
+    position: relative;
+  }
+  .verdict-badge .vs-circle {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    background: #1a1a1a;
+    border: 2px solid rgba(255,255,255,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    color: rgba(255,255,255,0.6);
+    z-index: 5;
+  }
+
+  /* ─── CONDITION LIST (SLIDE 2) ─── */
+  .condition-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 14px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .condition-item:last-child { border-bottom: none; }
+  .condition-num {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 28px;
+    color: #D72638;
+    line-height: 1.1;
+    flex-shrink: 0;
+    width: 44px;
+    text-align: center;
+  }
+  .condition-text {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(255,255,255,0.9);
+    line-height: 1.4;
+    padding-top: 2px;
+  }
+
+  /* ─── OIL IMPACT BAR (SLIDE 5) ─── */
+  .impact-bar-container {
+    margin: 14px 0;
+    flex-shrink: 0;
+  }
+  .impact-bar-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .impact-bar-title {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+    color: rgba(255,255,255,0.7);
+    font-weight: 600;
+  }
+  .impact-bar-value {
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: #D72638;
+  }
+  .impact-bar-track {
+    height: 14px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 7px;
+    overflow: hidden;
+    position: relative;
+  }
+  .impact-bar-fill {
+    height: 100%;
+    border-radius: 7px;
+    background: linear-gradient(to left, #D72638, #FF6B35);
+  }
+  .impact-bar-fill.gold-fill { background: linear-gradient(to left, #FFC217, #FF9800); }
+
+  /* ─── SOURCES GRID ─── */
+  .sources-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    flex: 1;
+    margin-bottom: 90px;
+  }
+  .source-item {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .source-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+    background: rgba(255,194,23,0.15);
+    border: 1px solid rgba(255,194,23,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .source-name {
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1.2;
+  }
+  .source-type {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 14px;
+    color: rgba(255,255,255,0.45);
+    margin-top: 3px;
+  }
+
+  /* ─── DEATH COUNTER (SLIDE 6) ─── */
+  .death-counter {
+    text-align: center;
+    padding: 24px 30px;
+    background: linear-gradient(135deg, rgba(215,38,56,0.2), rgba(215,38,56,0.05));
+    border: 2px solid rgba(215,38,56,0.5);
+    border-radius: 16px;
+    margin: 18px 0;
+    flex-shrink: 0;
+  }
+  .death-num {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 90px;
+    color: #D72638;
+    line-height: 0.95;
+    letter-spacing: -3px;
+  }
+  .death-label {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 22px;
+    color: rgba(255,255,255,0.7);
+    margin-top: 8px;
+    font-weight: 600;
+  }
+
+  /* ─── FLEX SPACER ─── */
+  .flex-1 { flex: 1; }
+  .spacer-sm { height: 12px; flex-shrink: 0; }
+  .spacer-md { height: 20px; flex-shrink: 0; }
+
+  /* ─── TALKS FORMAT (SLIDE 2) ─── */
+  .talks-banner {
+    display: flex;
+    align-items: center;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    flex-shrink: 0;
+  }
+  .talks-side {
+    flex: 1;
+    padding: 14px 20px;
+    text-align: center;
+  }
+  .talks-side.us  { background: rgba(30,60,120,0.25); border-left: 3px solid #4B7BEC; }
+  .talks-side.iran { background: rgba(215,38,56,0.15); border-right: 3px solid #D72638; }
+  .talks-middle {
+    padding: 10px 14px;
+    background: rgba(255,255,255,0.06);
+    text-align: center;
+    border-left: 1px solid rgba(255,255,255,0.08);
+    border-right: 1px solid rgba(255,255,255,0.08);
+  }
+  .talks-country {
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    color: #FFC217;
+  }
+  .talks-person {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 14px;
+    color: rgba(255,255,255,0.6);
+    margin-top: 3px;
+    line-height: 1.3;
+  }
+  .talks-via {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 13px;
+    color: rgba(255,255,255,0.5);
+    margin-top: 4px;
+  }
+  .talks-via strong {
+    color: #FFC217;
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    display: block;
+  }
+
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 1 — COVER: US Destroyers Cross Hormuz        -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-1">
+  <div class="photo-bg" style="background-image: url('images/warship2.jpg'); background-position: center 30%; opacity: 0.55;"></div>
+  <div class="overlay-gradient-b"></div>
+  <div class="overlay-red-tint"></div>
+
+  <!-- Red diagonal stripe accent -->
+  <div style="position:absolute; top:0; right:0; width:280px; height:8px; background: #D72638; z-index:3;"></div>
+  <div style="position:absolute; top:0; right:0; width:8px; height:280px; background: #D72638; z-index:3;"></div>
+
+  <div class="content">
+    <!-- TOP BAR -->
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <div class="day-label">من بدء الحرب</div>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+
+    <!-- TIMELINE BAR: 43/60 days -->
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width: 71.6%;"></div>
+    </div>
+
+    <div class="flex-1"></div>
+
+    <!-- BREAKING BADGE -->
+    <div style="margin-bottom: 18px;">
+      <span class="status-badge breaking">عاجل</span>
+    </div>
+
+    <!-- MAIN HEADLINE -->
+    <div style="font-family: 'Cairo', sans-serif; font-weight: 900; font-size: 78px; color: #fff; line-height: 1.05; letter-spacing: -1px; margin-bottom: 14px;">
+      مدمّرتان أمريكيتان<br>
+      <span style="color: #D72638;">تخترقان هرمز</span>
+    </div>
+
+    <!-- SUB HEADLINE -->
+    <div style="font-family: 'Tajawal', sans-serif; font-size: 26px; color: rgba(255,255,255,0.85); line-height: 1.55; font-weight: 600; margin-bottom: 22px;">
+      أول عبور بحري أمريكي منذ تعدين المضيق في ٢٨ فبراير<br>
+      <span style="color: #FFC217;">إيران تدّعي صدّهما · واشنطن تنفي بشكل قاطع</span>
+    </div>
+
+    <!-- STAT ROW -->
+    <div class="stat-row" style="margin-bottom: 90px;">
+      <div class="stat-card red-border">
+        <div class="stat-num red">٤٣</div>
+        <div class="stat-label">يوماً من الحرب</div>
+      </div>
+      <div class="stat-card gold-border">
+        <div class="stat-num gold">١٠</div>
+        <div class="stat-label">أيام لانتهاء وقف إطلاق النار</div>
+      </div>
+      <div class="stat-card" style="border-color: rgba(76,175,80,0.3);">
+        <div class="stat-num" style="color: #4CAF50;">٢١%</div>
+        <div class="stat-label">نفط العالم عبر هرمز</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM BAR -->
+  <div class="bottom-bar">
+    <div class="bottom-fact">USS Frank E. Peterson · USS Michael Murphy</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 2 — ISLAMABAD TALKS: Proximity Format, No Deal -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-2">
+  <div class="photo-bg" style="background-image: url('images/trump_warroom.jpg'); background-position: center; opacity: 0.22;"></div>
+  <div class="overlay-dark"></div>
+
+  <div class="content">
+    <!-- TOP BAR -->
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <span class="status-badge developing" style="margin-right: 12px;">جار التطور</span>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width: 71.6%;"></div>
+    </div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div> مفاوضات إسلام آباد</div>
+
+    <div class="headline-m" style="margin-bottom: 16px; font-family: 'Cairo', sans-serif; font-weight: 900;">
+      تفاوض بالوسيط<br>
+      <span class="gold">لا اتفاق حتى الآن</span>
+    </div>
+
+    <!-- Talks Format Banner -->
+    <div class="talks-banner">
+      <div class="talks-side iran">
+        <div style="font-size: 32px; margin-bottom: 6px;">🇮🇷</div>
+        <div class="talks-country">إيران</div>
+        <div class="talks-person">قاليباف + عراقجي<br>+ ٧١ عضو وفد</div>
+      </div>
+      <div class="talks-middle">
+        <div style="font-size: 26px; margin-bottom: 4px;">🇵🇰</div>
+        <div style="font-family:'Cairo'; font-size:13px; color: #FFC217; font-weight:800;">باكستان</div>
+        <div class="talks-via">تنقل الرسائل</div>
+      </div>
+      <div class="talks-side us">
+        <div style="font-size: 32px; margin-bottom: 6px;">🇺🇸</div>
+        <div class="talks-country" style="color: #7BA7FF;">الولايات المتحدة</div>
+        <div class="talks-person">فانس + ويتكوف<br>+ كوشنر</div>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; font-family: 'Tajawal'; font-size: 18px; color: rgba(255,255,255,0.55); font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">الشروط الإيرانية الأربعة غير القابلة للتفاوض</div>
+
+    <!-- 4 Conditions -->
+    <div class="condition-item">
+      <div class="condition-num">١</div>
+      <div class="condition-text">السيادة الكاملة على مضيق هرمز</div>
+    </div>
+    <div class="condition-item">
+      <div class="condition-num">٢</div>
+      <div class="condition-text">تعويضات حرب كاملة من "الطرف المعتدي"</div>
+    </div>
+    <div class="condition-item">
+      <div class="condition-num">٣</div>
+      <div class="condition-text">الإفراج الفوري عن جميع الأصول المجمّدة</div>
+    </div>
+    <div class="condition-item">
+      <div class="condition-num">٤</div>
+      <div class="condition-text">وقف إطلاق نار شامل في كل غرب آسيا</div>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">وقف الهدنة ينتهي في ٢١ أبريل — ١٠ أيام فقط</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div>
+        <div class="dot active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 3 — IRAN'S LOST MINES: Persian Gulf SVG Map  -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-3">
+  <div class="photo-bg" style="background-image: url('images/strait.jpg'); background-position: center; opacity: 0.18;"></div>
+  <div class="overlay-dark"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <span class="status-badge confirmed" style="margin-right: 12px;">مؤكد</span>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+    <div class="timeline-bar"><div class="timeline-fill" style="width: 71.6%;"></div></div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div>مضيق هرمز</div>
+
+    <div class="headline-m" style="margin-bottom: 10px; font-family: 'Cairo', sans-serif; font-weight: 900;">
+      إيران لا تعرف<br>
+      <span class="red">أين ألغامها</span>
+    </div>
+    <div class="body-sm" style="margin-bottom: 16px; color: rgba(255,255,255,0.7);">
+      المخابرات الأمريكية تؤكد: إيران فقدت مواقع بعض الألغام<br>ولا تملك قدرة إزالتها — هرمز لن يُفتح حتى لو تمّ الاتفاق
+    </div>
+
+    <!-- PERSIAN GULF SVG MAP — NEW EVOLUTION ELEMENT -->
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; padding-bottom: 100px;">
+      <svg viewBox="0 0 680 340" width="680" height="340" style="display:block; margin: 0 auto;" xmlns="http://www.w3.org/2000/svg">
+        <!-- Ocean background -->
+        <rect width="680" height="340" rx="12" fill="rgba(5,20,45,0.9)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+        <!-- Land masses -->
+        <!-- Iran (top) -->
+        <path d="M 80,20 Q 200,10 340,25 Q 420,30 480,50 Q 520,65 530,80 Q 520,70 500,60 Q 460,45 420,38 Q 350,28 240,30 Q 160,32 100,45 Z" fill="rgba(180,160,100,0.45)" stroke="rgba(255,255,255,0.2)" stroke-width="0.8"/>
+        <!-- Label Iran -->
+        <text x="280" y="18" font-family="Cairo" font-size="14" font-weight="800" fill="rgba(255,255,255,0.7)" text-anchor="middle">إيران</text>
+
+        <!-- Arabian Peninsula (bottom) -->
+        <path d="M 60,280 Q 120,260 200,250 Q 300,240 400,245 Q 460,248 510,260 Q 540,270 550,285 Q 540,340 540,340 L 60,340 Z" fill="rgba(200,175,100,0.4)" stroke="rgba(255,255,255,0.2)" stroke-width="0.8"/>
+        <!-- Saudi/UAE label -->
+        <text x="300" y="290" font-family="Cairo" font-size="13" font-weight="700" fill="rgba(255,255,255,0.55)" text-anchor="middle">السعودية / الإمارات / عُمان</text>
+
+        <!-- Oman peninsula (right) -->
+        <path d="M 580,100 Q 620,120 650,160 Q 660,200 650,240 Q 630,280 600,300 Q 580,310 560,300 Q 575,270 580,220 Q 590,180 585,140 Z" fill="rgba(200,175,100,0.4)" stroke="rgba(255,255,255,0.2)" stroke-width="0.8"/>
+        <text x="620" y="195" font-family="Cairo" font-size="12" font-weight="700" fill="rgba(255,255,255,0.5)" text-anchor="middle">عُمان</text>
+
+        <!-- Gulf water (Persian Gulf body) -->
+        <path d="M 100,45 Q 250,32 400,40 Q 470,46 525,75 Q 545,90 548,110 Q 545,130 530,145 Q 490,165 430,175 Q 370,185 300,188 Q 220,190 150,185 Q 100,180 75,165 Q 58,148 58,128 Q 60,90 80,65 Z" fill="rgba(10,40,90,0.6)" opacity="0.8"/>
+
+        <!-- Strait of Hormuz chokepoint -->
+        <path d="M 535,80 Q 550,90 558,105 Q 562,120 560,135 Q 555,145 548,150 Q 540,130 540,110 Q 538,95 535,80 Z" fill="rgba(215,38,56,0.3)" stroke="#D72638" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+        <!-- Hormuz Label -->
+        <text x="570" y="112" font-family="Cairo" font-size="12" font-weight="900" fill="#D72638" text-anchor="start">مضيق</text>
+        <text x="570" y="127" font-family="Cairo" font-size="12" font-weight="900" fill="#D72638" text-anchor="start">هرمز</text>
+
+        <!-- Mine danger zone — red hatch area -->
+        <ellipse cx="545" cy="115" rx="28" ry="40" fill="rgba(215,38,56,0.18)" stroke="#D72638" stroke-width="1.5" stroke-dasharray="5,4"/>
+
+        <!-- Mine symbols (X marks) -->
+        <!-- Mine 1 -->
+        <g transform="translate(532,95)">
+          <circle r="9" fill="#D72638" opacity="0.85"/>
+          <text x="0" y="5" font-family="Arial" font-size="12" font-weight="900" fill="white" text-anchor="middle">✕</text>
+        </g>
+        <!-- Mine 2 (known) -->
+        <g transform="translate(550,118)">
+          <circle r="9" fill="#D72638" opacity="0.85"/>
+          <text x="0" y="5" font-family="Arial" font-size="12" font-weight="900" fill="white" text-anchor="middle">✕</text>
+        </g>
+        <!-- Mine 3 (lost - shown with ?) -->
+        <g transform="translate(536,135)">
+          <circle r="9" fill="rgba(215,38,56,0.4)" stroke="#D72638" stroke-width="1.5" stroke-dasharray="3,2"/>
+          <text x="0" y="5" font-family="Arial" font-size="12" font-weight="900" fill="#D72638" text-anchor="middle">?</text>
+        </g>
+        <!-- Mine 4 (lost) -->
+        <g transform="translate(555,100)">
+          <circle r="9" fill="rgba(215,38,56,0.4)" stroke="#D72638" stroke-width="1.5" stroke-dasharray="3,2"/>
+          <text x="0" y="5" font-family="Arial" font-size="12" font-weight="900" fill="#D72638" text-anchor="middle">?</text>
+        </g>
+
+        <!-- Tanker route arrow -->
+        <path d="M 80,150 Q 200,170 300,175 Q 400,178 490,155 Q 510,148 530,138" fill="none" stroke="#FFC217" stroke-width="2.5" stroke-dasharray="8,5" opacity="0.8" marker-end="url(#arrow)"/>
+        <defs>
+          <marker id="arrow" markerWidth="8" markerHeight="6" refX="6" refY="3" orient="auto">
+            <path d="M 0,0 L 0,6 L 8,3 z" fill="#FFC217"/>
+          </marker>
+        </defs>
+
+        <!-- Route label -->
+        <text x="290" y="162" font-family="Cairo" font-size="12" font-weight="700" fill="#FFC217" text-anchor="middle" opacity="0.9">مسار الناقلات</text>
+
+        <!-- US destroyer icons -->
+        <g transform="translate(195,148)">
+          <rect width="22" height="10" rx="2" fill="rgba(75,123,236,0.8)" stroke="#7BA7FF" stroke-width="1"/>
+          <text x="11" y="8" font-family="Arial" font-size="8" fill="white" text-anchor="middle">🇺🇸</text>
+        </g>
+        <text x="206" y="170" font-family="Cairo" font-size="11" font-weight="700" fill="#7BA7FF" text-anchor="middle">USS</text>
+
+        <!-- Legend -->
+        <g transform="translate(20,210)">
+          <circle cx="10" cy="10" r="8" fill="#D72638" opacity="0.85"/>
+          <text x="10" y="14" font-family="Arial" font-size="10" fill="white" text-anchor="middle">✕</text>
+          <text x="25" y="14" font-family="Cairo" font-size="12" fill="rgba(255,255,255,0.7)">لغم مكتشف</text>
+        </g>
+        <g transform="translate(20,235)">
+          <circle cx="10" cy="10" r="8" fill="rgba(215,38,56,0.35)" stroke="#D72638" stroke-width="1.5" stroke-dasharray="3,2"/>
+          <text x="10" y="14" font-family="Arial" font-size="10" fill="#D72638" text-anchor="middle">?</text>
+          <text x="25" y="14" font-family="Cairo" font-size="12" fill="rgba(255,255,255,0.7)">لغم مفقود الموقع</text>
+        </g>
+        <g transform="translate(20,260)">
+          <line x1="0" y1="8" x2="24" y2="8" stroke="#FFC217" stroke-width="2.5" stroke-dasharray="6,4"/>
+          <text x="32" y="12" font-family="Cairo" font-size="12" fill="#FFC217">مسار الناقلات</text>
+        </g>
+
+        <!-- Alert box -->
+        <rect x="350" y="210" width="300" height="95" rx="8" fill="rgba(215,38,56,0.15)" stroke="rgba(215,38,56,0.5)" stroke-width="1.5"/>
+        <text x="500" y="232" font-family="Cairo" font-size="13" font-weight="900" fill="#D72638" text-anchor="middle">⚠ تحذير مزدوج</text>
+        <text x="500" y="252" font-family="Cairo" font-size="11.5" fill="rgba(255,255,255,0.75)" text-anchor="middle">الألغام قد تبقى حتى بعد الاتفاق</text>
+        <text x="500" y="271" font-family="Cairo" font-size="11.5" fill="rgba(255,255,255,0.75)" text-anchor="middle">إيران: لا إمكانية للإزالة السريعة</text>
+        <text x="500" y="291" font-family="Cairo" font-size="11.5" fill="rgba(255,255,255,0.75)" text-anchor="middle">فتح المضيق: أسابيع أو أشهر</text>
+      </svg>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">٩٫١ مليون برميل/يوم لا تزال خارج الأسواق</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 4 — $6B FROZEN ASSETS DISPUTE              -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-4">
+  <div class="photo-bg" style="background-image: url('images/currency.jpg'); background-position: center; opacity: 0.2;"></div>
+  <div class="overlay-dark"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <span class="status-badge breaking" style="margin-right: 12px;">خلاف حيّ</span>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+    <div class="timeline-bar"><div class="timeline-fill" style="width: 71.6%;"></div></div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div>الأصول المجمّدة</div>
+
+    <div class="headline-s" style="margin-bottom: 18px; font-family: 'Cairo', sans-serif; font-weight: 900;">
+      ٦ مليارات دولار:<br>
+      <span class="gold">إيران تدّعي · أمريكا تنفي</span>
+    </div>
+
+    <!-- Dispute Split Card -->
+    <div class="dispute-grid">
+      <div class="dispute-side iran-side">
+        <div class="dispute-flag">🇮🇷</div>
+        <div class="dispute-label red">إيران تقول</div>
+        <div class="dispute-claim">
+          واشنطن وافقت على<br>الإفراج عن ٦ مليارات دولار<br>محتجزة في قطر
+        </div>
+        <div class="dispute-sub">
+          المصدر: مسؤول إيراني رفيع<br>
+          "إشارة جدية قبل بدء التفاوض"
+        </div>
+        <div style="margin-top: 16px; display:flex; align-items: center; gap: 10px;">
+          <div style="width:32px; height:32px; border-radius:50%; background:#D72638; display:flex; align-items:center; justify-content:center; font-size:18px;">✓</div>
+          <div style="font-family:'Cairo'; font-size:18px; font-weight:900; color: #D72638;">تؤكد الصفقة</div>
+        </div>
+      </div>
+      <div class="verdict-badge">
+        <div class="vs-circle">VS</div>
+      </div>
+      <div class="dispute-side us-side">
+        <div class="dispute-flag">🇺🇸</div>
+        <div class="dispute-label" style="color: #7BA7FF;">أمريكا تقول</div>
+        <div class="dispute-claim">
+          لم يُتّفق على أي إفراج<br>عن أصول. لا صفقة<br>بشأن الأموال المجمّدة.
+        </div>
+        <div class="dispute-sub">
+          المصدر: مسؤول أمريكي رفيع<br>
+          "نفي قاطع وفوري"
+        </div>
+        <div style="margin-top: 16px; display:flex; align-items: center; gap: 10px;">
+          <div style="width:32px; height:32px; border-radius:50%; background:rgba(100,140,255,0.3); border: 2px solid #7BA7FF; display:flex; align-items:center; justify-content:center; font-size:18px; color:#7BA7FF;">✗</div>
+          <div style="font-family:'Cairo'; font-size:18px; font-weight:900; color: #7BA7FF;">تنفي الصفقة</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Qatar note -->
+    <div style="background: rgba(255,194,23,0.08); border: 1px solid rgba(255,194,23,0.25); border-radius: 8px; padding: 14px 18px; display: flex; align-items: center; gap: 14px; flex-shrink: 0; margin-bottom: 90px;">
+      <div style="font-size: 28px;">🇶🇦</div>
+      <div>
+        <div style="font-family:'Cairo'; font-size:17px; font-weight:800; color: #FFC217;">موقف قطر</div>
+        <div style="font-family:'Tajawal'; font-size:17px; color: rgba(255,255,255,0.75); margin-top:4px;">المبلغ لا يزال محتجزاً في الدوحة · أي إفراج يستلزم تفويضاً من وزارة الخزانة الأمريكية</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">الخلاف يُجري أمام الملأ خلال مباحثات إسلام آباد</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 5 — SAUDI ATTACKS + OIL $100              -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-5">
+  <div class="photo-bg" style="background-image: url('images/oil_refinery.jpg'); background-position: center 40%; opacity: 0.32;"></div>
+  <div class="overlay-gradient-b"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <span class="status-badge breaking" style="margin-right: 12px;">طارئ</span>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+    <div class="timeline-bar"><div class="timeline-fill" style="width: 71.6%;"></div></div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div>أسواق النفط</div>
+
+    <div class="headline-m" style="margin-bottom: 14px; font-family: 'Cairo', sans-serif; font-weight: 900;">
+      ضربات على البنية النفطية<br>
+      <span class="red">السعودية</span> · النفط فوق <span class="gold">١٠٠$</span>
+    </div>
+
+    <div class="body-sm" style="margin-bottom: 18px; color: rgba(255,255,255,0.75);">
+      ضربات ٩-١٠ أبريل طالت رأس تنورة، الجبيل، ينبع والرياض<br>
+      مصفاة TotalEnergies في الخليج خارج الخدمة
+    </div>
+
+    <!-- Oil price stats -->
+    <div class="stat-row">
+      <div class="stat-card red-border">
+        <div class="stat-num red">١٠٠.٠٤$</div>
+        <div class="stat-label">WTI اليوم</div>
+      </div>
+      <div class="stat-card gold-border">
+        <div class="stat-num gold">٩٧.٥٩$</div>
+        <div class="stat-label">برنت الفيزيائي</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" style="color:#666;">٦٦$</div>
+        <div class="stat-label">ما قبل الحرب</div>
+      </div>
+    </div>
+
+    <!-- Impact bars -->
+    <div class="impact-bar-container">
+      <div class="impact-bar-label">
+        <div class="impact-bar-title">خسارة الإنتاج السعودي</div>
+        <div class="impact-bar-value">-٦٠٠٬٠٠٠ برميل/يوم</div>
+      </div>
+      <div class="impact-bar-track"><div class="impact-bar-fill" style="width: 6.6%;"></div></div>
+    </div>
+
+    <div class="impact-bar-container">
+      <div class="impact-bar-label">
+        <div class="impact-bar-title">إجمالي إنتاج الخليج المتوقف</div>
+        <div class="impact-bar-value">٩٫١ مليون برميل/يوم</div>
+      </div>
+      <div class="impact-bar-track"><div class="impact-bar-fill gold-fill" style="width: 54%;"></div></div>
+    </div>
+
+    <div class="impact-bar-container" style="margin-bottom: 90px;">
+      <div class="impact-bar-label">
+        <div class="impact-bar-title">خط شرق-غرب السعودي (أرامكو)</div>
+        <div class="impact-bar-value">-٧٠٠٬٠٠٠ برميل/يوم</div>
+      </div>
+      <div class="impact-bar-track"><div class="impact-bar-fill" style="width: 7.7%;"></div></div>
+    </div>
+
+    <!-- Goldman forecast note -->
+    <div style="background: rgba(255,194,23,0.07); border: 1px solid rgba(255,194,23,0.2); border-radius: 8px; padding: 14px 18px; margin-bottom: 90px; flex-shrink: 0;">
+      <div style="font-family:'Cairo'; font-size:16px; font-weight:800; color: #FFC217;">توقعات غولدمان ساكس</div>
+      <div style="font-family:'Tajawal'; font-size:18px; color: rgba(255,255,255,0.8); margin-top:5px;">إذا بقي هرمز مغلقاً شهراً آخر → برنت فوق ١٠٠$ طوال ٢٠٢٦</div>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">ناقلتان فقط عبرتا هرمز منذ وقف إطلاق النار — إحداهما إيرانية</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot active"></div>
+        <div class="dot"></div><div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 6 — LEBANON: 1,953 DEAD, WASHINGTON TALKS  -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-6">
+  <div class="photo-bg" style="background-image: url('images/explosion_fire.jpg'); background-position: center; opacity: 0.28;"></div>
+  <div class="overlay-gradient-b"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+        <span class="status-badge confirmed" style="margin-right: 12px;">مؤكد</span>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+    <div class="timeline-bar"><div class="timeline-fill" style="width: 71.6%;"></div></div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div>لبنان</div>
+
+    <div class="headline-m" style="margin-bottom: 14px; font-family: 'Cairo', sans-serif; font-weight: 900;">
+      <span class="red">١٬٩٥٣</span> شهيداً<br>
+      ومحادثات واشنطن الأسبوع القادم
+    </div>
+
+    <!-- Death Counter -->
+    <div class="death-counter">
+      <div class="death-num">١٬٩٥٣</div>
+      <div class="death-label">قتيلاً منذ بدء الحرب · ٦٬٣٠٣ جريحاً · ١٫٢ مليون نازح</div>
+    </div>
+
+    <!-- Latest development -->
+    <div class="quote-block red-border" style="margin-bottom: 16px;">
+      <div class="quote-text" style="font-size: 28px;">
+        ١٣ عنصراً من قوى الأمن اللبناني قتلوا<br>
+        في غارة واحدة على مركز النبطية — ١٠ أبريل
+      </div>
+      <div class="quote-attr red">الغارة الأعنف على قوى الأمن منذ ٨ أبريل</div>
+    </div>
+
+    <!-- Two columns for latest -->
+    <div style="display: flex; gap: 16px; flex-shrink: 0; margin-bottom: 90px;">
+      <div style="flex:1; background: rgba(215,38,56,0.1); border: 1px solid rgba(215,38,56,0.3); border-radius: 10px; padding: 16px 18px;">
+        <div style="font-family:'Cairo'; font-size:16px; font-weight:800; color: #D72638; margin-bottom: 8px;">موقف نتنياهو</div>
+        <div style="font-family:'Tajawal'; font-size:18px; color: rgba(255,255,255,0.8); line-height:1.5;">وقف إطلاق النار مع إيران لا يشمل لبنان — عمليات مستمرة في الجنوب</div>
+      </div>
+      <div style="flex:1; background: rgba(255,194,23,0.08); border: 1px solid rgba(255,194,23,0.25); border-radius: 10px; padding: 16px 18px;">
+        <div style="font-family:'Cairo'; font-size:16px; font-weight:800; color: #FFC217; margin-bottom: 8px;">مبادرة واشنطن</div>
+        <div style="font-family:'Tajawal'; font-size:18px; color: rgba(255,255,255,0.8); line-height:1.5;">لبنان يُشارك في اجتماع وقف النار في واشنطن الأسبوع القادم مع ممثلين أمريكيين وإسرائيليين</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">إسرائيل تصف عملياتها بـ"الظلام الأبدي"</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot active"></div>
+        <div class="dot"></div>
+      </div>
+      <div style="font-family:'Cairo'; font-size:13px; color:rgba(255,255,255,0.35); letter-spacing:1px;">@photonect.news</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SLIDE 7 — SOURCES (Dense 2-column)               -->
+<!-- ═══════════════════════════════════════════════════ -->
+<div class="slide" id="slide-7">
+  <div class="overlay-dark" style="background: linear-gradient(135deg, #0a0a0a 0%, #111820 100%);"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="day-badge">
+        <div class="day-pill">اليوم ٤٣</div>
+      </div>
+      <div class="logo-block">
+        <div class="logo-red-rect"></div>
+        <div class="logo-wordmark">PHOTONECT</div>
+        <div class="logo-news">NEWS</div>
+      </div>
+    </div>
+    <div class="timeline-bar"><div class="timeline-fill" style="width: 71.6%;"></div></div>
+
+    <div class="tag"><div class="tag-dot"></div><div class="tag-line"></div>المصادر</div>
+
+    <div style="font-family:'Cairo'; font-size: 38px; font-weight: 900; color: #fff; margin-bottom: 18px;">
+      تحقق بنفسك<br>
+      <span class="gold" style="font-size: 28px;">كل خبر هنا له مصدر موثّق</span>
+    </div>
+
+    <!-- Dense 2-column sources grid -->
+    <div class="sources-grid">
+      <div class="source-item">
+        <div class="source-icon">📡</div>
+        <div>
+          <div class="source-name">Al Jazeera English</div>
+          <div class="source-type">مباحثات إسلام آباد · متابعة مباشرة</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">📰</div>
+        <div>
+          <div class="source-name">Reuters / Axios</div>
+          <div class="source-type">عبور المدمرات · مضيق هرمز</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">📺</div>
+        <div>
+          <div class="source-name">CNN / CBS News</div>
+          <div class="source-type">التغطية المباشرة لليوم ٤٣</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">💹</div>
+        <div>
+          <div class="source-name">Bloomberg / CNBC</div>
+          <div class="source-type">أسعار النفط · الطاقة</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">🌍</div>
+        <div>
+          <div class="source-name">The Week / Tribune India</div>
+          <div class="source-type">كشف الألغام المفقودة</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">🛢️</div>
+        <div>
+          <div class="source-name">World Oil / OilPrice.com</div>
+          <div class="source-type">ضربات البنية النفطية السعودية</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">🕊️</div>
+        <div>
+          <div class="source-name">Kurdistan 24 / RNZ</div>
+          <div class="source-type">نزاع الأصول المجمّدة ٦ مليار</div>
+        </div>
+      </div>
+      <div class="source-item">
+        <div class="source-icon">📖</div>
+        <div>
+          <div class="source-name">Wikipedia</div>
+          <div class="source-type">مباحثات إسلام آباد · الجدول الزمني</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Bottom brand bar -->
+  <div class="bottom-bar" style="background: rgba(215,38,56,0.12); border-top-color: rgba(215,38,56,0.35);">
+    <div style="font-family:'Cairo'; font-size:16px; font-weight:800; color: rgba(255,255,255,0.6);">@photonect.news · نتابع الأحداث بموضوعية ودقة</div>
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="slide-dots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot active"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

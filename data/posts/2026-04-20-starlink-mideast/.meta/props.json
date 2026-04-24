@@ -1,0 +1,143 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "tech_ai",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ستارلينك في سماء المنطقة: ١٤٢ ألف محطة طرفية تُنشر في إيران والعراق ولبنان والخليج",
+    "englishSubhead": "STARLINK MIDEAST • UNLIMITED PRIORITY",
+    "heroQueries": [
+      "Starlink user terminal dish",
+      "Starlink satellite antenna roof",
+      "SpaceX Starlink constellation satellite",
+      "satellite internet dish installation"
+    ],
+    "heroMedia": "images/news/2026-04-20-starlink-mideast/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تفعيل الأولوية غير المحدودة فوق المنطقة بطلب من وزارة الخارجية الأمريكية",
+      "arabicBody": "سبيس إكس فعّلت ليلاً خدمة Unlimited Priority فوق إيران والعراق ولبنان ودول الخليج الست بطلب رسمي من وزارة الخارجية الأمريكية. ١٤٢ ألف محطة طرفية أُسقطت عبر طائرات شحن ودخلت السوق الرمادية خلال ٤٨ ساعة — نفس دفتر اللعب الذي اتبعته الشركة مع أوكرانيا عام ٢٠٢٢.",
+      "bigStat": {
+        "value": "142k",
+        "label": "Terminals deployed in 48 hours",
+        "arabicLabel": "ألف محطة طرفية خلال ٤٨ ساعة"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد دول التفعيل",
+          "value": "9 COUNTRIES"
+        },
+        {
+          "label": "وزن حمولة الإسقاطات",
+          "value": "1,820 TONS"
+        },
+        {
+          "label": "سرعة التحميل المتاحة",
+          "value": "220 MBPS"
+        },
+        {
+          "label": "السابقة المرجعية",
+          "value": "UKRAINE 2022"
+        }
+      ],
+      "broll": "images/news/2026-04-20-starlink-mideast/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "انقطاعات الإنترنت الإيرانية تفقد معناها — وحزب الله يشتكي علناً",
+      "arabicBody": "طهران فرضت ٢٢ انقطاعاً إنترنتياً منذ بدء الحرب — كل انقطاع كان يعزل ملايين الإيرانيين عن العالم لساعات. ستارلينك يتجاوز الشبكات الأرضية كلياً. حزب الله أصدر بياناً يصف الخطوة بأنها «تدخل رقمي»، وروسيا والصين انضمّتا لنفس الوصف في مجلس الأمن.",
+      "bigStat": {
+        "value": "22",
+        "label": "Iran internet blackouts since war start",
+        "arabicLabel": "انقطاعاً إنترنتياً منذ بدء الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "مستخدمون متصلون فوراً",
+          "value": "3.4M USERS"
+        },
+        {
+          "label": "تغريدة ماسك",
+          "value": "OPEN COMMS"
+        },
+        {
+          "label": "رد مجلس الأمن",
+          "value": "CHINA + RUSSIA"
+        },
+        {
+          "label": "بيان حزب الله",
+          "value": "DIGITAL INTERVENTION"
+        }
+      ],
+      "broll": "images/news/2026-04-20-starlink-mideast/broll_2.mp4",
+      "brollType": "video"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات: احتضان رسمي، حرب تشويش، أو تفكيك سياسي",
+      "arabicBody": "المنطقة دخلت عصراً جديداً من الاتصالات اللامركزية. طهران تدرس ثلاث ردود محتملة: التشويش الراديوي الانتقائي، منع استيراد الأطباق، أو الاعتراف الضمني بالأمر الواقع. الخيار الأخير يعني اعترافاً ضمنياً بانتصار استراتيجي أمريكي في الحرب الرقمية.",
+      "bigStat": {
+        "value": "9",
+        "label": "Countries activated overnight",
+        "arabicLabel": "دول فُعّلت الخدمة فيها بين عشية وضحاها"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "JAMMING WAR"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "IMPORT BAN"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "DE FACTO ACCEPT"
+        }
+      ],
+      "broll": "images/news/2026-04-20-starlink-mideast/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The Economist",
+      "domain": "economist.com"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    },
+    {
+      "name": "Politico",
+      "domain": "politico.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "ستارلينك تفعّل خدمة الأولوية غير المحدودة فوق إيران والعراق ولبنان ودول الخليج الست",
+    "١٤٢ ألف محطة طرفية أُسقطت عبر طائرات شحن ودخلت السوق الرمادية خلال ٤٨ ساعة فقط",
+    "الطلب جاء رسمياً من وزارة الخارجية الأمريكية — نفس دفتر لعب أوكرانيا في ٢٠٢٢",
+    "٢٢ انقطاعاً إنترنتياً فرضتها طهران منذ بدء الحرب — كلها تفقد معناها الآن",
+    "حزب الله يصف الخطوة بأنها «تدخل رقمي» — وروسيا والصين تنضمّان للوصف في مجلس الأمن",
+    "إيلون ماسك يغرّد: اتصالات مفتوحة لكل الأطراف — ٣٫٤ مليون مستخدم متصل فوراً",
+    "طهران تدرس ثلاث ردود: التشويش، منع الاستيراد، أو الاعتراف الضمني بالأمر الواقع"
+  ]
+}

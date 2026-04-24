@@ -1,0 +1,141 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "gulf_regional",
+  "breaking": {
+    "arabicKicker": "محور الخليج",
+    "arabicHeadline": "الخليج يتحرّك بصمت: قمة سعودية سرّية لإنقاذ هدنة ٢١ أبريل",
+    "englishSubhead": "GULF PIVOT • MBS leads secret backchannel",
+    "heroMedia": "images/news/2026-04-18-gulf-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قنوات خلفية متوازية من الرياض إلى طهران عبر إسلام أباد",
+      "arabicBody": "محمد بن سلمان يدير ثلاث قنوات خلفية مع واشنطن وطهران. رئيس أركان الجيش الباكستاني عاصم منير وصل طهران للتفاوض، ورئيس الوزراء شهباز شريف أكمل جولة الإمارات وقطر. هدف واحد: تمديد هدنة ٢١ أبريل لأسبوعين بضمانات خليجية قبل أن ينفجر المضيق مجدداً.",
+      "bigStat": {
+        "value": "3 أيام",
+        "label": "to April 21 ceasefire expiry",
+        "arabicLabel": "تفصل الخليج عن لحظة القرار"
+      },
+      "supportingStats": [
+        {
+          "label": "قنوات بن سلمان النشطة",
+          "value": "3"
+        },
+        {
+          "label": "زيارات باكستانية",
+          "value": "طهران + أبوظبي + الدوحة"
+        },
+        {
+          "label": "التمديد المقترح",
+          "value": "أسبوعان"
+        },
+        {
+          "label": "الوساطة المصرية–التركية",
+          "value": "فعّالة"
+        }
+      ],
+      "broll": "images/news/2026-04-18-gulf-pivot/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خسائر يومية بالمليارات — الحسابات الاقتصادية تفرض اتفاقاً",
+      "arabicBody": "الخليج يخسر أكثر من مليار دولار يومياً من إغلاق هرمز. السعودية أعادت تشغيل خط شرق–غرب بسعة ٧ ملايين برميل، والإمارات تمرّر الشحنات عبر الفجيرة. لكن ٦٠٠ ألف برميل سعودي لا تزال معطّلة، والحوثيون يهدّدون بتوسيع الحصار إلى البحر الأحمر.",
+      "bigStat": {
+        "value": "$1B+",
+        "label": "daily Gulf oil losses",
+        "arabicLabel": "خسائر الخليج اليومية من إغلاق هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "خط شرق–غرب السعودي",
+          "value": "7M BPD"
+        },
+        {
+          "label": "إنتاج سعودي معطّل",
+          "value": "600K BPD"
+        },
+        {
+          "label": "مسار الفجيرة",
+          "value": "نشط"
+        },
+        {
+          "label": "تهديد حوثي",
+          "value": "البحر الأحمر"
+        }
+      ],
+      "broll": "images/news/2026-04-18-gulf-pivot/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "٣ سيناريوهات ليوم الاثنين — التمديد، التصعيد، أو إعادة التموضع",
+      "arabicBody": "بلومبرغ وأكسيوس تحدّثتا عن تمديد الهدنة أسبوعين بضمانات خليجية، طهران نفت رسمياً، ومجتبى خامنئي يتمسّك بالخط المتشدد. هل ينجح المال الخليجي والدبلوماسية الباكستانية والوساطة المصرية–التركية فيما عجز عنه ترامب وطهران؟",
+      "bigStat": {
+        "value": "60%",
+        "label": "odds on ceasefire extension",
+        "arabicLabel": "احتمال تمديد الهدنة (وفق الأسواق)"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول — التمديد",
+          "value": "أسبوعان بضمانات"
+        },
+        {
+          "label": "السيناريو الثاني — التصعيد",
+          "value": "حصار حوثي"
+        },
+        {
+          "label": "السيناريو الثالث — إعادة التموضع",
+          "value": "بقيادة بن سلمان"
+        }
+      ],
+      "broll": "images/news/2026-04-18-gulf-pivot/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "mapOverlay": "hormuz"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.net"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    }
+  ],
+  "arabicTicker": [
+    "قمة سعودية سرّية لإنقاذ هدنة ٢١ أبريل قبل ٣ أيام من انتهائها",
+    "عاصم منير يصل طهران، وشهباز شريف يختم جولة الإمارات وقطر",
+    "السعودية تعيد تشغيل خط شرق–غرب بطاقة ٧ ملايين برميل يومياً",
+    "٦٠٠ ألف برميل سعودي لا تزال معطّلة منذ إغلاق هرمز",
+    "بلومبرغ: تمديد الهدنة أسبوعين بضمانات خليجية مطروح للنقاش",
+    "مجتبى خامنئي يتمسّك بالخط المتشدد ويرفض أي تمديد",
+    "الحوثيون يهدّدون بتوسيع الحصار إلى البحر الأحمر"
+  ]
+}

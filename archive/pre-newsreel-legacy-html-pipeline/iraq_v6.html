@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Photonect NEWS — Iraq V6</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#050505;display:flex;flex-direction:column;align-items:center;gap:16px;padding:16px;font-family:'Tajawal','Cairo',sans-serif;}
+.lbl{color:#333;font:10px monospace;margin-bottom:-10px;}
+.slide{width:1080px;height:1080px;position:relative;overflow:hidden;font-family:'Tajawal','Cairo',sans-serif;background:#0a0a0a;}
+
+:root{--gold:#FFC217;--red:#D72638;--dark:#0a0a0a;--pol:#3B82F6;--eco:#10B981;--sec:#EF4444;--oil:#F59E0B;--soc:#A855F7;}
+
+/* Logo */
+.logo{display:inline-flex;flex-direction:column;align-items:center;gap:0;}
+.logo .r{width:16px;height:5px;background:var(--red);border-radius:1px;}
+.logo .n{font-family:'Cairo';font-weight:900;font-size:14px;letter-spacing:2px;color:#fff;line-height:1.2;}
+.logo .s{font-family:'Cairo';font-weight:800;font-size:7px;letter-spacing:4px;color:var(--gold);}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:12px 36px;position:relative;z-index:5;}
+.tag{padding:4px 14px;border-radius:12px;font-size:11px;font-weight:800;color:#fff;letter-spacing:1px;}
+.pg{color:rgba(255,255,255,.25);font-size:11px;font-weight:600;font-family:'Cairo',monospace;direction:ltr;}
+.dots{display:flex;gap:6px;justify-content:center;}
+.dots .d{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.1);}
+.dots .d.a{background:var(--gold);width:16px;border-radius:3px;}
+
+/* ======= SLIDE 1: COVER — Baghdad aerial, dense headlines ======= */
+.s1 .bg{position:absolute;inset:0;background:url('./images/baghdad.jpg') center/cover;opacity:.4;}
+.s1 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.3) 0%,rgba(10,10,10,.65) 25%,rgba(10,10,10,.92) 55%,#0a0a0a 75%);}
+.s1 .gl{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,var(--red),var(--gold));z-index:5;}
+.s1 .hero{text-align:center;padding:10px 36px 8px;position:relative;z-index:3;}
+.s1 .hero .flag{font-size:36px;}
+.s1 .hero h1{font-size:54px;font-weight:900;color:#fff;line-height:1.05;margin:4px 0;}
+.s1 .hero .dline{width:80px;height:2px;background:var(--gold);margin:6px auto;}
+.s1 .hero .datesub{font-size:17px;color:var(--gold);font-weight:700;}
+
+/* Dense headline grid - 2 big + 2 small */
+.hl-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:12px 36px;position:relative;z-index:3;}
+.hl-big{grid-column:span 2;background:rgba(215,38,56,.1);border:1px solid rgba(215,38,56,.25);border-radius:14px;padding:18px 20px;display:flex;gap:14px;align-items:center;}
+.hl-big .hl-stat{text-align:center;flex-shrink:0;min-width:90px;}
+.hl-big .hl-stat .hn{font-size:38px;font-weight:900;font-family:'Cairo';color:var(--red);line-height:1;}
+.hl-big .hl-stat .hl{font-size:11px;color:rgba(255,255,255,.35);margin-top:2px;}
+.hl-big .hl-body{flex:1;}
+.hl-big .hl-body .ht{font-size:18px;font-weight:800;color:#fff;line-height:1.3;margin-bottom:3px;}
+.hl-big .hl-body .hd{font-size:13px;color:rgba(255,255,255,.4);line-height:1.4;}
+
+.hl-sm{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:14px 16px;display:flex;gap:10px;align-items:flex-start;}
+.hl-sm .hl-accent{width:3px;border-radius:2px;align-self:stretch;flex-shrink:0;}
+.hl-sm .ht{font-size:15px;font-weight:700;color:#fff;line-height:1.3;margin-bottom:2px;}
+.hl-sm .hd{font-size:12px;color:rgba(255,255,255,.35);line-height:1.3;}
+
+/* Quick stats bar */
+.qstats{display:flex;gap:6px;padding:8px 36px;position:relative;z-index:3;}
+.qs{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:10px 8px;text-align:center;}
+.qs .qn{font-size:20px;font-weight:900;font-family:'Cairo';line-height:1;}
+.qs .ql{font-size:10px;color:rgba(255,255,255,.3);margin-top:2px;line-height:1.2;}
+
+.s1 .bot{position:absolute;bottom:0;left:0;right:0;background:var(--gold);padding:12px 36px;display:flex;justify-content:space-between;align-items:center;z-index:5;}
+.s1 .bot .sw{color:#0a0a0a;font-size:15px;font-weight:800;}
+
+/* ======= SLIDE 2: OIL CRISIS — dense storytelling ======= */
+.s2 .bg{position:absolute;inset:0;background:url('./images/oil_refinery.jpg') center/cover;opacity:.15;}
+.s2 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.5) 0%,rgba(10,10,10,.85) 30%,#0a0a0a 60%);}
+.s2 .hdr{padding:12px 36px 10px;position:relative;z-index:3;}
+.s2 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--red);}
+.s2 .title{color:#fff;font-size:34px;font-weight:900;line-height:1.15;margin:4px 0;}
+.s2 .sub{color:rgba(255,255,255,.4);font-size:15px;line-height:1.4;}
+
+/* Big comparison panel */
+.compare-panel{display:flex;gap:0;margin:10px 36px;border-radius:14px;overflow:hidden;border:1px solid rgba(255,255,255,.08);position:relative;z-index:3;}
+.cp-side{flex:1;padding:16px;text-align:center;}
+.cp-side .cp-label{font-size:10px;font-weight:800;letter-spacing:2px;opacity:.4;margin-bottom:4px;}
+.cp-side .cp-num{font-size:44px;font-weight:900;font-family:'Cairo';line-height:1;}
+.cp-side .cp-unit{font-size:12px;color:rgba(255,255,255,.35);margin-top:2px;}
+.cp-arrow{width:40px;display:flex;align-items:center;justify-content:center;font-size:24px;color:var(--red);}
+
+.s2 .content{padding:8px 36px;display:flex;flex-direction:column;gap:7px;position:relative;z-index:3;}
+.story-card{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:14px 16px;border-right:4px solid;}
+.story-card .sc-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;}
+.story-card .sc-title{font-size:16px;font-weight:800;color:#fff;flex:1;}
+.story-card .sc-badge{padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;flex-shrink:0;}
+.story-card .sc-desc{font-size:13px;color:rgba(255,255,255,.4);line-height:1.5;}
+.story-card .sc-highlight{color:var(--gold);font-weight:700;}
+
+.s2 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(239,68,68,.08);border-top:1px solid rgba(239,68,68,.15);padding:12px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s2 .bbar .bf{color:var(--red);font-size:12px;font-weight:700;}
+
+/* ======= SLIDE 3: POWER STRUGGLE ======= */
+.s3 .bg{position:absolute;inset:0;background:url('./images/shaheed.jpg') center 40%/cover;opacity:.12;}
+.s3 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.6) 0%,#0a0a0a 35%);}
+.s3 .hdr{padding:12px 36px 8px;position:relative;z-index:3;}
+.s3 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--pol);}
+.s3 .title{color:#fff;font-size:34px;font-weight:900;line-height:1.15;margin:4px 0;}
+.s3 .sub{color:rgba(255,255,255,.4);font-size:14px;}
+
+/* Countdown card */
+.countdown-card{margin:10px 36px;background:linear-gradient(135deg,rgba(59,130,246,.1),rgba(59,130,246,.03));border:1px solid rgba(59,130,246,.2);border-radius:14px;padding:16px 20px;display:flex;align-items:center;gap:16px;position:relative;z-index:3;}
+.cd-num{font-size:52px;font-weight:900;font-family:'Cairo';color:var(--pol);line-height:1;flex-shrink:0;}
+.cd-unit{font-size:14px;color:var(--pol);font-weight:700;flex-shrink:0;}
+.cd-text{flex:1;}
+.cd-text .cdt{font-size:17px;font-weight:800;color:#fff;margin-bottom:3px;}
+.cd-text .cdd{font-size:13px;color:rgba(255,255,255,.4);line-height:1.4;}
+
+.s3 .content{padding:6px 36px;display:flex;flex-direction:column;gap:7px;position:relative;z-index:3;}
+
+/* VS layout */
+.vs-box{margin:6px 36px;border-radius:14px;overflow:hidden;border:1px solid rgba(255,255,255,.08);display:flex;position:relative;z-index:3;}
+.vs-side{flex:1;padding:14px 16px;}
+.vs-side .vst{font-size:14px;font-weight:800;margin-bottom:6px;}
+.vs-side .vsi{font-size:13px;color:rgba(255,255,255,.4);line-height:1.5;}
+.vs-mid{width:36px;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;color:rgba(255,255,255,.15);background:rgba(255,255,255,.02);}
+
+.s3 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(59,130,246,.06);border-top:1px solid rgba(59,130,246,.12);padding:12px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s3 .bbar .bf{color:var(--pol);font-size:12px;font-weight:700;}
+
+/* ======= SLIDE 4: ECONOMY — dense numbers ======= */
+.s4 .bg{position:absolute;inset:0;background:url('./images/currency.jpg') center/cover;opacity:.08;}
+.s4 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 40%);}
+.s4 .hdr{padding:12px 36px 8px;position:relative;z-index:3;}
+.s4 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--eco);}
+.s4 .title{color:#fff;font-size:34px;font-weight:900;line-height:1.15;margin:4px 0;}
+
+/* Metric row - full width */
+.met-row{display:flex;gap:6px;padding:8px 36px;position:relative;z-index:3;}
+.met-card{flex:1;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:12px;padding:12px 10px;text-align:center;position:relative;overflow:hidden;}
+.met-card .mc-top{position:absolute;top:0;left:0;right:0;height:3px;}
+.met-card .mc-label{font-size:11px;color:rgba(255,255,255,.35);font-weight:600;margin-bottom:4px;}
+.met-card .mc-value{font-size:28px;font-weight:900;font-family:'Cairo';line-height:1;}
+.met-card .mc-delta{font-size:11px;font-weight:700;margin-top:3px;display:inline-block;padding:2px 8px;border-radius:4px;}
+.mc-delta.up{background:rgba(16,185,129,.12);color:#10B981;}
+.mc-delta.dn{background:rgba(239,68,68,.12);color:#EF4444;}
+
+/* Gap indicator */
+.gap-bar{margin:6px 36px;background:rgba(239,68,68,.08);border:1px solid rgba(239,68,68,.15);border-radius:10px;padding:10px 16px;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:3;}
+.gap-bar .gb-label{font-size:13px;font-weight:700;color:var(--red);}
+.gap-bar .gb-value{font-size:22px;font-weight:900;color:var(--red);font-family:'Cairo';}
+
+.s4 .content{padding:4px 36px;display:flex;flex-direction:column;gap:6px;position:relative;z-index:3;}
+.s4 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;background:rgba(16,185,129,.05);border-top:1px solid rgba(16,185,129,.1);padding:12px 36px;display:flex;justify-content:space-between;align-items:center;}
+.s4 .bbar .bf{color:var(--eco);font-size:12px;font-weight:700;}
+
+/* ======= SLIDE 5: ON THE GROUND + WHAT TO WATCH ======= */
+.s5 .bg{position:absolute;inset:0;background:url('./images/fire.jpg') center/cover;opacity:.1;}
+.s5 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 35%);}
+.s5 .hdr{padding:12px 36px 8px;position:relative;z-index:3;}
+.s5 .ch{font-size:12px;font-weight:800;letter-spacing:3px;color:var(--gold);}
+.s5 .title{color:#fff;font-size:32px;font-weight:900;line-height:1.15;margin:4px 0;}
+
+/* Human story highlight */
+.human-story{margin:8px 36px;background:linear-gradient(135deg,rgba(255,194,23,.08),rgba(255,194,23,.02));border:1px solid rgba(255,194,23,.2);border-radius:14px;padding:16px 18px;position:relative;z-index:3;}
+.human-story .hs-tag{display:inline-block;background:var(--gold);color:#0a0a0a;padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;margin-bottom:6px;}
+.human-story .hs-title{font-size:18px;font-weight:900;color:#fff;margin-bottom:4px;line-height:1.3;}
+.human-story .hs-desc{font-size:14px;color:rgba(255,255,255,.45);line-height:1.6;}
+.human-story .hs-highlight{color:var(--gold);font-weight:700;}
+
+.s5 .watch{margin:8px 36px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:14px 16px;position:relative;z-index:3;}
+.s5 .watch .wt{color:var(--gold);font-size:16px;font-weight:900;margin-bottom:8px;}
+.s5 .wi{display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;}
+.s5 .wi:last-child{margin-bottom:0;}
+.s5 .wi .wd{width:7px;height:7px;border-radius:50%;margin-top:6px;flex-shrink:0;}
+.s5 .wi .wl{font-size:14px;font-weight:700;color:#fff;}
+.s5 .wi .wdesc{font-size:12px;color:rgba(255,255,255,.35);}
+
+/* Single number highlight */
+.big-num-strip{margin:6px 36px;background:rgba(215,38,56,.08);border:1px solid rgba(215,38,56,.15);border-radius:12px;padding:14px 18px;display:flex;align-items:center;justify-content:center;gap:14px;position:relative;z-index:3;}
+.big-num-strip .bns-num{font-size:40px;font-weight:900;font-family:'Cairo';color:var(--red);line-height:1;}
+.big-num-strip .bns-text{font-size:14px;color:rgba(255,255,255,.5);line-height:1.3;}
+
+.s5 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:5;padding:12px 36px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid rgba(255,255,255,.06);}
+
+/* ======= SLIDE 6: SOURCES (2-col grid, compact) ======= */
+.s6{background:#0a0a0a;}
+.s6 .top{text-align:center;padding:20px 36px 6px;}
+.s6 .sep{height:1px;background:rgba(255,255,255,.05);margin:0 60px;}
+.s6 .stitle{text-align:center;font-size:30px;font-weight:900;color:#fff;margin:6px 0 3px;}
+.s6 .ssub{text-align:center;font-size:13px;color:rgba(255,255,255,.25);margin-bottom:5px;}
+.s6 .srcs{padding:3px 36px;display:flex;flex-wrap:wrap;gap:5px;}
+.s6 .sr{display:flex;align-items:center;gap:6px;padding:8px 12px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:8px;width:calc(50% - 3px);}
+.s6 .sr .sn{background:var(--gold);color:#0a0a0a;min-width:20px;height:20px;border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:900;font-family:'Cairo';flex-shrink:0;}
+.s6 .sr .sname{color:#fff;font-size:12px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:1;}
+.s6 .sr .sg{width:2px;height:16px;background:var(--gold);border-radius:1px;flex-shrink:0;}
+
+/* Credits section */
+.credits{padding:6px 36px;position:relative;z-index:3;}
+.credit-item{font-size:11px;color:rgba(255,255,255,.2);line-height:1.5;}
+
+.s6 .bottom{position:absolute;bottom:0;left:0;right:0;text-align:center;padding:10px 36px;}
+.s6 .follow{color:rgba(255,255,255,.3);font-size:12px;}
+.s6 .handle{color:var(--gold);font-size:18px;font-weight:900;direction:ltr;display:inline-block;margin-top:2px;}
+.s6 .tagline{color:rgba(255,255,255,.12);font-size:10px;margin-top:2px;}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: COVER -->
+<div class="lbl">1/6</div>
+<div class="slide s1" id="slide1">
+<div class="bg"></div><div class="ov"></div><div class="gl"></div>
+<div class="nav">
+  <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+  <div style="display:flex;align-items:center;gap:5px;"><div style="width:6px;height:6px;border-radius:50%;background:var(--red);box-shadow:0 0 6px var(--red);"></div><span style="color:rgba(255,255,255,.45);font-size:12px;font-weight:700;">٨ أبريل ٢٠٢٦</span></div>
+</div>
+<div class="hero">
+  <div class="flag">🇮🇶</div>
+  <h1>العراق اليوم</h1>
+  <div class="dline"></div>
+  <div class="datesub">ملخص ٢٤ ساعة — كل ما تحتاج تعرفه</div>
+</div>
+
+<div class="hl-grid">
+  <!-- Big headline -->
+  <div class="hl-big">
+    <div class="hl-stat"><div class="hn">-٧٦٪</div><div class="hl">إنتاج النفط</div></div>
+    <div class="hl-body"><div class="ht">إيرادات العراق تنهار — والرواتب في خطر</div><div class="hd">من ٣.٤ مليون إلى ٨٠٠ ألف برميل يومياً بسبب إغلاق هرمز</div></div>
+  </div>
+  <!-- Small headlines -->
+  <div class="hl-sm">
+    <div class="hl-accent" style="background:var(--pol);"></div>
+    <div><div class="ht">انتخاب الرئيس بعد ٣ أيام</div><div class="hd">١٩ مرشحاً — المالكي خارج السباق</div></div>
+  </div>
+  <div class="hl-sm">
+    <div class="hl-accent" style="background:var(--sec);"></div>
+    <div><div class="ht">إعدام ١١ داعشياً</div><div class="hd">خططوا لهجمات بمسيّرات على مؤسسات الدولة</div></div>
+  </div>
+</div>
+
+<div class="qstats">
+  <div class="qs"><div class="qn" style="color:var(--eco);">١,٣١٠</div><div class="ql">دينار/دولار<br>رسمي</div></div>
+  <div class="qs"><div class="qn" style="color:var(--red);">١,٥٤٧</div><div class="ql">دينار/دولار<br>موازي</div></div>
+  <div class="qs"><div class="qn" style="color:var(--oil);">٨٠٠K</div><div class="ql">برميل/يوم<br>إنتاج حالي</div></div>
+  <div class="qs"><div class="qn" style="color:var(--sec);">+٣٠٠</div><div class="ql">هجوم ميليشيا<br>على أهداف أمريكية</div></div>
+</div>
+
+<div class="bot">
+  <div class="sw">← اسحب لقراءة القصة كاملة</div>
+  <div class="dots"><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+<!-- SLIDE 2: OIL CRISIS -->
+<div class="lbl">2/6</div>
+<div class="slide s2" id="slide2">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav"><div class="pg">٢ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--red);">القصة الرئيسية</div></div>
+  <div class="ch">تأثير حرب إيران</div>
+  <div class="title">النفط ينهار — والعراق يخسر<br>٧٥٪ من إيراداته في شهر واحد</div>
+  <div class="sub">مضيق هرمز مغلق. خط كركوك-جيهان معطّل. والحكومة عاجزة عن الدفع.</div>
+</div>
+
+<div class="compare-panel">
+  <div class="cp-side" style="background:rgba(16,185,129,.06);">
+    <div class="cp-label" style="color:var(--eco);">قبل الحرب</div>
+    <div class="cp-num" style="color:var(--eco);">٣.٤M</div>
+    <div class="cp-unit">برميل يومياً</div>
+  </div>
+  <div class="cp-arrow">→</div>
+  <div class="cp-side" style="background:rgba(215,38,56,.06);">
+    <div class="cp-label" style="color:var(--red);">اليوم</div>
+    <div class="cp-num" style="color:var(--red);">٨٠٠K</div>
+    <div class="cp-unit">انخفاض ٧٦٪</div>
+  </div>
+</div>
+
+<div class="content">
+  <div class="story-card" style="border-right-color:var(--eco);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--eco);">رئيس نفط البصرة: "نعيد ٣.٤ مليون خلال أسبوع"</div><div class="sc-badge" style="background:rgba(16,185,129,.12);color:var(--eco);">حصري</div></div>
+    <div class="sc-desc">لكن <span class="sc-highlight">بشرط واحد فقط</span> — فتح مضيق هرمز. المخزونات جاهزة والبنية التحتية سليمة. لكن الشرط السياسي أقوى من الجاهزية التقنية.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--red);">
+    <div class="sc-head"><div class="sc-title">خلاف بغداد-أربيل يقتل البديل الوحيد</div><div class="sc-badge" style="background:rgba(239,68,68,.12);color:var(--red);">عاجل</div></div>
+    <div class="sc-desc">خط كركوك-جيهان عبر تركيا هو المخرج الوحيد من أزمة هرمز. بغداد تهدد بإجراءات قانونية. أربيل تشترط رفع إجراءات يناير. <span class="sc-highlight">الإنتاج الفعلي: ١.٤ مليون فقط.</span></div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--oil);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--oil);">أوبك+ ترفع الحصص — قرار بلا معنى</div></div>
+    <div class="sc-desc">حصة العراق لمايو: ٤.٣٢٦ مليون برميل. في الواقع، لا أحد يستطيع الإنتاج. قرار رمزي في حرب حقيقية.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--sec);">
+    <div class="sc-head"><div class="sc-title">هجوم بمسيّرات على حقل الرميلة</div><div class="sc-badge" style="background:rgba(239,68,68,.12);color:var(--red);">٤ أبريل</div></div>
+    <div class="sc-desc">مسيّرتان استهدفتا مواقع BP وشلمبرجير. ٣ عمال عراقيين أصيبوا. BP أخلت موظفيها الأجانب. لا أحد تبنّى الهجوم.</div>
+  </div>
+</div>
+
+<div class="bbar">
+  <div class="bf">٩٠٪ من إيرادات العراق تعتمد على النفط — والنفط محتجز</div>
+  <div class="dots"><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+<!-- SLIDE 3: POWER STRUGGLE -->
+<div class="lbl">3/6</div>
+<div class="slide s3" id="slide3">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav"><div class="pg">٣ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--pol);">سياسة وأمن</div></div>
+  <div class="ch">صراع السلطة</div>
+  <div class="title">رئيس جمهورية بعد ٣ أيام — والمالكي<br>أسقطته واشنطن بضغطة زر</div>
+  <div class="sub">١٩ مرشحاً · ٢٢٠ صوتاً للفوز · الحرب تعقّد كل شيء</div>
+</div>
+
+<div class="countdown-card">
+  <div class="cd-num">٣</div>
+  <div class="cd-unit">أيام</div>
+  <div class="cd-text">
+    <div class="cdt">١١ أبريل — انتخاب رئيس الجمهورية</div>
+    <div class="cdd">من ٤٤ مرشحاً إلى ١٩. عبد اللطيف رشيد (الحالي) وفؤاد حسين (KDP) الأبرز. نزار عميدي (PUK) المرشح الكردي الرسمي.</div>
+  </div>
+</div>
+
+<div class="vs-box">
+  <div class="vs-side" style="background:rgba(239,68,68,.05);">
+    <div class="vst" style="color:var(--red);">🇺🇸 واشنطن قالت</div>
+    <div class="vsi">• لا مالكي = ندعم العراق<br>• عودته = سحب الدعم بالكامل<br>• تهديد بعقوبات على البنك المركزي وسومو</div>
+  </div>
+  <div class="vs-mid">VS</div>
+  <div class="vs-side" style="background:rgba(59,130,246,.04);">
+    <div class="vst" style="color:var(--pol);">🇮🇶 الإطار استجاب</div>
+    <div class="vsi">• سحب ترشيح المالكي رسمياً<br>• يبحث عن بديل<br>• لكن حلفاء المالكي غاضبون</div>
+  </div>
+</div>
+
+<div class="content">
+  <div class="story-card" style="border-right-color:var(--sec);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--sec);">إعدام ١١ عنصر داعش — خلية المسيّرات</div><div class="sc-badge" style="background:rgba(239,68,68,.12);color:var(--sec);">اليوم</div></div>
+    <div class="sc-desc">المحكمة الجنائية المركزية. جنّدوا عبر السوشال ميديا. تدربوا على صنع قنابل واستخدام مسيّرات لاستهداف مؤسسات الدولة.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--sec);">
+    <div class="sc-head"><div class="sc-title">+٣٠٠ هجوم على أهداف أمريكية</div></div>
+    <div class="sc-desc">منذ أواخر فبراير. السفارة، المطار، قواعد في كردستان، منشآت نفطية. تحذير السفارة: <span class="sc-highlight">"هجمات في وسط بغداد خلال ٤٨ ساعة"</span>. العراق رُفع للمستوى ٤ — "لا تسافر".</div>
+  </div>
+</div>
+
+<div class="bbar">
+  <div class="bf">الحكومة: "لن نسمح باستخدام العراق منطلقاً لهجمات عابرة للحدود"</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+<!-- SLIDE 4: ECONOMY -->
+<div class="lbl">4/6</div>
+<div class="slide s4" id="slide4">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav"><div class="pg">٤ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--eco);">اقتصاد</div></div>
+  <div class="ch">الأرقام التي تهمّك</div>
+  <div class="title">الدينار · الدولار · النفط · الجمارك</div>
+</div>
+
+<div class="met-row">
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--eco);"></div>
+    <div class="mc-label">الدولار (رسمي)</div>
+    <div class="mc-value" style="color:var(--eco);">١,٣١٠</div>
+    <div class="mc-delta up">+٠.٠٢٪</div>
+  </div>
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--red);"></div>
+    <div class="mc-label">الدولار (موازي)</div>
+    <div class="mc-value" style="color:var(--red);">١,٥٤٧</div>
+    <div class="mc-delta dn">↑ مرتفع</div>
+  </div>
+  <div class="met-card">
+    <div class="mc-top" style="background:var(--oil);"></div>
+    <div class="mc-label">إنتاج النفط</div>
+    <div class="mc-value" style="color:var(--oil);">٨٠٠K</div>
+    <div class="mc-delta dn">-٧٦٪</div>
+  </div>
+</div>
+
+<div class="gap-bar">
+  <div class="gb-label">فجوة السعر الرسمي والموازي</div>
+  <div class="gb-value">١٨٪</div>
+</div>
+
+<div class="content">
+  <div class="story-card" style="border-right-color:var(--eco);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--eco);">توحيد الجمارك: بغداد وأربيل تتفقان</div><div class="sc-badge" style="background:rgba(16,185,129,.12);color:var(--eco);">اليوم</div></div>
+    <div class="sc-desc">المجلس الوزاري برئاسة فؤاد حسين وافق على توحيد الإجراءات في كل المنافذ. نظام ASYCUDA الرقمي. منفذ طريبيل مُعتمد لاستيراد الذهب. تقرير تقني خلال أسبوع.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--red);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--red);">أزمة رواتب تلوح في الأفق</div><div class="sc-badge" style="background:rgba(239,68,68,.12);color:var(--red);">تحذير</div></div>
+    <div class="sc-desc">الحكومة تعتمد على النفط لـ ٩٠٪ من إيراداتها. مع انهيار الإنتاج ٧٦٪، دفع رواتب القطاع العام أصبح تحدياً حقيقياً. سعر الموازنة ١,٣٠٠ — والسوق يقول ١,٥٤٧.</div>
+  </div>
+  <div class="story-card" style="border-right-color:var(--gold);">
+    <div class="sc-head"><div class="sc-title">+١٤,٠٠٠ رحلة جوية أُلغيت</div></div>
+    <div class="sc-desc">الطيران شبه متوقف في المنطقة منذ ٢٨ فبراير. السياحة والتجارة وحركة الأعمال تتضرر بشكل مباشر.</div>
+  </div>
+</div>
+
+<div class="bbar">
+  <div class="bf">سعر الموازنة: ١,٣٠٠ — السوق: ١,٥٤٧ — الفجوة تتسع يومياً</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div></div>
+</div>
+</div>
+
+<!-- SLIDE 5: ON THE GROUND + WHAT TO WATCH -->
+<div class="lbl">5/6</div>
+<div class="slide s5" id="slide5">
+<div class="bg"></div><div class="ov"></div>
+<div class="hdr">
+  <div class="nav"><div class="pg">٥ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--gold);color:#0a0a0a;">على الأرض</div></div>
+  <div class="ch">قصص وتطورات</div>
+  <div class="title">ماذا يحصل على أرض الواقع؟</div>
+</div>
+
+<div class="human-story">
+  <div class="hs-tag">قصة اليوم</div>
+  <div class="hs-title">صحفية أمريكية تُحرَّر بعد ٧ أيام اختطاف</div>
+  <div class="hs-desc"><span class="hs-highlight">شيلي كيتلسون</span> (٤٩ عاماً) — صحفية مستقلة اختطفتها <span class="hs-highlight">كتائب حزب الله</span> في ٣١ مارس. أُطلقت اليوم مقابل الإفراج عن ٦ عناصر من الكتائب معتقلين بسبب هجمات على قاعدة أمريكية في سوريا.</div>
+</div>
+
+<div class="content">
+  <div class="story-card" style="border-right-color:var(--sec);">
+    <div class="sc-head"><div class="sc-title" style="color:var(--sec);">انقطاع كهرباء شامل في مارس</div></div>
+    <div class="sc-desc">انهيار مفاجئ في إمدادات الغاز لمحطة الرميلة في البصرة. إيران فشلت بتسليم ٥٠ مليون متر مكعب يومياً من الغاز. العراق يعتمد على إيران لـ ٣٠٪ من كهربائه. احتجاجات في عدة مدن.</div>
+  </div>
+</div>
+
+<div class="watch">
+  <div class="wt">📌 نراقب هذا الأسبوع</div>
+  <div class="wi"><div class="wd" style="background:var(--pol);"></div><div style="flex:1;"><div class="wl" style="color:var(--pol);">١١ أبريل — انتخاب الرئيس</div><div class="wdesc">هل يفوز عميدي (PUK) أم حسين (KDP)؟</div></div></div>
+  <div class="wi"><div class="wd" style="background:var(--red);"></div><div style="flex:1;"><div class="wl" style="color:var(--red);">مهلة ترامب لإيران — الليلة</div><div class="wdesc">تصعيد = العراق الأكثر تضرراً</div></div></div>
+  <div class="wi"><div class="wd" style="background:var(--eco);"></div><div style="flex:1;"><div class="wl" style="color:var(--eco);">أزمة الرواتب</div><div class="wdesc">هل تدفع الحكومة رواتب أبريل؟</div></div></div>
+  <div class="wi"><div class="wd" style="background:var(--oil);"></div><div style="flex:1;"><div class="wl" style="color:var(--oil);">خط كركوك-جيهان</div><div class="wdesc">البديل الوحيد — هل يُفتح؟</div></div></div>
+</div>
+
+<div class="big-num-strip">
+  <div class="bns-num">-٧٦٪</div>
+  <div class="bns-text">انخفاض إنتاج النفط<br>من ٣.٤ مليون إلى ٨٠٠ ألف برميل يومياً</div>
+</div>
+
+<div class="bbar">
+  <div style="color:rgba(255,255,255,.3);font-size:12px;font-weight:700;">غداً: تحديث جديد — تابعنا @photonect.news</div>
+  <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div></div>
+</div>
+</div>
+
+<!-- SLIDE 6: SOURCES -->
+<div class="lbl">6/6</div>
+<div class="slide s6" id="slide6">
+<div class="top"><div class="logo" style="display:inline-flex;"><div class="r" style="width:20px;height:6px;"></div><div class="n" style="font-size:20px;">PHOTONECT</div><div class="s">NEWS</div></div></div>
+<div class="sep"></div>
+<div class="stitle">المصادر</div>
+<div class="ssub">لا نكذب — كل رقم قابل للتحقق</div>
+<div class="sep"></div>
+<div class="srcs">
+  <div class="sr"><div class="sn">٠١</div><div class="sname">Al Jazeera</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٢</div><div class="sname">Reuters</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٣</div><div class="sname">Iraq Business News</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٤</div><div class="sname">Shafaq News</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٥</div><div class="sname">Kurdistan24</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٦</div><div class="sname">The National</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٧</div><div class="sname">Anadolu Agency</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٨</div><div class="sname">Trading Economics</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">٠٩</div><div class="sname">Dallas Fed</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">١٠</div><div class="sname">U.S. Embassy Baghdad</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">١١</div><div class="sname">Al-Monitor</div><div class="sg"></div></div>
+  <div class="sr"><div class="sn">١٢</div><div class="sname">Washington Post</div><div class="sg"></div></div>
+</div>
+<div class="credits">
+  <div class="credit-item">صورة الغلاف: بغداد — Wikimedia Commons (CC BY-SA 2.0)</div>
+  <div class="credit-item">صورة نصب الشهيد: Wikimedia Commons 2024</div>
+</div>
+<div class="bottom">
+  <div class="sep" style="margin-bottom:6px;"></div>
+  <div class="logo" style="display:inline-flex;"><div class="r"></div><div class="n" style="font-size:14px;">PHOTONECT</div><div class="s">NEWS</div></div>
+  <div class="follow">تابعنا — الأخبار كل ساعتين</div>
+  <div class="handle">@photonect.news</div>
+  <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+  <div class="dots" style="margin-top:4px;"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div></div>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "hunted_at": "2026-04-22T00:47:00+03:00",
+  "bucket": "global_economy",
+  "method": "claude-hand-pick-wikimedia",
+  "hero_source": "preserved from automated hunt (oil rig at sea)",
+  "broll_1_source": "File:Market_centre_in_Tokyo_stock_exchange.jpg (CC, Tokyo Stock Exchange) — replaced Wall Street bull tourist photo",
+  "broll_2_source": "File:Hong_Kong_(239753253).jpeg (CC) — Hong Kong financial district daytime, for $8.7T Asian market wipeout beat",
+  "broll_3_source": "File:Vienna_OPEC_Headquarters_(9812748993).jpg (CC) — reused from opec-emergency-2 hero; for OPEC+ emergency Vienna zero-hour beat",
+  "brightness_L": {
+    "broll_2": 146.5,
+    "broll_3": 116.4
+  },
+  "notes": "brent-150 hunt originally left both broll_2 and broll_3 as generic Wall Street tourist photos from the global_economy bucket atlas. Both replaced with topic-specific picks to match the Arabic beat narratives (Asian markets + OPEC Vienna)."
+}

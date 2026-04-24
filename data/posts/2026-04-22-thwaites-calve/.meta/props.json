@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "audioBed": "audio/bed_tide.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ثوايتس ينهار: ١,٤٧٠ كم² من الجليد في ليلة واحدة",
+    "englishSubhead": "ANTARCTICA • THWAITES CALVING • 1,470 km²",
+    "heroQueries": [
+      "Antarctic ice shelf aerial",
+      "Thwaites glacier satellite",
+      "iceberg calving ocean",
+      "Sentinel satellite imagery polar",
+      "Antarctica ocean landscape blue"
+    ],
+    "heroMedia": "images/news/2026-04-22-thwaites-calve/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الانفصال",
+      "arabicHeading": "الرف الجليدي تشقق ٢٣:١٨ محلياً — رصدته سنتينل-٢ عند ١٥:٤٢ غرينتش",
+      "arabicBody": "رف ثوايتس الجليدي في القطب الجنوبي انفصل عنه جرف بمساحة لندن ست مرات خلال الليل حسب صور القمر الأوروبي سنتينل-٢، وفريقا كولومبيا وإدنبرة يؤكدان الحدث من ست مدارات مختلفة",
+      "bigStat": {
+        "value": "1,470",
+        "label": "km² calved overnight",
+        "arabicLabel": "كم² انفصلت ليلاً"
+      },
+      "supportingStats": [
+        {
+          "label": "مدارات قمرية",
+          "value": "6"
+        },
+        {
+          "label": "تراجع سنوي",
+          "value": "12 سم"
+        },
+        {
+          "label": "ارتفاع بحري",
+          "value": "25 سم"
+        }
+      ],
+      "broll": "images/news/2026-04-22-thwaites-calve/broll_1.mp4",
+      "brollType": "video",
+      "accent": "#5BC0EB"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "الجليد عمره ٦٠٠ سنة — يساهم ٤٪ من ارتفاع البحر عالمياً",
+      "arabicBody": "الجليد المنفصل يعود إلى ستمئة سنة قبل الميلاد وفق حلقات عمر الجليد، ويمثل ثوايتس وحده أربعة بالمئة من ارتفاع البحر العالمي، ما يضع المجتمع العلمي أمام صدمة غير متوقعة بهذا التوقيت",
+      "bigStat": {
+        "value": "600",
+        "label": "year old ice chunks",
+        "arabicLabel": "سنة عمر الجليد المنفصل"
+      },
+      "supportingStats": [
+        {
+          "label": "مساهمة بحر",
+          "value": "4%"
+        },
+        {
+          "label": "فرق رصد",
+          "value": "12"
+        },
+        {
+          "label": "خط عرض",
+          "value": "75°ج"
+        }
+      ],
+      "broll": "images/news/2026-04-22-thwaites-calve/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#5BC0EB"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "انفصال ثانٍ متوقع خلال ٧٢ ساعة — كوب-٣٢ تسرّع موعدها",
+      "arabicBody": "العلماء حذّروا من انفصال ثانٍ وشيك خلال اثنتين وسبعين ساعة، وتدرس أربع عشرة دولة ساحلية رفع مستوى التحذير من تسونامي، بينما قرّرت الأمم المتحدة تسريع قمة المناخ كوب-٣٢ المقررة لنوفمبر",
+      "bigStat": {
+        "value": "72h",
+        "label": "to possible secondary calve",
+        "arabicLabel": "ساعات لانفصال ثانٍ"
+      },
+      "supportingStats": [
+        {
+          "label": "تحذيرات تسونامي",
+          "value": "14"
+        },
+        {
+          "label": "كوب-٣٢",
+          "value": "موعد مسرّع"
+        },
+        {
+          "label": "سيناريوهات",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-thwaites-calve/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#5BC0EB"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "NASA Earth",
+      "domain": "earth.nasa.gov"
+    },
+    {
+      "name": "European Space Agency",
+      "domain": "esa.int"
+    },
+    {
+      "name": "Nature",
+      "domain": "nature.com"
+    },
+    {
+      "name": "British Antarctic Survey",
+      "domain": "bas.ac.uk"
+    },
+    {
+      "name": "The Guardian",
+      "domain": "theguardian.com"
+    }
+  ],
+  "arabicTicker": [
+    "رف ثوايتس الجليدي في القطب الجنوبي ينفصل عنه جرف بمساحة ألف وأربعمئة وسبعين كيلومتراً مربعاً",
+    "صور القمر الأوروبي سنتينل-٢ تؤكد الانفصال عند الخامسة واثنين وأربعين دقيقة غرينتش",
+    "الجليد المنفصل عمره ستمئة سنة قبل الميلاد وفق حلقات العمر المختبرية",
+    "ثوايتس وحده يمثل أربعة بالمئة من ارتفاع مستوى البحر العالمي حسب حسابات ناسا",
+    "فرق بحثية في كولومبيا وإدنبرة تؤكد الحدث من ست مدارات قمرية مختلفة صباح اليوم",
+    "حذّر العلماء من انفصال ثانٍ وشيك خلال اثنتين وسبعين ساعة القادمة",
+    "أربع عشرة دولة ساحلية تدرس رفع مستوى تحذيرات التسونامي استعداداً للسيناريو الأسوأ"
+  ]
+}

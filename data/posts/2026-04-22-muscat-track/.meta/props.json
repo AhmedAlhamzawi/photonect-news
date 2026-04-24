@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "C",
+  "audioBed": "audio/bed_echo.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "مسقط السرية: السعودية وإيران والإمارات — تسع ساعات خلف الأبواب",
+    "englishSubhead": "OMAN BACKCHANNEL • 4 NATIONS • 9-HOUR TALKS",
+    "heroQueries": [
+      "Muscat Oman old city",
+      "Sultan palace Muscat",
+      "Gulf coastline aerial",
+      "Abu Dhabi skyline Burj",
+      "Strait of Hormuz aerial map"
+    ],
+    "heroMedia": "images/news/2026-04-22-muscat-track/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "في العتمة",
+      "arabicHeading": "مفاوضات ماراثونية تسع ساعات كُشفت ظهر الأربعاء فقط",
+      "arabicBody": "وفود سعودية وإيرانية اجتمعت خلف أبواب مغلقة في القصر السلطاني طوال ليل الثلاثاء بوساطة إماراتية عمانية غير معلنة، وصرح مسؤول خليجي لـرويترز بالخطوط العريضة",
+      "bigStat": {
+        "value": "9",
+        "label": "hour overnight negotiation",
+        "arabicLabel": "ساعات تفاوض ليلي"
+      },
+      "supportingStats": [
+        {
+          "label": "دول حاضرة",
+          "value": "4"
+        },
+        {
+          "label": "بنود جدول",
+          "value": "11"
+        },
+        {
+          "label": "سابقة ٢٠١٨",
+          "value": "1"
+        }
+      ],
+      "broll": "images/news/2026-04-22-muscat-track/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الملفات",
+      "arabicHeading": "مياه دجلة والفرات، حرب اليمن، حرية الملاحة في هرمز",
+      "arabicBody": "ثلاثة ملفات سيادية على طاولة مسقط: توزيع المياه في حوض دجلة الفرات، وقف تدفق السلاح إلى اليمن، والتزام مكتوب بحرية الملاحة في مضيق هرمز بعد قرارات طهران الأخيرة",
+      "bigStat": {
+        "value": "3",
+        "label": "sovereign files on table",
+        "arabicLabel": "ملفات سيادية رئيسية"
+      },
+      "supportingStats": [
+        {
+          "label": "نقاط مياه",
+          "value": "14"
+        },
+        {
+          "label": "ممرات يمنية",
+          "value": "4"
+        },
+        {
+          "label": "نفط عبر هرمز",
+          "value": "19%"
+        }
+      ],
+      "broll": "images/news/2026-04-22-muscat-track/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "ما بعد",
+      "arabicHeading": "الجولة الثانية في الخامس من مايو — واشنطن أُبلغت ولم توافق",
+      "arabicBody": "مصدر خليجي كشف لـرويترز أن الجولة المقبلة ستنعقد في مسقط أيضاً بعد ثلاثة عشر يوماً، وأن البيت الأبيض أُبلغ بالاختراق الدبلوماسي دون موافقة أو رفض علني",
+      "bigStat": {
+        "value": "13",
+        "label": "days to next Muscat round",
+        "arabicLabel": "يوماً للجولة الثانية"
+      },
+      "supportingStats": [
+        {
+          "label": "العودة للمسار",
+          "value": "5 مايو"
+        },
+        {
+          "label": "واشنطن أُبلغت",
+          "value": "1"
+        },
+        {
+          "label": "مسارات مفتوحة",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-muscat-track/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "The National UAE",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "كشف دبلوماسي: وفود من أربع دول خليجية اجتمعت في مسقط ليلة الثلاثاء لتسع ساعات متواصلة",
+    "السعودية وإيران حول طاولة واحدة بوساطة إماراتية عمانية غير معلنة",
+    "الملفات الثلاثة: توزيع مياه دجلة والفرات، وقف السلاح لليمن، حرية الملاحة في هرمز",
+    "الإمارات وعمان تقودان الوساطة في أول لقاء سعودي إيراني مباشر منذ عام ٢٠٢٥",
+    "إحدى عشرة بنداً على جدول الأعمال السرّي وفق مصدر خليجي رفيع المستوى",
+    "الجولة المقبلة في مسقط بعد ثلاثة عشر يوماً — خمسة أيار مايو الموعد المرتقب",
+    "واشنطن أُبلغت بالاختراق الدبلوماسي ولم يُعلن البيت الأبيض أي موقف حتى الساعة"
+  ]
+}

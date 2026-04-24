@@ -1,0 +1,143 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "gulf_regional",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الدوحة تتقدّم: الأمير تميم يدعو عراقجي وبراك ودرمر إلى طاولة مباشرة",
+    "englishSubhead": "QATAR PIVOTS • DIRECT CONTACT DOHA",
+    "heroQueries": [
+      "Doha West Bay skyline dusk",
+      "Doha Corniche skyline Qatar",
+      "Lusail skyline Qatar",
+      "Museum of Islamic Art Doha"
+    ],
+    "heroMedia": "images/news/2026-04-20-qatar-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول لقاء ثلاثي مباشر منذ ٢٠٢٢ — الجلسة الافتتاحية غداً ٠٩:٠٠ غرينتش",
+      "arabicBody": "أمير قطر الشيخ تميم بن حمد وجّه دعوة رسمية مباشرة إلى وزير الخارجية الإيراني عباس عراقجي والمبعوث الأمريكي توماس براك ووزير الشؤون الاستراتيجية الإسرائيلي رون درمر للقاء غداً في الدوحة. أول تواصل مباشر بين الأطراف الثلاثة منذ أكثر من أربع سنوات.",
+      "bigStat": {
+        "value": "3",
+        "label": "Foreign delegations at one table",
+        "arabicLabel": "وفود عند طاولة واحدة لأول مرة"
+      },
+      "supportingStats": [
+        {
+          "label": "موعد الجلسة الأولى",
+          "value": "APR 21 09:00Z"
+        },
+        {
+          "label": "آخر لقاء مباشر مشابه",
+          "value": "2022"
+        },
+        {
+          "label": "مكان الانعقاد",
+          "value": "LUSAIL PALACE"
+        },
+        {
+          "label": "مدة المحادثات المخطط لها",
+          "value": "5 DAYS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-qatar-pivot/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الدوحة تملأ فراغ إسلام آباد والرياض — ورقتا الغاز وحماس على الطاولة",
+      "arabicBody": "جولة إسلام آباد انهارت في ٢١ ساعة الأسبوع الماضي، والقنوات الخلفية السعودية تعثّرت بعد تصريحات الأمير محمد بن سلمان. قطر تدخل الفراغ بورقتَي قوة: ثاني أكبر مصدّر للغاز المسال في العالم، والوسيط الوحيد الذي يحافظ على علاقة تشغيلية مع حماس منذ ٢٠١٢.",
+      "bigStat": {
+        "value": "77M",
+        "label": "Tons LNG — Qatar's 2026 export",
+        "arabicLabel": "مليون طن غاز مسال تصدّرهم قطر"
+      },
+      "supportingStats": [
+        {
+          "label": "فشل جولة إسلام آباد",
+          "value": "21 HOURS"
+        },
+        {
+          "label": "الوساطة السعودية",
+          "value": "STALLED"
+        },
+        {
+          "label": "عمر ملف قطر-حماس",
+          "value": "14 YEARS"
+        },
+        {
+          "label": "ترتيب قطر عالمياً",
+          "value": "#2 LNG EXPORTER"
+        }
+      ],
+      "broll": "images/news/2026-04-20-qatar-pivot/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "٥ أيام مفتوحة: اختراق تاريخي، جمود، أو انسحاب متبادل",
+      "arabicBody": "المحادثات مخطط لها خمسة أيام كاملة في قصر لوسيل. الضغط هائل: برنت عند ١٠٠ دولار، هرمز لا تزال مغلقة، والين يتهاوى. إذا نجحت الدوحة، يحصل الأمير تميم على مقعد دائم في الترتيبات الأمنية الإقليمية. إذا فشلت، فجغرافيا الوساطة العربية تنهار بالكامل.",
+      "bigStat": {
+        "value": "5d",
+        "label": "Doha talks timeline",
+        "arabicLabel": "أيام مخطط لها لمحادثات الدوحة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "HISTORIC DEAL"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "DEADLOCK"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "MUTUAL WALKOUT"
+        }
+      ],
+      "broll": "images/news/2026-04-20-qatar-pivot/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Haaretz",
+      "domain": "haaretz.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    }
+  ],
+  "arabicTicker": [
+    "أمير قطر الشيخ تميم يدعو عراقجي وبراك ودرمر إلى طاولة مباشرة في قصر لوسيل غداً",
+    "أول لقاء ثلاثي مباشر بين الأطراف الإيرانية والأمريكية والإسرائيلية منذ عام ٢٠٢٢",
+    "الدوحة تملأ الفراغ بعد انهيار إسلام آباد في ٢١ ساعة وتعثّر القنوات السعودية الخلفية",
+    "ورقتا قوة قطرية: ٧٧ مليون طن غاز مسال سنوياً والعلاقة التشغيلية مع حماس منذ ٢٠١٢",
+    "قطر ثاني أكبر مصدّر للغاز المسال عالمياً — ورقة ضغط اقتصادية غير مسبوقة على الطاولة",
+    "٥ أيام مخصصة للمحادثات في قصر لوسيل — الضغط هائل مع برنت عند ١٠٠ دولار وهرمز مغلقة",
+    "نجاح الدوحة يمنح تميم مقعداً دائماً في الترتيبات الأمنية — الفشل يعيد خريطة الوساطة العربية"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اليوم الثاني من الهدنة: معركة العشرة كيلومترات جنوب الليطاني",
+    "englishSubhead": "LEBANON • BUFFER ZONE CRISIS",
+    "heroMedia": "images/news/2026-04-18-lebanon-buffer/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث اليوم؟",
+      "arabicHeading": "حزب الله خارج الاتفاق: أي جندي إسرائيلي على أرضنا هدف مشروع",
+      "arabicBody": "اليوم الثاني من الهدنة العشرة أيام، والقوات الإسرائيلية لا تزال داخل جنوب لبنان. نتنياهو يؤكد بقاء القوات حتى إشعار آخر. الشيخ نعيم قاسم يعلن أن حزب الله لم يكن طرفاً في المفاوضات، ولا يعترف بهدنة لا تشمل كامل الأراضي اللبنانية.",
+      "bigStat": {
+        "value": "DAY 2",
+        "label": "of 10-day ceasefire",
+        "arabicLabel": "اليوم الثاني من هدنة العشرة أيام"
+      },
+      "supportingStats": [
+        {
+          "label": "موقف حزب الله",
+          "value": "NOT BOUND"
+        },
+        {
+          "label": "الجنود الإسرائيليون",
+          "value": "STILL IN"
+        },
+        {
+          "label": "نهاية المهلة",
+          "value": "APR 26"
+        },
+        {
+          "label": "مكالمة نتنياهو–عون",
+          "value": "UNCLEAR"
+        }
+      ],
+      "broll": "images/news/2026-04-18-lebanon-buffer/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF4D6D"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصفقة تتعثر على الأرقام: ١٠ كم لإسرائيل، ٢ كم للبنان، ٥ كم وسط أمريكي",
+      "arabicBody": "عمق المنطقة العازلة هو نقطة التفجير الحقيقية. إسرائيل تطالب بعشرة كيلومترات دائمة تمتد من الحدود إلى ما بعد الليطاني. لبنان يعرض كيلومترين فقط تحت إشراف اليونيفيل. روبيو يحاول فرض خط وسط عند خمسة كيلومترات — ومع ذلك يصفه لبنان باحتلال مقنّع.",
+      "bigStat": {
+        "value": "10 km",
+        "label": "Israel's demand",
+        "arabicLabel": "عمق المنطقة العازلة المطلوبة إسرائيلياً"
+      },
+      "supportingStats": [
+        {
+          "label": "عرض لبنان",
+          "value": "2 KM"
+        },
+        {
+          "label": "وساطة روبيو",
+          "value": "5 KM"
+        },
+        {
+          "label": "شهداء لبنان",
+          "value": "2,124"
+        },
+        {
+          "label": "النازحون",
+          "value": "1.2M"
+        }
+      ],
+      "broll": "images/news/2026-04-18-lebanon-buffer/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "mapOverlay": "lebanon"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثمانية أيام متبقية: ثلاثة سيناريوهات تحدد مستقبل الجنوب",
+      "arabicBody": "العدّاد يسير نحو ٢٦ أبريل. السيناريو الأول: تسوية على خمسة كيلومترات وانسحاب إسرائيلي مرحلي. الثاني: انهيار المفاوضات وعودة شاملة للحرب بمبادرة حزب الله. الثالث: تمديد الهدنة مع تجميد النقاش حول العمق — وهو ما ترفضه تل أبيب علناً.",
+      "bigStat": {
+        "value": "8 DAYS",
+        "label": "until ceasefire expires",
+        "arabicLabel": "أيام متبقية قبل انتهاء مهلة الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "5KM DEAL"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "FULL WAR"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "EXTEND TALKS"
+        },
+        {
+          "label": "تاريخ الانتهاء",
+          "value": "APR 26"
+        }
+      ],
+      "broll": "images/news/2026-04-18-lebanon-buffer/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AP News",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "New York Post",
+      "domain": "nypost.com"
+    },
+    {
+      "name": "Israel National News",
+      "domain": "israelnationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "اليوم الثاني من الهدنة: القوات الإسرائيلية لا تزال داخل الجنوب اللبناني",
+    "حزب الله: لم نكن طرفاً في الاتفاق وأي جندي إسرائيلي على أرضنا هدف مشروع",
+    "إسرائيل تطالب بعشرة كيلومترات منطقة عازلة دائمة جنوب نهر الليطاني",
+    "لبنان يعرض كيلومترين فقط تحت إشراف اليونيفيل — ويرفض الاحتلال المقنّع",
+    "روبيو يحاول فرض حل وسط عند خمسة كيلومترات قبل انتهاء مهلة ٢٦ أبريل",
+    "الأمم المتحدة: انهيار إنساني وشيك في القرى الحدودية بعد أكثر من مليون نازح",
+    "العدّاد يسير: ثمانية أيام متبقية قبل انتهاء مهلة العشرة أيام وعودة الحرب المحتملة"
+  ],
+  "topicBucket": "mena_geopolitics"
+}

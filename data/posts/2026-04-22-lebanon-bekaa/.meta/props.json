@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/bed_pressure.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "البقاع تحت النار: انهيار الهدنة يوقع ١٤٧ قتيلاً في ليلة واحدة",
+    "englishSubhead": "LEBANON • CEASEFIRE COLLAPSE • 147 DEAD",
+    "heroQueries": [
+      "Bekaa valley Lebanon landscape",
+      "Beirut skyline at dusk",
+      "Lebanon South mountains",
+      "Lebanese flag parliament",
+      "Litani river Lebanon aerial"
+    ],
+    "heroMedia": "images/news/2026-04-22-lebanon-bekaa/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الخيط الأخير",
+      "arabicHeading": "الهدنة انهارت ٠٤:١٢ فجراً — ١٤ موقعاً في البقاع وجنوب لبنان",
+      "arabicBody": "طائرات إسرائيلية قصفت خلال الليل أربعة عشر موقعاً في البقاع والجنوب بعد ردّ حزب الله على استهداف قيادي في بعلبك — الأعنف منذ هدنة ٢٠٢٥",
+      "bigStat": {
+        "value": "147",
+        "label": "confirmed dead overnight",
+        "arabicLabel": "قتلى مؤكدون حتى الفجر"
+      },
+      "supportingStats": [
+        {
+          "label": "مستشفيات أُصيبت",
+          "value": "6"
+        },
+        {
+          "label": "نزوح جنوبي",
+          "value": "290K"
+        },
+        {
+          "label": "رحلات ملغاة",
+          "value": "38"
+        }
+      ],
+      "broll": "images/news/2026-04-22-lebanon-bekaa/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "تذكير ١٩٨٢",
+      "arabicHeading": "سوريا تفتح الحدود، طهران توفد بغداد، حاملتا طائرات تعيدان التموضع",
+      "arabicBody": "دمشق فتحت معبرين للاجئين الجنوبيين خلال ساعات، فيما يتجه وفد إيراني رفيع إلى بغداد ويتحرك الأسطول الخامس الأميركي شرقاً لإسناد الحلفاء",
+      "bigStat": {
+        "value": "14",
+        "label": "strike sites confirmed",
+        "arabicLabel": "مواقع قصف موثقة"
+      },
+      "supportingStats": [
+        {
+          "label": "دول أُنذرت",
+          "value": "4"
+        },
+        {
+          "label": "حاملات طائرات",
+          "value": "2"
+        },
+        {
+          "label": "شحن معاد توجيهه",
+          "value": "$18B"
+        }
+      ],
+      "broll": "images/news/2026-04-22-lebanon-bekaa/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "ساعة الحساب",
+      "arabicHeading": "جلسة أممية طارئة الساعة ١٧:٠٠ بيروت — ثلاث مسارات مفتوحة",
+      "arabicBody": "مجلس الأمن يلتئم بعد أربع عشرة ساعة بطلب فرنسي بريطاني، ومرشحان لتقديم مسودة وقف نار جديدة، فيما يلوّح الحزب بتوسيع الرد إلى شمال إسرائيل",
+      "bigStat": {
+        "value": "14h",
+        "label": "to emergency UN session",
+        "arabicLabel": "حتى الجلسة الطارئة"
+      },
+      "supportingStats": [
+        {
+          "label": "مسار وقف نار",
+          "value": "1"
+        },
+        {
+          "label": "مسار تصعيد",
+          "value": "2"
+        },
+        {
+          "label": "مسار عسكري",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-lebanon-bekaa/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "AFP",
+      "domain": "afp.com"
+    },
+    {
+      "name": "Al-Akhbar",
+      "domain": "al-akhbar.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "انهيار الهدنة اللبنانية الإسرائيلية الساعة ٠٤:١٢ فجراً بعد رد حزب الله على استهداف قيادي في بعلبك",
+    "إسرائيل تشن ١٤ غارة على البقاع والجنوب — الأعنف منذ اتفاق ٢٠٢٥",
+    "١٤٧ قتيلاً و٢٩٠ ألف نازح من جنوب الليطاني حتى ساعات الفجر الأولى",
+    "ست مستشفيات جنوبية أُصيبت بشكل مباشر وثمانية وثلاثون رحلة ملغاة من بيروت",
+    "سوريا تفتح معبرين للاجئين، وإيران توفد بغداد بعد مكالمة خامنئي نصر الله",
+    "الأسطول الخامس الأميركي يعيد تموضعه شرقاً فيما تُنقل حاملتا طائرات إلى شرق المتوسط",
+    "مجلس الأمن يعقد جلسة طارئة الساعة ١٧:٠٠ بيروت بطلب فرنسي بريطاني"
+  ]
+}

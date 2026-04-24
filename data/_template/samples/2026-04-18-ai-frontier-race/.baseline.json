@@ -1,0 +1,26 @@
+{
+  "mp4_bytes": 14399164,
+  "ffprobe": {
+    "duration_s": 34.048,
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "audio_codec": "aac"
+  },
+  "frame_luminance": {
+    "t1.2s_hero": 92.2,
+    "t6s_beat1": 62.9,
+    "t14s_beat2": 52.1,
+    "t25s_beat3": 64.5
+  },
+  "below_threshold": [],
+  "captured_at": "2026-04-23T15:45:00+03:00",
+  "render_source": "data/posts/2026-04-18-ai-frontier-race/newsreel_v3.mp4",
+  "bucket": "tech_ai",
+  "variant": "A",
+  "baseline_updated_run": "run-7-execute",
+  "baseline_updated_reason": "V6 rev2 Beat overhaul (arabicBody + supportingStats restored) changed render characteristics; duration 30.0s→34.0s; size 15.8→14.4 MB (-8.6%). All luminance floors still pass.",
+  "pass2_threshold_pct": 25,
+  "pass3_method": "ffmpeg -ss <t> frame extraction + Pillow mean-L (bottom 21% crop for IG safe zone)"
+}

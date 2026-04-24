@@ -1,0 +1,115 @@
+import { z } from "zod";
+
+const Stat = z.object({
+  label: z.string(),
+  value: z.string(),
+});
+
+const BigStat = z.object({
+  value: z.string(),
+  label: z.string(),
+  arabicLabel: z.string(),
+});
+
+// V6 (2026-04-22) — restore content density that V5 over-stripped.
+// Rejected verbatim: "You cut down a lot of the context and the text. Even the
+// caption, you cut it down. And now I don't get enough context about the news."
+//
+// Every beat now carries: arabicHeading + arabicBody (20-30 words) + bigStat +
+// 3 supportingStats. All variants render the full payload; the variant picks
+// the visual treatment, not the data density. Safe-zone discipline from V5 is
+// preserved via overflow:hidden + adaptive font sizing.
+const Beat = z.object({
+  label: z.string(),
+  arabicHeading: z.string(),
+  arabicBody: z.string().optional(),
+  bigStat: BigStat.optional(),
+  // V6: 3 is the narrative sweet spot — one anchor stat + two supports.
+  // Caps content generation to keep pill row inside 800px CONTENT_WIDTH.
+  supportingStats: z.array(Stat).max(3).optional(),
+  broll: z.string(),
+  brollType: z.enum(["video", "image"]),
+  accent: z.string().optional(),
+  photoInsert: z.string().optional(),
+  photoCaption: z.string().optional(),
+  mapOverlay: z.enum(["hormuz", "lebanon", "flight_europe"]).optional(),
+});
+
+const Source = z.object({
+  name: z.string(),
+  domain: z.string(),
+});
+
+// Template + style variant knobs. All default to "A" so every existing
+// props.json keeps rendering unchanged; adding `variant: "B"` or
+// `topicBucket: "tech_ai"` is the opt-in path into the variant rotation.
+export const VARIANT_VALUES = ["A", "B", "C"] as const;
+export const TOPIC_BUCKETS = [
+  "mena_geopolitics",
+  "iraq_domestic",
+  "gulf_regional",
+  "europe",
+  "global_economy",
+  "tech_ai",
+  "wildcard",
+] as const;
+
+export type VariantName = (typeof VARIANT_VALUES)[number];
+
+// V4 mapping retained. Tonal register per topic class:
+//  A MONEY-SHOT  → hot-breaking politics / conflict (punchy, tabloid)
+//  B KINETIC     → data / tech / macro (uptempo, info-forward)
+//  C CINEMA      → feature / wildcard / strategic stories (slow reveal)
+export const BUCKET_VARIANT: Record<string, VariantName> = {
+  mena_geopolitics: "A",
+  iraq_domestic:    "A",
+  tech_ai:          "B",
+  global_economy:   "B",
+  wildcard:         "C",
+  europe:           "C",
+  gulf_regional:    "C",
+};
+
+export const NewsReelSchema = z.object({
+  dateLabel: z.string(),
+  arabicDateLabel: z.string(),
+  handle: z.string().default("@photonect.news"),
+  audioBed: z.string().optional(),
+  variant: z.enum(VARIANT_VALUES).optional(),
+  topicBucket: z.enum(TOPIC_BUCKETS).optional(),
+  breaking: z.object({
+    arabicKicker: z.string().default("عاجل"),
+    arabicHeadline: z.string(),
+    englishSubhead: z.string(),
+    heroMedia: z.string(),
+    heroMediaType: z.enum(["video", "image"]).default("video"),
+  }),
+  beats: z.array(Beat).length(3),
+  sources: z.array(Source).min(3).max(8),
+  arabicTicker: z.array(z.string()).min(3).max(8),
+});
+
+export type NewsReelProps = z.infer<typeof NewsReelSchema>;
+export type BeatProps = z.infer<typeof Beat>;
+export type BigStatProps = z.infer<typeof BigStat>;
+export type SourceProps = z.infer<typeof Source>;
+
+// V4 timing retained. Each beat gets ~9s for readability per Ahmed's mandate.
+// Breaking 150f (5s) + Beat 270f ×2 + Beat3 240f + Sources 90f = 1020f @ 30fps = 34s.
+export const BREAKING_FRAMES = 150;
+export const BEAT_FRAMES = 270;
+export const BEAT3_FRAMES = 240;
+export const SOURCES_FRAMES = 90;
+
+export const computeNewsReelDurationInFrames = () =>
+  BREAKING_FRAMES + BEAT_FRAMES + BEAT_FRAMES + BEAT3_FRAMES + SOURCES_FRAMES;
+
+// Resolve a reel's variant: explicit reel.variant wins, else bucket map, else "A".
+export const resolveVariant = (
+  explicit: VariantName | undefined,
+  bucket: string | undefined,
+): VariantName => {
+  if (explicit) return explicit;
+  if (bucket && BUCKET_VARIANT[bucket]) return BUCKET_VARIANT[bucket];
+  return "A";
+};

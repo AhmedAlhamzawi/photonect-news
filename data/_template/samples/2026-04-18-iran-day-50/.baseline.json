@@ -1,0 +1,26 @@
+{
+    "mp4_bytes": 66915295,
+    "ffprobe": {
+        "duration_s": 34.048,
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "audio_codec": "aac"
+    },
+    "frame_luminance": {
+        "t1.2s_hero": 100.1,
+        "t6s_beat1": 72.9,
+        "t14s_beat2": 105.4,
+        "t25s_beat3": 66.5
+    },
+    "below_threshold": [],
+    "captured_at": "2026-04-23T15:45:00+03:00",
+    "render_source": "data/posts/2026-04-18-iran-day-50/newsreel_v3.mp4",
+    "bucket": "mena_geopolitics",
+    "variant": "A",
+    "baseline_updated_run": "run-7-execute",
+    "baseline_updated_reason": "V6 rev2 Beat overhaul (arabicBody + supportingStats restored) reduced motion complexity vs V5 translateY slam; size 82.8->66.9 MB (-19.2%). All luminance floors pass with strong margins.",
+    "pass2_threshold_pct": 25,
+    "pass3_method": "ffmpeg -ss <t> frame extraction + Pillow mean-L (bottom 21% crop for IG safe zone)"
+}

@@ -1,0 +1,127 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "برنت يلامس ١٥٠ دولاراً للمرة الأولى في التاريخ",
+    "englishSubhead": "LONDON • BRENT BREAKS $150",
+    "heroQueries": [
+      "oil barrel North Sea platform aerial",
+      "Brent crude trading floor screens",
+      "oil tanker strait sunset",
+      "offshore oil rig platform",
+      "crude oil refinery complex"
+    ],
+    "heroMedia": "images/news/2026-04-21-brent-150/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللحظة",
+      "arabicHeading": "برنت يخترق الحاجز النفسي: ١٥٠ دولاراً للبرميل",
+      "arabicBody": "قفزة ٧٪ خلال ساعات قليلة بعد انهيار الهدنة اللبنانية.",
+      "bigStat": {
+        "value": "$150",
+        "label": "Brent per barrel — all-time high",
+        "arabicLabel": "للبرميل — الرقم القياسي التاريخي"
+      },
+      "supportingStats": [
+        {
+          "label": "ارتفاع اليوم",
+          "value": "+7.2%"
+        },
+        {
+          "label": "ارتفاع الأسبوع",
+          "value": "+19%"
+        }
+      ],
+      "broll": "images/news/2026-04-21-brent-150/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "الصدمة",
+      "arabicHeading": "الأسواق الآسيوية تفقد ٨٫٧ تريليون دولار في جلسة واحدة",
+      "arabicBody": "نيكاي يسقط ٥٫٤٪، هانغ سنغ يغلق على أسوأ جلسة منذ ٢٠٢٠.",
+      "bigStat": {
+        "value": "$8.7T",
+        "label": "Asian market cap wiped",
+        "arabicLabel": "تريليون دولار تبخّرت من الأسواق الآسيوية"
+      },
+      "supportingStats": [
+        {
+          "label": "نيكاي اليابان",
+          "value": "-5.4%"
+        },
+        {
+          "label": "هانغ سنغ هونغ كونغ",
+          "value": "-6.1%"
+        }
+      ],
+      "broll": "images/news/2026-04-21-brent-150/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "فيينا",
+      "arabicHeading": "أوبك+ يطلب اجتماعاً طارئاً الليلة — صفر ساعة",
+      "bigStat": {
+        "value": "0",
+        "label": "hours to OPEC+ emergency call",
+        "arabicLabel": "ساعة تفصل أوبك+ عن قرار الطوارئ"
+      },
+      "supportingStats": [
+        {
+          "label": "توقع غولدمان ساكس",
+          "value": "$175"
+        },
+        {
+          "label": "هدف أوبك+ السري",
+          "value": "$135"
+        }
+      ],
+      "broll": "images/news/2026-04-21-brent-150/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "name": "S&P Platts",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Argus Media",
+      "domain": "argusmedia.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يخترق حاجز ١٥٠ دولاراً للمرة الأولى في التاريخ بعد انهيار الهدنة اللبنانية",
+    "قفزة ٧٫٢٪ في جلسة واحدة — أكبر ارتفاع يومي منذ غزو أوكرانيا ٢٠٢٢",
+    "الأسواق الآسيوية تفقد ٨٫٧ تريليون دولار: نيكاي ٥٫٤٪ وهانغ سنغ ٦٫١٪",
+    "غولدمان ساكس يرفع توقعاته إلى ١٧٥ دولاراً للبرميل بحلول مايو",
+    "أوبك+ يطلب اجتماعاً طارئاً الليلة — للمرة الثانية خلال شهر واحد",
+    "الخام الأميركي يلحق بالارتفاع: WTI يتخطى ١٤٥ دولاراً للبرميل لأول مرة",
+    "بنوك مركزية تستعد لتدخل طارئ مع توقعات تضخم فوق ٦٪ في الربع الحالي"
+  ],
+  "variant": "B",
+  "audioBed": "audio/news_bed_electric.mp3"
+}

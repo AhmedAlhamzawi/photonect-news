@@ -1,0 +1,137 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "tech_ai",
+  "breaking": {
+    "arabicKicker": "الحظر الرقائقي",
+    "arabicHeadline": "وزارة التجارة الأمريكية تحظر رقائق الذكاء الاصطناعي على الشرق الأوسط بأكمله",
+    "englishSubhead": "US COMMERCE • MENA CHIP BLOCKADE",
+    "heroMedia": "images/news/2026-04-20-chip-embargo/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الحظر يشمل ١٧ دولة — وترخيص ASML للصين يُلغى بقرار أمريكي-هولندي منسّق",
+      "arabicBody": "وزارة التجارة الأمريكية أعلنت قبل ساعات ضوابط تصدير جديدة تحظر شحن وحدات معالجة الرسوميات المتقدمة إلى أي دولة في منطقة الشرق الأوسط وشمال أفريقيا بذريعة منع انتشار الذكاء الاصطناعي العسكري. لاهاي ألغت بالتوازي ترخيص ASML لتصدير معدات الليثوغرافيا إلى مصانع Huawei الصينية.",
+      "bigStat": {
+        "value": "17",
+        "label": "MENA countries blocked",
+        "arabicLabel": "دولة في الشرق الأوسط مشمولة بالحظر"
+      },
+      "supportingStats": [
+        {
+          "label": "رقائق H200 المحظورة",
+          "value": "100% BAN"
+        },
+        {
+          "label": "ترخيص ASML الصين",
+          "value": "REVOKED"
+        },
+        {
+          "label": "شركاء الحظر",
+          "value": "US + NL + JP"
+        },
+        {
+          "label": "مدة سريان القرار",
+          "value": "IMMEDIATE"
+        }
+      ],
+      "broll": "images/news/2026-04-20-chip-embargo/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "TSMC تنهار ٨٪ و G42 تجمّد صفقة ١٥ مليار — السلسلة العالمية على حافة الشرخ",
+      "arabicBody": "سهم TSMC فقد ٨٪ خلال ساعتين من افتتاح تايبيه، وإنفيديا خسرت ٢١٠ مليار دولار من قيمتها السوقية قبل إغلاق وول ستريت. شركة G42 الإماراتية أعلنت تجميد صفقة ١٥ مليار دولار مع مايكروسوفت لمركز بيانات أبوظبي. سامسونغ تدرس تحويل خطوط إنتاج GDDR7 إلى تايوان لتفادي عقوبات ثانوية.",
+      "bigStat": {
+        "value": "-8%",
+        "label": "TSMC intraday • $210B lost",
+        "arabicLabel": "خسارة TSMC اليوم — وإنفيديا تفقد ٢١٠ مليار"
+      },
+      "supportingStats": [
+        {
+          "label": "صفقة G42 × Microsoft",
+          "value": "$15B FROZEN"
+        },
+        {
+          "label": "خسارة Nvidia السوقية",
+          "value": "$210B"
+        },
+        {
+          "label": "إنتاج ASML السنوي",
+          "value": "-60 EUV"
+        },
+        {
+          "label": "حصة تايوان العالمية",
+          "value": "92% ADVANCED"
+        }
+      ],
+      "broll": "images/news/2026-04-20-chip-embargo/broll_2.mp4",
+      "brollType": "video"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة مسارات قبل اجتماع مجلس الأمن القومي الصيني غداً",
+      "arabicBody": "الرد الصيني متوقّع خلال ٤٨ ساعة. السيناريو الأول: بكين تردّ بحظر تصدير المعادن الأرضية النادرة إلى الغرب وهو ما يشلّ ٩٠٪ من إنتاج أشباه الموصلات العالمي. الثاني: ردّ متدرّج عبر ضرائب جمركية على معدات Applied Materials. الثالث: تسوية سريعة قبل ذروة الأزمة.",
+      "bigStat": {
+        "value": "90%",
+        "label": "global chips depend on China REE",
+        "arabicLabel": "من أشباه الموصلات تعتمد على المعادن الصينية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "RARE-EARTH BAN"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "TARIFF ESCALATION"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "BACK-CHANNEL DEAL"
+        }
+      ],
+      "broll": "images/news/2026-04-20-chip-embargo/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Nikkei Asia",
+      "domain": "asia.nikkei.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    },
+    {
+      "name": "Politico",
+      "domain": "politico.com"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة التجارة الأمريكية تحظر رقائق الذكاء الاصطناعي على ١٧ دولة في الشرق الأوسط",
+    "لاهاي تلغي ترخيص ASML لتصدير معدات الليثوغرافيا إلى مصانع Huawei الصينية",
+    "سهم TSMC يفقد ٨٪ في افتتاح تايبيه — وإنفيديا تخسر ٢١٠ مليار دولار قيمة سوقية",
+    "شركة G42 الإماراتية تجمّد صفقة ١٥ مليار دولار مع مايكروسوفت لمركز أبوظبي",
+    "سامسونغ تدرس تحويل خطوط إنتاج GDDR7 إلى تايوان لتفادي العقوبات الأمريكية الثانوية",
+    "٩٠٪ من صناعة أشباه الموصلات العالمية تعتمد على المعادن الأرضية النادرة من الصين",
+    "مجلس الأمن القومي الصيني يعقد اجتماعاً طارئاً غداً لتحديد الرد على الحظر الأمريكي"
+  ]
+}

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Photonect NEWS — Iraq Daily</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#080808;display:flex;flex-direction:column;align-items:center;gap:24px;padding:24px;font-family:'Tajawal','Cairo',sans-serif;}
+.lbl{color:#444;font:11px monospace;margin-bottom:-16px;}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;flex-shrink:0;font-family:'Tajawal','Cairo',sans-serif;}
+
+/* ===== EVOLUTION V5: Category color system ===== */
+:root {
+  --gold: #FFC217;
+  --red: #D72638;
+  --dark: #0d0d0d;
+  --card: rgba(255,255,255,.04);
+  --border: rgba(255,255,255,.07);
+  --pol: #3B82F6;    /* politics = blue */
+  --eco: #10B981;    /* economy = green */
+  --sec: #EF4444;    /* security = red */
+  --soc: #A855F7;    /* society = purple */
+  --oil: #F59E0B;    /* oil = amber */
+}
+
+/* Logo */
+.logo{display:inline-flex;flex-direction:column;align-items:center;gap:1px;}
+.logo .r{width:20px;height:6px;background:var(--red);border-radius:1px;}
+.logo .n{font-family:'Cairo';font-weight:900;font-size:18px;letter-spacing:3px;color:#fff;line-height:1.1;}
+.logo .s{font-family:'Cairo';font-weight:800;font-size:9px;letter-spacing:5px;color:var(--gold);}
+
+/* Nav */
+.nav{display:flex;justify-content:space-between;align-items:center;padding:18px 45px;position:relative;z-index:2;}
+.nav .pg{color:rgba(255,255,255,.3);font-size:12px;font-weight:600;font-family:'Cairo',monospace;direction:ltr;}
+.tag{padding:4px 16px;border-radius:16px;font-size:12px;font-weight:800;letter-spacing:1px;color:#fff;}
+
+/* Shared */
+.dots{display:flex;gap:8px;justify-content:center;padding:8px 0;}
+.dots .d{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.12);}
+.dots .d.a{background:var(--gold);width:20px;border-radius:4px;}
+.pbar{height:5px;border-radius:3px;background:rgba(255,255,255,.08);overflow:hidden;}
+.pbar .f{height:100%;border-radius:3px;}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;}
+.z{position:relative;z-index:2;}
+
+/* ====================================================
+   SLIDE 1: COVER — Dashboard style (V5 EVOLUTION)
+   Featured: headline cards preview, category indicators
+==================================================== */
+.s1{background:var(--dark);}
+.s1 .bg{position:absolute;inset:0;background:url('./images/dark_globe.jpg') center 30%/cover;opacity:.3;}
+.s1 .overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(13,13,13,.2) 0%,rgba(13,13,13,.7) 35%,var(--dark) 65%);}
+.s1 .gradient-line{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,var(--red),var(--gold),var(--pol),var(--eco));z-index:3;}
+
+/* V5: Category pill indicators */
+.cat-pills{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:0 45px;position:relative;z-index:2;}
+.cat-pill{padding:4px 14px;border-radius:20px;font-size:11px;font-weight:700;border:1px solid;display:flex;align-items:center;gap:5px;}
+.cat-pill .dot{width:6px;height:6px;border-radius:50%;}
+
+/* V5: Headline preview cards on cover */
+.headline-cards{display:flex;flex-direction:column;gap:10px;padding:0 45px;position:relative;z-index:2;}
+.hl-card{display:flex;gap:14px;align-items:center;padding:16px 20px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:14px;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);}
+.hl-card .hl-cat{width:4px;height:40px;border-radius:2px;flex-shrink:0;}
+.hl-card .hl-num{font-size:13px;font-weight:900;color:rgba(255,255,255,.2);font-family:'Cairo',monospace;flex-shrink:0;width:24px;}
+.hl-card .hl-text{font-size:16px;font-weight:700;color:rgba(255,255,255,.8);line-height:1.4;flex:1;}
+.hl-card .hl-arrow{color:rgba(255,255,255,.15);font-size:18px;flex-shrink:0;}
+
+.s1 .title-section{text-align:center;padding:50px 45px 20px;position:relative;z-index:2;}
+.s1 .flag-icon{font-size:48px;margin-bottom:10px;}
+.s1 .main-title{font-size:56px;font-weight:900;color:#fff;line-height:1.15;margin-bottom:8px;}
+.s1 .date-sub{font-size:18px;color:var(--gold);font-weight:700;margin-bottom:4px;}
+.s1 .desc{font-size:16px;color:rgba(255,255,255,.35);margin-bottom:20px;}
+
+.s1 .bottom{position:absolute;bottom:0;left:0;right:0;background:var(--gold);padding:16px 45px;display:flex;justify-content:space-between;align-items:center;z-index:3;}
+.s1 .bottom .swipe{color:var(--dark);font-size:16px;font-weight:800;display:flex;align-items:center;gap:8px;}
+
+/* ====================================================
+   SLIDE 2: THE BIG STORY (impact of Iran war on Iraq)
+==================================================== */
+.s2{background:var(--dark);position:relative;}
+.s2 .bg2{position:absolute;inset:0;background:linear-gradient(180deg,rgba(215,38,56,.08) 0%,var(--dark) 40%);}
+.s2 .header{padding:18px 45px 25px;position:relative;z-index:2;}
+.s2 .chapter{font-size:13px;font-weight:800;letter-spacing:4px;margin-bottom:6px;}
+.s2 .title{color:#fff;font-size:40px;font-weight:900;line-height:1.2;margin-bottom:8px;}
+.s2 .sub{color:rgba(255,255,255,.4);font-size:16px;line-height:1.5;}
+
+/* V5 EVOLUTION: Split-screen fact panel */
+.split-panel{display:flex;gap:0;margin:15px 45px;border-radius:16px;overflow:hidden;border:1px solid var(--border);position:relative;z-index:2;}
+.split-side{flex:1;padding:22px 20px;}
+.split-side .sp-label{font-size:12px;font-weight:800;letter-spacing:2px;margin-bottom:10px;opacity:.6;}
+.split-side .sp-num{font-size:38px;font-weight:900;font-family:'Cairo';line-height:1;}
+.split-side .sp-desc{font-size:14px;color:rgba(255,255,255,.45);margin-top:6px;line-height:1.4;}
+.split-divider{width:1px;background:rgba(255,255,255,.08);margin:15px 0;}
+
+/* V5: Impact meter — visual severity indicator */
+.impact-meter{display:flex;gap:3px;margin:15px 45px;position:relative;z-index:2;}
+.impact-meter .im-block{flex:1;height:8px;border-radius:2px;background:rgba(255,255,255,.06);}
+.impact-meter .im-block.active{background:var(--red);}
+.impact-meter .im-block.warn{background:var(--gold);}
+.im-label{display:flex;justify-content:space-between;padding:4px 45px 0;position:relative;z-index:2;}
+.im-label span{font-size:11px;color:rgba(255,255,255,.25);}
+
+.s2 .facts{padding:10px 45px;display:flex;flex-direction:column;gap:10px;position:relative;z-index:2;}
+.s2 .fact{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 20px;display:flex;gap:14px;align-items:flex-start;}
+.s2 .fact .f-accent{width:4px;border-radius:2px;align-self:stretch;flex-shrink:0;}
+.s2 .fact .ft{color:#fff;font-size:15px;font-weight:700;margin-bottom:3px;}
+.s2 .fact .fd{color:rgba(255,255,255,.4);font-size:13px;line-height:1.5;}
+
+.s2 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:3;background:rgba(215,38,56,.08);border-top:1px solid rgba(215,38,56,.15);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s2 .bbar .bf{color:var(--red);font-size:13px;font-weight:700;}
+
+/* ====================================================
+   SLIDE 3: POLITICS & SECURITY (V5: dual-column layout)
+==================================================== */
+.s3{background:var(--dark);position:relative;}
+.s3 .header{padding:18px 45px 20px;position:relative;z-index:2;}
+.s3 .title{color:#fff;font-size:38px;font-weight:900;line-height:1.2;margin-bottom:6px;}
+
+/* V5 EVOLUTION: Dual-column category layout */
+.dual-col{display:flex;gap:14px;padding:0 45px;position:relative;z-index:2;}
+.dual-col .col{flex:1;display:flex;flex-direction:column;gap:10px;}
+.col-header{display:flex;align-items:center;gap:8px;padding:10px 16px;border-radius:10px;margin-bottom:4px;}
+.col-header .ch-icon{width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:14px;}
+.col-header .ch-title{font-size:15px;font-weight:800;}
+
+.col-item{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;border-right:3px solid;}
+.col-item .ci-title{font-size:14px;font-weight:700;color:#fff;margin-bottom:4px;line-height:1.4;}
+.col-item .ci-desc{font-size:12px;color:rgba(255,255,255,.35);line-height:1.5;}
+
+.s3 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:3;padding:14px 45px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--border);}
+
+/* ====================================================
+   SLIDE 4: ECONOMY & OIL (V5: data-rich with purpose)
+==================================================== */
+.s4{background:var(--dark);position:relative;}
+.s4 .bg4{position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,185,129,.05) 0%,var(--dark) 30%);}
+.s4 .header{padding:18px 45px 20px;position:relative;z-index:2;}
+.s4 .title{color:#fff;font-size:38px;font-weight:900;line-height:1.2;margin-bottom:6px;}
+
+/* V5: Metric cards with delta indicators */
+.metrics-row{display:flex;gap:10px;padding:0 45px;position:relative;z-index:2;}
+.metric{flex:1;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 14px;text-align:center;}
+.metric .m-label{font-size:12px;color:rgba(255,255,255,.4);font-weight:600;margin-bottom:6px;}
+.metric .m-value{font-size:28px;font-weight:900;font-family:'Cairo';line-height:1;}
+.metric .m-delta{font-size:12px;font-weight:700;margin-top:4px;display:inline-block;padding:2px 8px;border-radius:4px;}
+.metric .m-delta.up{background:rgba(16,185,129,.12);color:#10B981;}
+.metric .m-delta.down{background:rgba(239,68,68,.12);color:#EF4444;}
+.metric .m-delta.neutral{background:rgba(255,255,255,.06);color:rgba(255,255,255,.4);}
+
+.s4 .content{padding:15px 45px;display:flex;flex-direction:column;gap:10px;position:relative;z-index:2;}
+
+.s4 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:3;background:rgba(16,185,129,.06);border-top:1px solid rgba(16,185,129,.15);padding:14px 45px;display:flex;justify-content:space-between;align-items:center;}
+.s4 .bbar .bf{color:var(--eco);font-size:13px;font-weight:700;}
+
+/* ====================================================
+   SLIDE 5: LIFE IN IRAQ (infrastructure, society)
+==================================================== */
+.s5{background:var(--dark);position:relative;}
+.s5 .header{padding:18px 45px 20px;position:relative;z-index:2;}
+.s5 .title{color:#fff;font-size:38px;font-weight:900;line-height:1.2;margin-bottom:6px;}
+
+.s5 .content{padding:0 45px;display:flex;flex-direction:column;gap:10px;position:relative;z-index:2;}
+
+/* V5: Life card with image strip */
+.life-card{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;}
+.life-card .lc-img{height:120px;background-size:cover;background-position:center;position:relative;}
+.life-card .lc-img .lc-overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(13,13,13,.9) 0%,transparent 60%);}
+.life-card .lc-img .lc-cat{position:absolute;bottom:10px;right:14px;padding:3px 10px;border-radius:6px;font-size:11px;font-weight:700;}
+.life-card .lc-body{padding:16px 18px;}
+.life-card .lc-title{font-size:16px;font-weight:800;color:#fff;margin-bottom:4px;line-height:1.4;}
+.life-card .lc-desc{font-size:13px;color:rgba(255,255,255,.4);line-height:1.6;}
+
+.s5 .bbar{position:absolute;bottom:0;left:0;right:0;z-index:3;padding:14px 45px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--border);}
+
+/* ====================================================
+   SLIDE 6: SOURCES
+==================================================== */
+.s6{background:var(--dark);}
+.s6 .top{text-align:center;padding:30px 45px 12px;}
+.s6 .sep{height:1px;background:rgba(255,255,255,.06);margin:0 80px;}
+.s6 .stitle{text-align:center;font-size:34px;font-weight:900;color:#fff;margin:10px 0 5px;}
+.s6 .ssub{text-align:center;font-size:14px;color:rgba(255,255,255,.3);margin-bottom:8px;}
+.s6 .sources{padding:5px 45px;display:flex;flex-direction:column;gap:6px;}
+.s6 .src{display:flex;align-items:center;gap:12px;padding:11px 16px;background:var(--card);border:1px solid var(--border);border-radius:10px;}
+.s6 .src .sn{background:var(--gold);color:var(--dark);min-width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:900;font-family:'Cairo',monospace;flex-shrink:0;}
+.s6 .src .sname{color:#fff;font-size:13px;font-weight:700;}
+.s6 .src .surl{color:rgba(255,255,255,.2);font-size:10px;font-family:monospace;direction:ltr;display:inline-block;}
+.s6 .src .sg{width:3px;height:22px;background:var(--gold);border-radius:2px;flex-shrink:0;}
+.s6 .bottom{position:absolute;bottom:0;left:0;right:0;text-align:center;padding:15px 45px;}
+.s6 .follow{color:rgba(255,255,255,.35);font-size:13px;font-weight:600;}
+.s6 .handle{color:var(--gold);font-size:20px;font-weight:900;direction:ltr;display:inline-block;margin-top:3px;}
+.s6 .tagline{color:rgba(255,255,255,.15);font-size:11px;margin-top:3px;}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: COVER -->
+<div class="lbl">1/6</div>
+<div class="slide s1" id="slide1">
+  <div class="bg"></div>
+  <div class="overlay"></div>
+  <div class="gradient-line"></div>
+
+  <div class="nav">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div style="display:flex;align-items:center;gap:8px;"><div style="width:8px;height:8px;border-radius:50%;background:var(--red);box-shadow:0 0 8px var(--red);"></div><span style="color:rgba(255,255,255,.6);font-size:14px;font-weight:700;">٨ أبريل ٢٠٢٦</span></div>
+  </div>
+
+  <div class="title-section">
+    <div class="flag-icon">🇮🇶</div>
+    <div class="main-title">العراق اليوم</div>
+    <div class="date-sub">ملخص ٢٤ ساعة — كل ما تحتاج تعرفه</div>
+    <div class="desc">سياسة · اقتصاد · أمن · طاقة · مجتمع</div>
+  </div>
+
+  <div class="cat-pills">
+    <div class="cat-pill" style="border-color:var(--pol);color:var(--pol);"><div class="dot" style="background:var(--pol);"></div>سياسة</div>
+    <div class="cat-pill" style="border-color:var(--eco);color:var(--eco);"><div class="dot" style="background:var(--eco);"></div>اقتصاد</div>
+    <div class="cat-pill" style="border-color:var(--sec);color:var(--sec);"><div class="dot" style="background:var(--sec);"></div>أمن</div>
+    <div class="cat-pill" style="border-color:var(--oil);color:var(--oil);"><div class="dot" style="background:var(--oil);"></div>طاقة</div>
+    <div class="cat-pill" style="border-color:var(--soc);color:var(--soc);"><div class="dot" style="background:var(--soc);"></div>مجتمع</div>
+  </div>
+
+  <div style="height:20px;"></div>
+
+  <!-- V5: Headline preview cards -->
+  <div class="headline-cards">
+    <div class="hl-card">
+      <div class="hl-cat" style="background:var(--red);"></div>
+      <div class="hl-num">٠١</div>
+      <div class="hl-text" id="hl1">HEADLINE_1</div>
+      <div class="hl-arrow">←</div>
+    </div>
+    <div class="hl-card">
+      <div class="hl-cat" style="background:var(--pol);"></div>
+      <div class="hl-num">٠٢</div>
+      <div class="hl-text" id="hl2">HEADLINE_2</div>
+      <div class="hl-arrow">←</div>
+    </div>
+    <div class="hl-card">
+      <div class="hl-cat" style="background:var(--eco);"></div>
+      <div class="hl-num">٠٣</div>
+      <div class="hl-text" id="hl3">HEADLINE_3</div>
+      <div class="hl-arrow">←</div>
+    </div>
+    <div class="hl-card">
+      <div class="hl-cat" style="background:var(--soc);"></div>
+      <div class="hl-num">٠٤</div>
+      <div class="hl-text" id="hl4">HEADLINE_4</div>
+      <div class="hl-arrow">←</div>
+    </div>
+  </div>
+
+  <div class="bottom">
+    <div class="swipe">← اسحب لقراءة التفاصيل</div>
+    <div class="dots"><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- SLIDE 2: THE BIG STORY -->
+<div class="lbl">2/6</div>
+<div class="slide s2" id="slide2">
+  <div class="bg2"></div>
+  <div class="header">
+    <div class="nav"><div class="pg">٢ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--red);">القصة الرئيسية</div></div>
+    <div class="chapter" style="color:var(--red);" id="s2_chapter">CHAPTER</div>
+    <div class="title" id="s2_title">BIG_STORY_TITLE</div>
+    <div class="sub" id="s2_sub">BIG_STORY_SUB</div>
+  </div>
+
+  <div class="split-panel">
+    <div class="split-side" style="background:rgba(215,38,56,.06);">
+      <div class="sp-label" style="color:var(--red);" id="sp1_label">LABEL_1</div>
+      <div class="sp-num" style="color:var(--red);" id="sp1_num">NUM_1</div>
+      <div class="sp-desc" id="sp1_desc">DESC_1</div>
+    </div>
+    <div class="split-divider"></div>
+    <div class="split-side" style="background:rgba(255,194,23,.04);">
+      <div class="sp-label" style="color:var(--gold);" id="sp2_label">LABEL_2</div>
+      <div class="sp-num" style="color:var(--gold);" id="sp2_num">NUM_2</div>
+      <div class="sp-desc" id="sp2_desc">DESC_2</div>
+    </div>
+  </div>
+
+  <!-- V5: Impact severity meter -->
+  <div class="impact-meter">
+    <div class="im-block active"></div>
+    <div class="im-block active"></div>
+    <div class="im-block active"></div>
+    <div class="im-block active"></div>
+    <div class="im-block active"></div>
+    <div class="im-block active"></div>
+    <div class="im-block warn"></div>
+    <div class="im-block warn"></div>
+    <div class="im-block"></div>
+    <div class="im-block"></div>
+  </div>
+  <div class="im-label"><span>منخفض</span><span>مستوى التأثير على العراق</span><span>حرج</span></div>
+
+  <div class="facts" id="s2_facts">
+    <!-- Facts injected by content -->
+  </div>
+
+  <div class="bbar">
+    <div class="bf" id="s2_bottom">BOTTOM_FACT</div>
+    <div class="dots"><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- SLIDE 3: POLITICS & SECURITY (V5: Dual column) -->
+<div class="lbl">3/6</div>
+<div class="slide s3" id="slide3">
+  <div class="header">
+    <div class="nav"><div class="pg">٣ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--pol);">سياسة وأمن</div></div>
+    <div class="title">سياسة وأمن — ماذا تغيّر؟</div>
+  </div>
+
+  <div class="dual-col">
+    <!-- Politics column -->
+    <div class="col">
+      <div class="col-header" style="background:rgba(59,130,246,.08);">
+        <div class="ch-icon" style="background:var(--pol);color:#fff;">🏛</div>
+        <div class="ch-title" style="color:var(--pol);">سياسة</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--pol);" id="pol1">
+        <div class="ci-title">POL_TITLE_1</div>
+        <div class="ci-desc">POL_DESC_1</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--pol);" id="pol2">
+        <div class="ci-title">POL_TITLE_2</div>
+        <div class="ci-desc">POL_DESC_2</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--pol);" id="pol3">
+        <div class="ci-title">POL_TITLE_3</div>
+        <div class="ci-desc">POL_DESC_3</div>
+      </div>
+    </div>
+
+    <!-- Security column -->
+    <div class="col">
+      <div class="col-header" style="background:rgba(239,68,68,.08);">
+        <div class="ch-icon" style="background:var(--sec);color:#fff;">🛡</div>
+        <div class="ch-title" style="color:var(--sec);">أمن</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--sec);" id="sec1">
+        <div class="ci-title">SEC_TITLE_1</div>
+        <div class="ci-desc">SEC_DESC_1</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--sec);" id="sec2">
+        <div class="ci-title">SEC_TITLE_2</div>
+        <div class="ci-desc">SEC_DESC_2</div>
+      </div>
+      <div class="col-item" style="border-right-color:var(--sec);" id="sec3">
+        <div class="ci-title">SEC_TITLE_3</div>
+        <div class="ci-desc">SEC_DESC_3</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="bf" style="color:rgba(255,255,255,.4);" id="s3_bottom">BOTTOM_FACT</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- SLIDE 4: ECONOMY & OIL -->
+<div class="lbl">4/6</div>
+<div class="slide s4" id="slide4">
+  <div class="bg4"></div>
+  <div class="header">
+    <div class="nav"><div class="pg">٤ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--eco);">اقتصاد وطاقة</div></div>
+    <div class="title" style="position:relative;z-index:2;">اقتصاد وطاقة — الأرقام</div>
+  </div>
+
+  <!-- V5: Metric cards with deltas -->
+  <div class="metrics-row" style="margin-bottom:14px;">
+    <div class="metric" id="m1">
+      <div class="m-label">METRIC_1_LABEL</div>
+      <div class="m-value" style="color:var(--eco);">METRIC_1_VALUE</div>
+      <div class="m-delta up">METRIC_1_DELTA</div>
+    </div>
+    <div class="metric" id="m2">
+      <div class="m-label">METRIC_2_LABEL</div>
+      <div class="m-value" style="color:var(--oil);">METRIC_2_VALUE</div>
+      <div class="m-delta neutral">METRIC_2_DELTA</div>
+    </div>
+    <div class="metric" id="m3">
+      <div class="m-label">METRIC_3_LABEL</div>
+      <div class="m-value" style="color:var(--red);">METRIC_3_VALUE</div>
+      <div class="m-delta down">METRIC_3_DELTA</div>
+    </div>
+  </div>
+
+  <div class="content" id="s4_content">
+    <!-- Economy facts injected here -->
+  </div>
+
+  <div class="bbar">
+    <div class="bf" id="s4_bottom">BOTTOM_FACT</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- SLIDE 5: LIFE IN IRAQ -->
+<div class="lbl">5/6</div>
+<div class="slide s5" id="slide5">
+  <div class="header">
+    <div class="nav"><div class="pg">٥ / ٦</div><div class="logo"><div class="r"></div><div class="n">PHOTONECT</div></div><div class="tag" style="background:var(--soc);">حياة ومجتمع</div></div>
+    <div class="title">الحياة في العراق — ماذا يحصل على الأرض؟</div>
+  </div>
+
+  <div class="content" id="s5_content">
+    <!-- Life cards injected here -->
+  </div>
+
+  <div class="bbar">
+    <div class="bf" style="color:rgba(255,255,255,.4);" id="s5_bottom">BOTTOM_FACT</div>
+    <div class="dots"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div><div class="d"></div></div>
+  </div>
+</div>
+
+<!-- SLIDE 6: SOURCES -->
+<div class="lbl">6/6</div>
+<div class="slide s6" id="slide6">
+  <div class="top">
+    <div class="logo" style="display:inline-flex;"><div class="r" style="width:26px;height:8px;"></div><div class="n" style="font-size:24px;">PHOTONECT</div><div class="s">NEWS</div></div>
+  </div>
+  <div class="sep"></div>
+  <div class="stitle">المصادر</div>
+  <div class="ssub">لا نكذب — كل رقم قابل للتحقق</div>
+  <div class="sep"></div>
+
+  <div class="sources" id="sources_list">
+    <!-- Sources injected here -->
+  </div>
+
+  <div class="bottom">
+    <div class="sep" style="margin-bottom:10px;"></div>
+    <div class="logo" style="display:inline-flex;"><div class="r"></div><div class="n" style="font-size:18px;">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="follow">تابعنا — الأخبار كل ساعتين</div>
+    <div class="handle">@photonect.news</div>
+    <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+    <div class="dots" style="margin-top:6px;"><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d a"></div></div>
+  </div>
+</div>
+
+</body>
+</html>

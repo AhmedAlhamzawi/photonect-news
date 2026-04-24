@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "سباق الحدود",
+    "arabicHeadline": "أنثروبيك تتجاوز أوبن إيه آي في الإيرادات — سباق النماذج يدخل مرحلة الحسم",
+    "englishSubhead": "AI FRONTIER • ARMS RACE",
+    "heroMedia": "images/news/2026-04-18-ai-frontier-race/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أنثروبيك ٣٠ مليار ARR وتتخطى أوبن إيه آي في إيرادات المؤسسات — وجيميناي ٣.١ برو يُطبق الفجوة",
+      "arabicBody": "تقارير اليوم من The Information وبلومبرغ تؤكد أن أنثروبيك تجاوزت أوبن إيه آي لأول مرة في إيرادات عملاء المؤسسات بعد قفزتها إلى ٣٠ مليار دولار ARR. في الوقت نفسه، جيميناي ٣.١ برو يتفوّق على كلود في ثلاثة معايير برمجية ويقلّص الفجوة إلى نقطتين.",
+      "bigStat": {
+        "value": "$30B",
+        "label": "Anthropic ARR • beats OpenAI enterprise",
+        "arabicLabel": "إيرادات أنثروبيك السنوية — تتفوّق على أوبن إيه آي في المؤسسات"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة أنثروبيك من سوق المؤسسات",
+          "value": "32%"
+        },
+        {
+          "label": "جيميناي ٣.١ برو vs كلود (SWE-bench)",
+          "value": "-2 pts"
+        },
+        {
+          "label": "تسريبات GPT-5.5",
+          "value": "MAY 2026"
+        },
+        {
+          "label": "نمو إيرادات أنثروبيك السنوي",
+          "value": "+300%"
+        }
+      ],
+      "broll": "images/news/2026-04-18-ai-frontier-race/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D97757"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صفقة ميتا–CoreWeave ٣٥ مليار تُعيد رسم سوق الحوسبة — وإنفاق النماذج يتجاوز رؤوس أموال النفط",
+      "arabicBody": "إنفاق الشركات الأربع الكبرى على البنية التحتية للذكاء الاصطناعي وصل إلى ٣٢٥ مليار دولار هذا العام — أكبر من ميزانيات إكسون وشل وشيفرون مجتمعة. ميتا وحدها تعاقدت على ٣٥ مليار دولار حوسبة سحابية مع CoreWeave. النماذج الحدودية أصبحت أغلى صناعة في التاريخ.",
+      "bigStat": {
+        "value": "$325B",
+        "label": "Big 4 AI capex 2026",
+        "arabicLabel": "إنفاق الكبار على البنية التحتية — ٢٠٢٦"
+      },
+      "supportingStats": [
+        {
+          "label": "صفقة Meta × CoreWeave",
+          "value": "$35B"
+        },
+        {
+          "label": "ASML Q1 طلبيات جديدة",
+          "value": "€9.2B"
+        },
+        {
+          "label": "سعر آلة EUV واحدة",
+          "value": "$400M"
+        },
+        {
+          "label": "حصة تايوان من رقائق AI المتقدمة",
+          "value": "92%"
+        }
+      ],
+      "broll": "images/news/2026-04-18-ai-frontier-race/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#0071C5"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كلود ٥ وجيميناي ٤ قبل نهاية الصيف — ومن يتحكم بـ ١٠٪ من الإنتاجية العالمية",
+      "arabicBody": "مصادر وول ستريت جورنال: كلود ٥ يصل في يونيو، جيميناي ٤ في يوليو، وGPT-5.5 في مايو. ثلاثة نماذج حدودية خلال ٩٠ يوماً. محللو مورغان ستانلي: الفائز في هذه الجولة سيتحكم بـ ١٠٪ من الإنتاجية العالمية بحلول ٢٠٢٨.",
+      "bigStat": {
+        "value": "90 DAYS",
+        "label": "3 frontier models incoming",
+        "arabicLabel": "٣ نماذج حدودية خلال ٩٠ يوماً"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "ANTHROPIC LEAD"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "GOOGLE CATCHES"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "OPENAI RETAKES"
+        }
+      ],
+      "broll": "images/news/2026-04-18-ai-frontier-race/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#4285F4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Information",
+      "domain": "theinformation.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    }
+  ],
+  "arabicTicker": [
+    "أنثروبيك تتخطى أوبن إيه آي في إيرادات المؤسسات لأول مرة — ٣٠ مليار دولار ARR",
+    "جيميناي ٣.١ برو يقلّص الفجوة مع كلود إلى نقطتين في معايير البرمجة",
+    "صفقة ميتا–CoreWeave بـ ٣٥ مليار دولار تعيد رسم سوق الحوسبة السحابية",
+    "إنفاق الشركات الأربع الكبرى على الذكاء الاصطناعي يصل إلى ٣٢٥ مليار دولار في ٢٠٢٦",
+    "تسريبات: GPT-5.5 في مايو، كلود ٥ في يونيو، جيميناي ٤ في يوليو",
+    "ASML تُسجّل طلبيات جديدة بـ ٩.٢ مليار يورو في الربع الأول — دورة الرقائق تتسارع",
+    "مورغان ستانلي: الفائز في سباق النماذج سيتحكم بـ ١٠٪ من الإنتاجية العالمية بحلول ٢٠٢٨"
+  ],
+  "topicBucket": "tech_ai"
+}

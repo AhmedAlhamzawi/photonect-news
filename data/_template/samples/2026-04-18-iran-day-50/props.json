@@ -1,0 +1,141 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "mena_geopolitics",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اليوم الـ٥٠ من الحرب: الهدنة تنتهي بعد ٣ أيام وهرمز لا تزال مغلقة",
+    "englishSubhead": "IRAN WAR • DAY 50",
+    "heroMedia": "images/news/2026-04-18-iran-day-50/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اليوم الـ٥٠: الحصار الأمريكي مستمر و٣ حاملات طائرات تطوّق المنطقة",
+      "arabicBody": "الأسطول الخامس يواصل عملية Epic Fury لليوم السادس على التوالي بمشاركة ١٢ سفينة حربية و١٠ آلاف جندي. ثلاث مجموعات ضاربة تحاصر المنطقة: لينكولن في بحر العرب، فورد في شرق المتوسط، وبوش تبحر من قواعد أفريقيا. هرمز لا تزال مغلقة أمام ناقلات النفط.",
+      "bigStat": {
+        "value": "50",
+        "label": "Days since war began",
+        "arabicLabel": "يوماً منذ اندلاع الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "سفن الحصار الأمريكي",
+          "value": "12+"
+        },
+        {
+          "label": "جنود في العملية",
+          "value": "10,000+"
+        },
+        {
+          "label": "حاملات طائرات نشطة",
+          "value": "3 CSGs"
+        },
+        {
+          "label": "اسم العملية",
+          "value": "EPIC FURY"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iran-day-50/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الهدنة تنتهي بعد ٣ أيام — ومحادثات إسلام آباد الثانية لم تبدأ بعد",
+      "arabicBody": "وقف إطلاق النار الموقّع في ٨ أبريل بوساطة باكستانية يعدّ ساعاته الأخيرة قبل انتهائه في ٢١ أبريل. بلومبرغ تتحدث عن تمديد محتمل لأسبوعين، لكن طهران تنفي علنياً. الجولة الأولى انهارت بعد ٢١ ساعة في ١٢ أبريل، وإسلام آباد تحاول ترتيب جولة ثانية قبل الصفر.",
+      "bigStat": {
+        "value": "72h",
+        "label": "until ceasefire expires",
+        "arabicLabel": "ساعة تفصل عن انتهاء الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ انتهاء الهدنة",
+          "value": "APR 21"
+        },
+        {
+          "label": "الوسيط الرئيسي",
+          "value": "PAKISTAN"
+        },
+        {
+          "label": "مدة جولة إسلام آباد الأولى",
+          "value": "21 HOURS"
+        },
+        {
+          "label": "تمديد بلومبرغ المقترح",
+          "value": "2 WEEKS"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iran-day-50/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "برنت عند ٩٥ دولاراً — وطهران تلوّح بفتح جبهة البحر الأحمر",
+      "arabicBody": "السيناريوهات الثلاث مفتوحة: تمديد سريع يهدّئ الأسواق، انهيار كامل يعيد برنت فوق ١٢٠ دولاراً، أو توسّع جغرافي إذا أعادت إيران تفعيل الحوثيين في البحر الأحمر. المرشد الجديد مجتبى خامنئي يواجه أول اختبار استراتيجي منذ تولّيه في ٩ مارس بعد اغتيال والده.",
+      "bigStat": {
+        "value": "$95",
+        "label": "Brent per barrel today",
+        "arabicLabel": "دولاراً سعر برميل برنت اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "2-WEEK EXTENSION"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "CEASEFIRE COLLAPSE"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "RED SEA FRONT"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iran-day-50/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "mapOverlay": "hormuz"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    }
+  ],
+  "arabicTicker": [
+    "اليوم الـ٥٠ من الحرب الأمريكية الإيرانية الإسرائيلية — ولا أفق قريب للحسم",
+    "الهدنة الموقّعة في إسلام آباد تنتهي في ٢١ أبريل — ٧٢ ساعة تفصل عن الصفر",
+    "بلومبرغ: واشنطن وطهران تدرسان تمديد وقف إطلاق النار أسبوعين إضافيين",
+    "الحصار البحري الأمريكي على الموانئ الإيرانية يدخل يومه السادس بـ١٢ سفينة حربية",
+    "ثلاث مجموعات ضاربة أمريكية تطوّق المنطقة: لينكولن وفورد وبوش في وضع استعداد",
+    "طهران تهدّد بفتح جبهة البحر الأحمر وإعادة تفعيل الحوثيين إذا انهارت الهدنة",
+    "مجتبى خامنئي يواجه أول اختبار استراتيجي منذ تولّيه القيادة في ٩ مارس الماضي"
+  ]
+}

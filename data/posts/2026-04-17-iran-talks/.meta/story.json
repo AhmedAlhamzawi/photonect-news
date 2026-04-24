@@ -1,0 +1,59 @@
+{
+  "postId": "2026-04-17-iran-talks",
+  "renderedAt": "2026-04-17T13:45:00+03:00",
+  "composition": "NewsReel",
+  "durationSeconds": 30,
+  "resolution": "1080x1920",
+  "fps": 30,
+  "lead": "US–Iran talks gain momentum — 100 hours to April 21 ultimatum",
+  "headlineArabic": "١٠٠ ساعة تفصل واشنطن وطهران عن نقطة اللاعودة",
+  "angle": "Pakistani mediation in Washington; Trump-brokered Netanyahu–Aoun call Thursday; markets watching deadline",
+  "beats": [
+    {
+      "label": "what_is_happening",
+      "headline": "Pakistan army chief mediating in Washington; Netanyahu–Aoun call Thursday",
+      "keyStat": "APR 21 ultimatum day",
+      "supporting": [
+        "Pakistan mediation in progress",
+        "White House optimistic",
+        "Netanyahu–Aoun channel open Thursday",
+        "Hormuz still officially shut"
+      ]
+    },
+    {
+      "label": "why_it_matters",
+      "headline": "Markets watching every statement; China warns of 'law of the jungle'",
+      "keyStat": "+34% jet fuel weekly spike",
+      "supporting": [
+        "China: law of jungle warning",
+        "Trump approval slipping",
+        "Europe searching for Hormuz alternative",
+        "Brent crude >$140/bbl"
+      ]
+    },
+    {
+      "label": "what_next",
+      "headline": "Three scenarios in 100 hours will redraw the Middle East",
+      "keyStat": "100h until ultimatum",
+      "supporting": [
+        "Scenario 1: Extend truce",
+        "Scenario 2: Bilateral deal",
+        "Scenario 3: Total collapse"
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "Al Jazeera English", "url": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts", "headline": "US-Iran talks: What's the latest on mediation efforts?", "publishedAt": "2026-04-15T13:55" },
+    { "name": "CNN", "url": "https://www.cnn.com/politics/live-news/us-iran-talks-04-16-26", "headline": "Live updates: Push for US-Iran talks gains momentum as White House expresses optimism for deal", "publishedAt": "2026-04-16T10:33" },
+    { "name": "Foreign Policy", "url": "https://foreignpolicy.com/2026/04/14/europe-hormuz-fix/", "headline": "Europe Is Looking for Its Own Hormuz Fix", "publishedAt": "2026-04-14T18:13" },
+    { "name": "Insurance Journal", "url": "https://www.insurancejournal.com/news/international/2026/04/16/us-iran-truce-extension-hormuz/", "headline": "US and Iran Weigh Truce Extension With Hormuz Still Shuttered", "publishedAt": "2026-04-16T10:19" },
+    { "name": "New York Post", "url": "https://nypost.com/2026/04/16/world-news/trump-netanyahu-aoun-thursday/", "headline": "Trump says Israeli and Lebanese leaders will speak on Thursday", "publishedAt": "2026-04-16T10:33" },
+    { "name": "The Atlantic", "url": "https://www.theatlantic.com/politics/archive/2026/04/trump-iran-war-winning/682199/", "headline": "Is Anybody Actually Winning Trump's Iran War?", "publishedAt": "2026-04-15T17:10" }
+  ],
+  "assetsUsed": [
+    { "type": "video", "pexelsId": 12267994, "filename": "hero_flag.mp4", "used": "hero (American flag — stakes)" },
+    { "type": "video", "pexelsId": 7647797, "filename": "broll_meeting.mp4", "used": "beat 1 (diplomatic meeting)" },
+    { "type": "video", "pexelsId": 34433115, "filename": "broll_markets.mp4", "used": "beat 2 (stock market data)" },
+    { "type": "video", "pexelsId": 7034335, "filename": "broll_clock.mp4", "used": "beat 3 (clock — countdown)" }
+  ]
+}

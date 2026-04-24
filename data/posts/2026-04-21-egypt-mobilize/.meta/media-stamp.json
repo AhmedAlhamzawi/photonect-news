@@ -1,0 +1,13 @@
+{
+  "hunted_at": "2026-04-22T00:40:00+03:00",
+  "bucket": "gulf_regional",
+  "method": "claude-hand-pick-wikimedia",
+  "hero_source": "preserved from automated hunt (original source unknown)",
+  "broll_1_source": "preserved from automated hunt (original source unknown)",
+  "broll_2_source": "preserved from automated hunt (original source unknown) — not used by variant but retained",
+  "broll_3_source": "File:Cairo_-_Heliopolis_-_1973_October_War_Panorama.JPG (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Cairo_-_Heliopolis_-_1973_October_War_Panorama.JPG",
+  "brightness_L": {
+    "broll_3": 127.7
+  },
+  "notes": "Replaced broll_3.mp4 motion-graphic fallback with Cairo October War Panorama monument — direct 1973 Yom Kippur War echo for 200K troops to Sinai story."
+}

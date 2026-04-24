@@ -1,0 +1,14 @@
+{
+  "hunted_at": "2026-04-22T00:40:00+03:00",
+  "bucket": "europe",
+  "method": "claude-hand-pick-wikimedia",
+  "hero_source": "preserved from automated hunt (original source unknown)",
+  "broll_1_source": "preserved from automated hunt (original source unknown)",
+  "broll_2_source": "File:Stack_of_pipes_North_Stream_2.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Stack_of_pipes_North_Stream_2.jpg",
+  "broll_3_source": "File:Reichstag_building_Berlin_view_from_west_before_sunset.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Reichstag_building_Berlin_view_from_west_before_sunset.jpg",
+  "brightness_L": {
+    "broll_2": 151.7,
+    "broll_3": 117.7
+  },
+  "notes": "Replaced broll_2.mp4 motion-graphic fallback with Nord Stream pipes stockpile (gas supply cut visual). broll_3 shows Reichstag exterior — chancellor/parliament under pressure."
+}

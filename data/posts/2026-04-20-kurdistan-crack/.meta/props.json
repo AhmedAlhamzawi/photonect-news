@@ -1,0 +1,137 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "iraq_domestic",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "تصدّع البيت الكردي: بافل طالباني يعترض علناً على ترشيح العامدي لرئاسة الحكومة",
+    "englishSubhead": "THE KURDISH CRACK • KDP-PUK ALLIANCE",
+    "heroMedia": "images/news/2026-04-20-kurdistan-crack/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بافل ضد مسرور: أول خلاف علني منذ تحالف نيسان الكردي الكبير",
+      "arabicBody": "رئيس الاتحاد الوطني الكردستاني بافل طالباني أعلن عبر بيان من السليمانية رفضه الصريح لترشيح عبد الكريم العامدي لرئاسة الحكومة. بعد ساعتين فقط، ردّ مسرور بارزاني من أربيل ببيان مضاد يؤكد التمسك بالمرشح. أول شرخ علني منذ توقيع اتفاق نيسان الذي أنهى ٢٠ عاماً من القطيعة.",
+      "bigStat": {
+        "value": "2h",
+        "label": "Between the two opposing statements",
+        "arabicLabel": "ساعتان فصلتا بين البيانين المتضادين"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ اتفاق نيسان",
+          "value": "APR 8"
+        },
+        {
+          "label": "فترة القطيعة السابقة",
+          "value": "20 YEARS"
+        },
+        {
+          "label": "مقاعد الديمقراطي في البرلمان",
+          "value": "31 SEATS"
+        },
+        {
+          "label": "مقاعد الاتحاد في البرلمان",
+          "value": "18 SEATS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-kurdistan-crack/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أنبوب كركوك-جيهان عصا الضغط: ٣٤٠ ألف برميل في الخط",
+      "arabicBody": "الخط الذي أُعيد تشغيله قبل أسبوع يضخّ ٣٤٠ ألف برميل يومياً عبر الأراضي الكردية نحو جيهان التركي. إذا انفرط عقد التحالف، فإن الاتحاد الوطني يملك خيار إغلاق محطات الضخ في منطقة السليمانية. خسارة يومية محتملة تبلغ ٣٤ مليون دولار بسعر ١٠٠ دولار للبرميل في ظل موجة الحرب.",
+      "bigStat": {
+        "value": "340k",
+        "label": "Barrels per day on the line",
+        "arabicLabel": "ألف برميل يومياً على المحك"
+      },
+      "supportingStats": [
+        {
+          "label": "قيمة التدفق اليومي",
+          "value": "$34M/DAY"
+        },
+        {
+          "label": "أيام منذ إعادة التشغيل",
+          "value": "7 DAYS"
+        },
+        {
+          "label": "سعر برنت اليوم",
+          "value": "$100/BBL"
+        },
+        {
+          "label": "محطات ضخ معرّضة",
+          "value": "4 STATIONS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-kurdistan-crack/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات: احتواء سريع، إعادة تفاوض، أو انهيار شامل",
+      "arabicBody": "الموفد الرئاسي توفيق جواد يبدأ جولة مكوكية اليوم بين أربيل والسليمانية لاحتواء الأزمة قبل جلسة البرلمان الاثنين. إذا فشلت الوساطة، يدخل العراق مرحلة شغور حكومي ثانية. إسطنبول وطهران تراقبان عن كثب — كل طرف يملك ورقة نفوذ في أحد فرعي البيت الكردي.",
+      "bigStat": {
+        "value": "48h",
+        "label": "Before parliament vote",
+        "arabicLabel": "ساعة قبل جلسة البرلمان"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "QUICK PATCH"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "NEW CANDIDATE"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "PIPELINE SHUTDOWN"
+        }
+      ],
+      "broll": "images/news/2026-04-20-kurdistan-crack/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "بافل طالباني يعترض علناً على ترشيح العامدي لرئاسة الحكومة — أول شرخ منذ تحالف نيسان",
+    "مسرور بارزاني يردّ ببيان مضاد خلال ساعتين — الديمقراطي يتمسّك بمرشحه دون تراجع",
+    "أنبوب كركوك-جيهان يضخّ ٣٤٠ ألف برميل يومياً عبر أراضٍ يسيطر عليها الاتحاد الوطني",
+    "الاتحاد يملك إغلاق أربع محطات ضخ — خسارة يومية محتملة تبلغ ٣٤ مليون دولار",
+    "اتفاق نيسان أنهى ٢٠ عاماً من القطيعة — والآن يواجه أول اختباراته الحقيقية بعد ١٢ يوماً",
+    "الموفد الرئاسي توفيق جواد يبدأ جولة مكوكية بين أربيل والسليمانية لاحتواء الأزمة",
+    "إسطنبول وطهران تراقبان عن كثب — كل طرف يملك ورقة نفوذ في أحد فرعي البيت الكردي"
+  ]
+}

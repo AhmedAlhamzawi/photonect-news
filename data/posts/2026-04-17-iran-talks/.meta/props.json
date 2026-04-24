@@ -1,0 +1,142 @@
+{
+  "dateLabel": "APR 17 • 2026",
+  "arabicDateLabel": "١٧ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "١٠٠ ساعة تفصل واشنطن وطهران عن نقطة اللاعودة",
+    "englishSubhead": "US–IRAN TALKS • 100h TO DEADLINE",
+    "heroMedia": "images/news/2026-04-17-iran-talks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "باكستان تتوسّط… وترامب يعقد مكالمات ماراثونية لإنقاذ الهدنة",
+      "arabicBody": "رئيس أركان الجيش الباكستاني في واشنطن لإجراء مفاوضات مكثفة مع البنتاغون قبل انقضاء مهلة ٢١ أبريل. البيت الأبيض يتحدث عن تفاؤل حقيقي، ومكالمة مرتقبة الخميس بين نتنياهو والرئيس عون بوساطة أمريكية.",
+      "bigStat": {
+        "value": "APR 21",
+        "label": "ultimatum day",
+        "arabicLabel": "موعد نهاية المهلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الوساطة الباكستانية",
+          "value": "IN PROGRESS"
+        },
+        {
+          "label": "البيت الأبيض",
+          "value": "OPTIMISTIC"
+        },
+        {
+          "label": "قناة نتنياهو–عون",
+          "value": "THURSDAY"
+        },
+        {
+          "label": "مضيق هرمز",
+          "value": "STILL SHUT"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iran-talks/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "photoInsert": "images/news/2026-04-17-iran-talks/photo_insert.jpg",
+      "photoCaption": "AFP / Al Jazeera — لقطة من الوساطة"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الأسواق تترقّب كل تصريح… والصين تحذّر من شريعة الغاب",
+      "arabicBody": "انهيار المحادثات يعني حرباً مفتوحة في الخليج، ونجاحها يعني أول اتفاق أمريكي–إيراني منذ عقود. استطلاعات ترامب تتراجع، البورصات تتحرك مع كل خبر، وأوروبا تبحث عن بديل طارئ لمضيق هرمز.",
+      "bigStat": {
+        "value": "+34%",
+        "label": "jet fuel weekly spike",
+        "arabicLabel": "قفزة أسبوعية في وقود الطائرات"
+      },
+      "supportingStats": [
+        {
+          "label": "تحذير الصين",
+          "value": "LAW OF JUNGLE"
+        },
+        {
+          "label": "شعبية ترامب",
+          "value": "SLIPPING"
+        },
+        {
+          "label": "بديل هرمز الأوروبي",
+          "value": "SEARCHING"
+        },
+        {
+          "label": "سعر برنت",
+          "value": "$140+/bbl"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iran-talks/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات خلال ١٠٠ ساعة تُعيد رسم الشرق الأوسط",
+      "arabicBody": "تمديد الهدنة وفتح مفاوضات شاملة، أو توقيع اتفاق ثنائي سريع، أو انهيار كامل يستدرج حرباً إقليمية. كل ساعة تمر تُضيّق الخيارات — والعالم كله ينتظر قرار واشنطن وطهران.",
+      "bigStat": {
+        "value": "100h",
+        "label": "until ultimatum expires",
+        "arabicLabel": "ساعة قبل انتهاء المهلة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "EXTEND TRUCE"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "BILATERAL DEAL"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "COLLAPSE"
+        }
+      ],
+      "broll": "images/news/2026-04-17-iran-talks/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Foreign Policy",
+      "domain": "foreignpolicy.com"
+    },
+    {
+      "name": "Insurance Journal",
+      "domain": "insurancejournal.com"
+    },
+    {
+      "name": "NY Post",
+      "domain": "nypost.com"
+    },
+    {
+      "name": "The Atlantic",
+      "domain": "theatlantic.com"
+    }
+  ],
+  "arabicTicker": [
+    "باكستان: رئيس الأركان في واشنطن للوساطة قبل انقضاء مهلة ٢١ أبريل",
+    "البيت الأبيض: تفاؤل حقيقي في محادثات واشنطن–طهران",
+    "الصين تحذّر: العالم ينزلق نحو شريعة الغاب إذا فشلت الوساطة",
+    "مكالمة مرتقبة الخميس بين نتنياهو والرئيس اللبناني عون بوساطة أمريكية",
+    "ترامب: محادثات إيران قد تستأنف خلال أيام رغم استمرار الحصار",
+    "مضيق هرمز مغلق رسمياً لليوم الرابع — النفط في حالة ترقب",
+    "أوروبا تبحث خطة طوارئ بديلة لمضيق هرمز مع تصاعد الأزمة"
+  ],
+  "topicBucket": "mena_geopolitics"
+}

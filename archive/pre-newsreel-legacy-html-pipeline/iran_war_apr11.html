@@ -1,0 +1,1165 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Photonect NEWS — حرب إيران، ١١ أبريل ٢٠٢٦</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Cairo:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Tajawal', sans-serif;
+    background: #111;
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 40px;
+  }
+
+  /* ─── SLIDE BASE ─── */
+  .slide {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    background: #0d0d0d;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+
+  /* ─── PHOTO LAYER ─── */
+  .photo-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+  }
+
+  /* ─── OVERLAYS ─── */
+  .overlay-dark {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.72);
+    z-index: 1;
+  }
+  .overlay-gradient-b {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.95) 35%, rgba(0,0,0,0.3) 100%);
+    z-index: 1;
+  }
+  .overlay-gradient-l {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to left, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.88) 60%);
+    z-index: 1;
+  }
+
+  /* ─── CONTENT LAYER ─── */
+  .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 40px 50px 36px;
+  }
+
+  /* ─── TOP BAR ─── */
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+  }
+
+  .logo-block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1px;
+  }
+  .logo-wordmark {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 3px;
+    line-height: 1;
+    position: relative;
+  }
+  .logo-red-rect {
+    width: 14px;
+    height: 6px;
+    background: #D72638;
+    display: block;
+    margin: 0 0 3px auto;
+  }
+  .logo-news {
+    font-family: 'Cairo', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    color: #FFC217;
+    letter-spacing: 4px;
+    line-height: 1;
+    margin-top: 2px;
+  }
+
+  /* War day badge */
+  .day-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .day-pill {
+    background: #D72638;
+    color: #fff;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    padding: 7px 18px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+  .day-label {
+    color: rgba(255,255,255,0.65);
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Tajawal', sans-serif;
+  }
+
+  /* ─── WAR TIMELINE BAR ─── */
+  .timeline-bar {
+    height: 5px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 3px;
+    margin-bottom: 32px;
+    position: relative;
+    overflow: hidden;
+  }
+  .timeline-fill {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: linear-gradient(to left, #D72638, #FFC217);
+    border-radius: 3px;
+  }
+  .timeline-marker {
+    position: absolute;
+    top: -4px;
+    width: 13px;
+    height: 13px;
+    background: #FFC217;
+    border: 2px solid #0d0d0d;
+    border-radius: 50%;
+  }
+
+  /* ─── LABEL / TAG ─── */
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFC217;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 14px;
+  }
+  .tag-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #D72638;
+    flex-shrink: 0;
+  }
+  .tag-line {
+    width: 30px;
+    height: 2px;
+    background: #FFC217;
+    flex-shrink: 0;
+  }
+
+  /* ─── TYPOGRAPHY ─── */
+  h1, h2 {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    color: #fff;
+    line-height: 1.15;
+  }
+  .headline-xl {
+    font-size: 76px;
+    line-height: 1.05;
+    letter-spacing: -1px;
+  }
+  .headline-l {
+    font-size: 58px;
+    line-height: 1.1;
+  }
+  .headline-m {
+    font-size: 46px;
+    line-height: 1.15;
+  }
+  .gold { color: #FFC217; }
+  .red  { color: #D72638; }
+  .white { color: #ffffff; }
+
+  .body-text {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: rgba(255,255,255,0.82);
+    line-height: 1.7;
+  }
+  .caption {
+    font-size: 16px;
+    color: rgba(255,255,255,0.5);
+    font-weight: 400;
+    font-family: 'Tajawal';
+  }
+
+  /* ─── QUOTE BLOCK ─── */
+  .quote-block {
+    border-right: 5px solid #FFC217;
+    padding: 20px 24px;
+    background: rgba(255,194,23,0.08);
+    border-radius: 0 6px 6px 0;
+    margin: 18px 0;
+  }
+  .quote-text {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 800;
+    font-size: 42px;
+    color: #fff;
+    line-height: 1.2;
+  }
+  .quote-attr {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+    color: #FFC217;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+
+  /* ─── BOTTOM BAR ─── */
+  .bottom-bar {
+    margin-top: auto;
+    background: rgba(255,255,255,0.06);
+    border-top: 1px solid rgba(255,194,23,0.25);
+    padding: 16px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+  }
+  .bottom-fact {
+    font-family: 'Cairo', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #FFC217;
+    letter-spacing: 0.5px;
+  }
+  .slide-dots {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.25);
+  }
+  .dot.active {
+    background: #FFC217;
+    width: 22px;
+    border-radius: 4px;
+  }
+
+  /* ─── STAT CARDS ─── */
+  .stat-row {
+    display: flex;
+    gap: 18px;
+    margin: 20px 0;
+  }
+  .stat-card {
+    flex: 1;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 12px;
+    padding: 22px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .stat-card.gold-border { border-color: rgba(255,194,23,0.35); }
+  .stat-card.red-border { border-color: rgba(215,38,56,0.4); }
+  .stat-number {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1;
+    color: #FFC217;
+  }
+  .stat-number.red { color: #D72638; }
+  .stat-number.white { color: #ffffff; }
+  .stat-label {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 17px;
+    color: rgba(255,255,255,0.7);
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  /* ─── OIL PRICE BAR CHART ─── */
+  .oil-chart {
+    background: rgba(255,255,255,0.04);
+    border-radius: 14px;
+    padding: 26px 30px;
+    margin: 16px 0;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .oil-chart-title {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+    color: rgba(255,255,255,0.55);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .bar-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+  .bar-label {
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgba(255,255,255,0.75);
+    width: 160px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .bar-track {
+    flex: 1;
+    height: 36px;
+    background: rgba(255,255,255,0.07);
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+  }
+  .bar-fill {
+    height: 100%;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-left: 12px;
+  }
+  .bar-fill.physical { background: linear-gradient(to left, #D72638, #ff6b6b); }
+  .bar-fill.futures { background: linear-gradient(to left, #FFC217, #e8a800); }
+  .bar-fill.pre-war { background: rgba(255,255,255,0.2); }
+  .bar-value {
+    font-family: 'Cairo', sans-serif;
+    font-size: 17px;
+    font-weight: 900;
+    color: #fff;
+    white-space: nowrap;
+    padding-right: 12px;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  /* ─── VS SPLIT ─── */
+  .vs-container {
+    display: flex;
+    gap: 0;
+    flex: 1;
+    border-radius: 14px;
+    overflow: hidden;
+    margin: 14px 0;
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+  .vs-side {
+    flex: 1;
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .vs-side.us { background: linear-gradient(135deg, rgba(0,36,84,0.8), rgba(0,20,60,0.9)); border-left: 2px solid rgba(255,255,255,0.15); }
+  .vs-side.iran { background: linear-gradient(135deg, rgba(0,80,0,0.5), rgba(0,100,40,0.4)); }
+  .vs-flag {
+    font-size: 38px;
+    line-height: 1;
+  }
+  .vs-country {
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #FFC217;
+  }
+  .vs-demand {
+    font-family: 'Cairo', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.3;
+  }
+  .vs-sub {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.5;
+  }
+  .vs-divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    background: rgba(215,38,56,0.15);
+    flex-shrink: 0;
+    position: relative;
+  }
+  .vs-text {
+    font-family: 'Cairo', sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: #D72638;
+    writing-mode: vertical-rl;
+    letter-spacing: 4px;
+  }
+
+  /* ─── SCENARIO CARDS ─── */
+  .scenario-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 8px 0;
+  }
+  .scenario-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    padding: 20px 22px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .scenario-card.green { background: rgba(76,175,80,0.1); border-color: rgba(76,175,80,0.25); }
+  .scenario-card.yellow { background: rgba(255,194,23,0.08); border-color: rgba(255,194,23,0.25); }
+  .scenario-card.red-bg { background: rgba(215,38,56,0.1); border-color: rgba(215,38,56,0.25); }
+  .scenario-icon {
+    font-size: 30px;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .scenario-body { flex: 1; }
+  .scenario-title {
+    font-family: 'Cairo', sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1.2;
+    margin-bottom: 5px;
+  }
+  .scenario-desc {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 17px;
+    color: rgba(255,255,255,0.65);
+    line-height: 1.5;
+  }
+  .scenario-tag-green { color: #4CAF50; }
+  .scenario-tag-yellow { color: #FFC217; }
+  .scenario-tag-red { color: #D72638; }
+
+  /* ─── HORMUZ VISUAL MAP ─── */
+  .hormuz-map {
+    flex: 1;
+    position: relative;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .toll-banner {
+    background: rgba(215,38,56,0.15);
+    border: 1px solid rgba(215,38,56,0.4);
+    border-radius: 10px;
+    padding: 18px 24px;
+    text-align: center;
+    margin: 10px 0;
+  }
+  .toll-amount {
+    font-family: 'Cairo', sans-serif;
+    font-size: 58px;
+    font-weight: 900;
+    color: #D72638;
+    line-height: 1;
+  }
+  .toll-desc {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 20px;
+    color: rgba(255,255,255,0.75);
+    margin-top: 6px;
+  }
+
+  /* ─── DIVIDER LINE ─── */
+  .divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(255,194,23,0.2);
+    margin: 14px 0;
+  }
+
+  /* ─── HIGHLIGHT BOX ─── */
+  .highlight-box {
+    background: rgba(255,194,23,0.08);
+    border: 1px solid rgba(255,194,23,0.25);
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 10px 0;
+  }
+  .highlight-icon { font-size: 26px; flex-shrink: 0; }
+  .highlight-text {
+    font-family: 'Cairo', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.3;
+  }
+
+  /* ─── SOURCES SLIDE ─── */
+  .source-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .source-num {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFC217;
+    width: 30px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .source-text {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+    color: rgba(255,255,255,0.75);
+    line-height: 1.5;
+  }
+  .source-outlet {
+    font-weight: 700;
+    color: #fff;
+  }
+
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 1 — COVER: VANCE WARNING                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-1">
+  <div class="photo-bg" style="background-image: url('images/carrier_strike.jpg'); background-position: center 40%;"></div>
+  <div class="overlay-dark"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(135deg, rgba(13,13,13,0.85) 0%, rgba(215,38,56,0.12) 50%, rgba(13,13,13,0.9) 100%);z-index:2;"></div>
+
+  <div class="content" style="padding-top:44px;">
+    <!-- Top bar -->
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-label">من الحرب</span>
+        <span class="day-pill">اليوم ٤٣</span>
+      </div>
+    </div>
+
+    <!-- Timeline -->
+    <div class="timeline-bar" style="margin-bottom:26px;">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <!-- Breaking tag -->
+    <div class="tag">
+      <span class="tag-dot"></span>
+      حرب إيران — ١١ أبريل ٢٠٢٦
+      <span class="tag-line"></span>
+    </div>
+
+    <!-- Main headline -->
+    <div style="flex:1; display:flex; flex-direction:column; justify-content:center; margin: 0 -10px;">
+      <h1 style="font-family:'Cairo',sans-serif; font-weight:900; font-size:54px; color:#fff; line-height:1.1; margin-bottom:10px;">
+        فانس في إسلام آباد<br>
+        <span style="color:#FFC217;">والعالم يحبس أنفاسه</span>
+      </h1>
+
+      <div class="quote-block" style="margin:22px 0 18px;">
+        <div class="quote-text" style="font-size:38px;">"إن لعبوا علينا فلن يجدوا<br>آذاناً صاغية"</div>
+        <div class="quote-attr">— نائب الرئيس جيه دي فانس، ١٠ أبريل ٢٠٢٦</div>
+      </div>
+
+      <div class="body-text" style="font-size:21px; color:rgba(255,255,255,0.78);">
+        المحادثات الأمريكية-الإيرانية تبدأ اليوم في إسلام آباد<br>
+        والهدنة تنتهي في <span style="color:#D72638; font-weight:700;">٢١ أبريل</span> — عشرة أيام لتقرير المصير
+      </div>
+    </div>
+
+    <!-- Stats strip -->
+    <div style="display:flex; gap:12px; margin: 8px 0 80px;">
+      <div style="flex:1; background:rgba(215,38,56,0.15); border:1px solid rgba(215,38,56,0.35); border-radius:10px; padding:14px 16px; text-align:center;">
+        <div style="font-family:'Cairo',sans-serif; font-weight:900; font-size:36px; color:#D72638;">٤٣</div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.65);">يوم من الحرب</div>
+      </div>
+      <div style="flex:1; background:rgba(255,194,23,0.08); border:1px solid rgba(255,194,23,0.25); border-radius:10px; padding:14px 16px; text-align:center;">
+        <div style="font-family:'Cairo',sans-serif; font-weight:900; font-size:36px; color:#FFC217;">١٠</div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.65);">أيام للتفاوض</div>
+      </div>
+      <div style="flex:2; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:14px 16px; text-align:center;">
+        <div style="font-family:'Cairo',sans-serif; font-weight:900; font-size:26px; color:#fff; line-height:1.2;">هرمز مغلق<br>النفط في أزمة</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div class="bottom-bar">
+    <div class="bottom-fact">الهدنة تنتهي ٢١ أبريل • اليوم المصيري بدأ</div>
+    <div class="slide-dots">
+      <div class="dot active"></div>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 2 — HORMUZ: OPEN ON PAPER, CLOSED IN REALITY       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-2">
+  <div class="photo-bg" style="background-image: url('images/hormuz_night.jpg'); background-position: center;"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(to top, rgba(0,0,0,0.97) 40%, rgba(0,0,0,0.55) 100%);z-index:1;"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(215,38,56,0.08) 100%);z-index:2;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-pill" style="background:#1a1a1a; color:#FFC217; border:1px solid #FFC217;">مضيق هرمز</span>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <div class="tag">
+      <span class="tag-dot"></span>
+      أزمة الشحن العالمي
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 class="headline-m" style="margin-bottom:8px;">
+      هرمز: <span class="gold">مفتوح على الورق</span><br>
+      <span class="red">مغلق في الواقع</span>
+    </h2>
+
+    <div class="body-text" style="font-size:19px; margin-bottom:10px; color:rgba(255,255,255,0.72);">
+      إيران تسمح بالعبور "بالتنسيق مع القوات المسلحة" — وهذا يعني رسوماً بالملايين
+    </div>
+
+    <!-- Big toll banner -->
+    <div class="toll-banner">
+      <div class="toll-amount">$1,000,000+</div>
+      <div class="toll-desc">رسوم عبور يُطالب بها الإيرانيون لكل ناقلة نفط</div>
+    </div>
+
+    <!-- 3 stat cards -->
+    <div class="stat-row" style="margin-top:14px;">
+      <div class="stat-card red-border" style="text-align:center;">
+        <div class="stat-number red" style="font-size:46px;">١٣م</div>
+        <div class="stat-label">برميل/يوم محتجز</div>
+      </div>
+      <div class="stat-card gold-border" style="text-align:center;">
+        <div class="stat-number" style="font-size:46px;">٤٣</div>
+        <div class="stat-label">يوم من الإغلاق</div>
+      </div>
+      <div class="stat-card" style="text-align:center;">
+        <div class="stat-number white" style="font-size:36px;">٢١%</div>
+        <div class="stat-label">من نفط العالم يمر هنا</div>
+      </div>
+    </div>
+
+    <div class="highlight-box" style="margin-top:10px;">
+      <span class="highlight-icon">⚠️</span>
+      <span class="highlight-text">حتى لو فُتح هرمز اليوم، قد تحتاج الأسواق <span class="gold">٥ أشهر</span> لاستعادة طاقتها</span>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">٢١٪ من نفط العالم يمر بهرمز • الآن محتجز</div>
+    <div class="slide-dots">
+      <div class="dot"></div>
+      <div class="dot active"></div>
+      <div class="dot"></div><div class="dot"></div>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 3 — OIL PRICE CRISIS                               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-3">
+  <div class="photo-bg" style="background-image: url('images/oil_platform.jpg'); background-position: center 30%;"></div>
+  <div class="overlay-dark"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(to top, rgba(0,0,0,0.98) 50%, rgba(0,0,0,0.4) 100%);z-index:1;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-pill" style="background:#1a1a1a; color:#4CAF50; border:1px solid #4CAF50;">النفط</span>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <div class="tag">
+      <span class="tag-dot"></span>
+      صدمة الطاقة العالمية
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 class="headline-m" style="margin-bottom:6px;">
+      أسعار النفط في <span class="red">أزمة تاريخية</span>
+    </h2>
+    <div class="body-text" style="font-size:18px; color:rgba(255,255,255,0.65); margin-bottom:14px;">
+      الفجوة بين السعر الفيزيائي والآجل تصرخ: البراميل الحقيقية تنضب
+    </div>
+
+    <!-- Bar chart -->
+    <div class="oil-chart">
+      <div class="oil-chart-title">برنت الخام — مقارنة الأسعار (دولار/برميل)</div>
+
+      <div class="bar-row">
+        <div class="bar-label">برنت الفيزيائي</div>
+        <div class="bar-track">
+          <div class="bar-fill physical" style="width:100%;"></div>
+          <div class="bar-value">$144 📍 قياسي</div>
+        </div>
+      </div>
+
+      <div class="bar-row">
+        <div class="bar-label">برنت الآجل</div>
+        <div class="bar-track">
+          <div class="bar-fill futures" style="width:66%;"></div>
+          <div class="bar-value">$96</div>
+        </div>
+      </div>
+
+      <div class="bar-row" style="margin-bottom:0;">
+        <div class="bar-label">قبل الحرب</div>
+        <div class="bar-track">
+          <div class="bar-fill pre-war" style="width:46%;"></div>
+          <div class="bar-value" style="color:rgba(255,255,255,0.6);">$66</div>
+        </div>
+      </div>
+
+      <div style="text-align:center; margin-top:14px; font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.4); font-style:italic;">
+        الفجوة $144 - $96 = $48 تعني: السوق الفيزيائية تعاني ندرة حادة
+      </div>
+    </div>
+
+    <!-- Bottom stats -->
+    <div class="stat-row" style="margin-top:8px;">
+      <div class="stat-card red-border" style="flex:3;">
+        <div style="display:flex; align-items:baseline; gap:8px;">
+          <div class="stat-number red" style="font-size:48px;">١٣م</div>
+          <div style="font-family:'Cairo',sans-serif; font-size:22px; color:rgba(255,255,255,0.65);">برميل/يوم</div>
+        </div>
+        <div class="stat-label">خرجت من السوق منذ إغلاق هرمز</div>
+      </div>
+      <div class="stat-card gold-border" style="flex:2; text-align:center;">
+        <div class="stat-number" style="font-size:32px; color:#4CAF50;">▼ $50</div>
+        <div class="stat-label">انخفض النفط يوم إعلان الهدنة</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">برنت الفيزيائي $144 — أعلى سعر في التاريخ</div>
+    <div class="slide-dots">
+      <div class="dot"></div><div class="dot"></div>
+      <div class="dot active"></div>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 4 — LEBANON: CEASEFIRE DOESN'T COVER IT            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-4">
+  <div class="photo-bg" style="background-image: url('images/explosion_fire.jpg'); background-position: center 60%;"></div>
+  <div class="overlay-dark"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(to top, rgba(0,0,0,0.97) 45%, rgba(215,38,56,0.12) 75%, rgba(0,0,0,0.6) 100%);z-index:1;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-pill">لبنان</span>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <div class="tag">
+      <span class="tag-dot"></span>
+      التصعيد يتواصل
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 class="headline-m" style="margin-bottom:12px;">
+      لبنان: <span class="gold">الهدنة</span><br>
+      <span class="red">لا تشمله</span>
+    </h2>
+
+    <!-- Netanyahu quote -->
+    <div class="quote-block" style="border-color:#D72638; background:rgba(215,38,56,0.08); margin-bottom:14px;">
+      <div class="quote-text" style="font-size:28px;">"الهدنة مع إيران لا تنطبق على لبنان —<br>سنستمر في ضرب حزب الله"</div>
+      <div class="quote-attr" style="color:#D72638;">— بنيامين نتنياهو، ٩ أبريل ٢٠٢٦</div>
+    </div>
+
+    <!-- Timeline of events -->
+    <div style="display:flex; flex-direction:column; gap:10px; margin-bottom:12px;">
+      <div style="display:flex; gap:14px; align-items:center; background:rgba(255,255,255,0.04); border-radius:8px; padding:12px 16px; border-right:3px solid #D72638;">
+        <div style="font-family:'Cairo',sans-serif; font-size:14px; color:#FFC217; font-weight:700; width:90px; text-align:center; flex-shrink:0;">٨ أبريل</div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:18px; color:rgba(255,255,255,0.85);">إسرائيل تشن هجوماً واسعاً على لبنان بعد إعلان الهدنة مباشرة</div>
+      </div>
+      <div style="display:flex; gap:14px; align-items:center; background:rgba(255,255,255,0.04); border-radius:8px; padding:12px 16px; border-right:3px solid #FFC217;">
+        <div style="font-family:'Cairo',sans-serif; font-size:14px; color:#FFC217; font-weight:700; width:90px; text-align:center; flex-shrink:0;">٩ أبريل</div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:18px; color:rgba(255,255,255,0.85);">حزب الله يرد بصواريخ على شمال إسرائيل في الفجر</div>
+      </div>
+      <div style="display:flex; gap:14px; align-items:center; background:rgba(255,255,255,0.04); border-radius:8px; padding:12px 16px; border-right:3px solid rgba(255,255,255,0.3);">
+        <div style="font-family:'Cairo',sans-serif; font-size:14px; color:#FFC217; font-weight:700; width:90px; text-align:center; flex-shrink:0;">الآن</div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:18px; color:rgba(255,255,255,0.85);">تبادل مستمر، إسرائيل تفصل بين الملفين علناً</div>
+      </div>
+    </div>
+
+    <!-- Casualty stat -->
+    <div style="display:flex; gap:14px;">
+      <div class="stat-card red-border" style="flex:1; text-align:center;">
+        <div class="stat-number red" style="font-size:52px;">٣٠٣+</div>
+        <div class="stat-label">قتيل لبناني خلال ٢٤ ساعة (٨ أبريل)</div>
+      </div>
+      <div class="stat-card" style="flex:1; text-align:center;">
+        <div class="stat-number white" style="font-size:38px;">١.٢م</div>
+        <div class="stat-label">نازح في لبنان منذ إعادة اشتعال الحرب</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">إسرائيل تقول: الهدنة مع إيران فقط • لبنان مستمر</div>
+    <div class="slide-dots">
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      <div class="dot active"></div>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 5 — NUCLEAR CHASM: UNBRIDGEABLE                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-5">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse at 30% 40%, rgba(215,38,56,0.15) 0%, rgba(0,0,0,0) 60%), radial-gradient(ellipse at 70% 60%, rgba(0,36,84,0.3) 0%, rgba(0,0,0,0) 60%), linear-gradient(135deg, #0d0d0d 0%, #111 100%);z-index:0;"></div>
+
+  <!-- Subtle atom graphic -->
+  <div style="position:absolute; right:-60px; top:50%; transform:translateY(-50%); width:380px; height:380px; border-radius:50%; border:1px solid rgba(215,38,56,0.08); z-index:0;"></div>
+  <div style="position:absolute; right:10px; top:50%; transform:translateY(-50%) rotate(30deg); width:380px; height:380px; border-radius:50%; border:1px solid rgba(215,38,56,0.06); z-index:0;"></div>
+  <div style="position:absolute; right:10px; top:50%; transform:translateY(-50%) rotate(60deg); width:380px; height:380px; border-radius:50%; border:1px solid rgba(215,38,56,0.06); z-index:0;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-pill" style="background:rgba(215,38,56,0.2); border:1px solid #D72638; color:#D72638;">النووي ☢️</span>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <div class="tag">
+      <span class="tag-dot"></span>
+      العقدة الكبرى في إسلام آباد
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 class="headline-m" style="margin-bottom:16px;">
+      الهوة النووية<br>
+      <span class="red">لا تُجسَر؟</span>
+    </h2>
+
+    <!-- VS Split -->
+    <div class="vs-container" style="flex:1; margin-bottom:80px;">
+      <!-- Iran side (right in RTL) -->
+      <div class="vs-side iran">
+        <div class="vs-flag">🇮🇷</div>
+        <div class="vs-country">إيران — طهران</div>
+        <div class="vs-demand">حقنا السيادي<br>بالتخصيب</div>
+        <div class="vs-sub">تمسك باستمرار برنامج التخصيب داخل الأراضي الإيرانية — خط أحمر لا يُتجاوز</div>
+        <div style="background:rgba(76,175,80,0.15); border:1px solid rgba(76,175,80,0.3); border-radius:8px; padding:10px 14px; margin-top:auto;">
+          <div style="font-family:'Cairo',sans-serif; font-size:16px; font-weight:700; color:#4CAF50;">مطالب إيران أيضاً:</div>
+          <div style="font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.7); margin-top:4px; line-height:1.5;">• رفع كامل للعقوبات<br>• انسحاب القوات الأمريكية<br>• تعويضات عن الحرب<br>• قرار أممي ملزم</div>
+        </div>
+      </div>
+
+      <!-- VS divider -->
+      <div class="vs-divider">
+        <div class="vs-text">VS</div>
+      </div>
+
+      <!-- US side (left in RTL) -->
+      <div class="vs-side us">
+        <div class="vs-flag">🇺🇸</div>
+        <div class="vs-country">أمريكا — واشنطن</div>
+        <div class="vs-demand">صفر تخصيب<br>داخل إيران</div>
+        <div class="vs-sub">لافيت: "خط ترامب الأحمر — نهاية التخصيب داخل إيران — لم يتغير"</div>
+        <div style="background:rgba(0,36,84,0.4); border:1px solid rgba(100,150,255,0.2); border-radius:8px; padding:10px 14px; margin-top:auto;">
+          <div style="font-family:'Cairo',sans-serif; font-size:16px; font-weight:700; color:#6699ff;">موقف ترامب:</div>
+          <div style="font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.7); margin-top:4px; line-height:1.5;">• تسليم اليورانيوم المخصب<br>• تفكيك المنشآت<br>• رقابة أممية كاملة<br>• أو تُستأنف الضربات</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">هذه الهوة أسقطت مفاوضات فبراير • الآن تعود</div>
+    <div class="slide-dots">
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      <div class="dot active"></div>
+      <div class="dot"></div><div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 6 — ISLAMABAD SCENARIOS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-6">
+  <div style="position:absolute;inset:0;background:linear-gradient(135deg, #0a0a0f 0%, #0d0d18 50%, #0a0a0f 100%);z-index:0;"></div>
+  <!-- Subtle grid pattern -->
+  <div style="position:absolute;inset:0;background-image:linear-gradient(rgba(255,194,23,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,194,23,0.03) 1px,transparent 1px);background-size:60px 60px;z-index:0;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-pill" style="background:#FFC217; color:#0d0d0d;">إسلام آباد</span>
+      </div>
+    </div>
+
+    <div class="timeline-bar">
+      <div class="timeline-fill" style="width:43%;"></div>
+      <div class="timeline-marker" style="right:calc(43% - 6px);"></div>
+    </div>
+
+    <div class="tag">
+      <span class="tag-dot"></span>
+      الحساب الختامي — ماذا يحدث الآن؟
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 class="headline-m" style="margin-bottom:6px;">
+      محادثات إسلام آباد:<br>
+      <span class="gold">٣ سيناريوهات</span>
+    </h2>
+
+    <div class="body-text" style="font-size:17px; color:rgba(255,255,255,0.55); margin-bottom:18px;">
+      وانس + ويتكوف + كوشنر في مواجهة غاليباف + عراقجي — العالم ينتظر
+    </div>
+
+    <div class="scenario-list">
+      <div class="scenario-card green">
+        <div class="scenario-icon">✅</div>
+        <div class="scenario-body">
+          <div class="scenario-title"><span class="scenario-tag-green">سيناريو أ:</span> اختراق دبلوماسي</div>
+          <div class="scenario-desc">تمديد الهدنة + جدول زمني لفتح هرمز + اتفاق مبدئي على النووي → النفط ينخفض، الأسواق ترتاح</div>
+        </div>
+      </div>
+
+      <div class="scenario-card yellow">
+        <div class="scenario-icon">⏸️</div>
+        <div class="scenario-body">
+          <div class="scenario-title"><span class="scenario-tag-yellow">سيناريو ب:</span> جمود محسوب</div>
+          <div class="scenario-desc">استمرار المفاوضات، تمديد جزئي للهدنة بدون اتفاق على النووي → الغموض يبقى، الأسعار تتذبذب</div>
+        </div>
+      </div>
+
+      <div class="scenario-card red-bg">
+        <div class="scenario-icon">💥</div>
+        <div class="scenario-body">
+          <div class="scenario-title"><span class="scenario-tag-red">سيناريو ج:</span> انهيار الهدنة</div>
+          <div class="scenario-desc">فشل المحادثات + انسحاب أمريكي + عودة الضربات → النفط يتجاوز $150، هرمز يُغلق كلياً</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-box" style="margin-top:14px;">
+      <span class="highlight-icon">📅</span>
+      <span class="highlight-text">الهدنة تنتهي <span class="red">٢١ أبريل ٢٠٢٦</span> — يبقى أقل من <span class="gold">١٠ أيام</span></span>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-fact">وانس يحذر: "ستجدوننا غير متقبلين إن لعبتم"</div>
+    <div class="slide-dots">
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      <div class="dot active"></div>
+      <div class="dot"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SLIDE 7 — SOURCES                                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div class="slide" id="slide-7">
+  <div style="position:absolute;inset:0;background:linear-gradient(160deg, #0d0d0d 0%, #111318 100%);z-index:0;"></div>
+
+  <div class="content">
+    <div class="top-bar">
+      <div class="logo-block">
+        <span class="logo-red-rect"></span>
+        <span class="logo-wordmark">PHOTONECT</span>
+        <span class="logo-news">NEWS</span>
+      </div>
+      <div class="day-badge">
+        <span class="day-label">المصادر</span>
+        <span class="day-pill" style="background:#1a1a1a; color:#FFC217; border:1px solid rgba(255,194,23,0.3);">تحقق بنفسك</span>
+      </div>
+    </div>
+
+    <div class="tag" style="margin-bottom:10px;">
+      <span class="tag-dot"></span>
+      نحن لا نكذب — تحقق بنفسك
+      <span class="tag-line"></span>
+    </div>
+
+    <h2 style="font-family:'Cairo',sans-serif; font-weight:900; font-size:38px; color:#fff; margin-bottom:20px;">
+      مصادر هذه الحلقة
+    </h2>
+
+    <div style="flex:1; display:flex; flex-direction:column; gap:0;">
+      <div class="source-item">
+        <div class="source-num">١</div>
+        <div class="source-text"><span class="source-outlet">Al Jazeera</span> — Iran war live: Vance departs for talks in Pakistan, April 10, 2026</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٢</div>
+        <div class="source-text"><span class="source-outlet">CNN</span> — World anxiously waits to see if US-Iran peace talks can deliver, April 10, 2026</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٣</div>
+        <div class="source-text"><span class="source-outlet">CNBC</span> — Dated Brent at $144: physical market under extreme stress, April 10, 2026</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٤</div>
+        <div class="source-text"><span class="source-outlet">PBS NewsHour</span> — Israel says Iran ceasefire doesn't apply to Lebanon, April 9, 2026</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٥</div>
+        <div class="source-text"><span class="source-outlet">Washington Times</span> — JD Vance warns Iran not to 'play us', April 10, 2026</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٦</div>
+        <div class="source-text"><span class="source-outlet">Wikipedia</span> — 2026 Strait of Hormuz crisis (last updated April 11, 2026)</div>
+      </div>
+      <div class="source-item">
+        <div class="source-num">٧</div>
+        <div class="source-text"><span class="source-outlet">Al Jazeera</span> — White House: Trump's nuclear red line has not changed, April 8, 2026</div>
+      </div>
+    </div>
+
+    <!-- Footer branding -->
+    <div style="margin-top:16px; display:flex; justify-content:space-between; align-items:center; padding-top:14px; border-top:1px solid rgba(255,194,23,0.2);">
+      <div>
+        <div style="font-family:'Cairo',sans-serif; font-size:22px; font-weight:900; color:#fff; letter-spacing:2px;">PHOTONECT<span style="color:#FFC217;"> NEWS</span></div>
+        <div style="font-family:'Tajawal',sans-serif; font-size:14px; color:rgba(255,255,255,0.45); margin-top:2px;">@photonect.news • حرب إيران — ١١ أبريل ٢٠٢٦</div>
+      </div>
+      <div style="text-align:left;">
+        <div style="font-family:'Tajawal',sans-serif; font-size:15px; color:rgba(255,255,255,0.45); line-height:1.6;">
+          جميع الأرقام والمعلومات<br>من مصادر موثقة علنياً
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

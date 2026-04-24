@@ -1,0 +1,13 @@
+{
+  "hunted_at": "2026-04-22T00:40:00+03:00",
+  "bucket": "wildcard",
+  "method": "claude-hand-pick-wikimedia",
+  "hero_source": "preserved from automated hunt (original source unknown)",
+  "broll_1_source": "File:Ocean_container_megaship_comming_to_Europe.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Ocean_container_megaship_comming_to_Europe.jpg",
+  "broll_3_source": "File:North_Korea's_ballistic_missile_-_North_Korea_Victory_Day-2013_01.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:North_Korea%27s_ballistic_missile_-_North_Korea_Victory_Day-2013_01.jpg",
+  "brightness_L": {
+    "broll_1": 123.6,
+    "broll_3": 99.3
+  },
+  "notes": "Replaced broll_1.mp4 motion-graphic fallback with container megaship at sea (intercepted DPRK vessel visual). broll_3 = NK ballistic missile on parade transporter (12 missile crates story echo)."
+}

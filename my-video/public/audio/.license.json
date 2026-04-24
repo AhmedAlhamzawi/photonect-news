@@ -1,0 +1,108 @@
+{
+  "beds": [
+    {
+      "file": "news_bed.mp3",
+      "role": "master source (unchanged)",
+      "sourceUrl": "unknown — pre-dates side-agent",
+      "license": "unknown",
+      "duration_s": 200.82,
+      "status": "live"
+    },
+    {
+      "file": "bed_anchor.mp3",
+      "role": "default news — original-feel opening segment",
+      "derivedFrom": "news_bed.mp3 seconds 0-42",
+      "transform": "volume=0.9",
+      "duration_s": 42.0
+    },
+    {
+      "file": "bed_pressure.mp3",
+      "role": "tense urgency — faster tempo, brighter top-end",
+      "derivedFrom": "news_bed.mp3 seconds 42-84",
+      "transform": "atempo=1.12, highpass=200Hz, volume=0.85",
+      "duration_s": 37.51
+    },
+    {
+      "file": "bed_weight.mp3",
+      "role": "heavy/dark — pitched down 20%, slower feel",
+      "derivedFrom": "news_bed.mp3 seconds 84-126",
+      "transform": "asetrate*0.80, atempo=1.25, volume=0.9",
+      "duration_s": 42.02
+    },
+    {
+      "file": "bed_velocity.mp3",
+      "role": "bright/frantic — pitched up 25%, tight",
+      "derivedFrom": "news_bed.mp3 seconds 126-168",
+      "transform": "asetrate*1.25, atempo=0.80, volume=0.75",
+      "duration_s": 41.98
+    },
+    {
+      "file": "bed_echo.mp3",
+      "role": "spacious — long reverb tail over segment 42-84",
+      "derivedFrom": "news_bed.mp3 seconds 42-84",
+      "transform": "aecho=0.8:0.88:60:0.4, volume=0.9",
+      "duration_s": 42.06
+    },
+    {
+      "file": "bed_tide.mp3",
+      "role": "backwards/atmospheric — segment 0-42 reversed",
+      "derivedFrom": "news_bed.mp3 seconds 0-42",
+      "transform": "areverse, volume=0.9",
+      "duration_s": 42.0
+    },
+    {
+      "file": "bed_voltage.mp3",
+      "role": "electric — flanger sweep over segment 84-126",
+      "derivedFrom": "news_bed.mp3 seconds 84-126",
+      "transform": "flanger, atempo=1.08, volume=0.85",
+      "duration_s": 38.89
+    },
+    {
+      "file": "bed_fog.mp3",
+      "role": "dense/muffled — deep pitch down + reverb",
+      "derivedFrom": "news_bed.mp3 seconds 126-168",
+      "transform": "asetrate*0.70, atempo=1.42, aecho, volume=0.9",
+      "duration_s": 43.26
+    },
+    {
+      "file": "bed_steel.mp3",
+      "role": "industrial drone — synthesized",
+      "derivedFrom": "lavfi synth: sine 82.4Hz + 110Hz + pink noise",
+      "transform": "amix, lowpass=600Hz, volume*3",
+      "duration_s": 42.0
+    },
+    {
+      "file": "bed_pulse_syn.mp3",
+      "role": "heartbeat — synthesized tremolo",
+      "derivedFrom": "lavfi synth: sine 55Hz + tremolo 1.2Hz",
+      "transform": "lowpass=400Hz, volume=2.5",
+      "duration_s": 42.0
+    },
+    {
+      "file": "bed_cycle.mp3",
+      "role": "patrol sweep — synthesized vibrato",
+      "derivedFrom": "lavfi synth: sine 110Hz + vibrato 0.25Hz",
+      "transform": "lowpass=1000Hz, volume=1.3",
+      "duration_s": 42.0
+    },
+    {
+      "file": "bed_ambient_syn.mp3",
+      "role": "cinematic pad — synthesized chord",
+      "derivedFrom": "lavfi synth: sine 165+220+330Hz",
+      "transform": "amix, aecho, lowpass=2000Hz, volume*3.5",
+      "duration_s": 42.5
+    }
+  ],
+  "removed": [
+    {
+      "file": "news_bed_tense.mp3",
+      "reason": "Ahmed rejected 2026-04-22: 'There is one video that has a new music and it's bullshit.' Only genuinely-new bed in V5 slate was OpenGameArt 'News Theme' placed at news_bed_tense.mp3 — removed. File preserved in _v5_backup/.",
+      "date": "2026-04-22"
+    },
+    {
+      "files": "news_bed_{urgent,pulse,dread,electric,drone,chase,mist,stark,uplift,somber}.mp3",
+      "reason": "Ahmed rejected 2026-04-22: 'The music you did not change it. It is the same.' These were ffmpeg EQ/tempo filters on the same source (news_bed.mp3) — MD5-distinct but perceptually identical because the melody was unchanged. Replaced with segment-extraction + aggressive-transform + synthesis approach for V6.",
+      "date": "2026-04-22"
+    }
+  ]
+}

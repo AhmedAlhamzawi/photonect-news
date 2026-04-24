@@ -1,0 +1,137 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "europe",
+  "breaking": {
+    "arabicKicker": "جسر الغاز",
+    "arabicHeadline": "الاتحاد الأوروبي يقرّ جسر غاز طارئاً — أول تقنين صناعي منذ ١٩٧٣",
+    "englishSubhead": "EU EMERGENCY • GAS BRIDGE PACT",
+    "heroMedia": "images/news/2026-04-20-eu-gas-bridge/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ألمانيا تسحب من المخزون إلى ٤٨٪ — وإيطاليا تضخّ TransMed إلى الحد الأقصى",
+      "arabicBody": "مع دخول هرمز يومه العاشر من الإغلاق، أقرّ الاتحاد الأوروبي في بروكسل اليوم إطاراً طارئاً لتقاسم الغاز. ألمانيا استنزفت مخزونها إلى ٤٨٪ — دون سقف الـ٥٠٪ القانوني لأول مرة. إيطاليا ضخّت أنبوب TransMed من الجزائر إلى طاقته القصوى ٣٤ مليار متر مكعب سنوياً. النرويج قنّنت الاستهلاك الصناعي لحماية المنازل.",
+      "bigStat": {
+        "value": "48%",
+        "label": "German storage • below floor",
+        "arabicLabel": "من مخزون ألمانيا — تحت السقف القانوني"
+      },
+      "supportingStats": [
+        {
+          "label": "أيام إغلاق هرمز",
+          "value": "10 DAYS"
+        },
+        {
+          "label": "طاقة TransMed القصوى",
+          "value": "34 BCM/Y"
+        },
+        {
+          "label": "تقنين النرويج الصناعي",
+          "value": "-22%"
+        },
+        {
+          "label": "إطار الطوارئ",
+          "value": "FIRST SINCE 1973"
+        }
+      ],
+      "broll": "images/news/2026-04-20-eu-gas-bridge/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شحنات قطر LNG تدور حول رأس الرجاء الصالح — ١٤ يوماً إضافية لكل ناقلة",
+      "arabicBody": "قطر للطاقة أعلنت تحويل ٢٦ ناقلة LNG متّجهة إلى أوروبا عبر رأس الرجاء الصالح بدلاً من السويس، ما يضيف ١٤ يوماً إلى زمن الإبحار ويرفع الكلفة ٣٥٪. سعر TTF الأوروبي قفز إلى ١١٢ يورو للميغاواط ساعة — أعلى مستوى منذ حرب أوكرانيا. الصناعة الألمانية الكيماوية هدّدت بتعليق الإنتاج إذا استمرّ الوضع أسبوعين إضافيين.",
+      "bigStat": {
+        "value": "€112",
+        "label": "TTF MWh • war-era high",
+        "arabicLabel": "يورو للميغاواط — أعلى من ذروة حرب أوكرانيا"
+      },
+      "supportingStats": [
+        {
+          "label": "ناقلات قطر المحوّلة",
+          "value": "26 LNG"
+        },
+        {
+          "label": "زمن إبحار إضافي",
+          "value": "+14 DAYS"
+        },
+        {
+          "label": "ارتفاع كلفة الشحن",
+          "value": "+35%"
+        },
+        {
+          "label": "تحذير الصناعة الألمانية",
+          "value": "2-WEEK LIMIT"
+        }
+      ],
+      "broll": "images/news/2026-04-20-eu-gas-bridge/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات لشتاء أوروبا — والركود الصناعي على الطاولة",
+      "arabicBody": "معهد IFW الألماني يحذّر: إذا لم تُفتح هرمز قبل منتصف مايو، سيفقد الاتحاد الأوروبي ٠.٨٪ من ناتجه المحلي. السيناريو الأول: فتح جزئي للممر وعودة إمدادات قطر. الثاني: تمديد الإغلاق مع إعلان حالة الطوارئ الطاقوية القارية. الثالث: صفقة غاز إستراتيجية مع الجزائر والنرويج تحلّ مكان قطر.",
+      "bigStat": {
+        "value": "-0.8%",
+        "label": "EU GDP risk by May 15",
+        "arabicLabel": "خسارة متوقعة من الناتج الأوروبي بحلول منتصف مايو"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "PARTIAL HORMUZ"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "CONTINENTAL EMERGENCY"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "ALGERIA-NORWAY DEAL"
+        }
+      ],
+      "broll": "images/news/2026-04-20-eu-gas-bridge/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Le Monde",
+      "domain": "lemonde.fr"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "الاتحاد الأوروبي يقرّ جسر غاز طارئاً — أول إطار تقنين قاري منذ أزمة نفط ١٩٧٣",
+    "ألمانيا تسحب من مخزون الغاز إلى ٤٨٪ — دون السقف القانوني الـ٥٠٪ لأول مرة",
+    "إيطاليا تضخّ أنبوب TransMed من الجزائر إلى طاقته القصوى ٣٤ مليار م٣ سنوياً",
+    "قطر تحوّل ٢٦ ناقلة LNG عبر رأس الرجاء الصالح — ١٤ يوماً إضافية لكل شحنة",
+    "النرويج تقنّن الاستهلاك الصناعي ٢٢٪ لحماية إمدادات المنازل في موجة البرد المتأخرة",
+    "سعر TTF الأوروبي يقفز إلى ١١٢ يورو للميغاواط ساعة — أعلى من ذروة حرب أوكرانيا",
+    "معهد IFW الألماني يحذّر من خسارة ٠.٨٪ من ناتج أوروبا إذا استمرّ إغلاق هرمز"
+  ]
+}

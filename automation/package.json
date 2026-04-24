@@ -1,0 +1,21 @@
+{
+  "name": "photonect-news-automation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Autonomous posting for @photonect.news to Instagram + TikTok. Runs every 2h, rotates topic buckets, respects diversity mandate.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "post:one": "node src/index.js --once",
+    "test:ig": "node scripts/test-post.js instagram",
+    "test:tiktok": "node scripts/test-post.js tiktok",
+    "queue:show": "node -e \"import('./src/queue.js').then(m => m.printQueue())\"",
+    "setup:cloudinary": "node scripts/setup-cloudinary.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3"
+  }
+}

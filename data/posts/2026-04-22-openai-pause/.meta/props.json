@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "audioBed": "audio/bed_pulse_syn.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "OpenAI توقف تدريب GPT-7 لأجل غير مسمى — ١١ فئة اختراق مستمرة",
+    "englishSubhead": "OPENAI • GPT-7 TRAINING HALT • 400K GPUs IDLE",
+    "heroQueries": [
+      "OpenAI headquarters San Francisco",
+      "Nvidia GPU data center rack",
+      "server farm interior night",
+      "Silicon Valley office building",
+      "AI research laboratory clean room"
+    ],
+    "heroMedia": "images/news/2026-04-22-openai-pause/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التعليق",
+      "arabicHeading": "الإعلان الساعة ١٥:٠٠ شرقي — ١٢ مليار حوسبة معطّلة بلا أفق",
+      "arabicBody": "سام ألتمان أعلن عبر بيان مقتضب توقف تدريب الجيل السابع من نماذج شركة أوبن إيه آي بسبب قلق أمني داخلي، ما أدى إلى تعطيل أربعمئة ألف وحدة معالجة رسومية بقيمة اثني عشر مليار دولار",
+      "bigStat": {
+        "value": "400K",
+        "label": "GPUs idle starting now",
+        "arabicLabel": "وحدة رسومية معطّلة"
+      },
+      "supportingStats": [
+        {
+          "label": "حوسبة معلّقة",
+          "value": "$12B"
+        },
+        {
+          "label": "تأجيل الإصدار",
+          "value": "6 أشهر"
+        },
+        {
+          "label": "مختبرات مماثلة",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-openai-pause/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#B9E769"
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "فريق الاحمر كشف ١١ فئة اختراق مستمرة — المجلس طالب بإصلاح حوكمة",
+      "arabicBody": "فريق الاحمر الداخلي رصد إحدى عشرة فئة متينة من اختراقات الحماية الكمية تستعصي على الإصلاح، ما دفع المجلس إلى طلب إصلاح حوكمي واسع وعضوان رفضا القرار ضمن تصويت خمسة ضد اثنين",
+      "bigStat": {
+        "value": "11",
+        "label": "persistent jailbreak classes",
+        "arabicLabel": "فئة اختراق مستمرة"
+      },
+      "supportingStats": [
+        {
+          "label": "فرق حمراء",
+          "value": "4"
+        },
+        {
+          "label": "تصويت مجلس",
+          "value": "5-2"
+        },
+        {
+          "label": "أوراق بحثية",
+          "value": "47"
+        }
+      ],
+      "broll": "images/news/2026-04-22-openai-pause/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#B9E769"
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "أنثروبيك تعلّق، غوغل تُعيد ٩٠٠ مهندساً للمنزل، Nvidia −٧٪",
+      "arabicBody": "أنثروبيك أعلنت تعليقاً مماثلاً خلال ساعة، وأرسلت غوغل تسعمئة مهندس إلى إجازة مدفوعة، في أكبر توقف قطاعي منذ إطلاق ChatGPT قبل أربع سنوات، وأسهم Nvidia سقطت سبعة بالمئة",
+      "bigStat": {
+        "value": "−7%",
+        "label": "Nvidia stock after-hours",
+        "arabicLabel": "هبوط Nvidia لحظة الإعلان"
+      },
+      "supportingStats": [
+        {
+          "label": "أنثروبيك",
+          "value": "تعليق"
+        },
+        {
+          "label": "غوغل مهندسون",
+          "value": "900 مُعطَّل"
+        },
+        {
+          "label": "سيناريوهات",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-openai-pause/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#B9E769"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "The Information",
+      "domain": "theinformation.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "name": "MIT Technology Review",
+      "domain": "technologyreview.com"
+    },
+    {
+      "name": "The Verge",
+      "domain": "theverge.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوبن إيه آي تُعلن تعليق تدريب الجيل السابع من نماذجها بشكل غير محدد بدءاً من اليوم",
+    "سام ألتمان: القلق الأمني الداخلي وراء القرار بعد اكتشاف فئات اختراق مستمرة جديدة",
+    "أربعمئة ألف وحدة معالجة رسومية معطّلة بقيمة اثني عشر مليار دولار — أكبر توقف حوسبي في التاريخ",
+    "فريق الاحمر الداخلي رصد إحدى عشرة فئة من اختراقات الحماية تستعصي على الإصلاح المباشر",
+    "مجلس إدارة الشركة صوّت خمسة ضد اثنين لصالح التعليق — عضوان رفضا القرار علناً",
+    "أنثروبيك تُعلن تعليقاً مماثلاً خلال ساعة، وغوغل ترسل تسعمئة مهندس إلى إجازة مدفوعة",
+    "أسهم Nvidia تسقط سبعة بالمئة في تعاملات ما بعد السوق والاحتياطي الفيدرالي يراقب"
+  ]
+}

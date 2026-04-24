@@ -1,0 +1,141 @@
+{
+  "dateLabel": "APR 17 • 2026",
+  "arabicDateLabel": "١٧ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الخميس الحاسم: نتنياهو يتّصل بعون بعد قصف عنيف لبنت جبيل",
+    "englishSubhead": "LEBANON–ISRAEL • CEASEFIRE WEEK",
+    "heroMedia": "images/news/2026-04-17-lebanon-ceasefire/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الجيش الإسرائيلي يدمّر ٧٠ موقعاً في بنت جبيل — ومقتل ٤ مسعفين",
+      "arabicBody": "عملية خاطفة للجيش الإسرائيلي على أهداف حزب الله في بنت جبيل، وغارات متتالية تقتل أربعة مسعفين لبنانيين. البيت الأبيض يرتب اتصالاً مباشراً غداً الخميس بين نتنياهو والرئيس اللبناني جوزيف عون.",
+      "bigStat": {
+        "value": "70",
+        "label": "Hezbollah sites hit",
+        "arabicLabel": "موقعاً لحزب الله دُمّر في ساعات"
+      },
+      "supportingStats": [
+        {
+          "label": "غارات بنت جبيل",
+          "value": "OVERNIGHT"
+        },
+        {
+          "label": "مسعفون لبنانيون قُتلوا",
+          "value": "4"
+        },
+        {
+          "label": "اتصال نتنياهو–عون",
+          "value": "THURSDAY"
+        },
+        {
+          "label": "وسيط المكالمة",
+          "value": "WHITE HOUSE"
+        }
+      ],
+      "broll": "images/news/2026-04-17-lebanon-ceasefire/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إسرائيل تطالب بمنطقة عازلة — لبنان يصف الطلب بالاحتلال",
+      "arabicBody": "نقطة الخلاف الأصعب في مفاوضات الهدنة: عمق المنطقة العازلة جنوب الليطاني ومن يضبطها. الأمم المتحدة تحذّر من انهيار إنساني في القرى الحدودية، وقوافل الإغاثة تعمل بصعوبة تحت النار.",
+      "bigStat": {
+        "value": "1953",
+        "label": "Lebanese killed (war total)",
+        "arabicLabel": "لبنانياً قُتلوا منذ اندلاع الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "مطلب إسرائيل الأساسي",
+          "value": "BUFFER ZONE"
+        },
+        {
+          "label": "موقف لبنان",
+          "value": "REJECTS"
+        },
+        {
+          "label": "تحذير الأمم المتحدة",
+          "value": "HUMANITARIAN"
+        },
+        {
+          "label": "قوافل الإغاثة",
+          "value": "BLOCKED"
+        }
+      ],
+      "broll": "images/news/2026-04-17-lebanon-ceasefire/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF4D6D"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تقارير: الهدنة قد تدخل حيّز التنفيذ هذا الأسبوع — أو تنهار خلال أيام",
+      "arabicBody": "مصادر دبلوماسية تتحدث عن توقيع محتمل خلال الأسبوع الحالي، لكن الخلاف حول المنطقة العازلة قد يفجّر كل شيء. الخيارات الثلاث: توقيع سريع، تمديد المفاوضات، أو توسّع ميداني جديد.",
+      "bigStat": {
+        "value": "THIS WK",
+        "label": "ceasefire effective?",
+        "arabicLabel": "هل تدخل الهدنة حيّز التنفيذ؟"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "SIGN THIS WEEK"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "TALKS EXTEND"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "FIELD ESCALATION"
+        }
+      ],
+      "broll": "images/news/2026-04-17-lebanon-ceasefire/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "mapOverlay": "lebanon"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AP News",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "New York Post",
+      "domain": "nypost.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Israel National News",
+      "domain": "israelnationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الجيش الإسرائيلي يدمّر ٧٠ موقعاً لحزب الله في بنت جبيل خلال عملية خاطفة",
+    "مقتل ٤ مسعفين لبنانيين بغارات إسرائيلية متتالية — موجة إدانات دولية",
+    "ترامب يرتب مكالمة مباشرة الخميس بين نتنياهو والرئيس اللبناني عون",
+    "إسرائيل تطالب بمنطقة عازلة جنوب الليطاني — لبنان يصف ذلك بالاحتلال",
+    "تقارير: اتفاق وقف إطلاق النار قد يدخل حيّز التنفيذ هذا الأسبوع",
+    "الأمم المتحدة تحذّر: الوضع الإنساني في جنوب لبنان على حافة الانهيار",
+    "قوافل الإغاثة اللبنانية تعمل تحت النار — والمستشفيات الحدودية مثقلة"
+  ],
+  "topicBucket": "mena_geopolitics"
+}

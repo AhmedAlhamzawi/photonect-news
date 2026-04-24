@@ -1,0 +1,14 @@
+{
+  "hunted_at": "2026-04-22T00:40:00+03:00",
+  "bucket": "gulf_regional",
+  "method": "claude-hand-pick-wikimedia",
+  "hero_source": "File:Vienna_OPEC_Headquarters_(9812748993).jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Vienna_OPEC_Headquarters_(9812748993).jpg",
+  "broll_1_source": "File:Oil_pumpjack_in_the_Permian_Basin.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Oil_pumpjack_in_the_Permian_Basin.jpg",
+  "broll_3_source": "File:Ras_Tanura_Refinery_by_Paul_Palmer_2487098008.jpg (Wikimedia Commons, CC license) — https://commons.wikimedia.org/wiki/File:Ras_Tanura_Refinery_by_Paul_Palmer_2487098008.jpg",
+  "brightness_L": {
+    "hero": 116.4,
+    "broll_1": 123.2,
+    "broll_3": 153.4
+  },
+  "notes": "Replaced hero.mp4 motion-graphic. Hero = OPEC Vienna HQ (meeting venue). broll_1 = pumpjack (2M bpd surge visual). broll_3 = Ras Tanura Saudi Aramco refinery (Saudi leads OPEC+). broll_1 resized from 12288x8192 to 2400x1600 @ q88."
+}

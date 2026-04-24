@@ -1,0 +1,127 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "السعودية تطرق باب صندوق النقد للمرة الأولى منذ عقود",
+    "englishSubhead": "RIYADH • $40B IMF REQUEST",
+    "heroQueries": [
+      "Riyadh skyline Kingdom Tower night",
+      "Saudi Arabia financial district aerial",
+      "IMF headquarters Washington exterior",
+      "King Abdullah Financial District",
+      "Riyadh modern skyline evening"
+    ],
+    "heroMedia": "images/news/2026-04-21-imf-sa-loan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الطلب",
+      "arabicHeading": "٤٠ مليار دولار: أكبر طلب سعودي من صندوق النقد",
+      "arabicBody": "خطوة تاريخية بعد عقود من الفائض.",
+      "bigStat": {
+        "value": "$40B",
+        "label": "IMF loan request",
+        "arabicLabel": "مليار دولار قرض من صندوق النقد"
+      },
+      "supportingStats": [
+        {
+          "label": "آخر قرض مماثل",
+          "value": "1998"
+        },
+        {
+          "label": "المدة المطلوبة",
+          "value": "36 MONTHS"
+        }
+      ],
+      "broll": "images/news/2026-04-21-imf-sa-loan/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الفجوة",
+      "arabicHeading": "عجز الموازنة يتضخم إلى ٥٠٪ بعد تعهدات رؤية ٢٠٣٠",
+      "arabicBody": "فاتورة نيوم والبحر الأحمر تلتهم الاحتياطي.",
+      "bigStat": {
+        "value": "50%",
+        "label": "budget gap this fiscal year",
+        "arabicLabel": "عجز الموازنة في السنة المالية"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر التعادل",
+          "value": "$96 BRENT"
+        },
+        {
+          "label": "احتياطيات ساما",
+          "value": "$421B"
+        }
+      ],
+      "broll": "images/news/2026-04-21-imf-sa-loan/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "السابقة",
+      "arabicHeading": "آخر قرض طارئ كان عام ١٩٩٨ — وقتها أنقذ الريال",
+      "bigStat": {
+        "value": "1998",
+        "label": "last emergency borrowing year",
+        "arabicLabel": "العام الأخير للاقتراض الطارئ"
+      },
+      "supportingStats": [
+        {
+          "label": "حجم قرض ١٩٩٨",
+          "value": "$2.3B"
+        },
+        {
+          "label": "الفرق بالحجم",
+          "value": "17×"
+        }
+      ],
+      "broll": "images/news/2026-04-21-imf-sa-loan/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "IMF",
+      "domain": "imf.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تقدّم أول طلب قرض طارئ لصندوق النقد الدولي منذ ١٩٩٨",
+    "حجم الطلب ٤٠ مليار دولار — أكبر ١٧ مرة من قرض ١٩٩٨ الأسيوي",
+    "عجز الموازنة يتضخم إلى ٥٠٪ تحت فاتورة نيوم والبحر الأحمر ورؤية ٢٠٣٠",
+    "احتياطيات ساما تنخفض إلى ٤٢١ مليار دولار — أدنى مستوى منذ ٢٠٠٩",
+    "سعر التعادل المطلوب في الموازنة: ٩٦ دولاراً لبرميل برنت — لكن الخصم يتضاعف",
+    "الريال السعودي تحت ضغط غير مسبوق رغم الربط بالدولار منذ ١٩٨٦",
+    "الخبراء: قرض صندوق النقد يطلق موجة تعديلات هيكلية في المملكة"
+  ],
+  "variant": "B",
+  "audioBed": "audio/news_bed_uplift.mp3"
+}

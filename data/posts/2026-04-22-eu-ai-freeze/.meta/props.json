@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "audioBed": "audio/bed_cycle.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "بروكسل تجمّد الذكاء الاصطناعي: ٩٠ يوماً على ١٤ نموذجاً كبيراً",
+    "englishSubhead": "EU EMERGENCY AI ACT • 14 MODELS FROZEN • 90 DAYS",
+    "heroQueries": [
+      "European Parliament Strasbourg",
+      "EU flag Brussels",
+      "datacenter server racks",
+      "Berlaymont building Brussels",
+      "Silicon Valley datacenter exterior"
+    ],
+    "heroMedia": "images/news/2026-04-22-eu-ai-freeze/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التجميد",
+      "arabicHeading": "البرلمان الأوروبي صوّت ٦٤٢ مقابل ٢١ — حيز نفاذ خلال ٤٨ ساعة",
+      "arabicBody": "ستراسبورغ أقرّت قانون الطوارئ للذكاء الاصطناعي بغالبية ساحقة وقرّرت تجميد أي نموذج فوق عتبة عشرة أس ستة وعشرين عملية مؤقتاً، قابلة للتمديد ستين يوماً إضافياً",
+      "bigStat": {
+        "value": "90",
+        "label": "day moratorium on frontier models",
+        "arabicLabel": "يوم تجميد للنماذج الكبيرة"
+      },
+      "supportingStats": [
+        {
+          "label": "أصوات مع",
+          "value": "642"
+        },
+        {
+          "label": "أصوات ضد",
+          "value": "21"
+        },
+        {
+          "label": "نافذ خلال",
+          "value": "48 س"
+        }
+      ],
+      "broll": "images/news/2026-04-22-eu-ai-freeze/broll_1.mp4",
+      "brollType": "video",
+      "accent": "#00F0FF"
+    },
+    {
+      "label": "الضحايا",
+      "arabicHeading": "GPT-7، Gemini 3، Claude 4.5، Llama 5 — كلها مجمّدة في السوق الأوروبية",
+      "arabicBody": "أربعة عشر نموذجاً من أربعة مختبرات أميركية وثلاثة صينية دخلت منطقة التجميد بحكم قانوني فوري، وتبلغ قيمتها السوقية المجتمعة ٤٢ مليار يورو من إيرادات المنطقة",
+      "bigStat": {
+        "value": "14",
+        "label": "frontier models affected",
+        "arabicLabel": "نموذجاً كبيراً متأثراً"
+      },
+      "supportingStats": [
+        {
+          "label": "قيمة سوقية مجمّدة",
+          "value": "€42B"
+        },
+        {
+          "label": "مختبرات أميركية",
+          "value": "4"
+        },
+        {
+          "label": "مختبرات صينية",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-eu-ai-freeze/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#00F0FF"
+    },
+    {
+      "label": "المخرج",
+      "arabicHeading": "إطار تدقيق خلال ٦٠ يوماً وتهديد بردّ تجاري عبر الأطلسي",
+      "arabicBody": "المفوضية الأوروبية مُنحت مهلة شهرين لصياغة إطار تدقيق إلزامي للنماذج الكبيرة، بينما هدّدت واشنطن بفرض رسوم جمركية مضادة تصل إلى مئة وثمانين مليار دولار",
+      "bigStat": {
+        "value": "60",
+        "label": "days until audit framework",
+        "arabicLabel": "يوماً لإطار التدقيق"
+      },
+      "supportingStats": [
+        {
+          "label": "تجارة مهددة",
+          "value": "$180B"
+        },
+        {
+          "label": "دول أعضاء",
+          "value": "27"
+        },
+        {
+          "label": "سيناريوهات",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-eu-ai-freeze/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#00F0FF"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Euractiv",
+      "domain": "euractiv.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "The Verge",
+      "domain": "theverge.com"
+    }
+  ],
+  "arabicTicker": [
+    "البرلمان الأوروبي يقرّ قانون الطوارئ للذكاء الاصطناعي بأغلبية ٦٤٢ مقابل ٢١ صوتاً فقط",
+    "تجميد ٩٠ يوماً لأي نموذج يتجاوز عتبة عشرة أس ستة وعشرين عملية حسابية — قابل للتمديد",
+    "أربعة عشر نموذجاً رائداً بين GPT-7 وGemini 3 وClaude 4.5 وLlama 5 ضمن دائرة التجميد",
+    "أربعة مختبرات أميركية وثلاثة صينية داخل سجل الضحايا — قيمة سوقية ٤٢ مليار يورو",
+    "المفوضية مُنحت ٦٠ يوماً لوضع إطار تدقيق إلزامي للنماذج الكبيرة قبل رفع التجميد",
+    "واشنطن تهدّد بردّ تجاري عبر الأطلسي قد يتجاوز ١٨٠ مليار دولار من الصادرات",
+    "أسهم Nvidia تهبط ٧ بالمئة في تعاملات ما قبل السوق بعد إعلان بروكسل"
+  ]
+}

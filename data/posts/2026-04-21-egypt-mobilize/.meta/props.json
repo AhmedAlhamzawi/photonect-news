@@ -1,0 +1,90 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "القاهرة تحشد: مئتا ألف جندي نحو سيناء",
+    "englishSubhead": "CAIRO • 200K TO SINAI",
+    "heroQueries": [
+      "Egyptian army tank desert Sinai",
+      "Sinai Peninsula desert aerial",
+      "Egyptian military parade Cairo",
+      "Egypt armored vehicles convoy",
+      "Sinai mountains sunset aerial"
+    ],
+    "heroMedia": "images/news/2026-04-21-egypt-mobilize/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحشد",
+      "arabicHeading": "مئتا ألف جندي يتحركون شرقاً — أكبر حشد منذ ١٩٧٣",
+      "bigStat": {
+        "value": "200K",
+        "label": "troops deployed to Sinai",
+        "arabicLabel": "ألف جندي يتحركون نحو الجبهة الشرقية"
+      },
+      "broll": "images/news/2026-04-21-egypt-mobilize/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C9A66B"
+    },
+    {
+      "label": "الصحراء",
+      "arabicHeading": "سيناء تستفيق على قوافل لا تنتهي نحو الشرق",
+      "broll": "images/news/2026-04-21-egypt-mobilize/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C9A66B"
+    },
+    {
+      "label": "الصدى",
+      "arabicHeading": "١٩٧٣: آخر مرة رأت فيها سيناء هذا الحجم",
+      "bigStat": {
+        "value": "1973",
+        "label": "last comparable mobilization",
+        "arabicLabel": "آخر حشد بهذا الحجم في تاريخ مصر"
+      },
+      "broll": "images/news/2026-04-21-egypt-mobilize/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C9A66B"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Al-Ahram",
+      "domain": "ahram.org.eg"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Middle East Eye",
+      "domain": "middleeasteye.net"
+    }
+  ],
+  "arabicTicker": [
+    "القاهرة تعلن حشد مئتي ألف جندي في سيناء — أكبر تعبئة عسكرية منذ ١٩٧٣",
+    "قرار الرئاسة يأتي بعد ساعات من استئناف الضربات الإسرائيلية على لبنان",
+    "قوافل مدرعات ودبابات تتحرك على المحور السريع القاهرة-السويس-سيناء",
+    "إسرائيل تطلب توضيحاً فورياً — والقاهرة تؤكد أن التحرك دفاعي بحت",
+    "اتفاقية كامب ديفيد تسمح بوجود محدود — الحشد الحالي يتجاوز الحد المسموح",
+    "واشنطن تدعو للتهدئة — وتعلن إرسال مبعوث طارئ إلى القاهرة خلال ٤٨ ساعة",
+    "الجامعة العربية تعقد اجتماعاً وزارياً غداً لبحث الموقف المصري"
+  ],
+  "variant": "C",
+  "audioBed": "audio/news_bed_drone.mp3"
+}

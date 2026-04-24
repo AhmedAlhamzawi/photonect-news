@@ -1,0 +1,138 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "mena_geopolitics",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اليوم الـ٥٢ من الحرب: ٢٤ ساعة تفصل العالم عن هاوية الهدنة",
+    "englishSubhead": "IRAN WAR • DAY 52",
+    "heroMedia": "images/news/2026-04-20-iran-day-52/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "إسلام آباد ٢ تنهار: الوفد الإيراني ينسحب — وحاملة بوش تدخل المسرح",
+      "arabicBody": "الجولة الثانية من محادثات إسلام آباد انهارت منتصف الليل بعد انسحاب الوفد الإيراني احتجاجاً على شروط أمريكية وصفها بالتعجيزية. حاملة الطائرات USS Bush وصلت مياه بحر العرب لتصبح ثالث مجموعة ضاربة في المسرح. برنت يقفز إلى ١٠٨ دولارات للبرميل في افتتاح آسيا.",
+      "bigStat": {
+        "value": "52",
+        "label": "days at war • ceasefire cliff",
+        "arabicLabel": "يوماً من الحرب قبل انتهاء الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "حاملات الطائرات في المسرح",
+          "value": "3 CSGs"
+        },
+        {
+          "label": "مدة جولة إسلام آباد ٢",
+          "value": "WALK-OUT"
+        },
+        {
+          "label": "سعر برنت الآن",
+          "value": "$108"
+        },
+        {
+          "label": "حاملة بوش وصلت",
+          "value": "ARABIAN SEA"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iran-day-52/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "٢٤ ساعة حتى الصفر — والوكالة الذرية تعقد جلسة طارئة غداً",
+      "arabicBody": "الهدنة الموقّعة في ٨ أبريل تنتهي رسمياً ظهر ٢١ أبريل. الوكالة الدولية للطاقة الذرية تعقد جلسة طارئة غداً لبحث استئناف تخصيب اليورانيوم الإيراني إلى ٩٠٪ عسكرياً. المرشد مجتبى خامنئي يلتقي قادة الحرس الثوري في طهران — واشنطن ترفع مستوى التأهب النووي إلى DEFCON 3.",
+      "bigStat": {
+        "value": "24h",
+        "label": "until ceasefire expires",
+        "arabicLabel": "ساعة فقط تفصل عن انتهاء الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "انتهاء الهدنة",
+          "value": "APR 21 NOON"
+        },
+        {
+          "label": "جلسة الوكالة الذرية",
+          "value": "IAEA APR 21"
+        },
+        {
+          "label": "التأهب النووي الأمريكي",
+          "value": "DEFCON 3"
+        },
+        {
+          "label": "تخصيب إيران المحتمل",
+          "value": "90% MILITARY"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iran-day-52/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات خلال ٢٤ ساعة — وهرمز تبقى العقدة",
+      "arabicBody": "السيناريو الأول: تمديد اللحظة الأخيرة عبر وساطة قطرية-عمانية. الثاني: انهيار فوري وعودة الضربات المتبادلة على المنشآت النووية. الثالث: تصعيد نوعي يستهدف ناقلات أمريكية في هرمز ويقلب موازين البحر الأحمر. برنت قد يلامس ١٦٠ دولاراً خلال ساعات.",
+      "bigStat": {
+        "value": "$160",
+        "label": "Brent ceiling if war resumes",
+        "arabicLabel": "دولاراً سقف برنت في حال استئناف الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "LAST-MINUTE EXTENSION"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "FULL COLLAPSE"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "HORMUZ TANKER STRIKE"
+        }
+      ],
+      "broll": "images/news/2026-04-20-iran-day-52/broll_3.jpg",
+      "brollType": "image",
+      "mapOverlay": "hormuz"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "اليوم الـ٥٢ من الحرب الأمريكية الإيرانية الإسرائيلية — ٢٤ ساعة تفصل عن انتهاء الهدنة",
+    "الوفد الإيراني ينسحب من محادثات إسلام آباد ٢ احتجاجاً على شروط واشنطن التعجيزية",
+    "حاملة الطائرات USS Bush تدخل بحر العرب — ثالث مجموعة ضاربة أمريكية في المسرح",
+    "الوكالة الدولية للطاقة الذرية تعقد جلسة طارئة غداً لبحث استئناف التخصيب الإيراني",
+    "واشنطن ترفع مستوى التأهب النووي إلى DEFCON 3 — أعلى مستوى منذ أزمة كوبا ١٩٦٢",
+    "برنت يقفز ٨ دولارات في افتتاح آسيا ليصل ١٠٨ دولارات — محللون يحذرون من ١٦٠",
+    "مجتبى خامنئي يلتقي قادة الحرس الثوري في طهران في اجتماع استثنائي قبل الصفر"
+  ]
+}

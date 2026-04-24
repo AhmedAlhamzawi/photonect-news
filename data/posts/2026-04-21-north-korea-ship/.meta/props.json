@@ -1,0 +1,90 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "سفينة كورية شمالية تُضبط قبالة اليمن",
+    "englishSubhead": "RED SEA • DPRK CARGO INTERCEPTED",
+    "heroQueries": [
+      "cargo ship ocean aerial Red Sea",
+      "container vessel ocean twilight",
+      "navy destroyer ocean patrol",
+      "Red Sea maritime aerial view",
+      "oil tanker horizon sunset sea"
+    ],
+    "heroMedia": "images/news/2026-04-21-north-korea-ship/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاعتراض",
+      "arabicHeading": "سفينة واحدة، أعلام مزوّرة، وحمولة تكشف عقداً سرّياً",
+      "bigStat": {
+        "value": "1",
+        "label": "DPRK vessel intercepted",
+        "arabicLabel": "سفينة كورية شمالية مضبوطة"
+      },
+      "broll": "images/news/2026-04-21-north-korea-ship/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF006E"
+    },
+    {
+      "label": "البحر الأحمر",
+      "arabicHeading": "مياه باب المندب تصبح ممرّ تهريب استراتيجياً جديداً",
+      "broll": "images/news/2026-04-21-north-korea-ship/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF006E"
+    },
+    {
+      "label": "الحمولة",
+      "arabicHeading": "١٢ صندوقاً تحمل مكونات صواريخ باليستية",
+      "bigStat": {
+        "value": "12",
+        "label": "missile component crates",
+        "arabicLabel": "صندوقاً من مكونات الصواريخ"
+      },
+      "broll": "images/news/2026-04-21-north-korea-ship/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF006E"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Yonhap News",
+      "domain": "yna.co.kr"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    }
+  ],
+  "arabicTicker": [
+    "سفينة شحن كورية شمالية تحت أعلام مزوّرة تُضبط قبالة السواحل اليمنية",
+    "الحمولة: ١٢ صندوقاً يحتوي مكونات صواريخ باليستية قصيرة ومتوسطة المدى",
+    "المقصد المعلن كان ميناء الحديدة — لكن العقد السرّي يشير إلى أطراف أخرى",
+    "الاعتراض تم بواسطة فرقاطة بريطانية ضمن تحالف غارديان الدولي",
+    "بيونغ يانغ ترفض التعليق — وطهران تصف العملية بأنها قرصنة دولية",
+    "الأمم المتحدة تستعد لجلسة مجلس أمن طارئة بعد تحليل الحمولة",
+    "الحادث يكشف انتعاش خط تهريب كوريا الشمالية إلى الشرق الأوسط عبر البحر"
+  ],
+  "variant": "C",
+  "audioBed": "audio/news_bed_mist.mp3"
+}

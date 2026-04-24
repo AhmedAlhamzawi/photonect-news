@@ -1,0 +1,90 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "برلين: نصف مليون يزحفون نحو البوابة",
+    "englishSubhead": "BERLIN • 500K MARCH ON BRANDENBURG",
+    "heroQueries": [
+      "Brandenburg Gate Berlin at dusk",
+      "Berlin protest crowd aerial night",
+      "Brandenburg Gate illuminated",
+      "Berlin winter protest crowd",
+      "Brandenburg Gate historic monument"
+    ],
+    "heroMedia": "images/news/2026-04-21-berlin-protest/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحشد",
+      "arabicHeading": "نصف مليون ألماني في شوارع برلين — أكبر مظاهرة منذ ٢٠٠٣",
+      "bigStat": {
+        "value": "500K",
+        "label": "protesters on Berlin streets",
+        "arabicLabel": "متظاهر يحاصرون العاصمة الألمانية"
+      },
+      "broll": "images/news/2026-04-21-berlin-protest/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    },
+    {
+      "label": "الشرارة",
+      "arabicHeading": "ارتفاع فاتورة الغاز ٣٢٪ قبل موجة البرد القادمة",
+      "bigStat": {
+        "value": "+32%",
+        "label": "gas price hike this quarter",
+        "arabicLabel": "ارتفاع فاتورة الغاز للأسر الألمانية"
+      },
+      "broll": "images/news/2026-04-21-berlin-protest/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    },
+    {
+      "label": "الإنذار",
+      "arabicHeading": "المستشار أمام ٤٨ ساعة: خطة طوارئ أو حكومة تتهاوى",
+      "broll": "images/news/2026-04-21-berlin-protest/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#8E9AFF"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Welle",
+      "domain": "dw.com"
+    },
+    {
+      "name": "Der Spiegel",
+      "domain": "spiegel.de"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    }
+  ],
+  "arabicTicker": [
+    "نصف مليون ألماني يحاصرون بوابة براندنبورغ في أكبر مظاهرة منذ حرب العراق",
+    "فاتورة الغاز الألمانية ترتفع ٣٢٪ قبل موجة برد قطبية قادمة الأسبوع المقبل",
+    "اتحادات عمالية من ١٦ ولاية تنضم للإضراب العام — أول إضراب شامل منذ ١٩٩٢",
+    "المستشار الألماني يعلن حالة طوارئ طاقة — ٤٨ ساعة لخطة إنقاذ محكمة",
+    "ائتلاف الحكومة يتصدّع: حزب الخضر يهدد بالانسحاب إذا لم يُلغَ التقشف",
+    "روسيا تخفّض إمدادات نورد ستريم بنسبة ٧٠٪ ردّاً على عقوبات العراق",
+    "البنك المركزي الأوروبي يستعد لاجتماع طارئ الاثنين لبحث التدخل النقدي"
+  ],
+  "variant": "C",
+  "audioBed": "audio/news_bed_stark.mp3"
+}

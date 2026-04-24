@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Photonect NEWS — Iraq V8 | ١١ أبريل ٢٠٢٦</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#050505;display:flex;flex-direction:column;align-items:center;gap:16px;padding:16px;font-family:'Tajawal','Cairo',sans-serif;}
+.lbl{color:#444;font:10px monospace;margin-bottom:-10px;}
+.slide{width:1080px;height:1080px;position:relative;overflow:hidden;font-family:'Tajawal','Cairo',sans-serif;background:#0a0a0a;}
+
+:root{
+  --gold:#FFC217;
+  --red:#D72638;
+  --dark:#0a0a0a;
+  --pol:#3B82F6;
+  --eco:#10B981;
+  --sec:#EF4444;
+  --oil:#F59E0B;
+  --soc:#A855F7;
+  --cyan:#06B6D4;
+}
+
+/* ─── GLOBAL COMPONENTS ─── */
+.logo{display:inline-flex;flex-direction:column;align-items:center;gap:0;}
+.logo .r{width:16px;height:5px;background:var(--red);border-radius:1px;}
+.logo .n{font-family:'Cairo';font-weight:900;font-size:14px;letter-spacing:2px;color:#fff;line-height:1.2;}
+.logo .s{font-family:'Cairo';font-weight:800;font-size:7px;letter-spacing:4px;color:var(--gold);}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:12px 36px;position:relative;z-index:5;}
+.pg{color:rgba(255,255,255,.25);font-size:11px;font-weight:600;font-family:'Cairo',monospace;direction:ltr;}
+.dots{display:flex;gap:6px;justify-content:center;}
+.dots .d{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.12);}
+.dots .d.a{background:var(--gold);width:18px;border-radius:3px;}
+
+/* BREAKING TICKER */
+.breaking-ticker{background:var(--red);padding:7px 36px;display:flex;align-items:center;gap:12px;position:relative;z-index:3;}
+.bt-label{background:#fff;color:var(--red);font-size:10px;font-weight:900;padding:2px 8px;border-radius:4px;white-space:nowrap;flex-shrink:0;letter-spacing:1px;}
+.bt-text{color:#fff;font-size:13px;font-weight:700;line-height:1.2;}
+
+/* BOTTOM BAR (gold) */
+.gold-bar{position:absolute;bottom:0;left:0;right:0;background:var(--gold);padding:11px 36px;display:flex;justify-content:space-between;align-items:center;z-index:5;}
+.gold-bar .gbt{color:#0a0a0a;font-size:13px;font-weight:800;}
+.gold-bar .gbr{color:rgba(10,10,10,.5);font-size:11px;font-weight:600;}
+
+/* GENERIC BOTTOM BAR */
+.bbar-dark{position:absolute;bottom:0;left:0;right:0;z-index:5;padding:11px 36px;display:flex;justify-content:space-between;align-items:center;}
+
+/* SECTION HEADER */
+.sec-hdr{padding:10px 36px 6px;position:relative;z-index:3;}
+.sec-hdr .ch{font-size:11px;font-weight:900;letter-spacing:3px;margin-bottom:3px;}
+.sec-hdr .title{color:#fff;font-size:34px;font-weight:900;line-height:1.05;margin:2px 0 3px;}
+.sec-hdr .sub{font-size:13px;color:rgba(255,255,255,.4);line-height:1.4;}
+
+/* STORY CARD */
+.scard{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:11px;padding:12px 14px;border-right:3px solid;}
+.scard .sc-tag{font-size:10px;font-weight:900;letter-spacing:1.5px;margin-bottom:4px;}
+.scard .sc-title{font-size:14px;font-weight:800;color:#fff;line-height:1.3;margin-bottom:3px;}
+.scard .sc-desc{font-size:12px;color:rgba(255,255,255,.38);line-height:1.5;}
+.scard .sc-hl{color:var(--gold);font-weight:700;}
+
+/* GLOW PULSE ANIMATION */
+@keyframes pulse-ring{
+  0%{opacity:.8;transform:scale(1);}
+  100%{opacity:0;transform:scale(2.5);}
+}
+@keyframes pulse-dot{
+  0%,100%{opacity:1;}
+  50%{opacity:.5;}
+}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 1 — COVER: يوم الانتخاب
+═══════════════════════════════════════════════ */
+.s1 .bg{position:absolute;inset:0;background:url('./images/shaheed.jpg') center 35%/cover;opacity:.3;}
+.s1 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.15) 0%,rgba(10,10,10,.65) 25%,rgba(10,10,10,.92) 55%,#0a0a0a 72%);}
+.s1 .gl{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,var(--red),var(--gold),var(--pol),var(--eco));z-index:5;}
+
+.s1 .hero{text-align:center;padding:6px 36px 5px;position:relative;z-index:3;}
+.s1 .hero .flag{font-size:46px;line-height:1.1;}
+/* V8 NEW: gradient gold highlight on key headline words */
+.s1 .hero h1{font-size:62px;font-weight:900;color:#fff;line-height:1.0;margin:4px 0;}
+.s1 .hero h1 .gold-word{
+  background:linear-gradient(90deg,#FFC217,#FFD96A,#FFC217);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.s1 .hero .dline{width:100px;height:2px;background:linear-gradient(90deg,transparent,var(--gold),transparent);margin:6px auto;}
+.s1 .hero .datesub{font-size:15px;color:rgba(255,255,255,.55);font-weight:600;letter-spacing:1px;}
+
+/* Headline preview grid */
+.hl-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px;padding:7px 36px;position:relative;z-index:3;}
+.hl-big{grid-column:span 2;background:rgba(255,194,23,.07);border:1px solid rgba(255,194,23,.2);border-radius:13px;padding:13px 18px;display:flex;gap:14px;align-items:center;}
+.hl-big .hl-ico{font-size:30px;flex-shrink:0;}
+.hl-big .hl-body .ht{font-size:17px;font-weight:800;color:#fff;line-height:1.25;margin-bottom:3px;}
+.hl-big .hl-body .hd{font-size:12px;color:rgba(255,255,255,.4);line-height:1.4;}
+.hl-sm{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.07);border-radius:11px;padding:11px 13px;display:flex;gap:9px;align-items:flex-start;}
+.hl-sm .hl-accent{width:3px;border-radius:2px;align-self:stretch;flex-shrink:0;}
+.hl-sm .ht{font-size:13px;font-weight:700;color:#fff;line-height:1.3;margin-bottom:2px;}
+.hl-sm .hd{font-size:11px;color:rgba(255,255,255,.35);line-height:1.3;}
+
+/* Quick stats */
+.qstats{display:flex;gap:5px;padding:5px 36px;position:relative;z-index:3;}
+.qs{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:9px;padding:8px 5px;text-align:center;}
+.qs .qn{font-size:18px;font-weight:900;font-family:'Cairo';line-height:1;}
+.qs .ql{font-size:9px;color:rgba(255,255,255,.28);margin-top:2px;line-height:1.2;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 2 — BIG STORY: الانتخاب الرئاسي
+   V8 NEW: Secret Deal reveal card + updated matchup
+═══════════════════════════════════════════════ */
+.s2 .bg{position:absolute;inset:0;background:url('./images/shaheed.jpg') center 30%/cover;opacity:.1;}
+.s2 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.4) 0%,rgba(10,10,10,.85) 30%,#0a0a0a 55%);}
+
+/* V8 NEW: Secret deal card — styled like a classified document */
+.deal-card{margin:7px 36px;background:rgba(255,194,23,.06);border:1px solid rgba(255,194,23,.25);border-radius:13px;padding:13px 18px;position:relative;z-index:3;display:flex;gap:14px;align-items:center;}
+.deal-stamp{background:var(--red);color:#fff;font-size:9px;font-weight:900;letter-spacing:2px;padding:3px 8px;border-radius:4px;writing-mode:horizontal-tb;flex-shrink:0;align-self:flex-start;}
+.deal-body .db-title{font-size:16px;font-weight:900;color:#fff;margin-bottom:4px;line-height:1.25;}
+.deal-body .db-desc{font-size:12px;color:rgba(255,255,255,.45);line-height:1.55;}
+.deal-body .db-hl{color:var(--gold);font-weight:700;}
+
+/* Matchup — now showing agreement result */
+.matchup{margin:6px 36px;display:flex;gap:0;border-radius:13px;overflow:hidden;border:1px solid rgba(255,255,255,.08);position:relative;z-index:3;}
+.m-side{flex:1;padding:12px 16px;}
+.m-side .party{font-size:10px;font-weight:900;letter-spacing:2px;margin-bottom:4px;}
+.m-side .name{font-size:18px;font-weight:900;color:#fff;margin-bottom:2px;}
+.m-side .role{font-size:11px;color:rgba(255,255,255,.35);}
+.m-side .badge{display:inline-block;padding:2px 10px;border-radius:6px;font-size:10px;font-weight:800;margin-top:5px;}
+.m-agree{width:50px;display:flex;align-items:center;justify-content:center;background:rgba(16,185,129,.08);border-right:1px solid rgba(16,185,129,.15);border-left:1px solid rgba(16,185,129,.15);}
+.m-agree .ag-txt{font-size:18px;}
+
+/* Mechanics row */
+.mech-row{display:flex;gap:6px;padding:6px 36px;position:relative;z-index:3;}
+.mech-card{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:10px 10px;text-align:center;}
+.mech-card .mc-n{font-size:24px;font-weight:900;font-family:'Cairo';line-height:1;}
+.mech-card .mc-l{font-size:10px;color:rgba(255,255,255,.32);margin-top:3px;line-height:1.3;}
+
+/* Fine card */
+.fine-card{margin:6px 36px;background:rgba(239,68,68,.06);border:1px solid rgba(239,68,68,.18);border-radius:11px;padding:11px 16px;position:relative;z-index:3;display:flex;align-items:center;gap:12px;}
+.fine-ico{font-size:26px;flex-shrink:0;}
+.fine-body .ft{font-size:14px;font-weight:800;color:#fff;margin-bottom:2px;}
+.fine-body .fd{font-size:12px;color:rgba(255,255,255,.4);line-height:1.4;}
+.fine-body .fd span{color:var(--sec);font-weight:700;}
+
+.s2 .bbar-dark{background:rgba(255,194,23,.06);border-top:1px solid rgba(255,194,23,.12);}
+.s2 .bbar-dark .bf{color:var(--gold);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 3 — POLITICS + SANCTIONS
+   V8 NEW: Full-width animated Iraq map as bg layer + glowing city dots
+═══════════════════════════════════════════════ */
+.s3 .bg{position:absolute;inset:0;background:url('./images/dark_globe.jpg') center/cover;opacity:.05;}
+.s3 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.8) 0%,#0a0a0a 50%);}
+
+/* V8 NEW: Full-width map SVG layer */
+.map-layer{position:absolute;inset:0;z-index:1;pointer-events:none;overflow:hidden;}
+.map-layer svg{position:absolute;bottom:-40px;left:50%;transform:translateX(-50%);opacity:.07;}
+
+/* City pulse dots overlay */
+.city-dots{position:absolute;inset:0;z-index:2;pointer-events:none;}
+.city-dot{position:absolute;}
+.city-dot .ring{position:absolute;inset:-8px;border-radius:50%;border:2px solid;animation:pulse-ring 2s ease-out infinite;}
+.city-dot .core{width:8px;height:8px;border-radius:50%;position:relative;animation:pulse-dot 2s ease-in-out infinite;}
+.city-dot .city-lbl{position:absolute;font-size:9px;font-weight:800;letter-spacing:1px;white-space:nowrap;font-family:'Cairo';}
+
+.s3 .content{padding:8px 36px;display:grid;grid-template-columns:1fr 1fr;gap:8px;position:relative;z-index:3;}
+.s3 .col-title{font-size:11px;font-weight:900;letter-spacing:2px;margin-bottom:7px;padding-bottom:5px;border-bottom:1px solid rgba(255,255,255,.06);}
+
+/* Sanctions cascade card */
+.cascade-card{background:rgba(239,68,68,.04);border:1px solid rgba(239,68,68,.15);border-radius:10px;padding:11px 13px;margin-bottom:7px;}
+.cascade-card .cc-title{font-size:13px;font-weight:800;color:#fff;margin-bottom:7px;}
+.cascade-card .cc-steps{display:flex;flex-direction:column;gap:5px;}
+.cascade-card .cc-step{display:flex;align-items:center;gap:8px;}
+.cascade-card .cc-num{width:18px;height:18px;border-radius:50%;background:rgba(239,68,68,.2);border:1px solid rgba(239,68,68,.4);display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:900;color:var(--sec);flex-shrink:0;font-family:'Cairo';}
+.cascade-card .cc-txt{font-size:11px;color:rgba(255,255,255,.5);line-height:1.3;}
+.cascade-card .cc-txt b{color:#fff;font-weight:700;}
+
+/* Small info cards */
+.mini-card{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:9px;padding:10px 12px;border-right:3px solid;margin-bottom:6px;}
+.mini-card .mt{font-size:13px;font-weight:800;color:#fff;line-height:1.25;margin-bottom:3px;}
+.mini-card .md{font-size:11px;color:rgba(255,255,255,.38);line-height:1.4;}
+.mini-card .md b{color:var(--gold);font-weight:700;}
+
+.s3 .bbar-dark{background:rgba(239,68,68,.05);border-top:1px solid rgba(239,68,68,.1);}
+.s3 .bbar-dark .bf{color:var(--sec);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 4 — ECONOMY + OIL
+   V8 NEW: Dramatic production gap visualization
+═══════════════════════════════════════════════ */
+.s4 .bg{position:absolute;inset:0;background:url('./images/oil_platform.jpg') center/cover;opacity:.13;}
+.s4 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.7) 0%,#0a0a0a 48%);}
+
+/* V8 NEW: Production gap bar chart */
+.gap-chart{margin:7px 36px;background:rgba(255,255,255,.02);border:1px solid rgba(255,255,255,.06);border-radius:13px;padding:14px 18px;position:relative;z-index:3;}
+.gap-chart .gc-title{font-size:12px;font-weight:800;color:rgba(255,255,255,.5);letter-spacing:1px;margin-bottom:10px;}
+.gap-row{display:flex;flex-direction:column;gap:9px;}
+.gap-item{display:flex;flex-direction:column;gap:4px;}
+.gap-item .gi-label{display:flex;justify-content:space-between;align-items:center;}
+.gap-item .gi-name{font-size:12px;font-weight:700;color:rgba(255,255,255,.5);}
+.gap-item .gi-val{font-size:14px;font-weight:900;font-family:'Cairo';}
+.gap-item .gi-bar-bg{height:20px;background:rgba(255,255,255,.05);border-radius:4px;overflow:hidden;}
+.gap-item .gi-bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding:0 8px;}
+.gap-item .gi-bar-txt{font-size:10px;font-weight:800;color:rgba(255,255,255,.7);white-space:nowrap;}
+/* Gap indicator */
+.gap-indicator{display:flex;align-items:center;gap:8px;margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,.05);}
+.gi-arrow{font-size:22px;color:var(--sec);}
+.gi-gap-txt{font-size:13px;color:rgba(255,255,255,.5);}
+.gi-gap-txt b{color:var(--sec);font-weight:800;font-size:18px;}
+
+/* Metric cards row */
+.metric-row{display:flex;gap:6px;padding:6px 36px;position:relative;z-index:3;}
+.metric-card{flex:1;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:11px 10px;text-align:center;}
+.metric-card .mn{font-size:26px;font-weight:900;font-family:'Cairo';line-height:1;}
+.metric-card .ml{font-size:10px;color:rgba(255,255,255,.3);margin-top:3px;line-height:1.3;}
+.metric-card .mtag{font-size:9px;font-weight:800;padding:1px 6px;border-radius:4px;margin-top:4px;display:inline-block;}
+
+/* Airspace reopening card */
+.airspace-card{margin:6px 36px;background:rgba(6,182,212,.05);border:1px solid rgba(6,182,212,.15);border-radius:11px;padding:12px 18px;position:relative;z-index:3;display:flex;align-items:center;gap:14px;}
+.airspace-card .ai-ico{font-size:32px;flex-shrink:0;}
+.airspace-card .ai-body .at{font-size:15px;font-weight:800;color:#fff;margin-bottom:3px;}
+.airspace-card .ai-body .ad{font-size:12px;color:rgba(255,255,255,.4);line-height:1.5;}
+.airspace-card .ai-body .ad b{color:var(--cyan);font-weight:700;}
+
+.s4 .bbar-dark{background:rgba(245,158,11,.05);border-top:1px solid rgba(245,158,11,.1);}
+.s4 .bbar-dark .bf{color:var(--oil);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 5 — WHAT TO WATCH
+   V8 NEW: Vertical timeline visualization
+═══════════════════════════════════════════════ */
+.s5 .bg{position:absolute;inset:0;background:url('./images/clock.jpg') center/cover;opacity:.1;}
+.s5 .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.6) 0%,#0a0a0a 42%);}
+
+/* V8 NEW: Timeline container */
+.timeline{padding:7px 36px;position:relative;z-index:3;display:flex;flex-direction:column;gap:0;}
+.tl-item{display:flex;gap:0;position:relative;}
+.tl-left{width:100px;flex-shrink:0;text-align:left;padding-top:6px;direction:ltr;}
+.tl-left .tl-date{font-size:11px;font-weight:800;color:var(--gold);font-family:'Cairo';}
+.tl-left .tl-time{font-size:10px;color:rgba(255,255,255,.25);}
+.tl-center{width:36px;flex-shrink:0;display:flex;flex-direction:column;align-items:center;}
+.tl-dot{width:12px;height:12px;border-radius:50%;border:2px solid;flex-shrink:0;margin-top:8px;}
+.tl-line{width:2px;flex:1;background:rgba(255,255,255,.06);margin:2px 0;}
+.tl-right{flex:1;padding:5px 0 18px 14px;direction:rtl;}
+.tl-right .tr-title{font-size:14px;font-weight:800;color:#fff;margin-bottom:3px;line-height:1.25;}
+.tl-right .tr-desc{font-size:12px;color:rgba(255,255,255,.38);line-height:1.45;}
+.tl-right .tr-tag{display:inline-block;padding:1px 8px;border-radius:4px;font-size:9px;font-weight:800;margin-bottom:4px;}
+
+/* Risk meter */
+.risk-strip{margin:0 36px;background:rgba(255,255,255,.02);border:1px solid rgba(255,255,255,.05);border-radius:11px;padding:12px 16px;position:relative;z-index:3;display:flex;gap:8px;align-items:center;}
+.risk-strip .rs-lbl{font-size:11px;font-weight:800;color:rgba(255,255,255,.3);letter-spacing:1px;flex-shrink:0;}
+.risk-meter{flex:1;height:8px;background:rgba(255,255,255,.05);border-radius:4px;overflow:hidden;}
+.risk-meter-fill{height:100%;border-radius:4px;background:linear-gradient(90deg,#10B981,#F59E0B,#D72638);}
+.risk-strip .rs-val{font-size:14px;font-weight:900;font-family:'Cairo';flex-shrink:0;}
+
+.s5 .bbar-dark{background:rgba(255,194,23,.05);border-top:1px solid rgba(255,194,23,.1);}
+.s5 .bbar-dark .bf{color:var(--gold);font-size:12px;font-weight:700;}
+
+/* ═══════════════════════════════════════════════
+   SLIDE 6 — SOURCES
+═══════════════════════════════════════════════ */
+.s6 .bg{position:absolute;inset:0;background:linear-gradient(135deg,#0d0d0d 0%,#080808 100%);}
+.s6 .deco{position:absolute;top:-80px;right:-80px;width:400px;height:400px;border-radius:50%;background:radial-gradient(circle,rgba(255,194,23,.04) 0%,transparent 70%);z-index:1;}
+
+.src-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;padding:8px 36px;position:relative;z-index:3;}
+.src-card{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05);border-radius:10px;padding:11px 12px;}
+.src-card .sc-ico{font-size:18px;margin-bottom:5px;}
+.src-card .sc-name{font-size:13px;font-weight:800;color:#fff;margin-bottom:2px;}
+.src-card .sc-type{font-size:10px;color:rgba(255,255,255,.25);font-weight:600;}
+
+/* Context box */
+.ctx-box{margin:6px 36px;background:rgba(255,194,23,.04);border:1px solid rgba(255,194,23,.12);border-radius:11px;padding:12px 16px;position:relative;z-index:3;}
+.ctx-box .cb-title{font-size:11px;font-weight:900;letter-spacing:2px;color:var(--gold);margin-bottom:5px;}
+.ctx-box .cb-text{font-size:12px;color:rgba(255,255,255,.45);line-height:1.6;}
+
+.s6 .bbar-dark{background:rgba(255,194,23,.06);border-top:1px solid rgba(255,194,23,.12);}
+.s6 .bbar-dark .bf{color:var(--gold);font-size:12px;font-weight:700;}
+.s6 .bbar-dark .br{color:rgba(255,255,255,.2);font-size:11px;}
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 1 — COVER
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 01 / COVER</div>
+<div class="slide s1" id="slide1">
+  <div class="bg"></div>
+  <div class="ov"></div>
+  <div class="gl"></div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d a"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <div class="pg">١١ أبريل ٢٠٢٦</div>
+  </div>
+
+  <!-- Breaking ticker -->
+  <div class="breaking-ticker">
+    <div class="bt-label">عاجل</div>
+    <div class="bt-text">نزار أميدي المرشح الكردي الوحيد · الديمقراطي الكردستاني يتراجع في اتفاق سري بين الحزبين</div>
+  </div>
+
+  <div class="s1 hero">
+    <div class="flag">🇮🇶</div>
+    <h1><span class="gold-word">يوم</span> الانتخاب</h1>
+    <div class="dline"></div>
+    <div class="datesub">العراق يختار رئيساً للجمهورية · ٣ محاولات · ١ قرار</div>
+  </div>
+
+  <!-- Headline previews -->
+  <div class="hl-grid">
+    <div class="hl-big">
+      <div class="hl-ico">🤝</div>
+      <div class="hl-body">
+        <div class="ht">اتفاق سري: الاتحاد الوطني للرئاسة · بارزاني يتخلى عن فؤاد حسين</div>
+        <div class="hd">الاتحاد يحصل على الرئاسة · الديمقراطي يحتفظ بإقليم كردستان · ٢٢٠ صوتاً للفوز</div>
+      </div>
+    </div>
+    <div class="hl-sm">
+      <div class="hl-accent" style="background:var(--sec);"></div>
+      <div>
+        <div class="ht">المالكي ينسحب تحت الضغط الأمريكي</div>
+        <div class="hd">إطار تنسيقي يفتح نافذة ٤٨ ساعة لتسمية بديل</div>
+      </div>
+    </div>
+    <div class="hl-sm">
+      <div class="hl-accent" style="background:var(--cyan);"></div>
+      <div>
+        <div class="ht">الأجواء العراقية تعود بعد ٤٠ يوماً</div>
+        <div class="hd">مطارات بغداد وأربيل والبصرة تستقبل الرحلات</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick stats -->
+  <div class="qstats">
+    <div class="qs"><div class="qn" style="color:var(--gold);">٢٢٠</div><div class="ql">صوت للفوز<br>بالجولة الأولى</div></div>
+    <div class="qs"><div class="qn" style="color:#fff;">٣٢٩</div><div class="ql">عضو في<br>البرلمان</div></div>
+    <div class="qs"><div class="qn" style="color:var(--sec);">مليون</div><div class="ql">دينار غرامة<br>على الغائبين</div></div>
+    <div class="qs"><div class="qn" style="color:var(--oil);">١١٧$</div><div class="ql">سعر برميل<br>النفط العراقي</div></div>
+    <div class="qs"><div class="qn" style="color:var(--cyan);">٤٠</div><div class="ql">يوم أجواء<br>مغلقة</div></div>
+  </div>
+
+  <div class="gold-bar">
+    <div class="gbt">📍 تابع معنا: تغطية لحظة بلحظة من بغداد</div>
+    <div class="gbr">@photonect.news</div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 2 — BIG STORY: الانتخاب الرئاسي
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 02 / BIG STORY</div>
+<div class="slide s2" id="slide2">
+  <div class="bg"></div>
+  <div class="ov"></div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d"></div><div class="d a"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <div class="pg">٢ / ٦</div>
+  </div>
+
+  <div class="sec-hdr" style="position:relative;z-index:3;">
+    <div class="ch" style="color:var(--gold);">القصة الكبرى</div>
+    <div class="title">الانتخاب الرئاسي<br>المحاولة الثالثة</div>
+    <div class="sub">جلسة ١١ أبريل · الساعة الحادية عشرة صباحاً · بغداد</div>
+  </div>
+
+  <!-- V8 NEW: Secret Deal card -->
+  <div class="deal-card">
+    <div class="deal-stamp">سري</div>
+    <div class="deal-body">
+      <div class="db-title">اتفاق خلف الكواليس: الاتحاد الوطني الكردستاني يحصل على الرئاسة</div>
+      <div class="db-desc">
+        كشفت الحرة عن اتفاق غير معلن بين <span class="db-hl">الحزب الديمقراطي الكردستاني</span> و<span class="db-hl">الاتحاد الوطني الكردستاني</span> يُرسي مبدأ المناوبة التاريخية: الاتحاد يمسك الرئاسة · الديمقراطي يحتفظ بالإقليم. <span class="db-hl">فؤاد حسين</span> يتراجع · <span class="db-hl">نزار أميدي</span> المرشح الوحيد.
+      </div>
+    </div>
+  </div>
+
+  <!-- Matchup — showing agreement -->
+  <div class="matchup" style="position:relative;z-index:3;">
+    <div class="m-side" style="background:rgba(59,130,246,.05);">
+      <div class="party" style="color:var(--pol);">الديمقراطي الكردستاني · KDP</div>
+      <div class="name">فؤاد حسين</div>
+      <div class="role">وزير المالية السابق · مرشح منسحب</div>
+      <div class="badge" style="background:rgba(255,255,255,.05);color:rgba(255,255,255,.35);">🔙 انسحب بالاتفاق</div>
+    </div>
+    <div class="m-agree">
+      <div class="ag-txt">🤝</div>
+    </div>
+    <div class="m-side" style="background:rgba(16,185,129,.05);">
+      <div class="party" style="color:var(--eco);">الاتحاد الوطني · PUK</div>
+      <div class="name">نزار أميدي</div>
+      <div class="role">مرشح كردستان الرسمي الوحيد</div>
+      <div class="badge" style="background:rgba(16,185,129,.15);color:var(--eco);">✓ مرشح موحد</div>
+    </div>
+  </div>
+
+  <!-- Mechanics -->
+  <div class="mech-row">
+    <div class="mech-card"><div class="mc-n" style="color:var(--gold);">٢٢٠</div><div class="mc-l">صوت للفوز<br>بالجولة الأولى</div></div>
+    <div class="mech-card"><div class="mc-n" style="color:#fff;">٣٢٩</div><div class="mc-l">عضو كلي<br>في المجلس</div></div>
+    <div class="mech-card"><div class="mc-n" style="color:var(--pol);">٣</div><div class="mc-l">محاولة<br>فاشلة سابقة</div></div>
+    <div class="mech-card"><div class="mc-n" style="color:var(--eco);">٢</div><div class="mc-l">جولة إذا فشل<br>العتبة الأولى</div></div>
+  </div>
+
+  <!-- Halbousi fine -->
+  <div class="fine-card">
+    <div class="fine-ico">⚖️</div>
+    <div class="fine-body">
+      <div class="ft">الحلبوسي يُعلن: الغياب بالاسم على التلفزيون</div>
+      <div class="fd">كل نائب يتغيب يُذاع اسمه على الهواء مباشرة + غرامة <span>مليون دينار عراقي (~٧٦٠ دولار)</span> · أول آلية تنفيذية من نوعها في تاريخ البرلمان العراقي</div>
+    </div>
+  </div>
+
+  <div class="bbar-dark" style="background:rgba(255,194,23,.06);border-top:1px solid rgba(255,194,23,.12);">
+    <div class="bf" style="color:var(--gold);font-size:12px;font-weight:700;">الرئاسة في العراق: ثلاث سنوات خلو · ثلاث محاولات فاشلة · اليوم القرار</div>
+    <div class="logo"><div class="r"></div><div class="n" style="font-size:10px;">PHOTONECT</div><div class="s" style="font-size:5px;">NEWS</div></div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 3 — POLITICS + SANCTIONS + SECURITY
+     V8 NEW: Sanctions cascade + city event dots
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 03 / POLITICS · SANCTIONS · SECURITY</div>
+<div class="slide s3" id="slide3">
+  <div class="bg"></div>
+  <div class="ov"></div>
+
+  <!-- V8 NEW: City pulse dots representing event hotspots -->
+  <div class="city-dots">
+    <!-- Baghdad -->
+    <div class="city-dot" style="right:430px;top:470px;">
+      <div class="ring" style="border-color:var(--sec);animation-delay:0s;"></div>
+      <div class="core" style="background:var(--sec);"></div>
+      <div class="city-lbl" style="color:var(--sec);top:12px;right:12px;">بغداد</div>
+    </div>
+    <!-- Erbil -->
+    <div class="city-dot" style="right:310px;top:300px;">
+      <div class="ring" style="border-color:var(--pol);animation-delay:.7s;"></div>
+      <div class="core" style="background:var(--pol);"></div>
+      <div class="city-lbl" style="color:var(--pol);top:12px;right:12px;">أربيل</div>
+    </div>
+    <!-- Basra -->
+    <div class="city-dot" style="right:450px;top:640px;">
+      <div class="ring" style="border-color:var(--oil);animation-delay:1.4s;"></div>
+      <div class="core" style="background:var(--oil);"></div>
+      <div class="city-lbl" style="color:var(--oil);top:12px;right:12px;">البصرة</div>
+    </div>
+  </div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d a"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <div class="pg">٣ / ٦</div>
+  </div>
+
+  <div class="sec-hdr">
+    <div class="ch" style="color:var(--sec);">السياسة · العقوبات · الأمن</div>
+    <div class="title" style="font-size:30px;">واشنطن تُشكّل المشهد</div>
+    <div class="sub">المالكي ينسحب · باراك يُحدد جدول العقوبات · بريطانيا تُغادر</div>
+  </div>
+
+  <div class="s3 content">
+    <!-- RIGHT COLUMN: Sanctions -->
+    <div>
+      <div class="col-title" style="color:var(--sec);">⚡ العقوبات الأمريكية</div>
+
+      <div class="cascade-card">
+        <div class="cc-title">جدول باراك: متى تبدأ العقوبات؟</div>
+        <div class="cc-steps">
+          <div class="cc-step">
+            <div class="cc-num">١</div>
+            <div class="cc-txt"><b>الشخصيات السياسية</b> والمسؤولون السابقون — أولاً</div>
+          </div>
+          <div class="cc-step">
+            <div class="cc-num">٢</div>
+            <div class="cc-txt"><b>المؤسسات الحكومية</b> تدريجياً</div>
+          </div>
+          <div class="cc-step">
+            <div class="cc-num">٣</div>
+            <div class="cc-txt"><b>المصارف الخاصة</b> المسؤولة عن تحويلات النقد الأجنبي</div>
+          </div>
+          <div class="cc-step">
+            <div class="cc-num">٤</div>
+            <div class="cc-txt"><b>عائدات النفط</b> في الاحتياطي الفيدرالي الأمريكي</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mini-card" style="border-right-color:var(--gold);">
+        <div class="mt">المالكي رسمياً خارج السباق</div>
+        <div class="md">الإطار التنسيقي يسحب ترشيحه لرئاسة الوزراء تحت الضغط الأمريكي · <b>٤٨ ساعة</b> لتسمية بديل توافقي</div>
+      </div>
+    </div>
+
+    <!-- LEFT COLUMN: Security -->
+    <div>
+      <div class="col-title" style="color:var(--pol);">🛡️ الأمن والخسائر</div>
+
+      <div class="mini-card" style="border-right-color:var(--sec);">
+        <div class="mt">مقاول أمريكي يُقتل في أربيل</div>
+        <div class="md">موظف شركة V2X لقي حتفه في هجوم على قاعدة هرير الجوية <b>٦ أبريل</b> · ضربة ثانية على القاعدة ذاتها في ٨ أبريل</div>
+      </div>
+
+      <div class="mini-card" style="border-right-color:var(--pol);">
+        <div class="mt">بريطانيا تُجلّي قواتها من العراق</div>
+        <div class="md">القوات البريطانية تُغادر · تدريبات داعش مُلغاة · إشارة دولية لتدهور البيئة الأمنية</div>
+      </div>
+
+      <div class="mini-card" style="border-right-color:var(--oil);">
+        <div class="mt">٧٬٠٠٠ معتقل داعشي في السجون العراقية</div>
+        <div class="md">محاربون متمرسون نُقلوا من المخيمات السورية · منظمة هيومن رايتس ووتش: خطر إعادة تنظيم الصفوف من الداخل</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar-dark" style="background:rgba(239,68,68,.05);border-top:1px solid rgba(239,68,68,.1);">
+    <div style="color:var(--sec);font-size:12px;font-weight:700;">عائدات النفط في الاحتياطي الفيدرالي: ورقة ضغط واشنطن الأخيرة</div>
+    <div class="logo"><div class="r"></div><div class="n" style="font-size:10px;">PHOTONECT</div><div class="s" style="font-size:5px;">NEWS</div></div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 4 — ECONOMY + OIL
+     V8 NEW: Dramatic production gap bar chart
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 04 / ECONOMY · OIL</div>
+<div class="slide s4" id="slide4">
+  <div class="bg"></div>
+  <div class="ov"></div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d a"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <div class="pg">٤ / ٦</div>
+  </div>
+
+  <div class="sec-hdr">
+    <div class="ch" style="color:var(--oil);">الاقتصاد · النفط · الطاقة</div>
+    <div class="title">الحصة على الورق<br>الواقع أمر آخر</div>
+    <div class="sub">OPEC+ يرفع الحصة · العراق يُصدّر أقل من ثلث طاقته</div>
+  </div>
+
+  <!-- V8 NEW: Production gap visualization -->
+  <div class="gap-chart">
+    <div class="gc-title">إنتاج النفط العراقي — الحصة مقابل الواقع (مليون ب/ي)</div>
+    <div class="gap-row">
+      <div class="gap-item">
+        <div class="gi-label">
+          <div class="gi-name">حصة أوبك+ لمايو ٢٠٢٦</div>
+          <div class="gi-val" style="color:var(--eco);">٤.٣٢٦ م ب/ي</div>
+        </div>
+        <div class="gi-bar-bg">
+          <div class="gi-bar-fill" style="width:100%;background:linear-gradient(90deg,#10B981,#059669);">
+            <div class="gi-bar-txt">المرتبة الثالثة في أوبك+</div>
+          </div>
+        </div>
+      </div>
+      <div class="gap-item">
+        <div class="gi-label">
+          <div class="gi-name">الإنتاج الفعلي الآن</div>
+          <div class="gi-val" style="color:var(--sec);">١.٢ م ب/ي</div>
+        </div>
+        <div class="gi-bar-bg">
+          <div class="gi-bar-fill" style="width:27.7%;background:linear-gradient(90deg,#D72638,#EF4444);">
+            <div class="gi-bar-txt">٢٨٪ فقط</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="gap-indicator">
+      <div class="gi-arrow">↓</div>
+      <div class="gi-gap-txt">الفجوة: <b>٣.١٢٦</b> مليون برميل يومياً مفقودة بسبب هرمز · تعادل إيرادات <b>٣٦٥ مليون دولار / يوم</b></div>
+    </div>
+  </div>
+
+  <!-- Metric cards -->
+  <div class="metric-row">
+    <div class="metric-card">
+      <div class="mn" style="color:var(--oil);">١١٧$</div>
+      <div class="ml">سعر البرميل<br>سلة أوبك</div>
+      <div class="mtag" style="background:rgba(245,158,11,.15);color:var(--oil);">▲ أعلى مستوى منذ ٤ سنوات</div>
+    </div>
+    <div class="metric-card">
+      <div class="mn" style="color:var(--eco);">٤.٣٢٦م</div>
+      <div class="ml">حصة العراق<br>في أوبك+</div>
+      <div class="mtag" style="background:rgba(16,185,129,.1);color:var(--eco);">#٣ في أوبك+</div>
+    </div>
+    <div class="metric-card">
+      <div class="mn" style="color:var(--sec);">٧٢٪</div>
+      <div class="ml">نسبة الفجوة<br>الإنتاجية</div>
+      <div class="mtag" style="background:rgba(239,68,68,.1);color:var(--sec);">بسبب إغلاق هرمز</div>
+    </div>
+  </div>
+
+  <!-- Airspace reopening -->
+  <div class="airspace-card">
+    <div class="ai-ico">✈️</div>
+    <div class="ai-body">
+      <div class="at">الأجواء العراقية تفتح أبوابها بعد ٤٠ يوماً من الإغلاق</div>
+      <div class="ad">
+        هيئة الطيران المدني أعادت تشغيل <b>٤ مطارات</b> (بغداد · أربيل · البصرة · النجف) · مرتبطة بوقف إطلاق النار لأسبوعين · <b>هشّة وقابلة للانتكاس</b> إذا انهارت محادثات إسلام آباد
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar-dark" style="background:rgba(245,158,11,.05);border-top:1px solid rgba(245,158,11,.1);">
+    <div style="color:var(--oil);font-size:12px;font-weight:700;">خسارة يومية: ٣٦٥ مليون دولار طالما بقي هرمز تحت القيود</div>
+    <div class="logo"><div class="r"></div><div class="n" style="font-size:10px;">PHOTONECT</div><div class="s" style="font-size:5px;">NEWS</div></div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 5 — WHAT TO WATCH
+     V8 NEW: Vertical timeline visualization
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 05 / WHAT TO WATCH</div>
+<div class="slide s5" id="slide5">
+  <div class="bg"></div>
+  <div class="ov"></div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d a"></div><div class="d"></div>
+    </div>
+    <div class="pg">٥ / ٦</div>
+  </div>
+
+  <div class="sec-hdr">
+    <div class="ch" style="color:var(--gold);">ماذا تترقب</div>
+    <div class="title">المحطات القادمة</div>
+    <div class="sub">كل قرار من هذه القرارات سيُعيد رسم خريطة العراق</div>
+  </div>
+
+  <!-- V8 NEW: Timeline -->
+  <div class="timeline">
+    <div class="tl-item">
+      <div class="tl-left">
+        <div class="tl-date">١١ أبريل</div>
+        <div class="tl-time">اليوم</div>
+      </div>
+      <div class="tl-center">
+        <div class="tl-dot" style="background:var(--gold);border-color:var(--gold);box-shadow:0 0 8px rgba(255,194,23,.6);"></div>
+        <div class="tl-line"></div>
+      </div>
+      <div class="tl-right">
+        <div class="tr-tag" style="background:rgba(255,194,23,.15);color:var(--gold);">رئاسي</div>
+        <div class="tr-title">نتيجة الانتخاب الرئاسي</div>
+        <div class="tr-desc">هل ينجح نزار أميدي في الجولة الأولى؟ أم تأجيل رابع؟ كل سيناريو له تداعيات مختلفة على الحكومة والعقوبات</div>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-left">
+        <div class="tl-date">١٠–١٢ أبريل</div>
+        <div class="tl-time">الآن</div>
+      </div>
+      <div class="tl-center">
+        <div class="tl-dot" style="background:var(--pol);border-color:var(--pol);box-shadow:0 0 8px rgba(59,130,246,.5);"></div>
+        <div class="tl-line"></div>
+      </div>
+      <div class="tl-right">
+        <div class="tr-tag" style="background:rgba(59,130,246,.15);color:var(--pol);">دبلوماسي</div>
+        <div class="tr-title">محادثات إسلام آباد: أمريكا وإيران</div>
+        <div class="tr-desc">وقف النار جاء بسببها · الأجواء والموانئ العراقية مرتبطة بنجاحها · فشل المحادثات = إغلاق مجدد</div>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-left">
+        <div class="tl-date">هذا الأسبوع</div>
+        <div class="tl-time">قريباً</div>
+      </div>
+      <div class="tl-center">
+        <div class="tl-dot" style="background:var(--sec);border-color:var(--sec);box-shadow:0 0 8px rgba(239,68,68,.5);"></div>
+        <div class="tl-line"></div>
+      </div>
+      <div class="tl-right">
+        <div class="tr-tag" style="background:rgba(239,68,68,.15);color:var(--sec);">عقوبات</div>
+        <div class="tr-title">جدول باراك: هل تبدأ العقوبات؟</div>
+        <div class="tr-desc">المبعوث الأمريكي حدد "نهاية هذا الأسبوع أو مطلع الأسبوع القادم" موعداً لبدء العقوبات على شخصيات عراقية</div>
+      </div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-left">
+        <div class="tl-date">٤٨ ساعة</div>
+        <div class="tl-time">عداد</div>
+      </div>
+      <div class="tl-center">
+        <div class="tl-dot" style="background:var(--soc);border-color:var(--soc);box-shadow:0 0 8px rgba(168,85,247,.5);"></div>
+        <div class="tl-line" style="opacity:0;"></div>
+      </div>
+      <div class="tl-right">
+        <div class="tr-tag" style="background:rgba(168,85,247,.15);color:var(--soc);">سياسي</div>
+        <div class="tr-title">مَن يخلف المالكي رئيساً للوزراء؟</div>
+        <div class="tr-desc">الإطار التنسيقي أعطى لنفسه ٤٨ ساعة للتوافق على مرشح بديل تحت الضغط الأمريكي</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Risk meter -->
+  <div class="risk-strip">
+    <div class="rs-lbl">مستوى عدم اليقين</div>
+    <div class="risk-meter"><div class="risk-meter-fill" style="width:82%;"></div></div>
+    <div class="rs-val" style="color:var(--sec);">عالٍ جداً</div>
+  </div>
+
+  <div class="bbar-dark" style="background:rgba(255,194,23,.05);border-top:1px solid rgba(255,194,23,.1);">
+    <div style="color:var(--gold);font-size:12px;font-weight:700;">كل هذه القرارات مترابطة · فشل أيٍّ منها يُسقط البقية</div>
+    <div class="logo"><div class="r"></div><div class="n" style="font-size:10px;">PHOTONECT</div><div class="s" style="font-size:5px;">NEWS</div></div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SLIDE 6 — SOURCES
+════════════════════════════════════════════════ -->
+<div class="lbl">SLIDE 06 / SOURCES</div>
+<div class="slide s6" id="slide6">
+  <div class="bg"></div>
+  <div class="deco"></div>
+
+  <div class="nav" style="position:relative;z-index:5;">
+    <div class="logo"><div class="r"></div><div class="n">PHOTONECT</div><div class="s">NEWS</div></div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d a"></div>
+    </div>
+    <div class="pg">٦ / ٦</div>
+  </div>
+
+  <div class="sec-hdr" style="position:relative;z-index:3;">
+    <div class="ch" style="color:var(--gold);">المصادر</div>
+    <div class="title" style="font-size:30px;">نتحقق · نوثّق · نُصدر</div>
+    <div class="sub">كل خبر مرتبط بمصدر أصلي · تحقق بنفسك</div>
+  </div>
+
+  <div class="src-grid">
+    <div class="src-card">
+      <div class="sc-ico">📡</div>
+      <div class="sc-name">الحرة</div>
+      <div class="sc-type">الاتفاق الكردي السري · العقوبات</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">🌍</div>
+      <div class="sc-name">رويترز</div>
+      <div class="sc-type">أوبك+ · النفط · الهرمز</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">📺</div>
+      <div class="sc-name">الجزيرة</div>
+      <div class="sc-type">الانتخابات · السياسة</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">🏔️</div>
+      <div class="sc-name">Kurdistan24</div>
+      <div class="sc-type">قاعدة هرير · الشأن الكردي</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">🏛️</div>
+      <div class="sc-name">State.gov</div>
+      <div class="sc-type">استدعاء السفير العراقي</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">✈️</div>
+      <div class="sc-name">Iraq Business News</div>
+      <div class="sc-type">الطيران · الاقتصاد</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">📊</div>
+      <div class="sc-name">Shafaq News</div>
+      <div class="sc-type">أوبك+ · حصص الإنتاج</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">🔬</div>
+      <div class="sc-name">Chatham House</div>
+      <div class="sc-type">تداعيات الحرب على المدنيين</div>
+    </div>
+    <div class="src-card">
+      <div class="sc-ico">🛡️</div>
+      <div class="sc-name">Soufan Center</div>
+      <div class="sc-type">المعتقلون · الأثر الإنساني</div>
+    </div>
+  </div>
+
+  <!-- Context editorial box -->
+  <div class="ctx-box">
+    <div class="cb-title">📌 سياق تحريري</div>
+    <div class="cb-text">
+      هذا المنشور يُعبّر عن الوضع حتى ١١ أبريل ٢٠٢٦. الأحداث تتسارع. كل قرار قد يتغير خلال ساعات. للمتابعة الفورية: تابع @photonect.news على إنستغرام. كل المعلومات مستمدة من مصادر إعلامية موثوقة ومتاحة للعموم.
+    </div>
+  </div>
+
+  <div class="bbar-dark" style="background:rgba(255,194,23,.06);border-top:1px solid rgba(255,194,23,.12);">
+    <div style="color:var(--gold);font-size:13px;font-weight:800;">نحن لا نكذب — تحقق بنفسك</div>
+    <div style="color:rgba(255,255,255,.2);font-size:11px;">@photonect.news · ١١ أبريل ٢٠٢٦</div>
+  </div>
+</div>
+
+</body>
+</html>

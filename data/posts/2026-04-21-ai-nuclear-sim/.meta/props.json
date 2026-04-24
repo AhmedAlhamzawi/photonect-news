@@ -1,0 +1,127 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اختبار الذكاء الاصطناعي النووي: GPT-6 يرسب",
+    "englishSubhead": "SF • AI NUCLEAR SAFETY BENCHMARK",
+    "heroQueries": [
+      "datacenter server room blue lights",
+      "AI research laboratory interior",
+      "nuclear control room screens",
+      "cybersecurity operations center",
+      "quantum computer laboratory"
+    ],
+    "heroMedia": "images/news/2026-04-21-ai-nuclear-sim/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرسوب",
+      "arabicHeading": "GPT-6 يمرّ في ٠٫٣٪ فقط من اختبار الأمان النووي",
+      "arabicBody": "٢٠٠٠ سيناريو حربي — نتيجة كارثية.",
+      "bigStat": {
+        "value": "0.3%",
+        "label": "GPT-6 nuclear safety score",
+        "arabicLabel": "فقط نسبة نجاح GPT-6 في الاختبار"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد السيناريوهات",
+          "value": "2,000"
+        },
+        {
+          "label": "فشل في تصعيد نووي",
+          "value": "94%"
+        }
+      ],
+      "broll": "images/news/2026-04-21-ai-nuclear-sim/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00F0FF"
+    },
+    {
+      "label": "الاستثناء",
+      "arabicHeading": "كلود ٥ أوبوس يتصدّر بـ٩٤٪ — تقدّم كبير في الأمان",
+      "arabicBody": "النموذج الوحيد الذي رفض التصعيد في كل الحالات الحرجة.",
+      "bigStat": {
+        "value": "94%",
+        "label": "Claude 5 Opus safety score",
+        "arabicLabel": "نسبة نجاح كلود ٥ أوبوس"
+      },
+      "supportingStats": [
+        {
+          "label": "جيميناي ٣",
+          "value": "78%"
+        },
+        {
+          "label": "لاما ٥",
+          "value": "41%"
+        }
+      ],
+      "broll": "images/news/2026-04-21-ai-nuclear-sim/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00F0FF"
+    },
+    {
+      "label": "التبعات",
+      "arabicHeading": "١٢ دولة تطالب بوقف تطوير النماذج عالية الخطر فوراً",
+      "bigStat": {
+        "value": "12",
+        "label": "countries demanding moratorium",
+        "arabicLabel": "دولة تطالب بوقف فوري للتطوير"
+      },
+      "supportingStats": [
+        {
+          "label": "مبادرة المملكة المتحدة",
+          "value": "UN SUMMIT"
+        },
+        {
+          "label": "موقف الصين",
+          "value": "UNDECIDED"
+        }
+      ],
+      "broll": "images/news/2026-04-21-ai-nuclear-sim/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00F0FF"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "domain": "theverge.com"
+    },
+    {
+      "name": "MIT Technology Review",
+      "domain": "technologyreview.com"
+    },
+    {
+      "name": "Wired",
+      "domain": "wired.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "أنثروبيك وديب مايند يصدران أول اختبار للأمان النووي للذكاء الاصطناعي",
+    "GPT-6 يرسب بشكل كارثي: ٠٫٣٪ نسبة النجاح في ٢٠٠٠ سيناريو حربي",
+    "كلود ٥ أوبوس يتصدّر بـ٩٤٪ — النموذج الوحيد الذي رفض التصعيد النووي",
+    "جيميناي ٣ يحقق ٧٨٪، بينما يسقط لاما ٥ إلى ٤١٪ في الاختبار",
+    "١٢ دولة بقيادة بريطانيا تطالب بوقف فوري لتطوير النماذج عالية الخطر",
+    "قمة طارئة للأمم المتحدة الأسبوع المقبل لبحث تنظيم الذكاء الاصطناعي العسكري",
+    "الصين تؤجّل موقفها — وروسيا ترفض أي التزامات دولية قبل تقييم داخلي"
+  ],
+  "variant": "B",
+  "audioBed": "audio/news_bed_pulse.mp3"
+}

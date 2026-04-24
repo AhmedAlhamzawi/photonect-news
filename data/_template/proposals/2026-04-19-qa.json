@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-19",
+  "run": "run-2-execute",
+  "mode": "EXECUTE",
+  "patches_attempted": 2,
+  "patches_merged": 2,
+  "patches_downgraded_to_prototype": 0,
+  "extensions_attempted": 1,
+  "extensions_merged": 0,
+  "extensions_deferred": 1,
+  "prior_aborted_runs": 2,
+  "patches": [
+    {
+      "id": "FIX-001",
+      "description": "VideoBackdrop beat overlay opacity reduced from AA/99/E0 (avg 71%) to 77/66/BB (avg 52%)",
+      "file": "my-video/src/compositions/NewsReel/VideoBackdrop.tsx",
+      "motivation": "Beat overlay crushed broll with source L<116 below the L≥40 floor. New threshold: L_source≥75 → L_final≥40.",
+      "qa": {
+        "PASS_1_static": {
+          "status": "PASS",
+          "tool": "tsc --noEmit",
+          "detail": "TypeScript exit 0"
+        },
+        "PASS_2_sample_render": {
+          "status": "MARGINAL_FAIL_BASELINE_UPDATED",
+          "detail": {
+            "iran_day_50": {"baseline_bytes": 41563284, "new_bytes": 53085366, "delta_pct": 27.7, "result": "FAIL (+2.7pp over 25% threshold) → baseline updated"},
+            "ai_frontier_race": {"baseline_bytes": 13637414, "new_bytes": 14875761, "delta_pct": 9.1, "result": "PASS"}
+          },
+          "note": "iran-day-50 exceeded threshold due to lighter overlay exposing more broll detail (higher CRF bitrate). Expected from intentional visual change. Baseline updated."
+        },
+        "PASS_3_visual": {
+          "status": "PASS",
+          "detail": {
+            "iran_day_50": {
+              "t1.2s_hero": {"L": 68.59, "floor": 62.0, "result": "PASS"},
+              "t6s_beat1": {"L": 62.84, "floor": 40.0, "result": "PASS"},
+              "t14s_beat2": {"L": 83.21, "floor": 40.0, "result": "PASS"},
+              "t25s_beat3": {"L": 49.65, "floor": 40.0, "result": "PASS", "was": 37.86, "fixed": true}
+            },
+            "ai_frontier_race": {
+              "t1.2s_hero": {"L": 64.58, "floor": 62.0, "result": "PASS"},
+              "t6s_beat1": {"L": 77.86, "floor": 40.0, "result": "PASS"},
+              "t14s_beat2": {"L": 60.39, "floor": 40.0, "result": "PASS", "was": 25.55, "fixed": true},
+              "t25s_beat3": {"L": 75.39, "floor": 40.0, "result": "PASS"}
+            }
+          },
+          "placeholder_scan": "PASS (grep-based, no {{...}} found in either props.json)",
+          "ocr_check": "SKIP (tesseract unavailable; grep fallback accepted)"
+        },
+        "PASS_4_regression": {
+          "status": "PASS",
+          "detail": {
+            "2026-04-18": "PASS (byte-identical)",
+            "2026-04-17": "PRE-EXISTING FAIL — size column drift from prior video re-renders, not caused by this patch",
+            "2026-04-19": "SKIP (no prior plan)"
+          }
+        }
+      },
+      "merged": true
+    },
+    {
+      "id": "FIX-002",
+      "description": "make_motion_graphic base changed from ink (L≈9) to 50% tinted accent; added _mean_luminance_video()",
+      "file": "data/_template/media_hunter.py",
+      "motivation": "Motion graphic fallback produced near-black frames (L≈9) that failed L≥40 even with lighter overlay. Tinted accent mix ensures L_bg≥150+ for all accent colors.",
+      "qa": {
+        "PASS_1_static": {
+          "status": "PASS",
+          "tool": "python3 -m py_compile",
+          "detail": "Compile OK"
+        },
+        "PASS_2_sample_render": {
+          "status": "PASS",
+          "detail": "ai-frontier-race broll_2.mp4 regenerated with new code; render size 15,228,339 (+11.7%, within ±25%)"
+        },
+        "PASS_3_visual": {
+          "status": "PASS",
+          "detail": "ai-frontier-race beat2 L=60.39 (was 25.55 with old motion graphic, now 60.4 with tinted accent base)"
+        },
+        "PASS_4_regression": {
+          "status": "PASS",
+          "detail": "build-posting-plan.sh not affected by media_hunter.py changes; 2026-04-18 byte-identical"
+        }
+      },
+      "merged": true
+    }
+  ],
+  "extensions": [
+    {
+      "id": "EXT-001",
+      "description": "CC0 music beds (news_bed_tense/uplift/somber.mp3) — Priority 1",
+      "status": "DEFERRED",
+      "blocker": "Freesound requires API key for programmatic download (download endpoint returns 401 without auth). Pixabay CDN returns 403. ViraMiller #747942 and LulSayer #725057 are CC-BY 4.0 but too short (17s, 7s). Freesound #808502 is CC0 132s but needs auth.",
+      "resolution_options": [
+        "Ahmed provides FREESOUND_API_KEY in .env.local",
+        "Ahmed manually places 3 beds in my-video/public/audio/",
+        "Agent explores Freesound preview CDN pattern (cdn.freesound.org/previews/)"
+      ]
+    }
+  ],
+  "bootstrap_work": null,
+  "baseline_updates": [
+    {
+      "slug": "2026-04-18-iran-day-50",
+      "reason": "VideoBackdrop overlay reduced — new render is larger and brighter; old baseline reflected buggy dark overlay",
+      "old_mp4_bytes": 41563284,
+      "new_mp4_bytes": 53085366,
+      "old_violations": 1,
+      "new_violations": 0
+    },
+    {
+      "slug": "2026-04-18-ai-frontier-race",
+      "reason": "Motion graphic regenerated with tinted accent; overlay reduced; all frames now pass",
+      "old_mp4_bytes": 13637414,
+      "new_mp4_bytes": 15228339,
+      "old_violations": 1,
+      "new_violations": 0
+    }
+  ],
+  "deferred_for_run_3": [
+    "EXT-001: CC0 music beds (blocked on auth)",
+    "Priority 2: NewsReelB.tsx variant B prototype",
+    "Tesseract install (brew install tesseract) to upgrade PASS 3 OCR",
+    "Hero brightness floor recalibration (currently 62, should be ~95 for L_rendered≥62 guarantee)",
+    "PASS 2 threshold recalibration for visual improvement patches (±35% vs ±25%)"
+  ]
+}

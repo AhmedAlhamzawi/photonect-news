@@ -1,0 +1,38 @@
+# ── Secrets ────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+automation/secrets/              # service-account JSON, API keys
+
+# ── Dependencies / build artefacts ─────────────────────────────
+node_modules/
+my-video/node_modules/
+my-video/out/
+my-video/build/
+my-video/daily-output/
+my-video/public/images/news/        # news photos re-scraped per render
+.venv-drive-test/                    # local Python venv for Drive API testing
+.venv/
+dist/
+out/
+__pycache__/
+*.pyc
+
+# ── OS junk ────────────────────────────────────────────────────
+.DS_Store
+*.log
+
+# ── Renders (too large for git; live in Drive instead) ─────────
+data/posts/*/video.mp4
+data/posts/*/newsreel_v3.mp4       # legacy fallback
+data/posts/*/newsreel_v2.mp4
+data/posts/*/newsreel.mp4
+data/posts/*/.meta/old-renders/
+data/posts/*/.meta/thumbnail.jpg
+data/posts/*/assets/
+my-video/public/images/news/*/downloaded/
+
+# ── Temp + scratch ─────────────────────────────────────────────
+/tmp/photonect-*
+data/_template/samples/*.mp4
+data/_template/proposals/*.tmp

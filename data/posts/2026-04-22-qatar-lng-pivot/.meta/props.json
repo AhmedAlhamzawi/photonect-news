@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "C",
+  "audioBed": "audio/bed_steel.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "قطر تحوّل ١٤ ناقلة غاز إلى أوروبا: ١٨ مليار يورو تُحلّ محل الغاز الروسي",
+    "englishSubhead": "DOHA • 14 LNG TANKERS DIVERTED • €18B DEAL",
+    "heroQueries": [
+      "Qatar LNG tanker export terminal",
+      "Ras Laffan LNG plant Qatar",
+      "Rotterdam port LNG terminal",
+      "Doha skyline Corniche",
+      "LNG carrier ship ocean"
+    ],
+    "heroMedia": "images/news/2026-04-22-qatar-lng-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التحويل",
+      "arabicHeading": "١٤ ناقلة حُوّلت خلال ٢٤ ساعة — ٣.٢ مليون طن إلى روتردام",
+      "arabicBody": "قطر للطاقة حوّلت أربع عشرة ناقلة غاز مسال إلى أوروبا عبر مضيق هرمز رغم توترات اليوم، ما يعادل ثلاثة ملايين ومئتي ألف طن من الغاز المسال متجهة إلى ميناء روتردام خلال أسبوع",
+      "bigStat": {
+        "value": "14",
+        "label": "tankers diverted 24h",
+        "arabicLabel": "ناقلة محولة خلال يوم"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز مسال",
+          "value": "3.2 MMT"
+        },
+        {
+          "label": "طلب أوروبي",
+          "value": "11%"
+        },
+        {
+          "label": "ميناء وصول",
+          "value": "روتردام"
+        }
+      ],
+      "broll": "images/news/2026-04-22-qatar-lng-pivot/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#9B5DE5"
+    },
+    {
+      "label": "المال",
+      "arabicHeading": "صفقة ١٨ مليار يورو لثماني سنوات — TTF يتراجع ١٤٪ فوراً",
+      "arabicBody": "العقد متعدد السنوات الأوروبي يبلغ ثمانية عشر مليار يورو على مدى ثمان سنوات، والمشترون الآسيويون تلقوا تعويضاً بقيمة اثنين وثلاثة أعشار مليار دولار، ومؤشر TTF الأوروبي للغاز تراجع بالمئة وأربع عشرة",
+      "bigStat": {
+        "value": "€18B",
+        "label": "multi-year contract value",
+        "arabicLabel": "مليار يورو قيمة الصفقة"
+      },
+      "supportingStats": [
+        {
+          "label": "تعويض آسيوي",
+          "value": "$2.3B"
+        },
+        {
+          "label": "TTF",
+          "value": "−14%"
+        },
+        {
+          "label": "مدة العقد",
+          "value": "8 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-04-22-qatar-lng-pivot/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#9B5DE5"
+    },
+    {
+      "label": "ما بعد",
+      "arabicHeading": "موجة ثانية ٢٢ ناقلة في مايو — حلف قطري أوروبي بـ٤٢ مليار",
+      "arabicBody": "المصادر القطرية أشارت إلى موجة ثانية من اثنتين وعشرين ناقلة في شهر مايو ضمن إطار حلف إستراتيجي طاقوي بقيمة اثنين وأربعين مليار يورو، فيما تدرس موسكو خيارات الرد دبلوماسياً ومالياً",
+      "bigStat": {
+        "value": "22",
+        "label": "tankers in May wave",
+        "arabicLabel": "ناقلة موجة مايو"
+      },
+      "supportingStats": [
+        {
+          "label": "حلف كامل",
+          "value": "€42B"
+        },
+        {
+          "label": "أفق استراتيجي",
+          "value": "8 سنوات"
+        },
+        {
+          "label": "سيناريوهات",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-qatar-lng-pivot/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#9B5DE5"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "S&P Global Platts",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Kpler",
+      "domain": "kpler.com"
+    }
+  ],
+  "arabicTicker": [
+    "قطر للطاقة تُحوّل أربع عشرة ناقلة غاز مسال من آسيا إلى أوروبا خلال أربع وعشرين ساعة",
+    "ثلاثة ملايين ومئتي ألف طن من الغاز المسال متجهة إلى ميناء روتردام الأوروبي خلال الأسبوع",
+    "الصفقة بثمانية عشر مليار يورو على مدى ثمان سنوات متعدد الأطراف وفق العقود المكشوفة",
+    "المشترون الآسيويون حصلوا على تعويض قيمته اثنان وثلاثة أعشار مليار دولار لإلغاء الشحنات",
+    "مؤشر TTF الأوروبي للغاز يتراجع بالمئة وأربع عشرة فور إعلان الصفقة في سوق أمستردام",
+    "موجة ثانية من اثنتين وعشرين ناقلة مخطط لها في شهر مايو المقبل وفق مصادر قطرية",
+    "حلف قطري أوروبي استراتيجي بقيمة اثنين وأربعين مليار يورو على مدى ثمان سنوات قيد المفاوضات النهائية"
+  ]
+}

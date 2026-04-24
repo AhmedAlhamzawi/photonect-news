@@ -1,0 +1,143 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "wildcard",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الممر القطبي: روسيا تفتح طريق الشمال لنقل نفط الشرق الأوسط بدلاً من هرمز ورأس الرجاء",
+    "englishSubhead": "THE ARCTIC ROUTE • MOSCOW OPENS NSR",
+    "heroQueries": [
+      "Icebreaker breaking Arctic sea ice",
+      "Russian nuclear icebreaker at sea",
+      "50 let Pobedy ship aerial",
+      "Nuclear icebreaker ocean bow view"
+    ],
+    "heroMedia": "images/news/2026-04-20-arctic-route/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "موسكو تُعلن انفرادياً: نفط الخليج عبر مورمانسك إلى روتردام",
+      "arabicBody": "بوتين وقّع مرسوماً رئاسياً صباح اليوم يفتح طريق بحر الشمال (NSR) أمام ناقلات نفط الشرق الأوسط. المسار الجديد يبدأ من موانئ عُمان، يعبر السويس، ثم يلتقي الكاسحات الروسية في مورمانسك قبل أن يصل روتردام. ثلاث ناقلات من فئة أفراماكس حُجزت فعلياً، والشحنة الأولى تُغادر الخميس.",
+      "bigStat": {
+        "value": "1/2",
+        "label": "Transit time vs Cape route",
+        "arabicLabel": "نصف زمن العبور مقارنة برأس الرجاء"
+      },
+      "supportingStats": [
+        {
+          "label": "الناقلات المحجوزة فعلياً",
+          "value": "3 AFRAMAX"
+        },
+        {
+          "label": "مسار العبور",
+          "value": "OMAN → ROTTERDAM"
+        },
+        {
+          "label": "الميناء الروسي المحوري",
+          "value": "MURMANSK"
+        },
+        {
+          "label": "أول شحنة",
+          "value": "APR 23"
+        }
+      ],
+      "broll": "images/news/2026-04-20-arctic-route/broll_1.mp4",
+      "brollType": "video"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مليون ومئتا ألف دولار للكاسحة الواحدة — ورقة نفوذ جيو-لوجستية خالصة",
+      "arabicBody": "كل عبور يتطلّب مرافقة كاسحة جليد روسية برسوم ١.٢ مليون دولار للرحلة الواحدة، ما يعني دخلاً سيادياً جديداً لموسكو يُقدّر بمليارات سنوياً. غرينبيس ومنظمات بيئية سبع يصفن الخطوة بأنها كارثة القطب الشمالي. الناتو يعقد اجتماعاً طارئاً في بروكسل لبحث الضغط الاستراتيجي الجديد الذي منحه بوتين لنفسه فوق ممر بحري حيوي.",
+      "bigStat": {
+        "value": "$1.2M",
+        "label": "Per icebreaker escort transit",
+        "arabicLabel": "مليون دولار رسوم كاسحة الجليد الواحدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدخل السيادي المتوقع سنوياً",
+          "value": "$3-5B"
+        },
+        {
+          "label": "معترضون بيئيون",
+          "value": "7 NGOs"
+        },
+        {
+          "label": "ردّ فعل الناتو",
+          "value": "EMERGENCY MEETING"
+        },
+        {
+          "label": "مدة العبور الجديدة",
+          "value": "18 DAYS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-arctic-route/broll_2.mp4",
+      "brollType": "video"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هل يتحوّل القطب الشمالي إلى هرمز جديدة تحت السيادة الروسية؟",
+      "arabicBody": "القرار الروسي يُمثّل نقلة جيوستراتيجية نادرة: موسكو تحوّل أزمة عدوّها إلى إيراد سيادي ورافعة نفوذ فوق ممر بحري كان مُقفلاً تاريخياً. قد تتبعه ناقلات أكثر، أو يثير عقوبات غربية مضادة، أو يُشعل سباقاً على الوجود العسكري في القطب بين روسيا والناتو.",
+      "bigStat": {
+        "value": "18d",
+        "label": "New route duration",
+        "arabicLabel": "يوماً مدة المسار الجديد الكاملة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "VOLUME EXPANSION"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "WEST SANCTIONS"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "ARCTIC ARMS RACE"
+        }
+      ],
+      "broll": "images/news/2026-04-20-arctic-route/broll_3.mp4",
+      "brollType": "video"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Kommersant",
+      "domain": "kommersant.ru"
+    },
+    {
+      "name": "TASS",
+      "domain": "tass.com"
+    },
+    {
+      "name": "Politico EU",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "الكرملين يُعلن انفرادياً فتح طريق بحر الشمال لنقل نفط الشرق الأوسط بديلاً عن هرمز ورأس الرجاء",
+    "ثلاث ناقلات من فئة أفراماكس حُجزت فعلياً — الشحنة الأولى تغادر مورمانسك الخميس ٢٣ أبريل",
+    "كل عبور يتطلّب كاسحة جليد روسية مرافقة برسوم ١.٢ مليون دولار للرحلة الواحدة — إيراد سيادي جديد",
+    "المسار: عُمان → السويس → مورمانسك → روتردام في ١٨ يوماً — نصف زمن رأس الرجاء الصالح",
+    "غرينبيس وسبع منظمات بيئية تصف الخطوة بكارثة بيئية كبرى في منطقة قطبية هشّة جداً مناخياً",
+    "الناتو يعقد اجتماعاً طارئاً في بروكسل لبحث الضغط الجيوستراتيجي الجديد على ممر بحري حيوي",
+    "المحللون: موسكو تحوّل أزمة عدوّها إلى رافعة نفوذ فوق ممر بحري كان مُقفلاً تاريخياً منذ قرون"
+  ]
+}

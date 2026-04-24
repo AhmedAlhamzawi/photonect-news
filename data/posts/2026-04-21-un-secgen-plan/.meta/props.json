@@ -1,0 +1,95 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الأمين العام يكشف خطة سلام من سبع نقاط",
+    "englishSubhead": "NEW YORK • UN 7-POINT PLAN",
+    "heroQueries": [
+      "United Nations general assembly hall",
+      "UN headquarters Secretary General podium",
+      "UN Security Council chamber",
+      "United Nations building New York",
+      "UN flag HQ exterior"
+    ],
+    "heroMedia": "images/news/2026-04-21-un-secgen-plan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الخطة",
+      "arabicHeading": "سبع نقاط لإيقاف الحرب الإقليمية قبل أن تبتلع المنطقة",
+      "bigStat": {
+        "value": "7",
+        "label": "points in UN peace plan",
+        "arabicLabel": "نقاط الخطة الأممية الجديدة"
+      },
+      "broll": "images/news/2026-04-21-un-secgen-plan/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#B8DBD9"
+    },
+    {
+      "label": "الفيتو",
+      "arabicHeading": "موسكو تستخدم الفيتو ضمن دقائق من إعلان الخطة",
+      "bigStat": {
+        "value": "1",
+        "label": "Russian veto within minutes",
+        "arabicLabel": "فيتو روسي يعرقل الخطة فوراً"
+      },
+      "broll": "images/news/2026-04-21-un-secgen-plan/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#B8DBD9"
+    },
+    {
+      "label": "المهلة",
+      "arabicHeading": "٧٢ ساعة للعواصم العربية كي ترد بموقف موحّد",
+      "bigStat": {
+        "value": "72",
+        "label": "hours for Arab response",
+        "arabicLabel": "ساعة حتى موقف جامعة الدول العربية"
+      },
+      "broll": "images/news/2026-04-21-un-secgen-plan/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#B8DBD9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Le Monde",
+      "domain": "lemonde.fr"
+    }
+  ],
+  "arabicTicker": [
+    "الأمين العام للأمم المتحدة يكشف خطة سلام من سبع نقاط لإيقاف الحرب الإقليمية",
+    "الخطة تشمل وقف إطلاق نار فوري، ممرات إنسانية، وقوة رقابة دولية على الحدود",
+    "روسيا تستخدم حق الفيتو خلال دقائق من إعلان الخطة أمام مجلس الأمن",
+    "الصين تمتنع عن التصويت — والولايات المتحدة تعلن دعمها المشروط",
+    "الأمين العام يمنح جامعة الدول العربية ٧٢ ساعة للرد بموقف موحّد",
+    "إيران ترفض الخطة ابتداءً — وتركيا تدعو لتعديلات تشمل ملف سوريا",
+    "أوروبا تدعم الخطة إجمالاً وتستعد لحزمة عقوبات على الأطراف الرافضة"
+  ],
+  "variant": "A",
+  "audioBed": "audio/news_bed_tense.mp3"
+}

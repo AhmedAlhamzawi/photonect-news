@@ -1,0 +1,141 @@
+{
+  "dateLabel": "APR 17 • 2026",
+  "arabicDateLabel": "١٧ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الحرب تُلغي رحلتك: أوروبا على حافة شلل طيران كامل",
+    "englishSubhead": "AFTERMATH • FLIGHT CHAOS AHEAD",
+    "heroMedia": "images/news/2026-04-17-flight-aftermath/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "شركات طيران أوروبية تتحسّب لنقص وشيك في وقود الطائرات",
+      "arabicBody": "أسعار وقود الطائرات قفزت ٣٤٪ في أسبوع، وأزمة مضيق هرمز تهدد بتعطيل آلاف الرحلات. الخطوط الأوروبية الكبرى تدرس تقليص الجداول، وصالات المطارات تستعد لموجة تأخيرات وإلغاءات غير مسبوقة.",
+      "bigStat": {
+        "value": "+34%",
+        "label": "jet fuel spike (1 week)",
+        "arabicLabel": "قفزة أسبوعية في وقود الطائرات"
+      },
+      "supportingStats": [
+        {
+          "label": "الخطوط الأوروبية",
+          "value": "TRIMMING"
+        },
+        {
+          "label": "مخاطر النقص",
+          "value": "HIGH"
+        },
+        {
+          "label": "الرحلات المتأثرة",
+          "value": "THOUSANDS"
+        },
+        {
+          "label": "الأسبوع المقبل",
+          "value": "CRITICAL"
+        }
+      ],
+      "broll": "images/news/2026-04-17-flight-aftermath/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صندوق النقد يحذّر: لا تحموا المستهلكين من صدمة السعر",
+      "arabicBody": "حكومات تبحث إعانات طوارئ لوقود الطيران، لكن صندوق النقد الدولي يطلب تركها. برنت فوق ١٤٠ دولاراً، والسياح يواجهون أسعاراً مضاعفة وخيارات شحيحة. أول اقتصاد يتأثر: السياحة الصيفية الأوروبية.",
+      "bigStat": {
+        "value": "$140+",
+        "label": "Brent crude / barrel",
+        "arabicLabel": "دولار للبرميل — سعر برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "تحذير صندوق النقد",
+          "value": "NO SUBSIDIES"
+        },
+        {
+          "label": "السياحة الصيفية",
+          "value": "AT RISK"
+        },
+        {
+          "label": "أسعار التذاكر",
+          "value": "DOUBLING"
+        },
+        {
+          "label": "طرق الشحن البديلة",
+          "value": "LIMITED"
+        }
+      ],
+      "broll": "images/news/2026-04-17-flight-aftermath/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أسبوع واحد يحدد مصير صيف السفر العالمي",
+      "arabicBody": "ثلاثة سيناريوهات: فتح مضيق هرمز جزئياً وانخفاض تدريجي في الأسعار، أو إغلاق مطوّل يدفع شركات للإفلاس، أو تحوّل استراتيجي لمسارات الطيران عبر القوقاز والقرن الأفريقي. المسافرون أكبر الخاسرين.",
+      "bigStat": {
+        "value": "7d",
+        "label": "decisive week ahead",
+        "arabicLabel": "أيام تحدد ملامح الأزمة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "PARTIAL REOPEN"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "AIRLINE BUSTS"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "REROUTE MAPS"
+        }
+      ],
+      "broll": "images/news/2026-04-17-flight-aftermath/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "mapOverlay": "flight_europe"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The American Prospect",
+      "domain": "prospect.org"
+    },
+    {
+      "name": "Times of India",
+      "domain": "timesofindia.indiatimes.com"
+    },
+    {
+      "name": "Foreign Policy",
+      "domain": "foreignpolicy.com"
+    },
+    {
+      "name": "Fortune",
+      "domain": "fortune.com"
+    },
+    {
+      "name": "Insurance Journal",
+      "domain": "insurancejournal.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "وقود الطائرات يقفز +٣٤٪ في أسبوع — أوروبا تستعد لموجة إلغاءات",
+    "برنت فوق ١٤٠ دولاراً — صندوق النقد يرفض دعم المستهلكين",
+    "الخطوط الأوروبية الكبرى تدرس تقليص جداول الرحلات الصيفية",
+    "المسافرون يواجهون أسعاراً مضاعفة وخيارات أقل حول العالم",
+    "شركات طيران تبحث خطوطاً بديلة عبر القوقاز والقرن الأفريقي",
+    "أول القطاعات المتأثرة: السياحة الصيفية الأوروبية تخسر مليارات",
+    "اتحاد النقل الجوي IATA يحذّر من أسبوع حاسم للصناعة"
+  ],
+  "topicBucket": "mena_geopolitics"
+}

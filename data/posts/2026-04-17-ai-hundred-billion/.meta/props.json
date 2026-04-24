@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 17 • 2026",
+  "arabicDateLabel": "١٧ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "أسبوع الـ ١٠٠ مليار دولار: الذكاء الاصطناعي يعيد رسم خريطة الاقتصاد العالمي",
+    "englishSubhead": "AI • THE $100B WEEK",
+    "heroMedia": "images/news/2026-04-17-ai-hundred-billion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أنثروبيك تصل إلى ٣٠ مليار دولار إيرادات سنوية — وميتا توقّع صفقة حوسبة بـ ٣٥ مليار مع CoreWeave",
+      "arabicBody": "في أسبوع واحد: أنثروبيك تُضاعف إيراداتها ثلاث مرات لتصل إلى ٣٠ مليار دولار ARR، وميتا تحجز قدرة حوسبة سحابية بقيمة ٣٥ مليار دولار من CoreWeave. الأرقام لم تعد قياسية — أصبحت نقاط تحول صناعية.",
+      "bigStat": {
+        "value": "$30B",
+        "label": "Anthropic ARR • tripled",
+        "arabicLabel": "إيرادات أنثروبيك السنوية — تضاعفت ٣ مرات"
+      },
+      "supportingStats": [
+        {
+          "label": "صفقة Meta × CoreWeave",
+          "value": "$35B"
+        },
+        {
+          "label": "عدد موظفي أنثروبيك",
+          "value": "3,500+"
+        },
+        {
+          "label": "منحنى النمو السنوي",
+          "value": "+300%"
+        },
+        {
+          "label": "تنبؤ محللي وول ستريت",
+          "value": "$100B/yr"
+        }
+      ],
+      "broll": "images/news/2026-04-17-ai-hundred-billion/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D97757"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ASML تكشف عن طلبيات بـ ٣٢.٧ مليار يورو — والتايوان تصبح نقطة الاختناق الوحيدة",
+      "arabicBody": "أرقام ASML الفصلية تُثبت أن دورة الرقائق ليست فقاعة — الطلب على آلات EUV يفوق العرض حتى عام ٢٠٢٨. لكن كل هذه الرقائق تُصنع في مكان واحد: تايوان. جيوسياسياً، هذا يعني أن الذكاء الاصطناعي ليس بعيداً عن الحرب.",
+      "bigStat": {
+        "value": "€32.7B",
+        "label": "ASML order backlog",
+        "arabicLabel": "طلبيات ASML المتراكمة — Q1"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة تايوان من رقائق AI",
+          "value": "92%"
+        },
+        {
+          "label": "انتظار طلب EUV واحد",
+          "value": "24 شهر"
+        },
+        {
+          "label": "تكلفة آلة EUV واحدة",
+          "value": "$400M"
+        },
+        {
+          "label": "منافس صيني متوقع",
+          "value": "2028+"
+        }
+      ],
+      "broll": "images/news/2026-04-17-ai-hundred-billion/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#0071C5"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "جيميناي روبوتيكس تحقق ٩٣٪ — الذكاء الاصطناعي يعبر من الكلمات إلى الحركة",
+      "arabicBody": "Gemini Robotics-ER 1.6 تتفوّق على كل المعايير السابقة بنسبة ٩٣٪ في مهام التحكم بالأذرع الآلية. الذكاء الاصطناعي لم يعد يكتب فقط — بدأ يعمل. ثلاثة مسارات محتملة لعام ٢٠٢٧.",
+      "bigStat": {
+        "value": "93%",
+        "label": "Gemini Robotics benchmark",
+        "arabicLabel": "أداء جيميناي روبوتيكس"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "STEADY GROWTH"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "TAIWAN SHOCK"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "BUBBLE POP"
+        }
+      ],
+      "broll": "images/news/2026-04-17-ai-hundred-billion/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#4285F4"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Information",
+      "domain": "theinformation.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    }
+  ],
+  "arabicTicker": [
+    "أنثروبيك تصل إلى ٣٠ مليار دولار إيرادات سنوية — ثلاثة أضعاف الرقم قبل ٦ أشهر",
+    "ميتا توقّع صفقة حوسبة بـ ٣٥ مليار دولار مع CoreWeave لتأمين قدرة التدريب",
+    "ASML تُعلن طلبيات متراكمة بـ ٣٢.٧ مليار يورو — دورة الرقائق تتسارع حتى ٢٠٢٨",
+    "Gemini Robotics-ER 1.6 تحقق ٩٣٪ في مهام التحكم بالأذرع الآلية",
+    "تايوان تُنتج ٩٢٪ من رقائق الذكاء الاصطناعي المتقدمة في العالم — نقطة اختناق جيوسياسية",
+    "محللو وول ستريت يتوقعون وصول إيرادات الذكاء الاصطناعي إلى ١٠٠ مليار دولار سنوياً بحلول ٢٠٢٧",
+    "جيميناي ٣.١ برو تعيد ترتيب معايير الذكاء الاصطناعي — سباق المنصات يدخل مرحلة جديدة"
+  ],
+  "topicBucket": "tech_ai"
+}

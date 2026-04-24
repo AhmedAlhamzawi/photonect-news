@@ -1,0 +1,145 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "صدمة النفط",
+    "arabicHeadline": "برنت عند ٩٥ دولاراً — و٣ أيام تفصل العالم عن صدمة ١٥٠",
+    "englishSubhead": "OIL SHOCK • $95 → $150",
+    "heroMedia": "images/news/2026-04-18-oil-shock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يهبط من ١٤٤ إلى ٩٥ دولاراً — لكن هرمز لا يزال مغلقاً",
+      "arabicBody": "سعر برنت يتراجع إلى نحو ٩٤.٨٩ دولار بعد قمة ١٤٤ الأسبوع الماضي، مع عودة تدفق الخام عبر خط شرق–غرب السعودي بسعة ٧ ملايين برميل يومياً. لكن مضيق هرمز لا يزال مغلقاً فعلياً، وصادرات الخليج المقطوعة تتجاوز ١٠ ملايين برميل يومياً.",
+      "bigStat": {
+        "value": "$94.89",
+        "label": "Brent crude / barrel",
+        "arabicLabel": "دولار للبرميل — سعر برنت اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "قمة الأسبوع الماضي",
+          "value": "$144"
+        },
+        {
+          "label": "خط السعودية شرق–غرب",
+          "value": "7M BPD"
+        },
+        {
+          "label": "هرمز — تدفق الخام",
+          "value": "-90%"
+        },
+        {
+          "label": "الإمدادات المقطوعة",
+          "value": "10M BPD"
+        }
+      ],
+      "broll": "images/news/2026-04-18-oil-shock/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "من يدفع الفاتورة؟",
+      "arabicHeading": "المستهلك، الطيران، والأسواق الناشئة — الثلاثي الذي يحترق أولاً",
+      "arabicBody": "وقود الطائرات قفز ٣٤٪ في أسبوع، وأقساط تأمين الناقلات المتجهة لهرمز سجلت مليون دولار للرحلة. العراق خسر طريق التصدير الجنوبي وعاد لأنبوب كركوك–جيهان بـ٣٤٠ ألف برميل فقط يومياً مقابل ٣.٤ مليون طبيعياً — إنتاجه انهار إلى ١.٤ مليون برميل.",
+      "bigStat": {
+        "value": "$1M",
+        "label": "insurance / Hormuz voyage",
+        "arabicLabel": "دولار تأمين رحلة ناقلة واحدة إلى هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "وقود الطائرات — أسبوع",
+          "value": "+34%"
+        },
+        {
+          "label": "إنتاج العراق",
+          "value": "1.4M BPD"
+        },
+        {
+          "label": "كركوك–جيهان الآن",
+          "value": "340K BPD"
+        },
+        {
+          "label": "الأسواق الناشئة",
+          "value": "AT RISK"
+        }
+      ],
+      "broll": "images/news/2026-04-18-oil-shock/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "ماذا بعد ٢١ أبريل؟",
+      "arabicHeading": "٣ أيام للقرار — جولدمان ساكس يحذّر من سقف ١٣٠ دولاراً",
+      "arabicBody": "الأسواق تسعّر ٦٠٪ احتمال انهيار الهدنة في ٢١ أبريل. السيناريوهات الثلاثة: صمود الهدنة يعيد برنت إلى ٨٠ دولاراً، تمديد المفاوضات يثبّت السعر عند ١١٠، أو الانهيار يدفعه إلى ١٥٠. جولدمان ومورغان ستانلي يتوقعان متوسط ١٣٠ لنهاية الشهر إن فشل التمديد.",
+      "bigStat": {
+        "value": "60%",
+        "label": "odds ceasefire collapses",
+        "arabicLabel": "احتمال انهيار الهدنة (الأسواق)"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول — صمود",
+          "value": "$80"
+        },
+        {
+          "label": "السيناريو الثاني — تمديد",
+          "value": "$110"
+        },
+        {
+          "label": "السيناريو الثالث — انهيار",
+          "value": "$150"
+        },
+        {
+          "label": "توقع EIA لمتوسط ٢٠٢٦",
+          "value": "$96"
+        }
+      ],
+      "broll": "images/news/2026-04-18-oil-shock/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "mapOverlay": "hormuz"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "name": "U.S. EIA",
+      "domain": "eia.gov"
+    },
+    {
+      "name": "Goldman Sachs Research",
+      "domain": "goldmansachs.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يتراجع إلى ٩٤.٨٩ دولاراً بعد قمة ١٤٤ — هرمز لا يزال مغلقاً",
+    "السعودية تعيد تشغيل خط شرق–غرب بطاقة ٧ ملايين برميل يومياً",
+    "العراق يصدّر ٣٤٠ ألف برميل فقط عبر كركوك–جيهان بديلاً عن هرمز",
+    "أقساط تأمين الناقلات إلى هرمز تسجل مليون دولار للرحلة الواحدة",
+    "جولدمان ساكس: برنت قد يبلغ ١٣٠ دولاراً بنهاية الشهر إن فشل التمديد",
+    "الأسواق تسعّر ٦٠٪ احتمال انهيار الهدنة في ٢١ أبريل",
+    "EIA يرفع توقعه لمتوسط برنت في ٢٠٢٦ إلى ٩٦ دولاراً للبرميل"
+  ],
+  "topicBucket": "global_economy"
+}

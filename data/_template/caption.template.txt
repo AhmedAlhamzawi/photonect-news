@@ -1,0 +1,20 @@
+{{HOOK}} {{EMOJI}}
+
+{{EMOJI1}} {{PILLAR1}}
+
+{{EMOJI2}} {{PILLAR2}}
+
+{{EMOJI3}} {{PILLAR3}}
+
+{{EMOJI4}} ثلاثة سيناريوهات:
+١. {{SCENARIO1}}
+٢. {{SCENARIO2}}
+٣. {{SCENARIO3}}
+
+📍 المصادر: {{SRC1}} • {{SRC2}} • {{SRC3}} • {{SRC4}} • {{SRC5}} • {{SRC6}}
+
+━━━
+@photonect.news | أخبار العالم يومياً — بالعربية
+
+{{HASHTAGS_AR}} #photonectnews
+{{HASHTAGS_EN}} #BreakingNews

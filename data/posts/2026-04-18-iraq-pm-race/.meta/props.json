@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 18 • 2026",
+  "arabicDateLabel": "١٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "٤ مرشحين بلا فائز: ساعة بغداد تدقّ نحو أزمة دستورية",
+    "englishSubhead": "IRAQ • PM DEADLOCK",
+    "heroMedia": "images/news/2026-04-18-iraq-pm-race/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "فيتو المرجعية على السوداني — وترامب يُسقط المالكي بتهديد العقوبات",
+      "arabicBody": "بعد انتخاب نزار أميدي رئيساً للجمهورية في ١١ أبريل، أصدرت المرجعية الشيعية فيتو دينياً على ولاية ثانية للسوداني، فيما هدّد ترامب بعقوبات على بغداد إذا رُشّح المالكي. تبقى أسماء التسوية: العبادي، البدري، الشطري — والحسم غائب.",
+      "bigStat": {
+        "value": "4",
+        "label": "candidates, 0 winners",
+        "arabicLabel": "مرشحون في السباق بلا توافق"
+      },
+      "supportingStats": [
+        {
+          "label": "رئيس الجمهورية الجديد",
+          "value": "AMEDI 227"
+        },
+        {
+          "label": "السوداني",
+          "value": "MARJA'IYYA VETO"
+        },
+        {
+          "label": "المالكي",
+          "value": "TRUMP VETO"
+        },
+        {
+          "label": "أسماء التسوية",
+          "value": "ABADI / BADRI / SHATRI"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iraq-pm-race/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ظلام كهربائي وهرمز مقفل: بغداد تتفاوض تحت ضغط ثلاثي",
+      "arabicBody": "الغاز الإيراني هبط من ١٩ إلى ٥ ملايين م٣ يومياً فانهارت الشبكة، والصادرات النفطية تراجعت إلى ١.٤ مليون برميل بسبب هرمز بدل ٣.٤ مليون. السوداني يصرف ٦٠٠ مليار دينار شهرياً على قطاع بلا تحصيل، وكمائن الحشد على دبلوماسيين أميركيين تضع موعد سبتمبر ٢٠٢٦ على المحك.",
+      "bigStat": {
+        "value": "5M",
+        "label": "m³ Iranian gas (was 19M)",
+        "arabicLabel": "م٣ غاز إيراني يومياً فقط — كان ١٩ مليوناً"
+      },
+      "supportingStats": [
+        {
+          "label": "صادرات النفط",
+          "value": "1.4M BPD"
+        },
+        {
+          "label": "فاتورة الكهرباء الشهرية",
+          "value": "600B IQD"
+        },
+        {
+          "label": "الانسحاب الأميركي",
+          "value": "SEP 2026"
+        },
+        {
+          "label": "كمائن الحشد",
+          "value": "DIPLOMATS HIT"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iraq-pm-race/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات قبل ٢٦ أبريل — الدستور لا يرحم",
+      "arabicBody": "على أميدي تسمية رئيس حكومة خلال ١٥ يوماً من أدائه اليمين، أي قبل ٢٦ أبريل. الخيارات: مرشّح تسوية يمرّ بصفقة حشد–إطار، أو تصريف أعمال موسّع للسوداني يُفرغ الدستور، أو أزمة سياسية مفتوحة مع قانون موازنة معلّق وشارع متوتر.",
+      "bigStat": {
+        "value": "APR 26",
+        "label": "constitutional deadline",
+        "arabicLabel": "الموعد الدستوري لتسمية المكلّف"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "COMPROMISE PM"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "CARETAKER EXTENDED"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "POLITICAL CRISIS"
+        }
+      ],
+      "broll": "images/news/2026-04-18-iraq-pm-race/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "AP News",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Al-Monitor",
+      "domain": "al-monitor.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "المرجعية الشيعية تُصدر فيتو دينياً على ولاية ثانية لمحمد شياع السوداني",
+    "ترامب يهدّد بعقوبات على بغداد إذا رُشّح نوري المالكي — والإطار يبحث عن بديل",
+    "أسماء التسوية تبرز: حيدر العبادي، باسم البدري، حميد الشطري في سباق بلا حسم",
+    "الرئيس نزار أميدي أمام ١٥ يوماً دستورياً لتسمية مكلّف بتشكيل الحكومة",
+    "الغاز الإيراني يهبط إلى ٥ ملايين م٣ يومياً من ١٩ — الشبكة الكهربائية منهارة",
+    "صادرات النفط العراقية تتراجع إلى ١.٤ مليون برميل يومياً بسبب إغلاق هرمز",
+    "كمائن الحشد على دبلوماسيين أميركيين تضع موعد الانسحاب في سبتمبر ٢٠٢٦ على المحك"
+  ],
+  "topicBucket": "iraq_domestic"
+}

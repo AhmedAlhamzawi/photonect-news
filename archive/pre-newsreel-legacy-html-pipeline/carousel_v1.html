@@ -1,0 +1,1695 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photonect NEWS - Middle East 24h Recap</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --gold: #FFC217;
+    --dark: #2b2b2b;
+    --red: #D72638;
+    --red-dark: #B71C2C;
+    --white: #FFFFFF;
+    --light-gray: #F5F5F5;
+    --mid-gray: #E0E0E0;
+    --text-secondary: #888888;
+    --accent-blue: #1A73E8;
+  }
+
+  body {
+    background: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+    font-family: 'Cairo', 'Tajawal', sans-serif;
+  }
+
+  .slide-label {
+    color: #666;
+    font-family: monospace;
+    font-size: 14px;
+    margin-bottom: -30px;
+  }
+
+  .slide {
+    width: 1080px;
+    height: 1350px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+
+  /* ===== LOGO COMPONENT ===== */
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+  .logo-rect {
+    width: 24px;
+    height: 8px;
+    background: var(--red);
+    border-radius: 1px;
+  }
+  .logo-text {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    letter-spacing: 4px;
+    line-height: 1;
+    color: var(--white);
+  }
+  .logo-sub {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 6px;
+    color: var(--gold);
+    text-transform: uppercase;
+  }
+
+  .logo-dark .logo-text { color: var(--dark); }
+  .logo-dark .logo-sub { color: var(--red); }
+
+  /* ===== SLIDE 1: COVER ===== */
+  .slide-1 {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-1 .top-bar {
+    background: var(--red);
+    height: 6px;
+    width: 100%;
+  }
+  .slide-1 .header {
+    padding: 40px 60px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .slide-1 .date-badge {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 8px;
+    padding: 8px 20px;
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .slide-1 .live-dot {
+    width: 8px;
+    height: 8px;
+    background: var(--red);
+    border-radius: 50%;
+    animation: pulse 1.5s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .slide-1 .hero {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 60px;
+    text-align: center;
+  }
+  .slide-1 .hero-label {
+    color: var(--gold);
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+  }
+  .slide-1 .hero-title {
+    color: var(--white);
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 16px;
+  }
+  .slide-1 .hero-subtitle {
+    color: rgba(255,255,255,0.6);
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 50px;
+  }
+
+  .slide-1 .stats-row {
+    display: flex;
+    gap: 0;
+    width: 100%;
+    padding: 0 60px;
+  }
+  .slide-1 .stat-card {
+    flex: 1;
+    text-align: center;
+    padding: 30px 20px;
+    border-left: 1px solid rgba(255,255,255,0.1);
+  }
+  .slide-1 .stat-card:last-child {
+    border-left: none;
+  }
+  .slide-1 .stat-number {
+    font-size: 48px;
+    font-weight: 900;
+    color: var(--gold);
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .slide-1 .stat-number.red { color: var(--red); }
+  .slide-1 .stat-label {
+    font-size: 15px;
+    color: rgba(255,255,255,0.5);
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .slide-1 .bottom-strip {
+    background: var(--gold);
+    padding: 16px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .slide-1 .swipe-text {
+    color: var(--dark);
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .slide-1 .slide-count {
+    color: var(--dark);
+    font-size: 14px;
+    font-weight: 700;
+    opacity: 0.6;
+  }
+
+  /* ===== SLIDE 2: HORMUZ ===== */
+  .slide-2 {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-2 .top-section {
+    background: var(--red);
+    padding: 40px 60px 50px;
+    position: relative;
+  }
+  .slide-2 .top-section .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .slide-2 .section-tag {
+    background: rgba(0,0,0,0.3);
+    color: var(--white);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-2 .page-num {
+    color: rgba(255,255,255,0.6);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-2 .section-title {
+    color: var(--white);
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+  .slide-2 .section-subtitle {
+    color: rgba(255,255,255,0.8);
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .slide-2 .content {
+    flex: 1;
+    padding: 50px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .deadline-box {
+    background: rgba(215, 38, 56, 0.15);
+    border: 2px solid var(--red);
+    border-radius: 16px;
+    padding: 30px;
+    text-align: center;
+  }
+  .deadline-box .label {
+    color: var(--red);
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+  }
+  .deadline-box .time {
+    color: var(--white);
+    font-size: 42px;
+    font-weight: 900;
+    margin-bottom: 8px;
+  }
+  .deadline-box .time span {
+    color: var(--gold);
+  }
+  .deadline-box .desc {
+    color: rgba(255,255,255,0.6);
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .oil-prices {
+    display: flex;
+    gap: 20px;
+  }
+  .oil-card {
+    flex: 1;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+  }
+  .oil-card .oil-label {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .oil-card .oil-price {
+    color: var(--gold);
+    font-size: 36px;
+    font-weight: 900;
+  }
+  .oil-card .oil-change {
+    color: var(--red);
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 4px;
+  }
+  .oil-card .oil-change.up { color: #4CAF50; }
+
+  .info-bullets {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .info-bullet {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 20px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 12px;
+    border-right: 4px solid var(--gold);
+  }
+  .info-bullet .bullet-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--gold);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+    color: var(--dark);
+    font-weight: 900;
+  }
+  .info-bullet .bullet-text {
+    color: rgba(255,255,255,0.85);
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+  .info-bullet .bullet-text strong {
+    color: var(--white);
+    font-weight: 800;
+  }
+
+  .slide-2 .bottom-bar {
+    background: rgba(255,194,23,0.1);
+    border-top: 1px solid rgba(255,194,23,0.3);
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .slide-2 .bottom-bar .fact {
+    color: var(--gold);
+    font-size: 15px;
+    font-weight: 700;
+  }
+
+  /* ===== SLIDE 3: LEBANON ===== */
+  .slide-3 {
+    background: var(--white);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-3 .top-section {
+    background: var(--dark);
+    padding: 40px 60px 50px;
+  }
+  .slide-3 .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .slide-3 .section-tag {
+    background: var(--red);
+    color: var(--white);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-3 .page-num {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-3 .section-title {
+    color: var(--white);
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+  .slide-3 .section-subtitle {
+    color: var(--gold);
+    font-size: 18px;
+    font-weight: 700;
+  }
+
+  .slide-3 .content {
+    flex: 1;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .stat-block {
+    background: var(--light-gray);
+    border-radius: 16px;
+    padding: 28px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .stat-block::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 4px;
+  }
+  .stat-block.red::before { background: var(--red); }
+  .stat-block.gold::before { background: var(--gold); }
+  .stat-block.dark::before { background: var(--dark); }
+
+  .stat-block .stat-num {
+    font-size: 52px;
+    font-weight: 900;
+    color: var(--dark);
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-block .stat-num.red-text { color: var(--red); }
+  .stat-block .stat-unit {
+    font-size: 14px;
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+  .stat-block .stat-desc {
+    font-size: 16px;
+    color: var(--dark);
+    font-weight: 700;
+    margin-top: 4px;
+  }
+
+  .timeline-compact {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 20px 0;
+  }
+  .timeline-item {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    padding: 16px 20px;
+    background: var(--light-gray);
+    border-radius: 12px;
+    border-right: 4px solid var(--red);
+  }
+  .timeline-item .t-date {
+    background: var(--dark);
+    color: var(--white);
+    padding: 6px 14px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 700;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .timeline-item .t-text {
+    color: var(--dark);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .slide-3 .bottom-bar {
+    background: var(--dark);
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* ===== SLIDE 4: GAZA ===== */
+  .slide-4 {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-4 .top-section {
+    padding: 40px 60px 0;
+  }
+  .slide-4 .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .slide-4 .section-tag {
+    background: var(--red);
+    color: var(--white);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-4 .page-num {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-4 .section-title {
+    color: var(--white);
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  .slide-4 .section-subtitle {
+    color: var(--gold);
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+
+  .big-number-section {
+    background: rgba(215, 38, 56, 0.15);
+    border: 1px solid rgba(215, 38, 56, 0.3);
+    border-radius: 20px;
+    padding: 40px;
+    margin: 0 60px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .big-number-section .big-num {
+    font-size: 80px;
+    font-weight: 900;
+    color: var(--red);
+    line-height: 1;
+  }
+  .big-number-section .big-label {
+    font-size: 18px;
+    color: rgba(255,255,255,0.6);
+    font-weight: 600;
+    margin-top: 8px;
+  }
+  .big-number-section .big-sub {
+    font-size: 14px;
+    color: rgba(255,255,255,0.35);
+    font-weight: 500;
+    margin-top: 4px;
+  }
+
+  .sub-stats {
+    display: flex;
+    gap: 16px;
+    padding: 0 60px;
+    margin-bottom: 24px;
+  }
+  .sub-stat {
+    flex: 1;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 14px;
+    padding: 22px;
+    text-align: center;
+  }
+  .sub-stat .ss-num {
+    font-size: 32px;
+    font-weight: 900;
+    color: var(--gold);
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .sub-stat .ss-label {
+    font-size: 13px;
+    color: rgba(255,255,255,0.5);
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .ceasefire-status {
+    margin: 0 60px;
+    padding: 24px 30px;
+    background: rgba(255,194,23,0.1);
+    border: 1px solid rgba(255,194,23,0.3);
+    border-radius: 14px;
+    margin-bottom: 20px;
+  }
+  .ceasefire-status .cs-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .ceasefire-status .cs-dot {
+    width: 12px;
+    height: 12px;
+    background: var(--gold);
+    border-radius: 50%;
+  }
+  .ceasefire-status .cs-title {
+    color: var(--gold);
+    font-size: 18px;
+    font-weight: 800;
+  }
+  .ceasefire-status .cs-text {
+    color: rgba(255,255,255,0.7);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.7;
+  }
+
+  .slide-4 .disarm-box {
+    margin: 0 60px;
+    padding: 24px 30px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 14px;
+    border-right: 4px solid var(--red);
+  }
+  .disarm-box .db-title {
+    color: var(--red);
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 8px;
+  }
+  .disarm-box .db-text {
+    color: rgba(255,255,255,0.7);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+
+  .slide-4 .bottom-bar {
+    margin-top: auto;
+    background: var(--red);
+    padding: 18px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* ===== SLIDE 5: IRAN WAR ===== */
+  .slide-5 {
+    background: #1a1a1a;
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-5 .top-section {
+    background: linear-gradient(135deg, var(--dark) 0%, #3a3a3a 100%);
+    padding: 40px 60px 50px;
+  }
+  .slide-5 .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  .slide-5 .section-tag {
+    background: var(--red);
+    color: var(--white);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-5 .page-num {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-5 .section-title {
+    color: var(--white);
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+  .slide-5 .section-subtitle {
+    color: var(--gold);
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .slide-5 .content {
+    flex: 1;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .timeline-vertical {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .timeline-vertical::before {
+    content: '';
+    position: absolute;
+    right: 70px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom, var(--red), var(--gold));
+  }
+  .tv-item {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    padding: 18px 0;
+    position: relative;
+  }
+  .tv-item .tv-date-col {
+    width: 120px;
+    text-align: left;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .tv-item .tv-date-col::after {
+    content: '';
+    position: absolute;
+    left: -32px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    background: var(--red);
+    border-radius: 50%;
+    border: 3px solid var(--dark);
+  }
+  .tv-item .tv-date {
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--gold);
+  }
+  .tv-item .tv-content {
+    flex: 1;
+    background: rgba(255,255,255,0.05);
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-right: 3px solid var(--red);
+  }
+  .tv-item .tv-title {
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 4px;
+  }
+  .tv-item .tv-desc {
+    color: rgba(255,255,255,0.6);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  .slide-5 .bottom-bar {
+    background: var(--red);
+    padding: 18px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* ===== SLIDE 6: WEST BANK ===== */
+  .slide-6 {
+    background: var(--white);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-6 .top-section {
+    background: var(--dark);
+    padding: 40px 60px 50px;
+  }
+  .slide-6 .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  .slide-6 .section-tag {
+    background: var(--gold);
+    color: var(--dark);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-6 .page-num {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-6 .section-title {
+    color: var(--white);
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+  .slide-6 .section-subtitle {
+    color: var(--gold);
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .slide-6 .content {
+    flex: 1;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .comparison-row {
+    display: flex;
+    gap: 16px;
+  }
+  .comparison-card {
+    flex: 1;
+    background: var(--light-gray);
+    border-radius: 16px;
+    padding: 28px;
+    text-align: center;
+    position: relative;
+  }
+  .comparison-card .cc-year {
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--text-secondary);
+    margin-bottom: 10px;
+  }
+  .comparison-card .cc-num {
+    font-size: 44px;
+    font-weight: 900;
+    color: var(--dark);
+    line-height: 1;
+  }
+  .comparison-card .cc-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-top: 6px;
+  }
+  .comparison-card.highlight {
+    background: var(--red);
+  }
+  .comparison-card.highlight .cc-year,
+  .comparison-card.highlight .cc-label { color: rgba(255,255,255,0.7); }
+  .comparison-card.highlight .cc-num { color: var(--white); }
+
+  .comparison-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    color: var(--red);
+    font-weight: 900;
+  }
+
+  .fact-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .fact-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 22px 24px;
+    background: var(--light-gray);
+    border-radius: 14px;
+    border-right: 4px solid var(--red);
+  }
+  .fact-card .fc-num {
+    font-size: 36px;
+    font-weight: 900;
+    color: var(--red);
+    min-width: 100px;
+    text-align: center;
+  }
+  .fact-card .fc-text {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--dark);
+    line-height: 1.5;
+  }
+
+  .slide-6 .bottom-bar {
+    background: var(--dark);
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* ===== SLIDE 7: GLOBAL IMPACT ===== */
+  .slide-7 {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-7 .top-section {
+    background: linear-gradient(135deg, #1a1a1a 0%, var(--dark) 100%);
+    padding: 40px 60px 50px;
+  }
+  .slide-7 .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  .slide-7 .section-tag {
+    background: var(--gold);
+    color: var(--dark);
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .slide-7 .page-num {
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .slide-7 .section-title {
+    color: var(--white);
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+  .slide-7 .section-subtitle {
+    color: var(--gold);
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .slide-7 .content {
+    flex: 1;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .impact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .impact-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+  }
+  .impact-card .ic-icon {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  .impact-card .ic-num {
+    font-size: 36px;
+    font-weight: 900;
+    color: var(--gold);
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .impact-card .ic-label {
+    font-size: 14px;
+    color: rgba(255,255,255,0.5);
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .whats-next {
+    background: rgba(255,194,23,0.1);
+    border: 1px solid rgba(255,194,23,0.3);
+    border-radius: 16px;
+    padding: 30px;
+  }
+  .whats-next .wn-title {
+    color: var(--gold);
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 16px;
+  }
+  .wn-items {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .wn-item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .wn-item .wn-bullet {
+    width: 8px;
+    height: 8px;
+    background: var(--gold);
+    border-radius: 50%;
+    margin-top: 8px;
+    flex-shrink: 0;
+  }
+  .wn-item .wn-text {
+    color: rgba(255,255,255,0.75);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+
+  .slide-7 .bottom-bar {
+    background: var(--gold);
+    padding: 18px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .slide-7 .bottom-bar .next-text {
+    color: var(--dark);
+    font-size: 15px;
+    font-weight: 700;
+  }
+
+  /* ===== SLIDE 8: SOURCES ===== */
+  .slide-8 {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-8 .top-section {
+    padding: 40px 60px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .slide-8 .sources-title {
+    color: var(--white);
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 8px;
+  }
+  .slide-8 .sources-subtitle {
+    color: rgba(255,255,255,0.5);
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .slide-8 .content {
+    flex: 1;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .source-item {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    padding: 16px 20px;
+    background: rgba(255,255,255,0.04);
+    border-radius: 12px;
+    border-right: 3px solid var(--gold);
+  }
+  .source-item .s-num {
+    background: var(--gold);
+    color: var(--dark);
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 800;
+    flex-shrink: 0;
+  }
+  .source-item .s-name {
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .source-item .s-url {
+    color: rgba(255,255,255,0.35);
+    font-size: 12px;
+    font-weight: 500;
+    direction: ltr;
+  }
+
+  .slide-8 .bottom-section {
+    padding: 40px 60px;
+    text-align: center;
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+  .slide-8 .follow-text {
+    color: rgba(255,255,255,0.5);
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 6px;
+  }
+  .slide-8 .handle {
+    color: var(--gold);
+    font-size: 22px;
+    font-weight: 800;
+    direction: ltr;
+  }
+  .slide-8 .tagline {
+    color: rgba(255,255,255,0.3);
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ==================== SLIDE 1: COVER ==================== -->
+<div class="slide-label">Slide 1 / 8 — Cover</div>
+<div class="slide slide-1">
+  <div class="top-bar"></div>
+  <div class="header">
+    <div class="date-badge">
+      <div class="live-dot"></div>
+      ٧ أبريل ٢٠٢٦
+    </div>
+    <div class="logo">
+      <div class="logo-rect"></div>
+      <div class="logo-text">PHOTONECT</div>
+      <div class="logo-sub">NEWS</div>
+    </div>
+  </div>
+
+  <div class="hero">
+    <div class="hero-label">ملخص ٢٤ ساعة</div>
+    <div class="hero-title">الشرق الأوسط الآن</div>
+    <div class="hero-subtitle">غزة | لبنان | إيران | الضفة الغربية</div>
+  </div>
+
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-number red">+٧٢,٣٠٠</div>
+      <div class="stat-label">شهيد في غزة<br>منذ أكتوبر ٢٠٢٣</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number" style="color: var(--gold);">١.٢M</div>
+      <div class="stat-label">نازح في لبنان<br>منذ ٢ مارس</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number red">$١١٦</div>
+      <div class="stat-label">سعر برميل النفط<br>بسبب إغلاق هرمز</div>
+    </div>
+  </div>
+
+  <div class="bottom-strip">
+    <div class="swipe-text">
+      اسحب لقراءة التفاصيل
+      <span style="font-size: 22px;">&#8592;</span>
+    </div>
+    <div class="slide-count">١ / ٨</div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 2: STRAIT OF HORMUZ ==================== -->
+<div class="slide-label">Slide 2 / 8 — Strait of Hormuz</div>
+<div class="slide slide-2">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">عاجل</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num">٢ / ٨</div>
+    </div>
+    <div class="section-title">مضيق هرمز</div>
+    <div class="section-subtitle">مهلة ترامب تنتهي الليلة — والعالم يترقب</div>
+  </div>
+
+  <div class="content">
+    <div class="deadline-box">
+      <div class="label">الموعد النهائي</div>
+      <div class="time">الثلاثاء <span>٨:٠٠ مساءً</span> بتوقيت واشنطن</div>
+      <div class="desc">ترامب يهدد بتدمير محطات الكهرباء والجسور في إيران</div>
+    </div>
+
+    <div class="oil-prices">
+      <div class="oil-card">
+        <div class="oil-label">خام برنت</div>
+        <div class="oil-price">$١١٠</div>
+        <div class="oil-change up">+٠.٨١%</div>
+      </div>
+      <div class="oil-card">
+        <div class="oil-label">خام غرب تكساس</div>
+        <div class="oil-price">$١١٦</div>
+        <div class="oil-change up">+٣.٠%</div>
+      </div>
+    </div>
+
+    <div class="info-bullets">
+      <div class="info-bullet">
+        <div class="bullet-icon">١</div>
+        <div class="bullet-text"><strong>٢٠٪ من إمدادات النفط العالمية</strong> كانت تمر عبر المضيق قبل الحرب — أكبر انقطاع في تاريخ النفط</div>
+      </div>
+      <div class="info-bullet">
+        <div class="bullet-icon">٢</div>
+        <div class="bullet-text"><strong>إيران ترفض المقترح الأمريكي</strong> وتقدم خطة من ١٠ نقاط تشمل وقف دائم للأعمال العدائية ورفع العقوبات</div>
+      </div>
+      <div class="info-bullet">
+        <div class="bullet-icon">٣</div>
+        <div class="bullet-text"><strong>إيران تنفي</strong> إجراء أي مفاوضات مباشرة مع ترامب رغم تصريحاته بعكس ذلك</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="fact">٢٠٪ من النفط العالمي محتجز</div>
+    <div class="logo">
+      <div class="logo-rect"></div>
+      <div class="logo-text" style="font-size: 14px;">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 3: LEBANON ==================== -->
+<div class="slide-label">Slide 3 / 8 — Lebanon</div>
+<div class="slide slide-3">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">لبنان</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num" style="color: rgba(255,255,255,0.5);">٣ / ٨</div>
+    </div>
+    <div class="section-title">الحرب على لبنان</div>
+    <div class="section-subtitle">منذ ٢ مارس ٢٠٢٦ — ٣٦ يوماً</div>
+  </div>
+
+  <div class="content">
+    <div class="stats-grid">
+      <div class="stat-block red">
+        <div class="stat-num red-text">+١,٤٠٠</div>
+        <div class="stat-desc">قتيل</div>
+        <div class="stat-unit">مدنيين ومقاتلين</div>
+      </div>
+      <div class="stat-block gold">
+        <div class="stat-num">١.٢M</div>
+        <div class="stat-desc">نازح</div>
+        <div class="stat-unit">٢٠٪ من سكان لبنان</div>
+      </div>
+      <div class="stat-block red">
+        <div class="stat-num red-text">١٢٦</div>
+        <div class="stat-desc">طفل قُتل</div>
+        <div class="stat-unit">وفق السلطات اللبنانية</div>
+      </div>
+      <div class="stat-block dark">
+        <div class="stat-num">١/١٠</div>
+        <div class="stat-desc">من مساحة لبنان</div>
+        <div class="stat-unit">خطة احتلال المنطقة الأمنية</div>
+      </div>
+    </div>
+
+    <div class="timeline-compact">
+      <div class="timeline-item">
+        <div class="t-date">١ أبريل</div>
+        <div class="t-text">غارة إسرائيلية على بيروت تقتل قائداً بارزاً في حزب الله</div>
+      </div>
+      <div class="timeline-item">
+        <div class="t-date">٤ أبريل</div>
+        <div class="t-text">غارات تلحق أضراراً بمستشفى في صور جنوب لبنان</div>
+      </div>
+      <div class="timeline-item">
+        <div class="t-date">٥ أبريل</div>
+        <div class="t-text">١٤ قتيلاً في غارات إسرائيلية متفرقة على لبنان</div>
+      </div>
+      <div class="timeline-item">
+        <div class="t-date">٦ أبريل</div>
+        <div class="t-text">تدمير بلدات في الجنوب واستهداف مناطق "آمنة" حول بيروت</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div style="color: var(--gold); font-size: 14px; font-weight: 700;">٦٠٠ ألف ممنوعون من العودة لمنازلهم</div>
+    <div class="logo logo-dark" style="display: flex; flex-direction: column; align-items: center; gap: 2px;">
+      <div class="logo-rect"></div>
+      <div class="logo-text" style="font-size: 14px; color: white;">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 4: GAZA ==================== -->
+<div class="slide-label">Slide 4 / 8 — Gaza</div>
+<div class="slide slide-4">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">غزة</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num">٤ / ٨</div>
+    </div>
+    <div class="section-title">غزة — هدنة هشّة</div>
+    <div class="section-subtitle">وقف إطلاق النار لم يوقف القتل</div>
+  </div>
+
+  <div class="big-number-section">
+    <div class="big-num">٧٢,٣٠٢+</div>
+    <div class="big-label">شهيد منذ ٧ أكتوبر ٢٠٢٣</div>
+    <div class="big-sub">وفق وزارة الصحة — التقديرات المستقلة تتجاوز ١٠٠,٠٠٠</div>
+  </div>
+
+  <div class="sub-stats">
+    <div class="sub-stat">
+      <div class="ss-num">٧١٦+</div>
+      <div class="ss-label">قُتلوا منذ بدء<br>وقف إطلاق النار</div>
+    </div>
+    <div class="sub-stat">
+      <div class="ss-num">١,٩٩٠</div>
+      <div class="ss-label">أصيبوا منذ<br>أكتوبر ٢٠٢٥</div>
+    </div>
+    <div class="sub-stat">
+      <div class="ss-num">١٣</div>
+      <div class="ss-label">قُتلوا خلال أسبوع<br>١٧-٢٥ مارس فقط</div>
+    </div>
+  </div>
+
+  <div class="ceasefire-status">
+    <div class="cs-header">
+      <div class="cs-dot"></div>
+      <div class="cs-title">المرحلة الثانية من الهدنة</div>
+    </div>
+    <div class="cs-text">
+      حكومة تكنوقراط انتقالية بقيادة علي شعث تحت إشراف "مجلس السلام" الدولي برئاسة ترامب. مصر وتركيا وقطر ترحب بالتشكيل.
+    </div>
+  </div>
+
+  <div class="disarm-box">
+    <div class="db-title">نقطة الخلاف: نزع سلاح حماس</div>
+    <div class="db-text">الجناح العسكري لحماس يرفض مناقشة نزع السلاح قبل تنفيذ إسرائيل للمرحلة الأولى بالكامل. إسرائيل أغلقت جميع المعابر بعد حرب إيران ثم أعادت فتح كرم أبو سالم فقط.</div>
+  </div>
+
+  <div class="bottom-bar">
+    <div style="color: var(--white); font-size: 14px; font-weight: 700;">كرم أبو سالم — المعبر الوحيد المفتوح</div>
+    <div class="logo">
+      <div class="logo-rect" style="background: white;"></div>
+      <div class="logo-text" style="font-size: 14px;">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 5: IRAN WAR TIMELINE ==================== -->
+<div class="slide-label">Slide 5 / 8 — Iran War Timeline</div>
+<div class="slide slide-5">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">إيران</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num">٥ / ٨</div>
+    </div>
+    <div class="section-title">حرب إيران ٢٠٢٦</div>
+    <div class="section-subtitle">٣٨ يوماً غيّرت الشرق الأوسط</div>
+  </div>
+
+  <div class="content">
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div style="background: var(--red); color: white; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; white-space: nowrap; min-width: 100px; text-align: center;">٢٨ فبراير</div>
+        <div style="flex: 1; background: rgba(255,255,255,0.05); border-radius: 12px; padding: 18px 22px; border-right: 4px solid var(--red);">
+          <div style="color: var(--white); font-size: 17px; font-weight: 800; margin-bottom: 6px;">الضربة الأولى</div>
+          <div style="color: rgba(255,255,255,0.6); font-size: 15px; font-weight: 500; line-height: 1.6;">غارات أمريكية-إسرائيلية مفاجئة على مواقع إيرانية. اغتيال المرشد الأعلى علي خامنئي ومسؤولين كبار</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div style="background: var(--gold); color: var(--dark); padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; white-space: nowrap; min-width: 100px; text-align: center;">١ مارس</div>
+        <div style="flex: 1; background: rgba(255,255,255,0.05); border-radius: 12px; padding: 18px 22px; border-right: 4px solid var(--gold);">
+          <div style="color: var(--white); font-size: 17px; font-weight: 800; margin-bottom: 6px;">الرد الإيراني</div>
+          <div style="color: rgba(255,255,255,0.6); font-size: 15px; font-weight: 500; line-height: 1.6;">صواريخ ومسيّرات على إسرائيل وقواعد أمريكية. إغلاق مضيق هرمز. مقتل ٧ قادة أمنيين إيرانيين</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div style="background: rgba(255,255,255,0.1); color: white; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; white-space: nowrap; min-width: 100px; text-align: center;">٢ مارس</div>
+        <div style="flex: 1; background: rgba(255,255,255,0.05); border-radius: 12px; padding: 18px 22px; border-right: 4px solid rgba(255,255,255,0.3);">
+          <div style="color: var(--white); font-size: 17px; font-weight: 800; margin-bottom: 6px;">حزب الله يدخل الحرب</div>
+          <div style="color: rgba(255,255,255,0.6); font-size: 15px; font-weight: 500; line-height: 1.6;">صواريخ حزب الله على إسرائيل دعماً لإيران. إسرائيل تبدأ قصف لبنان واجتياح بري</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div style="background: rgba(255,255,255,0.1); color: white; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; white-space: nowrap; min-width: 100px; text-align: center;">٨ مارس</div>
+        <div style="flex: 1; background: rgba(255,255,255,0.05); border-radius: 12px; padding: 18px 22px; border-right: 4px solid rgba(255,255,255,0.3);">
+          <div style="color: var(--white); font-size: 17px; font-weight: 800; margin-bottom: 6px;">مرشد أعلى جديد</div>
+          <div style="color: rgba(255,255,255,0.6); font-size: 15px; font-weight: 500; line-height: 1.6;">انتخاب مجتبى خامنئي خلفاً لوالده. الحرس الثوري يبايع القيادة الجديدة</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div style="background: var(--red); color: white; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; white-space: nowrap; min-width: 100px; text-align: center;">٧ أبريل</div>
+        <div style="flex: 1; background: rgba(215,38,56,0.15); border: 1px solid rgba(215,38,56,0.3); border-radius: 12px; padding: 18px 22px; border-right: 4px solid var(--red);">
+          <div style="color: var(--red); font-size: 17px; font-weight: 800; margin-bottom: 6px;">اليوم — الموعد النهائي</div>
+          <div style="color: rgba(255,255,255,0.6); font-size: 15px; font-weight: 500; line-height: 1.6;">مهلة ترامب لإيران بفتح المضيق تنتهي الليلة. إيران تقدم خطة بديلة من ١٠ نقاط</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div style="color: var(--white); font-size: 14px; font-weight: 700;">٣٨ يوماً من التصعيد المتواصل</div>
+    <div class="logo">
+      <div class="logo-rect" style="background: white;"></div>
+      <div class="logo-text" style="font-size: 14px;">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 6: WEST BANK ==================== -->
+<div class="slide-label">Slide 6 / 8 — West Bank</div>
+<div class="slide slide-6">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">الضفة الغربية</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num" style="color: rgba(255,255,255,0.5);">٦ / ٨</div>
+    </div>
+    <div class="section-title">الأزمة الصامتة</div>
+    <div class="section-subtitle">عنف المستوطنين يتصاعد بأرقام غير مسبوقة</div>
+  </div>
+
+  <div class="content">
+    <div style="text-align: center; margin-bottom: 10px;">
+      <div style="color: var(--text-secondary); font-size: 16px; font-weight: 700; margin-bottom: 16px;">المعدل الشهري لإصابات الفلسطينيين في هجمات المستوطنين</div>
+    </div>
+
+    <div class="comparison-row">
+      <div class="comparison-card">
+        <div class="cc-year">٢٠٢٤</div>
+        <div class="cc-num">٣٠</div>
+        <div class="cc-label">مصاب شهرياً</div>
+      </div>
+      <div class="comparison-arrow">&#8592;</div>
+      <div class="comparison-card">
+        <div class="cc-year">٢٠٢٥</div>
+        <div class="cc-num">٦٩</div>
+        <div class="cc-label">مصاب شهرياً</div>
+      </div>
+      <div class="comparison-arrow">&#8592;</div>
+      <div class="comparison-card highlight">
+        <div class="cc-year">٢٠٢٦</div>
+        <div class="cc-num">١٠٥</div>
+        <div class="cc-label">مصاب شهرياً</div>
+      </div>
+    </div>
+
+    <div style="text-align: center; padding: 16px; background: var(--light-gray); border-radius: 12px;">
+      <span style="color: var(--red); font-size: 20px; font-weight: 900;">+٢٥٠٪</span>
+      <span style="color: var(--dark); font-size: 16px; font-weight: 600;"> زيادة خلال عامين</span>
+    </div>
+
+    <div class="fact-cards">
+      <div class="fact-card">
+        <div class="fc-num">١,٦٩٧</div>
+        <div class="fc-text">فلسطيني مهجّر بسبب عنف المستوطنين في ٢٠٢٦ — تجاوز إجمالي ٢٠٢٥ بالكامل</div>
+      </div>
+      <div class="fact-card">
+        <div class="fc-num" style="font-size: 28px;">٦٠٠K+</div>
+        <div class="fc-text">ممنوعون من العودة لمنازلهم في المنطقة الأمنية المخطط لها في لبنان</div>
+      </div>
+    </div>
+
+    <div style="padding: 20px 24px; background: rgba(215,38,56,0.08); border-radius: 14px; border-right: 4px solid var(--red);">
+      <div style="color: var(--dark); font-size: 16px; font-weight: 600; line-height: 1.7;">
+        <strong style="color: var(--red);">مكتب الأمم المتحدة (OCHA):</strong> تصاعد العنف الاستيطاني يترافق مع توسع الاستيطان بوتيرة غير مسبوقة في ظل انشغال العالم بالحرب الإقليمية
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div style="color: var(--gold); font-size: 14px; font-weight: 700;">المصدر: مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية</div>
+    <div class="logo" style="display: flex; flex-direction: column; align-items: center; gap: 2px;">
+      <div class="logo-rect"></div>
+      <div class="logo-text" style="font-size: 14px; color: white;">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 7: GLOBAL IMPACT ==================== -->
+<div class="slide-label">Slide 7 / 8 — Global Impact</div>
+<div class="slide slide-7">
+  <div class="top-section">
+    <div class="nav-row">
+      <div class="section-tag">التأثير العالمي</div>
+      <div class="logo">
+        <div class="logo-rect"></div>
+        <div class="logo-text" style="font-size: 16px;">PHOTONECT</div>
+      </div>
+      <div class="page-num">٧ / ٨</div>
+    </div>
+    <div class="section-title">كيف يؤثر هذا عليك؟</div>
+    <div class="section-subtitle">الأرقام التي تهمّك</div>
+  </div>
+
+  <div class="content">
+    <div class="impact-grid">
+      <div class="impact-card">
+        <div class="ic-num" style="color: var(--red);">$١١٦</div>
+        <div class="ic-label">سعر برميل النفط الأمريكي<br>ارتفاع بأكثر من ٤٠٪ عن ما قبل الحرب</div>
+      </div>
+      <div class="impact-card">
+        <div class="ic-num">٢٠٪</div>
+        <div class="ic-label">من النفط العالمي<br>كان يمر عبر هرمز</div>
+      </div>
+      <div class="impact-card">
+        <div class="ic-num" style="color: var(--red);">٣+</div>
+        <div class="ic-label">دول في حالة حرب<br>إسرائيل، إيران، لبنان</div>
+      </div>
+      <div class="impact-card">
+        <div class="ic-num">٢.٢M+</div>
+        <div class="ic-label">نازح في المنطقة<br>غزة + لبنان</div>
+      </div>
+    </div>
+
+    <div class="whats-next">
+      <div class="wn-title">ما الذي نراقبه؟</div>
+      <div class="wn-items">
+        <div class="wn-item">
+          <div class="wn-bullet"></div>
+          <div class="wn-text"><strong style="color: white;">الليلة:</strong> هل ستفتح إيران مضيق هرمز قبل الموعد النهائي أم سيتصاعد الصراع؟</div>
+        </div>
+        <div class="wn-item">
+          <div class="wn-bullet"></div>
+          <div class="wn-text"><strong style="color: white;">هذا الأسبوع:</strong> جلسة مجلس الأمن المفتوحة حول فلسطين برئاسة البحرين</div>
+        </div>
+        <div class="wn-item">
+          <div class="wn-bullet"></div>
+          <div class="wn-text"><strong style="color: white;">الاجتياح البري:</strong> إسرائيل نشرت فرقة ثانية في جنوب لبنان — هل يتوسع؟</div>
+        </div>
+        <div class="wn-item">
+          <div class="wn-bullet"></div>
+          <div class="wn-text"><strong style="color: white;">غزة:</strong> مفاوضات المرحلة الثانية متعثرة. حماس تعلن عن ٢٠ رهينة للإفراج عنهم</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="next-text">الصفحة التالية: المصادر</div>
+    <div class="logo logo-dark" style="display: flex; flex-direction: column; align-items: center; gap: 2px;">
+      <div class="logo-rect" style="background: var(--dark);"></div>
+      <div class="logo-text" style="font-size: 14px; color: var(--dark);">PHOTONECT</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 8: SOURCES ==================== -->
+<div class="slide-label">Slide 8 / 8 — Sources</div>
+<div class="slide slide-8">
+  <div class="top-section">
+    <div class="logo" style="margin-bottom: 10px;">
+      <div class="logo-rect" style="width: 32px; height: 10px;"></div>
+      <div class="logo-text" style="font-size: 28px;">PHOTONECT</div>
+      <div class="logo-sub">NEWS</div>
+    </div>
+    <div class="sources-title">المصادر</div>
+    <div class="sources-subtitle">نحن لا نكذب — تحقق بنفسك</div>
+  </div>
+
+  <div class="content">
+    <div class="source-item">
+      <div class="s-num">١</div>
+      <div style="flex: 1;">
+        <div class="s-name">Al Jazeera — الجزيرة</div>
+        <div class="s-url">aljazeera.com/news</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٢</div>
+      <div style="flex: 1;">
+        <div class="s-name">Security Council Report</div>
+        <div class="s-url">securitycouncilreport.org</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٣</div>
+      <div style="flex: 1;">
+        <div class="s-name">CNBC — Oil Markets</div>
+        <div class="s-url">cnbc.com</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٤</div>
+      <div style="flex: 1;">
+        <div class="s-name">وكالة وفا الفلسطينية</div>
+        <div class="s-url">english.wafa.ps</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٥</div>
+      <div style="flex: 1;">
+        <div class="s-name">OCHA — مكتب تنسيق الشؤون الإنسانية</div>
+        <div class="s-url">ochaopt.org</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٦</div>
+      <div style="flex: 1;">
+        <div class="s-name">The Washington Post</div>
+        <div class="s-url">washingtonpost.com</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٧</div>
+      <div style="flex: 1;">
+        <div class="s-name">Wikipedia — Timeline & Casualties</div>
+        <div class="s-url">en.wikipedia.org</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٨</div>
+      <div style="flex: 1;">
+        <div class="s-name">Human Rights Watch</div>
+        <div class="s-url">hrw.org</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">٩</div>
+      <div style="flex: 1;">
+        <div class="s-name">PBS News</div>
+        <div class="s-url">pbs.org/newshour</div>
+      </div>
+    </div>
+    <div class="source-item">
+      <div class="s-num">١٠</div>
+      <div style="flex: 1;">
+        <div class="s-name">The Lancet Global Health</div>
+        <div class="s-url">thelancet.com</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-section">
+    <div class="logo" style="margin-bottom: 0;">
+      <div class="logo-rect" style="width: 28px; height: 9px;"></div>
+      <div class="logo-text" style="font-size: 22px;">PHOTONECT</div>
+      <div class="logo-sub">NEWS</div>
+    </div>
+    <div class="follow-text">تابعنا — الأخبار كل ساعتين</div>
+    <div class="handle">@PhotonectNEWS</div>
+    <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+  </div>
+</div>
+
+</body>
+</html>

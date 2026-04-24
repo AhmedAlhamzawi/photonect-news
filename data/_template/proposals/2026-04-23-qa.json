@@ -1,0 +1,93 @@
+{
+  "run": "run-7",
+  "date": "2026-04-23",
+  "timestamp": "2026-04-23T15:14:00+03:00",
+  "patches_evaluated": [
+    {
+      "id": "FIX-V7-001",
+      "file": "src/compositions/NewsReel/NewsReel.tsx",
+      "description": "audioVolume interpolation peak raised from 0.35 to 0.45",
+      "pass1_static": "PASS",
+      "pass1_notes": "tsc --noEmit exit 0; single-number change, no type implications",
+      "pass2_render": "PASS",
+      "pass2_notes": "ai-frontier-race 14.4 MB vs baseline 15.8 MB (-8.6%, within +/-25%). iran-day-50 66.9 MB vs baseline 82.8 MB (-19.2%, within +/-25%). Note: baselines updated to V6 rev2 values this run (see EXT-V7-001).",
+      "pass3_visual": "PASS",
+      "pass3_notes": "8/8 frames above luminance floors. ai-frontier-race: hero=92.2 (floor 62) b1=62.9 (floor 40) b2=52.1 (floor 40) b3=64.5 (floor 40). iran-day-50: hero=100.1 b1=72.9 b2=105.4 b3=66.5. OCR: tesseract absent; grep fallback found 0 {{...}} literals.",
+      "pass4_regression": "PASS (pre-existing exception)",
+      "pass4_notes": "Apr-17 byte-identical. Apr-20 byte-identical. Apr-18 differs by 2 lines: iran-day-50 file size embed changed from 79M to file-size-at-generation-time because PASS 2 re-render overwrote the on-disk mp4 during QA. This is pre-existing (not caused by FIX-V7-001, FIX-V7-002, or FIX-V7-003). build-posting-plan.sh embeds current mp4 size at generation time.",
+      "decision": "MERGED",
+      "decision_rationale": "All passes green. audioVolume at 0.35 was a temporary conservative cap pending lavfi bed confirmation; beds confirmed at -24.8 to -26.7 dB mean RMS (V6 rev2 batch), +2 dB headroom at 0.45 is safe and improves audio presence."
+    },
+    {
+      "id": "FIX-V7-002",
+      "file": "generate-daily.sh",
+      "description": "Phase 1 validator: tech_ai posts must have at least one beat.supportingStat with a numeric value (any digit in value field)",
+      "pass1_static": "PASS",
+      "pass1_notes": "bash -n exit 0; python3 inline block syntax correct",
+      "pass2_render": "N/A",
+      "pass2_notes": "generate-daily.sh is a QA/render orchestrator, not a composition file. No mp4 output to size-check.",
+      "pass3_visual": "N/A",
+      "pass3_notes": "Script-only change; does not affect rendered frame content.",
+      "pass4_regression": "PASS",
+      "pass4_notes": "Apr-17, Apr-18, Apr-20 posting plans byte-identical (validation-only path change; does not affect plan generation).",
+      "decision": "MERGED",
+      "decision_rationale": "Additive validation. Matches Priority #7 from side-agent.prompt.md starting priorities. tech_ai credibility relies on numeric stats; this catches empty or textual-only stats before render time."
+    },
+    {
+      "id": "FIX-V7-003",
+      "file": "src/compositions/NewsReel/NewsReel.tsx",
+      "description": "pickAudioBed fallback updated from 'audio/news_bed.mp3' to 'audio/bed_anchor.mp3'",
+      "pass1_static": "PASS",
+      "pass1_notes": "tsc --noEmit exit 0",
+      "pass2_render": "PASS",
+      "pass2_notes": "Both sample slugs have explicit topicBucket; fallback not exercised. Size check passes (same renders as FIX-V7-001).",
+      "pass3_visual": "PASS",
+      "pass3_notes": "Fallback not exercised by canonical samples; luminance checks unaffected. Behaviorally: any post with unknown/missing topicBucket now gets a loudnorm'd anchor bed instead of the pre-v6 un-normalized news_bed.mp3.",
+      "pass4_regression": "PASS",
+      "pass4_notes": "Posting plans unaffected; audio bed selection does not appear in plan output.",
+      "decision": "MERGED",
+      "decision_rationale": "news_bed.mp3 was not in AVAILABLE_BEDS and was not loudnorm-normalised. Any slug with missing topicBucket or a new unmapped bucket would get inconsistent audio. bed_anchor.mp3 is always in AVAILABLE_BEDS and normalised."
+    }
+  ],
+  "extensions": [
+    {
+      "id": "EXT-V7-001",
+      "description": "Updated both canonical sample .baseline.json files to V6 rev2 render characteristics",
+      "files": [
+        "data/_template/samples/2026-04-18-ai-frontier-race/.baseline.json",
+        "data/_template/samples/2026-04-18-iran-day-50/.baseline.json"
+      ],
+      "rationale": "V6 rev2 (manual 2026-04-23 00:03) restored arabicBody and supportingStats to all Beat variants. Old baselines (ai-frontier-race: run-3-execute; iran-day-50: run-6-execute) reflected pre-V6-rev2 renders. New sizes: 14.4 MB (-8.6%) and 66.9 MB (-19.2%). Duration for both is now 34.0s. All luminance floors pass."
+    },
+    {
+      "id": "EXT-V7-002",
+      "description": "ENGINE.md §9 change log updated with V6 rev2 manual session entry and run-7 entry",
+      "files": ["data/_template/ENGINE.md"],
+      "rationale": "V6 rev2 was a major manual session (arabicBody restore, 12 new music beds, caption overhaul) that had no ENGINE.md changelog entry. Added both V6 rev2 (manual) and run-7 (this run) entries in the correct date order."
+    }
+  ],
+  "deferred": [
+    {
+      "id": "DEFER-V7-001",
+      "description": "Real royalty-free music library (Freesound CC0 / Pixabay Music) to replace lavfi synthesis",
+      "reason": "Synthesis beds confirmed distinct at -15.7 to -17.7 dB and unique MD5 fingerprints per V6 rev2 batch. Ahmed has not yet tested the raised 0.45 volume with the lavfi beds. Deferring real-library acquisition until Ahmed confirms the volume bump is sufficient or requests commercial-quality audio."
+    },
+    {
+      "id": "DEFER-V7-002",
+      "description": "Per-variant luminance calibration table (distinct floors per variant/slot type)",
+      "reason": "Current system (Variant B: top-50% crop; Variant A/C: full frame minus 21%) works and all V6 rev2 posts passed QA. The tightest margin observed was +9.6 on intentional dark evening tones. No actual failures. Deferring until a real failure surfaces."
+    },
+    {
+      "id": "DEFER-V7-003",
+      "description": "April 23 content generation (12 new story slugs + media hunt + renders)",
+      "reason": "Editorial content generation requires current news knowledge and human oversight. Engine Evolver mandate is engine improvement, not operational content generation. Ahmed should generate the Apr 23 slate in a manual session."
+    }
+  ],
+  "tool_availability": {
+    "ffmpeg": "PASS",
+    "ffprobe": "PASS",
+    "python3_Pillow": "PASS",
+    "tesseract": "ABSENT (grep fallback active for placeholder scan)",
+    "npx_tsc": "PASS"
+  }
+}

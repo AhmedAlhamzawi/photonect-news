@@ -1,0 +1,59 @@
+{
+  "postId": "2026-04-17-flight-aftermath",
+  "renderedAt": "2026-04-17T13:55:00+03:00",
+  "composition": "NewsReel",
+  "durationSeconds": 30,
+  "resolution": "1080x1920",
+  "fps": 30,
+  "lead": "Global flight chaos ahead: +34% jet fuel spike, $140+ Brent, airlines trimming, IMF warns no subsidies",
+  "headlineArabic": "الحرب تُلغي رحلتك: أوروبا على حافة شلل طيران كامل",
+  "angle": "How the Hormuz blockade is cascading from the Gulf into European airport terminals — the consumer-impact angle",
+  "beats": [
+    {
+      "label": "what_is_happening",
+      "headline": "European airlines brace for jet fuel shortage and flight disruption",
+      "keyStat": "+34% jet fuel spike (1 week)",
+      "supporting": [
+        "Euro carriers trimming schedules",
+        "Shortage risk: HIGH",
+        "Thousands of flights affected",
+        "Next week decisive"
+      ]
+    },
+    {
+      "label": "why_it_matters",
+      "headline": "IMF warns governments not to shield consumers from price shock",
+      "keyStat": "Brent >$140/barrel",
+      "supporting": [
+        "IMF: no subsidies",
+        "Summer tourism at risk",
+        "Ticket prices doubling",
+        "Alternative shipping limited"
+      ]
+    },
+    {
+      "label": "what_next",
+      "headline": "One week decides the shape of global summer travel",
+      "keyStat": "7 days decisive",
+      "supporting": [
+        "Scenario 1: Partial Hormuz reopen",
+        "Scenario 2: Airline bankruptcies",
+        "Scenario 3: Caucasus/HoA reroute maps"
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "The American Prospect", "url": "https://prospect.org/economy/2026-04-16-aftermath-war-might-cancel-your-flight/", "headline": "Aftermath: How the War Might Cancel Your Flight", "publishedAt": "2026-04-16T09:30" },
+    { "name": "Times of India", "url": "https://timesofindia.indiatimes.com/business/india-business/why-are-oil-gas-prices-up-today-2026-04-16", "headline": "Why are oil and gas prices up today? Analyst outlook for Brent, WTI, Dutch & British gas", "publishedAt": "2026-04-16T10:29" },
+    { "name": "Foreign Policy", "url": "https://foreignpolicy.com/2026/04/14/europe-hormuz-fix/", "headline": "Europe Is Looking for Its Own Hormuz Fix", "publishedAt": "2026-04-14T18:13" },
+    { "name": "Fortune", "url": "https://fortune.com/2026/04/16/hormuz-peace-talks-cat-mouse-rogue-ships/", "headline": "Peace talks are back on while the U.S. plays cat-and-mouse with rogue ships in the Strait of Hormuz", "publishedAt": "2026-04-16T09:51" },
+    { "name": "Insurance Journal", "url": "https://www.insurancejournal.com/news/international/2026/04/16/us-iran-truce-extension-hormuz/", "headline": "US and Iran Weigh Truce Extension With Hormuz Still Shuttered", "publishedAt": "2026-04-16T10:19" },
+    { "name": "Reuters", "url": "https://www.reuters.com/business/aerospace-defense/european-airlines-brace-jet-fuel-squeeze-2026-04-16/", "headline": "European airlines brace for jet fuel squeeze as Hormuz stays shut", "publishedAt": "2026-04-16T10:00" }
+  ],
+  "assetsUsed": [
+    { "type": "video", "pexelsId": 36840856, "filename": "hero_airport.mp4", "used": "hero (bustling terminal at sunrise)" },
+    { "type": "video", "pexelsId": 34782548, "filename": "broll_departure.mp4", "used": "beat 1 (departure zone — schedules at risk)" },
+    { "type": "video", "pexelsId": 7895681, "filename": "broll_gas_station.mp4", "used": "beat 2 (fuel scarcity symbol)" },
+    { "type": "video", "pexelsId": 10961751, "filename": "broll_plane_landing.mp4", "used": "beat 3 (plane landing — future uncertain)" }
+  ]
+}

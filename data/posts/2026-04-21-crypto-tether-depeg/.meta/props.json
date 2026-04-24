@@ -1,0 +1,127 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "USDT يفكّ ربطه بالدولار: موجة سحب تاريخية",
+    "englishSubhead": "GLOBAL • USDT DEPEGS",
+    "heroQueries": [
+      "cryptocurrency trading floor screens red",
+      "bitcoin exchange crash graph",
+      "stablecoin market chart",
+      "crypto trader panic screens",
+      "digital currency symbols glowing"
+    ],
+    "heroMedia": "images/news/2026-04-21-crypto-tether-depeg/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الانفصال",
+      "arabicHeading": "USDT يهبط إلى ٨٧ سنتاً — أكبر انهيار في تاريخ العملات المستقرة",
+      "arabicBody": "انخفاض ١٣٪ خلال ساعتين — موجة بيع مسعورة.",
+      "bigStat": {
+        "value": "$0.87",
+        "label": "USDT low — 13% peg break",
+        "arabicLabel": "قاع USDT بعد كسر الربط بالدولار"
+      },
+      "supportingStats": [
+        {
+          "label": "الانخفاض من الدولار",
+          "value": "-13%"
+        },
+        {
+          "label": "مدة الانهيار",
+          "value": "2 HOURS"
+        }
+      ],
+      "broll": "images/news/2026-04-21-crypto-tether-depeg/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#39FF14"
+    },
+    {
+      "label": "الطابور",
+      "arabicHeading": "٢٣ مليار دولار في طابور الاسترداد — وتذر تحت ضغط غير مسبوق",
+      "arabicBody": "أكبر طلب سحب في تاريخ العملات الرقمية.",
+      "bigStat": {
+        "value": "$23B",
+        "label": "redemption queue in 24h",
+        "arabicLabel": "مليار دولار في طابور السحب خلال يوم"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة الاحتياطي",
+          "value": "82% LIQUID"
+        },
+        {
+          "label": "احتياطي السندات",
+          "value": "$68B"
+        }
+      ],
+      "broll": "images/news/2026-04-21-crypto-tether-depeg/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#39FF14"
+    },
+    {
+      "label": "العدوى",
+      "arabicHeading": "١٨ بورصة تعلّق السحب — بتكوين يسقط ٢٤٪ في ساعات",
+      "bigStat": {
+        "value": "18",
+        "label": "exchanges halt withdrawals",
+        "arabicLabel": "بورصة تعلّق عمليات السحب فوراً"
+      },
+      "supportingStats": [
+        {
+          "label": "بتكوين",
+          "value": "-24%"
+        },
+        {
+          "label": "إيثريوم",
+          "value": "-31%"
+        }
+      ],
+      "broll": "images/news/2026-04-21-crypto-tether-depeg/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#39FF14"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CoinDesk",
+      "domain": "coindesk.com"
+    },
+    {
+      "name": "The Block",
+      "domain": "theblock.co"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "CoinTelegraph",
+      "domain": "cointelegraph.com"
+    }
+  ],
+  "arabicTicker": [
+    "USDT يفكّ ربطه بالدولار ويهبط إلى ٨٧ سنتاً في أكبر انهيار للعملات المستقرة",
+    "موجة بيع مسعورة: ٢٣ مليار دولار في طابور الاسترداد خلال ٢٤ ساعة",
+    "تذر تعلن أن ٨٢٪ من احتياطياتها سائلة — لكن السوق لا يصدّق",
+    "١٨ بورصة كبرى تعلّق السحب بالدولار بما فيها بينانس وكوين بيس",
+    "بتكوين يسقط ٢٤٪ إلى ٥٤ ألف دولار — إيثريوم يخسر ٣١٪ في جلسة واحدة",
+    "لجنة الأوراق المالية الأميركية تعلن تحقيقاً فورياً في احتياطيات تذر",
+    "البنك المركزي الأوروبي يسارع بتمرير قانون MiCA 2 للطوارئ الأسبوع المقبل"
+  ],
+  "variant": "B",
+  "audioBed": "audio/news_bed_chase.mp3"
+}

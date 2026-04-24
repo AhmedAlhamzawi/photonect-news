@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/bed_fog.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "هرمز: الحرس الثوري يفرض ضماناً مليون دولار وإخطاراً ٤ ساعات",
+    "englishSubhead": "IRGC • HORMUZ PROTOCOL • $1M BOND • 4H NOTICE",
+    "heroQueries": [
+      "Strait of Hormuz aerial view",
+      "IRGC patrol boat Persian Gulf",
+      "oil tanker Gulf navigation",
+      "Bandar Abbas port Iran",
+      "Musandam peninsula Oman aerial"
+    ],
+    "heroMedia": "images/news/2026-04-22-strait-rules/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرسوم",
+      "arabicHeading": "بدء التطبيق الساعة صفر غرينتش — كل ناقلة تدفع مليون دولار",
+      "arabicBody": "الحرس الثوري الإيراني أعلن بروتوكول عبور جديد يبدأ من الساعة صفر غرينتش ويشترط ضماناً مالياً مليون دولار لكل ناقلة وإخطاراً مسبقاً بأربع ساعات قبل دخول المضيق",
+      "bigStat": {
+        "value": "$1M",
+        "label": "bond per tanker crossing",
+        "arabicLabel": "ضمان لكل ناقلة عابرة"
+      },
+      "supportingStats": [
+        {
+          "label": "إخطار مسبق",
+          "value": "4 س"
+        },
+        {
+          "label": "نفط عالمي",
+          "value": "19%"
+        },
+        {
+          "label": "ناقلات نشطة",
+          "value": "120"
+        }
+      ],
+      "broll": "images/news/2026-04-22-strait-rules/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    },
+    {
+      "label": "السوق",
+      "arabicHeading": "برنت يقفز ٤٪ — الرياض تعرض خصم ١٣.٤ دولار شرقاً",
+      "arabicBody": "الأسواق ردّت فوراً بقفزة أربعة بالمئة لبرنت بعد الإعلان الإيراني، فيما عرضت الشركة السعودية أرامكو خصم ثلاثة عشر دولاراً وأربعين سنتاً عبر خط شرق–غرب البديل",
+      "bigStat": {
+        "value": "+4%",
+        "label": "Brent spike in 12 minutes",
+        "arabicLabel": "ارتفاع برنت فوري"
+      },
+      "supportingStats": [
+        {
+          "label": "قفزة فورية",
+          "value": "$13.40"
+        },
+        {
+          "label": "خط بديل",
+          "value": "2.4M bpd"
+        },
+        {
+          "label": "ناقلات معادة",
+          "value": "38"
+        }
+      ],
+      "broll": "images/news/2026-04-22-strait-rules/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    },
+    {
+      "label": "الرد",
+      "arabicHeading": "البحرية الأميركية تعرض مرافقة، قطر وعمان تحكيم، أممية خميساً",
+      "arabicBody": "الأسطول الخامس أعلن استعداداً لمرافقة الناقلات، وعرضت الدوحة ومسقط التحكيم بين الأطراف، بينما تعقد الأمم المتحدة جلسة طارئة الخميس الساعة السابعة عشرة غرينتش للنظر في القرار الإيراني",
+      "bigStat": {
+        "value": "3",
+        "label": "counter-moves in motion",
+        "arabicLabel": "ردود دولية متحركة"
+      },
+      "supportingStats": [
+        {
+          "label": "مرافقة أميركية",
+          "value": "US 5th"
+        },
+        {
+          "label": "وساطة قطر عمان",
+          "value": "2"
+        },
+        {
+          "label": "جلسة أممية",
+          "value": "خميس 17:00"
+        }
+      ],
+      "broll": "images/news/2026-04-22-strait-rules/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Tasnim News",
+      "domain": "tasnimnews.com"
+    },
+    {
+      "name": "Fars News",
+      "domain": "farsnews.ir"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الحرس الثوري الإيراني يُعلن بروتوكول عبور جديد في هرمز يبدأ الساعة صفر غرينتش اليوم",
+    "ضمان مالي مليون دولار وإخطار مسبق أربع ساعات لكل ناقلة ترغب في عبور المضيق",
+    "تسعة عشر بالمئة من النفط العالمي يمر يومياً عبر هرمز — ١٢٠ ناقلة نشطة الآن",
+    "برنت يقفز أربعة بالمئة خلال اثنتي عشرة دقيقة بعد البيان الإيراني — أعلى قفزة منذ أسبوع",
+    "الرياض تعرض خصم ثلاثة عشر دولاراً وأربعين سنتاً لكل برميل عبر خط شرق غرب البديل",
+    "ثمانية وثلاثون ناقلة تعيد مسار رحلتها عبر مضيق باب المندب وقناة السويس بدلاً من هرمز",
+    "مجلس الأمن يعقد جلسة طارئة الخميس الخامسة مساء غرينتش بطلب أميركي بريطاني فرنسي مشترك"
+  ]
+}

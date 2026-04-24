@@ -1,0 +1,59 @@
+{
+  "postId": "2026-04-17-lebanon-ceasefire",
+  "renderedAt": "2026-04-17T13:50:00+03:00",
+  "composition": "NewsReel",
+  "durationSeconds": 30,
+  "resolution": "1080x1920",
+  "fps": 30,
+  "lead": "Lebanon–Israel ceasefire push: Netanyahu–Aoun Thursday call, 4 medics killed, 70 Hezbollah sites struck",
+  "headlineArabic": "الخميس الحاسم: نتنياهو يتّصل بعون بعد قصف عنيف لبنت جبيل",
+  "angle": "US-mediated Thursday call amid escalation in south Lebanon; buffer zone dispute is the sticking point",
+  "beats": [
+    {
+      "label": "what_is_happening",
+      "headline": "Israel hits 70 Hezbollah sites in Bint Jbeil overnight; 4 Lebanese medics killed",
+      "keyStat": "70 sites hit",
+      "supporting": [
+        "Bint Jbeil overnight operation",
+        "4 medics killed in successive strikes",
+        "Netanyahu–Aoun call set for Thursday",
+        "White House mediated"
+      ]
+    },
+    {
+      "label": "why_it_matters",
+      "headline": "Israel demands a buffer zone — Lebanon calls it occupation",
+      "keyStat": "1953 Lebanese killed since start of war",
+      "supporting": [
+        "Israel's core demand: BUFFER ZONE",
+        "Lebanese position: REJECTS",
+        "UN humanitarian alarm",
+        "Aid convoys blocked"
+      ]
+    },
+    {
+      "label": "what_next",
+      "headline": "Ceasefire could take effect this week — or collapse over buffer-zone dispute",
+      "keyStat": "This week decisive",
+      "supporting": [
+        "Scenario 1: Sign this week",
+        "Scenario 2: Talks extend",
+        "Scenario 3: Field escalation"
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "AP News", "url": "https://apnews.com/article/lebanon-israel-medics-strikes-2026-04-16", "headline": "Consecutive Israeli strikes kill 4 Lebanese medics as Israel-Hezbollah war grinds on", "publishedAt": "2026-04-16T08:52" },
+    { "name": "Al Jazeera English", "url": "https://www.aljazeera.com/news/2026/4/16/lebanon-israel-ceasefire-push-rising-toll", "headline": "Lebanon ceasefire push intensifies as civilian toll rises", "publishedAt": "2026-04-16T09:00" },
+    { "name": "New York Post", "url": "https://nypost.com/2026/04/16/world-news/trump-netanyahu-aoun-thursday/", "headline": "Trump says Israeli and Lebanese leaders will speak on Thursday", "publishedAt": "2026-04-16T10:33" },
+    { "name": "Reuters", "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-week-2026-04-16/", "headline": "Lebanon ceasefire could take effect this week, diplomatic sources say", "publishedAt": "2026-04-16T10:00" },
+    { "name": "BBC News", "url": "https://www.bbc.com/news/world-middle-east-2026-04-16", "headline": "Lebanon: Bint Jbeil strikes and buffer-zone dispute in focus", "publishedAt": "2026-04-16T09:30" },
+    { "name": "Israel National News", "url": "https://www.israelnationalnews.com/news/2026-04-16-bint-jbeil-operation", "headline": "IDF destroys 70 Hezbollah sites in rapid Bint Jbeil operation", "publishedAt": "2026-04-16T09:01" }
+  ],
+  "assetsUsed": [
+    { "type": "video", "pexelsId": 33434246, "filename": "hero_ambulance.mp4", "used": "hero (night emergency — urgency)" },
+    { "type": "video", "pexelsId": 33421808, "filename": "broll_rubble_aerial.mp4", "used": "beat 1 (Bint Jbeil strike aftermath)" },
+    { "type": "video", "pexelsId": 29094818, "filename": "broll_rescue.mp4", "used": "beat 2 (rescue operations — humanitarian)" },
+    { "type": "video", "pexelsId": 8731565, "filename": "broll_meeting.mp4", "used": "beat 3 (diplomacy — Thursday call)" }
+  ]
+}

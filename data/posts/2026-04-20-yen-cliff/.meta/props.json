@@ -1,0 +1,143 @@
+{
+  "dateLabel": "APR 20 • 2026",
+  "arabicDateLabel": "٢٠ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/news_bed.mp3",
+  "topicBucket": "global_economy",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الين يسقط: اختراق ١٧٨ مقابل الدولار لأول مرة منذ حقبة اتفاق بلازا ١٩٨٥",
+    "englishSubhead": "YEN CLIFF • 178 VS USD",
+    "heroQueries": [
+      "Bank of Japan headquarters Tokyo",
+      "Tokyo Stock Exchange trading floor",
+      "Japanese yen banknote 10000",
+      "Tokyo Nihonbashi financial district"
+    ],
+    "heroMedia": "images/news/2026-04-20-yen-cliff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بنك اليابان يحرق ٦٨ مليار دولار في ٤ ساعات — والنيكاي ينهار ٥٫٣٪",
+      "arabicBody": "الين كسر حاجز ١٧٨ مقابل الدولار في تداولات آسيا المبكرة، وهو مستوى لم يُرَ منذ حقبة اتفاق بلازا قبل أربعين عاماً. بنك اليابان تدخّل طارئاً ببيع ٦٨ مليار دولار من احتياطياته خلال أربع ساعات فقط. مؤشر النيكاي ٢٢٥ أغلق على خسارة ٥٫٣٪ — أسوأ جلسة منذ مارس ٢٠٢٠.",
+      "bigStat": {
+        "value": "178",
+        "label": "Yen per USD — first since 1985",
+        "arabicLabel": "ين مقابل الدولار — الأول منذ ١٩٨٥"
+      },
+      "supportingStats": [
+        {
+          "label": "تدخل بنك اليابان الطارئ",
+          "value": "$68B IN 4H"
+        },
+        {
+          "label": "إغلاق نيكاي ٢٢٥",
+          "value": "-5.3%"
+        },
+        {
+          "label": "المرجع التاريخي",
+          "value": "PLAZA 1985"
+        },
+        {
+          "label": "أسوأ جلسة منذ",
+          "value": "MAR 2020"
+        }
+      ],
+      "broll": "images/news/2026-04-20-yen-cliff/broll_1.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "انفكاك تجارة الحمل تسحب ليرة ورند وريال ٨٪ — ومؤشر الدولار عند ١٢١",
+      "arabicBody": "التمويل الرخيص بالين الذي غذّى الأسواق الناشئة لعقدين يُفكّ بعنف. الليرة التركية والراند الجنوب أفريقي والريال البرازيلي جميعها خسرت أكثر من ٨٪ في جلسة واحدة. مؤشر الدولار DXY اخترق ١٢١ — أعلى مستوى منذ عقدين. هذه التوقيع المالي الصافي لحرب على بُعد ١١ ألف كيلومتر.",
+      "bigStat": {
+        "value": "121",
+        "label": "DXY — two-decade high",
+        "arabicLabel": "مؤشر الدولار — أعلى مستوى منذ ٢٠ عاماً"
+      },
+      "supportingStats": [
+        {
+          "label": "الليرة التركية",
+          "value": "TRY -8.2%"
+        },
+        {
+          "label": "الراند الجنوب أفريقي",
+          "value": "ZAR -8.4%"
+        },
+        {
+          "label": "الريال البرازيلي",
+          "value": "BRL -8.1%"
+        },
+        {
+          "label": "عمر تجارة الحمل",
+          "value": "20 YEARS"
+        }
+      ],
+      "broll": "images/news/2026-04-20-yen-cliff/broll_2.jpg",
+      "brollType": "image"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "قرار الفيدرالي الأسبوع المقبل تحت ضغط غير مسبوق",
+      "arabicBody": "اجتماع الفيدرالي في ٢٨-٢٩ أبريل أصبح الحدث الذي يحبس العالم أنفاسه أمامه. ثلاث مسارات مفتوحة: خفض طارئ ٥٠ نقطة لتخفيف الضغط الدولاري، تثبيت وإعلان تنسيق مع مجموعة السبع، أو مفاجأة رفع عدائية إذا دفعت أسعار النفط التضخم الأمريكي صعوداً. كل خيار يغيّر شكل الأسواق.",
+      "bigStat": {
+        "value": "9d",
+        "label": "Until Fed decision day",
+        "arabicLabel": "أيام قبل قرار الفيدرالي"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "-50BPS CUT"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "G7 COORDINATION"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "HAWKISH SURPRISE"
+        }
+      ],
+      "broll": "images/news/2026-04-20-yen-cliff/broll_3.jpg",
+      "brollType": "image"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Nikkei Asia",
+      "domain": "asia.nikkei.com"
+    },
+    {
+      "name": "Kyodo News",
+      "domain": "english.kyodonews.net"
+    },
+    {
+      "name": "The Economist",
+      "domain": "economist.com"
+    }
+  ],
+  "arabicTicker": [
+    "الين يكسر حاجز ١٧٨ مقابل الدولار لأول مرة منذ حقبة اتفاق بلازا ١٩٨٥ قبل أربعين عاماً",
+    "بنك اليابان يحرق ٦٨ مليار دولار من احتياطياته خلال أربع ساعات في تدخل طارئ ضخم",
+    "مؤشر نيكاي ٢٢٥ يغلق على خسارة ٥٫٣٪ — أسوأ جلسة يابانية منذ مارس ٢٠٢٠",
+    "انفكاك تجارة الحمل يسحب الليرة والراند والريال ما يزيد على ٨٪ في جلسة واحدة",
+    "مؤشر الدولار DXY يخترق ١٢١ نقطة — أعلى مستوى منذ أكثر من عقدين متتاليين",
+    "الهروب إلى الدولار هو التوقيع المالي الصافي لحرب تدور على بُعد ١١ ألف كيلومتر",
+    "قرار الفيدرالي في ٢٨ أبريل تحت ضغط غير مسبوق — ثلاثة مسارات تهزّ الأسواق العالمية"
+  ]
+}

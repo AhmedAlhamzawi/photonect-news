@@ -1,0 +1,83 @@
+[
+  {
+    "id": "OBS-001",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "opportunity",
+    "title": "Bootstrap: samples/ directory populated with canonical baselines",
+    "description": "First run. Copied props.json + caption.txt + media-stamp.json for 2 canonical slugs and captured ffprobe + 4-frame luminance baselines into .baseline.json. PASS 2 and PASS 3 are now enabled for run 2.",
+    "decision": "executed",
+    "files_affected": [
+      "data/_template/samples/2026-04-18-iran-day-50/",
+      "data/_template/samples/2026-04-18-ai-frontier-race/"
+    ]
+  },
+  {
+    "id": "OBS-002",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "bug",
+    "title": "ai-frontier-race beat2 (t=14s) luminance L=25.55 — below L=40 floor",
+    "description": "Frame at t=14s of 2026-04-18-ai-frontier-race has mean luminance L=25.55 vs required minimum L=40 (delta=-14.45). This beat is potentially unreadable on mobile screens in bright ambient light. Baseline recorded as-is; run 2 should investigate whether this is caused by a dark overlay or a dark broll image, and apply a targeted fix.",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run — no patches merge this run. Investigate in run 2.",
+    "files_to_investigate": [
+      "src/NewsReel.tsx",
+      "data/posts/2026-04-18-ai-frontier-race/props.json"
+    ]
+  },
+  {
+    "id": "OBS-003",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "bug",
+    "title": "iran-day-50 beat3 (t=25s) luminance L=37.86 — marginally below L=40 floor",
+    "description": "Frame at t=25s of 2026-04-18-iran-day-50 has mean luminance L=37.86 vs required minimum L=40 (delta=-2.14). This is a marginal failure. Baseline recorded as-is. Run 2 should investigate.",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run — no patches merge this run. Marginal; lower priority than OBS-002.",
+    "files_to_investigate": [
+      "data/posts/2026-04-18-iran-day-50/props.json"
+    ]
+  },
+  {
+    "id": "OBS-004",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "opportunity",
+    "title": "tesseract not installed — PASS 3 OCR check will FAIL on run 2+",
+    "description": "The anti-false-green rule requires that a missing QA tool counts as FAIL. tesseract is not found at /opt/homebrew/bin/tesseract. PASS 3 OCR check (template-literal detection) will auto-fail on every future run until tesseract is installed. Propose install via `brew install tesseract` or fall back to grep-based template-literal scan (already in fallback path in side-agent.prompt.md).",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run. Run 2 should install tesseract or confirm grep-fallback is sufficient.",
+    "proposed_fix": "brew install tesseract  # or accept grep fallback as OCR substitute for {{...}} detection"
+  },
+  {
+    "id": "OBS-005",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "opportunity",
+    "title": "Priority 1: Download 3 CC0 music beds (tense/uplift/somber)",
+    "description": "AVAILABLE_BEDS in NewsReel.tsx currently has only news_bed.mp3. Bucket-aware audio selection is wired but idle. Run 2 should source 3 CC0 beds from freesound.org and uncomment the bed entries.",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run. Run 2 is the earliest this can land."
+  },
+  {
+    "id": "OBS-006",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "opportunity",
+    "title": "Priority 2: NewsReelB.tsx variant B (half-screen split hero)",
+    "description": "ENGINE.md §6a documents variant B spec. No implementation exists yet. Run 2 should prototype NewsReelB.tsx as a sibling composition.",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run. Complex prototype — run 2+."
+  },
+  {
+    "id": "OBS-007",
+    "date": "2026-04-19",
+    "run": "run-1-bootstrap",
+    "classification": "coverage-gap",
+    "title": "Priority 7: tech_ai props.json missing numeric supportingStats",
+    "description": "Side-agent.prompt.md priority 7 calls for a lint pass: every props.json with topicBucket=tech_ai must have at least one supportingStat whose value matches /\\d/. Quick check: 2026-04-18-ai-frontier-race has multiple numeric stats. But this lint should be enforced systematically.",
+    "decision": "deferred",
+    "deferred_reason": "Bootstrap run. Add as an extend (atlas lint) in run 2."
+  }
+]

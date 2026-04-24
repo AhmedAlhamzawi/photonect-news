@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 22 • 2026",
+  "arabicDateLabel": "٢٢ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "audioBed": "audio/bed_velocity.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الروبل يكسر ٢٢٠ مقابل الدولار — موسكو توقف التداول ساعتين",
+    "englishSubhead": "MOSCOW • RUBLE 220/USD • 2H HALT • CAPITAL CONTROLS",
+    "heroQueries": [
+      "Moscow Kremlin Red Square",
+      "ruble currency banknote",
+      "Russian central bank building",
+      "Moscow MoEx exchange interior",
+      "Saint Basil Cathedral Moscow"
+    ],
+    "heroMedia": "images/news/2026-04-22-ruble-220/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكسر",
+      "arabicHeading": "الساعة ١٤:٢٨ موسكو — الروبل عند ٢٢٠ للمرة الأولى تاريخياً",
+      "arabicBody": "العملة الروسية انهارت إلى مئتين وعشرين روبلاً مقابل الدولار للمرة الأولى في التاريخ، وسط هروب رأسمالي متسارع وتضخم فعلي عند واحد وثلاثين بالمئة حسب روستات، ما استدعى تعليق التداول ساعتين",
+      "bigStat": {
+        "value": "220",
+        "label": "ruble per USD — all-time low",
+        "arabicLabel": "روبل للدولار تاريخياً"
+      },
+      "supportingStats": [
+        {
+          "label": "هبوط منذ بداية السنة",
+          "value": "−47%"
+        },
+        {
+          "label": "فائدة المركزي",
+          "value": "22%"
+        },
+        {
+          "label": "توقف تداول",
+          "value": "120 د"
+        }
+      ],
+      "broll": "images/news/2026-04-22-ruble-220/broll_1.mp4",
+      "brollType": "video",
+      "accent": "#FF006E"
+    },
+    {
+      "label": "الإجراءات",
+      "arabicHeading": "تحويل إجباري ٨٥٪ من العملة الصعبة وسقف سحب أجنبي ١٠ آلاف",
+      "arabicBody": "البنك المركزي الروسي فرض تحويل إجبارياً لخمسة وثمانين بالمئة من حصيلة العملة الصعبة على المصدرين وسقف سحب شهري عشرة آلاف دولار على غير المقيمين، وأدرج قائمة مراقبة اقتصادية لسبع وعشرين دولة",
+      "bigStat": {
+        "value": "85%",
+        "label": "forex mandatory conversion",
+        "arabicLabel": "تحويل إجباري للعملة"
+      },
+      "supportingStats": [
+        {
+          "label": "سقف سحب شهري",
+          "value": "$10K"
+        },
+        {
+          "label": "دول مراقبة",
+          "value": "27"
+        },
+        {
+          "label": "طبقات عقوبات",
+          "value": "14"
+        }
+      ],
+      "broll": "images/news/2026-04-22-ruble-220/broll_2.mp4",
+      "brollType": "video",
+      "accent": "#FF006E"
+    },
+    {
+      "label": "التداعيات",
+      "arabicHeading": "غازبروم −١٩٪، لوك أويل −١٧٪، ثلاث سندات سيادية على حافة التعثر",
+      "arabicBody": "مؤشر مويكس تراجع ثلاثة وعشرين بالمئة في الساعة الأولى بعد استئناف التداول، بينما وُضعت ثلاث شركات طاقة على قائمة التعثر الفني المحتمل من قبل وكالات التصنيف الدولية الثلاث",
+      "bigStat": {
+        "value": "−23%",
+        "label": "MoEx index hourly drop",
+        "arabicLabel": "تراجع مؤشر مويكس"
+      },
+      "supportingStats": [
+        {
+          "label": "غازبروم",
+          "value": "−19%"
+        },
+        {
+          "label": "لوك أويل",
+          "value": "−17%"
+        },
+        {
+          "label": "تعثرات محتملة",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-04-22-ruble-220/broll_3.mp4",
+      "brollType": "video",
+      "accent": "#FF006E"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Interfax",
+      "domain": "interfax.com"
+    },
+    {
+      "name": "Moscow Times",
+      "domain": "themoscowtimes.com"
+    },
+    {
+      "name": "RBC Russia",
+      "domain": "rbc.ru"
+    }
+  ],
+  "arabicTicker": [
+    "الروبل الروسي يكسر حاجز مئتين وعشرين مقابل الدولار للمرة الأولى في التاريخ عند ١٤:٢٨ موسكو",
+    "البنك المركزي الروسي يوقف التداول مئة وعشرين دقيقة ويفرض إجراءات طارئة شاملة",
+    "تحويل إجباري خمسة وثمانين بالمئة من العملة الصعبة للمصدرين، وسقف سحب عشرة آلاف دولار للأجانب",
+    "مؤشر مويكس ينهار ثلاثة وعشرين بالمئة في الساعة الأولى من استئناف التداول",
+    "غازبروم تفقد تسعة عشر بالمئة من قيمتها، ولوك أويل سبعة عشر، وسبيربنك أسوأ منذ ٢٠٢٢",
+    "وكالات التصنيف الثلاث تضع ثلاث شركات روسية كبرى على قائمة التعثر الفني المحتمل",
+    "فائدة البنك المركزي الروسي رسمياً عند اثنين وعشرين بالمئة — الأعلى في منطقة أوراسيا منذ ٢٠١٥"
+  ]
+}

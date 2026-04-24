@@ -1,0 +1,95 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "الحزبان الكرديان ينفصلان: ٥٨ نائباً يغيّرون المعادلة",
+    "englishSubhead": "ERBIL • KURDISH PARTIES SPLIT",
+    "heroQueries": [
+      "Erbil citadel Kurdistan Iraq sunset",
+      "Kurdish parliament Erbil interior",
+      "Erbil skyline modern buildings",
+      "Kurdistan Regional Government building",
+      "Erbil historical citadel aerial"
+    ],
+    "heroMedia": "images/news/2026-04-21-kdp-split/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الانشقاق",
+      "arabicHeading": "٥٨ نائباً كردياً يعلنون خروجهم من تحالف أربيل",
+      "bigStat": {
+        "value": "58",
+        "label": "Kurdish MPs defect",
+        "arabicLabel": "نائباً كردياً يخرجون من التحالف"
+      },
+      "broll": "images/news/2026-04-21-kdp-split/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    },
+    {
+      "label": "التحالف",
+      "arabicHeading": "ثلاثون عاماً من الشراكة تنتهي في جلسة واحدة",
+      "bigStat": {
+        "value": "30",
+        "label": "years of alliance ended",
+        "arabicLabel": "عاماً من التحالف تنهار في يوم"
+      },
+      "broll": "images/news/2026-04-21-kdp-split/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    },
+    {
+      "label": "الاستفتاء",
+      "arabicHeading": "أربيل تدرس العودة لاستفتاء الاستقلال خلال ٢٤ ساعة",
+      "bigStat": {
+        "value": "24",
+        "label": "hours to Erbil referendum call",
+        "arabicLabel": "ساعة لقرار أربيل بدعوة الاستفتاء"
+      },
+      "broll": "images/news/2026-04-21-kdp-split/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C3272B"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Kurdistan 24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الديمقراطي الكردستاني والاتحاد الوطني يعلنان نهاية التحالف التاريخي بعد ٣٠ عاماً",
+    "٥٨ نائباً كردياً يعلنون خروجهم من تحالف أربيل — يغيّرون التوازن في بغداد",
+    "الخلاف الجذري: حصة كركوك-جيهان ومخصصات الإقليم في الموازنة الاتحادية",
+    "أربيل تدرس العودة لاستفتاء الاستقلال — قرار متوقع خلال ٢٤ ساعة",
+    "بغداد تهدد بقطع المخصصات فوراً إذا جرى الإعلان عن الاستفتاء",
+    "أنقرة وطهران تحذّران: أي خطوة انفصالية ستقابَل بإجراءات حدودية حادة",
+    "واشنطن تدعو للحفاظ على وحدة العراق — والاتحاد الأوروبي يطلب وساطة"
+  ],
+  "variant": "A",
+  "audioBed": "audio/news_bed.mp3"
+}

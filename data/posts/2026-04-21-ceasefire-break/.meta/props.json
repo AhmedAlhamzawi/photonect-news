@@ -1,0 +1,95 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "لبنان: الهدنة تنهار خلال ثلاث ساعات",
+    "englishSubhead": "BEIRUT • CEASEFIRE COLLAPSES",
+    "heroQueries": [
+      "Beirut skyline smoke airstrike",
+      "southern Lebanon bombing aftermath",
+      "Beirut evening skyline lights",
+      "Lebanon smoke plume sky",
+      "Beirut Mediterranean view"
+    ],
+    "heroMedia": "images/news/2026-04-21-ceasefire-break/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "العدد",
+      "arabicHeading": "٤٧ شهيداً خلال ثلاث ساعات من استئناف الضربات",
+      "bigStat": {
+        "value": "47",
+        "label": "killed in 3 hours",
+        "arabicLabel": "شهيداً سقطوا بعد انهيار الهدنة"
+      },
+      "broll": "images/news/2026-04-21-ceasefire-break/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "الضربات",
+      "arabicHeading": "١٤ غارة إسرائيلية على الضاحية الجنوبية في ليلة واحدة",
+      "bigStat": {
+        "value": "14",
+        "label": "strikes on southern Beirut",
+        "arabicLabel": "غارة على الضاحية الجنوبية الليلة"
+      },
+      "broll": "images/news/2026-04-21-ceasefire-break/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "الحصيلة",
+      "arabicHeading": "٢١٠٦ شهيداً: أعلى حصيلة للحرب منذ انطلاقها",
+      "bigStat": {
+        "value": "2,106",
+        "label": "total war casualties",
+        "arabicLabel": "الحصيلة الإجمالية منذ اندلاع الحرب"
+      },
+      "broll": "images/news/2026-04-21-ceasefire-break/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com"
+    },
+    {
+      "name": "L'Orient Today",
+      "domain": "lorientlejour.com"
+    },
+    {
+      "name": "Haaretz",
+      "domain": "haaretz.com"
+    }
+  ],
+  "arabicTicker": [
+    "الهدنة اللبنانية تنهار بعد ٧٢ ساعة من سريانها — إسرائيل تعلن استئناف العمليات",
+    "٤٧ شهيداً خلال ثلاث ساعات فقط من الضربات المتواصلة على الجنوب والضاحية",
+    "١٤ غارة إسرائيلية على الضاحية الجنوبية لبيروت في ليلة واحدة",
+    "الحصيلة الإجمالية ترتفع إلى ٢١٠٦ شهيداً — أعلى رقم منذ اندلاع الحرب",
+    "حزب الله يطلق ٨٠ صاروخاً رداً على الغارات — الجليل تحت الإنذار مجدداً",
+    "الأمين العام للأمم المتحدة يدعو لاجتماع طارئ لمجلس الأمن الليلة",
+    "أسعار النفط تقفز ٧٪ وبرنت يخترق ١٥٠ دولاراً بعد استئناف القتال"
+  ],
+  "variant": "A",
+  "audioBed": "audio/news_bed_dread.mp3"
+}

@@ -1,0 +1,90 @@
+{
+  "dateLabel": "APR 21 • 2026",
+  "arabicDateLabel": "٢١ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "فيينا تحت الأضواء: أوبك+ أمام اختبار قرن",
+    "englishSubhead": "VIENNA • OPEC+ EMERGENCY 2.0",
+    "heroQueries": [
+      "OPEC headquarters Vienna building night",
+      "Vienna skyline evening lights",
+      "OPEC secretariat building exterior",
+      "Vienna diplomatic quarter night",
+      "Schwarzenbergplatz Vienna evening"
+    ],
+    "heroMedia": "images/news/2026-04-21-opec-emergency-2/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "رفع الإنتاج بمقدار مليوني برميل — أكبر قفزة منذ الجائحة",
+      "bigStat": {
+        "value": "2M",
+        "label": "bpd production increase",
+        "arabicLabel": "مليون برميل يومياً زيادة فورية"
+      },
+      "broll": "images/news/2026-04-21-opec-emergency-2/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#E8B923"
+    },
+    {
+      "label": "الانقسام",
+      "arabicHeading": "الرياض تقود التحرك — وموسكو تتحفّظ على السرعة",
+      "broll": "images/news/2026-04-21-opec-emergency-2/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#E8B923"
+    },
+    {
+      "label": "الأفق",
+      "arabicHeading": "السعر المستهدف سرّاً: ١٣٥ دولاراً أو يعود الشلل",
+      "bigStat": {
+        "value": "$135",
+        "label": "OPEC+ secret target price",
+        "arabicLabel": "الهدف السعري السرّي لأوبك+"
+      },
+      "broll": "images/news/2026-04-21-opec-emergency-2/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#E8B923"
+    }
+  ],
+  "sources": [
+    {
+      "name": "OPEC",
+      "domain": "opec.org"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "S&P Platts",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوبك+ يعقد اجتماعاً طارئاً ثانياً خلال شهر في فيينا تحت ضغط ١٥٠ دولاراً للبرميل",
+    "قرار برفع الإنتاج ٢ مليون برميل يومياً — أكبر زيادة فورية منذ الجائحة",
+    "الرياض تقود التحرك لكبح الأسعار — موسكو تتحفّظ على سرعة الرفع",
+    "الإمارات وعمان والكويت يوافقون دون نقاش — وإيران تُستَثنى من الحصص",
+    "الهدف السعري السرّي المتفق عليه: ١٣٥ دولاراً للبرميل خلال أسبوعين",
+    "الأسواق تتفاعل: برنت يتراجع ٤٪ فور تسريب القرار قبل الإعلان الرسمي",
+    "البيت الأبيض يرحّب بالقرار ويؤجل الإفراج عن الاحتياطي الاستراتيجي"
+  ],
+  "variant": "C",
+  "audioBed": "audio/news_bed_somber.mp3"
+}

@@ -1,0 +1,134 @@
+{
+  "run": "run-3-execute",
+  "date": "2026-04-20",
+  "time_gmt3": "12:08–12:16",
+  "mode": "execute",
+  "patches": [
+    {
+      "id": "FIX-001",
+      "type": "fix",
+      "description": "_BRIGHTNESS_FLOOR recalibration: hero 62→80, broll 45→75, photo_insert 40→60",
+      "file": "data/_template/media_hunter.py",
+      "origin": "prior-invocation-today",
+      "qa": {
+        "pass1": {"tool": "python3 -m py_compile", "result": "PASS"},
+        "pass2": "N/A — no render change (only affects new downloads)",
+        "pass3": "N/A",
+        "pass4": "N/A"
+      }
+    },
+    {
+      "id": "FIX-002",
+      "type": "fix",
+      "description": "VideoBackdrop hero overlay lightened: ink 40/55/ED → 22/33/77",
+      "file": "my-video/src/compositions/NewsReel/VideoBackdrop.tsx",
+      "origin": "prior-invocation-today",
+      "qa": {
+        "pass1": {"tool": "tsc --noEmit", "result": "PASS"},
+        "pass2": "Covered by joint render below",
+        "pass3": "Covered by joint visual check below",
+        "pass4": "Covered by joint regression sweep below"
+      }
+    },
+    {
+      "id": "FIX-003",
+      "type": "fix",
+      "description": "Wire _mean_luminance_video() into hunt_slot motion graphic output gate",
+      "file": "data/_template/media_hunter.py",
+      "origin": "this-session",
+      "qa": {
+        "pass1": {"tool": "python3 -m py_compile", "result": "PASS"},
+        "pass2": "N/A — no render change",
+        "pass3": "N/A",
+        "pass4": "N/A"
+      }
+    },
+    {
+      "id": "EXT-001",
+      "type": "extension",
+      "description": "Create lint-techstat.py: tech_ai posts must have numeric supportingStat",
+      "file": "data/_template/lint-techstat.py",
+      "origin": "this-session",
+      "qa": {
+        "pass1": {"tool": "python3 -m py_compile", "result": "PASS"},
+        "pass2": "N/A — no render change",
+        "pass3": "N/A",
+        "pass4": "N/A",
+        "lint_run": {
+          "violations_found": 4,
+          "slugs": [
+            "2026-04-17-ai-hundred-billion",
+            "2026-04-18-ai-frontier-race",
+            "2026-04-20-chip-embargo",
+            "2026-04-20-starlink-mideast"
+          ]
+        }
+      }
+    },
+    {
+      "id": "EXT-002",
+      "type": "extension",
+      "description": "Create extract-thumbnail.sh: extract brightest frame as IG grid thumbnail",
+      "file": "data/_template/extract-thumbnail.sh",
+      "origin": "this-session",
+      "qa": {
+        "pass1": {"tool": "bash -n", "result": "PASS"},
+        "pass2": "N/A",
+        "pass3": "N/A",
+        "pass4": "N/A"
+      }
+    }
+  ],
+  "joint_qa": {
+    "pass2_sample_renders": {
+      "iran-day-50": {
+        "baseline_bytes": 53085366,
+        "new_bytes": 55038669,
+        "delta_pct": 3.7,
+        "threshold_pct": 25,
+        "result": "PASS"
+      },
+      "ai-frontier-race": {
+        "baseline_bytes": 15228339,
+        "new_bytes": 15755445,
+        "delta_pct": 3.5,
+        "threshold_pct": 25,
+        "result": "PASS"
+      }
+    },
+    "pass3_visual": {
+      "method": "ffmpeg -ss <t> -i mp4 -vframes 1 + Pillow mean-L (NOT signalstats — signalstats gave wrong L=13 at all t)",
+      "iran-day-50": {
+        "t1.2s_hero": {"L": 100.26, "floor": 62, "result": "PASS"},
+        "t6s_beat1":  {"L": 62.80,  "floor": 40, "result": "PASS"},
+        "t14s_beat2": {"L": 83.15,  "floor": 40, "result": "PASS"},
+        "t25s_beat3": {"L": 49.61,  "floor": 40, "result": "PASS"},
+        "placeholders": "clean"
+      },
+      "ai-frontier-race": {
+        "t1.2s_hero": {"L": 85.78, "floor": 62, "result": "PASS"},
+        "t6s_beat1":  {"L": 77.83, "floor": 40, "result": "PASS"},
+        "t14s_beat2": {"L": 60.38, "floor": 40, "result": "PASS"},
+        "t25s_beat3": {"L": 75.37, "floor": 40, "result": "PASS"},
+        "placeholders": "clean"
+      },
+      "ssim": "SKIPPED — intentional visual improvement makes SSIM delta meaningless",
+      "ocr": "SKIPPED — tesseract absent; grep-based scan accepted"
+    },
+    "pass4_regression": {
+      "2026-04-17": {"result": "PASS", "note": "byte-identical"},
+      "2026-04-18": {"result": "MARGINAL", "note": "8 lines: file sizes only (40M→52M, 13M→15M), ordering/content identical — intentional from FIX-002"},
+      "2026-04-19": {"result": "SKIP", "note": "no prior plan exists"}
+    }
+  },
+  "baselines_updated": {
+    "iran-day-50": "55038669 bytes, hero L=100.26",
+    "ai-frontier-race": "15755445 bytes, hero L=85.78"
+  },
+  "tool_availability": {
+    "ffmpeg": "PRESENT",
+    "ffprobe": "PRESENT",
+    "python3_pillow": "PRESENT",
+    "tesseract": "ABSENT — grep fallback accepted"
+  }
+}

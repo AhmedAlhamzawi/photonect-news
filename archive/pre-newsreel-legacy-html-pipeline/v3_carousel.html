@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photonect NEWS V3</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#0a0a0a; display:flex; flex-direction:column; align-items:center; gap:30px; padding:30px; font-family:'Tajawal','Cairo',sans-serif; }
+  .label { color:#555; font:12px monospace; margin-bottom:-20px; }
+
+  .slide {
+    width:1080px; height:1350px; position:relative; overflow:hidden;
+    flex-shrink:0; font-family:'Tajawal','Cairo',sans-serif;
+  }
+
+  /* ===== LOGO ===== */
+  .logo { display:flex; flex-direction:column; align-items:center; gap:1px; }
+  .logo .rect { width:22px; height:7px; background:#D72638; border-radius:1px; }
+  .logo .name { font-family:'Cairo',sans-serif; font-weight:900; font-size:20px; letter-spacing:3px; color:#fff; line-height:1.1; }
+  .logo .sub { font-family:'Cairo',sans-serif; font-weight:800; font-size:10px; letter-spacing:5px; color:#FFC217; }
+  .logo.sm .name { font-size:15px; letter-spacing:2px; }
+  .logo.sm .rect { width:16px; height:5px; }
+  .logo.sm .sub { display:none; }
+  .logo.dark .name { color:#2b2b2b; }
+  .logo.dark .sub { color:#D72638; }
+
+  /* ===== NAV BAR ===== */
+  .nav { display:flex; justify-content:space-between; align-items:center; padding:20px 50px; }
+  .nav .tag { background:#D72638; color:#fff; padding:5px 18px; border-radius:20px; font-size:13px; font-weight:800; letter-spacing:1px; }
+  .nav .tag.gold { background:#FFC217; color:#2b2b2b; }
+  .nav .pg { color:rgba(255,255,255,.4); font-size:13px; font-weight:600; font-family:'Cairo',monospace; direction:ltr; }
+
+  /* ===== PAGE DOTS ===== */
+  .dots { display:flex; gap:10px; justify-content:center; }
+  .dots .d { width:8px; height:8px; border-radius:50%; background:rgba(255,255,255,.15); }
+  .dots .d.active { background:#FFC217; width:24px; border-radius:4px; }
+
+  /* ===== PROGRESS BAR ===== */
+  .pbar { height:7px; border-radius:4px; background:rgba(255,255,255,.1); overflow:hidden; }
+  .pbar .fill { height:100%; border-radius:4px; }
+  .pbar.light { background:rgba(0,0,0,.08); }
+
+  /* ===== COMMON ===== */
+  .card { background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius:16px; }
+  .card.light { background:#fff; border:1px solid rgba(0,0,0,.06); }
+  .accent-r { border-right:4px solid #D72638; }
+  .accent-g { border-right:4px solid #FFC217; }
+
+  /* ====================================================
+     SLIDE 1: COVER
+  ==================================================== */
+  .s1 { background:#1e1e1e; }
+  .s1 .topbar { height:5px; background:linear-gradient(90deg, #D72638, #FFC217); }
+  .s1 .header { display:flex; justify-content:space-between; align-items:center; padding:22px 50px; background:rgba(0,0,0,.3); border-bottom:1px solid rgba(255,255,255,.06); }
+  .s1 .date { background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.12); border-radius:10px; padding:7px 20px; color:#fff; font-size:15px; font-weight:700; display:flex; align-items:center; gap:8px; }
+  .s1 .date .live { width:8px; height:8px; background:#D72638; border-radius:50%; box-shadow:0 0 8px #D72638; }
+
+  .s1 .hero { text-align:center; padding:80px 60px 40px; }
+  .s1 .hero .cat { color:#FFC217; font-size:18px; font-weight:800; letter-spacing:6px; margin-bottom:12px; }
+  .s1 .hero .line { width:120px; height:2px; background:linear-gradient(90deg, transparent, #FFC217, transparent); margin:0 auto 20px; }
+  .s1 .hero h1 { color:#fff; font-size:62px; font-weight:900; line-height:1.15; margin-bottom:14px; }
+  .s1 .hero .sub { color:rgba(255,255,255,.35); font-size:20px; font-weight:500; letter-spacing:2px; }
+
+  .s1 .divider { height:1px; background:rgba(255,255,255,.08); margin:0 80px; }
+
+  .s1 .stats { display:flex; gap:16px; padding:30px 50px; }
+  .s1 .stat-card { flex:1; background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius:18px; padding:24px 20px; text-align:center; position:relative; overflow:hidden; }
+  .s1 .stat-card .top-line { position:absolute; top:0; left:0; right:0; height:3px; }
+  .s1 .stat-card .num { font-size:40px; font-weight:900; line-height:1; margin-bottom:6px; font-family:'Cairo',sans-serif; }
+  .s1 .stat-card .chart { height:55px; margin:10px 0; position:relative; }
+  .s1 .stat-card .chart svg { width:100%; height:100%; }
+  .s1 .stat-card .sep { height:1px; background:rgba(255,255,255,.08); margin:12px 0; }
+  .s1 .stat-card .lbl { font-size:16px; font-weight:700; color:rgba(255,255,255,.7); margin-bottom:4px; }
+  .s1 .stat-card .sublbl { font-size:13px; font-weight:500; color:rgba(255,255,255,.3); }
+
+  .s1 .zones { display:flex; gap:0; padding:20px 50px 10px; }
+  .s1 .zone { flex:1; text-align:center; padding:20px 10px; }
+  .s1 .zone .circle { width:60px; height:60px; border-radius:50%; margin:0 auto 10px; display:flex; align-items:center; justify-content:center; font-size:22px; font-weight:900; color:#fff; position:relative; }
+  .s1 .zone .circle::after { content:''; position:absolute; inset:-6px; border-radius:50%; border:2px solid; opacity:.3; }
+  .s1 .zone .zname { font-size:15px; font-weight:700; color:rgba(255,255,255,.5); margin-bottom:8px; }
+  .s1 .zone .zbar { margin:0 10px; }
+
+  .s1 .bottom { background:#FFC217; padding:18px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s1 .bottom .swipe { color:#1e1e1e; font-size:18px; font-weight:800; display:flex; align-items:center; gap:10px; }
+  .s1 .bottom .swipe .arrow { font-size:24px; }
+
+  /* ====================================================
+     SLIDE 2: HORMUZ
+  ==================================================== */
+  .s2 { background:#1e1e1e; }
+  .s2 .red-header { background:linear-gradient(180deg, #C62232, #A01E2B); padding:20px 50px 30px; position:relative; }
+  .s2 .red-header h1 { text-align:center; color:#fff; font-size:54px; font-weight:900; margin:20px 0 8px; }
+  .s2 .red-header .sub { text-align:center; color:rgba(255,255,255,.75); font-size:19px; font-weight:600; }
+  .s2 .chart-area { background:rgba(0,0,0,.2); border-radius:0 0 20px 20px; margin:0 50px; padding:15px 20px; position:relative; }
+  .s2 .chart-area svg { width:100%; height:80px; }
+  .s2 .chart-area .clbl { position:absolute; top:10px; right:20px; color:rgba(255,255,255,.4); font-size:12px; font-weight:600; }
+
+  .s2 .deadline { margin:25px 50px; background:rgba(180,20,35,.12); border:2px solid #D72638; border-radius:18px; padding:28px 30px; text-align:center; position:relative; overflow:hidden; }
+  .s2 .deadline .scan-lines { position:absolute; top:0; left:0; right:0; height:6px; background:repeating-linear-gradient(90deg, #D72638 0px, #D72638 15px, transparent 15px, transparent 25px); }
+  .s2 .deadline .dlbl { color:#D72638; font-size:15px; font-weight:800; letter-spacing:4px; margin-top:10px; }
+  .s2 .deadline .time { font-family:'Cairo',monospace; font-size:48px; font-weight:900; color:#fff; margin:8px 0; direction:ltr; }
+  .s2 .deadline .when { color:#FFC217; font-size:20px; font-weight:800; }
+  .s2 .deadline .threat { color:rgba(255,255,255,.45); font-size:16px; font-weight:500; margin-top:8px; }
+
+  .s2 .oils { display:flex; gap:16px; padding:0 50px; margin:20px 0; }
+  .s2 .oil-card { flex:1; background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius:16px; padding:20px; text-align:center; }
+  .s2 .oil-card .icon { font-size:28px; margin-bottom:6px; }
+  .s2 .oil-card .olbl { color:rgba(255,255,255,.4); font-size:14px; font-weight:600; margin-bottom:4px; }
+  .s2 .oil-card .price { font-family:'Cairo',monospace; font-size:34px; font-weight:900; color:#FFC217; direction:ltr; }
+  .s2 .oil-card .change { display:inline-block; background:rgba(76,175,80,.15); color:#4CAF50; padding:3px 12px; border-radius:6px; font-size:13px; font-weight:700; margin-top:6px; direction:ltr; }
+
+  .s2 .bullets { padding:0 50px; display:flex; flex-direction:column; gap:12px; }
+  .s2 .bullet { display:flex; gap:14px; align-items:flex-start; padding:18px 20px; background:rgba(255,255,255,.03); border-radius:14px; border-right:4px solid #FFC217; }
+  .s2 .bullet .bnum { background:#FFC217; color:#1e1e1e; width:32px; height:32px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:900; flex-shrink:0; font-family:'Cairo',monospace; }
+  .s2 .bullet .btitle { color:#fff; font-size:17px; font-weight:800; margin-bottom:3px; }
+  .s2 .bullet .bdesc { color:rgba(255,255,255,.4); font-size:14px; font-weight:500; line-height:1.5; }
+
+  .s2 .bbar { background:rgba(255,194,23,.08); border-top:1px solid rgba(255,194,23,.2); padding:16px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s2 .bbar .fact { color:#FFC217; font-size:14px; font-weight:700; display:flex; align-items:center; gap:10px; }
+  .s2 .bbar .donut { width:28px; height:28px; border-radius:50%; border:4px solid #FFC217; border-top-color:transparent; }
+
+  /* ====================================================
+     SLIDE 3: LEBANON
+  ==================================================== */
+  .s3 { background:#f5f5f5; }
+  .s3 .dark-top { background:linear-gradient(180deg, #1a1a1a, #2b2b2b); padding:20px 50px 30px; }
+  .s3 .dark-top h1 { text-align:center; color:#fff; font-size:50px; font-weight:900; margin:20px 0 10px; }
+  .s3 .dur-badge { display:inline-block; background:#FFC217; color:#1e1e1e; padding:6px 24px; border-radius:10px; font-size:22px; font-weight:900; }
+  .s3 .dark-top .sub { color:rgba(255,255,255,.5); font-size:16px; font-weight:600; margin-top:10px; }
+  .s3 .pbar-wrap { padding:8px 50px 0; }
+
+  .s3 .stats { display:grid; grid-template-columns:1fr 1fr; gap:12px; padding:20px 50px 0; }
+  .s3 .scard { background:#fff; border-radius:16px; padding:22px; position:relative; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,.04); }
+  .s3 .scard .stop { position:absolute; top:0; left:0; right:0; height:4px; }
+  .s3 .scard .snum { font-size:42px; font-weight:900; line-height:1; margin-bottom:2px; font-family:'Cairo',sans-serif; }
+  .s3 .scard .sdesc { font-size:18px; font-weight:800; color:#2b2b2b; margin-bottom:2px; }
+  .s3 .scard .ssub { font-size:13px; font-weight:500; color:#999; }
+  .s3 .scard .donut-mini { position:absolute; top:18px; left:18px; width:50px; height:50px; }
+
+  .s3 .tl-section { padding:15px 50px 0; }
+  .s3 .tl-header { text-align:center; color:#999; font-size:15px; font-weight:700; padding:10px 0; border-top:1px solid #e0e0e0; border-bottom:1px solid #e0e0e0; margin-bottom:12px; }
+  .s3 .tl-item { display:flex; gap:12px; align-items:stretch; margin-bottom:10px; }
+  .s3 .tl-item .tl-line { width:3px; background:linear-gradient(180deg, #D72638, #FFC217); border-radius:2px; flex-shrink:0; }
+  .s3 .tl-item .tl-dot { width:12px; height:12px; border-radius:50%; flex-shrink:0; margin-top:12px; }
+  .s3 .tl-item .tl-card { flex:1; background:#fff; border-radius:12px; padding:14px 18px; border-right:3px solid; box-shadow:0 1px 6px rgba(0,0,0,.04); }
+  .s3 .tl-item .tl-date { font-family:'Cairo',monospace; font-size:12px; font-weight:700; color:#999; margin-bottom:3px; direction:ltr; display:inline-block; background:#f0f0f0; padding:2px 10px; border-radius:4px; }
+  .s3 .tl-item .tl-text { font-size:15px; font-weight:600; color:#2b2b2b; line-height:1.5; }
+
+  .s3 .bbar { background:#2b2b2b; padding:16px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s3 .bbar .fact { color:#FFC217; font-size:14px; font-weight:700; }
+
+  /* ====================================================
+     SLIDE 4: GAZA
+  ==================================================== */
+  .s4 { background:#1e1e1e; }
+  .s4 .top { padding:20px 50px 0; }
+  .s4 h1 { text-align:center; color:#fff; font-size:48px; font-weight:900; margin:20px 0 8px; }
+  .s4 .sub { text-align:center; color:#FFC217; font-size:19px; font-weight:700; margin-bottom:20px; }
+
+  .s4 .bignum-box { margin:0 50px; background:linear-gradient(135deg, rgba(215,38,56,.12), rgba(215,38,56,.05)); border:2px solid rgba(215,38,56,.25); border-radius:20px; padding:30px; text-align:center; position:relative; }
+  .s4 .bignum-box .glow { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:250px; height:100px; background:radial-gradient(ellipse, rgba(215,38,56,.15), transparent); border-radius:50%; }
+  .s4 .bignum-box .bn { font-size:72px; font-weight:900; color:#D72638; position:relative; z-index:1; font-family:'Cairo',sans-serif; }
+  .s4 .bignum-box .blbl { font-size:20px; font-weight:700; color:rgba(255,255,255,.6); position:relative; z-index:1; }
+  .s4 .compare-bars { margin:14px 40px 0; }
+  .s4 .compare-bars .crow { display:flex; align-items:center; gap:10px; margin-bottom:6px; }
+  .s4 .compare-bars .crow .clbl { font-size:12px; color:rgba(255,255,255,.35); width:55px; text-align:left; flex-shrink:0; }
+  .s4 .compare-bars .crow .cbar { flex:1; height:10px; border-radius:5px; background:rgba(255,255,255,.06); overflow:hidden; }
+  .s4 .compare-bars .crow .cbar .cfill { height:100%; border-radius:5px; }
+  .s4 .compare-note { font-size:12px; color:rgba(255,255,255,.25); text-align:center; margin-top:4px; }
+
+  .s4 .sub-stats { display:flex; gap:14px; padding:20px 50px; }
+  .s4 .ss-card { flex:1; background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius:16px; padding:20px; text-align:center; }
+  .s4 .ss-card .ss-donut { margin:0 auto 10px; width:60px; height:60px; position:relative; }
+  .s4 .ss-card .ss-donut svg { width:60px; height:60px; }
+  .s4 .ss-card .ss-num { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:15px; font-weight:900; font-family:'Cairo',monospace; }
+  .s4 .ss-card .ss-lbl { font-size:14px; font-weight:600; color:rgba(255,255,255,.5); line-height:1.4; }
+
+  .s4 .ceasefire { margin:15px 50px; background:rgba(255,194,23,.08); border:1px solid rgba(255,194,23,.2); border-radius:16px; padding:22px 24px; }
+  .s4 .ceasefire .ch { display:flex; align-items:center; gap:10px; margin-bottom:14px; }
+  .s4 .ceasefire .ch .cdot { width:10px; height:10px; background:#FFC217; border-radius:50%; box-shadow:0 0 8px rgba(255,194,23,.5); }
+  .s4 .ceasefire .ch .ctitle { color:#FFC217; font-size:18px; font-weight:800; }
+  .s4 .ceasefire .phases { display:flex; gap:8px; margin-bottom:14px; }
+  .s4 .ceasefire .phase { flex:1; text-align:center; }
+  .s4 .ceasefire .phase .phbar { height:8px; border-radius:4px; margin-bottom:4px; }
+  .s4 .ceasefire .phase .phlbl { font-size:12px; color:rgba(255,255,255,.35); }
+  .s4 .ceasefire .ctext { font-size:14px; color:rgba(255,255,255,.5); line-height:1.7; }
+
+  .s4 .disarm { margin:12px 50px; background:rgba(255,255,255,.04); border-radius:14px; padding:20px 22px; border-right:4px solid #D72638; }
+  .s4 .disarm .dt { color:#D72638; font-size:16px; font-weight:800; margin-bottom:6px; }
+  .s4 .disarm .dd { font-size:14px; color:rgba(255,255,255,.45); line-height:1.6; }
+  .s4 .disarm .tension { display:flex; align-items:center; gap:10px; margin-top:10px; }
+  .s4 .disarm .tension .tlbl { font-size:12px; color:rgba(255,255,255,.3); flex-shrink:0; }
+
+  .s4 .bbar { background:#D72638; padding:16px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s4 .bbar .fact { color:#fff; font-size:14px; font-weight:700; }
+
+  /* ====================================================
+     SLIDE 5: IRAN TIMELINE
+  ==================================================== */
+  .s5 { background:#1a1a1a; }
+  .s5 .head { background:linear-gradient(180deg, #252525, #1a1a1a); padding:20px 50px 25px; }
+  .s5 h1 { text-align:center; color:#fff; font-size:50px; font-weight:900; margin:20px 0 10px; }
+  .s5 .day-badge { display:inline-block; background:#D72638; color:#fff; padding:6px 28px; border-radius:10px; font-size:26px; font-weight:900; font-family:'Cairo',monospace; direction:ltr; }
+  .s5 .sub { text-align:center; color:#FFC217; font-size:17px; font-weight:700; margin-top:10px; }
+
+  .s5 .timeline { padding:20px 50px; position:relative; }
+  .s5 .tl-axis { position:absolute; left:105px; top:20px; bottom:60px; width:3px; background:linear-gradient(180deg, #D72638, #FFC217, #D72638); border-radius:2px; }
+  .s5 .tl-entry { display:flex; gap:15px; margin-bottom:14px; position:relative; }
+  .s5 .tl-entry .tl-node { width:16px; height:16px; border-radius:50%; border:3px solid #1a1a1a; flex-shrink:0; margin-top:15px; z-index:1; position:relative; }
+  .s5 .tl-entry .tl-date { font-family:'Cairo',monospace; font-size:12px; font-weight:800; padding:4px 12px; border-radius:6px; color:#fff; flex-shrink:0; margin-top:12px; min-width:70px; text-align:center; direction:ltr; }
+  .s5 .tl-entry .tl-card { flex:1; border-radius:14px; padding:16px 20px; border-right:4px solid; }
+  .s5 .tl-entry .tl-card .tt { font-size:18px; font-weight:900; margin-bottom:5px; }
+  .s5 .tl-entry .tl-card .td { font-size:14px; font-weight:500; color:rgba(255,255,255,.5); line-height:1.5; }
+  .s5 .tl-entry .tl-card .impact { display:flex; align-items:center; gap:8px; margin-top:8px; }
+  .s5 .tl-entry .tl-card .impact .ilbl { font-size:11px; color:rgba(255,255,255,.3); }
+
+  .s5 .bbar { background:#D72638; padding:16px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s5 .bbar .fact { color:#fff; font-size:14px; font-weight:700; }
+
+  /* ====================================================
+     SLIDE 6: WEST BANK
+  ==================================================== */
+  .s6 { background:#f5f5f5; }
+  .s6 .dark-top { background:linear-gradient(180deg, #1a1a1a, #2b2b2b); padding:20px 50px 25px; }
+  .s6 h1 { text-align:center; color:#fff; font-size:50px; font-weight:900; margin:20px 0 8px; }
+  .s6 .sub { text-align:center; color:#FFC217; font-size:18px; font-weight:700; }
+  .s6 .arrows { display:flex; justify-content:center; gap:5px; padding:15px 0 0; }
+  .s6 .arrows .arr { color:#D72638; font-size:16px; }
+
+  .s6 .chart-box { margin:20px 50px; background:#fff; border-radius:18px; padding:24px 30px 20px; box-shadow:0 2px 12px rgba(0,0,0,.04); }
+  .s6 .chart-box .chtitle { text-align:center; font-size:17px; font-weight:800; color:#2b2b2b; margin-bottom:4px; }
+  .s6 .chart-box .chsub { text-align:center; font-size:13px; color:#999; margin-bottom:20px; }
+  .s6 .bars { display:flex; justify-content:center; align-items:flex-end; gap:40px; height:180px; padding-bottom:0; }
+  .s6 .bars .bar-col { display:flex; flex-direction:column; align-items:center; gap:6px; }
+  .s6 .bars .bar { width:90px; border-radius:8px 8px 0 0; }
+  .s6 .bars .bar-val { font-size:22px; font-weight:900; font-family:'Cairo',sans-serif; }
+  .s6 .bars .bar-yr { font-size:14px; font-weight:700; color:#999; margin-top:6px; font-family:'Cairo',monospace; direction:ltr; }
+  .s6 .pct-badge { display:inline-block; background:#D72638; color:#fff; padding:5px 22px; border-radius:8px; font-size:20px; font-weight:900; margin-top:15px; font-family:'Cairo',monospace; direction:ltr; }
+
+  .s6 .facts { padding:15px 50px; display:flex; flex-direction:column; gap:12px; }
+  .s6 .fact-card { background:#fff; border-radius:14px; padding:20px 22px; border-right:4px solid; box-shadow:0 1px 6px rgba(0,0,0,.04); }
+  .s6 .fact-card .fnum { font-size:32px; font-weight:900; font-family:'Cairo',monospace; direction:ltr; display:inline-block; }
+  .s6 .fact-card .ftitle { font-size:17px; font-weight:700; color:#2b2b2b; margin-bottom:3px; }
+  .s6 .fact-card .fsub { font-size:14px; color:#999; }
+
+  .s6 .ocha { margin:10px 50px; background:#fff0f0; border-radius:14px; padding:18px 22px; border-right:4px solid #D72638; }
+  .s6 .ocha .ot { color:#D72638; font-size:15px; font-weight:800; margin-bottom:4px; }
+  .s6 .ocha .od { font-size:14px; color:#2b2b2b; line-height:1.6; }
+
+  .s6 .bbar { background:#2b2b2b; padding:16px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s6 .bbar .fact { color:#FFC217; font-size:13px; font-weight:700; }
+
+  /* ====================================================
+     SLIDE 7: GLOBAL IMPACT
+  ==================================================== */
+  .s7 { background:#1e1e1e; }
+  .s7 .head { background:linear-gradient(180deg, #252520, #1e1e1e); padding:20px 50px 20px; }
+  .s7 h1 { text-align:center; color:#fff; font-size:46px; font-weight:900; margin:20px 0 6px; }
+  .s7 .sub { text-align:center; color:#FFC217; font-size:18px; font-weight:700; margin-bottom:8px; }
+  .s7 .gold-line { width:80px; height:2px; background:#FFC217; margin:0 auto; }
+
+  .s7 .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; padding:20px 50px; }
+  .s7 .gcard { background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08); border-radius:16px; padding:20px; text-align:center; position:relative; overflow:hidden; }
+  .s7 .gcard .gchart { height:50px; margin-bottom:8px; }
+  .s7 .gcard .gchart svg { width:100%; height:100%; }
+  .s7 .gcard .gnum { font-size:36px; font-weight:900; font-family:'Cairo',monospace; direction:ltr; display:inline-block; }
+  .s7 .gcard .gl1 { font-size:15px; font-weight:700; color:rgba(255,255,255,.5); margin-top:6px; }
+  .s7 .gcard .gl2 { font-size:13px; color:rgba(255,255,255,.3); }
+
+  .s7 .watch { margin:15px 50px; background:rgba(255,194,23,.06); border:1px solid rgba(255,194,23,.15); border-radius:18px; padding:24px 28px; }
+  .s7 .watch .wt { color:#FFC217; font-size:22px; font-weight:900; margin-bottom:4px; }
+  .s7 .watch .wline { width:60px; height:2px; background:rgba(255,194,23,.3); margin-bottom:16px; }
+  .s7 .watch .witem { display:flex; align-items:flex-start; gap:12px; margin-bottom:16px; }
+  .s7 .watch .witem:last-child { margin-bottom:0; }
+  .s7 .watch .witem .wdot { width:10px; height:10px; border-radius:50%; margin-top:6px; flex-shrink:0; }
+  .s7 .watch .witem .wlbl { font-size:16px; font-weight:800; margin-bottom:2px; }
+  .s7 .watch .witem .wdesc { font-size:14px; color:rgba(255,255,255,.45); line-height:1.5; }
+  .s7 .watch .witem .wpbar { margin-top:6px; }
+
+  .s7 .bbar { background:#FFC217; padding:18px 50px; display:flex; justify-content:space-between; align-items:center; position:absolute; bottom:0; left:0; right:0; }
+  .s7 .bbar .next { color:#1e1e1e; font-size:16px; font-weight:800; }
+
+  /* ====================================================
+     SLIDE 8: SOURCES
+  ==================================================== */
+  .s8 { background:#1e1e1e; }
+  .s8 .top-logo { text-align:center; padding:30px 50px 10px; }
+  .s8 .sep { height:1px; background:rgba(255,255,255,.08); margin:0 100px; }
+  .s8 .stitle { text-align:center; color:#fff; font-size:38px; font-weight:900; margin:12px 0 6px; }
+  .s8 .ssub { text-align:center; color:rgba(255,255,255,.35); font-size:16px; font-weight:500; margin-bottom:10px; }
+
+  .s8 .sources { padding:5px 50px; display:flex; flex-direction:column; gap:8px; }
+  .s8 .src { display:flex; align-items:center; gap:14px; padding:14px 18px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06); border-radius:12px; }
+  .s8 .src .snum { background:#FFC217; color:#1e1e1e; min-width:30px; height:30px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:13px; font-weight:900; font-family:'Cairo',monospace; flex-shrink:0; }
+  .s8 .src .sinfo { flex:1; }
+  .s8 .src .sname { color:#fff; font-size:15px; font-weight:700; }
+  .s8 .src .surl { color:rgba(255,255,255,.25); font-size:11px; font-family:monospace; direction:ltr; display:inline-block; }
+  .s8 .src .sdesc { color:rgba(255,255,255,.35); font-size:12px; }
+  .s8 .src .sgold { width:3px; height:30px; background:#FFC217; border-radius:2px; flex-shrink:0; }
+
+  .s8 .bottom { text-align:center; padding:20px 50px 10px; position:absolute; bottom:0; left:0; right:0; }
+  .s8 .bottom .sep { margin:0 100px 15px; }
+  .s8 .bottom .follow { color:rgba(255,255,255,.4); font-size:15px; font-weight:600; margin-bottom:6px; }
+  .s8 .bottom .handle { color:#FFC217; font-size:24px; font-weight:900; direction:ltr; display:inline-block; }
+  .s8 .bottom .tagline { color:rgba(255,255,255,.2); font-size:13px; margin-top:6px; margin-bottom:10px; }
+</style>
+</head>
+<body>
+
+<!-- ===== SLIDE 1: COVER ===== -->
+<div class="label">Slide 1/8</div>
+<div class="slide s1" id="slide1">
+  <div class="topbar"></div>
+  <div class="header">
+    <div class="logo">
+      <div class="rect"></div>
+      <div class="name">PHOTONECT</div>
+      <div class="sub">NEWS</div>
+    </div>
+    <div class="date">
+      <div class="live"></div>
+      ٧ أبريل ٢٠٢٦
+    </div>
+  </div>
+
+  <div class="hero">
+    <div class="cat">ملخص ٢٤ ساعة</div>
+    <div class="line"></div>
+    <h1>الشرق الأوسط الآن</h1>
+    <div class="sub">غزة &nbsp;|&nbsp; لبنان &nbsp;|&nbsp; إيران &nbsp;|&nbsp; الضفة الغربية</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="stats">
+    <!-- Card 1: Gaza deaths -->
+    <div class="stat-card">
+      <div class="top-line" style="background:#D72638;"></div>
+      <div class="num" style="color:#D72638;">+٧٢,٣٠٢</div>
+      <div class="chart">
+        <svg viewBox="0 0 200 50" preserveAspectRatio="none">
+          <defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#D72638" stop-opacity="0.3"/><stop offset="100%" stop-color="#D72638" stop-opacity="0"/></linearGradient></defs>
+          <path d="M0,45 L30,42 L60,38 L90,32 L120,24 L150,14 L180,8 L200,5 L200,50 L0,50Z" fill="url(#g1)"/>
+          <polyline points="0,45 30,42 60,38 90,32 120,24 150,14 180,8 200,5" fill="none" stroke="#D72638" stroke-width="2.5"/>
+          <circle cx="0" cy="45" r="3" fill="#D72638"/><circle cx="100" cy="28" r="3" fill="#D72638"/><circle cx="200" cy="5" r="4" fill="#D72638"/>
+        </svg>
+      </div>
+      <div class="sep"></div>
+      <div class="lbl">شهيد في غزة</div>
+      <div class="sublbl">منذ أكتوبر ٢٠٢٣</div>
+      <div class="pbar" style="margin-top:12px;"><div class="fill" style="width:92%;background:#D72638;"></div></div>
+    </div>
+
+    <!-- Card 2: Lebanon displaced -->
+    <div class="stat-card">
+      <div class="top-line" style="background:#FFC217;"></div>
+      <div class="num" style="color:#FFC217;">١.٢M</div>
+      <div class="chart">
+        <svg viewBox="0 0 200 50" preserveAspectRatio="none">
+          <defs><linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFC217" stop-opacity="0.3"/><stop offset="100%" stop-color="#FFC217" stop-opacity="0"/></linearGradient></defs>
+          <path d="M0,48 L30,47 L60,46 L90,44 L120,38 L150,20 L180,8 L200,5 L200,50 L0,50Z" fill="url(#g2)"/>
+          <polyline points="0,48 30,47 60,46 90,44 120,38 150,20 180,8 200,5" fill="none" stroke="#FFC217" stroke-width="2.5"/>
+          <circle cx="0" cy="48" r="3" fill="#FFC217"/><circle cx="130" cy="35" r="3" fill="#FFC217"/><circle cx="200" cy="5" r="4" fill="#FFC217"/>
+        </svg>
+      </div>
+      <div class="sep"></div>
+      <div class="lbl">نازح في لبنان</div>
+      <div class="sublbl">منذ ٢ مارس ٢٠٢٦</div>
+      <div class="pbar" style="margin-top:12px;"><div class="fill" style="width:75%;background:#FFC217;"></div></div>
+    </div>
+
+    <!-- Card 3: Oil price -->
+    <div class="stat-card">
+      <div class="top-line" style="background:#D72638;"></div>
+      <div class="num" style="color:#D72638;">$١١٦</div>
+      <div class="chart">
+        <svg viewBox="0 0 200 50" preserveAspectRatio="none">
+          <defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#D72638" stop-opacity="0.3"/><stop offset="100%" stop-color="#D72638" stop-opacity="0"/></linearGradient></defs>
+          <path d="M0,35 L30,33 L60,30 L90,28 L110,22 L130,18 L160,10 L200,5 L200,50 L0,50Z" fill="url(#g3)"/>
+          <polyline points="0,35 30,33 60,30 90,28 110,22 130,18 160,10 200,5" fill="none" stroke="#D72638" stroke-width="2.5"/>
+          <circle cx="0" cy="35" r="3" fill="#D72638"/><circle cx="110" cy="22" r="3" fill="#D72638"/><circle cx="200" cy="5" r="4" fill="#D72638"/>
+        </svg>
+      </div>
+      <div class="sep"></div>
+      <div class="lbl">سعر برميل النفط</div>
+      <div class="sublbl">بسبب إغلاق مضيق هرمز</div>
+      <div class="pbar" style="margin-top:12px;"><div class="fill" style="width:88%;background:#D72638;"></div></div>
+    </div>
+  </div>
+
+  <!-- Conflict zones -->
+  <div class="zones">
+    <div class="zone">
+      <div class="circle" style="background:rgba(215,38,56,.8); box-shadow:0 0 20px rgba(215,38,56,.4);">
+        <span style="position:relative;z-index:1;">⚠</span>
+      </div>
+      <div class="zname">غزة</div>
+      <div class="pbar zbar"><div class="fill" style="width:85%;background:#D72638;"></div></div>
+    </div>
+    <div class="zone">
+      <div class="circle" style="background:rgba(255,152,0,.8); box-shadow:0 0 20px rgba(255,152,0,.4);">
+        <span style="position:relative;z-index:1;">⚠</span>
+      </div>
+      <div class="zname">لبنان</div>
+      <div class="pbar zbar"><div class="fill" style="width:70%;background:#FF9800;"></div></div>
+    </div>
+    <div class="zone">
+      <div class="circle" style="background:rgba(255,194,23,.8); box-shadow:0 0 20px rgba(255,194,23,.4);">
+        <span style="position:relative;z-index:1;">⚠</span>
+      </div>
+      <div class="zname">إيران</div>
+      <div class="pbar zbar"><div class="fill" style="width:95%;background:#FFC217;"></div></div>
+    </div>
+    <div class="zone">
+      <div class="circle" style="background:rgba(215,38,56,.5); box-shadow:0 0 15px rgba(215,38,56,.3);">
+        <span style="position:relative;z-index:1;">⚠</span>
+      </div>
+      <div class="zname">الضفة</div>
+      <div class="pbar zbar"><div class="fill" style="width:45%;background:#D72638;"></div></div>
+    </div>
+  </div>
+
+  <div style="text-align:center;color:rgba(255,255,255,.2);font-size:13px;padding:8px 0;">مستوى التصعيد</div>
+
+  <div class="bottom">
+    <div class="swipe">
+      <span class="arrow">←</span>
+      اسحب لقراءة التفاصيل
+    </div>
+    <div class="dots">
+      <div class="d active"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 2: HORMUZ ===== -->
+<div class="label">Slide 2/8</div>
+<div class="slide s2" id="slide2">
+  <div class="red-header">
+    <div class="nav">
+      <div class="pg">٢ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag">عاجل</div>
+    </div>
+    <h1>مضيق هرمز</h1>
+    <div class="sub">مهلة ترامب تنتهي الليلة — والعالم يترقب</div>
+  </div>
+
+  <div class="chart-area">
+    <div class="clbl">سعر النفط ← ارتفاع حاد</div>
+    <svg viewBox="0 0 900 80" preserveAspectRatio="none">
+      <defs><linearGradient id="oilg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFC217" stop-opacity="0.4"/><stop offset="100%" stop-color="#FFC217" stop-opacity="0"/></linearGradient></defs>
+      <path d="M0,65 L100,62 L200,58 L300,55 L400,48 L500,38 L600,25 L700,18 L800,12 L900,5 L900,80 L0,80Z" fill="url(#oilg)"/>
+      <polyline points="0,65 100,62 200,58 300,55 400,48 500,38 600,25 700,18 800,12 900,5" fill="none" stroke="#FFC217" stroke-width="3"/>
+      <circle cx="0" cy="65" r="4" fill="#FFC217"/><circle cx="400" cy="48" r="4" fill="#FFC217"/><circle cx="900" cy="5" r="5" fill="#FFC217" stroke="#fff" stroke-width="2"/>
+      <!-- labels -->
+      <text x="20" y="60" fill="rgba(255,255,255,.4)" font-size="11" font-family="Cairo">$٦٥</text>
+      <text x="870" y="22" fill="#FFC217" font-size="13" font-weight="bold" font-family="Cairo">$١١٦</text>
+    </svg>
+  </div>
+
+  <div class="deadline">
+    <div class="scan-lines"></div>
+    <div class="dlbl">الموعد النهائي</div>
+    <div class="time">8:00 PM ET</div>
+    <div class="when">الثلاثاء — بتوقيت واشنطن</div>
+    <div class="threat">ترامب يهدد بتدمير محطات الكهرباء والجسور في إيران</div>
+  </div>
+
+  <div class="oils">
+    <div class="oil-card">
+      <div class="icon">🛢️</div>
+      <div class="olbl">خام برنت</div>
+      <div class="price">$١١٠.٦٦</div>
+      <div class="change">▲ +٠.٨١٪</div>
+      <div class="pbar" style="margin-top:12px;"><div class="fill" style="width:78%;background:#FFC217;"></div></div>
+    </div>
+    <div class="oil-card">
+      <div class="icon">🛢️</div>
+      <div class="olbl">خام غرب تكساس</div>
+      <div class="price">$١١٦.٢٢</div>
+      <div class="change">▲ +٣.٠٪</div>
+      <div class="pbar" style="margin-top:12px;"><div class="fill" style="width:88%;background:#FFC217;"></div></div>
+    </div>
+  </div>
+
+  <div class="bullets">
+    <div class="bullet">
+      <div class="bnum">٠١</div>
+      <div>
+        <div class="btitle">٢٠٪ من إمدادات النفط العالمية</div>
+        <div class="bdesc">كانت تمر عبر المضيق — أكبر انقطاع في تاريخ النفط العالمي</div>
+      </div>
+    </div>
+    <div class="bullet">
+      <div class="bnum">٠٢</div>
+      <div>
+        <div class="btitle">إيران ترفض المقترح الأمريكي</div>
+        <div class="bdesc">وتقدم خطة من ١٠ نقاط تشمل وقف دائم للأعمال العدائية ورفع العقوبات</div>
+      </div>
+    </div>
+    <div class="bullet">
+      <div class="bnum">٠٣</div>
+      <div>
+        <div class="btitle">إيران تنفي المفاوضات المباشرة</div>
+        <div class="bdesc">رغم تصريحات ترامب بأن القيادة الإيرانية تتفاوض بجدية</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="fact">
+      <div class="donut"></div>
+      ٢٠٪ من النفط العالمي محتجز
+    </div>
+    <div class="dots">
+      <div class="d"></div><div class="d active"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 3: LEBANON ===== -->
+<div class="label">Slide 3/8</div>
+<div class="slide s3" id="slide3">
+  <div class="dark-top">
+    <div class="nav">
+      <div class="pg" style="color:rgba(255,255,255,.4);">٣ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag">لبنان</div>
+    </div>
+    <h1>الحرب على لبنان</h1>
+    <div style="text-align:center;">
+      <span class="dur-badge">٣٦ يوماً</span>
+    </div>
+    <div class="sub" style="text-align:center;">منذ ٢ مارس ٢٠٢٦</div>
+    <div class="pbar-wrap">
+      <div class="pbar"><div class="fill" style="width:10%;background:#D72638;"></div></div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="scard">
+      <div class="stop" style="background:#D72638;"></div>
+      <div class="donut-mini">
+        <svg viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="rgba(0,0,0,.06)" stroke-width="5"/><circle cx="25" cy="25" r="20" fill="none" stroke="#D72638" stroke-width="5" stroke-dasharray="75 125" stroke-dashoffset="-31" transform="rotate(-90 25 25)"/></svg>
+      </div>
+      <div class="snum" style="color:#D72638;">+١,٤٠٠</div>
+      <div class="sdesc">قتيل</div>
+      <div class="ssub">مدنيين ومقاتلين</div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:60%;background:#D72638;"></div></div>
+    </div>
+    <div class="scard">
+      <div class="stop" style="background:#FFC217;"></div>
+      <div class="donut-mini">
+        <svg viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="rgba(0,0,0,.06)" stroke-width="5"/><circle cx="25" cy="25" r="20" fill="none" stroke="#FFC217" stroke-width="5" stroke-dasharray="25 100" stroke-dashoffset="-31" transform="rotate(-90 25 25)"/></svg>
+      </div>
+      <div class="snum" style="color:#2b2b2b;">١.٢M</div>
+      <div class="sdesc">نازح</div>
+      <div class="ssub">٢٠٪ من سكان لبنان</div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:20%;background:#FFC217;"></div></div>
+    </div>
+    <div class="scard">
+      <div class="stop" style="background:#D72638;"></div>
+      <div class="donut-mini">
+        <svg viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="rgba(0,0,0,.06)" stroke-width="5"/><circle cx="25" cy="25" r="20" fill="none" stroke="#D72638" stroke-width="5" stroke-dasharray="10 115" stroke-dashoffset="-31" transform="rotate(-90 25 25)"/></svg>
+      </div>
+      <div class="snum" style="color:#D72638;">١٢٦</div>
+      <div class="sdesc">طفل قُتل</div>
+      <div class="ssub">وفق السلطات اللبنانية</div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:8%;background:#D72638;"></div></div>
+    </div>
+    <div class="scard">
+      <div class="stop" style="background:#2b2b2b;"></div>
+      <div class="donut-mini">
+        <svg viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="rgba(0,0,0,.06)" stroke-width="5"/><circle cx="25" cy="25" r="20" fill="none" stroke="#2b2b2b" stroke-width="5" stroke-dasharray="12.5 112.5" stroke-dashoffset="-31" transform="rotate(-90 25 25)"/></svg>
+      </div>
+      <div class="snum" style="color:#2b2b2b;">١/١٠</div>
+      <div class="sdesc">من مساحة لبنان</div>
+      <div class="ssub">خطة احتلال المنطقة الأمنية</div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:10%;background:#2b2b2b;"></div></div>
+    </div>
+  </div>
+
+  <div class="tl-section">
+    <div class="tl-header">آخر الأحداث — أبريل ٢٠٢٦</div>
+
+    <div class="tl-item">
+      <div class="tl-dot" style="background:#D72638;"></div>
+      <div class="tl-card" style="border-right-color:#D72638;">
+        <div class="tl-date">01 APR</div>
+        <div class="tl-text">غارة إسرائيلية على بيروت تقتل قائداً بارزاً في حزب الله</div>
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot" style="background:#FF9800;"></div>
+      <div class="tl-card" style="border-right-color:#FF9800;">
+        <div class="tl-date">04 APR</div>
+        <div class="tl-text">غارات تلحق أضراراً بمستشفى في مدينة صور جنوب لبنان</div>
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot" style="background:#D72638;"></div>
+      <div class="tl-card" style="border-right-color:#D72638;">
+        <div class="tl-date">05 APR</div>
+        <div class="tl-text">١٤ قتيلاً في غارات إسرائيلية متفرقة على مناطق لبنانية</div>
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot" style="background:#D72638;"></div>
+      <div class="tl-card" style="border-right-color:#D72638;">
+        <div class="tl-date">06 APR</div>
+        <div class="tl-text">تدمير بلدات في الجنوب واستهداف مناطق "آمنة" حول بيروت</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="fact">٦٠٠ ألف ممنوعون من العودة لمنازلهم</div>
+    <div class="logo sm"><div class="rect"></div><div class="name" style="color:#fff;">PHOTONECT</div></div>
+  </div>
+</div>
+
+<!-- Slides 4-8 continued in next message to avoid truncation -->
+<!-- For now, slides 4-8 placeholders - building them next -->
+
+<!-- ===== SLIDE 4: GAZA ===== -->
+<div class="label">Slide 4/8</div>
+<div class="slide s4" id="slide4">
+  <div class="top">
+    <div class="nav">
+      <div class="pg">٤ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag">غزة</div>
+    </div>
+  </div>
+  <h1>غزة — هدنة هشّة</h1>
+  <div class="sub">وقف إطلاق النار لم يوقف القتل</div>
+
+  <div class="bignum-box">
+    <div class="glow"></div>
+    <div class="bn">٧٢,٣٠٢+</div>
+    <div class="blbl">شهيد منذ ٧ أكتوبر ٢٠٢٣</div>
+    <div class="compare-bars">
+      <div class="crow">
+        <div class="clbl">رسمي</div>
+        <div class="cbar"><div class="cfill" style="width:72%;background:#D72638;border-radius:5px;"></div></div>
+      </div>
+      <div class="crow">
+        <div class="clbl">تقديري</div>
+        <div class="cbar"><div class="cfill" style="width:100%;background:#FF9800;border-radius:5px;"></div></div>
+      </div>
+    </div>
+    <div class="compare-note">التقديرات المستقلة (The Lancet) تتجاوز ١٠٠,٠٠٠</div>
+  </div>
+
+  <div class="sub-stats">
+    <div class="ss-card">
+      <div class="ss-donut">
+        <svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="24" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="6"/><circle cx="30" cy="30" r="24" fill="none" stroke="#D72638" stroke-width="6" stroke-dasharray="22.6 128" transform="rotate(-90 30 30)"/></svg>
+        <div class="ss-num" style="color:#D72638;">٧١٦+</div>
+      </div>
+      <div class="ss-lbl">قُتلوا منذ بدء<br>وقف إطلاق النار</div>
+      <div class="pbar" style="margin-top:8px;"><div class="fill" style="width:15%;background:#D72638;"></div></div>
+    </div>
+    <div class="ss-card">
+      <div class="ss-donut">
+        <svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="24" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="6"/><circle cx="30" cy="30" r="24" fill="none" stroke="#FFC217" stroke-width="6" stroke-dasharray="45.2 105" transform="rotate(-90 30 30)"/></svg>
+        <div class="ss-num" style="color:#FFC217;">١,٩٩٠</div>
+      </div>
+      <div class="ss-lbl">أصيبوا منذ<br>أكتوبر ٢٠٢٥</div>
+      <div class="pbar" style="margin-top:8px;"><div class="fill" style="width:30%;background:#FFC217;"></div></div>
+    </div>
+    <div class="ss-card">
+      <div class="ss-donut">
+        <svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="24" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="6"/><circle cx="30" cy="30" r="24" fill="none" stroke="#FF9800" stroke-width="6" stroke-dasharray="7.5 143" transform="rotate(-90 30 30)"/></svg>
+        <div class="ss-num" style="color:#FF9800;">١٣</div>
+      </div>
+      <div class="ss-lbl">قُتلوا خلال أسبوع<br>١٧-٢٥ مارس</div>
+      <div class="pbar" style="margin-top:8px;"><div class="fill" style="width:5%;background:#FF9800;"></div></div>
+    </div>
+  </div>
+
+  <div class="ceasefire">
+    <div class="ch">
+      <div class="cdot"></div>
+      <div class="ctitle">المرحلة الثانية من الهدنة</div>
+    </div>
+    <div class="phases">
+      <div class="phase"><div class="phbar" style="background:#4CAF50;"></div><div class="phlbl">المرحلة ١ ✓</div></div>
+      <div class="phase"><div class="phbar" style="background:linear-gradient(90deg,#FFC217 30%,rgba(255,255,255,.1) 30%);"></div><div class="phlbl">المرحلة ٢ ●</div></div>
+      <div class="phase"><div class="phbar" style="background:rgba(255,255,255,.1);"></div><div class="phlbl">المرحلة ٣</div></div>
+    </div>
+    <div class="ctext">حكومة تكنوقراط انتقالية بقيادة علي شعث تحت إشراف مجلس السلام الدولي. مصر وتركيا وقطر ترحب.</div>
+  </div>
+
+  <div class="disarm">
+    <div class="dt">⚠ نقطة الخلاف: نزع سلاح حماس</div>
+    <div class="dd">الجناح العسكري يرفض المناقشة قبل تنفيذ إسرائيل للمرحلة الأولى بالكامل. إسرائيل أغلقت جميع المعابر ما عدا كرم أبو سالم.</div>
+    <div class="tension">
+      <div class="tlbl">مستوى التوتر</div>
+      <div class="pbar" style="flex:1;"><div class="fill" style="width:75%;background:linear-gradient(90deg,#FFC217,#D72638);"></div></div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="fact">🚧 كرم أبو سالم — المعبر الوحيد المفتوح</div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d active"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 5: IRAN ===== -->
+<div class="label">Slide 5/8</div>
+<div class="slide s5" id="slide5">
+  <div class="head">
+    <div class="nav">
+      <div class="pg">٥ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag">إيران</div>
+    </div>
+    <h1>حرب إيران ٢٠٢٦</h1>
+    <div style="text-align:center;"><span class="day-badge">اليوم ٣٨</span></div>
+    <div class="sub">٣٨ يوماً غيّرت خارطة الشرق الأوسط</div>
+  </div>
+
+  <div class="timeline">
+    <div class="tl-entry">
+      <div class="tl-date" style="background:#D72638;">28 FEB</div>
+      <div class="tl-node" style="background:#D72638; box-shadow:0 0 10px rgba(215,38,56,.5);"></div>
+      <div class="tl-card" style="background:rgba(215,38,56,.1);border-right-color:#D72638;">
+        <div class="tt" style="color:#D72638;">الضربة الأولى</div>
+        <div class="td">غارات أمريكية-إسرائيلية مفاجئة على مواقع إيرانية. اغتيال المرشد الأعلى علي خامنئي و٧ مسؤولين أمنيين كبار.</div>
+        <div class="impact"><div class="ilbl">التأثير</div><div class="pbar" style="flex:1;height:6px;"><div class="fill" style="width:95%;background:#D72638;"></div></div></div>
+      </div>
+    </div>
+
+    <div class="tl-entry">
+      <div class="tl-date" style="background:#FFC217;color:#1e1e1e;">01 MAR</div>
+      <div class="tl-node" style="background:#FFC217; box-shadow:0 0 10px rgba(255,194,23,.5);"></div>
+      <div class="tl-card" style="background:rgba(255,194,23,.06);border-right-color:#FFC217;">
+        <div class="tt" style="color:#FFC217;">الرد الإيراني</div>
+        <div class="td">صواريخ ومسيّرات على إسرائيل وقواعد أمريكية. إغلاق مضيق هرمز. مقتل ابنة خامنئي وعائلتها.</div>
+        <div class="impact"><div class="ilbl">التأثير</div><div class="pbar" style="flex:1;height:6px;"><div class="fill" style="width:85%;background:#FFC217;"></div></div></div>
+      </div>
+    </div>
+
+    <div class="tl-entry">
+      <div class="tl-date" style="background:rgba(255,152,0,.8);">02 MAR</div>
+      <div class="tl-node" style="background:#FF9800;"></div>
+      <div class="tl-card" style="background:rgba(255,255,255,.03);border-right-color:#FF9800;">
+        <div class="tt" style="color:#FF9800;">حزب الله يدخل الحرب</div>
+        <div class="td">صواريخ حزب الله على إسرائيل دعماً لإيران. إسرائيل تبدأ قصف لبنان وتطلق اجتياحاً برياً.</div>
+      </div>
+    </div>
+
+    <div class="tl-entry">
+      <div class="tl-date" style="background:rgba(255,255,255,.1);">08 MAR</div>
+      <div class="tl-node" style="background:rgba(255,255,255,.4);"></div>
+      <div class="tl-card" style="background:rgba(255,255,255,.03);border-right-color:rgba(255,255,255,.2);">
+        <div class="tt" style="color:#fff;">مرشد أعلى جديد</div>
+        <div class="td">انتخاب مجتبى خامنئي خلفاً لوالده. الحرس الثوري والقيادات الإيرانية تبايع المرشد الجديد.</div>
+      </div>
+    </div>
+
+    <div class="tl-entry">
+      <div class="tl-date" style="background:#D72638;">07 APR</div>
+      <div class="tl-node" style="background:#D72638; box-shadow:0 0 12px rgba(215,38,56,.6);"></div>
+      <div class="tl-card" style="background:rgba(215,38,56,.1);border:2px solid rgba(215,38,56,.3);border-right:4px solid #D72638;">
+        <div class="tt" style="color:#D72638;">⚡ اليوم — الموعد النهائي</div>
+        <div class="td">مهلة ترامب لإيران بفتح مضيق هرمز تنتهي الليلة. إيران تقدم خطة بديلة من ١٠ نقاط ترفض فيها الشروط الأمريكية.</div>
+        <div class="impact"><div class="ilbl">التأثير</div><div class="pbar" style="flex:1;height:6px;"><div class="fill" style="width:90%;background:#D72638;"></div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="fact">٣٨ يوماً من التصعيد المتواصل</div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d active"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 6: WEST BANK ===== -->
+<div class="label">Slide 6/8</div>
+<div class="slide s6" id="slide6">
+  <div class="dark-top">
+    <div class="nav">
+      <div class="pg" style="color:rgba(255,255,255,.4);">٦ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag gold">الضفة الغربية</div>
+    </div>
+    <h1>الأزمة الصامتة</h1>
+    <div class="sub" style="text-align:center;">عنف المستوطنين يتصاعد بأرقام غير مسبوقة</div>
+    <div class="arrows">
+      <span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span><span class="arr">▸</span>
+    </div>
+  </div>
+
+  <div class="chart-box">
+    <div class="chtitle">المعدل الشهري لإصابات الفلسطينيين في هجمات المستوطنين</div>
+    <div class="chsub">المصدر: مكتب الأمم المتحدة OCHA</div>
+    <div class="bars">
+      <div class="bar-col">
+        <div class="bar-val" style="color:#bbb;">٣٠</div>
+        <div class="bar" style="height:50px;background:#ccc;"></div>
+        <div class="bar-yr">٢٠٢٤</div>
+      </div>
+      <div class="bar-col">
+        <div class="bar-val" style="color:#888;">٦٩</div>
+        <div class="bar" style="height:115px;background:#999;"></div>
+        <div class="bar-yr">٢٠٢٥</div>
+      </div>
+      <div class="bar-col">
+        <div class="bar-val" style="color:#D72638;">١٠٥</div>
+        <div class="bar" style="height:175px;background:#D72638;"></div>
+        <div class="bar-yr">٢٠٢٦</div>
+      </div>
+    </div>
+    <div style="text-align:center;">
+      <span class="pct-badge">+٢٥٠٪</span>
+    </div>
+  </div>
+
+  <div class="facts">
+    <div class="fact-card" style="border-right-color:#D72638;">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+        <div>
+          <div class="ftitle">فلسطيني مهجّر في ٢٠٢٦</div>
+          <div class="fsub">تجاوز إجمالي عام ٢٠٢٥ بالكامل</div>
+        </div>
+        <div class="fnum" style="color:#D72638;">١,٦٩٧</div>
+      </div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:100%;background:#D72638;"></div></div>
+    </div>
+    <div class="fact-card" style="border-right-color:#FF9800;">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+        <div>
+          <div class="ftitle">ممنوعون من العودة لمنازلهم</div>
+          <div class="fsub">في المنطقة الأمنية المخطط لها بلبنان</div>
+        </div>
+        <div class="fnum" style="color:#FF9800;">+٦٠٠K</div>
+      </div>
+      <div class="pbar light" style="margin-top:10px;"><div class="fill" style="width:60%;background:#FF9800;"></div></div>
+    </div>
+  </div>
+
+  <div class="ocha">
+    <div class="ot">⚠ مكتب الأمم المتحدة OCHA:</div>
+    <div class="od">تصاعد العنف الاستيطاني يترافق مع توسع استيطاني غير مسبوق في ظل انشغال العالم بالحرب الإقليمية.</div>
+  </div>
+
+  <div class="bbar">
+    <div class="fact">المصدر: مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية</div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d active"></div><div class="d"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 7: GLOBAL IMPACT ===== -->
+<div class="label">Slide 7/8</div>
+<div class="slide s7" id="slide7">
+  <div class="head">
+    <div class="nav">
+      <div class="pg">٧ / ٨</div>
+      <div class="logo sm"><div class="rect"></div><div class="name">PHOTONECT</div></div>
+      <div class="tag gold">التأثير العالمي</div>
+    </div>
+    <h1>كيف يؤثر هذا عليك؟</h1>
+    <div class="sub">الأرقام التي تهمّك</div>
+    <div class="gold-line"></div>
+  </div>
+
+  <div class="grid">
+    <div class="gcard">
+      <div class="gchart">
+        <svg viewBox="0 0 200 50" preserveAspectRatio="none">
+          <defs><linearGradient id="ig1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#D72638" stop-opacity="0.3"/><stop offset="100%" stop-color="#D72638" stop-opacity="0"/></linearGradient></defs>
+          <path d="M0,35 L40,33 L80,28 L120,22 L160,12 L200,5 L200,50 L0,50Z" fill="url(#ig1)"/>
+          <polyline points="0,35 40,33 80,28 120,22 160,12 200,5" fill="none" stroke="#D72638" stroke-width="2"/>
+        </svg>
+      </div>
+      <div class="gnum" style="color:#D72638;">$١١٦</div>
+      <div class="gl1">سعر النفط الأمريكي</div>
+      <div class="gl2">ارتفاع بأكثر من ٤٠٪ عن ما قبل الحرب</div>
+    </div>
+    <div class="gcard">
+      <div style="text-align:center;margin:10px 0;">
+        <svg width="70" height="70" viewBox="0 0 70 70"><circle cx="35" cy="35" r="30" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="8"/><circle cx="35" cy="35" r="30" fill="none" stroke="#FFC217" stroke-width="8" stroke-dasharray="37.7 150.8" transform="rotate(-90 35 35)"/><text x="35" y="40" text-anchor="middle" fill="#FFC217" font-size="16" font-weight="900" font-family="Cairo">٢٠٪</text></svg>
+      </div>
+      <div class="gl1">من النفط العالمي</div>
+      <div class="gl2">كان يمر عبر مضيق هرمز</div>
+    </div>
+    <div class="gcard">
+      <div class="gnum" style="color:#D72638;font-size:48px;margin:15px 0;">٣+</div>
+      <div class="gl1">دول في حالة حرب</div>
+      <div class="gl2">إسرائيل — إيران — لبنان</div>
+    </div>
+    <div class="gcard">
+      <div class="gchart">
+        <svg viewBox="0 0 200 50" preserveAspectRatio="none">
+          <defs><linearGradient id="ig2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFC217" stop-opacity="0.3"/><stop offset="100%" stop-color="#FFC217" stop-opacity="0"/></linearGradient></defs>
+          <path d="M0,48 L40,46 L80,40 L120,30 L160,15 L200,5 L200,50 L0,50Z" fill="url(#ig2)"/>
+          <polyline points="0,48 40,46 80,40 120,30 160,15 200,5" fill="none" stroke="#FFC217" stroke-width="2"/>
+        </svg>
+      </div>
+      <div class="gnum" style="color:#FFC217;">+٢.٢M</div>
+      <div class="gl1">نازح في المنطقة</div>
+      <div class="gl2">غزة + لبنان مجتمعين</div>
+    </div>
+  </div>
+
+  <div class="watch">
+    <div class="wt">ما الذي نراقبه؟</div>
+    <div class="wline"></div>
+    <div class="witem">
+      <div class="wdot" style="background:#D72638;box-shadow:0 0 6px rgba(215,38,56,.5);"></div>
+      <div style="flex:1;">
+        <div class="wlbl" style="color:#D72638;">الليلة</div>
+        <div class="wdesc">هل ستفتح إيران مضيق هرمز قبل الموعد النهائي أم سيتصاعد الصراع؟</div>
+        <div class="wpbar pbar" style="height:4px;margin-top:6px;"><div class="fill" style="width:95%;background:#D72638;"></div></div>
+      </div>
+    </div>
+    <div class="witem">
+      <div class="wdot" style="background:#FFC217;"></div>
+      <div style="flex:1;">
+        <div class="wlbl" style="color:#FFC217;">هذا الأسبوع</div>
+        <div class="wdesc">جلسة مجلس الأمن المفتوحة حول فلسطين برئاسة البحرين</div>
+        <div class="wpbar pbar" style="height:4px;margin-top:6px;"><div class="fill" style="width:70%;background:#FFC217;"></div></div>
+      </div>
+    </div>
+    <div class="witem">
+      <div class="wdot" style="background:#FF9800;"></div>
+      <div style="flex:1;">
+        <div class="wlbl" style="color:#FF9800;">الاجتياح البري</div>
+        <div class="wdesc">إسرائيل نشرت فرقة ثانية في جنوب لبنان — هل يتوسع الاحتلال؟</div>
+        <div class="wpbar pbar" style="height:4px;margin-top:6px;"><div class="fill" style="width:80%;background:#FF9800;"></div></div>
+      </div>
+    </div>
+    <div class="witem">
+      <div class="wdot" style="background:#D72638;"></div>
+      <div style="flex:1;">
+        <div class="wlbl" style="color:#D72638;">غزة</div>
+        <div class="wdesc">مفاوضات المرحلة الثانية متعثرة. حماس تعلن عن ٢٠ رهينة للإفراج</div>
+        <div class="wpbar pbar" style="height:4px;margin-top:6px;"><div class="fill" style="width:60%;background:#D72638;"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bbar">
+    <div class="next">الصفحة التالية: المصادر ←</div>
+    <div class="dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d active"></div><div class="d"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SLIDE 8: SOURCES ===== -->
+<div class="label">Slide 8/8</div>
+<div class="slide s8" id="slide8">
+  <div class="top-logo">
+    <div class="logo" style="display:inline-flex;">
+      <div class="rect" style="width:28px;height:9px;"></div>
+      <div class="name" style="font-size:26px;">PHOTONECT</div>
+      <div class="sub">NEWS</div>
+    </div>
+  </div>
+  <div class="sep"></div>
+  <div class="stitle">المصادر</div>
+  <div class="ssub">نحن لا نكذب — تحقق بنفسك</div>
+  <div class="sep"></div>
+
+  <div class="sources">
+    <div class="src"><div class="snum">٠١</div><div class="sinfo"><div class="sname">Al Jazeera — الجزيرة</div><div><span class="surl">aljazeera.com</span> · <span class="sdesc">تغطية مباشرة للأحداث</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٢</div><div class="sinfo"><div class="sname">Security Council Report</div><div><span class="surl">securitycouncilreport.org</span> · <span class="sdesc">تقارير مجلس الأمن</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٣</div><div class="sinfo"><div class="sname">CNBC — Oil Markets</div><div><span class="surl">cnbc.com</span> · <span class="sdesc">أسواق النفط والطاقة</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٤</div><div class="sinfo"><div class="sname">وكالة وفا الفلسطينية</div><div><span class="surl">english.wafa.ps</span> · <span class="sdesc">الوكالة الرسمية</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٥</div><div class="sinfo"><div class="sname">OCHA — الشؤون الإنسانية</div><div><span class="surl">ochaopt.org</span> · <span class="sdesc">تنسيق الإغاثة</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٦</div><div class="sinfo"><div class="sname">The Washington Post</div><div><span class="surl">washingtonpost.com</span> · <span class="sdesc">تحليلات سياسية</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٧</div><div class="sinfo"><div class="sname">Wikipedia — Timeline</div><div><span class="surl">en.wikipedia.org</span> · <span class="sdesc">جداول زمنية</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٨</div><div class="sinfo"><div class="sname">Human Rights Watch</div><div><span class="surl">hrw.org</span> · <span class="sdesc">حقوق الإنسان</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">٠٩</div><div class="sinfo"><div class="sname">PBS News</div><div><span class="surl">pbs.org</span> · <span class="sdesc">تحليل السياسة الأمريكية</span></div></div><div class="sgold"></div></div>
+    <div class="src"><div class="snum">١٠</div><div class="sinfo"><div class="sname">The Lancet Global Health</div><div><span class="surl">thelancet.com</span> · <span class="sdesc">دراسات الوفيات المستقلة</span></div></div><div class="sgold"></div></div>
+  </div>
+
+  <div class="bottom">
+    <div class="sep"></div>
+    <div class="logo" style="display:inline-flex;margin-bottom:8px;">
+      <div class="rect" style="width:22px;height:7px;"></div>
+      <div class="name" style="font-size:20px;">PHOTONECT</div>
+      <div class="sub">NEWS</div>
+    </div>
+    <div class="follow">تابعنا — الأخبار كل ساعتين</div>
+    <div class="handle">@PhotonectNEWS</div>
+    <div class="tagline">أخبار بلا تحيّز — معلومات تستحق وقتك</div>
+    <div class="dots" style="margin-top:8px;">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d active"></div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
