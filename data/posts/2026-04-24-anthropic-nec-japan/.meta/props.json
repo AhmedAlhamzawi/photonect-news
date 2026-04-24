@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/bed_pulse_syn.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "Anthropic وNEC تبنيان أكبر قوة عمل ذكاء اصطناعي في تاريخ اليابان",
+    "englishSubhead": "ANTHROPIC + NEC • JAPAN'S LARGEST AI WORKFORCE",
+    "heroQueries": [
+      "Tokyo skyline night tech",
+      "NEC headquarters Japan",
+      "Anthropic office San Francisco",
+      "AI data center server rack",
+      "Japan robot automation factory"
+    ],
+    "heroMedia": "images/news/2026-04-24-anthropic-nec-japan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "شراكة طوكيو: NEC تعيد تشكيل ٢٠ ألف مهندس على أدوات Claude",
+      "arabicBody": "أعلنت Anthropic اليوم شراكة كبرى مع NEC اليابانية لتدريب عشرين ألف مهندس خلال ثمانية عشر شهراً على أدوات Claude، في أكبر برنامج إعادة تأهيل تقني في اليابان منذ دخول الذكاء الاصطناعي مرحلة الإنتاج",
+      "bigStat": {
+        "value": "20,000",
+        "label": "engineers to retrain on Claude",
+        "arabicLabel": "مهندس مُعاد تدريبه"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة الزمنية",
+          "value": "18 شهر"
+        },
+        {
+          "label": "المقر",
+          "value": "طوكيو + 5 مدن"
+        },
+        {
+          "label": "البداية",
+          "value": "يونيو ٢٠٢٦"
+        }
+      ],
+      "broll": "images/news/2026-04-24-anthropic-nec-japan/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الصورة الأكبر",
+      "arabicHeading": "Anthropic توقّع أيضاً مع أمازون على ٥ جيجاوات لتدريب Claude",
+      "arabicBody": "في نفس الأسبوع، أعلنت الشركة اتفاقية مع أمازون لتأمين طاقة حوسبة تصل إلى خمسة جيجاوات لبناء وتشغيل نسخ Claude القادمة — إيراد سنوي مُقدّر يقترب من ١٩ مليار دولار مقابل ٢٥ لـOpenAI",
+      "bigStat": {
+        "value": "5 GW",
+        "label": "compute capacity with AWS",
+        "arabicLabel": "جيجاوات من أمازون"
+      },
+      "supportingStats": [
+        {
+          "label": "إيراد Anthropic",
+          "value": "$19B"
+        },
+        {
+          "label": "إيراد OpenAI",
+          "value": "$25B"
+        },
+        {
+          "label": "السنوي السابق",
+          "value": "$7B"
+        }
+      ],
+      "broll": "images/news/2026-04-24-anthropic-nec-japan/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "النتيجة",
+      "arabicHeading": "اليابان تراهن على Claude كركيزة تحديث المؤسسات — والمنافسة تحتدم",
+      "arabicBody": "بعد أيام من إصدار OpenAI لـGPT-5.5 وإعلان DeepSeek عن V4 Flash وPro، تدفع طوكيو نحو خيار أميركي موثّق، فيما ترى كارينجي أن السباق الصناعي دخل طوره الأشد كلفة",
+      "bigStat": {
+        "value": "3",
+        "label": "major AI labs racing",
+        "arabicLabel": "شركات في سباق محتدم"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "اليابان: مركز Claude الإقليمي"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "سوق مفتوح بين المختبرات الثلاثة"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تموضع ياباني لـGPT-5.5 موازياً"
+        }
+      ],
+      "broll": "images/news/2026-04-24-anthropic-nec-japan/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "APAC Media",
+      "domain": "apacnewsnetwork.com"
+    },
+    {
+      "name": "US News",
+      "domain": "usnews.com"
+    },
+    {
+      "name": "LLM Stats",
+      "domain": "llm-stats.com"
+    }
+  ],
+  "arabicTicker": [
+    "Anthropic تعلن اليوم أكبر شراكة إعادة تأهيل تقني في اليابان مع NEC لتدريب ٢٠ ألف مهندس",
+    "البرنامج يمتد ثمانية عشر شهراً ويبدأ يونيو ٢٠٢٦ من طوكيو وخمس مدن يابانية كبرى أخرى",
+    "اتفاقية أمازون ويب سيرفيسز مع Anthropic تؤمن خمسة جيجاوات من طاقة الحوسبة لتدريب Claude",
+    "الإيراد السنوي لـAnthropic يقترب من ١٩ مليار دولار مقابل ٢٥ مليار لـOpenAI هذا العام",
+    "ديب سيك الصينية تطلق V4 Flash وV4 Pro قبل أيام مركّزة على قدرات التفكير والوكلاء البرمجيين",
+    "OpenAI تطرح GPT-5.5 بسعر ٥ دولارات للمليون رمز دخل و٣٠ للمخرج — ضعف تسعير النسخة السابقة",
+    "كارنيجي: السباق الصناعي لنماذج الذكاء الاصطناعي دخل طوره الأشد كلفة منذ إطلاق ChatGPT"
+  ]
+}

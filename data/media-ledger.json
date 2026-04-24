@@ -3944,6 +3944,418 @@
         "breaking news graphic"
       ],
       "fetched_at": "2026-04-22T21:02:40.098403+00:00"
+    },
+    {
+      "slug": "2026-04-24-anthropic-nec-japan",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fuji_Latex_headquarters_20150409.jpg/1920px-Fuji_Latex_headquarters_20150409.jpg",
+      "source": "wikimedia",
+      "sha256": "8225956b1099fcc36826403cb3377a8efff7856ca10d1e9d769f88769e23627c",
+      "queries": [
+        "Tokyo skyline night tech",
+        "NEC headquarters Japan",
+        "Anthropic office San Francisco",
+        "AI data center server rack",
+        "Japan robot automation factory",
+        "data center"
+      ],
+      "fetched_at": "2026-04-24T14:51:48.620216+00:00"
+    },
+    {
+      "slug": "2026-04-24-anthropic-nec-japan",
+      "slot": "broll_1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Minimal_Fab_exhibit_at_Tsukuba_Science_Square_4.jpg/1920px-Minimal_Fab_exhibit_at_Tsukuba_Science_Square_4.jpg",
+      "source": "wikimedia",
+      "sha256": "edac7410bda06c035208081b0c050a3878fa0b8cb873a5d6330e8e0ae26ef24d",
+      "queries": [
+        "engineers to retrain on claude",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T14:52:25.906341+00:00"
+    },
+    {
+      "slug": "2026-04-24-anthropic-nec-japan",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Minimal_Fab_exhibit_at_Tsukuba_Science_Square_6.jpg/1920px-Minimal_Fab_exhibit_at_Tsukuba_Science_Square_6.jpg",
+      "source": "wikimedia",
+      "sha256": "ab8c20742dfca2ec1a88e88bba07b9e039fa6b94eadb7382ed22392c9cf0db21",
+      "queries": [
+        "compute capacity with aws",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T14:52:38.889415+00:00"
+    },
+    {
+      "slug": "2026-04-24-anthropic-nec-japan",
+      "slot": "broll_3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Minimal_Fab_exhibit_at_Tsukuba_Science_Square_7.jpg/1920px-Minimal_Fab_exhibit_at_Tsukuba_Science_Square_7.jpg",
+      "source": "wikimedia",
+      "sha256": "917e340ba6f220762e1224562492c71109e11e53fd510517d8b47c979c5424e6",
+      "queries": [
+        "major ai labs racing",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T14:52:49.964394+00:00"
+    },
+    {
+      "slug": "2026-04-24-araghchi-pakistan",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meeting_with_Foreign_Minister_of_Iran_Abbas_Araghchi.jpg",
+      "source": "wikimedia",
+      "sha256": "d54eaca1e40f2ba59c6a8e6dc7e653dc7fc8cc37c485ca27b0b1e4e799c2ddbc",
+      "queries": [
+        "Iran foreign minister Araghchi",
+        "Islamabad Pakistan foreign office",
+        "Tehran Pakistan diplomacy meeting",
+        "Jinnah memorial Islamabad",
+        "Pakistan prime minister Sharif",
+        "Faisal Mosque Islamabad"
+      ],
+      "fetched_at": "2026-04-24T14:52:54.584773+00:00"
+    },
+    {
+      "slug": "2026-04-24-araghchi-pakistan",
+      "slot": "broll_1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dunkin_Donuts_on_Jinnah_Avenue_in_Islamabad.jpg/1920px-Dunkin_Donuts_on_Jinnah_Avenue_in_Islamabad.jpg",
+      "source": "wikimedia",
+      "sha256": "5a9cac5852d33cb90a0403393f973c6313955283b4389da3f598df869d38a47f",
+      "queries": [
+        "Islamabad Jinnah avenue",
+        "Pakistan army headquarters Rawalpindi",
+        "Peshawar market",
+        "public channel since feb 28",
+        "newsroom wide shot",
+        "breaking news graphic"
+      ],
+      "fetched_at": "2026-04-24T14:53:03.521107+00:00"
+    },
+    {
+      "slug": "2026-04-24-araghchi-pakistan",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Shops_on_Jinnah_Avenue_in_Islamabad.jpg/1920px-Shops_on_Jinnah_Avenue_in_Islamabad.jpg",
+      "source": "wikimedia",
+      "sha256": "b2b35baca6b5b8ceb3e7338bb7194b42ec2e13a867e67773a59818a3a581fa33",
+      "queries": [
+        "Islamabad Jinnah avenue",
+        "Pakistan army headquarters Rawalpindi",
+        "Peshawar market",
+        "dossiers on the table",
+        "newsroom wide shot",
+        "breaking news graphic"
+      ],
+      "fetched_at": "2026-04-24T14:53:39.235467+00:00"
+    },
+    {
+      "slug": "2026-04-24-araghchi-pakistan",
+      "slot": "broll_3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jinnah_Avenue_Islamabad.JPG/1920px-Jinnah_Avenue_Islamabad.JPG",
+      "source": "wikimedia",
+      "sha256": "32ef08210c662faf845fc7e054c0df9ec00e59330c1eda7fb346be7b706829ce",
+      "queries": [
+        "Islamabad Jinnah avenue",
+        "Pakistan army headquarters Rawalpindi",
+        "Peshawar market",
+        "diplomatic tracks",
+        "newsroom wide shot",
+        "breaking news graphic"
+      ],
+      "fetched_at": "2026-04-24T14:53:45.817320+00:00"
+    },
+    {
+      "slug": "2026-04-24-brent-106-hormuz-shut",
+      "slot": "hero",
+      "url": "motion://b7541bfba27e07c4",
+      "source": "motion",
+      "sha256": "b7541bfba27e07c499d1442dde2188397641ef93dcd7069c3637876fdb74e71a",
+      "queries": [
+        "Strait of Hormuz tanker",
+        "Brent crude price chart screen",
+        "Persian Gulf oil tanker night",
+        "NYSE trading floor oil",
+        "IEA Paris headquarters",
+        "Strait of Hormuz satellite"
+      ],
+      "fetched_at": "2026-04-24T14:55:19.458515+00:00"
+    },
+    {
+      "slug": "2026-04-24-brent-106-hormuz-shut",
+      "slot": "broll_1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US_Navy_020809-N-6641E-501_At_sea_with_the_guided_missile_destroyer_USS_Cole_%28DDG_67%29.jpg/1920px-US_Navy_020809-N-6641E-501_At_sea_with_the_guided_missile_destroyer_USS_Cole_%28DDG_67%29.jpg",
+      "source": "wikimedia",
+      "sha256": "e2ba32f97920a3e40aa400962fae717b0e1ece200cbb026b8d47c41252ed4f29",
+      "queries": [
+        "crude oil tanker wide shot",
+        "navy destroyer at sea",
+        "oil pipeline terminal",
+        "brent close, apr 24",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T14:55:28.138803+00:00"
+    },
+    {
+      "slug": "2026-04-24-brent-106-hormuz-shut",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/US_Navy_100114-N-3038W-327_The_guided-missile_destroyer_USS_Sampson_%28DDG_102%29_and_an_MH-60S_Sea_Hawk_helicopter_assigned_to_the_Wildcards_of_Helicopter_Sea_Combat_Squadron_%28HSC%29_23.jpg/1920px-thumbnail.jpg",
+      "source": "wikimedia",
+      "sha256": "556729fb955b22eb545e5547eaf10127d1e5b188103c8f86fd0e6a4bf8679c37",
+      "queries": [
+        "crude oil tanker wide shot",
+        "navy destroyer at sea",
+        "oil pipeline terminal",
+        "bpd lost globally",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T14:55:32.807873+00:00"
+    },
+    {
+      "slug": "2026-04-24-brent-106-hormuz-shut",
+      "slot": "broll_3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Visakhapatnam_%28D66%29_-_P15B_destroyer_of_Indian_Navy_during_sea_trials.jpg",
+      "source": "wikimedia",
+      "sha256": "2cab929ad246bd8ed657870c8efd2deab365d62a7b2f293b923b577c600a8882",
+      "queries": [
+        "crude oil tanker wide shot",
+        "navy destroyer at sea",
+        "oil pipeline terminal",
+        "possible hormuz outcomes",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T14:55:36.940759+00:00"
+    },
+    {
+      "slug": "2026-04-24-deepseek-v4-launch",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ISS006-E-7813_-_View_of_China.jpg/1920px-ISS006-E-7813_-_View_of_China.jpg",
+      "source": "wikimedia",
+      "sha256": "941ac3c8139524ef998ba99bb1aaa70956903ed92766ee57695da373cae33ad9",
+      "queries": [
+        "DeepSeek office China tech",
+        "Beijing tech startup AI lab",
+        "AI benchmark comparison chart",
+        "China AI data center",
+        "OpenAI Anthropic logo wall",
+        "data center"
+      ],
+      "fetched_at": "2026-04-24T14:55:42.596863+00:00"
+    },
+    {
+      "slug": "2026-04-24-deepseek-v4-launch",
+      "slot": "broll_1",
+      "url": "motion://a454d6226420ef38",
+      "source": "motion",
+      "sha256": "a454d6226420ef38acc9819ffb471b026f42da363f924bc9dfb3f9225acc0b55",
+      "queries": [
+        "series launch (flash + pro)",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T15:00:56.069685+00:00"
+    },
+    {
+      "slug": "2026-04-24-deepseek-v4-launch",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Taiwan_Semiconductor_Yilan_Plant_Front.jpg",
+      "source": "wikimedia",
+      "sha256": "1394358c3ad952caff8e6863bb1049c0c70f384f089579162f57057e8360e130",
+      "queries": [
+        "deepseek vs us pricing",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T15:01:07.788242+00:00"
+    },
+    {
+      "slug": "2026-04-24-deepseek-v4-launch",
+      "slot": "broll_3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Farmers_Market_Relationships-3-01-01-2_%289441954041%29.jpg/1920px-Farmers_Market_Relationships-3-01-01-2_%289441954041%29.jpg",
+      "source": "wikimedia",
+      "sha256": "7cc402ed1716904e211e2c6ab13e813e101fa59a4261b1b3ec7e55166bc1b4c3",
+      "queries": [
+        "market reactions",
+        "server room",
+        "semiconductor fab"
+      ],
+      "fetched_at": "2026-04-24T15:01:16.977350+00:00"
+    },
+    {
+      "slug": "2026-04-24-eu-90b-ukraine-loan",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DOORSTEP_2016-09-16_BRATISLAVA_SUMMIT_%2829090316963%29.jpg/1920px-DOORSTEP_2016-09-16_BRATISLAVA_SUMMIT_%2829090316963%29.jpg",
+      "source": "wikimedia",
+      "sha256": "d1350dc46cc3e5b5a2038db2af410beb6d191a1897035d80129267137b24e806",
+      "queries": [
+        "European Council Cyprus summit",
+        "Ursula von der Leyen speech",
+        "Ukraine flag Kyiv Maidan",
+        "EU flag Brussels building",
+        "Russia sanctions treasury",
+        "global stock exchange"
+      ],
+      "fetched_at": "2026-04-24T15:08:05.358530+00:00"
+    },
+    {
+      "slug": "2026-04-24-eu-90b-ukraine-loan",
+      "slot": "broll_1",
+      "url": "motion://acd271232f443d5b",
+      "source": "motion",
+      "sha256": "acd271232f443d5bb4ba13dcd310817379fa31453ade9e30c54aa064102614ab",
+      "queries": [
+        "new ukraine loan approved",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T15:18:51.554235+00:00"
+    },
+    {
+      "slug": "2026-04-24-eu-90b-ukraine-loan",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Isabelle_de_France_Charles_IV.jpg/1920px-Isabelle_de_France_Charles_IV.jpg",
+      "source": "wikimedia",
+      "sha256": "98d047f34fe202bbac2b50a2f21ae64d61135c54c09e3ca402deb876f8047895",
+      "queries": [
+        "germany-france on full accession",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T15:18:59.595362+00:00"
+    },
+    {
+      "slug": "2026-04-24-eu-90b-ukraine-loan",
+      "slot": "broll_3",
+      "url": "motion://48c0eeb2e2afbdea",
+      "source": "motion",
+      "sha256": "48c0eeb2e2afbdea4b9228dec8c38b3f49b6e50efc0153e6cab77e2193305e1b",
+      "queries": [
+        "market/political impacts",
+        "Wall Street bull statue",
+        "trading floor screens"
+      ],
+      "fetched_at": "2026-04-24T15:21:20.705685+00:00"
+    },
+    {
+      "slug": "2026-04-24-lebanon-ceasefire-indef",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CVN_69_transits_the_Strait_of_Hormuz_%2828465400856%29.jpg/1920px-CVN_69_transits_the_Strait_of_Hormuz_%2828465400856%29.jpg",
+      "source": "wikimedia",
+      "sha256": "d8c50e6855649dd842943abb2ed1b63ad82543d64bb8588876676a36d46c83b8",
+      "queries": [
+        "US Navy blockade Persian Gulf",
+        "aircraft carrier Hormuz strait",
+        "Trump White House press podium",
+        "Beirut skyline ceasefire damage",
+        "Tehran skyline Iran",
+        "Beirut skyline dawn Mediterranean"
+      ],
+      "fetched_at": "2026-04-24T15:22:19.569110+00:00"
+    },
+    {
+      "slug": "2026-04-24-lebanon-ceasefire-indef",
+      "slot": "broll_1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chenowth_desert_patrol_vehicle_DPV_pic1.JPG/1920px-Chenowth_desert_patrol_vehicle_DPV_pic1.JPG",
+      "source": "wikimedia",
+      "sha256": "25a502b705290f509d7ff071a6debb80a7ac7eec349ddc7754aa22cd8e282ec6",
+      "queries": [
+        "Beirut street evening",
+        "south Lebanon countryside village",
+        "Beirut central district",
+        "armored vehicle patrol",
+        "empty border road",
+        "peace accord signing table"
+      ],
+      "fetched_at": "2026-04-24T15:22:50.209252+00:00"
+    },
+    {
+      "slug": "2026-04-24-lebanon-ceasefire-indef",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/British_Patrol_Car_and_East_German_Armored_Vehicle_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+      "source": "wikimedia",
+      "sha256": "8b11e8399df6a055b9ff59345bc32b7c29d3c6e300eded418c56bc72b9a9006c",
+      "queries": [
+        "Beirut street evening",
+        "south Lebanon countryside village",
+        "Beirut central district",
+        "armored vehicle patrol",
+        "empty border road",
+        "peace accord signing table"
+      ],
+      "fetched_at": "2026-04-24T15:22:55.197108+00:00"
+    },
+    {
+      "slug": "2026-04-24-lebanon-ceasefire-indef",
+      "slot": "broll_3",
+      "url": "motion://650b755f5fa012af",
+      "source": "motion",
+      "sha256": "650b755f5fa012af8f6fc26b2b617931b8801bf26dda48098bc5d43e9bc99c4c",
+      "queries": [
+        "Beirut street evening",
+        "south Lebanon countryside village",
+        "Beirut central district",
+        "armored vehicle patrol",
+        "empty border road",
+        "peace accord signing table"
+      ],
+      "fetched_at": "2026-04-24T15:24:02.411915+00:00"
+    },
+    {
+      "slug": "2026-04-24-syria-tunnel-crackdown",
+      "slot": "hero",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584080510%29.jpg/1920px-History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584080510%29.jpg",
+      "source": "wikimedia",
+      "sha256": "dd77616c9757399fd64483eaa1dacfe6895446633f47fb19a225d689bb3ee348",
+      "queries": [
+        "Syria Lebanon border mountain",
+        "Syrian army tunnel operation",
+        "Ahmed al-Sharaa Damascus president",
+        "Syria border checkpoint Arsal",
+        "Bekaa valley Lebanon border",
+        "Middle East map political"
+      ],
+      "fetched_at": "2026-04-24T15:24:06.554644+00:00"
+    },
+    {
+      "slug": "2026-04-24-syria-tunnel-crackdown",
+      "slot": "broll_1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/UN_Security_Council_2007-04-03.JPG/1920px-UN_Security_Council_2007-04-03.JPG",
+      "source": "wikimedia",
+      "sha256": "41e31aed058dcccfa9bd24ff649ed69ac0d2d097e41fa5888396bcd5b5457ff4",
+      "queries": [
+        "tunnels discovered & closed",
+        "diplomatic handshake",
+        "UN security council chamber"
+      ],
+      "fetched_at": "2026-04-24T15:24:41.732874+00:00"
+    },
+    {
+      "slug": "2026-04-24-syria-tunnel-crackdown",
+      "slot": "broll_2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/UN_Security_Council_Nov_16_2023.jpg/1920px-UN_Security_Council_Nov_16_2023.jpg",
+      "source": "wikimedia",
+      "sha256": "a7a818aa6fac6f37475d23ed4bc4a362c2508381fc5289be08bca0ceac6894c0",
+      "queries": [
+        "damascus policy shift",
+        "diplomatic handshake",
+        "UN security council chamber"
+      ],
+      "fetched_at": "2026-04-24T15:25:16.380569+00:00"
+    },
+    {
+      "slug": "2026-04-24-syria-tunnel-crackdown",
+      "slot": "broll_3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Efraim_Inbar%2C_The_Consequences_of_the_Emerging_American-Iranian_Nuclear_Deal_%2818605607855%29.jpg/1920px-Efraim_Inbar%2C_The_Consequences_of_the_Emerging_American-Iranian_Nuclear_Deal_%2818605607855%29.jpg",
+      "source": "wikimedia",
+      "sha256": "7019438f775e3a78bbfd35b894949b1873b535989d72247d8f68725ddd38508f",
+      "queries": [
+        "strategic consequences",
+        "diplomatic handshake",
+        "UN security council chamber"
+      ],
+      "fetched_at": "2026-04-24T15:25:20.254541+00:00"
     }
   ]
 }

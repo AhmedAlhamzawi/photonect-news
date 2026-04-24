@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "audioBed": "audio/bed_pulse_syn.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ديب سيك V4 يُطلق — Flash وPro تستهدفان سوق الوكلاء البرمجيين",
+    "englishSubhead": "DEEPSEEK V4 • FLASH + PRO • AGENTIC",
+    "heroQueries": [
+      "DeepSeek office China tech",
+      "Beijing tech startup AI lab",
+      "AI benchmark comparison chart",
+      "China AI data center",
+      "OpenAI Anthropic logo wall"
+    ],
+    "heroMedia": "images/news/2026-04-24-deepseek-v4-launch/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإطلاق",
+      "arabicHeading": "V4 Flash وV4 Pro — ديب سيك تعيد تعريف التسعير الصيني العالمي",
+      "arabicBody": "أعلنت ديب سيك اليوم عن إطلاق نسختين Preview من عائلة V4: Flash السريعة وPro الأقوى، وتؤكد الشركة أن التركيز انتقل بالكامل إلى قدرات التفكير الطويل والوكلاء البرمجيين القادرين على تنفيذ مهام متعددة",
+      "bigStat": {
+        "value": "V4",
+        "label": "series launch (Flash + Pro)",
+        "arabicLabel": "عائلة جديدة كاملة"
+      },
+      "supportingStats": [
+        {
+          "label": "Flash",
+          "value": "سرعة عالية"
+        },
+        {
+          "label": "Pro",
+          "value": "تفكير عميق"
+        },
+        {
+          "label": "التاريخ",
+          "value": "٢٤ أبريل"
+        }
+      ],
+      "broll": "images/news/2026-04-24-deepseek-v4-launch/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "السباق",
+      "arabicHeading": "ثلاث مختبرات — ثلاثة إطلاقات في ٩٠ يوماً — التسعير ينهار",
+      "arabicBody": "خلال تسعين يوماً: OpenAI أطلقت GPT-5.5 بضعف التسعير، Anthropic وقّعت NEC واتفاقية ٥ جيجاوات مع أمازون، وديب سيك تطلق V4 بسعر أقل ١٠ مرات من المنافسين — السوق يدخل طور الهامش المفتوح",
+      "bigStat": {
+        "value": "10×",
+        "label": "DeepSeek vs US pricing",
+        "arabicLabel": "أرخص عشر مرات"
+      },
+      "supportingStats": [
+        {
+          "label": "OpenAI GPT-5.5",
+          "value": "$5/M in"
+        },
+        {
+          "label": "DeepSeek V4 Pro",
+          "value": "~$0.5/M in"
+        },
+        {
+          "label": "فارق زمني",
+          "value": "٩٠ يوم"
+        }
+      ],
+      "broll": "images/news/2026-04-24-deepseek-v4-launch/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الصدى",
+      "arabicHeading": "ثلاث نتائج فورية: ضغط هوامش، تبنّي آسيوي، وحذر تنظيمي أميركي",
+      "arabicBody": "ينعكس الإطلاق فوراً على ثلاث محاور: ضغط إضافي على هوامش OpenAI وAnthropic، تسارع التبنّي في آسيا واليابان وسنغافورة، وزيادة حذر وزارة التجارة الأميركية بشأن القدرات المتقدمة للنماذج الصينية",
+      "bigStat": {
+        "value": "3",
+        "label": "market reactions",
+        "arabicLabel": "ردود فعل متزامنة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "حرب تسعير غربية مضادة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تبنّي آسيوي متسارع"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تضييق تنظيمي أميركي"
+        }
+      ],
+      "broll": "images/news/2026-04-24-deepseek-v4-launch/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "US News",
+      "domain": "usnews.com"
+    },
+    {
+      "name": "APAC Media",
+      "domain": "apacnewsnetwork.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "Promethean AI",
+      "domain": "promethean-ai.com"
+    },
+    {
+      "name": "LLM Stats",
+      "domain": "llm-stats.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "ديب سيك الصينية تطلق رسمياً عائلة V4 بنسختيها Flash وPro مع تركيز على قدرات الوكلاء البرمجيين",
+    "التسعير المعلن لـV4 Pro يُقدّر بنحو عشر مرات أقل من GPT-5.5 الأميركي وClaude الأحدث",
+    "OpenAI رفعت تسعير GPT-5.5 إلى ٥ دولارات للمليون رمز دخل و٣٠ للمخرج — ضعف النسخة السابقة",
+    "Anthropic وقّعت اليوم شراكة كبرى مع NEC اليابانية لتدريب عشرين ألف مهندس على أدوات Claude",
+    "اتفاقية أمازون ويب سيرفيسز مع Anthropic تؤمّن خمسة جيجاوات من طاقة الحوسبة لتدريب النماذج",
+    "ثلاثة مختبرات — ثلاثة إطلاقات — خلال تسعين يوماً فقط: السباق دخل طور الهامش المضغوط",
+    "وزارة التجارة الأميركية ترصد عن كثب قدرات V4 المتقدمة وإمكانية تصدير رقائق متقدّمة للصين"
+  ]
+}

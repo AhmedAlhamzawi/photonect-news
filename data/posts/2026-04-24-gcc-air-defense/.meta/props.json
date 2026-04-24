@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ست دول خليجية — ست منظومات — ٣٢ قتيلاً: الدرع الخليجي يُختبر",
+    "englishSubhead": "GCC SIX • AIR DEFENSES ACTIVE • 32 DEAD",
+    "heroQueries": [
+      "Patriot missile launch Gulf",
+      "UAE air defense system",
+      "Saudi THAAD launch sky",
+      "Persian Gulf military radar",
+      "Riyadh skyline night defense"
+    ],
+    "heroMedia": "images/news/2026-04-24-gcc-air-defense/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاشتباك",
+      "arabicHeading": "منذ ٢٨ فبراير: كل عاصمة خليجية فعّلت رادارها — ٦ من ٦",
+      "arabicBody": "كل الدول الست في مجلس التعاون الخليجي فعّلت منظوماتها للدفاع الجوي بعد موجات صواريخ ومسيّرات إيرانية، بدعم أميركي مستمر من قاعدة العديد والقاعدة البحرية الخامسة",
+      "bigStat": {
+        "value": "6/6",
+        "label": "GCC states firing defenses",
+        "arabicLabel": "كل دول المجلس مشتبكة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإمارات",
+          "value": "باتريوت"
+        },
+        {
+          "label": "السعودية",
+          "value": "ثاد"
+        },
+        {
+          "label": "قطر",
+          "value": "NASAMS"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-air-defense/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    },
+    {
+      "label": "الخسائر",
+      "arabicHeading": "٣٢ قتيلاً في خمس دول — أبوظبي والدمام وميناء صحار الأكثر تضرراً",
+      "arabicBody": "استهدفت القوات الإيرانية منشآت النفط والغاز وموانئ التصدير في الإمارات والسعودية والبحرين وعُمان والكويت، فيما يصف مسؤولون أن الأضرار على البنية التحتية ما زالت في طور التقييم",
+      "bigStat": {
+        "value": "32",
+        "label": "dead across Gulf states",
+        "arabicLabel": "قتلى الخليج"
+      },
+      "supportingStats": [
+        {
+          "label": "الإمارات",
+          "value": "12"
+        },
+        {
+          "label": "السعودية",
+          "value": "9"
+        },
+        {
+          "label": "البحرين",
+          "value": "6"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-air-defense/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    },
+    {
+      "label": "التحصين",
+      "arabicHeading": "خريطة الدفاع المشتركة: شبكة رادار موحّدة تُطرح الأسبوع المقبل",
+      "arabicBody": "تدرس دول الخليج إطلاق شبكة رادار إقليمية موحّدة تربط منظومات الدفاع في الدول الست وتوجَّه من مركز عمليات مشترك في الرياض بإشراف أميركي، وفق مصادر عسكرية خليجية",
+      "bigStat": {
+        "value": "1",
+        "label": "unified GCC radar grid",
+        "arabicLabel": "شبكة رادار موحدة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "شبكة موحّدة بإدارة الرياض"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تنسيق ثنائي مع البنتاغون"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "ابقاء المنظومات الوطنية المستقلة"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-air-defense/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Carnegie Endowment",
+      "domain": "carnegieendowment.org"
+    },
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Defense News",
+      "domain": "defensenews.com"
+    }
+  ],
+  "arabicTicker": [
+    "ست دول خليجية فعّلت منظوماتها للدفاع الجوي منذ انطلاق العمليات الأميركية الإسرائيلية ضد إيران",
+    "باتريوت في الإمارات، ثاد في السعودية، NASAMS في قطر — ثلاث منظومات أميركية تعمل معاً في الخليج",
+    "إثنان وثلاثون قتيلاً موزّعون على خمس دول خليجية بعد استهداف إيراني لمنشآت النفط والغاز",
+    "أبوظبي والدمام وميناء صحار العُماني من بين أكثر المناطق تضرراً من الضربات الإيرانية المتقطّعة",
+    "القاعدة البحرية الخامسة والعديد تقدّمان إسناداً استخبارياً مستمراً لمنظومات الدفاع الخليجية",
+    "الرياض تدرس إطلاق شبكة رادار موحّدة تربط دول المجلس الست تحت إشراف أميركي مباشر",
+    "الإمارات تستضيف مركز عمليات مشترك مؤقت لتنسيق رصد المسيّرات فوق مياه الخليج العربي"
+  ]
+}

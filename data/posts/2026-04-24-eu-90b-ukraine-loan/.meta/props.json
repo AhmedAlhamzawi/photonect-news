@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "الاتحاد الأوروبي يعتمد ٩٠ مليار يورو لأوكرانيا — وحزمة عقوبات رقم ٢٠",
+    "englishSubhead": "EU • €90B LOAN UKRAINE • 20th SANCTIONS",
+    "heroQueries": [
+      "European Council Cyprus summit",
+      "Ursula von der Leyen speech",
+      "Ukraine flag Kyiv Maidan",
+      "EU flag Brussels building",
+      "Russia sanctions treasury"
+    ],
+    "heroMedia": "images/news/2026-04-24-eu-90b-ukraine-loan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاعتماد",
+      "arabicHeading": "قمة قبرص: ٩٠ مليار يورو قرض + ٢٠ عقوبة — لكن بلا عضوية",
+      "arabicBody": "اعتمدت قمة قبرص الأوروبية غير الرسمية يومَي ٢٣ و٢٤ أبريل قرضاً قيمته تسعون مليار يورو لأوكرانيا وحزمة عقوبات رقم ٢٠ على روسيا، فيما اقترحت برلين وباريس منح كييف صفة \"عضو منتسب\" بدلاً من مسار العضوية الكامل",
+      "bigStat": {
+        "value": "€90B",
+        "label": "new Ukraine loan approved",
+        "arabicLabel": "قرض مخصص لأوكرانيا"
+      },
+      "supportingStats": [
+        {
+          "label": "حزمة العقوبات",
+          "value": "رقم ٢٠"
+        },
+        {
+          "label": "وضع كييف",
+          "value": "عضو منتسب"
+        },
+        {
+          "label": "إطار ميزاني",
+          "value": "٢٠٢٨-٢٠٣٤"
+        }
+      ],
+      "broll": "images/news/2026-04-24-eu-90b-ukraine-loan/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "الخلاف",
+      "arabicHeading": "ألمانيا تقود معسكر التحفّظ — عضوية كاملة الآن غير ممكنة",
+      "arabicBody": "برلين ترفض قبول كييف كعضو كامل في الاتحاد بحجة الكلفة المالية وتدفع بدلاً من ذلك لصيغة \"الشريك الاستراتيجي\" الملحق، فيما تحذّر بولندا ودول البلطيق من أن التأخير يعزّز الرواية الروسية داخل الاتحاد",
+      "bigStat": {
+        "value": "DEFER",
+        "label": "Germany-France on full accession",
+        "arabicLabel": "تأجيل المسار الكامل"
+      },
+      "supportingStats": [
+        {
+          "label": "برلين وباريس",
+          "value": "ضد"
+        },
+        {
+          "label": "وارسو وبالتيك",
+          "value": "مع"
+        },
+        {
+          "label": "قبرص ومالطا",
+          "value": "صامتة"
+        }
+      ],
+      "broll": "images/news/2026-04-24-eu-90b-ukraine-loan/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "ثلاثة انعكاسات: السوق، كييف، والعلاقات عبر الأطلسي",
+      "arabicBody": "تراقب أسواق الدين السيادي التفاصيل لأن القرض يموَّل بسندات مشتركة، يراقب الكرملين التشقق الأوروبي ويطوّر رده، بينما تحتدم مفاوضات التجارة مع واشنطن مع رفض برلين إضافة ضمانات مطلبتها باريس والبرلمان الأوروبي",
+      "bigStat": {
+        "value": "3",
+        "label": "market/political impacts",
+        "arabicLabel": "انعكاسات متزامنة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "السندات المشتركة تتوسع"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "كييف تقبل صيغة منتسب"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "مواجهة تجارية مع واشنطن"
+        }
+      ],
+      "broll": "images/news/2026-04-24-eu-90b-ukraine-loan/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Consilium EU",
+      "domain": "consilium.europa.eu"
+    },
+    {
+      "name": "Mayer Brown",
+      "domain": "mayerbrown.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "DW",
+      "domain": "dw.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    }
+  ],
+  "arabicTicker": [
+    "قمة قبرص غير الرسمية تعتمد قرض أوكرانيا بقيمة تسعين مليار يورو وحزمة عقوبات رقم ٢٠ على روسيا",
+    "ألمانيا وفرنسا تقترحان منح أوكرانيا صفة عضو منتسب بدلاً من المسار الكامل نحو العضوية",
+    "بولندا ودول البلطيق الثلاث تحذّر من أن تأجيل مسار العضوية يعزز الرواية الروسية داخل الاتحاد",
+    "القمة تضع الأساس لإطار العمل المالي الأوروبي للفترة ٢٠٢٨-٢٠٣٤ وسط خلافات حول الأولويات",
+    "ألمانيا ترفض إضافة ضمانات مطلبتها باريس والبرلمان الأوروبي في الاتفاقية التجارية مع واشنطن",
+    "الكرملين يراقب التشقق الأوروبي حول ملف أوكرانيا ويطوّر رده وفق تقارير من الاستخبارات الفرنسية",
+    "السندات الأوروبية المشتركة المستخدمة لتمويل القرض تفتح سابقة جديدة في سوق الدين السيادي الموحّد"
+  ]
+}

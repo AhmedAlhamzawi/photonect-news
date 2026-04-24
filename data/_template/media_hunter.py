@@ -456,9 +456,10 @@ def ledger_add(ledger: dict[str, Any], slug: str, slot: str, url: str,
 # ---------- http ----------
 
 def fetch(url: str, headers: dict[str, str] | None = None, timeout: int = 25) -> bytes | None:
-    req = urllib.request.Request(url, headers=headers or {
-        "User-Agent": "PhotonectNews/1.0 (contact: ahmed@photonect.net)"
-    })
+    merged = {"User-Agent": "PhotonectNews/1.0 (contact: ahmed@photonect.net)"}
+    if headers:
+        merged.update(headers)
+    req = urllib.request.Request(url, headers=merged)
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read()

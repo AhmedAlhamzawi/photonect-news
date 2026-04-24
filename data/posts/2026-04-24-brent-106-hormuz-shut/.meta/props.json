@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "برنت عند ١٠٦ دولاراً — ١٣ مليون برميل يومياً مفقودة عالمياً",
+    "englishSubhead": "BRENT $106 • 13M BPD LOST • HORMUZ SHUT",
+    "heroQueries": [
+      "Strait of Hormuz tanker",
+      "Brent crude price chart screen",
+      "Persian Gulf oil tanker night",
+      "NYSE trading floor oil",
+      "IEA Paris headquarters"
+    ],
+    "heroMedia": "images/news/2026-04-24-brent-106-hormuz-shut/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السعر",
+      "arabicHeading": "برنت يغلق عند ١٠٦.٠١ دولاراً — +٣٩ دولاراً عن العام الماضي",
+      "arabicBody": "أنهى خام برنت جلسة الجمعة عند ١٠٦ دولاراً للبرميل بعد تقارير عن توجّه وزير الخارجية الإيراني إلى إسلام آباد، رغم أن السعر ما زال يبعد ٣٩ دولاراً عن مستوى العام الماضي",
+      "bigStat": {
+        "value": "$106",
+        "label": "Brent close, Apr 24",
+        "arabicLabel": "إغلاق برنت اليومي"
+      },
+      "supportingStats": [
+        {
+          "label": "فرق عن ٢٠٢٥",
+          "value": "+$39"
+        },
+        {
+          "label": "ذروة الأسبوع",
+          "value": "$131"
+        },
+        {
+          "label": "قاع الأسبوع",
+          "value": "$104"
+        }
+      ],
+      "broll": "images/news/2026-04-24-brent-106-hormuz-shut/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "الاختناق",
+      "arabicHeading": "وكالة الطاقة: أكبر تهديد للأمن الطاقوي في التاريخ — ١٣ مليون برميل يومياً",
+      "arabicBody": "قال فاتح بيرول مدير الوكالة الدولية للطاقة لـCNBC إن العالم فقد ١٣ مليون برميل يومياً، وشحنات هرمز انخفضت إلى ٣.٨ مليون برميل من ٢٠+ قبل الأزمة — أدنى مستوى منذ حرب الناقلات ١٩٨٧",
+      "bigStat": {
+        "value": "13M",
+        "label": "bpd lost globally",
+        "arabicLabel": "مفقود يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "هرمز قبل",
+          "value": "20M bpd"
+        },
+        {
+          "label": "هرمز الآن",
+          "value": "3.8M bpd"
+        },
+        {
+          "label": "ذروة توقف",
+          "value": "9.1M bpd"
+        }
+      ],
+      "broll": "images/news/2026-04-24-brent-106-hormuz-shut/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    },
+    {
+      "label": "المسار",
+      "arabicHeading": "عراقجي إلى إسلام آباد — الأسواق تسعّر فرصة انفراج ولو محدودة",
+      "arabicBody": "انخفض السعر يوم الجمعة بعد تقارير عن وصول وزير الخارجية الإيراني إلى باكستان لمباحثات سلام، لكن الحصار البحري الأميركي والعقوبات تبقى دون تغيير، والأسواق تترقّب دلالة سياسية",
+      "bigStat": {
+        "value": "3",
+        "label": "possible Hormuz outcomes",
+        "arabicLabel": "سيناريوهات هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "إسلام آباد تنتج إطار هدنة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "الحصار يبقى حتى الصيف"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تصعيد جديد برنت إلى ١٤٠+"
+        }
+      ],
+      "broll": "images/news/2026-04-24-brent-106-hormuz-shut/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF8C42"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IEA",
+      "domain": "iea.org"
+    },
+    {
+      "name": "Fortune",
+      "domain": "fortune.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "EIA",
+      "domain": "eia.gov"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يغلق عند ١٠٦.٠١ دولاراً الجمعة بفارق ٣٩ دولاراً عن مستوى العام الماضي وسط توتر متقطع",
+    "الوكالة الدولية للطاقة: أكبر تهديد للأمن الطاقوي في التاريخ — ١٣ مليون برميل يومياً مفقودة",
+    "شحنات مضيق هرمز عند ٣.٨ مليون برميل يومياً — أدنى مستوى منذ حرب الناقلات عام ١٩٨٧",
+    "ذروة توقف الإنتاج في أبريل تقدّر بـ٩.١ مليون برميل يومياً حسب بيانات EIA الأميركية الرسمية",
+    "وزير خارجية إيران عباس عراقجي يصل إلى إسلام آباد اليوم لمحادثات سلام مع طهران المعزولة",
+    "أسواق العقود الآجلة تسعّر انفراجاً محدوداً دون رفع الحصار البحري الأميركي على الخليج العربي",
+    "ثلاث مسارات تلوح: إطار هدنة من إسلام آباد، استمرار الحصار حتى الصيف، أو تصعيد إلى ١٤٠+"
+  ]
+}

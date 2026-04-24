@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/bed_pressure.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "سوريا تغلق نفقين على الحدود اللبنانية — الشرع يدعم نزع السلاح",
+    "englishSubhead": "SYRIA • 2 TUNNELS CLOSED • BORDER",
+    "heroQueries": [
+      "Syria Lebanon border mountain",
+      "Syrian army tunnel operation",
+      "Ahmed al-Sharaa Damascus president",
+      "Syria border checkpoint Arsal",
+      "Bekaa valley Lebanon border"
+    ],
+    "heroMedia": "images/news/2026-04-24-syria-tunnel-crackdown/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاكتشاف",
+      "arabicHeading": "وزارة الدفاع السورية: نفقان على حدود عرسال استخدما لتهريب السلاح",
+      "arabicBody": "أعلنت وزارة الدفاع السورية عن اكتشاف وإغلاق نفقين اثنين على الحدود اللبنانية في منطقة القلمون الشرقي قرب عرسال، استُخدما لتهريب السلاح لصالح حزب الله منذ بدء الحرب في الثاني من مارس الماضي",
+      "bigStat": {
+        "value": "2",
+        "label": "tunnels discovered & closed",
+        "arabicLabel": "نفق اكتُشف وأُغلق"
+      },
+      "supportingStats": [
+        {
+          "label": "المنطقة",
+          "value": "القلمون الشرقي"
+        },
+        {
+          "label": "قرب",
+          "value": "عرسال"
+        },
+        {
+          "label": "الاستخدام",
+          "value": "تهريب السلاح"
+        }
+      ],
+      "broll": "images/news/2026-04-24-syria-tunnel-crackdown/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "الموقف",
+      "arabicHeading": "الشرع: ندعم جهود الحكومة اللبنانية لنزع سلاح حزب الله",
+      "arabicBody": "أعلن الرئيس السوري أحمد الشرع أن دمشق تدعم الحكومة اللبنانية في مساعي نزع سلاح حزب الله، وهو تحوّل استراتيجي حاد عن موقف الحكومة السابقة التي كانت ترعى خطوط الإمداد منذ عام ٢٠٠٦",
+      "bigStat": {
+        "value": "180°",
+        "label": "Damascus policy shift",
+        "arabicLabel": "انقلاب دمشق"
+      },
+      "supportingStats": [
+        {
+          "label": "الرئيس",
+          "value": "أحمد الشرع"
+        },
+        {
+          "label": "الموقف السابق",
+          "value": "إمداد منذ ٢٠٠٦"
+        },
+        {
+          "label": "الموقف الحالي",
+          "value": "دعم نزع السلاح"
+        }
+      ],
+      "broll": "images/news/2026-04-24-syria-tunnel-crackdown/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "التأثير",
+      "arabicHeading": "ثلاثة انعكاسات: هدنة لبنانية أقرب، طهران أضيق، وبيروت أمام اختيار",
+      "arabicBody": "يُضعف القرار السوري موقف حزب الله في أي تفاوض هدنة مستقبلي، يضع طهران أمام فقدان الرديف السوري التاريخي، ويدفع بيروت أمام معادلة أصعب: إما قبول نزع السلاح الداخلي أو تحمّل تكلفة عزل خارجي مُركّب",
+      "bigStat": {
+        "value": "3",
+        "label": "strategic consequences",
+        "arabicLabel": "انعكاسات استراتيجية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "هدنة مشروطة سريعة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تشدد حزب الله الداخلي"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تعثر تشكيل الحكومة اللبنانية"
+        }
+      ],
+      "broll": "images/news/2026-04-24-syria-tunnel-crackdown/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "SANA",
+      "domain": "sana.sy"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة الدفاع السورية تعلن عن إغلاق نفقين على الحدود اللبنانية في منطقة القلمون الشرقي",
+    "النفقان استخدما لتهريب السلاح لصالح حزب الله منذ بدء الحرب اللبنانية في الثاني من مارس الماضي",
+    "الرئيس السوري أحمد الشرع يعلن دعمه الكامل للحكومة اللبنانية في مسار نزع سلاح حزب الله",
+    "الموقف السوري الجديد يمثل انقلاباً كاملاً على سياسة دمشق التي كانت ترعى خطوط الإمداد منذ ٢٠٠٦",
+    "القرار يأتي في ظل تمديد ترامب للهدنة مع إيران إلى أجل غير مسمى وضغط دولي على بيروت",
+    "مراقبون: طهران تفقد الرديف السوري التاريخي الذي شكّل العمود الفقري للإمداد اللوجستي طوال عقدين",
+    "الحكومة اللبنانية أمام اختبار أصعب: قبول نزع السلاح الداخلي أو تحمّل تكلفة عزل خارجي"
+  ]
+}

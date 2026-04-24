@@ -70,6 +70,26 @@ jobs:
           fi
           echo "value=$RESOLVED" >> "$GITHUB_OUTPUT"
 
+      - name: Stage hand-picked media into my-video/public
+        env:
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          set -e
+          SRC="cloud-media/$DATE_ARG"
+          DST="my-video/public/images/news"
+          if [ ! -d "$SRC" ]; then
+            echo "::error::no cloud-media for $DATE_ARG (expected $SRC)"
+            exit 1
+          fi
+          mkdir -p "$DST"
+          for slug_dir in "$SRC"/*/; do
+            slug="$(basename "$slug_dir")"
+            mkdir -p "$DST/$slug"
+            cp "$slug_dir"* "$DST/$slug/"
+          done
+          echo "staged $(ls "$SRC" | wc -l) slugs:"
+          ls "$DST" | grep "^$DATE_ARG" || true
+
       - name: Render slate
         env:
           MYVIDEO: ${{ github.workspace }}/my-video

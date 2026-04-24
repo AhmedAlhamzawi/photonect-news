@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "audioBed": "audio/bed_pressure.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ترامب يمدّد هدنة إيران إلى أجل غير مسمى — لكن الحصار البحري مستمرّ",
+    "englishSubhead": "TRUMP • INDEF CEASEFIRE • BLOCKADE HOLDS",
+    "heroQueries": [
+      "US Navy blockade Persian Gulf",
+      "aircraft carrier Hormuz strait",
+      "Trump White House press podium",
+      "Beirut skyline ceasefire damage",
+      "Tehran skyline Iran"
+    ],
+    "heroMedia": "images/news/2026-04-24-lebanon-ceasefire-indef/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "ترامب ليلاً: الهدنة تُمدّد لأجل غير مسمى ريثما تقدّم طهران موقفاً موحّداً",
+      "arabicBody": "أعلن الرئيس الأميركي في تغريدة منتصف الليل تمديد وقف النار مع إيران دون سقف زمني، فيما يبقى الحصار البحري الأميركي على الخليج قائماً ولا تُرفع العقوبات إلا بمقابل",
+      "bigStat": {
+        "value": "∞",
+        "label": "indefinite ceasefire",
+        "arabicLabel": "هدنة مفتوحة"
+      },
+      "supportingStats": [
+        {
+          "label": "بداية الحرب",
+          "value": "٢٨ فبراير"
+        },
+        {
+          "label": "قتلى إيران",
+          "value": "3,400"
+        },
+        {
+          "label": "قتلى لبنان",
+          "value": "2,200+"
+        }
+      ],
+      "broll": "images/news/2026-04-24-lebanon-ceasefire-indef/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "الكلفة",
+      "arabicHeading": "لبنان: أكثر من مليون نازح — ٢٠٪ من السكان خارج منازلهم منذ ٢ مارس",
+      "arabicBody": "بعد أربع وخمسين يوماً من الحرب، يواجه لبنان أسوأ أزمة إنسانية منذ اجتياح ١٩٨٢، بينما دخلت الضربات الجوية الإسرائيلية شمال البقاع واستشهد إعلاميون لبنانيون في غارتين منفصلتين",
+      "bigStat": {
+        "value": "1M+",
+        "label": "displaced in Lebanon",
+        "arabicLabel": "نازح لبناني"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة سكانية",
+          "value": "20%"
+        },
+        {
+          "label": "أيام الحرب",
+          "value": "54"
+        },
+        {
+          "label": "قتلى الخليج",
+          "value": "32"
+        }
+      ],
+      "broll": "images/news/2026-04-24-lebanon-ceasefire-indef/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    },
+    {
+      "label": "المسارات",
+      "arabicHeading": "ثلاث مقاربات على الطاولة: إسلام آباد، الدوحة، والقبرصية",
+      "arabicBody": "يصل وزير الخارجية الإيراني عراقجي إلى إسلام آباد اليوم فيما تدفع الدوحة بمسار وسيط وتحتضن قبرص قمة الاتحاد الأوروبي — ثلاث عواصم تتسابق على دور الوسيط بين واشنطن وطهران",
+      "bigStat": {
+        "value": "3",
+        "label": "mediation tracks active",
+        "arabicLabel": "مسارات وساطة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "إسلام آباد: عراقجي اليوم"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "الدوحة: قناة خلفية"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "قبرص: غطاء أوروبي"
+        }
+      ],
+      "broll": "images/news/2026-04-24-lebanon-ceasefire-indef/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FF2D55"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "NBC News",
+      "domain": "nbcnews.com"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    }
+  ],
+  "arabicTicker": [
+    "ترامب يعلن تمديد وقف النار مع إيران إلى أجل غير مسمى عبر تغريدة منتصف الليل من البيت الأبيض",
+    "الحصار البحري الأميركي على الخليج مستمر ولن يُرفع إلا مقابل موقف إيراني موحّد حول البرنامج النووي",
+    "لبنان يسجّل أكثر من مليون نازح — خُمس السكان — منذ انطلاق الحرب في الثاني من مارس الماضي",
+    "طهران تعلن مقتل ٣٤٠٠ منذ ٢٨ فبراير بينما يتجاوز العدد في لبنان ٢٢٠٠ قتيل بين مدنيين ومقاتلين",
+    "وزير الخارجية الإيراني عراقجي يصل إلى إسلام آباد اليوم في أول مسار علني للتفاوض غير المباشر",
+    "الدوحة تستمر في قناتها الخلفية مع واشنطن وطهران وتتولى دور الوسيط الإقليمي الأساسي",
+    "قبرص تحتضن قمة اتحادية غير رسمية يومَي ٢٣-٢٤ أبريل لتنسيق الموقف الأوروبي من الحرب"
+  ]
+}

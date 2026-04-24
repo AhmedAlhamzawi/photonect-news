@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "audioBed": "audio/bed_pressure.mp3",
+  "breaking": {
+    "arabicKicker": "دبلوماسية",
+    "arabicHeadline": "عراقجي في إسلام آباد: أول قناة علنية للمفاوضات غير المباشرة",
+    "englishSubhead": "ARAGHCHI • ISLAMABAD • FIRST PUBLIC CHANNEL",
+    "heroQueries": [
+      "Iran foreign minister Araghchi",
+      "Islamabad Pakistan foreign office",
+      "Tehran Pakistan diplomacy meeting",
+      "Jinnah memorial Islamabad",
+      "Pakistan prime minister Sharif"
+    ],
+    "heroMedia": "images/news/2026-04-24-araghchi-pakistan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الزيارة",
+      "arabicHeading": "أول وصول علني لعراقجي منذ انطلاق الحرب — رسالة لواشنطن",
+      "arabicBody": "وصل وزير الخارجية الإيراني عباس عراقجي إلى إسلام آباد اليوم في أول ظهور علني خارج إيران منذ بدء العمليات في ٢٨ فبراير، استقبله رئيس الوزراء شهباز شريف شخصياً في مطار نور خان الحربي",
+      "bigStat": {
+        "value": "1st",
+        "label": "public channel since Feb 28",
+        "arabicLabel": "أول قناة علنية منذ ٢٨ فبراير"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيف",
+          "value": "شهباز شريف"
+        },
+        {
+          "label": "المطار",
+          "value": "نور خان"
+        },
+        {
+          "label": "أيام الحرب",
+          "value": "٥٥"
+        }
+      ],
+      "broll": "images/news/2026-04-24-araghchi-pakistan/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#A06CD5"
+    },
+    {
+      "label": "الأجندة",
+      "arabicHeading": "ثلاثة ملفات على الطاولة: الحصار، النووي، ولبنان",
+      "arabicBody": "يأمل الجانب الإيراني أن تصبح إسلام آباد قناة خلفية لرسائل بين طهران وواشنطن حول الحصار البحري والبرنامج النووي ومستقبل الهدنة اللبنانية، فيما تسعى باكستان لدور وسيط إقليمي دون الخروج عن علاقاتها الخليجية",
+      "bigStat": {
+        "value": "3",
+        "label": "dossiers on the table",
+        "arabicLabel": "ملفات رئيسية"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف الأول",
+          "value": "رفع الحصار"
+        },
+        {
+          "label": "الملف الثاني",
+          "value": "البرنامج النووي"
+        },
+        {
+          "label": "الملف الثالث",
+          "value": "هدنة لبنان"
+        }
+      ],
+      "broll": "images/news/2026-04-24-araghchi-pakistan/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#A06CD5"
+    },
+    {
+      "label": "السقف",
+      "arabicHeading": "ثلاثة مسارات: إطار خلال أسابيع، محادثات مفتوحة، أو فشل سريع",
+      "arabicBody": "تتباين التوقعات بين مراقبين يرون إمكانية تحقيق إطار أولي خلال أسابيع بوساطة باكستانية، وآخرين يعتبرون أن أي إتفاق يتطلب مباشرة من دول ثالثة، فيما يُحذّر فريق ثالث من فشل سريع يعيد التصعيد",
+      "bigStat": {
+        "value": "3",
+        "label": "diplomatic tracks",
+        "arabicLabel": "مسارات دبلوماسية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "إطار أولي في أسبوعين"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "محادثات مفتوحة دون سقف"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "فشل سريع وعودة للتصعيد"
+        }
+      ],
+      "broll": "images/news/2026-04-24-araghchi-pakistan/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#A06CD5"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NBC News",
+      "domain": "nbcnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Dawn",
+      "domain": "dawn.com"
+    },
+    {
+      "name": "Press TV",
+      "domain": "presstv.ir"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "وزير الخارجية الإيراني عباس عراقجي يصل إلى إسلام آباد في أول زيارة علنية خارج إيران منذ انطلاق الحرب",
+    "رئيس الوزراء الباكستاني شهباز شريف يستقبل الضيف الإيراني في مطار نور خان الحربي شخصياً",
+    "ثلاثة ملفات متزامنة على الطاولة: الحصار البحري الأميركي، البرنامج النووي، وهدنة لبنان الممدّدة",
+    "إسلام آباد تسعى لدور وسيط إقليمي دون الخروج عن علاقاتها الوثيقة مع الرياض وأبوظبي والدوحة",
+    "وزارة الخارجية الإيرانية: الاجتماع يأتي في إطار تنسيق ثنائي قديم ولا يعكس تراجعاً في الموقف الإيراني",
+    "مراقبون: الحصار البحري الأميركي على الخليج العربي هو الملف الأكثر إلحاحاً من وجهة نظر طهران",
+    "أسواق النفط تسعّر إطاراً أولياً في الأسبوعين القادمين فيما يستمر الجدل حول جدية القناة الباكستانية"
+  ]
+}

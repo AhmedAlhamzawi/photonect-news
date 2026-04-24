@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "audioBed": "audio/bed_pulse_syn.mp3",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "تأشيرة خليجية موحّدة ٢٠٢٦ — ست عواصم بتصريح واحد",
+    "englishSubhead": "GCC GRAND TOURS VISA • 6 CAPITALS • 1 STAMP",
+    "heroQueries": [
+      "Dubai skyline Burj Khalifa",
+      "Riyadh skyline tower",
+      "Doha Qatar pearl island",
+      "Muscat Oman coast",
+      "Manama Bahrain skyline"
+    ],
+    "heroMedia": "images/news/2026-04-24-gcc-tourist-visa/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإطلاق",
+      "arabicHeading": "\"Grand Tours Visa\" تتدحرج على مراحل — دبي والرياض أولاً",
+      "arabicBody": "الإمارات تنضم رسمياً إلى السعودية وقطر والكويت والبحرين وعمان في تأشيرة موحّدة تُدعى Grand Tours Visa، وتتدحرج على مراحل خلال ٢٠٢٦ بدءاً من دبي والرياض وتنتهي بالدوحة ومسقط مع نهاية العام",
+      "bigStat": {
+        "value": "6",
+        "label": "capitals in one stamp",
+        "arabicLabel": "عاصمة بتأشيرة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإمارات",
+          "value": "دبي + أبوظبي"
+        },
+        {
+          "label": "السعودية",
+          "value": "الرياض + جدة"
+        },
+        {
+          "label": "الكويت والبحرين",
+          "value": "مشمول"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-tourist-visa/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    },
+    {
+      "label": "التوقيت",
+      "arabicHeading": "قرار في عزّ الحرب — رسالة تكامل اقتصادي رغم التوتر الإقليمي",
+      "arabicBody": "تأتي الخطوة في خضم حرب إيران ولبنان والحصار البحري، وتمثّل رسالة علنية بأن التكامل الاقتصادي الخليجي يسير بمعزل عن التوتر الإقليمي — وتتوقّع الأمانة العامة ٢٥ مليون زائر خليجي بيني خلال ٢٠٢٦",
+      "bigStat": {
+        "value": "25M",
+        "label": "expected intra-GCC visits 2026",
+        "arabicLabel": "زائر بيني متوقع"
+      },
+      "supportingStats": [
+        {
+          "label": "إيراد متوقع",
+          "value": "$32B"
+        },
+        {
+          "label": "توفير وقت",
+          "value": "72%"
+        },
+        {
+          "label": "رحلات داخلية",
+          "value": "×2.4"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-tourist-visa/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    },
+    {
+      "label": "ما بعد",
+      "arabicHeading": "المرحلة الثانية: بطاقة هوية خليجية موحّدة مطروحة لـ٢٠٢٧",
+      "arabicBody": "أشارت الأمانة العامة إلى أن المرحلة الثانية ستتضمن بطاقة هوية خليجية موحّدة للمواطنين، تتيح دخول جميع الدول الست بدون جواز سفر وبإمكانية توسيعها لاحقاً لتغطي العمل والسكن عبر الحدود البرية",
+      "bigStat": {
+        "value": "2027",
+        "label": "unified ID card target",
+        "arabicLabel": "بطاقة الهوية الخليجية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "بطاقة هوية للمواطنين ٢٠٢٧"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "توسيع العمل عبر الحدود"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "عملة إلكترونية مشتركة مستقبلاً"
+        }
+      ],
+      "broll": "images/news/2026-04-24-gcc-tourist-visa/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GCC Secretariat",
+      "domain": "gccegov.org"
+    },
+    {
+      "name": "Travel and Tour World",
+      "domain": "travelandtourworld.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "الإمارات تنضم رسمياً إلى التأشيرة الخليجية الموحّدة Grand Tours Visa المنطلقة هذا العام",
+    "التأشيرة تغطي دبي والرياض والدوحة ومسقط والمنامة وأبوظبي في تصريح واحد صالح ثلاثين يوماً",
+    "الأمانة العامة لمجلس التعاون تتوقع ٢٥ مليون زيارة بينية خليجية خلال عام ٢٠٢٦ وحده",
+    "الإيراد السياحي المتوقع من المبادرة يصل إلى ٣٢ مليار دولار خلال السنة الأولى من التطبيق",
+    "القرار يأتي في خضم حرب إيران ولبنان ويمثل رسالة علنية بأن التكامل الخليجي يسير قدماً",
+    "المرحلة الثانية المرتقبة عام ٢٠٢٧: بطاقة هوية خليجية موحّدة تتيح التنقل بين الدول الست",
+    "توسيع لاحق مقترح يغطي الحق في العمل والسكن عبر الحدود البرية الخليجية على نمط الاتحاد الأوروبي"
+  ]
+}

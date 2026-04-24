@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "audioBed": "audio/bed_pressure.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "موازنة ٢٠٢٦ تتجمّد — ١٩٠ تريليون دينار معلّقة بلا حكومة",
+    "englishSubhead": "IRAQ BUDGET FROZEN • 190T IQD PENDING",
+    "heroQueries": [
+      "Iraq central bank Baghdad",
+      "Iraqi dinar currency stack",
+      "Baghdad oil ministry building",
+      "Iraq parliament finance committee",
+      "Basra oil terminal export"
+    ],
+    "heroMedia": "images/news/2026-04-24-iraq-budget-paralyzed/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجمود",
+      "arabicHeading": "لا تمرير دون حكومة: الموازنة الثلاثية مُعلّقة منذ نوفمبر",
+      "arabicBody": "ربطت اللجنة المالية البرلمانية تمرير موازنة ٢٠٢٦ بتشكيل الحكومة الجديدة، فيما تبقى المصاريف الرأسمالية مجمّدة وموازنات المحافظات في دورات الإنفاق الشهرية فقط منذ نوفمبر الماضي",
+      "bigStat": {
+        "value": "190T",
+        "label": "IQD pending (≈$145B)",
+        "arabicLabel": "دينار عالقة"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدولار",
+          "value": "$145B"
+        },
+        {
+          "label": "تجميد منذ",
+          "value": "نوفمبر"
+        },
+        {
+          "label": "نفاذ مشاريع",
+          "value": "0%"
+        }
+      ],
+      "broll": "images/news/2026-04-24-iraq-budget-paralyzed/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "رواتب تتأخر، مشاريع تتجمّد، ومحافظات تنتفض — الناصرية أولاً",
+      "arabicBody": "احتجاجات بدأت في الناصرية قبل أيام بسبب تأخر رواتب المشاريع الخدمية، فيما أعلنت بابل وذي قار تأجيل ثلاث وعشرين مناقصة حتى صدور الموازنة، ومستودعات الكهرباء تحذّر من دخول الصيف",
+      "bigStat": {
+        "value": "23",
+        "label": "frozen tenders in south",
+        "arabicLabel": "مناقصات مجمّدة"
+      },
+      "supportingStats": [
+        {
+          "label": "محافظات متأثرة",
+          "value": "7"
+        },
+        {
+          "label": "مشاريع معلّقة",
+          "value": "412"
+        },
+        {
+          "label": "تنبيه كهرباء",
+          "value": "قبل الصيف"
+        }
+      ],
+      "broll": "images/news/2026-04-24-iraq-budget-paralyzed/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "المخرج",
+      "arabicHeading": "ثلاثة مخارج: حكومة طارئة، موازنة انتقالية، أو تمديد ١٢ شهراً",
+      "arabicBody": "يدور الجدل داخل الإطار التنسيقي حول خيار موازنة انتقالية تمرَّر قبل الصيف بصيغة اتفاق تقني، مقابل تمديد موازنة ٢٠٢٥ لاثني عشر شهراً إضافية كخيار أخير لا يحبّذه أحد",
+      "bigStat": {
+        "value": "3",
+        "label": "escape paths",
+        "arabicLabel": "مخارج ممكنة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "حكومة طارئة وموازنة عاجلة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "موازنة انتقالية ستة أشهر"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تمديد ٢٠٢٥ اثني عشر شهراً"
+        }
+      ],
+      "broll": "images/news/2026-04-24-iraq-budget-paralyzed/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "اللجنة المالية البرلمانية تربط تمرير موازنة ٢٠٢٦ بتشكيل الحكومة الجديدة ولا بديل قيد المناقشة",
+    "موازنة بقيمة ١٩٠ تريليون دينار عراقي تعادل ١٤٥ مليار دولار معلّقة منذ نوفمبر الماضي",
+    "المصاريف الرأسمالية مجمّدة تماماً والمحافظات تعتمد دورات الصرف الشهرية على بند الرواتب",
+    "احتجاجات في الناصرية على تأخر رواتب المشاريع الخدمية — توقّعات بتمدد الموجة جنوباً",
+    "بابل وذي قار تؤجّلان ٢٣ مناقصة حتى صدور الموازنة فيما تتحدّث بغداد عن خطة بديلة",
+    "مستودعات الكهرباء تحذّر من دخول الصيف دون حلّ موازني واضح قد يُسقط شبكات توزيع الجنوب",
+    "ثلاث مخارج قيد التدارس: حكومة طارئة، موازنة انتقالية ستة أشهر، أو تمديد موازنة ٢٠٢٥ لاثني عشر شهراً"
+  ]
+}

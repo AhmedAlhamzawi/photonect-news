@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 24 • 2026",
+  "arabicDateLabel": "٢٤ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "A",
+  "audioBed": "audio/bed_voltage.mp3",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "خط أنابيب روسيا-ألمانيا يتوقف — موسكو: تقني. برلين: سياسي",
+    "englishSubhead": "RUSSIA-GERMANY PIPELINE OFF • POLITICS",
+    "heroQueries": [
+      "Russia Germany gas pipeline",
+      "Druzhba oil pipeline Europe",
+      "European Council Cyprus summit",
+      "Berlin government building",
+      "Kremlin Moscow night"
+    ],
+    "heroMedia": "images/news/2026-04-24-nordstream-germany-cut/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التوقّف",
+      "arabicHeading": "موسكو تقطع التدفّق — تقني حسب الكرملين، سياسي حسب برلين",
+      "arabicBody": "توقّف تدفّق النفط الروسي عبر خط Druzhba الجنوبي إلى ألمانيا فجر الجمعة بعد إعلان موسكو عن أسباب تقنية، فيما يصف الصحافة الألمانية الأمر بأنه خطوة سياسية متزامنة مع قمة قبرص الأوروبية",
+      "bigStat": {
+        "value": "OFF",
+        "label": "Druzhba south flow to Germany",
+        "arabicLabel": "توقف تدفّق الخط الجنوبي"
+      },
+      "supportingStats": [
+        {
+          "label": "وقت التوقف",
+          "value": "٠٤:٠٠"
+        },
+        {
+          "label": "ألمانيا",
+          "value": "متأثرة مباشرة"
+        },
+        {
+          "label": "المجر وسلوفاكيا",
+          "value": "عبور مضمون"
+        }
+      ],
+      "broll": "images/news/2026-04-24-nordstream-germany-cut/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "التوقيت",
+      "arabicHeading": "قمة قبرص ٢٣-٢٤: أوكرانيا، إيران، والاعتماد الروسي",
+      "arabicBody": "القرار الروسي سبقه يومين قمة غير رسمية لرؤساء دول الاتحاد الأوروبي في قبرص لبحث إطار عمل ٢٠٢٨-٢٠٣٤ وحِزم دعم أوكرانيا الجديدة، فيما رفض الاتحاد الأوروبي التخفيف من الحزمة الـ٢٠ من العقوبات",
+      "bigStat": {
+        "value": "20th",
+        "label": "EU sanctions package",
+        "arabicLabel": "حزمة عقوبات رقم ٢٠"
+      },
+      "supportingStats": [
+        {
+          "label": "قمة قبرص",
+          "value": "٢٣-٢٤ أبريل"
+        },
+        {
+          "label": "إطار مالي",
+          "value": "٢٠٢٨-٢٠٣٤"
+        },
+        {
+          "label": "قرض أوكرانيا",
+          "value": "€90B"
+        }
+      ],
+      "broll": "images/news/2026-04-24-nordstream-germany-cut/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "البدائل",
+      "arabicHeading": "ثلاثة مخارج أمام برلين: النرويج، هولندا، ومخزون الاستراتيجي",
+      "arabicBody": "تدرس وزارة الاقتصاد الألمانية تفعيل خط Wilhelmshaven المستورد من النرويج، وزيادة الاستيراد عبر روتردام الهولندية، مع إمكانية سحب من المخزون الاستراتيجي لتعويض الفجوة الفورية خلال أيام",
+      "bigStat": {
+        "value": "3",
+        "label": "supply routes being activated",
+        "arabicLabel": "مسارات إمداد بديلة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "ويلهلمشافن من النرويج"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "روتردام الهولندية"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "سحب من المخزون الاستراتيجي"
+        }
+      ],
+      "broll": "images/news/2026-04-24-nordstream-germany-cut/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mayer Brown",
+      "domain": "mayerbrown.com"
+    },
+    {
+      "name": "Consilium EU",
+      "domain": "consilium.europa.eu"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "DW",
+      "domain": "dw.com"
+    },
+    {
+      "name": "France 24",
+      "domain": "france24.com"
+    }
+  ],
+  "arabicTicker": [
+    "خط Druzhba الجنوبي الناقل للنفط الروسي إلى ألمانيا يتوقف فجر الجمعة بسبب أسباب تقنية حسب موسكو",
+    "الصحافة الألمانية تصف القرار الروسي بأنه سياسي متزامن مع انعقاد قمة الاتحاد الأوروبي في قبرص",
+    "قمة قبرص غير الرسمية يومَي ٢٣ و٢٤ أبريل تناقش إطار العمل المالي الأوروبي للفترة ٢٠٢٨-٢٠٣٤",
+    "الاتحاد الأوروبي يعتمد حزمة العقوبات رقم عشرين على روسيا ويمرّ قرض قيمته ٩٠ مليار يورو لأوكرانيا",
+    "ألمانيا تدرس تفعيل خط ويلهلمشافن من النرويج وزيادة الاستيراد عبر روتردام الهولندية كخيار بديل",
+    "وزارة الاقتصاد الألمانية تحذّر من استنزاف سريع للمخزون الاستراتيجي إذا استمرّ التوقف أكثر من أسبوعين",
+    "المجر وسلوفاكيا تستلمان النفط الروسي عبر الخط الشمالي دون انقطاع — القطع يطال ألمانيا وحدها"
+  ]
+}
