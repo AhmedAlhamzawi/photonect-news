@@ -1,0 +1,133 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "الانتهاك الثاني",
+    "arabicHeadline": "بغداد كسرت الدستور.. مرّتين خلال أربعة أشهر، والأحد طلع بلا رئيس وزراء",
+    "englishSubhead": "BAGHDAD • 2ND BREACH 2026 • 15-DAY DEADLINE EXPIRED • 4 NAMES LOCKED",
+    "heroMedia": "images/news/2026-04-26-iraq-second-constitutional-breach/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الانتهاك الثاني",
+      "arabicHeading": "المهلة طلعت، الكرسي فاضي.. والمادة ٧٦ صارت ورقة ميتة في خمسة أشهر",
+      "arabicBody": "يوم الأحد ٢٦ أبريل، انتهت مهلة الـ١٥ يوماً اللي يفرضها الدستور لتسمية رئيس الوزراء. ولا اسم خرج. هذي ثاني مرّة تكسر بغداد دستورها هذي السنة بعد تأخّر ٧١ يوماً في انتخاب الرئيس. خمسة أشهر من الانتخابات.. والكرسي يبكي.",
+      "bigStat": {
+        "value": "2",
+        "label": "constitutional breaches in 4 months",
+        "arabicLabel": "انتهاك ثانٍ في ٢٠٢٦"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة المنتهية",
+          "value": "١٥ يوماً"
+        },
+        {
+          "label": "تأخر سابق",
+          "value": "٧١ يوماً"
+        },
+        {
+          "label": "أشهر الفراغ",
+          "value": "٥ أشهر"
+        }
+      ],
+      "broll": "images/news/2026-04-26-iraq-second-constitutional-breach/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "أربعة أسماء، صفر إجماع",
+      "arabicHeading": "الإطار يملك ١٨٥ مقعداً ولم ينتزع اسماً واحداً.. السوداني، المالكي، البدري، العوادي — أربعة أبواب موصدة",
+      "arabicBody": "الإطار التنسيقي — أكبر تكتل في البرلمان بـ١٨٥ مقعداً من ٣٢٩ — جلس ست مرات خلف أبواب مغلقة وخرج بلا مرشّح. السوداني يصرّ على ولاية ثانية، المالكي يجمع التحالفات، البدري والعوادي ينتظرون اللحظة. وترامب شخصياً وضع الفيتو على المالكي: عودته = قطع الدعم. أربعة رجال، صفر اتفاق.",
+      "bigStat": {
+        "value": "4",
+        "label": "candidates deadlocked",
+        "arabicLabel": "أربعة مرشّحين، طريق واحد مسدود"
+      },
+      "supportingStats": [
+        {
+          "label": "السوداني",
+          "value": "يركض لولاية ٢"
+        },
+        {
+          "label": "المالكي",
+          "value": "فيتو ترامب"
+        },
+        {
+          "label": "البدري والعوادي",
+          "value": "في الانتظار"
+        }
+      ],
+      "broll": "images/news/2026-04-26-iraq-second-constitutional-breach/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الكرة في يد الاتحادية",
+      "arabicHeading": "بعد اليوم، القرار غادر البرلمان.. والمحكمة الاتحادية تستلم ملفّ بلد بلا حكومة",
+      "arabicBody": "بكسر المهلة الثانية، الملف ينتقل من الإطار إلى المحكمة الاتحادية. خياران فقط: تمديد قسري للسوداني كرئيس وزراء بالنيابة، أو إعلان فراغ دستوري يفتح الباب لانتخابات مبكرة. موازنة ٢٠٢٦ مجمّدة، الرواتب على المحك، والشارع العراقي يراقب من بعيد. السؤال اللي ما يجرؤ أحد يطرحه: من يحكم العراق الأسبوع المقبل؟",
+      "bigStat": {
+        "value": "0",
+        "label": "PMs in office Sunday",
+        "arabicLabel": "صفر رئيس وزراء"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "السوداني بالنيابة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "فراغ دستوري"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "انتخابات مبكرة"
+        }
+      ],
+      "broll": "images/news/2026-04-26-iraq-second-constitutional-breach/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Xinhua",
+      "domain": "xinhuanet.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بغداد تكسر دستورها للمرة الثانية في ٢٠٢٦ — مهلة الـ١٥ يوماً انتهت بلا رئيس وزراء مكلّف",
+    "الإطار التنسيقي بـ١٨٥ مقعداً من ٣٢٩ يعجز عن انتزاع اسم واحد بعد ست جلسات مغلقة",
+    "السوداني، المالكي، البدري، العوادي — أربعة مرشّحين والطريق واحد مسدود",
+    "ترامب شخصياً وضع الفيتو على عودة المالكي.. عودته تعني قطع الدعم العسكري والمالي",
+    "ملف رئاسة الوزراء ينتقل إلى المحكمة الاتحادية بعد كسر المهلة الدستورية الثانية",
+    "موازنة ٢٠٢٦ مجمّدة والرواتب على المحك حتى تسمية حكومة جديدة",
+    "السؤال المفتوح: من يحكم العراق الأسبوع المقبل في غياب رئيس وزراء مكلّف؟"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "قرار باول",
+    "arabicHeadline": "تضخم أمريكا ٣٫٣% — وباول يجمّد الفائدة الأربعاء",
+    "englishSubhead": "FED HOLDS • CPI 3.3% • GOLD $4,710 • ZERO CUTS",
+    "heroQueries": [
+      "Jerome Powell Fed press conference",
+      "Marriner Eccles Federal Reserve building",
+      "US CPI inflation chart",
+      "gold bars stacked vault",
+      "NYSE trading floor screens"
+    ],
+    "heroMedia": "images/news/2026-04-26-fed-april-29-hold-inflation-3-3/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم الذي قتل الحلم",
+      "arabicHeading": "تضخم أمريكا قفز إلى ٣٫٣% — أعلى من هدف الفيدرالي بـ٦٥%",
+      "arabicBody": "مكتب إحصاءات العمل كشف الرقم: تضخم أبريل أمريكا ٣٫٣% سنوياً. هدف الفيدرالي القانوني هو ٢%. الفارق مو رقم — هو إعلان حرب على وول ستريت. صدمة الطاقة من حرب إيران رفعت كلفة الوقود بـ٢٢%، والكلفة سحبت الإيجار والغذاء معها. باول أمام معضلة: يخفّض ويُذلّ الدولار، أو يتجمّد ويذبح المقترضين.",
+      "bigStat": {
+        "value": "3.3%",
+        "label": "US CPI annual, April 2026",
+        "arabicLabel": "تضخم أمريكا السنوي"
+      },
+      "supportingStats": [
+        {
+          "label": "هدف الفيدرالي",
+          "value": "٢٫٠%"
+        },
+        {
+          "label": "فجوة عن الهدف",
+          "value": "+١٫٣ نقطة"
+        },
+        {
+          "label": "صدمة الطاقة",
+          "value": "+٢٢%"
+        }
+      ],
+      "broll": "images/news/2026-04-26-fed-april-29-hold-inflation-3-3/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الرهان الذي انفجر",
+      "arabicHeading": "قبل ستة أشهر، السوق سعّر ٤ تخفيضات. اليوم — صفر. والسندات تنزف",
+      "arabicBody": "في أكتوبر، صناديق التحوط الأميركية اشترت سندات الخزانة بمليارات على فرضية أن الفيدرالي سيخفّض الفائدة أربع مرات في ٢٠٢٦. اليوم احتمال أي تخفيض هذه السنة = ٠%. النطاق ثابت بين ٣٫٥٠% و٣٫٧٥%. الذهب طار إلى ٤٬٧١٠ دولار للأونصة، وجي بي مورغان يتوقع ٥٬٠٥٥ بنهاية الربع الرابع. الرقم القياسي الذي سُجّل في يناير — ٥٬٥٩٤ — لم يعد سقفاً، صار محطة.",
+      "bigStat": {
+        "value": "$4,710",
+        "label": "Gold spot, Apr 24",
+        "arabicLabel": "الذهب الفوري اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "نطاق الفائدة",
+          "value": "٣٫٥٠–٣٫٧٥%"
+        },
+        {
+          "label": "توقع جي بي مورغان",
+          "value": "$٥٬٠٥٥"
+        },
+        {
+          "label": "قياسي يناير",
+          "value": "$٥٬٥٩٤"
+        }
+      ],
+      "broll": "images/news/2026-04-26-fed-april-29-hold-inflation-3-3/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الأربعاء يحسم",
+      "arabicHeading": "اجتماع ٢٨–٢٩ أبريل: الـ Dot Plot يكشف هل باول لا يزال مؤمناً بـ'العابر'",
+      "arabicBody": "اللجنة الفيدرالية تجتمع الثلاثاء والأربعاء. التصويت محسوم: تجميد. لكن الحدث الفعلي هو 'مخطط النقاط' — توقعات الأعضاء الـ١٩ لمسار الفائدة. إذا تحرّكت النقاط للأعلى، الذهب يقفز فوق ٥٬٠٠٠ خلال أيام، والسندات تنزف من جديد. ثلاثة مسارات تنتظر السوق العربي.",
+      "bigStat": {
+        "value": "3",
+        "label": "FOMC outcome paths",
+        "arabicLabel": "مسارات الأربعاء"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تجميد + لهجة هادئة → الذهب يستقر"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تجميد + لهجة متشددة → ذهب فوق ٥٬٠٠٠"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "إشارة رفع → السندات تنهار"
+        }
+      ],
+      "broll": "images/news/2026-04-26-fed-april-29-hold-inflation-3-3/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2b2b2b"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "JP Morgan",
+      "domain": "jpmorgan.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "Federal Reserve",
+      "domain": "federalreserve.gov"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "تضخم أمريكا أبريل ٣٫٣% — أعلى بنقطة وثلث عن هدف الفيدرالي القانوني البالغ ٢%",
+    "صدمة الطاقة من حرب إيران رفعت كلفة الوقود الأميركية ٢٢% وسحبت الإيجار والغذاء معها",
+    "قبل ستة أشهر السوق سعّر أربع تخفيضات في ٢٠٢٦ — اليوم احتمال أي تخفيض = صفر بالمئة",
+    "نطاق الفائدة الفيدرالية مجمّد بين ٣٫٥٠% و٣٫٧٥% منذ ديسمبر — والأربعاء يُحسم المسار",
+    "الذهب الفوري ٤٬٧١٠ دولار للأونصة الجمعة — والقياسي التاريخي في يناير لامس ٥٬٥٩٤",
+    "جي بي مورغان يتوقع الذهب عند ٥٬٠٥٥ دولار بنهاية الربع الرابع من ٢٠٢٦ كحد أدنى",
+    "اجتماع اللجنة الفيدرالية ٢٨–٢٩ أبريل: من يقرأ مخطط النقاط أولاً يكسب — أم يخسر؟"
+  ]
+}

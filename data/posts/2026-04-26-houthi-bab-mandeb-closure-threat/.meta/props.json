@@ -1,0 +1,148 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "صنعاء تُمسك المفتاح",
+    "arabicHeadline": "العزّي يُهدّد بإقفال باب المندب… وحاملة طائرات أمريكية تلتفّ حول إفريقيا",
+    "englishSubhead": "BAB AL-MANDEB • USS BUSH • 6,000 MI DETOUR • 0 CARRIERS",
+    "heroQueries": [
+      "USS George H.W. Bush carrier strike group",
+      "Bab al-Mandeb strait satellite chokepoint",
+      "Houthi spokesman Sanaa podium",
+      "Cape of Good Hope shipping route",
+      "Yemen Red Sea naval map"
+    ],
+    "heroMedia": "images/news/2026-04-26-houthi-bab-mandeb-closure-threat/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجملة التي قلبت الخريطة",
+      "arabicHeading": "العزّي من صنعاء: «إذا قرّرنا الإقفال… لا قوة تُعيد فتح باب المندب»",
+      "arabicBody": "نائب وزير الخارجية في حكومة صنعاء، حسين العزّي، يقف ويُنطق الجملة التي طارت في كل غرف العمليات: لو حسمت صنعاء قرار إقفال باب المندب، لن تستطيع قوة على الأرض إعادة فتحه. هرمز معطّل أصلاً. الآن البوّابة الثانية تُسمَّى بالاسم. القناة التي تمرّ منها ١٢٪ من تجارة العالم لم تعد ورقة هامشية — أصبحت بنداً أوّل على طاولة صنعاء.",
+      "bigStat": {
+        "value": "١٢٪",
+        "label": "of global trade through Bab al-Mandeb",
+        "arabicLabel": "من تجارة العالم تمرّ من الباب"
+      },
+      "supportingStats": [
+        {
+          "label": "صاحب التهديد",
+          "value": "حسين العزّي"
+        },
+        {
+          "label": "موقع التهديد",
+          "value": "صنعاء"
+        },
+        {
+          "label": "الممرّ المُقابل",
+          "value": "هرمز معطّل"
+        },
+        {
+          "label": "صياغة العزّي",
+          "value": "لا قوة تُعيد الفتح"
+        }
+      ],
+      "broll": "images/news/2026-04-26-houthi-bab-mandeb-closure-threat/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الإذعان البحري",
+      "arabicHeading": "بوش تلفّ ٦٠٠٠ ميل حول إفريقيا… البحرية الأمريكية تتنازل عن الممرّ بصمت",
+      "arabicBody": "حاملة الطائرات USS جورج بوش الأب، على متنها ٥٠٠٠ بحّار، لم تعبر باب المندب. اختارت طريق رأس الرجاء الصالح. ٦٠٠٠ ميل إضافية، أسابيع من الوقود، حسبة لوجستية مكلفة — كل هذا لتفادي ممرّ بعرض ٢٠ ميلاً. منذ ديسمبر ٢٠٢٣، عدد حاملات الطائرات الأمريكية التي عبرت الباب = صفر. الواشنطن تُسمّيه «التفاف احترازي»، صنعاء تُسمّيه باسمه الحقيقي: تنازل.",
+      "bigStat": {
+        "value": "٦٠٠٠",
+        "label": "miles around Africa for USS Bush",
+        "arabicLabel": "ميل إضافي للالتفاف حول إفريقيا"
+      },
+      "supportingStats": [
+        {
+          "label": "الحاملة",
+          "value": "USS George H.W. Bush"
+        },
+        {
+          "label": "البحّارة على متنها",
+          "value": "٥٠٠٠"
+        },
+        {
+          "label": "المسار البديل",
+          "value": "رأس الرجاء الصالح"
+        },
+        {
+          "label": "حاملات عبرت منذ ديسمبر ٢٠٢٣",
+          "value": "٠"
+        }
+      ],
+      "broll": "images/news/2026-04-26-houthi-bab-mandeb-closure-threat/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الفاتورة القادمة",
+      "arabicHeading": "ممرّان مقفلان، عالم بلا خرائط احتياطية — والسؤال: من يدفع أوّلاً؟",
+      "arabicBody": "هرمز محبوس، باب المندب على الطاولة، رأس الرجاء الصالح أصبح المسار «العادي» لا الاستثنائي. ثلاثة سيناريوهات على الأبواب: إقفال جزئي يضرب أسعار الشحن خلال ٤٨ ساعة، تصعيد بحري يدخل البحرية البريطانية والفرنسية، أو هدنة مُفاوَضة يقودها وسيط خليجي. البحر الأحمر لم يعد طريقاً — أصبح ورقة. ومن يمسك الورقة اليوم، لا يجلس في واشنطن.",
+      "bigStat": {
+        "value": "٣",
+        "label": "scenarios on the table",
+        "arabicLabel": "سيناريوهات تنتظر الحسم"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "إقفال جزئي يقفز بأسعار الشحن في ٤٨ ساعة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تصعيد بحري بريطاني-فرنسي"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "هدنة بوساطة خليجية"
+        }
+      ],
+      "broll": "images/news/2026-04-26-houthi-bab-mandeb-closure-threat/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2b2b2b"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CGTN",
+      "domain": "cgtn.com"
+    },
+    {
+      "name": "Defence Security Asia",
+      "domain": "defencesecurityasia.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "U.S. Naval Institute",
+      "domain": "usni.org"
+    },
+    {
+      "name": "Al Mayadeen",
+      "domain": "almayadeen.net"
+    }
+  ],
+  "arabicTicker": [
+    "العزّي من صنعاء: «إذا قرّرنا إقفال باب المندب، لا قوة تستطيع إعادته»",
+    "حاملة الطائرات USS جورج بوش الأب تلتفّ ٦٠٠٠ ميل حول رأس الرجاء الصالح بدلاً من العبور",
+    "٥٠٠٠ بحّار على متن بوش… ولا حاملة أمريكية واحدة عبرت باب المندب منذ ديسمبر ٢٠٢٣",
+    "هرمز معطّل، باب المندب على الطاولة — ١٢٪ من تجارة العالم رهينة قرار صنعاء",
+    "البحرية الأمريكية تُسمّيه «التفافاً احترازياً»، وحكومة صنعاء تقرأه تنازلاً مفتوحاً",
+    "ثلاثة سيناريوهات: إقفال جزئي خلال ٤٨ ساعة، تصعيد بريطاني-فرنسي، أو وساطة خليجية",
+    "البحر الأحمر لم يعد طريقاً — أصبح ورقة بيد لا تجلس في واشنطن. فمن يحرّك أولاً؟"
+  ]
+}

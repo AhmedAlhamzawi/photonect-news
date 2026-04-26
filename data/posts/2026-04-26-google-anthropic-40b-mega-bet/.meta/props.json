@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "غوغل تدفع",
+    "arabicHeadline": "بيتشاي رمى ٤٠ مليار على أنثروبيك — أكبر رهان في تاريخ الذكاء الاصطناعي",
+    "englishSubhead": "GOOGLE • ANTHROPIC • $40B • $350B VAL • 5GW",
+    "heroQueries": [
+      "Sundar Pichai Google CEO",
+      "Anthropic Claude logo",
+      "dollar bills 40 billion dramatic",
+      "Google data center server racks blue glow",
+      "Silicon Valley tech rivalry"
+    ],
+    "heroMedia": "images/news/2026-04-26-google-anthropic-40b-mega-bet/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الصفقة",
+      "arabicHeading": "بيتشاي يدفع ١٠ مليار نقداً اليوم — و٣٠ مليار آخر معلّقة على عداد الحوسبة",
+      "arabicBody": "الرقم الذي صدم وول ستريت لم يكن المبلغ، بل الجرأة. غوغل وقّعت أكبر استثمار منفرد في مختبر ذكاء اصطناعي حتى اليوم: أربعون مليار دولار لشركة تنافسها مباشرة على أسواق الشركات. عشرة مليارات تدخل خزنة أنثروبيك نقداً، والثلاثون الباقية مرتبطة بفواتير الحوسبة على Google Cloud. قيمة المختبر قفزت إلى ٣٥٠ مليار — أعلى من OpenAI نفسها. والسؤال الذي يهرب منه الجميع: لماذا يموّل بيتشاي عدوّه؟",
+      "bigStat": {
+        "value": "$40B",
+        "label": "Google's bet on its rival",
+        "arabicLabel": "أكبر رهان في تاريخ الذكاء"
+      },
+      "supportingStats": [
+        {
+          "label": "نقداً اليوم",
+          "value": "١٠ مليار $"
+        },
+        {
+          "label": "معلّقة على الحوسبة",
+          "value": "٣٠ مليار $"
+        },
+        {
+          "label": "تقييم أنثروبيك",
+          "value": "٣٥٠ مليار $"
+        }
+      ],
+      "broll": "images/news/2026-04-26-google-anthropic-40b-mega-bet/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "السباق",
+      "arabicHeading": "بيزوس دفع ٢٥ مليار قبل أسبوع — وبيتشاي ردّ بـ٤٠ في نفس الشهر",
+      "arabicBody": "قبل أيام، أمازون أعلنت ضخّ ٢٥ مليار دولار في أنثروبيك. اليوم بيتشاي يضرب بأربعين. لم يحدث في تاريخ السيليكون فالي أن يتسابق عملاقان على تمويل مختبر واحد بهذه السرعة. أنثروبيك تجاوزت ٣٠ مليار دولار إيراد سنوي مقدّر — قافزة من ٩ مليار قبل أشهر. خمسة جيجاوات من حوسبة Google موزّعة على خمس سنوات تدخل المعادلة. ومستثمرو رأس المال المغامر قدّموا عروضاً تجاوزت ٨٠٠ مليار. والسوق يهمس: من يخسر اليوم، يخسر العقد كاملاً.",
+      "bigStat": {
+        "value": "$30B",
+        "label": "Anthropic annualized revenue",
+        "arabicLabel": "إيراد أنثروبيك السنوي"
+      },
+      "supportingStats": [
+        {
+          "label": "أمازون قبل أسبوع",
+          "value": "٢٥ مليار $"
+        },
+        {
+          "label": "حوسبة غوغل",
+          "value": "٥ جيجاوات / ٥ سنوات"
+        },
+        {
+          "label": "عروض VC",
+          "value": "٨٠٠ مليار $"
+        }
+      ],
+      "broll": "images/news/2026-04-26-google-anthropic-40b-mega-bet/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "اللعبة",
+      "arabicHeading": "غوغل تموّل عدوّها — لكن العقد يقول إن أنثروبيك تدفع كل دولار على Google Cloud",
+      "arabicBody": "هنا يظهر فخ بيتشاي. الثلاثون مليار ليست هدية — أنثروبيك ملزمة بصرفها على حوسبة Google نفسها. أي أن غوغل تستعيد أموالها كإيراد سحابي، وتربط منافسها بسلسلة طاقتها لخمس سنوات. أنثروبيك بالمقابل تشتري بقاءها في سباق تكلفته ارتفعت عشرة أضعاف منذ ChatGPT. السؤال الذي يحدّد العقد القادم: هل الذكاء الاصطناعي صناعة نماذج، أم صناعة بنية تحتية تعمل النماذج بداخلها؟",
+      "bigStat": {
+        "value": "5 GW",
+        "label": "Google compute locked-in",
+        "arabicLabel": "حوسبة غوغل لـ٥ سنوات"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "أنثروبيك تتجاوز OpenAI"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "غوغل تبتلع المختبر تدريجياً"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "الفقاعة تنفجر قبل ٢٠٢٧"
+        }
+      ],
+      "broll": "images/news/2026-04-26-google-anthropic-40b-mega-bet/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The Information",
+      "domain": "theinformation.com"
+    }
+  ],
+  "arabicTicker": [
+    "غوغل تضخّ ٤٠ مليار دولار في أنثروبيك — أكبر استثمار منفرد في تاريخ صناعة الذكاء الاصطناعي",
+    "١٠ مليار نقداً اليوم و٣٠ مليار مرتبطة بفواتير الحوسبة على Google Cloud لخمس سنوات قادمة",
+    "تقييم أنثروبيك يقفز إلى ٣٥٠ مليار دولار — أعلى من OpenAI الذي يقف عند ٥٠٠ مليار في الأسواق الخاصة",
+    "إيراد أنثروبيك السنوي المقدّر عبر ٣٠ مليار — قافزاً من ٩ مليار قبل أشهر فقط في معدل نمو غير مسبوق",
+    "أمازون كانت ضخّت ٢٥ مليار قبل أسبوع — وبيتشاي ردّ بأربعين في نفس الشهر بسباق وول ستريت لم يره مثيلاً",
+    "خمسة جيجاوات من حوسبة Google تدخل خدمة Claude — تكفي لتشغيل دولة صغيرة بأكملها",
+    "لكن السؤال المخفي: هل غوغل تموّل منافستها — أم تشتري سلسلة طاقتها وتحتجزها في سحابتها لخمس سنوات؟"
+  ]
+}

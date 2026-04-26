@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "العثمانيون يعودون",
+    "arabicHeadline": "أردوغان يرسم خريطة عثمانية في الصومال والنيجر — والعالم منشغل بهرمز",
+    "englishSubhead": "ANKARA • SOMALIA • NIGER • F-16s + OIL + BOOTS",
+    "heroQueries": [
+      "Recep Tayyip Erdogan portrait",
+      "Turkish F-16 over Mogadishu",
+      "Erdogan Niger defense minister handshake",
+      "SOMTURK drilling vessel Somalia",
+      "Africa political map Ankara overlay"
+    ],
+    "heroMedia": "images/news/2026-04-26-turkey-somalia-niger-africa-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجناح",
+      "arabicHeading": "ف-١٦ تركية تحلّق فوق مقديشو — وأردوغان يقول: نحن هنا",
+      "arabicBody": "في ١٢ أبريل، عبرت مقاتلات ف-١٦ تركية سماء مقديشو في عرض جوي رسمي بمناسبة ذكرى الاستقلال — أول استعراض من نوعه فوق عاصمة صومالية. الإشارة لم تكن للصوماليين، بل للجميع: أنقرة لم تعد تُرسل مدرّبين فقط، بل تُرسل قوة جوية. القاعدة التركية في مقديشو، الأكبر خارج تركيا، صارت منصّة جناح كاملة — والقرن الإفريقي بدأ يقرأ الخريطة.",
+      "bigStat": {
+        "value": "12",
+        "label": "April flyover",
+        "arabicLabel": "أبريل — يوم الاستعراض"
+      },
+      "supportingStats": [
+        {
+          "label": "نوع الطائرة",
+          "value": "ف-١٦ تركية"
+        },
+        {
+          "label": "الموقع",
+          "value": "سماء مقديشو"
+        },
+        {
+          "label": "حجم القاعدة",
+          "value": "الأكبر خارج تركيا"
+        }
+      ],
+      "broll": "images/news/2026-04-26-turkey-somalia-niger-africa-pivot/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#E63946"
+    },
+    {
+      "label": "البوط على الأرض",
+      "arabicHeading": "النيجر للمرة الأولى: جنود نظاميون أتراك خارج الميدان السوري",
+      "arabicBody": "في ٧ أبريل، وقّعت أنقرة مذكرة تفاهم دفاعية مع نيامي — والمفاجأة: أول نشر لقوات نظامية تركية في النيجر منذ تأسيس الجمهورية. ليس مدرّبين، ليس متعاقدين — جنود برتب وأعلام. الجنرالات في نيامي خرجوا من تحت العباءة الفرنسية ودخلوا تحت الجناح التركي. الفراغ الذي تركه الفرنسيون لم ينتظر — الأتراك ملأوه قبل أن يجف الحبر على وثائق الانسحاب.",
+      "bigStat": {
+        "value": "1",
+        "label": "first regular deployment",
+        "arabicLabel": "أول نشر نظامي"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ المذكرة",
+          "value": "٧ أبريل"
+        },
+        {
+          "label": "الطرف المقابل",
+          "value": "حكومة نيامي"
+        },
+        {
+          "label": "الفراغ المُعبَّأ",
+          "value": "الانسحاب الفرنسي"
+        }
+      ],
+      "broll": "images/news/2026-04-26-turkey-somalia-niger-africa-pivot/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "النفط تحت الماء",
+      "arabicHeading": "ثلاثة جبهات بصمت — والأسوأ أن أحداً لا يراها",
+      "arabicBody": "بينما أعين العالم على هرمز، فتحت أنقرة جبهة ثالثة: شركة سومتورك المشتركة بدأت الحفر البحري في المنطقة الاقتصادية الخالصة للصومال. ف-١٦ في الجو، جنود في النيجر، حفّارات في المحيط الهندي — قارّة كاملة تتحرّك تحت رادار الإعلام. الثلاثة معاً ليسوا مصادفة، بل عقيدة: أنقرة تبني عمقاً إفريقياً قبل أن ينفجر الخليج، أو ربما لأنها تتوقّع أن ينفجر. والسؤال الذي لا أحد يطرحه: من الذي سينافسها هناك حين يأتي الوقت؟",
+      "bigStat": {
+        "value": "3",
+        "label": "fronts, one strategy",
+        "arabicLabel": "ثلاث جبهات — استراتيجية واحدة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تثبيت إفريقي طويل المدى"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "اصطدام مع الإمارات وفرنسا"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "انكفاء سريع لو تعثّر الاقتصاد التركي"
+        }
+      ],
+      "broll": "images/news/2026-04-26-turkey-somalia-niger-africa-pivot/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2EC4B6"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Critical Threats / AEI",
+      "domain": "criticalthreats.org"
+    },
+    {
+      "name": "Eurasia.ro",
+      "domain": "eurasia.ro"
+    },
+    {
+      "name": "Horn Review",
+      "domain": "hornreview.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Anadolu Agency",
+      "domain": "aa.com.tr"
+    }
+  ],
+  "arabicTicker": [
+    "أردوغان يرسم خريطة عثمانية جديدة على ثلاث جبهات إفريقية — والعالم منشغل بهرمز",
+    "ف-١٦ تركية تحلّق فوق مقديشو في ١٢ أبريل — أول استعراض جوي تركي على سماء عاصمة صومالية",
+    "نشر نظامي تركي في النيجر للمرة الأولى — مذكرة تفاهم دفاعية وُقّعت في ٧ أبريل في نيامي",
+    "شركة سومتورك المشتركة تبدأ الحفر البحري في المنطقة الاقتصادية الخالصة قُبالة الصومال",
+    "القاعدة التركية في مقديشو — الأكبر خارج الأناضول — تتحوّل من مركز تدريب إلى منصّة عمليات",
+    "الفراغ الفرنسي في الساحل الإفريقي لم يدم طويلاً — الأتراك دخلوا قبل أن يجفّ حبر الانسحاب",
+    "السؤال الذي لا أحد يطرحه: من سينافس أنقرة على القرن الإفريقي حين تنفجر معادلة الخليج؟"
+  ]
+}

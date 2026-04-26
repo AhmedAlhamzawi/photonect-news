@@ -1,0 +1,148 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "C",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "فخ لاغارد",
+    "arabicHeadline": "لاغارد بين نارين: ركود يخنق أوروبا وتضخم يطلب الفائدة",
+    "englishSubhead": "ECB • 2.0% HELD • PMI CONTRACTION • 72% HIKE BET • APR 30",
+    "heroQueries": [
+      "Christine Lagarde ECB podium",
+      "Frankfurt skyline gray sky euro sign",
+      "stagflation chart two arrows",
+      "German factory worker idle",
+      "European Central Bank tower"
+    ],
+    "heroMedia": "images/news/2026-04-26-ecb-stagflation-trap-rate-hike-bet/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الفخ",
+      "arabicHeading": "اقتصاد أوروبا يتقلص في أبريل، وأسوأ قراءة منذ نوفمبر ٢٠٢٤ تضرب المكاتب",
+      "arabicBody": "مؤشر مديري المشتريات الأوروبي سقط تحت الخمسين في أبريل لأول مرة منذ خمسة أشهر، وألمانيا — قاطرة القارة — تسجّل أسوأ ضغط أسعار مدخلات منذ ثلاث سنوات ونصف. حرب إيران رفعت فاتورة الطاقة، والمصانع تعمل بربع طاقتها. لاغارد تجلس فوق فائدة ٢.٠٪ مجمّدة منذ ١٩ مارس، تنظر إلى لوحتين متناقضتين: نموّ ينهار، وأسعار تتفجّر.",
+      "bigStat": {
+        "value": "<50",
+        "label": "PMI back into contraction",
+        "arabicLabel": "PMI تحت الخمسين"
+      },
+      "supportingStats": [
+        {
+          "label": "فائدة الإيداع",
+          "value": "٢.٠٪ مجمّدة"
+        },
+        {
+          "label": "ضغط الأسعار في ألمانيا",
+          "value": "أعلى منذ ٣.٥ سنة"
+        },
+        {
+          "label": "آخر تثبيت",
+          "value": "١٩ مارس"
+        },
+        {
+          "label": "موعد الحسم",
+          "value": "٣٠ أبريل"
+        }
+      ],
+      "broll": "images/news/2026-04-26-ecb-stagflation-trap-rate-hike-bet/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "الرهان",
+      "arabicHeading": "السوق يسبق المركزي: ٧٢٪ يقولون إن لاغارد سترفع، والتضخم يقفز إلى ٣.١٪",
+      "arabicBody": "بعد عامين من قصّ الفائدة، السوق انقلب فجأة. ٧٢٪ من المتداولين يسعّرون رفعاً للفائدة في ٢٠٢٦ — وهذا أعلى رهان على تشديد أوروبي منذ بداية دورة التيسير. التضخم المتوقع لعام ٢٠٢٦ قفز من ٢.٥٪ قبل الحرب إلى ٣.١٪ اليوم. لكن صندوق النقد قطع نموّ منطقة اليورو من ١.٤٪ إلى ١.١٪. كل أداة بيد لاغارد تخدم جبهة وتطعن الأخرى.",
+      "bigStat": {
+        "value": "72%",
+        "label": "market-implied 2026 ECB hike",
+        "arabicLabel": "احتمال الرفع الذي يسعّره السوق"
+      },
+      "supportingStats": [
+        {
+          "label": "تضخم ٢٠٢٦ المتوقع",
+          "value": "٣.١٪"
+        },
+        {
+          "label": "التوقع قبل الحرب",
+          "value": "٢.٥٪"
+        },
+        {
+          "label": "نمو يورو ٢٠٢٦ — صندوق النقد",
+          "value": "١.١٪ بعد ١.٤٪"
+        },
+        {
+          "label": "اتجاه الدورة قبل أبريل",
+          "value": "خفض متواصل"
+        }
+      ],
+      "broll": "images/news/2026-04-26-ecb-stagflation-trap-rate-hike-bet/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "اللحظة",
+      "arabicHeading": "في ٣٠ أبريل، لاغارد تختار: تكسر التضخم وتسحق النمو، أو تترك اليورو يتدحرج",
+      "arabicBody": "ثلاثة أبواب أمام فرانكفورت يوم الخميس، وكل باب يفتح على ثمن. ترفع الفائدة، فتذبح ما تبقّى من الإقراض الصناعي الألماني. تثبّت، فيتسرّب اليورو ضد الدولار وتدخل الواردات إلى التضخم من باب آخر. تخفض، فيموت آخر سند يحمي مدّخرات الأوروبيين. لاغارد ورثت أصعب لوحة منذ سبعينيات بول فولكر — والقرار يسبق الكلمات.",
+      "bigStat": {
+        "value": "APR 30",
+        "label": "ECB stagflation decision day",
+        "arabicLabel": "يوم الفخ"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "رفع لكسر التضخم"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تثبيت دفاعي"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "خفض ينقذ النمو"
+        }
+      ],
+      "broll": "images/news/2026-04-26-ecb-stagflation-trap-rate-hike-bet/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "FXStreet",
+      "domain": "fxstreet.com"
+    },
+    {
+      "name": "Rabobank Research",
+      "domain": "rabobank.com"
+    },
+    {
+      "name": "Morningstar",
+      "domain": "morningstar.com"
+    },
+    {
+      "name": "ECB",
+      "domain": "ecb.europa.eu"
+    },
+    {
+      "name": "IMF WEO",
+      "domain": "imf.org"
+    }
+  ],
+  "arabicTicker": [
+    "PMI أوروبا يسقط تحت الخمسين في أبريل — أسوأ قراءة منذ نوفمبر ٢٠٢٤ والمصانع تتراجع",
+    "ألمانيا تسجّل أعلى ضغط أسعار مدخلات منذ ثلاث سنوات ونصف بفعل صدمة طاقة حرب إيران",
+    "السوق يسعّر ٧٢٪ احتمال أن ترفع لاغارد الفائدة في ٢٠٢٦ — انقلاب تامّ على دورة التيسير",
+    "تضخم منطقة اليورو المتوقع لعام ٢٠٢٦ يقفز من ٢.٥٪ قبل الحرب إلى ٣.١٪ اليوم",
+    "صندوق النقد يقصّ نموّ منطقة اليورو من ١.٤٪ إلى ١.١٪ — وفاتورة الطاقة هي السبب",
+    "فائدة الإيداع مجمّدة عند ٢.٠٪ منذ ١٩ مارس، والاجتماع الحاسم بعد أربعة أيام",
+    "لاغارد بين رفعٍ يقتل النموّ، وتثبيت يُسقط اليورو، وخفض ينسف المدّخرات — أيّ باب تختار؟"
+  ]
+}

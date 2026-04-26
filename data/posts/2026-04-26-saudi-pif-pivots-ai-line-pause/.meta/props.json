@@ -1,0 +1,139 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "الصندوق يبدّل الحلم",
+    "arabicHeadline": "محمد بن سلمان أطفأ نيوم — وحوّل ٩٤٠ مليار نحو الذكاء الاصطناعي",
+    "englishSubhead": "PIF • $940B • THE LINE PAUSED • AI FIRST",
+    "heroQueries": [
+      "NEOM The Line concept render mirrored facade",
+      "Mohammed bin Salman PIF board",
+      "Saudi data center server racks Riyadh",
+      "Riyadh skyline construction cranes 2026"
+    ],
+    "heroMedia": "images/news/2026-04-26-saudi-pif-pivots-ai-line-pause/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "ياسر الرميان حصل أمر واحد: أوقف المرايا، شغّل السيرفرات",
+      "arabicBody": "في اجتماع مجلس الصندوق الأخير، محمد بن سلمان قلب الترتيب من فوق. مدينة الـ١٧٠ كيلومتر المرآتية في الصحراء — التي ابتلعت نصف ميزانية رؤية ٢٠٣٠ — تنزل من أولوية رقم واحد إلى رفّ الانتظار. مكانها: مراكز بيانات للذكاء الاصطناعي، فعاليات، وإسكان. أكبر تحويل رأسمال في تاريخ صندوق سيادي.",
+      "bigStat": {
+        "value": "٩٤٠B",
+        "label": "PIF assets under management",
+        "arabicLabel": "أصول الصندوق تحت الإدارة"
+      },
+      "supportingStats": [
+        {
+          "label": "خط نيوم الأصلي",
+          "value": "١٧٠ كم"
+        },
+        {
+          "label": "مؤشرات رؤية ٢٠٣٠",
+          "value": "٩٣٪ متحقق"
+        },
+        {
+          "label": "المبادرات المُنجزة",
+          "value": "٢٢٥ من ١٢٩٠"
+        }
+      ],
+      "broll": "images/news/2026-04-26-saudi-pif-pivots-ai-line-pause/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الرسالة",
+      "arabicHeading": "ابن سلمان قرأ الخريطة: المرايا لا تُطعم اقتصاداً — السيرفرات تُطعمه",
+      "arabicBody": "الرقم الذي قلب القرار: ٢٢٥ مبادرة فقط من ١٢٩٠ خرجت من الورق إلى الأرض. باقي الـ١٠٦٥ عالقة. الخليج كله يتسابق على الذكاء الاصطناعي — الإمارات تشيّد \"ستارجيت\" بـ٥٠٠ مليار، وقطر تستورد سيرفرات بالطنّ. الرياض ما عاد بإمكانها الانتظار حتى تُرفع الزجاجة الأولى لخطّ نيوم. القرار: ترك الحلم البصري، وشراء الواقع الحوسبي.",
+      "bigStat": {
+        "value": "٩٣٪",
+        "label": "Vision 2030 KPIs delivered",
+        "arabicLabel": "مؤشرات الرؤية تحققت"
+      },
+      "supportingStats": [
+        {
+          "label": "أولوية رقم ١",
+          "value": "ذكاء اصطناعي"
+        },
+        {
+          "label": "أولوية رقم ٢",
+          "value": "فعاليات"
+        },
+        {
+          "label": "أولوية رقم ٣",
+          "value": "إسكان"
+        }
+      ],
+      "broll": "images/news/2026-04-26-saudi-pif-pivots-ai-line-pause/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "٢٠٣٠ تقترب — والصندوق يلعب آخر يد قبل صافرة الحَكَم",
+      "arabicBody": "خطة الخمس سنوات الجديدة (٢٠٢٦-٢٠٣٠) تكتب من جديد: ميزانية نيوم تتقلّص لصالح خوادم Aramco Digital وHumain ومراكز Saudi Cloud. السؤال المعلّق: هل يعود خطّ نيوم بعد ٢٠٣٠، أم يتحوّل لمتحف معماري في الصحراء كأكلاف ضخمة لم تُسكن أحداً؟ الإجابة تصل عام ٢٠٢٧، عند مراجعة المنتصف.",
+      "bigStat": {
+        "value": "٢٠٣٠",
+        "label": "Vision deadline approaches",
+        "arabicLabel": "موعد الرؤية الأخير"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "نيوم يُجمَّد ٥ سنوات"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تقليص إلى ٢ كم فقط"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "بيع حصص لمستثمرين"
+        }
+      ],
+      "broll": "images/news/2026-04-26-saudi-pif-pivots-ai-line-pause/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Al Arabiya English",
+      "domain": "english.alarabiya.net"
+    },
+    {
+      "name": "Gulf Business",
+      "domain": "gulfbusiness.com"
+    },
+    {
+      "name": "Vision 2030 Annual Report",
+      "domain": "vision2030.gov.sa"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "محمد بن سلمان يطفئ نيوم ويشعل الذكاء الاصطناعي — أكبر تحويل رأسمال في تاريخ صندوق سيادي عربي",
+    "صندوق الاستثمارات بـ٩٤٠ مليار دولار يعيد ترتيب ٢٠٢٦-٢٠٣٠: السيرفرات قبل المرايا",
+    "تقرير الرؤية: ٩٣٪ من المؤشرات تحققت، لكن ٢٢٥ مبادرة فقط من ١٢٩٠ خرجت من الورق",
+    "خطّ نيوم بطول ١٧٠ كيلومتراً ينزل من قمة الأولويات إلى رفّ المراجعة الاستراتيجية",
+    "الأولويات الجديدة لـ٢٠٢٦: ذكاء اصطناعي، فعاليات كبرى، إسكان للمواطن — بهذا الترتيب",
+    "الإمارات تبني ستارجيت بـ٥٠٠ مليار وقطر تشتري السيرفرات بالطن — والرياض لا تستطيع الانتظار",
+    "هل يعود نيوم بعد ٢٠٣٠، أم يتحوّل لأغلى متحف معماري في الصحراء؟ القرار في ٢٠٢٧"
+  ]
+}

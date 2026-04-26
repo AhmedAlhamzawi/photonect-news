@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "C",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "حرب بروكسل الأهلية",
+    "arabicHeadline": "ميرتس يقفل باب أوكرانيا في وجه فون دير لاين",
+    "englishSubhead": "MERZ vs COSTA • CYPRUS • UKRAINE FROZEN • EU CIVIL WAR",
+    "heroQueries": [
+      "Friedrich Merz Berlin chancellor",
+      "Antonio Costa European Council",
+      "Ursula von der Leyen Commission",
+      "Volodymyr Zelenskyy EU summit",
+      "Cyprus Lefkosia summit hall"
+    ],
+    "heroMedia": "images/news/2026-04-26-eu-ukraine-membership-rift-cyprus/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكمين في قبرص",
+      "arabicHeading": "ميرتس قطعها أمام الكاميرا: لا كييف ولا الآن — والمبلغ ذرّ رماد",
+      "arabicBody": "في قاعة قمة ليفكوسيا غير الرسمية يومَي ٢٣ و٢٤ أبريل، فريدريش ميرتس فاجأ الجميع. أمسك الميكروفون أمام أنطونيو كوستا وأورسولا فون دير لاين، وقالها بلا مداراة: «أوكرانيا لن تدخل الاتحاد بمسار سريع. لا الآن، ولا قريباً.» تسعون ملياراً نزلت قبلها بساعات لتُهدّئ الشارع — لكن في القاعة، الحقيقة سقطت على الطاولة بصوت أعلى من المال.",
+      "bigStat": {
+        "value": "€90B",
+        "label": "loan papered over the rift",
+        "arabicLabel": "قرض غطّى الشقّ يوماً واحداً"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ القمة",
+          "value": "٢٣–٢٤ أبريل ليفكوسيا"
+        },
+        {
+          "label": "حجم القرض",
+          "value": "٩٠ مليار يورو"
+        },
+        {
+          "label": "نسبة التغطية",
+          "value": "ثلثا حاجة كييف ٢٠٢٦–٢٠٢٧"
+        }
+      ],
+      "broll": "images/news/2026-04-26-eu-ukraine-membership-rift-cyprus/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "ثلاثة على المنصّة",
+      "arabicHeading": "كوستا يدفع، فون دير لاين تُغطّي، زيلينسكي يرفض «درجة ثانية» — وميرتس يُمسك الفرامل وحده",
+      "arabicBody": "أنطونيو كوستا، رئيس المجلس الأوروبي البرتغالي، دفع نحو مسار سريع لكييف لإنهاء الجدل. فون دير لاين سايرت من بروكسل بخطاب «الالتزام التاريخي». زيلينسكي رفض كل صيغة «عضو منتسب» أو «شريك خاص» — قال نصاً: «لن نقبل درجة ثانية بعد كل هذه السنوات». المعادلة انكسرت عند برلين: ميرتس، حديث العهد بالمستشارية، وقف وحده يرفع الفيتو السياسي بعدما رفع الفيتو المالي قبل أسبوع.",
+      "bigStat": {
+        "value": "€134.6B",
+        "label": "Kyiv 2026 defense bill",
+        "arabicLabel": "فاتورة دفاع كييف ٢٠٢٦"
+      },
+      "supportingStats": [
+        {
+          "label": "فاتورة ٢٠٢٦",
+          "value": "١٣٤٫٦ مليار يورو"
+        },
+        {
+          "label": "فاتورة ٢٠٢٥",
+          "value": "١١١٫٤ مليار يورو"
+        },
+        {
+          "label": "العجز المتوقّع",
+          "value": "١٩٫٦ مليار يورو"
+        }
+      ],
+      "broll": "images/news/2026-04-26-eu-ukraine-membership-rift-cyprus/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "المعركة القادمة",
+      "arabicHeading": "بروكسل دخلت حرباً أهلية على هويّتها — والثمن يُدفع في كييف قبل أن يُدفع في برلين",
+      "arabicBody": "ما حصل في قبرص ليس خلافاً على رقم؛ هو شقّ في تعريف الاتحاد نفسه. ميرتس يقول: نحن مشروع اقتصادي قبل كل شيء. كوستا يقول: نحن مشروع سياسي أو لسنا شيئاً. حزمة العقوبات رقم ٢٠ نزلت على موسكو في الكواليس بدون ضجيج — كأنها رشوة عزاء لكييف. والكرملين يقرأ الانقسام ويُعدّ ردّه بالخريطة لا بالكلام. فمن يدفع فاتورة الانقسام: كييف اليوم، أم بروكسل غداً؟",
+      "bigStat": {
+        "value": "20",
+        "label": "sanctions package — no fanfare",
+        "arabicLabel": "حزمة العقوبات الصامتة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "كييف ترضخ لصيغة منتسب"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "كوستا يلتفّ على ميرتس"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "موسكو تستثمر الانقسام"
+        }
+      ],
+      "broll": "images/news/2026-04-26-eu-ukraine-membership-rift-cyprus/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "Cyprus Mail",
+      "domain": "cyprus-mail.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "Pravda EU",
+      "domain": "eng.pravda.com.ua"
+    },
+    {
+      "name": "Consilium EU",
+      "domain": "consilium.europa.eu"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "ميرتس يُسقط الجملة في قبرص: «أوكرانيا لن تدخل الاتحاد بمسار سريع — لا الآن، ولا قريباً»",
+    "كوستا يدفع نحو مسار سريع، فون دير لاين تُغطّي، وزيلينسكي يرفض كل صيغة «عضو منتسب»",
+    "تسعون مليار يورو غطّت الشقّ يوماً واحداً — والصراع الحقيقي بدأ في قاعة المنصّة لا في الميزانية",
+    "فاتورة دفاع كييف لـ٢٠٢٦ تقفز إلى ١٣٤٫٦ مليار يورو، مقابل ١١١٫٤ في ٢٠٢٥ — والعجز ١٩٫٦",
+    "حزمة العقوبات رقم ٢٠ نزلت على موسكو بهدوء، كأنها رشوة عزاء لكييف بعد إغلاق باب العضوية",
+    "ميرتس حديث المستشارية يرفع الفيتو السياسي بعد أن رفع الفيتو المالي قبل أسبوع — وحده على الطاولة",
+    "السؤال المعلّق: من يدفع فاتورة حرب بروكسل الأهلية — كييف اليوم، أم الاتحاد كلّه غداً؟"
+  ]
+}

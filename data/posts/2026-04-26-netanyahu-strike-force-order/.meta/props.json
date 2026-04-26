@@ -1,0 +1,139 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "الجبهة تنفجر",
+    "arabicHeadline": "نتنياهو دفن الهدنة: جندي قتيل واحد.. وأمر بالضرب بقوة",
+    "englishSubhead": "TEL AVIV • TRUCE BREAKS • 1 KIA • 6 WOUNDED • 200+ BREACHES",
+    "heroQueries": [
+      "Netanyahu war cabinet table",
+      "IDF Merkava tank south Lebanon",
+      "Hezbollah drone over hill silhouette",
+      "Yohmor village smoke aftermath"
+    ],
+    "heroMedia": "images/news/2026-04-26-netanyahu-strike-force-order/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الطائرة التي قلبت الطاولة",
+      "arabicHeading": "طائرة بدون طيار سقطت على دورية إسرائيلية.. جندي واحد قتل وستة جرحى وانتهت الهدنة بثوانٍ",
+      "arabicBody": "طائرة هزب الله الانتحارية ضربت دورية على الحدود اللبنانية ساعة العصر. جندي إسرائيلي قُتل في مكانه، ستة جرحوا أحدهم بحالة حرجة. نتنياهو خرج من الاجتماع الأمني وأمر الجيش يضرب «بقوة». ثلاثة أسابيع من تمديد ترامب للهدنة تبخّرت في عشر دقائق.",
+      "bigStat": {
+        "value": "١",
+        "label": "IDF soldier killed in drone strike",
+        "arabicLabel": "قتيل أنهى الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "الجرحى",
+          "value": "٦"
+        },
+        {
+          "label": "حالة حرجة",
+          "value": "١"
+        },
+        {
+          "label": "نوع السلاح",
+          "value": "مسيّرة متفجرة"
+        }
+      ],
+      "broll": "images/news/2026-04-26-netanyahu-strike-force-order/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الهدنة الميتة",
+      "arabicHeading": "هدنة ترامب على الورق فقط: ٢٠٠ خرق منذ نوفمبر.. وأربعة قتلى في يحمر قبل الظهر",
+      "arabicBody": "الورقة التي وقّعها ترامب في نوفمبر ٢٠٢٤ تحوّلت إلى نص بلا أنياب. أكثر من ٢٠٠ خرق سجّل في خمسة أشهر، وقبل ضربة الجندي بساعات سقطت غارة إسرائيلية على بلدة يحمر وقتلت أربعة. الجيش اللبناني صامت، اليونيفيل تكتب تقارير، والميدان يتكلّم بلغة الصواريخ.",
+      "bigStat": {
+        "value": "٢٠٠+",
+        "label": "ceasefire breaches since Nov",
+        "arabicLabel": "خرق وثّق على الأرض"
+      },
+      "supportingStats": [
+        {
+          "label": "قتلى يحمر",
+          "value": "٤"
+        },
+        {
+          "label": "عمر الهدنة",
+          "value": "٥ أشهر"
+        },
+        {
+          "label": "تمديد ترامب",
+          "value": "٣ أسابيع"
+        }
+      ],
+      "broll": "images/news/2026-04-26-netanyahu-strike-force-order/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "ثلاث طلقات في الصدر",
+      "arabicHeading": "نتنياهو يفتح الباب لثلاثة سيناريوهات.. والشمال اللبناني ينتظر الطلقة الأولى",
+      "arabicBody": "أمر «اضربوا بقوة» ليس بياناً صحفياً، إنّه إذن مفتوح. السيناريو الأول: ضربات جراحية على بنى هزب الله جنوب الليطاني. الثاني: عودة الاجتياح البري كما في خريف ٢٠٢٤. الثالث الأخطر: حرب شاملة تجرّ إيران من الباب الذي فتحته إسرائيل في يونيو. والسؤال الذي ما يجرؤ بيروت تسأله: من يدفع فاتورة الطلقة القادمة؟",
+      "bigStat": {
+        "value": "٣",
+        "label": "scenarios after Netanyahu order",
+        "arabicLabel": "ثلاثة أبواب للحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "الباب الأول",
+          "value": "ضربات جراحية"
+        },
+        {
+          "label": "الباب الثاني",
+          "value": "اجتياح بري"
+        },
+        {
+          "label": "الباب الثالث",
+          "value": "حرب إقليمية"
+        }
+      ],
+      "broll": "images/news/2026-04-26-netanyahu-strike-force-order/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#2b2b2b"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Cyprus Mail",
+      "domain": "cyprus-mail.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "L'Orient Today",
+      "domain": "lorientlejour.com"
+    }
+  ],
+  "arabicTicker": [
+    "نتنياهو يأمر الجيش بضرب هزب الله «بقوة» بعد مقتل جندي بطائرة مسيّرة جنوب لبنان",
+    "ستة جنود إسرائيليين جرحوا في الهجوم.. وأحدهم بحالة حرجة وفق بيان الجيش الرسمي",
+    "هدنة ترامب الموقّعة في نوفمبر ٢٠٢٤ سجّلت أكثر من ٢٠٠ خرق قبل أن تنهار اليوم",
+    "غارة إسرائيلية على بلدة يحمر اللبنانية قتلت أربعة مدنيين قبل ساعات من ضربة المسيّرة",
+    "تمديد ترامب الأخير للهدنة لم يعمّر إلا ثلاثة أسابيع.. والميدان رفض الورقة من البداية",
+    "الجيش اللبناني واليونيفيل خارج المعادلة.. والقرار اليوم بيد تل أبيب وحدها",
+    "ثلاثة سيناريوهات مفتوحة: ضربات جراحية، اجتياح بري، أو حرب إقليمية تسحب إيران"
+  ]
+}

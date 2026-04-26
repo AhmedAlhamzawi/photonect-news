@@ -1,0 +1,140 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "B",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "حرب داون نينغ",
+    "arabicHeadline": "ستارمر يقاتل وزيرة ماليّته… ٣٫٥% للدفاع أو سقوط الحكومة",
+    "englishSubhead": "STARMER VS REEVES • 3.5% NATO • 6-MONTH DELAY • 95K SHORT",
+    "heroQueries": [
+      "Keir Starmer Rachel Reeves split podium",
+      "10 Downing Street rainy night",
+      "British soldiers parade ground sparse",
+      "NATO 5% GDP target chart",
+      "UK Treasury Whitehall"
+    ],
+    "heroMedia": "images/news/2026-04-26-uk-defense-3pct-starmer-treasury-war/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحرب الداخلية",
+      "arabicHeading": "ستارمر يريد الدبّابات… ريفز تكتب «حين تسمح الظروف»",
+      "arabicBody": "في غرفة مغلقة داون نينغ، رئيس الوزراء كير ستارمر يصرّ على رفع الإنفاق الدفاعي إلى ٣٫٥% من الناتج بحلول ٢٠٣٥ — التزام الناتو الجديد. وزيرة ماليّته راشيل ريفز ردّت بجملة واحدة دسّتها في النصّ الرسمي: «حين تسمح الظروف الاقتصادية والمالية». هذه الجملة تعني عملياً: لا أرقام، لا جدول، لا التزام. الحرب لم تعد ضد بوتين — هي داخل الحكومة.",
+      "bigStat": {
+        "value": "3.5%",
+        "label": "core defense floor by 2035",
+        "arabicLabel": "السقف الذي يخيف الخزانة"
+      },
+      "supportingStats": [
+        {
+          "label": "أرضية ستارمر ٢٠٢٧",
+          "value": "٢٫٦% من الناتج"
+        },
+        {
+          "label": "هدف الناتو الكامل",
+          "value": "٥% (٣٫٥+١٫٥)"
+        },
+        {
+          "label": "شرط ريفز المخفي",
+          "value": "«حين تسمح الظروف»"
+        }
+      ],
+      "broll": "images/news/2026-04-26-uk-defense-3pct-starmer-treasury-war/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الخطّة الضائعة",
+      "arabicHeading": "خطة الاستثمار الدفاعي تأخّرت ٦ أشهر… ولا أحد يعرف متى تخرج",
+      "arabicBody": "خطة الاستثمار الدفاعي البريطاني — الوثيقة التي تحدّد أين يذهب كل جنيه — كان موعدها الخريف الماضي. اليوم، تأخّرها تجاوز ستة أشهر كاملة. الأمين العام السابق للناتو جورج روبرتسون وصف التأخير بكلمة واحدة: «خطر». في موازين الحلف، ستّة أشهر بلا خطّة تعني أنّ بريطانيا تدخل اجتماعات بروكسل بأيدٍ فارغة أمام واشنطن وبرلين وباريس.",
+      "bigStat": {
+        "value": "6+",
+        "label": "months overdue",
+        "arabicLabel": "أشهر تأخير ولا جدول"
+      },
+      "supportingStats": [
+        {
+          "label": "موعد التسليم الأصلي",
+          "value": "خريف ٢٠٢٥"
+        },
+        {
+          "label": "تقييم روبرتسون",
+          "value": "«خطر» على بريطانيا"
+        },
+        {
+          "label": "نظرة بروكسل",
+          "value": "لندن بلا أرقام"
+        }
+      ],
+      "broll": "images/news/2026-04-26-uk-defense-3pct-starmer-treasury-war/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الجيش الناقص",
+      "arabicHeading": "٩٥ ألف احتياطي مفقود من قوائم النداء… والساعة تدقّ",
+      "arabicBody": "حين دقّقت وزارة الدفاع البريطانية لائحة الاحتياط، اكتشفت ثقباً يبتلع ٩٥ ألف جندي. أسماء غير قابلة للاتصال، عناوين قديمة، أرقام معطّلة. إذا فُتح صندوق الحرب غداً، الجيش الذي يتباهى به ستارمر في التلفزيون لن يردّ على الهاتف. السؤال الذي يخاف منه الجميع في وستمنستر: ماذا لو لم يكن للأرقام جسد؟",
+      "bigStat": {
+        "value": "95,000",
+        "label": "reservists missing from call-up",
+        "arabicLabel": "احتياطي بلا عنوان"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "ستارمر يلوي ذراع ريفز ويمرّر ٣٫٥%"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "ريفز تنتصر وبريطانيا تهبط لمرتبة ثانية في الناتو"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تسوية ٢٫٦% الآن… والأزمة تنفجر بعد الانتخابات"
+        }
+      ],
+      "broll": "images/news/2026-04-26-uk-defense-3pct-starmer-treasury-war/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "City AM",
+      "domain": "cityam.com"
+    },
+    {
+      "name": "NATO",
+      "domain": "nato.int"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "The Times",
+      "domain": "thetimes.co.uk"
+    }
+  ],
+  "arabicTicker": [
+    "ستارمر يدقّ الطاولة في داون نينغ: ٣٫٥% للدفاع بحلول ٢٠٣٥ أو لا التزام أمام الناتو",
+    "وزيرة الماليّة راشيل ريفز ردّت بجملة واحدة: «حين تسمح الظروف الاقتصادية والمالية»",
+    "تلك الجملة المخفيّة تعني عملياً لا أرقام لا جدول — والحلف يقرأها كانسحاب صامت",
+    "خطة الاستثمار الدفاعي تأخّرت أكثر من ٦ أشهر — وموعدها الأصلي كان خريف ٢٠٢٥",
+    "الأمين العام السابق للناتو روبرتسون وصف التأخير بكلمة واحدة: «خطر» على بريطانيا",
+    "تدقيق الاحتياط كشف ٩٥ ألف جندي مفقود من قوائم النداء — أرقام بلا أجساد",
+    "هل تنتصر ريفز وتهبط لندن لمرتبة ثانية في الناتو… أم يكسر ستارمر الخزانة قبل بروكسل؟"
+  ]
+}

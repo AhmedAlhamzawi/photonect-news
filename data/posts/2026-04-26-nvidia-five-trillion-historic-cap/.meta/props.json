@@ -1,0 +1,148 @@
+{
+  "dateLabel": "APR 26 • 2026",
+  "arabicDateLabel": "٢٦ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "خمسة تريليون",
+    "arabicHeadline": "إنفيديا كسرت حاجز الـ٥ تريليون — جنسن هوانغ يلبس أغلى جاكيت في التاريخ",
+    "englishSubhead": "NVIDIA • $5T CAP • $208 RECORD • AMD +14% • INTEL +24%",
+    "heroQueries": [
+      "Jensen Huang Nvidia keynote leather jacket",
+      "Nvidia headquarters Santa Clara",
+      "Nasdaq MarketSite Times Square ticker",
+      "GeForce RTX 5090 GPU macro",
+      "AI chip data center"
+    ],
+    "heroMedia": "images/news/2026-04-26-nvidia-five-trillion-historic-cap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللحظة التاريخية",
+      "arabicHeading": "شركة واحدة صارت أغلى من ألمانيا وبريطانيا مجتمعتَين — في إغلاق يوم الجمعة",
+      "arabicBody": "السهم لمس ٢٠٨.٢٧ دولار، صعد ٤.٣٪ في يوم واحد، والقيمة السوقية تجاوزت ٥ تريليون دولار. لا شركة قبلها وصلت إلى هنا. منذ نهاية ٢٠٢٢، سهم إنفيديا قفز ١٤٠٠٪. جنسن هوانغ، صبي تايواني هاجر إلى أوريغون وكان يغسل صحون 'دني'، يقف اليوم على رأس أغلى مؤسسة في تاريخ البشرية. والسوق لم يصل إلى الذروة بعد.",
+      "bigStat": {
+        "value": "٥ تريليون $",
+        "label": "first company in history",
+        "arabicLabel": "أول شركة في التاريخ"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر الإغلاق",
+          "value": "٢٠٨.٢٧ $"
+        },
+        {
+          "label": "ارتفاع اليوم",
+          "value": "+٤.٣٪"
+        },
+        {
+          "label": "صعود السهم منذ ٢٠٢٢",
+          "value": "+١٤٠٠٪"
+        },
+        {
+          "label": "التاريخ",
+          "value": "٢٤ أبريل"
+        }
+      ],
+      "broll": "images/news/2026-04-26-nvidia-five-trillion-historic-cap/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الموجة الكاملة",
+      "arabicHeading": "الموجة لم تكن إنفيديا وحدها — AMD قفزت ١٤٪ وإنتل سجّلت أفضل يوم لها منذ ١٩٨٧",
+      "arabicBody": "حين تتحرك إنفيديا، يتحرك معها كل سوق الرقائق. AMD أغلقت بزيادة ١٤٪ في جلسة واحدة. إنتل سجّلت أفضل يوم منذ سنة ١٩٨٧ — أربع وثلاثون سنة من السكون انكسرت في ساعات. السبب وراء الموجة؟ ٦٥٠ مليار دولار تعهدت بها كبرى شركات الحوسبة السحابية لإنفاق البنية التحتية للذكاء الاصطناعي في ٢٠٢٦ وحدها. والمشترون الجدد ليسوا من وادي السيليكون فقط.",
+      "bigStat": {
+        "value": "+٢٤٪",
+        "label": "Intel best day since 1987",
+        "arabicLabel": "إنتل: أفضل يوم منذ ٨٧"
+      },
+      "supportingStats": [
+        {
+          "label": "AMD يوم واحد",
+          "value": "+١٤٪"
+        },
+        {
+          "label": "إنفاق Hyperscalers ٢٠٢٦",
+          "value": "٦٥٠ مليار $"
+        },
+        {
+          "label": "آخر يوم مماثل لإنتل",
+          "value": "١٩٨٧"
+        },
+        {
+          "label": "أسهم الرقائق",
+          "value": "موجة جماعية"
+        }
+      ],
+      "broll": "images/news/2026-04-26-nvidia-five-trillion-historic-cap/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FF6B3D"
+    },
+    {
+      "label": "الخليج يدخل الصورة",
+      "arabicHeading": "الرياض وأبوظبي حصلتا على الضوء الأخضر — ٧٠ ألف رقاقة بلاكويل في الطريق",
+      "arabicBody": "البيت الأبيض رفع القيود، وإنفيديا فتحت ملف الخليج رسمياً: ٧٠ ألف رقاقة Blackwell متجهة إلى الرياض وأبوظبي. هوانغ توقّع مبيعات تصل إلى تريليون دولار من جيلَي Blackwell وVera Rubin بين ٢٠٢٦ و٢٠٢٧. السؤال المفتوح: هل العرب سيشترون الذكاء الاصطناعي جاهزاً، أم سيبنون منصّاتهم الخاصة فوق هذه الرقائق؟ القرار الذي يُؤخذ اليوم يحدّد من يدفع ومن يقبض في عشر السنوات القادمة.",
+      "bigStat": {
+        "value": "١ تريليون $",
+        "label": "Blackwell + Vera Rubin sales",
+        "arabicLabel": "مبيعات بلاكويل وفيرا روبن"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "الخليج يستهلك ويتبع"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "بناء سيادة حوسبية محلية"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "وسيط بين واشنطن وبكين"
+        }
+      ],
+      "broll": "images/news/2026-04-26-nvidia-five-trillion-historic-cap/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Benzinga",
+      "domain": "benzinga.com"
+    },
+    {
+      "name": "Intellectia",
+      "domain": "intellectia.ai"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com"
+    }
+  ],
+  "arabicTicker": [
+    "إنفيديا تعبر حاجز ٥ تريليون دولار — أول شركة في تاريخ البشرية تصل إلى هنا",
+    "السهم أغلق على ٢٠٨.٢٧ دولار بصعود ٤.٣٪ — قفزة ١٤٠٠٪ منذ نهاية ٢٠٢٢",
+    "AMD قفزت ١٤٪ في جلسة واحدة — وإنتل سجّلت أفضل يوم منذ سنة ١٩٨٧",
+    "٦٥٠ مليار دولار تعهدات إنفاق Hyperscalers على الذكاء الاصطناعي في ٢٠٢٦",
+    "الرياض وأبوظبي على قائمة الشحن: ٧٠ ألف رقاقة Blackwell بضوء أخضر أميركي",
+    "هوانغ يتوقع تريليون دولار من Blackwell وVera Rubin بين ٢٠٢٦ و٢٠٢٧",
+    "السؤال للخليج: هل نشتري الذكاء جاهزاً أم نبني السيادة الحوسبية فوق هذه الرقائق؟"
+  ]
+}
