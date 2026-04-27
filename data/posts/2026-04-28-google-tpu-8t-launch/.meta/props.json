@@ -1,0 +1,152 @@
+{
+  "dateLabel": "APR 28 • 2026",
+  "arabicDateLabel": "٢٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "حرب الرقائق",
+    "arabicHeadline": "غوغل ضربت إنفيديا بـ٩٬٦٠٠ رقاقة في عنقود واحد… و١٢١ إكسافلوب طارت من المختبر",
+    "englishSubhead": "GOOGLE • TPU 8T • 9,600 CHIPS • 121 EXAFLOPS • 2.8X FASTER",
+    "heroQueries": [
+      "Google TPU data center server racks",
+      "AI chip closeup silicon wafer",
+      "Cloud Next conference stage Google",
+      "Nvidia Rubin GPU rack data center",
+      "Anthropic Claude AI compute cluster"
+    ],
+    "heroMedia": "images/news/2026-04-28-google-tpu-8t-launch/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللحظة",
+      "arabicHeading": "غوغل فتحت غطاء الجيل الثامن — رقاقتان توأم تأكلان التدريب والاستدلال في عنقود واحد",
+      "arabicBody": "يوم ٢٣ أبريل، صعدت غوغل على مسرح Cloud Next وكشفت TPU 8t وTPU 8i — الجيل الثامن من سيليكونها الخاص. عنقود واحد يبتلع ٩٬٦٠٠ رقاقة وذاكرة HBM مشتركة بحجم ٢ پيتابايت، ويرمي على الطاولة ١٢١ إكسافلوب أداء ذروي. الرسالة المخفية بين الأرقام: غوغل لم تعد زبوناً عند إنفيديا، بل صارت تطبخ سيليكونها داخل مراكز بياناتها لتدرّب Gemini والجيل القادم من Claude الذي تشتغل عليه أنثروبيك. وهنا تبدأ المشكلة الحقيقية لجنسن هوانغ.",
+      "bigStat": {
+        "value": "١٢١",
+        "label": "EXAFLOPS PEAK",
+        "arabicLabel": "إكسافلوب ذروي"
+      },
+      "supportingStats": [
+        {
+          "label": "رقائق العنقود",
+          "value": "9,600"
+        },
+        {
+          "label": "ذاكرة HBM مشتركة",
+          "value": "2 PB"
+        },
+        {
+          "label": "تاريخ الإطلاق",
+          "value": "23 أبريل"
+        },
+        {
+          "label": "اسم الجيل",
+          "value": "TPU 8t / 8i"
+        }
+      ],
+      "broll": "images/news/2026-04-28-google-tpu-8t-launch/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "الضربة الفنية",
+      "arabicHeading": "٢٫٨× أسرع في التدريب، و٨٠٪ أرخص في الاستدلال — والذاكرة داخل الرقاقة تضاعفت ثلاث مرات",
+      "arabicBody": "غوغل تقول إن TPU 8t يعطي سعراً وأداءً للتدريب أعلى ٢٫٨ مرة من سلفه Ironwood. أما TPU 8i المختصّ بالاستدلال، فيقفز بكفاءة السعر/الأداء ٨٠٪، ويثلّث ذاكرة SRAM داخل الرقاقة لتصل إلى ٣٨٤ ميغابايت لكل رقاقة، موزّعة على عناقيد بحجم ١٬١٥٢ رقاقة. هذه ليست أرقام بطاقة تسويق — هذه فاتورة الاستدلال التي يدفعها كل من يطلب من Gemini سؤالاً أو يشغّل Veo لإنتاج فيديو. كلّ نقطة كفاءة هنا، تتحوّل غداً إلى دولار أقل في جيب المستخدم. والسؤال المخفي: من سيلحق هذا الإيقاع؟",
+      "bigStat": {
+        "value": "٢٫٨×",
+        "label": "TRAINING PRICE/PERF",
+        "arabicLabel": "تسارع التدريب"
+      },
+      "supportingStats": [
+        {
+          "label": "تحسّن الاستدلال",
+          "value": "80%"
+        },
+        {
+          "label": "SRAM لكل رقاقة",
+          "value": "384 MB"
+        },
+        {
+          "label": "عنقود الاستدلال",
+          "value": "1,152 رقاقة"
+        },
+        {
+          "label": "الجيل المُقارَن",
+          "value": "Ironwood السابع"
+        }
+      ],
+      "broll": "images/news/2026-04-28-google-tpu-8t-launch/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "ساحة المعركة",
+      "arabicHeading": "إنفيديا تجمع أنثروبيك وميتا وOpenAI تحت رايتها — وأنثروبيك وحدها تطير إلى ٣٠ مليار سنوياً",
+      "arabicBody": "بينما غوغل تصعد، إنفيديا في الجهة المقابلة تحشد جيشها: أنثروبيك، ميتا، Mistral، OpenAI، وxAI — كلّهم تحت سقف منصّتها الجديدة Rubin. وأنثروبيك وحدها قفزت من ٩ مليار دولار إيرادات سنوية في نهاية ٢٠٢٥ إلى معدّل ٣٠ مليار اليوم — ثلاثة أضعاف في أربعة أشهر. السوق لم يعد يتحرّك خلف قطب واحد، بل صار قطبيّة ثنائية: TPU في زاوية، وRubin في الزاوية المقابلة. والخاسر الحقيقي ليس أحد المختبرين الكبيرين، بل كل شركة راهنت على رقاقة واحدة ونسيت أن تشتري تذكرة احتياط.",
+      "bigStat": {
+        "value": "$٣٠B",
+        "label": "ANTHROPIC RUN-RATE",
+        "arabicLabel": "أنثروبيك سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "إيرادات نهاية 2025",
+          "value": "$9B"
+        },
+        {
+          "label": "معدّل اليوم",
+          "value": "$30B"
+        },
+        {
+          "label": "منصة إنفيديا",
+          "value": "Rubin"
+        },
+        {
+          "label": "زبائن Rubin",
+          "value": "5 مختبرات كبرى"
+        }
+      ],
+      "broll": "images/news/2026-04-28-google-tpu-8t-launch/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Google Blog",
+      "domain": "blog.google"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "The Verge",
+      "domain": "theverge.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    }
+  ],
+  "arabicTicker": [
+    "غوغل ضربت طاولة الذكاء الاصطناعي بـ٩٬٦٠٠ رقاقة TPU 8t في عنقود واحد و١٢١ إكسافلوب أداء ذروي",
+    "الجيل الثامن نزل في Cloud Next يوم ٢٣ أبريل — رقاقتان توأم لتدريب Gemini واستدلال Claude",
+    "تسارع تدريب ٢٫٨× وكفاءة استدلال ٨٠٪ مقارنة بـIronwood — قفزة جيلية حقيقية لا بطاقة تسويق",
+    "TPU 8i يثلّث ذاكرة SRAM إلى ٣٨٤ ميغابايت داخل الرقاقة، موزّعة على عناقيد ١٬١٥٢ رقاقة",
+    "إنفيديا في الجهة المقابلة تحشد أنثروبيك وميتا وMistral وOpenAI وxAI تحت منصّتها Rubin",
+    "أنثروبيك وحدها قفزت من ٩ مليار إلى معدّل ٣٠ مليار دولار سنوياً في أربعة أشهر فقط",
+    "السوق صار قطبيّة ثنائية بين TPU وRubin — فمن يدفع فاتورة من راهن على رقاقة واحدة؟"
+  ]
+}

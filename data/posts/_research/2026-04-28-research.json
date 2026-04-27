@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "zaidi-iraq-pm-designate",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraqi president names businessman Ali al-Zaidi as PM-designate, ending months of deadlock between Sudani and Maliki",
+    "protagonist": "President Nizar Amedi",
+    "verb": "named",
+    "anchor_number": "30 days to form cabinet",
+    "beat1": {"label_seed": "The pick", "fact": "Iraq's Coordination Framework finally settled on Ali al-Zaidi on April 27 after both Sudani and Maliki withdrew their candidacies. Trump had publicly warned he would cut all US support to Iraq if Maliki, seen as Iran-aligned, became PM."},
+    "beat2": {"label_seed": "The math", "fact": "Zaidi has 30 days under Article 76 to form a cabinet, needing an absolute majority in a 329-seat parliament where the Framework holds about 185 seats. He has never held political office and chairs the National Holding Company."},
+    "beat3": {"label_seed": "What's next", "fact": "Cabinet horse-trading begins immediately, with Washington pressing to keep Iran-backed militia figures out of security ministries. Failure to win the vote would push Iraq into a third constitutional breach."},
+    "sources": ["thenationalnews.com", "aljazeera.com"],
+    "supporting_stats": [
+      {"label": "Days to form cabinet", "value": "30"},
+      {"label": "Framework seats in parliament", "value": "185 of 329"}
+    ]
+  },
+  {
+    "slug": "iraq-turkmen-gas-blocked",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "US blocks Iraq's Turkmenistan gas swap as summer power demand looms, costing Baghdad nearly 5 GW of generation",
+    "protagonist": "US Treasury",
+    "verb": "blocked",
+    "anchor_number": "5 GW lost",
+    "beat1": {"label_seed": "The block", "fact": "Washington has refused to grant Iraq a sanctions waiver for a 5.025 bcm Turkmenistan gas swap routed through Iran, leaving the contract suspended. The deal was first proposed in 2023 and would have run through Iran's NIGC."},
+    "beat2": {"label_seed": "The cost", "fact": "Iraq has lost roughly 5 GW of generation capacity heading into summer, when peak demand exceeds 38 GW. Imported gas covers nearly a third of Iraq's electricity, and 9.5 bcm flowed in 2024."},
+    "beat3": {"label_seed": "Plan B", "fact": "Baghdad is fast-tracking infrastructure to import LNG from Qatar and accelerating the Kirkuk-Ceyhan and Basra-Ceyhan pipeline routes. None will arrive before peak summer outages."},
+    "sources": ["oilprice.com", "arabnews.com"],
+    "supporting_stats": [
+      {"label": "Lost generation capacity", "value": "5 GW"},
+      {"label": "Suspended swap volume", "value": "5.025 bcm"}
+    ]
+  },
+  {
+    "slug": "araghchi-putin-stpetersburg",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Iran's Araghchi meets Putin in St. Petersburg as US talks collapse and Tehran offers phased Hormuz reopening",
+    "protagonist": "Vladimir Putin",
+    "verb": "pledged",
+    "anchor_number": "9 weeks of war",
+    "beat1": {"label_seed": "The meeting", "fact": "Putin received Iranian FM Abbas Araghchi in St. Petersburg on April 27 and pledged Russia would do everything possible to end the conflict diplomatically. Russian Defense Minister Belousov met Iran's deputy defense minister the same day."},
+    "beat2": {"label_seed": "The proposal", "fact": "Tehran is offering a phased plan to reopen the Strait of Hormuz if the US lifts its naval blockade and ends the war, but defers nuclear concessions. The Iran war is now in its 9th week, the longest energy supply shock the IEA has on record."},
+    "beat3": {"label_seed": "What's next", "fact": "Trump abruptly cancelled envoys' Pakistan trip over the weekend; Rubio called the Hormuz-only deal unacceptable. With nuclear off the table, talks face a wall."},
+    "sources": ["themoscowtimes.com", "cnn.com"],
+    "supporting_stats": [
+      {"label": "Weeks since Feb 28 war start", "value": "9"},
+      {"label": "Hormuz share of global oil flow", "value": "~20%"}
+    ]
+  },
+  {
+    "slug": "qassem-rejects-israel-talks",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Hezbollah's Naim Qassem flatly rejects direct talks with Israel, calling them a 'humiliating concession' as Aoun fires back",
+    "protagonist": "Naim Qassem",
+    "verb": "rejected",
+    "anchor_number": "14 killed Sunday",
+    "beat1": {"label_seed": "The rejection", "fact": "On April 27 Hezbollah Secretary-General Naim Qassem categorically rejected direct negotiations with Israel and refused to give up the group's weapons. He called the talks a 'gratuitous and humiliating concession.'"},
+    "beat2": {"label_seed": "The ceasefire", "fact": "Israeli strikes on southern Lebanon killed 14 people on Sunday, the deadliest day since the truce. Trump extended the ceasefire by 3 weeks on April 23, but daily exchanges of fire continue."},
+    "beat3": {"label_seed": "The split", "fact": "Lebanese President Joseph Aoun publicly hit back, saying 'treason is committed by those who take their country to war for foreign interests.' The clash exposes a widening Beirut-Hezbollah rift."},
+    "sources": ["fdd.org", "aninews.in"],
+    "supporting_stats": [
+      {"label": "Killed in Sunday strikes", "value": "14"},
+      {"label": "Truce extension", "value": "3 weeks"}
+    ]
+  },
+  {
+    "slug": "brent-108-hormuz-stalemate",
+    "topicBucket": "global_economy",
+    "headline_seed": "Brent crude jumps to $108 as Iran's Hormuz offer falters and US-Iran talks deadlock",
+    "protagonist": "Brent crude",
+    "verb": "surged",
+    "anchor_number": "$108.36 Brent",
+    "beat1": {"label_seed": "The surge", "fact": "Brent climbed nearly 3% to $108.36 a barrel on April 27, its highest in three weeks. Prices are roughly 50% higher than when the war began on February 28."},
+    "beat2": {"label_seed": "The trigger", "fact": "Iran reiterated its conditional offer to reopen Hormuz only if the US lifts its naval blockade and ends the war. Secretary Rubio called the deal unacceptable; Trump cancelled envoys' Pakistan trip."},
+    "beat3": {"label_seed": "Earnings week", "fact": "S&P 500 still hit a fresh 7,173.91 record on AI optimism, but the Magnificent Seven report this week (Apple, Microsoft, Amazon, Alphabet, Meta). Higher oil now threatens the inflation glide path."},
+    "sources": ["fortune.com", "finance.yahoo.com"],
+    "supporting_stats": [
+      {"label": "Brent on April 27", "value": "$108.36"},
+      {"label": "S&P 500 record close", "value": "7,173.91"}
+    ]
+  },
+  {
+    "slug": "fed-april-29-hold",
+    "topicBucket": "global_economy",
+    "headline_seed": "Fed expected to hold at 3.50–3.75% on April 29 as $108 Brent torches the disinflation path",
+    "protagonist": "Jerome Powell",
+    "verb": "holds",
+    "anchor_number": "99.9% no-cut odds",
+    "beat1": {"label_seed": "The decision", "fact": "Polymarket prices a 99.9% probability the Fed leaves rates at 3.50–3.75% at the April 28-29 FOMC meeting. The dot plot signals only one 25-bp cut for the rest of 2026."},
+    "beat2": {"label_seed": "The squeeze", "fact": "$108 Brent is reigniting CPI pressure just as growth slows and the Iran war enters week 9. JPMorgan and Morgan Stanley both forecast a hold."},
+    "beat3": {"label_seed": "What's next", "fact": "Powell's press conference Wednesday is the market's tell on whether 2026 stays at one cut or shifts to a pause-and-hike risk. Treasury yields are pricing the latter."},
+    "sources": ["polymarket.com", "jpmorgan.com"],
+    "supporting_stats": [
+      {"label": "FOMC odds of hold", "value": "99.9%"},
+      {"label": "Current Fed funds upper", "value": "3.75%"}
+    ]
+  },
+  {
+    "slug": "google-tpu-8t-launch",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Google launches TPU 8t and 8i, scaling 9,600 chips into a single 121-exaflop pod aimed at Nvidia",
+    "protagonist": "Google Cloud",
+    "verb": "launched",
+    "anchor_number": "121 exaflops",
+    "beat1": {"label_seed": "The chips", "fact": "Google unveiled the eighth-generation TPU 8t (training) and 8i (inference) at Cloud Next on April 23. A single TPU 8t cluster aggregates 9,600 chips and 2 PB of shared HBM for 121 exaflops."},
+    "beat2": {"label_seed": "The performance", "fact": "Google claims 2.8x training price-performance and 80% better inference price-performance vs. seventh-gen Ironwood. TPU 8i triples on-chip SRAM to 384 MB per chip across 1,152-chip pods."},
+    "beat3": {"label_seed": "The Nvidia threat", "fact": "Anthropic, Meta, Mistral, OpenAI and xAI are simultaneously adopting Nvidia's Rubin platform; Anthropic alone has $30B run-rate revenue, up from $9B at end-2025. The chip race is now bipolar."},
+    "sources": ["blog.google", "techcrunch.com"],
+    "supporting_stats": [
+      {"label": "Chips per TPU 8t cluster", "value": "9,600"},
+      {"label": "Cluster peak performance", "value": "121 exaflops"}
+    ]
+  },
+  {
+    "slug": "germany-114bn-defense-record",
+    "topicBucket": "europe",
+    "headline_seed": "Germany's defense spending hits 36-year high at $114B as Rheinmetall lands 1.04 billion euro soldier-systems contract",
+    "protagonist": "Bundeswehr",
+    "verb": "ordered",
+    "anchor_number": "$114 billion",
+    "beat1": {"label_seed": "The budget", "fact": "Germany's 2026 defense spending jumped 24% year-over-year to $114 billion, the highest level in 36 years per SIPRI. The €108.2 billion budget redefines Berlin's role in NATO."},
+    "beat2": {"label_seed": "The order", "fact": "On April 27 Rheinmetall announced a €1.04 billion framework order for additional 'Infantry Soldier of the Future – Enhanced System' (IdZ-ES) kits. The order signals durable buildup, not a one-off."},
+    "beat3": {"label_seed": "What's next", "fact": "France will spend €76.3B by 2030 — still only ~2.6% of GDP versus the NATO 3.5% target. Dutch intel warns Russia could be ready for NATO conflict within a year of any Ukraine ceasefire."},
+    "sources": ["military.com", "breakingdefense.com"],
+    "supporting_stats": [
+      {"label": "Germany 2026 defense", "value": "$114B"},
+      {"label": "Rheinmetall order", "value": "€1.04B"}
+    ]
+  },
+  {
+    "slug": "eu-90b-ukraine-disbursement",
+    "topicBucket": "europe",
+    "headline_seed": "Ukraine to receive first 6 billion euro tranche of 90 billion EU loan by June, 28.3 billion earmarked for weapons",
+    "protagonist": "European Commission",
+    "verb": "disburses",
+    "anchor_number": "€90 billion total",
+    "beat1": {"label_seed": "The clock", "fact": "Brussels formally approved the €90B Ukraine loan on April 23 after Hungary lifted its veto, alongside the 20th sanctions package on Russia targeting energy. First tranche lands late May or early June."},
+    "beat2": {"label_seed": "The split", "fact": "For 2026 Brussels will move €45B — €16.7B financial, €28.3B military. Ukraine's first €6B military tranche arrives by June. Disbursement is conditional on Kyiv's anti-corruption reforms."},
+    "beat3": {"label_seed": "What's next", "fact": "Russia has vowed 'tough' counter-measures. An RAF Typhoon may have downed a Russian strike UAV over Ukraine on April 25 — UK MoD denies, Romania/NATO sources confirm. NATO's red line is now physically blurred."},
+    "sources": ["euronews.com", "pravda.com.ua"],
+    "supporting_stats": [
+      {"label": "Total loan", "value": "€90B"},
+      {"label": "2026 military tranche", "value": "€28.3B"}
+    ]
+  },
+  {
+    "slug": "gulf-economies-pandemic-shock",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "Reuters poll: Qatar, Kuwait, Bahrain economies will contract in 2026 as Hormuz blockade ravages Gulf",
+    "protagonist": "Reuters economist poll",
+    "verb": "slashed",
+    "anchor_number": "-6.0% Qatar",
+    "beat1": {"label_seed": "The downgrade", "fact": "Reuters' April 8-24 poll shows Qatar, Kuwait, and Bahrain swinging from growth to contraction: -6.0%, -4.4%, and -2.9% in 2026. In January these economies were expected to grow 4.9%, 3.4%, and 2.9%."},
+    "beat2": {"label_seed": "The drag", "fact": "The Hormuz blockade has gutted LNG and crude flows. Saudi Arabia and Oman fare slightly better at +2.6% and +2.2%, but each lost more than a full point. Saudi's largest refinery and Qatari export facilities have been hit by drones."},
+    "beat3": {"label_seed": "The pivot", "fact": "The UAE just stood up a $272M industrial resilience fund and Emirates NBD launched the first Gulf public debt sale since the war began. Sovereign liquidity is the new battleground."},
+    "sources": ["reuters.com", "agbi.com"],
+    "supporting_stats": [
+      {"label": "Qatar 2026 growth", "value": "-6.0%"},
+      {"label": "UAE resilience fund", "value": "$272M"}
+    ]
+  },
+  {
+    "slug": "pakistan-remittance-iran-war",
+    "topicBucket": "wildcard",
+    "headline_seed": "Pakistan's stabilization buckles as Iran war threatens hundreds of thousands of overseas worker jobs and stalls Reko Diq",
+    "protagonist": "Barrick Mining",
+    "verb": "delayed",
+    "anchor_number": "$1B Reko Diq stage",
+    "beat1": {"label_seed": "The hit", "fact": "Barrick Mining said the Iran war and security risks will delay its Reko Diq copper-gold project — Pakistan's flagship mineral play — pushing first production beyond planned 2028 dates."},
+    "beat2": {"label_seed": "The remittance shock", "fact": "Hundreds of thousands of Pakistani workers may not deploy to the Gulf this year, with returnees rising. Remittances are roughly 8% of GDP; even a 10% drop hits foreign reserves directly."},
+    "beat3": {"label_seed": "The trap", "fact": "Pakistan's IMF program assumed declining inflation and rising remittances. Both are now reversing as ADB warns regional growth slows to 5.1% with inflation rising to 3.6% on Hormuz energy shock."},
+    "sources": ["thediplomat.com", "adb.org"],
+    "supporting_stats": [
+      {"label": "Asia 2026 growth forecast", "value": "5.1%"},
+      {"label": "Asia inflation forecast", "value": "3.6%"}
+    ]
+  },
+  {
+    "slug": "egypt-suez-revenue-squeeze",
+    "topicBucket": "wildcard",
+    "headline_seed": "Suez Canal traffic drops 20-30% in Q1 2026 as Hormuz crisis reroutes ships, but EGP holds at 54.26 thanks to IMF",
+    "protagonist": "Suez Canal Authority",
+    "verb": "lost",
+    "anchor_number": "20-30% traffic drop",
+    "beat1": {"label_seed": "The drop", "fact": "Iran war and Hormuz disruptions cut Suez traffic by 20-30% in Q1 2026 versus 2025's $9.4B annual fee haul. Smaller ships are rerouting; larger vessels are paying higher tolls but at lower volume."},
+    "beat2": {"label_seed": "The buffer", "fact": "Egypt's pound has held near 54.26/USD despite war shock thanks to the $8.1B IMF EFF. Pound is down ~13% year-to-date, but the parallel market that traded at 60-70 has vanished."},
+    "beat3": {"label_seed": "What's next", "fact": "IMF/World Bank still pencil 4.3-4.5% Egypt GDP growth in 2026 — but only if Suez recovers. Cairo is pushing UAE and Saudi for further deposits to plug any tourism shortfall."},
+    "sources": ["themiddleeastinsider.com", "imf.org"],
+    "supporting_stats": [
+      {"label": "Suez Q1 traffic drop", "value": "20-30%"},
+      {"label": "EGP per USD", "value": "54.26"}
+    ]
+  }
+]

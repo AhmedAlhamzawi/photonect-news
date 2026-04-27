@@ -1,0 +1,152 @@
+{
+  "dateLabel": "APR 28 • 2026",
+  "arabicDateLabel": "٢٨ أبريل ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "بروكسل تدفع",
+    "arabicHeadline": "فون دير لاين كسرت أوربان وفتحت ٩٠ مليار يورو لكييڤ — والسلاح حصّته ٢٨٫٣",
+    "englishSubhead": "EU LOAN • €90B TOTAL • €45B FOR 2026 • €28.3B WEAPONS • FIRST €6B BY JUNE • HUNGARY VETO LIFTED",
+    "heroQueries": [
+      "European Commission Brussels meeting flag",
+      "Ukrainian soldiers Western artillery shells",
+      "Russian missile UAV intercepted Romania",
+      "Zelensky von der Leyen handshake summit",
+      "EU sanctions package Russia oil"
+    ],
+    "heroMedia": "images/news/2026-04-28-eu-90b-ukraine-disbursement/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللحظة",
+      "arabicHeading": "في ٢٣ أبريل، فون دير لاين أنزلت فيتو أوربان عن الطاولة — وأقفلت ٩٠ مليار يورو في تصويت واحد",
+      "arabicBody": "بعد أشهر من تعطيل الملف، انكسرت المجر يوم ٢٣ أبريل. فون دير لاين انتزعت موافقة المفوضية على قرض ٩٠ مليار يورو لكييڤ، وفي التصويت ذاته دفعت حزمة العقوبات العشرين على موسكو — تستهدف هذه المرّة قطاع الطاقة الروسي والأسطول الظلّي الذي يلتفّ على سقف السعر. الدفعة الأولى لن تنتظر صيف ٢٠٢٦، ستصل كييڤ بين أواخر مايو وبداية يونيو. أسابيع، لا أشهر. والسؤال المخفي: من قال لأوربان أن يصمت؟",
+      "bigStat": {
+        "value": "٩٠B€",
+        "label": "TOTAL EU LOAN",
+        "arabicLabel": "إجمالي القرض"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ التصويت",
+          "value": "23 أبريل"
+        },
+        {
+          "label": "حزمة العقوبات",
+          "value": "العشرون — طاقة"
+        },
+        {
+          "label": "فيتو المجر",
+          "value": "سقط"
+        },
+        {
+          "label": "أوّل دفعة",
+          "value": "مايو–يونيو"
+        }
+      ],
+      "broll": "images/news/2026-04-28-eu-90b-ukraine-disbursement/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "تشريح المبلغ",
+      "arabicHeading": "٤٥ مليار في ٢٠٢٦ — ١٦٫٧ تدفع رواتب كييڤ، و٢٨٫٣ تشتري قذائف ومسيّرات",
+      "arabicBody": "نصف القرض تقريباً يتدفّق هذا العام. ٤٥ مليار يورو خلال ٢٠٢٦: ١٦٫٧ مليار تذهب لموازنة زيلينسكي — رواتب موظّفين، تقاعد، طوارئ — و٢٨٫٣ مليار مخصّصة بالكامل للسلاح. الدفعة العسكرية الأولى ٦ مليار يورو تصل قبل نهاية يونيو، أي قذائف ومسيّرات في يد البريغادات قبل الصيف. لكن المال ليس مفتوحاً. كلّ يورو مشروط بإصلاحات مكافحة الفساد. أيّ تعثّر، تتجمّد الدفعة التالية فوراً. وهنا تبدأ المشكلة الحقيقية لكييڤ.",
+      "bigStat": {
+        "value": "٢٨٫٣B€",
+        "label": "WEAPONS TRANCHE",
+        "arabicLabel": "حصّة السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "إجمالي 2026",
+          "value": "€45B"
+        },
+        {
+          "label": "للموازنة",
+          "value": "€16.7B"
+        },
+        {
+          "label": "أوّل دفعة سلاح",
+          "value": "€6B قبل يونيو"
+        },
+        {
+          "label": "الشرط",
+          "value": "كسر الفساد"
+        }
+      ],
+      "broll": "images/news/2026-04-28-eu-90b-ukraine-disbursement/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "الخط الأحمر",
+      "arabicHeading": "موسكو تتوعّد بردّ غير متماثل — وTyphoon بريطانية ربّما أسقطت مسيّرة روسية فوق أوكرانيا",
+      "arabicBody": "بوتين ردّ في أقلّ من ٢٤ ساعة: ردّ 'صارم وغير متماثل'. لكن الأخطر جاء من رومانيا. مصادر داخل الناتو أكّدت أن مقاتلة Typhoon بريطانية ربّما أسقطت مسيّرة روسية هجومية فوق الأجواء الأوكرانية يوم ٢٥ أبريل — ولندن تنفي رسمياً. الحادث وقع أم لم يقع، الخط الأحمر للناتو ما عاد يُرسم على خريطة. القرض الأوروبي لم يموّل الحرب فحسب، أعاد رسم حدود التورّط بين أوروبا وموسكو. الأسوأ لم يصل بعد.",
+      "bigStat": {
+        "value": "٢٥",
+        "label": "APR INCIDENT",
+        "arabicLabel": "حادث ٢٥ أبريل"
+      },
+      "supportingStats": [
+        {
+          "label": "ردّ موسكو",
+          "value": "غير متماثل"
+        },
+        {
+          "label": "الطائرة المتّهَمة",
+          "value": "Typhoon بريطانية"
+        },
+        {
+          "label": "موقف لندن",
+          "value": "نفي رسمي"
+        },
+        {
+          "label": "المصدر",
+          "value": "رومانيا والناتو"
+        }
+      ],
+      "broll": "images/news/2026-04-28-eu-90b-ukraine-disbursement/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "Ukrainska Pravda",
+      "domain": "pravda.com.ua"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Politico Europe",
+      "domain": "politico.eu"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "فون دير لاين تكسر فيتو أوربان وتقفل ٩٠ مليار يورو لكييڤ في تصويت واحد يوم ٢٣ أبريل",
+    "حزمة العقوبات العشرين تضرب قطاع الطاقة الروسي والأسطول الظلّي الذي يلتفّ على سقف السعر",
+    "بروكسل تصرف ٤٥ مليار خلال ٢٠٢٦: ١٦٫٧ لرواتب كييڤ و٢٨٫٣ لقذائف ومسيّرات البريغادات",
+    "أوّل ٦ مليار سلاح تصل كييڤ قبل نهاية يونيو — أسابيع، لا أشهر، حتّى تتغيّر الجبهة",
+    "كلّ يورو مشروط بكسر الفساد — أيّ تعثّر يجمّد الدفعة التالية فوراً ويفتح أزمة سياسية",
+    "بوتين ردّ في أقلّ من ٢٤ ساعة — والمواجهة الاقتصادية تتسلّق درجة فوق المعركة العسكرية",
+    "Typhoon بريطانية ربّما أسقطت مسيّرة روسية فوق أوكرانيا يوم ٢٥ أبريل — فمن يرسم الخط الأحمر؟"
+  ]
+}
