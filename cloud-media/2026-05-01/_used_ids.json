@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-01",
+  "source": "pexels",
+  "ids_by_slug": {
+    "zaidi-cabinet-clock-30-days": {
+      "hero": "590016",
+      "broll_1": "3184360",
+      "broll_2": "164527",
+      "broll_3": "845451"
+    },
+    "fpv-drone-kills-golani-soldier": {
+      "hero": "1087180",
+      "broll_1": "2876511",
+      "broll_2": "87810",
+      "broll_3": "417005"
+    },
+    "uae-quits-opec-may-1": {
+      "hero": "1467300",
+      "broll_1": "3856440",
+      "broll_2": "162568",
+      "broll_3": "1090638"
+    },
+    "brent-126-wartime-high-then-snap": {
+      "hero": "210607",
+      "broll_1": "4116562",
+      "broll_2": "1267338",
+      "broll_3": "2480807"
+    },
+    "anthropic-30b-run-rate-overtakes-openai": {
+      "hero": "1148820",
+      "broll_1": "4974912",
+      "broll_2": "2588757",
+      "broll_3": "256219"
+    },
+    "russia-odesa-mass-drone-kallas-90b": {
+      "hero": "2680270",
+      "broll_1": "15014127",
+      "broll_2": "8828586",
+      "broll_3": "2747449"
+    }
+  }
+}

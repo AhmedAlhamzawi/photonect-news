@@ -1,0 +1,152 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "تبديل الصدارة",
+    "arabicHeadline": "أنثروبيك ضربت ٣٠ مليار دولار في أربعة أشهر — ولأوّل مرّة OpenAI تتأخّر خلفها",
+    "englishSubhead": "ANTHROPIC ARR $30B+ • 3X IN 4 MONTHS • OPENAI $25B • $50B PRIMARY ROUND • $900B VALUATION • 11+ GW COMPUTE",
+    "heroQueries": [
+      "Anthropic Claude AI office San Francisco modern",
+      "Nvidia Blackwell GPU data center server racks",
+      "AI startup boardroom funding round venture capital",
+      "Google TPU campus aerial cooling towers",
+      "stock chart AI sector tech screen ticker"
+    ],
+    "heroMedia": "images/news/2026-05-01-anthropic-30b-run-rate-overtakes-openai/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القفزة الكبرى",
+      "arabicHeading": "من ٩ مليار إلى ٣٠ مليار في أربعة أشهر — وOpenAI تستيقظ متأخّرة عند ٢٥",
+      "arabicBody": "أنثروبيك أعلنت هذا الشهر أنّ معدّل إيراداتها السنويّ ضرب ٣٠ مليار دولار، صاعداً من ٩ مليارات في نهاية ٢٠٢٥. المدير المالي كريشنا راو لخّصها بسطر واحد: الرقم تضاعف ثلاث مرّات في أربعة أشهر فقط. خلف هذا السطر ١٠٠٠ عميل مؤسّسيّ — كلّ واحد منهم يدفع أكثر من مليون دولار سنويّاً على Claude. تك كرانتش ينقل عن مصادر مطّلعة أنّ المعدّل الفعليّ قد يكون اقترب من ٤٠ مليار. اللحظة تاريخية ومحمَّلة: لأوّل مرّة منذ ChatGPT، شركة ذكاء اصطناعيّ أمريكية تتجاوز OpenAI في الإيرادات — التي تقف اليوم عند ٢٥ مليار فقط. الصدارة بدّلت اسمها.",
+      "bigStat": {
+        "value": "$٣٠B+",
+        "label": "ANTHROPIC ARR",
+        "arabicLabel": "إيرادات أنثروبيك السنوية"
+      },
+      "supportingStats": [
+        {
+          "label": "ARR ديسمبر ٢٠٢٥",
+          "value": "$9B"
+        },
+        {
+          "label": "ARR أبريل ٢٠٢٦",
+          "value": "$30B+"
+        },
+        {
+          "label": "OpenAI ARR",
+          "value": "$25B"
+        },
+        {
+          "label": "عملاء فوق $1M",
+          "value": "1,000+"
+        }
+      ],
+      "broll": "images/news/2026-05-01-anthropic-30b-run-rate-overtakes-openai/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "جولة ٩٠٠ مليار",
+      "arabicHeading": "٥٠ مليار جديدة عند تقييم ٩٠٠ مليار — وأنثروبيك تحجز كهرباء عشر محطّات نووية لتشغيل Claude",
+      "arabicBody": "في ٢٩ أبريل تأكّدت من عدّة مصادر محادثات أنثروبيك لرفع جولة أوّليّة بقيمة ٥٠ مليار دولار، تقييم ما بعد التمويل ٩٠٠ مليار. هذا بعد التزام غوغل في ٢٤ أبريل بضخّ ما يصل إلى ٤٠ مليار دولار في صفقة تقفل ٥ غيغاواط من قدرة شرائح TPU المخصّصة. أمازون أضافت ٥ غيغاواط من Trainium، وإنفيديا غيغاواط واحد من Blackwell/Rubin. الإجمالي يتجاوز ١١ غيغاواط حوسبة مؤمَّنة — ما يعادل إنتاج عشر محطّات نووية. في المقابل، تراجع سهم الشريحة الأمريكية أواخر أبريل بعد تقارير أنّ OpenAI خسر هدفاً داخليّاً لنموّ ChatGPT، مع ارتفاع الانصراف وتباطؤ التسجيلات الجديدة. وهنا تبدأ المشكلة الحقيقية.",
+      "bigStat": {
+        "value": "$٩٠٠B",
+        "label": "POST-MONEY VALUATION",
+        "arabicLabel": "تقييم ما بعد التمويل"
+      },
+      "supportingStats": [
+        {
+          "label": "جولة أوّلية",
+          "value": "$50B"
+        },
+        {
+          "label": "غوغل TPU",
+          "value": "5 GW"
+        },
+        {
+          "label": "أمازون Trainium",
+          "value": "5 GW"
+        },
+        {
+          "label": "إجمالي الحوسبة",
+          "value": "11+ GW"
+        }
+      ],
+      "broll": "images/news/2026-05-01-anthropic-30b-run-rate-overtakes-openai/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "اختبار الخندق",
+      "arabicHeading": "٦٠٠ مليار دولار التزام صناعيّ على رقبة مختبر واحد — والاختناق الجديد ليس الإيرادات بل تكلفة الرمز",
+      "arabicBody": "الاختبار التالي ليس عداد الإيرادات بل الخندق: هل تستطيع أنثروبيك تحويل تراكم الشرائح والمال إلى تفوّق منتجيّ مستدام؟ تقارير تقول إنّ الشركة تستكشف تصنيع شرائحها الخاصة بالتوازي مع استراتيجيّتها متعدّدة السحابات، نسخةً من خطّة Trainium الأمازونية. فريق Madrona ومجلّة AI Magazine يدقّان الجرس: الاختناق الحقيقيّ صار ضغط تكلفة الرمز. تسعير Claude تغيّر، وميزانيات المؤسّسات تشدّ على كلفة الاستدعاء الواحد. تابعوا ثلاثة أحداث: إقفال جولة الـ٩٠٠ مليار، إعلان شريحة Anthropic-Broadcom المخصّصة، وجولة تمويل مضادّة من OpenAI. تبديل الصدارة أوّل مرّة في عمر الذكاء الاصطناعيّ التجاريّ — والسؤال إن كان دائماً أم عابراً.",
+      "bigStat": {
+        "value": "$٦٠٠B",
+        "label": "INDUSTRY CAPEX BURDEN",
+        "arabicLabel": "التزام رأسماليّ صناعيّ"
+      },
+      "supportingStats": [
+        {
+          "label": "الاختناق الجديد",
+          "value": "Token-cost"
+        },
+        {
+          "label": "خيار شريحة خاصّة",
+          "value": "Anthropic-Broadcom"
+        },
+        {
+          "label": "الانعكاس",
+          "value": "أوّل تبديل صدارة"
+        },
+        {
+          "label": "ضغط الهامش",
+          "value": "مرتفع"
+        }
+      ],
+      "broll": "images/news/2026-05-01-anthropic-30b-run-rate-overtakes-openai/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "The Register",
+      "domain": "theregister.com"
+    },
+    {
+      "name": "SiliconAngle",
+      "domain": "siliconangle.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "أنثروبيك ضربت ٣٠ مليار دولار إيرادات سنوية صعوداً من ٩ مليارات في أربعة أشهر فقط",
+    "كريشنا راو المدير المالي: ١٠٠٠ عميل مؤسّسيّ يدفع كلّ واحد فوق المليون دولار سنويّاً على Claude",
+    "تك كرانتش ينقل عن مصادر مطّلعة: المعدّل الفعليّ قد يكون اقترب من ٤٠ مليار دولار",
+    "لأوّل مرّة في عمر الذكاء الاصطناعيّ التجاريّ — أنثروبيك تتجاوز OpenAI التي تتأخّر عند ٢٥ مليار",
+    "محادثات لجولة أوّلية بـ٥٠ مليار عند تقييم ٩٠٠ مليار بعد التزام غوغل بأربعين مليار",
+    "١١+ غيغاواط حوسبة مؤمَّنة بين TPU وTrainium وBlackwell — ما يعادل عشر محطّات نووية",
+    "الاختبار الحقيقيّ ضغط تكلفة الرمز وشريحة Anthropic-Broadcom — هل تثبّت الصدارة أم تنزلق؟"
+  ]
+}

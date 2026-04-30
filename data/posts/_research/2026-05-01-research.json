@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "zaidi-cabinet-clock-30-days",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq's banker PM Ali al-Zaidi gets 30-day cabinet clock as Washington and Paris quietly green-light him",
+    "protagonist": "Ali al-Zaidi",
+    "verb": "tasked",
+    "anchor_number": "30 days",
+    "beat1": {
+      "label_seed": "Tasked",
+      "fact": "On April 27, the Coordination Framework named Ali Falih Kadhim al-Zaidi, chairman of Al-Janoob Islamic Bank, as Iraq's prime minister-designate. President Nizar Amidi, just elected April 11 with 227 votes, immediately tasked al-Zaidi to form a government, starting the 30-day constitutional clock that runs to roughly May 27. Al-Zaidi has never held political office; he was selected as a consensus businessman after both Sudani and Maliki withdrew their candidacies to break a five-month deadlock that began with the late-2025 vote. The choice signals a Coordination Framework bet that a banker-technocrat is more sellable to Washington and the markets than another Shia party operator."
+    },
+    "beat2": {
+      "label_seed": "Quietly approved",
+      "fact": "On April 29, the US embassy in Baghdad welcomed al-Zaidi's nomination, and on April 28 France's foreign ministry publicly endorsed him, an unusual two-capital green light for a candidate technically picked by a pro-Tehran bloc. The signal matters because Iraq is still operating under the Iran-war fuel and export shock, with crude output sitting at roughly 1.4 million barrels per day according to caretaker oil minister Hayan Abdel-Ghani, less than a third of pre-war levels. Al-Zaidi's banking background and ties to Chevron and ExxonMobil's recent return through the Nasiriyah and Majnoon deals are the implicit pitch."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Al-Zaidi must now negotiate ministry portfolios with the Coordination Framework, the Kurdish blocs and Sunni partners, then submit a cabinet to parliament for an absolute-majority confidence vote before May 27. Historically Iraqi PMs-designate miss this deadline; Adel Abdul-Mahdi in 2018 needed two extensions. Watchers say the Oil, Interior and Finance ministries will be the real fight, with Washington pushing to keep US-friendly technocrats and Tehran-aligned factions demanding Interior. If al-Zaidi fails, parliament must restart the nomination, prolonging the leadership void during an active regional war and an oil revenue collapse that funds 90% of Iraq's budget."
+    },
+    "sources": ["aljazeera.com", "shafaq.com", "fdd.org", "diplomatie.gouv.fr", "thenationalnews.com"],
+    "supporting_stats": [
+      {"label": "Vote that elected President Amidi (April 11)", "value": "227 MPs"},
+      {"label": "Iraq oil output now vs pre-war", "value": "1.4M bpd (down ~67%)"}
+    ]
+  },
+  {
+    "slug": "fpv-drone-kills-golani-soldier",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Hezbollah's fiber-optic FPV drone kills 19-year-old Golani sergeant in Qantara, exposes IDF radar gap",
+    "protagonist": "Hezbollah",
+    "verb": "killed",
+    "anchor_number": "19-year-old",
+    "beat1": {
+      "label_seed": "Trigger",
+      "fact": "On April 30, Hezbollah launched two explosive-laden first-person-view drones at Israeli armor positions in the southern Lebanese village of Qantara. The IDF intercepted one; the second slammed into a Golani Brigade 13th Battalion squad, killing Sergeant Liem Ben Hamo, 19, of Herzliya, and moderately wounding another soldier. Hours later a separate drone hit an M548 cargo carrier near Shomera in northern Israel, wounding 12 more troops. Hezbollah claimed both strikes. Hamo is the first IDF soldier killed by a fiber-optic FPV drone in this phase of the war, and the second IDF fatality from explosive drones inside one week."
+    },
+    "beat2": {
+      "label_seed": "Tactical shift",
+      "fact": "The April 30 attack confirms a tactical pivot Hezbollah began three weeks ago: from heavy artillery and rocket salvos to near-daily FPV drone strikes guided by physical fiber-optic cable. Because the cable carries no radio signal, the drones bypass Israel's $billions in electronic-warfare jamming. Al Jazeera and Times of Israel report Hezbollah has circulated drone-strike videos almost every day since early April, with the April 26 strike killing soldier Idan Fooks and wounding six. Israel's military admits the FPV class exposes a 'preparedness gap' the air-defense layers were never built for. Cost asymmetry is brutal: an FPV kit runs hundreds of dollars; an Iron Dome interceptor runs roughly $50,000."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Israel has reportedly asked Trump to put a 2-3 week deadline on Lebanon ceasefire talks while bracing for a possible resumption of the wider Iran war as early as next week. Lebanese officials say at least 28 people were killed by IDF airstrikes in southern Lebanon on April 30 alone, despite the November 2025 US-mediated ceasefire that is now eroding daily. Watch for an Israeli ground push into the Litani belt to clear FPV launch points, a Hezbollah escalation toward longer-range Iranian-supplied drones, and a Trump call demanding either Hezbollah stand-down or full IDF return to combat operations."
+    },
+    "sources": ["timesofisrael.com", "thenationalnews.com", "aljazeera.com", "haaretz.com"],
+    "supporting_stats": [
+      {"label": "IDF wounded by FPV drones in week of April 26-30", "value": "≥18 soldiers"},
+      {"label": "Lebanese killed in April 30 IDF strikes", "value": "28"}
+    ]
+  },
+  {
+    "slug": "uae-quits-opec-may-1",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "UAE leaves OPEC on May 1, ending a 50-year quota era and clearing the path to 5 million barrels a day",
+    "protagonist": "UAE Energy Minister Suhail al-Mazrouei",
+    "verb": "withdrew",
+    "anchor_number": "5 million bpd",
+    "beat1": {
+      "label_seed": "Withdrawn",
+      "fact": "On April 28, UAE Energy Minister Suhail al-Mazrouei announced the country will formally exit OPEC and OPEC+ on May 1, 2026, ending Abu Dhabi's nearly 50-year membership in the cartel. The UAE was OPEC's third-largest producer behind Saudi Arabia and Iraq. Mazrouei framed the exit as a 'careful look' at production strategy and insisted the UAE remains 'committed to oil price stability.' The announcement landed in the middle of the Hormuz crisis, with the strait still effectively shut and the IEA calling the disruption the largest oil-supply shock in history. Saudi Arabia's response was strikingly muted; a Saudi expert told Middle East Monitor the impact would be 'limited.'"
+    },
+    "beat2": {
+      "label_seed": "Why now",
+      "fact": "OPEC quotas have capped UAE production around 3-3.5 million bpd, while Abu Dhabi's actual capacity already sits near 4 million and ADNOC is pushing toward 5 million bpd by 2027, brought forward from a 2030 target. That meant the UAE was sitting on more than 1 million barrels per day of idle capacity, the largest forced-shut volume of any major producer. The Iran war supplied the political cover: the UAE was hit by Iranian drone and missile attacks for weeks, and Riyadh and Abu Dhabi have been quietly competing in the Red Sea, with Saudi forces bombing what Riyadh called a UAE-linked Yemeni weapons shipment in late December. JP Morgan says the exit may pull more US energy investment toward Abu Dhabi."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Once outside the cartel, the UAE can publish its own production schedule and price benchmark, freed from quota votes that historically forced it to absorb Saudi-led cuts. Analysts at AGBI and The National say OPEC will become 'structurally weaker' but will survive; the bigger risk is that other constrained producers, particularly Iraq and Kazakhstan, see the UAE's exit as a green light to pump above quota. Watch the May OPEC+ meeting for an emergency rebalance, watch Brent for the spread between Hormuz-risk premium and a UAE-supply unwind, and watch Washington for a possible upgrade of US-UAE energy ties now that Abu Dhabi is unbound from cartel discipline."
+    },
+    "sources": ["aljazeera.com", "cnbc.com", "thenationalnews.com", "washingtonpost.com", "npr.org"],
+    "supporting_stats": [
+      {"label": "UAE idle capacity under OPEC quota", "value": ">1M bpd"},
+      {"label": "Years of OPEC membership ending May 1", "value": "~50"}
+    ]
+  },
+  {
+    "slug": "brent-126-wartime-high-then-snap",
+    "topicBucket": "global_economy",
+    "headline_seed": "Brent hits $126 wartime high then crashes 10% in one session as Trump blockade-or-deal whiplashes traders",
+    "protagonist": "Brent crude",
+    "verb": "spiked",
+    "anchor_number": "$126.41",
+    "beat1": {
+      "label_seed": "Spike",
+      "fact": "On April 30, Brent crude futures touched $126.41 a barrel intraday, the highest wartime print of the Iran war and the highest oil price in four years, before crashing more than 10% from that high to close at $114.01. The trigger was a Donald Trump statement that the US naval blockade of Iranian ports would stay in place until Tehran agreed to a full nuclear deal. The IEA estimates global supply has plunged by 10.1 million barrels a day since the Hormuz shutdown began, calling it the largest oil-supply disruption in history. LNG flows from Qatar and the UAE are also down more than 300 million cubic meters per day, hitting Europe and Asia simultaneously."
+    },
+    "beat2": {
+      "label_seed": "Whiplash",
+      "fact": "The reversal came when traders re-read Trump's language and decided the blockade-or-deal posture is also a setup for a deal, not an indefinite war footing. Tehran has publicly proposed reopening Hormuz if Washington lifts the blockade, and Pakistan, Saudi Arabia, Egypt and Turkey are still mediating in Islamabad. Brent dropped from $126 to roughly $115 in a single session, one of the largest one-day moves of the war. Volume thinned sharply as funds de-risked into month-end. WTI tracked the move down. Goldman, JPMorgan and Citi all flagged the price action as 'headline-driven' rather than physical-supply-driven."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "The market's base case is now a wide $95-$130 range until either Hormuz reopens or a US-Iran framework is signed. Watch three triggers: any Pakistan-brokered breakthrough on the nuclear file, an Israeli decision to resume strikes (Israel briefed Trump on military options on April 30), and the May OPEC+ meeting now reshaped by the UAE exit. Refiners across Asia are already drawing strategic stocks; India's strategic petroleum reserve is reportedly down to under 8 days of cover. For Iraq and the Gulf, every $10 on Brent is roughly $7-8 billion a year in revenue if exports recover; for Europe, every $10 adds about 0.3 percentage points to headline inflation."
+    },
+    "sources": ["cnbc.com", "cnn.com", "aljazeera.com", "euronews.com", "iea.org"],
+    "supporting_stats": [
+      {"label": "Brent intraday high April 30", "value": "$126.41"},
+      {"label": "Global supply lost since Hormuz shutdown (IEA)", "value": "10.1M bpd"}
+    ]
+  },
+  {
+    "slug": "anthropic-30b-run-rate-overtakes-openai",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Anthropic blew past $30 billion run-rate, overtook OpenAI on revenue, and is being courted at a $900 billion valuation",
+    "protagonist": "Anthropic",
+    "verb": "overtook",
+    "anchor_number": "$30 billion",
+    "beat1": {
+      "label_seed": "Overtaken",
+      "fact": "Anthropic disclosed this month that its annualized revenue run rate has crossed $30 billion, up from roughly $9 billion at the end of 2025. CFO Krishna Rao told the press the figure has more than tripled in four months, with more than 1,000 enterprise customers now spending over $1 million a year on Claude. According to TechCrunch on April 29, the actual current run rate may already be closer to $40 billion, citing people with knowledge of the financials. The milestone is historic in a narrow but loaded sense: Anthropic is now the first US AI company to overtake OpenAI on revenue, with OpenAI's ARR tracked at roughly $25 billion."
+    },
+    "beat2": {
+      "label_seed": "$900B round",
+      "fact": "On April 29, multiple outlets reported Anthropic is in talks to raise a new $50 billion primary round at a $900 billion post-money valuation, after Google committed up to $40 billion on April 24 in a deal that locked in 5 gigawatts of dedicated TPU capacity. Combine that with Amazon's promised 5GW of Trainium chips and Nvidia's 1GW of Blackwell/Rubin GPUs, and Anthropic has secured more than 11 gigawatts of cumulative compute, equivalent to the output of roughly 10 nuclear plants. OpenAI shares and the broader chip complex sold off late April on reports OpenAI missed multiple internal ChatGPT growth targets, with churn rising and new-user momentum weakening."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "The next test is whether Anthropic can convert chip and capital scale into product moat. The company is reportedly exploring its own custom AI chips alongside its multi-cloud strategy, mirroring Amazon's path with Trainium. The Madrona team and AI Magazine warn that token-cost compression is now the bottleneck: Claude pricing has shifted, and enterprise budgets are tightening on per-call cost. Watch for the formal $900B round close, an Anthropic-Broadcom custom-silicon disclosure, and an OpenAI counter-fundraise. For investors, this is the first time the AI-revenue leadership has flipped, and it pulls forward the question of whether one model lab can absorb $600 billion of committed industry capex without margin erosion."
+    },
+    "sources": ["techcrunch.com", "bloomberg.com", "anthropic.com", "theregister.com", "siliconangle.com"],
+    "supporting_stats": [
+      {"label": "Anthropic ARR growth (Dec 2025 to April 2026)", "value": "$9B → $30B"},
+      {"label": "Total committed compute capacity", "value": ">11 GW"}
+    ]
+  },
+  {
+    "slug": "russia-odesa-mass-drone-kallas-90b",
+    "topicBucket": "europe",
+    "headline_seed": "Russia hammered Odesa with overnight drone barrage as EU's Kallas locked in 90 billion euros for Kyiv",
+    "protagonist": "Russia",
+    "verb": "barraged",
+    "anchor_number": "20 wounded",
+    "beat1": {
+      "label_seed": "Barrage",
+      "fact": "On the night of April 29-30, Russia launched a mass drone attack on Odesa, hitting residential neighborhoods across multiple districts and wounding at least 20 people, two of them seriously, including a 17-year-old boy. Strikes and falling debris damaged dozens of civilian sites, including apartment buildings, a hotel, a kindergarten, and an administrative building. Strikes in the Khadzhibeyskyi district destroyed buses and passenger cars. More than 280 emergency workers were deployed to the scenes. The attack is part of a pattern: the Kyiv Independent reports at least four killed and 64 wounded in Russian attacks across Ukraine in the prior 24-hour cycle alone."
+    },
+    "beat2": {
+      "label_seed": "EU response",
+      "fact": "On April 30, EU foreign affairs chief Kaja Kallas reaffirmed the bloc's commitment to a 90-billion-euro loan facility for Ukraine financed by frozen Russian sovereign assets, paired with the 20th EU sanctions package adopted April 23. That package added 120 individual listings and bans transactions with two Russian ports - Murmansk and Tuapse - plus the Karimun terminal in Indonesia used to dodge the price cap. It puts another 46 vessels on the EU port-access blacklist, bringing the total shadow-fleet ban to 632 ships. The loan-plus-sanctions combo is the EU's largest single financial commitment to Kyiv since 2022."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Dutch military intelligence service MIVD warned on April 22 that Russia could be ready to start a regional conflict with NATO within a year of any Ukraine settlement, aimed at fracturing the alliance. Politico, citing internal NATO planners, said the alliance is 'not ready' to conduct combined operations. With Trump publicly cooling on NATO at the Kyiv Security Forum, European defense ministers are accelerating an autonomous European pillar: faster artillery production, Ukraine-tested drone schools, and Baltic forward-deployment plans. Watch for Russia's next strategic-bomber salvo against Ukrainian energy infrastructure, the EU Council's June vote on Kallas's frozen-asset structure, and any Trump signal on Patriot resupply."
+    },
+    "sources": ["kyivindependent.com", "consilium.europa.eu", "defensenews.com", "nato.news-pravda.com", "aljazeera.com"],
+    "supporting_stats": [
+      {"label": "Wounded in Odesa April 30 drone barrage", "value": "20+"},
+      {"label": "EU shadow-fleet vessel ban (post-20th package)", "value": "632 ships"}
+    ]
+  }
+]
