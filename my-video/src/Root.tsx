@@ -12,6 +12,8 @@ import { AINewsDailySchema, AINewsDailyProps } from "./compositions/AINewsDaily/
 import { NewsReel } from "./compositions/NewsReel/NewsReel";
 import { NewsReelSchema, computeNewsReelDurationInFrames } from "./compositions/NewsReel/schema";
 import { HORMUZ_WEEK2_PROPS } from "./compositions/NewsReel/props";
+import { Hekaya } from "./compositions/Hekaya/Hekaya";
+import { HekayaSchema, computeHekayaDurationInFrames } from "./compositions/Hekaya/schema";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -248,6 +250,67 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         schema={NewsReelSchema}
         defaultProps={HORMUZ_WEEK2_PROPS}
+      />
+      {/* HEKAYA — slow-storytelling sister track. Same channel, opposite rhythm.
+          75-second reels, bespoke Suno tracks per story, warm dusk palette.
+          Default props are a placeholder: render-hekaya.yml passes per-slug
+          props.json via --props at render time, so this default is purely for
+          local Remotion Studio preview. */}
+      <Composition
+        id="Hekaya"
+        component={Hekaya}
+        durationInFrames={computeHekayaDurationInFrames()}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={HekayaSchema}
+        defaultProps={{
+          dateLabel: "MAY 01 • 2026",
+          arabicDateLabel: "١ مايو ٢٠٢٦",
+          handle: "@photonect.news",
+          audioBed: "audio/hekaya/_preview.mp3",
+          prologue: {
+            arabicTitle: "حكاية تُروى ببطء",
+            englishSubtitle: "A TALE TOLD SLOWLY",
+            era: "PREVIEW",
+            place: "PLACEHOLDER",
+            arabicHook:
+              "في هذه الزاوية من القناة، نروي ما لا تخطفه الأخبار. نقف مع التاريخ كما يقف المرء مع نهر قديم.",
+            heroMedia: "images/hekaya/_preview/hero.jpg",
+            heroMediaType: "image",
+          },
+          chapters: [
+            {
+              arabicTitle: "الفصل الأول",
+              arabicNarration:
+                "هذا نصّ تجريبي. سيُستبدل بمحتوى الحكاية الفعليّة عند تمرير props.json الخاصة بكل قصّة وقت التصيير.",
+              visual: "images/hekaya/_preview/chapter_1.jpg",
+              visualType: "image",
+            },
+            {
+              arabicTitle: "الفصل الثاني",
+              arabicNarration:
+                "هذا نصّ تجريبي. سيُستبدل بمحتوى الحكاية الفعليّة عند تمرير props.json الخاصة بكل قصّة وقت التصيير.",
+              visual: "images/hekaya/_preview/chapter_2.jpg",
+              visualType: "image",
+            },
+            {
+              arabicTitle: "الفصل الثالث",
+              arabicNarration:
+                "هذا نصّ تجريبي. سيُستبدل بمحتوى الحكاية الفعليّة عند تمرير props.json الخاصة بكل قصّة وقت التصيير.",
+              visual: "images/hekaya/_preview/chapter_3.jpg",
+              visualType: "image",
+            },
+          ],
+          epilogue: {
+            arabicReflection:
+              "في النهاية، نحمل الحكاية كما يُحمل حجر مصقول من نهر قديم — في الجيب، صامتاً، يُذكّرنا بأن الزمن مرّ، وأنّ بعض الأشياء بقيت.",
+            arabicSignature: "حكاية · هكذا تُروى",
+          },
+          sources: [
+            { name: "Photonect", domain: "photonect.net" },
+          ],
+        }}
       />
     </>
   );

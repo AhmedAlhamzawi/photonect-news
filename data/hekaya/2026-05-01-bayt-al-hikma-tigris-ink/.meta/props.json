@@ -1,0 +1,60 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/hekaya/bayt-al-hikma-tigris-ink.mp3",
+  "prologue": {
+    "arabicTitle": "ليلةَ جرى دجلةُ سواداً",
+    "englishSubtitle": "THE NIGHT THE TIGRIS RAN BLACK WITH INK",
+    "era": "8th–13th Century",
+    "place": "Baghdad on the Tigris",
+    "arabicHook": "ما زال الشيوخُ في بغداد يحكون لأحفادهم حكايةً قديمة، أنّ دجلةَ في يومٍ من شباط ١٢٥٨ جرى بلونَين، أحمرَ من دماء المدينة، وأسودَ من حِبر كلِّ مخطوطةٍ كانت محفوظةً في بيت الحكمة، تطفو الآن على الماء.",
+    "heroMedia": "images/hekaya/2026-05-01-bayt-al-hikma-tigris-ink/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "chapters": [
+    {
+      "arabicTitle": "مدينةٌ على هيئة دائرة",
+      "arabicNarration": "قبل ذلك بقرنين، كانت بغدادُ أكثرَ المدن طموحاً على وجه الأرض. رسمها الخليفةُ المنصور دائرةً كاملةً على ضفاف دجلة في عام ٧٦٢، فجاءت أحياؤها تدور حول المسجد كحلقاتِ ماءٍ حول حجر. ثم ملأها حفيدُه هارون الرشيد بمكتبةٍ سمّاها خزانةَ الحكمة. كانت روائحُ الورق وحِبرُ السُّخام والصمغُ تسبق المارَّ قبل أن يدخل، وفي الأزقّة كان النسّاخون يجلسون متربّعين، يدُهم اليُمنى تكتب، وفنجانُ القهوةِ يبرد أمامهم. كان الزمنُ يمشي ببطء، وكلُّ يومٍ يُضيف مجلَّداً جديداً إلى الخزانة.",
+      "anchorFact": {
+        "label": "تأسيس بغداد",
+        "value": "٧٦٢ م"
+      },
+      "visual": "images/hekaya/2026-05-01-bayt-al-hikma-tigris-ink/chapter_1.jpg",
+      "visualType": "image",
+      "latinCaption": "BAGHDAD, DRAWN AS A PERFECT CIRCLE",
+      "accent": "#7C8DB5"
+    },
+    {
+      "arabicTitle": "موازينُ من ذهب",
+      "arabicNarration": "في عهد المأمون اتّسعت الخزانةُ حتى صارت أكاديميّة. أرسل الخليفةُ قوافلَ إلى القسطنطينيّة وأثينا تشتري المخطوطاتِ اليونانيّة، ودفع للمترجمين ذهباً يُوزن بميزان الكتاب. جلس حُنين بنُ إسحاق المسيحيّ ينقل مئةً وتسعاً وعشرين رسالةً من جالينوس وحدَه، يسافر بنفسِه إلى الأناضول ليأخذ النسخةَ الأصفى. وثابتُ بنُ قُرَّة الصابئيّ ترجم أرخميدسَ وأبولونيوس. والخوارزميُّ، وهو يُدير المكتبة، اخترع الجبرَ بين رفوفها. علماءُ يهودٍ ومسيحيّون ومسلمون وصابئة، يجلسون تحت السقف نفسه. أربعةُ قرونٍ والمدينةُ تحفظ ما نسيَه العالم.",
+      "anchorFact": {
+        "label": "كتب جالينوس",
+        "value": "١٢٩ رسالة"
+      },
+      "visual": "images/hekaya/2026-05-01-bayt-al-hikma-tigris-ink/chapter_2.jpg",
+      "visualType": "image",
+      "latinCaption": "GOLD-WEIGHED TRANSLATIONS",
+      "accent": "#7C8DB5"
+    },
+    {
+      "arabicTitle": "ثلاثةَ عشرَ يوماً",
+      "arabicNarration": "ثم جاء شباطُ ١٢٥٨. وقف هولاكو، حفيدُ جنكيز خان، أمام أسوار بغداد. حاصرها ثلاثةَ عشرَ يوماً، وحين سقطت الأسوار دخل الجندُ المكتبات. يقول الشهودُ إنّ الكتبَ كانت كثيرةً جداً حتى صنعوا منها جسوراً يعبرون عليها دجلة، وإنّ الماءَ سار سواداً أيّاماً. لُفّ الخليفةُ في بِساط، ودِيس بحوافر الخيل. لم ينجُ من الخزانة إلا ما حمله نصيرُ الدين الطوسيّ شمالاً إلى مرصد المراغة، بضعةُ آلاف من المخطوطات حُفظت بأعجوبة. ما عدا ذلك، رحل في الماء، أو في النار.",
+      "visual": "images/hekaya/2026-05-01-bayt-al-hikma-tigris-ink/chapter_3.jpg",
+      "visualType": "image",
+      "latinCaption": "THIRTEEN DAYS UNDER THE WALLS",
+      "accent": "#7C8DB5"
+    }
+  ],
+  "epilogue": {
+    "arabicReflection": "نظنّ أحياناً أنّ المعرفةَ تتراكم وحدَها، وأنّ العقلَ البشريَّ يصعد ولا يهبط. لكنّ قصّةَ بيت الحكمة تُذكّرنا بشيءٍ أهدأَ وأشدَّ حُزناً. الحضاراتُ ترتفع، والمكتباتُ تحترق، والخطُّ بين ما نعرف وما نسيناه أرقُّ ممّا نتخيّل. كلُّ كلمةٍ من أرسطو، وكلُّ نظريّةٍ من إقليدس وصلتنا، وصلت لأنّ أحداً في بغداد نسخها على ضوء شمعةٍ قبل أن تسقط البُسط. نحن نقرؤها اليومَ لأنها أُنقذت مرّةً من قبل.",
+    "arabicSignature": "ما حُفظ مرّةً، يحتاج أن يُحفظ مرّتين"
+  },
+  "sources": [
+    { "name": "Wikipedia — House of Wisdom", "domain": "en.wikipedia.org" },
+    { "name": "Wikipedia — Hunayn ibn Ishaq", "domain": "en.wikipedia.org" },
+    { "name": "Britannica — Bayt al-Hikmah", "domain": "britannica.com" },
+    { "name": "Middle East Eye", "domain": "middleeasteye.net" },
+    { "name": "Graeco-Arabic Translation Movement", "domain": "en.wikipedia.org" }
+  ]
+}

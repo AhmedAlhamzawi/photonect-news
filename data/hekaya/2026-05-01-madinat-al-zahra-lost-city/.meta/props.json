@@ -1,0 +1,75 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/hekaya/madinat-al-zahra-lost-city.mp3",
+  "prologue": {
+    "arabicTitle": "مدينةٌ من رخامٍ نامت تحت العشب",
+    "englishSubtitle": "THE RADIANT CITY THAT SLEPT BENEATH THE GRASS",
+    "era": "936-1010 AD",
+    "place": "Sierra Morena foothills, near Cordoba, Al-Andalus",
+    "arabicHook": "في قاعةٍ من رخامٍ أبيض، تتحرّك يدُ خادمٍ فوق بِركةٍ من زئبقٍ سائل، فترتعش، وينفلت ضوءُ الشمس من سطحها كبرقٍ صامتٍ يسري على الجدران. ضيفٌ قادمٌ من القسطنطينية يجثو على ركبتيه، ويبكي.",
+    "heroMedia": "images/hekaya/2026-05-01-madinat-al-zahra-lost-city/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "chapters": [
+    {
+      "arabicTitle": "خليفةٌ يبني اسمَه مدينة",
+      "arabicNarration": "كان عبد الرحمن الثالث قد أعلن نفسه خليفةً في قرطبة، فأرادَ مدينةً تليقُ باللقب وتُجاري بغداد. على السفح الجنوبي لجبل العروس، على بُعد ثلاثة أميالٍ من قرطبة، أمر بأن تُرفع مدينةٌ من العدم. سمّاها باسم امرأة. الزهراء. عشرةُ آلاف عاملٍ سوّوا الأرض في ثلاث مدرّجات: القصرُ في الأعلى، والإدارةُ في الوسط، والبيوتُ والبساتينُ والمسجدُ في القاعدة. جاء الرخامُ من قرطاجة وتونس، والذهبُ من غرب أفريقيا، والعاجُ من الهند، وأحواضُ النوافير من القسطنطينية، محفورةً بطواويسَ وغريفونات.",
+      "anchorFact": {
+        "label": "تأسيسها",
+        "value": "٩٣٦ م"
+      },
+      "visual": "images/hekaya/2026-05-01-madinat-al-zahra-lost-city/chapter_1.jpg",
+      "visualType": "image",
+      "latinCaption": "TEN THOUSAND HANDS LAID THE TERRACES",
+      "accent": "#C4806B"
+    },
+    {
+      "arabicTitle": "سبعون سنةً من الضوء",
+      "arabicNarration": "سبعين سنةً كانت الزهراءُ أجملَ مدينةٍ على وجه الأرض. قاعةُ العرش، الصالون الغني، كُسيت بألواح رخامٍ بنفسجيٍّ ووَرديٍّ منقوشةٍ بكروم الرمّان. كان السفراءُ يُقادون بين صفّين من الجند والعبيد ليُستقبلوا تحت سقفٍ من ذهبٍ خالص. شَبّه الشعراءُ بساتينَها بالجنّة. اقتنى الخليفةُ في حدائقها أُسوداً وغزلاناً، وبنى ابنُه الحَكَمُ الثاني مكتبةً تضمُّ أربعمئة ألف كتاب، في زمنٍ لم تكن فيه أكبرُ مكتبةٍ في أوروبا المسيحية تزيد على ستمئة مجلّد. وقال الرحّالةُ من المشرق إنّها فاقت دمشق.",
+      "anchorFact": {
+        "label": "المكتبة",
+        "value": "٤٠٠٬٠٠٠ مجلّد"
+      },
+      "visual": "images/hekaya/2026-05-01-madinat-al-zahra-lost-city/chapter_2.jpg",
+      "visualType": "image",
+      "latinCaption": "VIOLET MARBLE, CARVED POMEGRANATES",
+      "accent": "#C4806B"
+    },
+    {
+      "arabicTitle": "ترابٌ يبتلع الذاكرة",
+      "arabicNarration": "ثم في سنة ألفٍ وتسعةٍ اشتعلت الفتنة. زحف البربرُ على قرطبة ونهبوا الزهراء. اقتلعوا الذهبَ من الجدران، وحطّموا النوافير، وجرّدوا الرخام. قبل سنة ألفٍ وثلاثةَ عشرَ كانت المدينةُ خاوية. ثم جاء التراب. بنى الفلاحون حظائرَ أغنامهم فوق القصور، ونُسي الموضعُ تماماً. تسعَ مئةِ سنةٍ لم يعرف أحدٌ أين كانت، حتى عثر عالمُ الآثار ريكاردو فيلاثكيث بوسكو على قاعةِ العرش تحت الطين سنة ألفٍ وتسعِ مئةٍ وإحدى عشرة. ضمّتها اليونسكو إلى التراث العالمي سنة ألفين وثمانيَ عشرة. ولم يُكشَف منها بعدُ سوى عُشرها.",
+      "visual": "images/hekaya/2026-05-01-madinat-al-zahra-lost-city/chapter_3.jpg",
+      "visualType": "image",
+      "latinCaption": "REDISCOVERED IN THE DIRT, 1911",
+      "accent": "#C4806B"
+    }
+  ],
+  "epilogue": {
+    "arabicReflection": "ثمّة حزنٌ خاصٌّ في المشي بين أطلال الزهراء. ليس حزنَ الحرب، فالحربُ صاخبة، بل حزنُ شيءٍ بُنيَ ليبقى ولم يبقَ. الرخامُ ما زال هناك، مكسوراً، في ضوء الأندلس الناعم. النوافيرُ يابسة، والزئبقُ ذهب. نحن جميعاً نبني مدنَنا الصغيرة، وقلَّ ما تعمّر منها قرناً واحداً. الزهراءُ لم تعمّر سوى سبعين سنة.",
+    "arabicSignature": "كانت تسمّى الزهراءَ، فنامت في التراب"
+  },
+  "sources": [
+    {
+      "name": "Wikipedia — Madinat al-Zahra",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "UNESCO World Heritage",
+      "domain": "whc.unesco.org"
+    },
+    {
+      "name": "Medina Azahara Official",
+      "domain": "medinaazahara.org"
+    },
+    {
+      "name": "Andalucia.com",
+      "domain": "andalucia.com"
+    },
+    {
+      "name": "Ancient Origins",
+      "domain": "ancient-origins.net"
+    }
+  ]
+}

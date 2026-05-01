@@ -1,0 +1,75 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/hekaya/al-khwarizmi-algorithm.mp3",
+  "prologue": {
+    "arabicTitle": "رجلٌ صار اسمُه شيفرةَ العالم",
+    "englishSubtitle": "THE MAN WHOSE NAME BECAME THE CODE OF EVERY MACHINE",
+    "era": "c. 780 – 850 AD",
+    "place": "Khwarazm, Central Asia → Baghdad on the Tigris",
+    "arabicHook": "في هذه اللحظة، تُلفظُ في مليار جهازٍ كلمةٌ واحدة: خوارزمية. تجري على ألسنتنا كأنّها قطعةٌ من النحو، نستعملها يومياً ولا نسأل لمن هذا الاسم. الاسمُ لرجلٍ بُنّيِّ العينين، وُلد في آسيا الوسطى قبل اثني عشر قرناً.",
+    "heroMedia": "images/hekaya/2026-05-01-al-khwarizmi-algorithm/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "chapters": [
+    {
+      "arabicTitle": "ولدٌ من واحةٍ خضراء",
+      "arabicNarration": "وُلد محمّد بن موسى نحوَ سنة سبعمئةٍ وثمانين، في إقليم خوارزم، واحةٍ خضراءَ جنوبَ بحر آرال، في ما يُعرفُ اليوم بأوزبكستان. اسمُه المنسوبُ يعني ببساطة: الرجلَ القادمَ من خوارزم. نشأ يتكلّم الفارسية، ويتعلّمُ العربية، في عالمٍ كان قد دخل لتوّه في كَنف الدولة العبّاسية. حين شبّ، شدّ الرحال إلى بغداد. هناك، نحوَ سنة ثمانمئةٍ وعشرين، عيّنه الخليفةُ المأمونُ مسؤولاً عن مكتبة بيت الحكمة. كان في الأربعين تقريباً. أمامه كلُّ ما اشترته الإمبراطورية من مخطوطاتٍ يونانيةٍ وهنديةٍ وفارسية. ضوءُ الزيتِ والشمسِ، ورائحةُ الحبر.",
+      "anchorFact": {
+        "label": "بيتُ الحكمة",
+        "value": "نحو ٨٢٠ م"
+      },
+      "visual": "images/hekaya/2026-05-01-al-khwarizmi-algorithm/chapter_1.jpg",
+      "visualType": "image",
+      "latinCaption": "A SCHOLAR FROM AN OASIS SOUTH OF THE ARAL",
+      "accent": "#7CA3B5"
+    },
+    {
+      "arabicTitle": "كتابانِ أعادا تركيبَ العقل",
+      "arabicNarration": "كتب الخوارزميُّ كتابين أعادا، بهدوء، تركيبَ العقل البشريّ. الأوّل: كتاب المختصر في حساب الجبر والمقابلة. سمّى تقنيتَه الجبر، وهي إعادةُ ضمِّ الكسور المتفرّقة، فصارت من تلك الكلمة العربية كلمةُ algebra في كلِّ لغات العالم. والثاني عرّف العالمَ على الأرقام الهندية، تلك العشرة التي نكتب بها كلَّ شيء، صفر وواحد إلى تسعة. بدونها لا قسمةٌ طويلة، ولا جدولٌ، ولا حاسوب. تُرجم هذا الكتابُ إلى اللاتينية في القرن الثاني عشر تحت عنوان Algoritmi de Numero Indorum، وAlgoritmi ليست سوى اسمِه مُلَتْنناً.",
+      "anchorFact": {
+        "label": "أرقامٌ علّمها للعالم",
+        "value": "٠ - ٩"
+      },
+      "visual": "images/hekaya/2026-05-01-al-khwarizmi-algorithm/chapter_2.jpg",
+      "visualType": "image",
+      "latinCaption": "AL-JABR BECAME ALGEBRA, HIS NAME BECAME ALGORITHM",
+      "accent": "#7CA3B5"
+    },
+    {
+      "arabicTitle": "خلودٌ غريبٌ في اللغة",
+      "arabicNarration": "بدأ كَتَبةُ أوروبا في القرون الوسطى يسمّون كلَّ خطواتٍ حسابيةٍ منظّمةٍ algorism، ثم algorithm. كتب الخوارزميُّ أيضاً جغرافيةً صحَّحَ فيها بطلميوس، وحسب محيطَ الأرض، ووضع جداولَ فلكيةً ظلّت تُستعمل قروناً. لكنّ خلودَه الأغرب جاء بعد ألف سنة. حين بنى الإنسانُ آلاتٍ تفكّر، مدَّ يدَه دون أن ينتبه إلى اسمه. كلُّ خطوةٍ تجري الآن داخلَ كلِّ حاسوبٍ في الأرض، تُسمّى بالكلمة التي ليست في حقيقتها سوى نطقٍ متعثّرٍ لاسمِ رجلٍ من خوارزم. الإنسان الذي يجلسُ الآن أمام الشاشة، يجلسُ داخل اسمه.",
+      "visual": "images/hekaya/2026-05-01-al-khwarizmi-algorithm/chapter_3.jpg",
+      "visualType": "image",
+      "latinCaption": "WE LIVE INSIDE HIS NAME",
+      "accent": "#7CA3B5"
+    }
+  ],
+  "epilogue": {
+    "arabicReflection": "نسكنُ داخلَ اسمه. العالمُ الذي بنيناه، بكلِّ توقّعاتِه وتوصياتِه وحساباتِه الصامتةِ خلفَ كلِّ شاشة، يجري على كلمةٍ بدأت رجلاً من خوارزم يدخل مكتبةً في بغداد. لم يخترع المستقبل. لكنّ المستقبلَ، حين جاء، لم يستطع أن يسمّي نفسَه دونه. الذين يَصنعون القرونَ نادراً ما يضجّون. هم الذين يتركون، تحت ضوء سراج، أداةً لا يستطيع العالمُ بعدها أن ينساها.",
+    "arabicSignature": "ترك تحت سراجٍ كلمةً صار العالمُ يجري بها"
+  },
+  "sources": [
+    {
+      "name": "Wikipedia — al-Khwarizmi",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Britannica — al-Khwarizmi",
+      "domain": "britannica.com"
+    },
+    {
+      "name": "MacTutor History of Mathematics",
+      "domain": "mathshistory.st-andrews.ac.uk"
+    },
+    {
+      "name": "The Conversation",
+      "domain": "theconversation.com"
+    },
+    {
+      "name": "IO Informatics",
+      "domain": "ioinformatics.org"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "fatima-al-fihri-qarawiyyin",
+    "audio": "audio/hekaya/fatima-al-fihri-qarawiyyin.mp3",
+    "skipped": true
+  },
+  {
+    "slug": "bayt-al-hikma-tigris-ink",
+    "task_id": "367a1da0874824a3a18a5056af075856",
+    "audio": "audio/hekaya/bayt-al-hikma-tigris-ink.mp3",
+    "size_bytes": 6142173,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/7a4d5cd2fd534ad2baf5808a02014095.mp3"
+  },
+  {
+    "slug": "first-coffee-mocha-shadhili",
+    "task_id": "d8333a8e3908b5148e5323872ec63ae8",
+    "audio": "audio/hekaya/first-coffee-mocha-shadhili.mp3",
+    "size_bytes": 4677333,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/1f8e6d3d5a0c4efcb5129df4abe926e6.mp3"
+  },
+  {
+    "slug": "madinat-al-zahra-lost-city",
+    "task_id": "29f001b10846ad811117bfc6bf85e8c0",
+    "audio": "audio/hekaya/madinat-al-zahra-lost-city.mp3",
+    "size_bytes": 4585869,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/d136331629de490194f654d705414f17.mp3"
+  },
+  {
+    "slug": "darb-zubaida-pilgrim-road",
+    "task_id": "a8eb21b7ffe0808de0c6ab08b39205e5",
+    "audio": "audio/hekaya/darb-zubaida-pilgrim-road.mp3",
+    "size_bytes": 3694509,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/9c92a4f2db84453db08aa62acd58033f.mp3"
+  },
+  {
+    "slug": "al-khwarizmi-algorithm",
+    "task_id": "5ab313a2b68b084998730ad851f789b0",
+    "audio": "audio/hekaya/al-khwarizmi-algorithm.mp3",
+    "size_bytes": 4971693,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/441d43849235453c8c2fe5321df237bb.mp3"
+  }
+]

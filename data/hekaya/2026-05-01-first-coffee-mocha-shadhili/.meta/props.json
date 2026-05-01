@@ -1,0 +1,60 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/hekaya/first-coffee-mocha-shadhili.mp3",
+  "prologue": {
+    "arabicTitle": "أوّلُ فنجانٍ في ليلةِ الذِّكر",
+    "englishSubtitle": "HOW YEMENI MYSTICS BREWED THE FIRST CUP",
+    "era": "13th–15th Century",
+    "place": "Mocha, Yemen",
+    "arabicHook": "في غرفةٍ صغيرةٍ من طين، عاليةٍ في جبال اليمن، كانت النجومُ خارجها متلألئة، وفي داخلها حلقةٌ من رجالٍ بثيابٍ بيضاءَ يجلسون على بساطٍ خَشِن. في وسطهم إناءٌ من فُخّارٍ يحمل سائلاً داكناً مُرّاً، ينتقل من يدٍ إلى يد. شربوا. ثم بدأ الذِّكر.",
+    "heroMedia": "images/hekaya/2026-05-01-first-coffee-mocha-shadhili/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "chapters": [
+    {
+      "arabicTitle": "بذرةٌ عبرت البحر",
+      "arabicNarration": "تبدأ الحكايةُ على الضفّة الأخرى من البحر الأحمر، في مرتفعات الحبشة، حيث كانت شجرةُ البُنّ تنمو وحدَها بين الصخور. يقول القُدامى إنّ المعزى التي تأكل ثمارَها الحمراء كانت ترقص. عبر الشيخُ أبو الحسن الشاذليّ البحرَ في القرن الثالث عشر، يحمل المعرفةَ معه مثل بذرةٍ في طيّات ثوبه. في حَراز وبني مَطَر، فوق المدرّجات الجبليّة، وجدت الشجرةُ ضبابَها. وعلى ساحل البحر الأحمر، كان مرفأٌ صغيرٌ يُدعى المُخا، لا يدري أنه سيمنح اسمَه للشراب الجديد، في كلِّ لغات أوروبا.",
+      "anchorFact": {
+        "label": "المرفأ",
+        "value": "المُخا"
+      },
+      "visual": "images/hekaya/2026-05-01-first-coffee-mocha-shadhili/chapter_1.jpg",
+      "visualType": "image",
+      "latinCaption": "MOCHA, A PORT THAT BECAME A WORD",
+      "accent": "#A87E5A"
+    },
+    {
+      "arabicTitle": "خمرٌ بلا سُكر",
+      "arabicNarration": "ما فعله صوفيّةُ اليمن غيّر العالم. حمّصوا البُنّ، وطحنوه في هواوينَ من خشب، ثم سكبوا الماءَ فوقه في جِرارٍ من طين، وسمّوا الشرابَ قهوة، وهي كلمةٌ كانت تعني الخمرَ القديم. الخمرَ الذي يُسكر بلا كأس. كانوا يشربونها أثناء الذِّكر، ليلةً كاملة، حين يكون التعبُ هو العدوَّ الأكبرَ للعبادة. هزمت القهوةُ التعب. ثم انتشرت الكلمةُ على درب الحجّاج، حتى وصلت إلى مكّةَ في أواخر القرن الخامس عشر، فحملها الحجّاجُ في أمتعتهم، وفُتحت أوّلُ المقاهي قرب الأزهر في القاهرة.",
+      "visual": "images/hekaya/2026-05-01-first-coffee-mocha-shadhili/chapter_2.jpg",
+      "visualType": "image",
+      "latinCaption": "QAHWA — THE WINE THAT NEEDED NO GRAPE",
+      "accent": "#A87E5A"
+    },
+    {
+      "arabicTitle": "كوبٌ يحمله العالم",
+      "arabicNarration": "من القاهرة سارت إلى دمشق، ثم إلى إستانبول، حيث افتتح اثنان من خدَم السلطان مقهىً في حيِّ تَخْتَهْ كَلَّه عام ١٥٥٤، صار نموذجَ كلِّ مقهىً بعده. ومن إستانبول هرّبها التجّارُ البنادقةُ إلى إيطاليا. حين وصلت إلى لندن عام ١٦٥٢، وإلى باريس عام ١٦٧٢، لم يكن أحدٌ يتذكّر أنّ الرشفةَ الأولى أُخذت في مسجدٍ يمنيّ، ولا أنّ كلمةَ إسبريسو تنحدر، بطريقٍ ملتوٍ، من ليالي الذِّكر فوق صخرةٍ مُطلّةٍ على البحر الأحمر. صار البُنّ سلعةً عالميّة، واليمنُ وحدها كانت تُورّده للعالم لأكثر من قرنين.",
+      "anchorFact": {
+        "label": "أوّل مقهى",
+        "value": "١٥٥٤ م"
+      },
+      "visual": "images/hekaya/2026-05-01-first-coffee-mocha-shadhili/chapter_3.jpg",
+      "visualType": "image",
+      "latinCaption": "FROM MOCHA TO LONDON, IN TWO CENTURIES",
+      "accent": "#A87E5A"
+    }
+  ],
+  "epilogue": {
+    "arabicReflection": "كلَّ صباح، يشرب أربعمئةُ مليون إنسان الشرابَ نفسَه الذي تناوله صوفيّةٌ حُفاةٌ من فنجانٍ واحد، يأملون أن يبقَوا مستيقظين قليلاً ليشعروا بالحضرة. لم يكونوا يعرفون أنهم يخترعون أكثرَ المشروبات انتشاراً في تاريخ البشر. كانوا فقط يحاولون أن يُطيلوا الصلاة. وفي كلِّ كوبٍ نحمله الآن، عدالةٌ هادئة، أن نتذكّر أنّ القهوةَ كانت أوّلَ أمرها فعلَ عبادة.",
+    "arabicSignature": "كلُّ شيءٍ عظيم بدأ بصلاةٍ طويلة"
+  },
+  "sources": [
+    { "name": "Wikipedia — History of Coffee", "domain": "en.wikipedia.org" },
+    { "name": "Perfect Daily Grind", "domain": "perfectdailygrind.com" },
+    { "name": "Folger Shakespeare Library", "domain": "folger.edu" },
+    { "name": "Al-Jaziri, Umdat al-Safwa (1587)", "domain": "manuscript" },
+    { "name": "ResearchGate — Sufis & Coffee", "domain": "researchgate.net" }
+  ]
+}

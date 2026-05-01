@@ -1,0 +1,75 @@
+{
+  "dateLabel": "MAY 01 • 2026",
+  "arabicDateLabel": "١ مايو ٢٠٢٦",
+  "handle": "@photonect.news",
+  "audioBed": "audio/hekaya/darb-zubaida-pilgrim-road.mp3",
+  "prologue": {
+    "arabicTitle": "طريقٌ رصفته امرأةٌ من ذهبها",
+    "englishSubtitle": "A QUEEN PAVED THE DESERT WITH HER OWN GOLD",
+    "era": "Late 8th – Early 9th Century",
+    "place": "Kufa to Mecca, across the Najd Desert",
+    "arabicHook": "في صحراء نجدٍ تذوبُ الأرضُ في غبارٍ أبيضَ عند الأفق. تقفُ امرأةٌ على حافّتها، وقد رأت بعينيها قوافلَ الحجيج تتفرّق وعظامَ الموتى تبيضّ في الشمس. تستديرُ إلى مهندسيها، وتقول: احفروا. ابنوا. أنفِقوا.",
+    "heroMedia": "images/hekaya/2026-05-01-darb-zubaida-pilgrim-road/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "chapters": [
+    {
+      "arabicTitle": "حفيدةُ المنصور وزوجةُ الرشيد",
+      "arabicNarration": "كانت زبيدةُ بنت جعفرٍ من سلالةٍ مزدوجة. حفيدةُ الخليفة المنصور، وزوجةُ هارون الرشيد، وأمُّ الخليفة الأمين. كان لها خزائنُها وأملاكُها وشعراؤها. حجّت خمسَ مرّات، وفي كلِّ مرّةٍ عبرت تلك الصحراءَ ورأت الحُجّاج يهلكون عطشاً على جوانب الطريق. وحين وقعت سنةُ الجدب الكبرى، حتى ضنّت آبارُ مكّة بمائها، عقدت عزمَها. ستبني طريقاً. لا طريقاً عابراً، بل مشروعاً تخدمُ به ما تبقّى لها من العمر.",
+      "anchorFact": {
+        "label": "حجّاتها",
+        "value": "خمسُ حجّات"
+      },
+      "visual": "images/hekaya/2026-05-01-darb-zubaida-pilgrim-road/chapter_1.jpg",
+      "visualType": "image",
+      "latinCaption": "GRANDDAUGHTER OF CALIPHS, MOTHER OF ONE",
+      "accent": "#E8B86E"
+    },
+    {
+      "arabicTitle": "آبارٌ كلَّ عشرين كيلومتراً",
+      "arabicNarration": "امتدّ الطريقُ من الكوفة إلى مكّة، نحوَ ألفٍ وأربعمئة كيلومترٍ في معظمها صحراءُ نجد. رصف مهندسوها مقاطعَ طويلةً منه بالحجر، ورفعوا عنه الصخور، وحفروا بئراً كلَّ عشرين كيلومتراً. أقاموا أربعةً وخمسين رباطاً كبيراً، في كلٍّ منها صهريجٌ ونُزُلٌ وسوقٌ وبرجٌ يحرسُ من قُطّاع الطرق. مدّوا قنواتٍ تحت الأرض إلى المشاعر المقدّسة. وفي مكّة نفسها، حيث ما زالت بئرُ زبيدة تسري إلى اليوم، أمرت بقناةٍ تُحفر عبر ثمانية كيلومتراتٍ من الصخر لتنقل ماءً عذباً من عيون حُنين. حين أخبرها المهندسون بالكلفة، يقولُ الطبري إنّها أجابت: لو كانت كلُّ ضربةِ معولٍ بدينار، فاضربوا.",
+      "anchorFact": {
+        "label": "طولُ الدرب",
+        "value": "١٬٤٠٠ كم"
+      },
+      "visual": "images/hekaya/2026-05-01-darb-zubaida-pilgrim-road/chapter_2.jpg",
+      "visualType": "image",
+      "latinCaption": "FIFTY-FOUR STATIONS ACROSS THE NAJD",
+      "accent": "#E8B86E"
+    },
+    {
+      "arabicTitle": "ماءٌ شربه ألفُ سنةٍ من الناس",
+      "arabicNarration": "بعدَ خمسةِ قرونٍ مرّ ابنُ بطّوطة بتلك الصحراء، وكتب أنّ كلَّ صهريجٍ وكلَّ بئرٍ وكلَّ بِركةٍ بين مكّة وبغداد إنّما هو من صنيعها. ولولا اهتمامُها، قال، لما جاز الطريقَ أحد. حملَ الدربُ الحُجّاجَ، وحمل أيضاً الشعراءَ والطلبةَ والتجّار، ونقل بينهم العلمَ والشعرَ ولغاتِ المشرق. أكثرَ من ألف سنةٍ وأهلُ الصحراء يشربون الماءَ الذي دفعت ثمنَه. لا تمثالَ لها. لكنّ المملكةَ العربية السعودية واليونسكو يرمّمان اليومَ بقايا الدرب، وقد أُدرج على قائمة التراث العالمي المؤقّتة.",
+      "visual": "images/hekaya/2026-05-01-darb-zubaida-pilgrim-road/chapter_3.jpg",
+      "visualType": "image",
+      "latinCaption": "IBN BATTUTA SAW HER WELLS IN 1326",
+      "accent": "#E8B86E"
+    }
+  ],
+  "epilogue": {
+    "arabicReflection": "نتذكّر الملوكَ عادةً بفتوحاتهم. أمّا زبيدةُ فنذكرها بطريق. لا طريقَ غزوٍ، بل طريقَ رحمة. صحراءُ مرصوفةٌ لتُعطي لا لتأخذ. تُعطي الماءَ، والظلَّ، والمعبرَ الآمنَ للغرباء. والنُصبُ الحقيقيُّ غيرُ مرئي. هو كلُّ حاجٍّ بلغ مكّةَ حيّاً في الألف سنةٍ التي تلت يومَ رفعت يدَها وقالت: احفروا.",
+    "arabicSignature": "بنت طريقاً، فمشى عليها ألفُ سنة"
+  },
+  "sources": [
+    {
+      "name": "Wikipedia — Zubaidah bint Ja'far",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Muslim Heritage",
+      "domain": "muslimheritage.com"
+    },
+    {
+      "name": "UNESCO Tentative List",
+      "domain": "whc.unesco.org"
+    },
+    {
+      "name": "Ibn Battuta — Rihla",
+      "domain": "archive.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    }
+  ]
+}
