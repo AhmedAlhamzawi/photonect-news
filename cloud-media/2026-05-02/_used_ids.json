@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-02",
+  "source": "pexels+unsplash",
+  "ids_by_slug": {
+    "zaidi-erbil-kurdish-pact": {
+      "hero": "2376997",
+      "broll_1": "3935756",
+      "broll_2": "248797",
+      "broll_3": "1059531"
+    },
+    "lebanon-13-killed-habboush": {
+      "hero": "672532",
+      "broll_1": "973506",
+      "broll_2": "2335126",
+      "broll_3": "247431"
+    },
+    "hormuz-maritime-freedom-construct": {
+      "hero": "586022",
+      "broll_1": "977739",
+      "broll_2": "2569842",
+      "broll_3": "1149831"
+    },
+    "anthropic-mythos-glasswing-100m": {
+      "hero": "1181271",
+      "broll_1": "1714208",
+      "broll_2": "2582937",
+      "broll_3": "356056"
+    },
+    "tuapse-fourth-strike-refining-collapse": {
+      "hero": "433308",
+      "broll_1": "2987081",
+      "broll_2": "1797428",
+      "broll_3": "1117211"
+    },
+    "egypt-imf-3b-emergency-loan": {
+      "hero": "208701",
+      "broll_1": "534174",
+      "broll_2": "259027",
+      "broll_3": "417173"
+    }
+  }
+}

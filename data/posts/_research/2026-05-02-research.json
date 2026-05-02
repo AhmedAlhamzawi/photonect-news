@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "zaidi-erbil-kurdish-pact",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq's PM-designate al-Zaidi flies to Erbil with 25 days left, trades 4 Kurdish ministries for Article 140 and budget cash",
+    "protagonist": "Ali al-Zaidi",
+    "verb": "negotiated",
+    "anchor_number": "25 days",
+    "beat1": {
+      "label_seed": "Erbil sprint",
+      "fact": "On May 2, Prime Minister-designate Ali al-Zaidi flew to Erbil on his first official trip outside Baghdad, received at the airport by Kurdistan Region PM Masrour Barzani and met later by KDP leader Masoud Barzani and Region President Nechirvan Barzani. The visit came one day after President Trump phoned al-Zaidi on April 30 to congratulate him and invite him to Washington once the cabinet is sworn in. With 25 days left on the 30-day constitutional clock, al-Zaidi must lock in Kurdish votes on his cabinet, settle the federal budget allocation for Kurdistan, and unblock the Kirkuk-Ceyhan pipeline that resumed flowing only on March 18 after a 2.5-year halt."
+    },
+    "beat2": {
+      "label_seed": "The bargain",
+      "fact": "Ministries are being allocated through a points-based system; Kurdish blocs will receive 3 to 4 portfolios, including one sovereign ministry that KDP officials say is theirs. In return, al-Zaidi has put on the table the long-dormant Article 140 (disputed territories), Peshmerga funding, and a guaranteed share of federal oil revenue tied to Kirkuk and KRG flows. Bafel Talabani's PUK has publicly pledged to back an inclusive cabinet, and the Jerusalem Post reports both Kurdish parties see al-Zaidi, a banker with no Iran-aligned political record, as their best chance in years to extract budget cash and end pipeline disputes that have cost the KRG roughly $20 billion in lost exports since 2023."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Al-Zaidi heads back to Baghdad to face the harder fight: Sunni partners want Defense and Interior, the Coordination Framework wants to keep Oil and Finance, and Washington is privately pressing for technocrats in those four ministries. The deadline to present a cabinet to parliament is roughly May 27. If the points-based system collapses, Iraq enters its second leadership void in six months while crude output sits at roughly 1.4 million bpd, less than a third of pre-Iran-war levels. The next visible signal is a draft cabinet list, expected by mid-May, and a parliamentary confidence vote requiring at least 167 of 329 MPs."
+    },
+    "sources": ["thenationalnews.com", "kurdistan24.net", "rudaw.net", "shafaq.com", "jpost.com"],
+    "supporting_stats": [
+      {"label": "Days left on al-Zaidi's constitutional clock", "value": "25 days"},
+      {"label": "Kurdish ministries on the table (incl. 1 sovereign)", "value": "3 to 4"}
+    ]
+  },
+  {
+    "slug": "lebanon-13-killed-habboush",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Israeli strikes kill 13 in south Lebanon on May 1 despite April 17 ceasefire, with 8 dead in single Habboush blast",
+    "protagonist": "Israel Defense Forces",
+    "verb": "killed",
+    "anchor_number": "13 killed",
+    "beat1": {
+      "label_seed": "Black Friday",
+      "fact": "On May 1, Lebanon's health ministry confirmed 13 people killed in a single day by Israeli airstrikes across the south, the deadliest 24 hours since the April 17 US-mediated ceasefire took effect. A strike in Habboush killed 8, including a child and 2 women, and wounded 21. Four more died in Zrariyeh, two of them women. One person was killed in Ain Baal near the coastal city of Tyre. The IDF had issued an evacuation order for Habboush hours before the strike. Hezbollah responded with a series of attacks on IDF positions in southern Lebanon, framing them as retaliation for what it called continuous ceasefire violations."
+    },
+    "beat2": {
+      "label_seed": "Ceasefire shell",
+      "fact": "The April 17 truce was meant to halt 6 weeks of war between Israel and Hezbollah; Trump extended it by 3 weeks on April 23. Yet IDF Chief of Staff Lt. Gen. Eyal Zamir told troops there is 'no ceasefire' on the combat front. Al Jazeera and The National report Israeli air strikes have killed 41 Lebanese in 24 hours into May 2, while UN figures put violations of the November 2024 truce at over 10,000. Lebanon now has more than 1 million people registered as displaced since the war's outbreak, and the South has become a daily kill zone where the Habboush evacuation order pattern (warn, then strike anyway) is becoming the new normal."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Israel and Lebanon have opened direct negotiations for the first time since the failed 1983 May 17 Agreement, with Hezbollah disarmament as the explicit Israeli demand. Trump has reportedly given Beirut a 2 to 3-week window before he greenlights either a wider IDF ground push to clear the Litani belt of FPV drone teams or a return to all-out war. A May 13 UN Security Council session on Lebanon (UNSC Report monthly forecast) will test whether France and the UK push for a binding resolution. If Hezbollah escalates with Iranian-supplied longer-range drones, the truce collapses entirely and the Iran-war ceasefire next door is the first domino to fall."
+    },
+    "sources": ["al-monitor.com", "thenationalnews.com", "aljazeera.com", "timesofisrael.com", "securitycouncilreport.org"],
+    "supporting_stats": [
+      {"label": "Killed in single Habboush airstrike", "value": "8 (incl. child + 2 women)"},
+      {"label": "Total Lebanese killed in 24h to May 2", "value": "41"}
+    ]
+  },
+  {
+    "slug": "hormuz-maritime-freedom-construct",
+    "topicBucket": "global_economy",
+    "headline_seed": "US launches Maritime Freedom Construct to reopen Hormuz with 2,000 ships still stranded and 80% of oil execs betting August or later",
+    "protagonist": "US State and Defense Departments",
+    "verb": "launched",
+    "anchor_number": "2,000 ships",
+    "beat1": {
+      "label_seed": "Coalition pitch",
+      "fact": "On April 30, the US announced the Maritime Freedom Construct, a new international coalition led jointly by the State Department in Washington and US Central Command in Florida to reopen the Strait of Hormuz to commercial shipping. The waterway has been effectively closed since February 28, when Iran mined approaches and the US-Israeli air war on Iran began. Roughly 2,000 vessels are stranded inside the Gulf, including LNG carriers and VLCC crude tankers. Iran's mines, plus the loss of Khamenei in late February, have left no clear chain of command on the Iranian side to negotiate safe passage, even after Trump's April 21 open-ended ceasefire extension."
+    },
+    "beat2": {
+      "label_seed": "Coalition members",
+      "fact": "US embassies have been instructed to recruit allies and partners while explicitly excluding Russia, China, Belarus, and Cuba. The Construct will offer real-time maritime traffic coordination, sanctions enforcement, intelligence sharing, and naval deployments. The Pentagon component out of CENTCOM will talk directly to vessels transiting the strait. The pitch lands as oil traders watch a 17% Russian refining capacity loss from Ukrainian drone strikes (Reuters), Brent at roughly 108.83 USD per barrel on May 1 down 1.42% on the day, and roughly 20% of global oil and LNG normally moving through Hormuz still bottled up. Saudi Aramco reports Q1 results May 10 with analysts expecting net profit of 108.8 billion SAR, up 13.8% year-on-year on the war premium."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "A Dallas Fed energy survey found nearly 80% of US oil and gas executives believe Hormuz will not fully reopen until August or later, and Baker Hughes told CNBC the strait may not be fully clear until the second half of 2026. Mine clearance alone is a multi-month operation requiring specialized vessels and Iranian cooperation that does not exist. Watch for a French or UK announcement on joining the Construct, an Iranian counter-offer trading Hormuz access for sanctions relief, and the next OPEC+ meeting on May 3 where the cartel decides whether to increase quotas to fill the gap. UAE's OPEC exit on May 1 leaves Saudi Arabia alone to absorb the spare-capacity burden."
+    },
+    "sources": ["euronews.com", "abcnews.com", "gcaptain.com", "cnbc.com", "aljazeera.com"],
+    "supporting_stats": [
+      {"label": "Ships stranded inside the Gulf", "value": "≈2,000"},
+      {"label": "Brent crude on May 1", "value": "$108.83 per barrel (-1.42%)"}
+    ]
+  },
+  {
+    "slug": "anthropic-mythos-glasswing-100m",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Anthropic locks Claude Mythos behind 50-company firewall after the cyber AI hits 83.1% on CyberGym and finds 2,000+ zero-days",
+    "protagonist": "Anthropic",
+    "verb": "locked",
+    "anchor_number": "83.1%",
+    "beat1": {
+      "label_seed": "Mythos quarantine",
+      "fact": "Anthropic confirmed in mid-April that its most capable internal model, Claude Mythos Preview, scored 83.1% on the CyberGym benchmark for autonomously reproducing real software vulnerabilities, against 66.6% for Opus 4.6 and 65% for Sonnet 4.6. CyberGym is a 1,507-vulnerability test suite. Mythos has already discovered thousands of high-severity bugs, including in every major operating system and web browser. Citing dual-use risk, Anthropic refused public release and instead launched Project Glasswing, a $100 million initiative restricted to roughly 50 critical-infrastructure firms and government partners. SecurityWeek and VentureBeat call it the first time a frontier lab has formally said its best model is too dangerous to ship."
+    },
+    "beat2": {
+      "label_seed": "Cyber arms race",
+      "fact": "OpenAI shipped GPT-5.5 on April 23, only 6 weeks after GPT-5.4, and released a separate restricted cyber model on April 14. Both labs now ship cyber models within 7 days of each other, signaling that vulnerability-discovery AI is the new frontier capability. Anthropic also released Claude Opus 4.7 on April 16, the company's most powerful generally available model, deliberately one tier below Mythos. Chinese rivals (Qwen, DeepSeek, Moonshot) are racing to close the gap, while Nvidia's chip sales to China remain stalled and B300 server prices in Beijing are commanding scarcity-driven premiums (Digitimes). The Bureau of Industry and Security's January 15 final rule still blocks the top tier of GPUs from China."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Glasswing's first deliverables, expected by Q3 2026, are patches for zero-days inside critical-infrastructure software (power grid, water, hospital networks). The political question is whether the US government nationalizes Mythos-class capability the way nuclear know-how was Q-cleared after 1946. Watch for: an executive order classifying frontier cyber AI as a controlled technology, EU regulation under the AI Act updating Annex III, and an Anthropic-DoD contract that gives Cyber Command an operational fork. Anthropic's $30B funding round (announced April 24) and its 1.5M-token Claude Opus 4.7 context window are the financial fuel for keeping the dangerous tier internal."
+    },
+    "sources": ["anthropic.com", "venturebeat.com", "securityweek.com", "cnbc.com", "darkreading.com"],
+    "supporting_stats": [
+      {"label": "Mythos score on CyberGym (vs Opus 4.6 at 66.6%)", "value": "83.1%"},
+      {"label": "Project Glasswing initial budget", "value": "$100 million"}
+    ]
+  },
+  {
+    "slug": "tuapse-fourth-strike-refining-collapse",
+    "topicBucket": "europe",
+    "headline_seed": "Ukraine drones hit Russia's Tuapse oil refinery for 4th time in 16 days as Russian refining capacity craters 17% to 16-year low",
+    "protagonist": "Ukrainian drone forces",
+    "verb": "struck",
+    "anchor_number": "17% capacity loss",
+    "beat1": {
+      "label_seed": "4th strike",
+      "fact": "Overnight on May 1, Ukrainian long-range drones struck the Rosneft-owned Tuapse oil refinery on Russia's Black Sea coast for the 4th time in 16 days. Storage tanks reignited and a column of black smoke rose over the port. Across the previous 3 strikes (April 16, April 20, April 28), 24 storage tanks were destroyed and 4 more damaged, plus a crude processing unit. Tuapse is one of Russia's largest export refineries, normally pushing roughly 240,000 bpd of products into the Mediterranean. Reuters calculations show recent strikes have cut total Russian refining capacity by 17%, or about 1.1 million bpd, the lowest level in 16 years."
+    },
+    "beat2": {
+      "label_seed": "Black rain",
+      "fact": "Local residents in Tuapse describe an environmental catastrophe: oil slicks in the Tuapse River have reached the Black Sea, and toxic black rain has coated cars, streets, and crops. Air monitoring shows benzene, xylene and soot at 3 times safe levels. CNN and NBC describe the disaster as the worst the Krasnodar region has seen in years. On the same day, Russia retaliated with a mass daytime drone attack of 250+ Shahed-class UAVs and assorted decoys. Ukrainian air defense said 388 of 409 aerial assets were shot down or jammed; 16 hit at 6 locations, with debris falling at 11 more, injuring at least 12 in Ternopil 130 km from the Polish border."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Russia fired 6,583 long-range drones in April, 2% above the March record (AFP analysis). The Institute for the Study of War warns that pairing nighttime mass strikes with equally large daytime swarms is now Moscow's standard operating concept, designed to overwhelm and exhaust Ukrainian defenses. For Russia, the refining-capacity hole forces gasoline rationing in 4 oblasts and a public quarrel with OPEC+ over crude exports as Russia loses the ability to consume its own production. Zelensky on May 1 announced major military reform, raising soldier pay and shortening service terms, signaling Ukraine is preparing for at least another year of attritional war."
+    },
+    "sources": ["kyivindependent.com", "themoscowtimes.com", "cnn.com", "aljazeera.com", "pravda.com.ua"],
+    "supporting_stats": [
+      {"label": "Russian refining capacity loss", "value": "17% (~1.1M bpd)"},
+      {"label": "Drones downed/jammed in May 1 daytime attack", "value": "388 of 409"}
+    ]
+  },
+  {
+    "slug": "egypt-imf-3b-emergency-loan",
+    "topicBucket": "wildcard",
+    "headline_seed": "Egypt seeks $3B IMF emergency loan as Hormuz closure drains FX, pound slides 13-15% and Sisi races to privatize before May 31",
+    "protagonist": "Egyptian government",
+    "verb": "sought",
+    "anchor_number": "$3 billion",
+    "beat1": {
+      "label_seed": "Emergency ask",
+      "fact": "Cairo is in talks for a fresh emergency loan of $1.5 billion to $3 billion from the IMF on top of its existing $8.1 billion Extended Fund Facility, AGBI and Al Manassa report. The trigger is the Iran war's economic spillover: foreign portfolio investors fled Egyptian local-currency debt as soon as Hormuz closed on February 28, energy import bills surged with Brent above $100, and Suez Canal revenue is hemorrhaging because Asia-bound cargoes from the Gulf can no longer reach the canal. The pound has depreciated 13 to 15% since February 18, with USD/EGP now trading near 48.0 to 48.2, propped up only by Central Bank of Egypt interventions and Gulf deposits."
+    },
+    "beat2": {
+      "label_seed": "Privatization deadline",
+      "fact": "The IMF has set a hard deadline of end-May for Egypt to accelerate state-asset privatization before the seventh program review unlocks $1.65 billion in late June. Sisi's government is now scrambling to list military-controlled enterprises, telecom assets, and banks, against fierce internal pushback from the army economic empire. Egypt will spend an estimated 65% of fiscal year 2025-2026 expenditures on debt service alone, leaving almost no room for the social subsidies that buffered the 2024 currency shock. Inflation is climbing again, and the Central Bank just held the policy rate after months of cuts, fearing a fresh devaluation spiral."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "If the IMF-7 review fails or the privatization slips past May 31, Egypt risks a downgrade and a second devaluation in 14 months. Watch for a UAE or Saudi cash injection: Abu Dhabi's $35 billion Ras El-Hekma deal and Saudi deposits already kept Egypt afloat in 2024, and another bailout-style top-up is the most likely back-door fix if Hormuz stays shut into Q3. The wider stakes: Egypt is the Arab world's most populous country (110 million), the Suez Canal handles 12% of global trade in normal years, and a Cairo financial crisis ricochets straight into Gulf banking exposure (HSBC, Emirates NBD, NCB) and into a fresh wave of emigration toward the EU."
+    },
+    "sources": ["agbi.com", "manassa.news", "imf.org", "washingtoninstitute.org", "middleeasteye.net"],
+    "supporting_stats": [
+      {"label": "Egyptian pound depreciation since Feb 18", "value": "-13% to -15%"},
+      {"label": "Egypt FY25/26 spending on debt service", "value": "65%"}
+    ]
+  }
+]

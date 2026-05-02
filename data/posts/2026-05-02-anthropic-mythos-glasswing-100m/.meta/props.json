@@ -1,0 +1,152 @@
+{
+  "dateLabel": "MAY 02 • 2026",
+  "arabicDateLabel": "2 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "نموذج محبوس",
+    "arabicHeadline": "أنثروبيك بنت سلاحاً سيبرانياً يكشف الثغرات بـ83.1%… ثم قفلت عليه الباب",
+    "englishSubhead": "MYTHOS LOCKED • 83.1% ON CYBERGYM • $100M GLASSWING • 50 PARTNERS ONLY • 1,507 BUGS",
+    "heroQueries": [
+      "Anthropic AI lab security operations center",
+      "Cybersecurity dark control room glowing screens",
+      "Frontier AI model server rack data center",
+      "Claude AI logo neural network visualization",
+      "Critical infrastructure power grid cybersecurity"
+    ],
+    "heroMedia": "images/news/2026-05-02-anthropic-mythos-glasswing-100m/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السلاح المحجوز",
+      "arabicHeading": "Mythos تجاوز كل النماذج العامة بـ18 نقطة، فأقفلته أنثروبيك بنفسها قبل أن يُقفله أحد",
+      "arabicBody": "في منتصف أبريل، اعترفت أنثروبيك أن نموذجها الداخلي Claude Mythos Preview سحق معيار CyberGym بنتيجة 83.1%، أي إعادة إنتاج ذاتيّة لثغرات برمجية حقيقية. Opus 4.6 لم يتجاوز 66.6%، وSonnet 4.6 وقف عند 65%. الفجوة 18 نقطة كاملة. CyberGym حقل اختبار من 1,507 ثغرة، وMythos اخترق منه آلاف الثغرات الحرجة في كل نظام تشغيل ومتصفح كبير. بدل الشحن، رفعت أنثروبيك جداراً اسمه Glasswing بميزانية 100 مليون دولار، ولم تُدخله إلا 50 شركة بنية تحتية حرجة وشركاء حكوميين. لأول مرة في تاريخ الذكاء التوليدي، يعلن مختبر متقدّم أن أفضل ما لديه أخطر من أن يُباع.",
+      "bigStat": {
+        "value": "83.1%",
+        "label": "MYTHOS CYBERGYM SCORE",
+        "arabicLabel": "نتيجة Mythos الكاسرة"
+      },
+      "supportingStats": [
+        {
+          "label": "Opus 4.6",
+          "value": "66.6%"
+        },
+        {
+          "label": "Sonnet 4.6",
+          "value": "65%"
+        },
+        {
+          "label": "حجم CyberGym",
+          "value": "1,507 ثغرة"
+        },
+        {
+          "label": "شركاء Glasswing",
+          "value": "50 فقط"
+        }
+      ],
+      "broll": "images/news/2026-05-02-anthropic-mythos-glasswing-100m/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "السباق المخفيّ",
+      "arabicHeading": "OpenAI شحنت GPT-5.5 بعد 6 أسابيع فقط، والمختبران يطلقان سلاحَين سيبرانيَّين بفارق 7 أيام",
+      "arabicBody": "في 23 أبريل، رمت OpenAI نموذج GPT-5.5 إلى السوق بعد 6 أسابيع فقط من 5.4، وأصدرت قبلها بأسبوع نموذجاً سيبرانياً منفصلاً ومقيّداً. الآن المختبران يفصل بينهما 7 أيام في إطلاق نماذج كشف الثغرات. أنثروبيك ردّت في 16 أبريل بـClaude Opus 4.7 بنافذة 1.5 مليون توكن، أقوى نموذج علنيّ لديها، وأبقته عمداً درجة كاملة تحت Mythos. في الخلف، Qwen وDeepSeek وMoonshot يلهثون لتقليص الفجوة، فيما تظلّ شرائح Nvidia المتقدّمة محظورة عن بكين بقاعدة 15 يناير الأمريكية، وأسعار خوادم B300 في الصين تنفجر تحت ضغط الشحّ. كل أسبوع يمرّ، يكبر السلاح ويبتعد عمّن يستطيع امتلاكه.",
+      "bigStat": {
+        "value": "$30B",
+        "label": "ANTHROPIC FUNDING ROUND",
+        "arabicLabel": "وقود أنثروبيك الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "إطلاق GPT-5.5",
+          "value": "23 أبريل"
+        },
+        {
+          "label": "Claude Opus 4.7",
+          "value": "16 أبريل"
+        },
+        {
+          "label": "نافذة Opus 4.7",
+          "value": "1.5M توكن"
+        },
+        {
+          "label": "حظر GPU صيني",
+          "value": "15 يناير"
+        }
+      ],
+      "broll": "images/news/2026-05-02-anthropic-mythos-glasswing-100m/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "لحظة 1946",
+      "arabicHeading": "هل تؤمّم واشنطن Mythos كما أمّمت السرّ النوويّ، وتمنحه ختم Cyber Command؟",
+      "arabicBody": "أوّل مخرج فعليّ من Glasswing متوقّع في الربع الثالث من 2026: رقع لثغرات صفر-يوم داخل شبكات الكهرباء والمياه والمستشفيات. لكن السؤال الأكبر أبعد بكثير. هل تؤمّم الحكومة الأمريكية قدرة من طبقة Mythos كما أمّمت المعرفة النوويّة بعد عام 1946؟ المؤشّرات تتراكم: أمر تنفيذيّ ينتظر يصنّف الذكاء السيبرانيّ تقنيةً مضبوطة، تعديل أوروبيّ مرتقب على الملحق الثالث من قانون الذكاء، وعقد بين أنثروبيك ووزارة الدفاع يمنح Cyber Command فرعاً تشغيلياً. جولة تمويل بـ30 مليار دولار في 24 أبريل ونافذة 1.5 مليون توكن في Opus 4.7 ليست ترفاً ماليّاً، بل الجدار الذي يبقي السلاح داخل الغرفة. المعركة الحقيقية ليست على النموذج، بل على من يملك مفتاحه.",
+      "bigStat": {
+        "value": "$100M",
+        "label": "GLASSWING INITIAL BUDGET",
+        "arabicLabel": "كلفة الجدار الأوّل"
+      },
+      "supportingStats": [
+        {
+          "label": "أوّل تسليمات",
+          "value": "Q3 2026"
+        },
+        {
+          "label": "قطاعات أولى",
+          "value": "كهرباء ومياه ومستشفيات"
+        },
+        {
+          "label": "السابقة النوويّة",
+          "value": "1946"
+        },
+        {
+          "label": "فرع DoD محتمل",
+          "value": "Cyber Command"
+        }
+      ],
+      "broll": "images/news/2026-05-02-anthropic-mythos-glasswing-100m/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "VentureBeat",
+      "domain": "venturebeat.com"
+    },
+    {
+      "name": "SecurityWeek",
+      "domain": "securityweek.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Dark Reading",
+      "domain": "darkreading.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "Mythos سحق CyberGym بـ83.1%، فاعتبرته أنثروبيك أخطر من أن يُباع وأقفلت عليه الباب بنفسها",
+    "Opus 4.6 سجّل 66.6% فقط وSonnet 4.6 سجّل 65%، أي أن Mythos يسبق الطبقة العامة بـ18 نقطة كاملة",
+    "Glasswing بـ100 مليون دولار يفتح بابه فقط لـ50 شركة بنية تحتية حرجة وشركاء حكوميين، والباقي ممنوعون",
+    "OpenAI رمت GPT-5.5 في 23 أبريل بعد 6 أسابيع من 5.4، والمختبران يطلقان سلاحين سيبرانيَّين بفارق 7 أيام فقط",
+    "Claude Opus 4.7 الصادر في 16 أبريل ينافذ 1.5 مليون توكن، لكنّه عمداً درجة واحدة تحت طبقة Mythos المحجوبة",
+    "أنثروبيك جمعت 30 مليار دولار في 24 أبريل لتموّل الجدار الذي يحبس النموذج الأخطر داخل غرفة واحدة",
+    "السؤال الذي لا تجيب عنه واشنطن: هل تؤمّم Mythos كما أمّمت السرّ النوويّ بعد 1946 وتمنحه ختم Cyber Command؟"
+  ]
+}

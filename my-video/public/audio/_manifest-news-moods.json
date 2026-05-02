@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "mood_cinematic",
+    "task_id": "484e0be6e84759401a490a9a6151f053",
+    "size_bytes": 4034589,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/5538ea38453b48d0a925677896524dcb.mp3"
+  },
+  {
+    "slug": "mood_newsroom",
+    "task_id": "14e9aa91b2c77a2e39e551f47a6c812c",
+    "size_bytes": 3847341,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/a78ef62962114b8d9e4f7331f665e710.mp3"
+  },
+  {
+    "slug": "mood_orchestral",
+    "task_id": "28c1d3fd3ff4300bbbd644051759d0de",
+    "size_bytes": 3946845,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/e9061c93a50d443b8f775ef31560ebf2.mp3"
+  },
+  {
+    "slug": "mood_mideast",
+    "task_id": "c092ae659dff43ef02b737b920c99fd5",
+    "size_bytes": 3720429,
+    "remote_url": "https://tempfile.aiquickdraw.com/r/e1b3b40b44654599bad7cde04a62b7d2.mp3"
+  }
+]
