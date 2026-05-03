@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "iraq-cabinet-map-points-system",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq cabinet map gives Sudani 5 ministries, Maliki Oil, KDP Foreign, Badr Interior on 24-day clock",
+    "protagonist": "Coordination Framework",
+    "verb": "drafted",
+    "anchor_number": "5 ministries",
+    "beat1": {
+      "label_seed": "Points map",
+      "fact": "Shafaq News on May 3 published the early ministry-allocation map for PM-designate Ali al-Zaidi's cabinet, drawn up by the Coordination Framework's points-based mechanism that scores each portfolio between 10 and 16 points based on political, financial and service weight. Sudani's Reconstruction and Development Coalition, with 46 of 329 seats, takes the largest share with 5 ministries including the sovereign Finance portfolio plus 1 deputy PM slot. Maliki's State of Law (29 seats) gets Oil. Khazali's Sadiqoun (27 seats) gets Labor, Industry and a second deputy PM. The map gives 12 ministries to Shia blocs, 6 to Sunnis, 4 to Kurds."
+    },
+    "beat2": {
+      "label_seed": "Sovereign 5",
+      "fact": "Iraq's 5 sovereign ministries (Defense, Interior, Oil, Finance, Foreign Affairs) split as follows in the draft: Finance to Sudani, Oil to State of Law, Interior to the Iran-aligned Badr Organization (18 seats) under Hadi al-Amiri, Defense to the Sunni al-Azm Alliance (15 seats), Foreign Affairs to the KDP (26 seats), which also receives Justice. PUK (15 seats) takes Health/Environment and Culture. Sunni Taqaddum (27 seats) gets Higher Education. The Virtue Party draws Electricity, the file most likely to break the new PM as the Iran-gas cutoff still leaves 4,000 to 4,500 MW off the grid heading into Iraq's 50C summer."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Al-Zaidi has roughly 24 days left on his constitutional clock to present this cabinet to parliament for a confidence vote requiring 167 of 329 MPs. Two friction points are visible. First, Washington is privately pressing for technocrats in Oil, Finance, Defense and Interior, which clashes with Maliki holding Oil and Badr holding Interior. Second, KDP officials want one of the 4 Kurdish portfolios labeled sovereign and have explicitly named Foreign Affairs. The next signal is a final cabinet list expected by mid-May. If the points system collapses, Iraq enters its second leadership void in 6 months while crude output still sits near 1.4 million bpd."
+    },
+    "sources": ["shafaq.com", "washingtoninstitute.org", "thenationalnews.com", "agbi.com", "jpost.com"],
+    "supporting_stats": [
+      {"label": "Sudani Reconstruction and Development Coalition share", "value": "5 ministries + 1 deputy PM"},
+      {"label": "Days left on al-Zaidi's constitutional clock", "value": "24 days"}
+    ]
+  },
+  {
+    "slug": "iran-hormuz-transit-law",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Iran parliament drafts Hormuz transit law banning US and Israeli ships and charging tolls on the rest",
+    "protagonist": "Iran's Majlis (Ali Nikzad)",
+    "verb": "drafted",
+    "anchor_number": "Hormuz Transit Law",
+    "beat1": {
+      "label_seed": "Toll booth law",
+      "fact": "On May 3, Iran's Deputy Parliament Speaker Ali Nikzad announced from Hormuzgan Province that the Majlis is finalizing a new Strait of Hormuz Transit Law on the personal directive of Supreme Leader Mojtaba Khamenei, son of the late Ali Khamenei killed in February. The law bars Israeli-flagged vessels under any circumstance, denies passage to hostile countries (the United States in particular), and requires all other ships to comply with rules approved by parliament. Tolls will be charged for safety, maritime guidance and environmental protection, with revenues funneled into Iran's defense, public livelihoods and infrastructure. The bill formalizes the de-facto closure that began February 28."
+    },
+    "beat2": {
+      "label_seed": "Choke point",
+      "fact": "Roughly 20% of global oil and LNG normally moves through Hormuz; the strait has been effectively shut for 64 days, with about 2,000 vessels still bottled up inside the Gulf. Bloomberg first reported the toll-law draft on March 26 with a base toll proposed near $20 per ton, equivalent to $1 to $4 million per VLCC. The US Treasury already issued an OFAC advisory warning that any shipping company paying these tolls will face US secondary sanctions. The Iranian Revolutionary Guard separately gave the US military a 30-day ultimatum on its Gulf port presence, while Trump rejected Tehran's 14-point peace plan submitted via Pakistan."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "If the law passes the Guardian Council, Iran moves from informal mining to a codified legal regime that turns Hormuz into a national waterway under domestic law, contradicting the 1982 UNCLOS regime of innocent passage. Watch for: a UN Security Council emergency session pushed by France and the UK, a US naval-coalition challenge through the Maritime Freedom Construct launched April 30, and an OPEC+ supply scramble. The Dallas Fed survey already shows nearly 80% of US oil execs expect Hormuz reopening no earlier than August. A senior Iranian military official told Al Jazeera renewed conflict with the US is now possible after Trump's rejection of the proposal."
+    },
+    "sources": ["presstv.ir", "aljazeera.com", "bloomberg.com", "dawn.com", "thenationalnews.com"],
+    "supporting_stats": [
+      {"label": "Vessels still stranded inside the Gulf", "value": "≈2,000"},
+      {"label": "Days Hormuz has been shut since Feb 28", "value": "64 days"}
+    ]
+  },
+  {
+    "slug": "opec-188k-first-meeting-without-uae",
+    "topicBucket": "global_economy",
+    "headline_seed": "OPEC+ raises June output 188,000 bpd in first meeting without UAE as Brent settles at $108.17",
+    "protagonist": "OPEC+ (Saudi Arabia and Russia)",
+    "verb": "raised",
+    "anchor_number": "188,000 bpd",
+    "beat1": {
+      "label_seed": "First meeting w/o UAE",
+      "fact": "On May 3, the 7-country OPEC+ voluntary-cuts group held its first meeting since the United Arab Emirates formally exited the cartel on May 1. Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman agreed by virtual call to raise the June production cap by 188,000 barrels per day, slightly below the 206,000 bpd hike approved in April. Saudi Arabia and Russia each absorb the largest share at 62,000 bpd, taking their quotas to 10.291 million bpd and 9.762 million bpd respectively. Iraq adds 26,000 bpd to 4.352 million, Kuwait 16,000 bpd to 2.628 million."
+    },
+    "beat2": {
+      "label_seed": "Symbolic hike",
+      "fact": "The increase is symbolic. Al Jazeera labels it a 'symbolic oil output rise during Strait of Hormuz closure' because most of the cap added cannot physically reach the market while Hormuz remains shut. Brent crude settled at $108.17 per barrel on May 3, down nearly 2% on the day. Output of 188,000 bpd amounts to roughly 0.18% of global consumption near 102 million bpd. Inside OPEC+, the absent UAE was producing about 3.4 million bpd at quota and ADNOC says capacity is already 4.85 million; without that swing capacity, Saudi Arabia is left as the sole spare-capacity holder for any genuine emergency response."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "The 7 producers will reconvene on June 7 to set the July quota. Several pressures collide before then: Saudi Aramco reports Q1 results on May 10 with analysts forecasting net profit at SAR 108.8 billion ($29.01 billion), up 13.8% year-on-year on the war premium. Russia loses 17% of its refining capacity from Ukrainian drone strikes (Reuters), capping its ability to use the new quota. And Iran's parliament-toll law, if approved, gives Tehran a legal lever to collect tribute from any OPEC+ tanker leaving the Gulf. Watch the spread between Brent at $108 and the OPEC basket above $110 to see whether the cartel cohesion holds."
+    },
+    "sources": ["cnbc.com", "aljazeera.com", "thenationalnews.com", "bignewsnetwork.com", "saharareporters.com"],
+    "supporting_stats": [
+      {"label": "Saudi Arabia + Russia share of the hike", "value": "62,000 bpd each"},
+      {"label": "Brent crude on May 3 settle", "value": "$108.17 (-≈2%)"}
+    ]
+  },
+  {
+    "slug": "adnoc-55b-supply-chain-pivot",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "ADNOC pledges $55B for UAE supply chains 2 days after OPEC exit, eyes 5 million bpd by 2027",
+    "protagonist": "ADNOC (Sultan Al Jaber)",
+    "verb": "pledged",
+    "anchor_number": "$55 billion",
+    "beat1": {
+      "label_seed": "OPEC-exit dividend",
+      "fact": "On May 3, ADNOC managing director Sultan Al Jaber announced from Abu Dhabi's first 'Make it With Adnoc' forum a contract program worth Dh200 billion ($55 billion) to UAE local supply chains by 2028, the opening tranche of the $150 billion 5-year capex plan the board approved in November 2025. An additional $60 billion will channel directly into the UAE economy through the In-Country Value (ICV) program over 5 years. The move comes 2 days after the UAE formally left OPEC+ on May 1, freeing ADNOC to push capacity from 4.85 million bpd today toward 5 million bpd by 2027."
+    },
+    "beat2": {
+      "label_seed": "Localize, harden",
+      "fact": "Al Jaber framed ADNOC as entering 'a defining execution phase.' Acting commercial chief Omar Al Nuaimi explicitly tied the program to recent geopolitical disruptions, citing Iranian missile and drone strikes on UAE energy infrastructure in March that exposed the cost of relying on imported services and offshore supply lines. The new contracts span upstream and downstream, with priority on resilient logistics, drone defense, refining, LNG (the Ruwais low-carbon project) and AI-driven oilfield operations. ADNOC's Murban official selling price for May delivery is $110.75 per barrel. A sustained OSP above $110 lets ADIA accelerate sovereign-fund deployment alongside ADNOC."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "ADNOC now sits as the only major Gulf producer with declared spare capacity, after the OPEC+ 188,000 bpd hike on May 3 left Saudi Arabia carrying the OPEC discipline burden alone. Watch for: an ADNOC announcement of partner deals with Western majors (Exxon, BP, TotalEnergies) on Ruwais LNG financial close, an XRG (ADNOC's international arm) acquisition outside the Gulf, and any signal of UAE Murban replacing Iranian heavies on Asian buy lists. Strategically, the 5 million bpd 2027 target plus $55 billion of localized contracts is Abu Dhabi's bet that the Iran war and Hormuz crisis will keep the war premium in oil for years, not months."
+    },
+    "sources": ["thenationalnews.com", "voiceofemirates.com", "freemalaysiatoday.com", "aljazeera.com", "discoveryalert.com.au"],
+    "supporting_stats": [
+      {"label": "ADNOC ICV channeled into UAE economy over 5 years", "value": "$60 billion"},
+      {"label": "Murban May OSP / production capacity target by 2027", "value": "$110.75 / 5M bpd"}
+    ]
+  },
+  {
+    "slug": "deepseek-v4-huawei-day0",
+    "topicBucket": "tech_ai",
+    "headline_seed": "DeepSeek V4 launches 1.6T-parameter model on Huawei Ascend chips at $3.48, undercutting GPT-5.5 by 9x",
+    "protagonist": "DeepSeek",
+    "verb": "launched",
+    "anchor_number": "1.6 trillion parameters",
+    "beat1": {
+      "label_seed": "Huawei Day 0",
+      "fact": "On April 24, Hangzhou-based DeepSeek released V4-Pro and V4-Flash, its open-source flagship models, the first time a Chinese frontier AI model has been built to run natively on Huawei's Ascend chips rather than Nvidia. V4-Pro carries 1.6 trillion parameters, V4-Flash 284 billion, and both ship with a 1 million-token context window. Huawei Ascend, Cambricon, Hygon and Moore Threads completed Day 0 adaptation, meaning V4 ran on domestic Chinese silicon the same day it released. SCMP and Tom's Hardware call it the first frontier-tier launch fully decoupled from CUDA."
+    },
+    "beat2": {
+      "label_seed": "The 9x cut",
+      "fact": "DeepSeek priced V4-Pro output at $3.48 per million tokens, against $30 for OpenAI GPT-5.4 and $25 for Anthropic Claude Opus 4.6, a 9x and 7x undercut respectively. By April 29, Huawei Ascend 950PR orders surged from Alibaba Cloud, Tencent and ByteDance; Huawei plans to ship 750,000 units in 2026, with mass production from April and full ramp in H2. The US Bureau of Industry and Security blocks the top tier of Nvidia GPUs from entering China; the Day 0 stack is China's answer. The US government simultaneously escalated IP-theft accusations against DeepSeek and other Chinese labs, signaling the case will get political."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "DeepSeek V4 lands as Anthropic locks Claude Mythos behind a 50-company firewall and OpenAI ships restricted cyber models. The Chinese stack is now 3 to 6 months behind the frontier on benchmarks but ahead on cost-per-token and chip independence. Watch: a Beijing announcement on a national AI compute fund, an Nvidia warning to the SEC about the China revenue hole, and an EU AI Act re-rating of open-source frontier models. For Arabic markets, DeepSeek V4-Flash at $3.48 makes large-context Arabic translation, news synthesis and customer-service stacks economic for the first time, opening the gate for Iraqi and Gulf builders."
+    },
+    "sources": ["scmp.com", "tomshardware.com", "fortune.com", "theregister.com", "trendforce.com"],
+    "supporting_stats": [
+      {"label": "V4-Pro vs GPT-5.4 cost per million output tokens", "value": "$3.48 vs $30 (≈9x cut)"},
+      {"label": "Huawei Ascend 950PR planned 2026 shipments", "value": "750,000 units"}
+    ]
+  },
+  {
+    "slug": "perm-lukoil-refinery-1500km",
+    "topicBucket": "europe",
+    "headline_seed": "Ukraine drones strike Lukoil's Perm refinery 1,500km deep, dropping Russia's throughput to 16-year low",
+    "protagonist": "Ukrainian SBU drones",
+    "verb": "struck",
+    "anchor_number": "1,500 km",
+    "beat1": {
+      "label_seed": "Deepest strike",
+      "fact": "Overnight April 30 to May 1, drones from the SBU's Alpha Special Operations Center hit Lukoil's Permnefteorgsintez refinery in the Perm region, more than 1,500 km from Ukrainian-controlled territory, the deepest declared SBU strike of the war. The AVT-4 unit, the plant's primary crude distillation tower, ignited; both vacuum and atmospheric columns burned and the unit was taken offline. Lukoil-Permnefteorgsintez has roughly 13 million tons per year of capacity (about 260,000 bpd) and supplies fuel to Russian civilian and military customers. A nearby pumping station was hit the same night. Perm authorities issued a chemical emergency alert."
+    },
+    "beat2": {
+      "label_seed": "16-year low",
+      "fact": "Reuters calculations show recent Ukrainian strikes have driven Russia's average refinery throughput to 4.69 million bpd, the lowest since December 2009, a 17% capacity loss equal to roughly 1.1 million bpd. Tuapse on the Black Sea was hit for the 4th time in 16 days on May 1, restarting fires the Russian Emergency Ministry had declared extinguished. Zelensky said on May 1 that Ukrainian strikes have already cost Russia at least $7 billion in lost oil revenue since January 1. Gasoline rationing is now in effect in 4 Russian oblasts. Russia retaliated May 1 with a 250-Shahed daytime swarm; Ukraine reported 388 of 409 aerial assets downed or jammed."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Russia's refining hole forces a public quarrel with OPEC+: Moscow takes a 62,000 bpd quota increase in the May 3 OPEC+ deal but cannot consume what it pumps, so the spread between crude exports and product exports widens. Watch for: more Belgorod and Ternopil mass-drone retaliation, a Lukoil credit-rating cut, and a Kremlin push to formalize gasoline export bans through end of summer. EU/NATO defense ministers at the next Ukraine Defense Contact Group are weighing whether to fund a fresh 1,500 km-class long-range drone tranche. Ukrainian production of long-range drones is now the cheapest weapon-per-dollar against Russian war finance."
+    },
+    "sources": ["rigzone.com", "kyivpost.com", "kyivindependent.com", "themoscowtimes.com", "aljazeera.com"],
+    "supporting_stats": [
+      {"label": "Russian refining throughput post-strikes", "value": "4.69M bpd (16-year low, -17%)"},
+      {"label": "Russian oil revenue lost in 2026 to date (Zelensky)", "value": "$7 billion"}
+    ]
+  }
+]

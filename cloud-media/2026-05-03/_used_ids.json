@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-03",
+  "source": "pexels+unsplash",
+  "ids_by_slug": {
+    "iraq-cabinet-map-points-system": {
+      "hero": "33124287",
+      "broll_1": "10157893",
+      "broll_2": "32357268",
+      "broll_3": "36359108"
+    },
+    "iran-hormuz-transit-law": {
+      "hero": "29792898",
+      "broll_1": "28238933",
+      "broll_2": "36474351",
+      "broll_3": "17623242"
+    },
+    "opec-188k-first-meeting-without-uae": {
+      "hero": "5511131",
+      "broll_1": "30123684",
+      "broll_2": "33284879",
+      "broll_3": "31316362"
+    },
+    "adnoc-55b-supply-chain-pivot": {
+      "hero": "19718502",
+      "broll_1": "10407684",
+      "broll_2": "12770545",
+      "broll_3": "5987842"
+    },
+    "deepseek-v4-huawei-day0": {
+      "hero": "17489157",
+      "broll_1": "1448561",
+      "broll_2": "4682187",
+      "broll_3": "270373"
+    },
+    "perm-lukoil-refinery-1500km": {
+      "hero": "12641124",
+      "broll_1": "16660294",
+      "broll_2": "11594581",
+      "broll_3": "9407369"
+    }
+  }
+}

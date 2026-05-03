@@ -83,17 +83,21 @@ You get a post directory path. Inside it:
 
 From props.json, **rewrite only these Arabic/bilingual copy fields** (leave schema structure, topicBucket, variant, sources, hero/broll paths, date labels, handle, audioBed untouched):
 
-- `breaking.arabicKicker` — 2-4 words, the section tag. Examples: "الصندوق", "الخليج يشتعل", "عاجل من طهران", "القصة اللي ما قالوها"
-- `breaking.arabicHeadline` — the hook line; 6-12 words; protagonist + stake. Must obey rules 1, 5, 6.
-- `breaking.englishSubhead` — ALL CAPS strip; pipe-separated; max 5 tokens; punchy numeric. Examples: "PIF • LUCID BLEED • $9B → $2.5B • $550M NEW"
+- `breaking.arabicKicker` — 2-4 words, the section tag.
+- `breaking.arabicHeadline` — the hook line; **9-13 Arabic words** (was 6-12, slightly tightened); protagonist + stake. Must obey rules 1, 5, 6.
+- `breaking.englishSubhead` — ALL CAPS strip; pipe-separated; **max 4 tokens** (was 5); punchy numeric.
 - For each beat:
-  - `label` — 1-2 Arabic words, thematic ("الحفرة" → stronger: "الخسارة العلنية" / "الجريمة الهادئة" / "القرار العنيد")
-  - `arabicHeading` — 8-14 words; the beat's "story sentence"; obeys rule 8 (ends on implication or provokes next beat)
-  - `arabicBody` — 30-60 Arabic words; narrative; concrete verbs; numbers with anchors; NO bullet points
-  - `bigStat.label` — English, 3-6 words, calibrated to the beat
-  - `bigStat.arabicLabel` — 2-5 Arabic words, sharper than label
-  - `supportingStats` — 3 rows, each a `label` + `value` pair; the label is a noun phrase, the value is a short concrete number or phrase (never "نعم/لا", never a full sentence)
-- `arabicTicker` — 7 lines, each a standalone micro-headline; order them so the first line is the strongest hook and line 7 is the most open-ended question
+  - `label` — 1-2 Arabic words, thematic
+  - `arabicHeading` — **≤14 Arabic words, single short sentence** (was 8-14, now firmly capped); ends on implication or provokes next beat
+  - `arabicBody` — **40-70 Arabic words** (TIGHTENED from 30-60 to keep narrative depth, but capped well below the previous 80-130 author baseline); narrative; concrete verbs; numbers with anchors; NO bullet points
+  - `bigStat.label` — English, 3-6 words
+  - `bigStat.arabicLabel` — **1-3 Arabic words** (was 2-5)
+  - `supportingStats` — **3 rows max** (drop the weakest if 4 came in); each label ≤2 Arabic words; value is a short concrete number/phrase
+- `arabicTicker` — 7 lines, each **10-17 words** (was 15-25); order: line 1 strongest hook, line 7 open-ended question
+
+### 2026-05-03 Density Mandate
+
+Ahmed (2026-05-03) said: "you're using too much text… tune it down by 30% and make it bigger." The caps above are the canonical numbers — enforce them. If a source field overflows the cap, cut the weakest clause first; never invent stats to compensate for cut prose. Composition font sizes are bumped 12-18% to match.
 
 From `caption.txt`, rewrite the entire body following the caption structure above. Always preserve the signature/credit block format the channel uses but improve the hook line at the top.
 

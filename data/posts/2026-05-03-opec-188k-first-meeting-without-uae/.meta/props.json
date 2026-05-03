@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "أوبك+ بلا الإمارات",
+    "arabicHeadline": "أوبك+ ترفع 188 ألف برميل في أول اجتماع بعد طلاق الإمارات",
+    "englishSubhead": "188K BPD • UAE OUT • BRENT $108.17 • SAUDI ALONE",
+    "heroQueries": [
+      "OPEC+ ministerial meeting virtual",
+      "Saudi Arabia oil minister Riyadh",
+      "Brent crude oil price chart",
+      "ADNOC UAE oil export",
+      "global oil refinery operations"
+    ],
+    "heroMedia": "images/news/2026-05-03-opec-188k-first-meeting-without-uae/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أول اجتماع",
+      "arabicHeading": "السعودية وروسيا تقودان 7 منتجين بعد خروج الإمارات في 1 مايو",
+      "arabicBody": "اليوم 3 مايو، عقدت مجموعة الخفض الطوعي السباعية أول اجتماع لها بعد خروج الإمارات الرسمي من أوبك+ في 1 مايو. السعودية وروسيا والعراق والكويت وكازاخستان والجزائر وعمان حسموا عبر مكالمة افتراضية رفع سقف يونيو بـ188 ألف برميل يومياً، أقل من زيادة 206 ألف في أبريل. الرياض وموسكو تتقاسمان الحصة الكبرى بـ62 ألف برميل لكل واحدة، فترتفع كوتا السعودية إلى 10.291 مليون وروسيا إلى 9.762 مليون.",
+      "bigStat": {
+        "value": "188,000 bpd",
+        "label": "June production cap increase agreed by 7-country group",
+        "arabicLabel": "الزيادة"
+      },
+      "supportingStats": [
+        {
+          "label": "السعودية",
+          "value": "62 ألفاً"
+        },
+        {
+          "label": "روسيا",
+          "value": "62 ألفاً"
+        },
+        {
+          "label": "العراق",
+          "value": "26 ألفاً"
+        }
+      ],
+      "broll": "images/news/2026-05-03-opec-188k-first-meeting-without-uae/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "زيادة رمزية",
+      "arabicHeading": "الجزيرة تصفها بالرمزية: المضيق مغلق وبرنت يهبط 2% عند 108 دولاراً",
+      "arabicBody": "الزيادة في معظمها رمزية. الجزيرة وصفتها بأنها رفع رمزي وسط إغلاق هرمز، لأن أغلب البراميل المضافة لا تصل السوق فعلياً. خام برنت أغلق عند 108.17 دولاراً للبرميل في 3 مايو، منخفضاً 2% خلال اليوم. 188 ألفاً تساوي 0.18% فقط من الاستهلاك العالمي البالغ 102 مليون برميل. الإمارات الغائبة كانت تنتج 3.4 مليون، وأدنوك ترفع طاقتها إلى 4.85 مليون. النتيجة: السعودية وحدها تحمل وسادة الطاقة الاحتياطية الفعلية.",
+      "bigStat": {
+        "value": "$108.17",
+        "label": "Brent crude May 3 settle, down nearly 2% on the day",
+        "arabicLabel": "إغلاق برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة الزيادة",
+          "value": "0.18%"
+        },
+        {
+          "label": "أدنوك",
+          "value": "4.85 مليون"
+        },
+        {
+          "label": "إنتاج عالمي",
+          "value": "102 مليون"
+        }
+      ],
+      "broll": "images/news/2026-05-03-opec-188k-first-meeting-without-uae/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "ما القادم",
+      "arabicHeading": "أرامكو في 10 مايو واجتماع 7 يونيو يحددان مصير تماسك التحالف",
+      "arabicBody": "السبعة يعودون 7 يونيو لتحديد سقف يوليو. ضغوط متلاحقة قبلها: أرامكو تنشر نتائج الربع الأول في 10 مايو، ومحللون يتوقعون 108.8 مليار ريال أي 29 مليار دولار، بنمو 13.8% بفضل علاوة الحرب. روسيا فقدت 17% من طاقة تكريرها بضربات الدرونات الأوكرانية فلن تستطيع استهلاك حصتها. وقانون رسوم هرمز يمنح طهران ذراعاً قانونية لجباية إتاوة من ناقلات أوبك+. راقب الفجوة بين برنت 108 وسلة أوبك فوق 110.",
+      "bigStat": {
+        "value": "$29.01B",
+        "label": "Forecast Aramco Q1 net profit on May 10",
+        "arabicLabel": "ربح أرامكو"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو سنوي",
+          "value": "13.8%"
+        },
+        {
+          "label": "تكرير روسيا",
+          "value": "-17%"
+        },
+        {
+          "label": "اجتماع يوليو",
+          "value": "7 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-05-03-opec-188k-first-meeting-without-uae/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Big News Network",
+      "domain": "bignewsnetwork.com"
+    },
+    {
+      "name": "Sahara Reporters",
+      "domain": "saharareporters.com"
+    },
+    {
+      "name": "Photonect Research",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "أوبك+ ترفع سقف يونيو 188 ألف برميل في أول اجتماع بعد خروج الإمارات",
+    "السعودية وروسيا تتقاسمان الزيادة بـ62 ألف برميل لكل واحدة منهما",
+    "العراق يضيف 26 ألفاً والكويت 16 ألفاً ضمن الكوتا الجديدة",
+    "خام برنت يهبط 2% ويغلق عند 108.17 دولاراً للبرميل في 3 مايو",
+    "الجزيرة: زيادة رمزية لأن إغلاق هرمز يحبس البراميل عن الأسواق",
+    "أدنوك تصبح صاحبة الطاقة الاحتياطية الوحيدة في المنطقة بعد طلاق أوبك+",
+    "هل تصمد كوتا أوبك+ بعد 7 يونيو أم ينهار التحالف على عتبة الصيف؟"
+  ]
+}

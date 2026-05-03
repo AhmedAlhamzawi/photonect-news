@@ -1,0 +1,138 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "أبوظبي تحسم",
+    "arabicHeadline": "بعد يومين من خروج أدنوك من أوبك، الجابر يضخّ 55 مليار في الإمارات",
+    "englishSubhead": "ADNOC | $55B | 5M BPD | 2027",
+    "heroQueries": [
+      "ADNOC Sultan Al Jaber Abu Dhabi forum",
+      "Murban oil capacity expansion 5 million bpd",
+      "UAE energy supply chain"
+    ],
+    "heroMedia": "images/news/2026-05-03-adnoc-55b-supply-chain-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "خارج أوبك",
+      "arabicHeading": "الجابر يفتح الخزينة بعد 48 ساعة من فك القيد",
+      "arabicBody": "سلطان الجابر صعد منبر منتدى أبوظبي وأعلن عقوداً بقيمة 55 مليار دولار للموردين المحليين حتى 2028. الرقم ليس وعداً، بل الدفعة الأولى من خطة الـ150 مليار التي أقرّها مجلس الإدارة في نوفمبر الماضي. التوقيت مفصلي: قبل يومين فقط، الإمارات أغلقت ملف عضويتها في أوبك+ ورمت سقف الإنتاج خلف ظهرها. أدنوك الآن حرّة تركض نحو 5 مليون برميل يومياً بحلول 2027.",
+      "bigStat": {
+        "label": "Local supply contracts by 2028",
+        "value": "$55B",
+        "arabicLabel": "55 مليار"
+      },
+      "supportingStats": [
+        {
+          "label": "خطة 5 سنوات",
+          "value": "$150B"
+        },
+        {
+          "label": "ICV محلي",
+          "value": "$60B"
+        },
+        {
+          "label": "هدف 2027",
+          "value": "5M b/d"
+        }
+      ],
+      "broll": "images/news/2026-05-03-adnoc-55b-supply-chain-pivot/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "تحصين السلسلة",
+      "arabicHeading": "النعيمي يكشف السبب: صواريخ إيران ضربت البنية الإماراتية في مارس",
+      "arabicBody": "عمر النعيمي، رئيس التجارة بالإنابة، ربط البرنامج صراحة بالضربات الإيرانية على منشآت الطاقة الإماراتية في مارس. الدرس: من يعتمد على موردين خارجيين يدفع الثمن مرتين، مرة بالوقت ومرة بالخسائر. لذلك العقود الجديدة تركّز على دفاع الدرونز، الخدمات اللوجستية المحصّنة، تكرير الرويس منخفض الكربون، وعمليات الذكاء الاصطناعي. سعر مربان الرسمي لشهر مايو 110.75 دولاراً، يموّل الخطوة بالكامل.",
+      "bigStat": {
+        "label": "Murban May OSP",
+        "value": "$110.75",
+        "arabicLabel": "سعر مربان"
+      },
+      "supportingStats": [
+        {
+          "label": "ICV سنوياً",
+          "value": "$12B"
+        },
+        {
+          "label": "طاقة حالية",
+          "value": "4.85M b/d"
+        },
+        {
+          "label": "ضربات إيران",
+          "value": "مارس 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-03-adnoc-55b-supply-chain-pivot/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "أدنوك تركت الرياض وحدها في انضباط أوبك، والأنظار على رويس",
+      "arabicBody": "أوبك+ رفعت الإنتاج 188 ألف برميل في 3 مايو، والسعودية تحمل عبء الانضباط لوحدها بعد رحيل الإمارات. ما الذي يأتي تالياً؟ صفقات شراكة في رويس للغاز المسال مع إكسون أو بي بي أو توتال، واستحواذ XRG خارج الخليج، وموجة بيع مربان في آسيا بدلاً من الخامات الإيرانية. رهان أبوظبي واضح: حرب إيران ستُبقي علاوة الحرب في سعر النفط لسنوات، لا لأشهر.",
+      "bigStat": {
+        "label": "OPEC+ June hike vs ADNOC capacity",
+        "value": "188K vs 5M",
+        "arabicLabel": "الفجوة"
+      },
+      "supportingStats": [
+        {
+          "label": "زيادة أوبك+",
+          "value": "188K b/d"
+        },
+        {
+          "label": "هدف أدنوك",
+          "value": "5M b/d"
+        },
+        {
+          "label": "علاوة الحرب",
+          "value": "سنوات"
+        }
+      ],
+      "broll": "images/news/2026-05-03-adnoc-55b-supply-chain-pivot/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Voice of Emirates",
+      "domain": "voiceofemirates.com"
+    },
+    {
+      "name": "Free Malaysia Today",
+      "domain": "freemalaysiatoday.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Discovery Alert",
+      "domain": "discoveryalert.com.au"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "55 مليار دولار عقود محلية إماراتية تُوقَّع حتى نهاية 2028 بقيادة أدنوك",
+    "خطة الـ150 مليار 5 سنوات بدأت تنفيذها قبل يومين من خروج أبوظبي من أوبك+",
+    "هدف الإنتاج 5 مليون برميل يومياً بحلول 2027 من 4.85 مليون اليوم فقط",
+    "60 مليار دولار إضافية تتدفق إلى الاقتصاد الإماراتي عبر برنامج القيمة المحلية",
+    "سعر مربان الرسمي لشهر مايو يقفز إلى 110.75 دولاراً للبرميل ويثبّت العلاوة",
+    "رويس للغاز المسال على طاولة المفاوضات مع إكسون وبي بي وتوتال إنرجيز",
+    "هل تتحول أبوظبي إلى المنتج المرجعي الجديد بدل الرياض في سوق آسيا؟"
+  ]
+}

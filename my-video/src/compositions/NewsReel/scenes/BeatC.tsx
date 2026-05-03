@@ -72,12 +72,13 @@ export const BeatC: React.FC<Props> = ({
   });
   const scrimHex = Math.round(bottomScrim * 255).toString(16).padStart(2, "0");
 
-  // Adaptive heading + body sizes.
+  // 2026-05-03: Ahmed feedback "make it bigger ~15%". Tightened text caps
+  // mean the shorter tier is now the common case; bumped each tier ~15-18%.
   const headingLen = arabicHeading.length;
-  const headingFontSize = headingLen > 70 ? 46 : headingLen > 50 ? 52 : 58;
+  const headingFontSize = headingLen > 70 ? 54 : headingLen > 50 ? 60 : 68;
 
   const bodyLen = (arabicBody ?? "").length;
-  const bodyFontSize = bodyLen > 140 ? 22 : bodyLen > 100 ? 24 : 26;
+  const bodyFontSize = bodyLen > 140 ? 26 : bodyLen > 100 ? 28 : 30;
 
   return (
     <AbsoluteFill>

@@ -101,7 +101,8 @@ export const Breaking: React.FC<Props> = ({
             style={{
               fontFamily: FONT_ARABIC,
               fontWeight: 700,
-              fontSize: 36,
+              // 2026-05-03: kicker bumped 36 → 42 per Ahmed "make it bigger".
+              fontSize: 42,
               color: "#FFF",
               letterSpacing: "0.08em",
             }}
@@ -114,8 +115,11 @@ export const Breaking: React.FC<Props> = ({
         <div
           style={{
             fontFamily: FONT_ARABIC,
-            fontWeight: 700,
-            fontSize: 82,
+            // 2026-05-03: headline weight bumped 700 → 800 for impact, font
+            // bumped 82 → 92. With headline word-cap tightened to 9-13 words
+            // (was 12-18), this still fits the 2-line maxWidth.
+            fontWeight: 800,
+            fontSize: 92,
             color: PHOTONECT.paper,
             lineHeight: 1.18,
             textAlign: "right",
@@ -135,7 +139,8 @@ export const Breaking: React.FC<Props> = ({
           style={{
             fontFamily: FONT_LATIN,
             fontWeight: 600,
-            fontSize: 28,
+            // 2026-05-03: bumped 28 → 32.
+            fontSize: 32,
             color: PHOTONECT.signal,
             marginTop: 28,
             letterSpacing: "0.12em",

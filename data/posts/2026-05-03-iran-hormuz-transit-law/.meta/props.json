@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "قانون هرمز",
+    "arabicHeadline": "طهران تسنّ قانون هرمز: الباب يُقفل على واشنطن وإسرائيل، والباقي يدفع",
+    "englishSubhead": "TRANSIT LAW • 64 DAYS SHUT • 2K SHIPS • $1-4M VLCC",
+    "heroQueries": [
+      "Strait of Hormuz Iran navy",
+      "Iran parliament Majlis vote",
+      "oil tanker Persian Gulf",
+      "Mojtaba Khamenei leadership",
+      "Hormuzgan province coast"
+    ],
+    "heroMedia": "images/news/2026-05-03-iran-hormuz-transit-law/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "قانون الرسوم",
+      "arabicHeading": "نائب رئيس البرلمان يكشف قانون عبور هرمز بأمر مجتبى خامنئي",
+      "arabicBody": "اليوم 3 مايو، علي نيكزاد نائب رئيس البرلمان الإيراني أعلن من هرمزكان أن المجلس يضع اللمسات الأخيرة على قانون عبور هرمز بأمر شخصي من المرشد مجتبى خامنئي، ابن علي خامنئي الذي اغتيل في فبراير. القانون يسحب علم إسرائيل من الممر، يحرم سفن الدول العدائية وعلى رأسها أمريكا، ويلزم البقية برسوم تذهب لتمويل الدفاع والمعيشة والبنية التحتية.",
+      "bigStat": {
+        "value": "$20 / ton",
+        "label": "Bloomberg-reported base toll proposal",
+        "arabicLabel": "الرسم القاعدي"
+      },
+      "supportingStats": [
+        {
+          "label": "كلفة العملاقة",
+          "value": "1-4 مليون"
+        },
+        {
+          "label": "إسرائيل",
+          "value": "حظر مطلق"
+        },
+        {
+          "label": "بدء الإغلاق",
+          "value": "28 فبراير"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iran-hormuz-transit-law/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "نقطة الاختناق",
+      "arabicHeading": "20% من نفط العالم محتجز و2000 سفينة عالقة منذ 64 يوماً",
+      "arabicBody": "20% من نفط العالم وغازه المسال يمر عادةً عبر هرمز، والمضيق مغلق فعلياً منذ 64 يوماً مع 2000 سفينة محبوسة داخل الخليج. بلومبرغ كشفت مسودة الرسوم بقاعدة 20 دولاراً للطن، أي 1 إلى 4 مليون دولار للناقلة العملاقة. الخزانة الأمريكية حذّرت أن أي شركة تدفع الرسم سترتد عليها عقوبات ثانوية. الحرس الثوري أمهل الجيش الأمريكي 30 يوماً، وترامب رفض خطة طهران الـ14 بنداً.",
+      "bigStat": {
+        "value": "≈2,000",
+        "label": "Vessels stranded inside the Gulf",
+        "arabicLabel": "سفن محبوسة"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة هرمز",
+          "value": "20% عالمياً"
+        },
+        {
+          "label": "مهلة الحرس",
+          "value": "30 يوماً"
+        },
+        {
+          "label": "إغلاق",
+          "value": "64 يوماً"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iran-hormuz-transit-law/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "ما القادم",
+      "arabicHeading": "لو أقرّه مجلس صيانة الدستور، هرمز يصبح ممراً وطنياً يضرب قانون 1982",
+      "arabicBody": "لو مرّ القانون من مجلس صيانة الدستور، تنتقل إيران من الألغام غير الرسمية إلى تشريع يحوّل هرمز إلى ممر وطني، ضارباً اتفاقية البحار 1982 وحق المرور البريء. راقب: جلسة طارئة في مجلس الأمن تدفعها فرنسا وبريطانيا، تحدٍّ بحري أمريكي عبر تحالف الحرية البحرية المُطلق 30 أبريل، وفوضى عرض في أوبك+. مسح دالاس: 80% من مدراء النفط الأمريكيين لا يتوقعون فتح هرمز قبل أغسطس.",
+      "bigStat": {
+        "value": "80%",
+        "label": "US oil execs expecting reopen no earlier than August",
+        "arabicLabel": "توقعات الإغلاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الأمم المتحدة",
+          "value": "جلسة طارئة"
+        },
+        {
+          "label": "تحالف الحرية",
+          "value": "30 أبريل"
+        },
+        {
+          "label": "خطة طهران",
+          "value": "14 بنداً"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iran-hormuz-transit-law/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Press TV",
+      "domain": "presstv.ir"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Dawn",
+      "domain": "dawn.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Photonect Research",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "البرلمان الإيراني يحوّل إغلاق هرمز إلى قانون مكتوب بأمر مجتبى خامنئي",
+    "إسرائيل ممنوعة وأمريكا مرفوضة والباقي يدفع رسوماً للدفاع والبنية التحتية",
+    "بلومبرغ: 20 دولاراً للطن أي 1 إلى 4 مليون دولار لكل ناقلة عملاقة",
+    "20% من نفط العالم يمر هرمز و2000 سفينة محتجزة منذ 28 فبراير",
+    "الحرس الثوري يمهل واشنطن 30 يوماً لإخلاء قواعد الخليج العسكرية",
+    "ترامب يرفض خطة طهران الـ14 بنداً المقدمة عبر الوساطة الباكستانية",
+    "هل يصمد قانون البحار 1982 أمام تشريع طهران الجديد للممر الدولي؟"
+  ]
+}

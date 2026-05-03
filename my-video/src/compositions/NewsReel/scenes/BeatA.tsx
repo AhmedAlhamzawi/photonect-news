@@ -95,9 +95,12 @@ export const BeatA: React.FC<Props> = ({
 
   const statFontSize = adaptiveFontSize(200, displayedStat.length, STAT_MAX_WIDTH);
 
-  // Adaptive body font — long bodies shrink. 24px base, floor 20px, via char count.
+  // 2026-05-03: Ahmed feedback "tune text down by 30% and make it bigger".
+  // With body word caps cut from 80-130w to 55-90w, bodyLen now sits in
+  // ~60-100 range — so the shortest tier is the typical case. Each tier
+  // bumped ~12-15% so the shortest body breathes at 30px instead of 26.
   const bodyLen = (arabicBody ?? "").length;
-  const bodyFontSize = bodyLen > 140 ? 22 : bodyLen > 100 ? 24 : 26;
+  const bodyFontSize = bodyLen > 140 ? 26 : bodyLen > 100 ? 28 : 30;
 
   return (
     <AbsoluteFill>

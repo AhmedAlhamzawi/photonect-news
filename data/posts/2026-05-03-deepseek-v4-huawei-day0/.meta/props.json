@@ -1,0 +1,138 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "ديب سيك تضرب",
+    "arabicHeadline": "ديب سيك V4 ينطلق على شرائح هواوي بـ3.48 دولار، 9 أضعاف أرخص",
+    "englishSubhead": "DEEPSEEK | V4 | HUAWEI | $3.48",
+    "heroQueries": [
+      "DeepSeek V4 Huawei Ascend AI launch",
+      "Chinese AI chip independence Cambricon",
+      "1.6 trillion parameter open model"
+    ],
+    "heroMedia": "images/news/2026-05-03-deepseek-v4-huawei-day0/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اليوم صفر",
+      "arabicHeading": "أول نموذج صيني فرونتير يولد من دون شريحة إنفيديا واحدة",
+      "arabicBody": "في 24 أبريل، ديب سيك من هانغتشو أطلقت V4-Pro بـ1.6 تريليون باراميتر و V4-Flash بـ284 مليار، مفتوحَين المصدر، نافذة سياقية مليون توكن. الجديد ليس الحجم، بل الأرض التي يقفان عليها. هواوي أسيند، كامبريكون، هايغون ومور ثريدز أكملوا التكييف يوم الإطلاق نفسه. أي أن النموذج ركض على سيليكون صيني محلي بدون CUDA. SCMP وصف اللحظة: أول إطلاق فرونتير منفصل تماماً عن إنفيديا.",
+      "bigStat": {
+        "label": "V4-Pro parameters",
+        "value": "1.6T",
+        "arabicLabel": "حجم النموذج"
+      },
+      "supportingStats": [
+        {
+          "label": "V4-Flash",
+          "value": "284B"
+        },
+        {
+          "label": "نافذة سياق",
+          "value": "1M توكن"
+        },
+        {
+          "label": "تاريخ الإطلاق",
+          "value": "24 أبريل"
+        }
+      ],
+      "broll": "images/news/2026-05-03-deepseek-v4-huawei-day0/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "الفجوة 9x",
+      "arabicHeading": "السعر تحطم: 3.48 دولار مقابل 30 لـ GPT و25 لكلود",
+      "arabicBody": "ديب سيك سعّرت مليون توكن إخراج بـ3.48 دولار. الرقم نفسه عند OpenAI 30 دولاراً وعند أنثروبيك 25 دولاراً. الفجوة 9 أضعاف وحلال. النتيجة الفورية: في 29 أبريل، طلبات شريحة هواوي أسيند 950PR قفزت من علي بابا، تينسنت، وبايت دانس. هواوي تخطط لشحن 750 ألف وحدة في 2026. مكتب الصناعة الأمريكي يحظر الشريحة العليا من إنفيديا، وواشنطن صعّدت اتهامات سرقة الملكية الفكرية ضد المختبر الصيني.",
+      "bigStat": {
+        "label": "Cost vs GPT-5.4 per million tokens",
+        "value": "9x cut",
+        "arabicLabel": "الخفض"
+      },
+      "supportingStats": [
+        {
+          "label": "ديب سيك",
+          "value": "$3.48"
+        },
+        {
+          "label": "GPT-5.4",
+          "value": "$30"
+        },
+        {
+          "label": "شحنات هواوي",
+          "value": "750K"
+        }
+      ],
+      "broll": "images/news/2026-05-03-deepseek-v4-huawei-day0/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "الفرنتير الصيني خلف 6 أشهر، لكنه أمام في الكلفة والسيادة",
+      "arabicBody": "ديب سيك V4 يهبط بينما أنثروبيك تحبس كلود ميثوس خلف جدار 50 شركة. الستاك الصيني خلف بـ3 إلى 6 أشهر في البنشمارك، لكنه أمام في الكلفة وفي استقلال الشريحة. ما الإشارة التالية؟ صندوق حوسبة وطني صيني، تحذير إنفيديا للSEC من فجوة عائدات الصين، وإعادة تصنيف من قانون AI الأوروبي. للسوق العربي، 3.48 دولار يفتح ترجمة المحتوى وخدمة العملاء بالعربية اقتصادياً لأول مرة، وصُنّاع العراق والخليج يدخلون.",
+      "bigStat": {
+        "label": "V4-Flash output token price",
+        "value": "$3.48",
+        "arabicLabel": "السعر الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "فجوة الزمن",
+          "value": "3-6 أشهر"
+        },
+        {
+          "label": "حظر BIS",
+          "value": "GPU عليا"
+        },
+        {
+          "label": "السوق العربي",
+          "value": "يدخل"
+        }
+      ],
+      "broll": "images/news/2026-05-03-deepseek-v4-huawei-day0/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SCMP",
+      "domain": "scmp.com"
+    },
+    {
+      "name": "Tom's Hardware",
+      "domain": "tomshardware.com"
+    },
+    {
+      "name": "Fortune",
+      "domain": "fortune.com"
+    },
+    {
+      "name": "The Register",
+      "domain": "theregister.com"
+    },
+    {
+      "name": "TrendForce",
+      "domain": "trendforce.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "ديب سيك V4-Pro 1.6 تريليون باراميتر يطلق على شرائح هواوي أسيند بدون إنفيديا",
+    "السعر الصادم 3.48 دولار لمليون توكن يضرب OpenAI و Anthropic بفجوة 9 أضعاف",
+    "هواوي تخطط لشحن 750 ألف شريحة أسيند 950PR خلال عام 2026 لمواجهة الحظر",
+    "علي بابا، تينسنت، بايت دانس قدّمت طلبات شراء فورية بعد 5 أيام من الإطلاق",
+    "النموذج مفتوح المصدر يحمل نافذة سياقية مليون توكن للترجمة طويلة المدى",
+    "واشنطن ترفع اتهامات سرقة الملكية الفكرية، الملف يتحوّل إلى معركة سياسية",
+    "هل يصبح الستاك الصيني الخيار الافتراضي للمطورين العرب من السعر فقط؟"
+  ]
+}

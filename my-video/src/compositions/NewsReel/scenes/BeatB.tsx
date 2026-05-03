@@ -51,12 +51,14 @@ export const BeatB: React.FC<Props> = ({
   const bodyRevealFrame = headingEndFrame + 10;
   const pillsRevealFrame = bodyRevealFrame + 24;
 
-  // Adaptive heading font — shrinks for long headings so 2 lines still fit.
+  // 2026-05-03: Ahmed feedback "make it bigger by ~15%". With heading caps
+  // tightened to 1 short sentence and body caps cut to 55-90w, the shorter
+  // tiers will be the typical case — bumped each tier ~15-18%.
   const headingLen = arabicHeading.length;
-  const headingFontSize = headingLen > 70 ? 44 : headingLen > 50 ? 50 : 58;
+  const headingFontSize = headingLen > 70 ? 52 : headingLen > 50 ? 58 : 66;
 
   const bodyLen = (arabicBody ?? "").length;
-  const bodyFontSize = bodyLen > 130 ? 20 : bodyLen > 95 ? 22 : 24;
+  const bodyFontSize = bodyLen > 130 ? 24 : bodyLen > 95 ? 26 : 28;
 
   return (
     <AbsoluteFill>

@@ -1,0 +1,138 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "أعمق ضربة",
+    "arabicHeadline": "درونز أوكرانيا تحرق مصفاة لوك أويل في بيرم على بعد 1500 كم",
+    "englishSubhead": "SBU | 1500KM | 4.69M | -17%",
+    "heroQueries": [
+      "Permnefteorgsintez Lukoil refinery fire drone",
+      "Ukraine SBU long range drone strike",
+      "Russia oil refining throughput collapse"
+    ],
+    "heroMedia": "images/news/2026-05-03-perm-lukoil-refinery-1500km/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "1500 كم",
+      "arabicHeading": "وحدة ألفا تحرق برج التقطير الأساسي ليلة 30 أبريل",
+      "arabicBody": "ليلة 30 أبريل إلى 1 مايو، درونز من مركز ألفا التابع لجهاز الأمن الأوكراني SBU عبرت 1500 كيلومتر فوق روسيا وأشعلت مصفاة لوك أويل في بيرم. هي الضربة الأعمق المعلنة منذ بداية الحرب. وحدة AVT-4، البرج الأساسي للتقطير، اشتعلت كاملة. الأعمدة الفراغية والجوية احترقت معاً. طاقة المصفاة 13 مليون طن سنوياً، أي 260 ألف برميل يومياً. السلطات في بيرم رفعت إنذار حالة طوارئ كيميائي.",
+      "bigStat": {
+        "label": "Distance from Ukraine territory",
+        "value": "1,500 km",
+        "arabicLabel": "المسافة"
+      },
+      "supportingStats": [
+        {
+          "label": "طاقة المصفاة",
+          "value": "260K b/d"
+        },
+        {
+          "label": "السنوية",
+          "value": "13M ton"
+        },
+        {
+          "label": "تاريخ الضربة",
+          "value": "30 أبريل"
+        }
+      ],
+      "broll": "images/news/2026-05-03-perm-lukoil-refinery-1500km/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "أدنى منذ 16 سنة",
+      "arabicHeading": "تكرير روسيا يسقط إلى 4.69 مليون برميل، الأسوأ منذ 2009",
+      "arabicBody": "حسابات رويترز كشفت أن الضربات الأوكرانية أنزلت متوسط التكرير الروسي إلى 4.69 مليون برميل يومياً، الأدنى منذ ديسمبر 2009. الفقد 17 بالمئة من الطاقة، أي 1.1 مليون برميل اختفت. توابسي على البحر الأسود ضُربت للمرة الرابعة في 16 يوماً. زيلينسكي قال في 1 مايو إن خسائر روسيا من إيرادات النفط منذ بداية 2026 بلغت 7 مليار دولار. تقنين البنزين سارٍ في 4 مقاطعات روسية وروسيا ردّت بسرب 250 شاهد.",
+      "bigStat": {
+        "label": "Russian refining throughput",
+        "value": "4.69M b/d",
+        "arabicLabel": "أدنى منذ 2009"
+      },
+      "supportingStats": [
+        {
+          "label": "الفقد",
+          "value": "-17%"
+        },
+        {
+          "label": "خسائر زيلينسكي",
+          "value": "$7B"
+        },
+        {
+          "label": "تقنين بنزين",
+          "value": "4 مقاطعات"
+        }
+      ],
+      "broll": "images/news/2026-05-03-perm-lukoil-refinery-1500km/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "موسكو تأخذ حصة أوبك+ لكنها لا تستطيع تكرير ما تضخّه",
+      "arabicBody": "الفجوة فضحت موسكو علناً: في 3 مايو، أوبك+ منحت روسيا زيادة 62 ألف برميل يومياً، لكنها لا تستطيع تكرير ما تضخّه. الفارق بين تصدير الخام وتصدير المنتجات يتسع أسبوعياً. ما الذي يأتي تالياً؟ موجة درونز روسية على بيلغورود وترنوبيل، تخفيض تصنيف ائتماني للوك أويل، وتمديد حظر تصدير البنزين الروسي حتى نهاية الصيف. حلف الناتو يدرس تمويل دفعة درونز جديدة بمدى 1500 كم، الأسلحة الأرخص ضد المالية الروسية.",
+      "bigStat": {
+        "label": "OPEC+ June quota hike for Russia",
+        "value": "62K b/d",
+        "arabicLabel": "الحصة الفائضة"
+      },
+      "supportingStats": [
+        {
+          "label": "أوبك+ زيادة",
+          "value": "62K b/d"
+        },
+        {
+          "label": "حظر بنزين",
+          "value": "ممدد"
+        },
+        {
+          "label": "درونز ناتو",
+          "value": "1500 كم"
+        }
+      ],
+      "broll": "images/news/2026-05-03-perm-lukoil-refinery-1500km/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rigzone",
+      "domain": "rigzone.com"
+    },
+    {
+      "name": "Kyiv Post",
+      "domain": "kyivpost.com"
+    },
+    {
+      "name": "Kyiv Independent",
+      "domain": "kyivindependent.com"
+    },
+    {
+      "name": "The Moscow Times",
+      "domain": "themoscowtimes.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "درونز SBU تعبر 1500 كم وتحرق برج التقطير الأساسي في مصفاة لوك أويل ببيرم",
+    "تكرير النفط الروسي يسقط إلى 4.69 مليون برميل يومياً الأدنى منذ ديسمبر 2009",
+    "زيلينسكي 7 مليار دولار خسائر روسيا من إيرادات النفط منذ بداية 2026",
+    "تقنين البنزين سار في 4 مقاطعات روسية وموسكو ترد بسرب 250 شاهد دفعة واحدة",
+    "أوبك+ منحت روسيا 62 ألف برميل لكنها لا تستطيع تكرير ما تضخه فعلياً",
+    "حلف الناتو يدرس تمويل دفعة درونز أوكرانية جديدة بمدى 1500 كيلومتر إضافي",
+    "هل تكسر مالية بوتين قبل نهاية صيف 2026 وتتحول الحرب إلى ملف اقتصادي خالص؟"
+  ]
+}

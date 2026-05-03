@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 03 • 2026",
+  "arabicDateLabel": "3 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "خريطة الحكومة",
+    "arabicHeadline": "الإطار يبيع الوزارات بالنقاط: السوداني 5 والمالكي يقبض النفط",
+    "englishSubhead": "POINTS MAP • 5 SOVEREIGN • 24-DAY CLOCK • 167 VOTES",
+    "heroQueries": [
+      "Iraq parliament cabinet vote 2026",
+      "Iraqi Coordination Framework ministers",
+      "Baghdad parliament hall session",
+      "Ali al-Zaidi prime minister designate",
+      "Iraq sovereign ministries map"
+    ],
+    "heroMedia": "images/news/2026-05-03-iraq-cabinet-map-points-system/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "خريطة النقاط",
+      "arabicHeading": "الإطار يحوّل المقاعد إلى وزارات بمعادلة من 10 إلى 16 نقطة",
+      "arabicBody": "شفق نيوز فجّرت اليوم خريطة كابينة رئيس الوزراء المكلّف علي الزيدي. الإطار التنسيقي سعّر كل حقيبة بين 10 و16 نقطة بحسب وزنها السياسي والمالي. ائتلاف السوداني، بـ46 مقعداً من 329، يقتنص الحصة الكبرى: 5 وزارات بينها سيادة المالية، ونائب أول لرئيس الوزراء. دولة القانون بـ29 مقعداً تخطف النفط. صادقون بـ27 مقعداً تستلم العمل والصناعة ونائباً ثانياً.",
+      "bigStat": {
+        "value": "5 / 329",
+        "label": "Sudani ministries vs total parliament seats",
+        "arabicLabel": "حصة السوداني"
+      },
+      "supportingStats": [
+        {
+          "label": "إعمار وتنمية",
+          "value": "46 مقعداً"
+        },
+        {
+          "label": "دولة القانون",
+          "value": "29 مقعداً"
+        },
+        {
+          "label": "حصة الشيعة",
+          "value": "12 وزارة"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iraq-cabinet-map-points-system/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "السيادة الخمس",
+      "arabicHeading": "النفط للمالكي، الداخلية لبدر، الخارجية للبارزاني، والكهرباء قنبلة الصيف",
+      "arabicBody": "السيادية الخمس انقسمت: المالية للسوداني، النفط لدولة القانون، الداخلية لمنظمة بدر بقيادة هادي العامري بـ18 مقعداً، الدفاع لتحالف العزم السني بـ15 مقعداً، الخارجية للحزب الديمقراطي الكردستاني بـ26 مقعداً مع العدل. الاتحاد الوطني الكردستاني بـ15 مقعداً يأخذ الصحة والثقافة. تقدّم السني يستلم التعليم العالي. والفضيلة ترث الكهرباء، الملف الذي قد يفجّر الحكومة مع 4500 ميغاواط ناقصة.",
+      "bigStat": {
+        "value": "4,500 MW",
+        "label": "Power deficit heading into 50C summer",
+        "arabicLabel": "عجز الكهرباء"
+      },
+      "supportingStats": [
+        {
+          "label": "بدر داخلية",
+          "value": "18 مقعداً"
+        },
+        {
+          "label": "العزم دفاع",
+          "value": "15 مقعداً"
+        },
+        {
+          "label": "البارزاني خارجية",
+          "value": "26 مقعداً"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iraq-cabinet-map-points-system/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الساعة تدق",
+      "arabicHeading": "للزيدي 24 يوماً ليجمع 167 صوتاً وإلا انفجرت الخريطة كلها",
+      "arabicBody": "الزيدي أمامه 24 يوماً دستورياً لتقديم الكابينة لتصويت ثقة يحتاج 167 من 329 نائباً. فخّان في الطريق: واشنطن تضغط لتكنوقراط في النفط والمالية والدفاع والداخلية، وهذا يصطدم باحتفاظ المالكي بالنفط وبدر بالداخلية. والبارزاني يطالب علناً بأن تُصنَّف الخارجية حصة كردية سيادية. القائمة النهائية متوقعة منتصف مايو. لو انهار نظام النقاط، يدخل العراق فراغاً قيادياً ثانياً خلال 6 أشهر.",
+      "bigStat": {
+        "value": "24 days",
+        "label": "Constitutional clock left for confidence vote",
+        "arabicLabel": "الساعة الدستورية"
+      },
+      "supportingStats": [
+        {
+          "label": "نصاب الثقة",
+          "value": "167 / 329"
+        },
+        {
+          "label": "ضغط واشنطن",
+          "value": "تكنوقراط"
+        },
+        {
+          "label": "إنتاج النفط",
+          "value": "1.4 مليون ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-05-03-iraq-cabinet-map-points-system/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Washington Institute",
+      "domain": "washingtoninstitute.org"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Jerusalem Post",
+      "domain": "jpost.com"
+    },
+    {
+      "name": "Photonect Research",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "خريطة الإطار: 12 وزارة للشيعة و6 للسنة و4 للكرد على ميزان النقاط",
+    "السوداني يقتنص 5 وزارات بينها المالية ونائب أول لرئيس الحكومة",
+    "المالكي يضع يده على النفط بعد 29 مقعداً في انتخابات 2025",
+    "بدر تستلم الداخلية والعزم السني يأخذ الدفاع في توازن هش جداً",
+    "البارزاني يطالب علناً بتصنيف الخارجية كحصة كردية سيادية صريحة دائمة",
+    "الفضيلة ترث ملف الكهرباء و4500 ميغاواط ناقصة قبل صيف الـ50",
+    "هل ينجح الزيدي في جمع 167 صوتاً خلال 24 يوماً قبل الفراغ؟"
+  ]
+}
