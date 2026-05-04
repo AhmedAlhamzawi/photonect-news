@@ -14,6 +14,8 @@ import { NewsReelSchema, computeNewsReelDurationInFrames } from "./compositions/
 import { HORMUZ_WEEK2_PROPS } from "./compositions/NewsReel/props";
 import { Hekaya } from "./compositions/Hekaya/Hekaya";
 import { HekayaSchema, computeHekayaDurationInFrames } from "./compositions/Hekaya/schema";
+import { Hekaya2 } from "./compositions/Hekaya2/Hekaya2";
+import { Hekaya2Schema, HEKAYA2_TOTAL_FRAMES } from "./compositions/Hekaya2/schema";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -309,6 +311,82 @@ export const RemotionRoot: React.FC = () => {
           },
           sources: [
             { name: "Photonect", domain: "photonect.net" },
+          ],
+        }}
+      />
+      {/* HEKAYA v2 — narrated mini-doc rebuild after Ahmed (2026-05-04) said
+          v1 was "a slideshow, can't watch 2 seconds." Six-perspective committee
+          → spec at docs/superpowers/specs/2026-05-04-hekaya-v2-design.md.
+          75s, 4-layer audio (VO + music + foley + ambience), photo cycles + phrase
+          reveals, silence pivot at 0:45, loop engineering at 1:13-1:15. */}
+      <Composition
+        id="Hekaya2"
+        component={Hekaya2}
+        durationInFrames={HEKAYA2_TOTAL_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={Hekaya2Schema}
+        defaultProps={{
+          dateLabel: "MAY 04 • 2026",
+          arabicDateLabel: "4 مايو 2026",
+          handle: "@photonect.news",
+          voiceOver: "audio/hekaya-vo/_preview.mp3",
+          music: "audio/hekaya/fatima-al-fihri-qarawiyyin.mp3",
+          sfx: [],
+          title: {
+            arabic: "ورثَت ذهباً، فبَنَت مدرسة",
+            englishSubtitle: "FATIMA AL-FIHRI · 859 AD",
+            era: "859 AD",
+            place: "Fez, Morocco",
+          },
+          scriptArabic:
+            "نص تجريبي للمعاينة. سيُستبدل بسيناريو فعلي عند تمرير props.json الخاصة بكل قصة.",
+          phrases: [],
+          heroMedia: "images/hekaya/_preview/hero.jpg",
+          chapters: [
+            {
+              startFrame: 240,
+              durationFrames: 510,
+              photos: [
+                "images/hekaya/_preview/chapter_1.jpg",
+                "images/hekaya/_preview/chapter_2.jpg",
+                "images/hekaya/_preview/chapter_3.jpg",
+                "images/hekaya/_preview/chapter_1.jpg",
+              ],
+            },
+            {
+              startFrame: 750,
+              durationFrames: 600,
+              photos: [
+                "images/hekaya/_preview/chapter_2.jpg",
+                "images/hekaya/_preview/chapter_3.jpg",
+                "images/hekaya/_preview/chapter_1.jpg",
+                "images/hekaya/_preview/chapter_2.jpg",
+              ],
+            },
+            {
+              startFrame: 1380,
+              durationFrames: 570,
+              photos: [
+                "images/hekaya/_preview/chapter_3.jpg",
+                "images/hekaya/_preview/chapter_1.jpg",
+                "images/hekaya/_preview/chapter_2.jpg",
+                "images/hekaya/_preview/chapter_3.jpg",
+              ],
+            },
+          ],
+          closingMedia: "images/hekaya/_preview/hero.jpg",
+          loopHook: {
+            openingPhrase: "ورثَت ذهباً.",
+            closingPhrase: "وبَقي الذهبُ يُعَلِّم.",
+          },
+          // Schema requires min 2 sources — the studio preview defaultProps
+          // were failing Zod validation with just one and Remotion was
+          // silently dropping the composition from its registry.
+          sources: [
+            { name: "Photonect", domain: "photonect.net" },
+            { name: "Wikipedia", domain: "wikipedia.org" },
           ],
         }}
       />
