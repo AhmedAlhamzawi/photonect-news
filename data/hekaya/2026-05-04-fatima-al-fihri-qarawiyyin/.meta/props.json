@@ -1,0 +1,195 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+
+  "voiceOver": "audio/hekaya-vo/2026-05-04-fatima-al-fihri-qarawiyyin.mp3",
+  "music": "audio/hekaya/fatima-al-fihri-qarawiyyin.mp3",
+  "sfx": [],
+
+  "title": {
+    "arabic": "البابُ الذي لم يُغلق",
+    "englishSubtitle": "THE WOMAN WHO BUILT A UNIVERSITY OUT OF GRIEF",
+    "era": "859 AD",
+    "place": "Fez, Morocco"
+  },
+
+  "scriptArabic": "ورثَت ذهباً. كان يكفي لقصرٍ كبير. فاطمة الفهرية. بنتُ تاجرٍ من القيروان. هاجرَت إلى فاس. ماتَ أبوها. تركَ لها ثروة. لم تشتر بها بيتاً. نذرَت كلَّ درهمٍ لمسجدٍ تكبر فيه المدينة. اشترت أرضاً قرب سوق العطّارين. وقفَت بنفسها على البناء. حجراً، حجراً. وأختها مريم بنَت مسجداً للأندلسيّين على الضفة الأخرى. ثمانية عشر عاماً. صامَت كلَّ يومٍ منها. لم تأكل حتى يُرفعَ الأذان الأول من بوابتها. فاسٌ مدينةُ لاجئين. والمال يَنفد. ثم بدأ العلماء يتجمّعون. ظهرَت مكتبة. حلقةُ معلّمين. طلابٌ من بغداد ومن قرطبة ومن القاهرة. فقهٌ ونحوٌ وفلكٌ وطب. المسجدُ كبر. صار شيئاً آخر. جاءَ مسيحيّون. جاءَ يهود. ترجموا اليونان تحت أقواسها. درَسَ فيها ابن خلدون. مرَّ بها موسى ابن ميمون. وبابا روماني — حملَ منها الأرقامَ إلى أوروبا. فتحَت بابها يوم الجمعة. لم تكتب اسمها على البوابة. لم تطلب جدولاً. لم ترفع لوحة. أعطَت كلَّ ما ورثَت. ثم انسحبَت من الحكاية. بَقي البابُ مفتوحاً. ألفٌ ومئتا سنة. الجامعة هي الأقدم في العالم. لا ملكٌ بناها. لا مجلس. امرأةٌ رفضَت أن تحتفظ بما ورثَت. اليوم يقرأ طلابٌ تحت أقواسها. لا يعرفون اسمها. لكنّهم يتعلّمون منها. وبَقي الذهبُ يُعَلِّم.",
+
+  "phrases": [
+    {
+      "arabicText": "ورثَت ذهباً",
+      "startFrame": 8,
+      "durationFrames": 56,
+      "layoutType": "single-word",
+      "keyWord": "ذهباً"
+    },
+    {
+      "arabicText": "فاطمة الفهرية",
+      "startFrame": 70,
+      "durationFrames": 90,
+      "layoutType": "lower-third",
+      "keyWord": "فاطمة"
+    },
+    {
+      "arabicText": "ماتَ أبوها. تركَ لها ثروة",
+      "startFrame": 165,
+      "durationFrames": 75,
+      "layoutType": "lower-third"
+    },
+    {
+      "arabicText": "نذرَت كلَّ درهمٍ لمسجد",
+      "startFrame": 255,
+      "durationFrames": 110,
+      "layoutType": "lower-third",
+      "keyWord": "نذرَت"
+    },
+    {
+      "arabicText": "حجراً، حجراً",
+      "startFrame": 385,
+      "durationFrames": 60,
+      "layoutType": "single-word",
+      "keyWord": "حجراً"
+    },
+    {
+      "arabicText": "وأختها مريم بنَت مسجداً ثانياً",
+      "startFrame": 450,
+      "durationFrames": 75,
+      "layoutType": "photo-caption"
+    },
+    {
+      "arabicText": "ثمانية عشر عاماً",
+      "startFrame": 540,
+      "durationFrames": 80,
+      "layoutType": "lower-third",
+      "keyWord": "18"
+    },
+    {
+      "arabicText": "صامَت كلَّ يومٍ منها",
+      "startFrame": 625,
+      "durationFrames": 100,
+      "layoutType": "lower-third"
+    },
+    {
+      "arabicText": "ثم بدأ العلماء يتجمّعون",
+      "startFrame": 770,
+      "durationFrames": 90,
+      "layoutType": "lower-third"
+    },
+    {
+      "arabicText": "بغداد. قرطبة. القاهرة",
+      "startFrame": 875,
+      "durationFrames": 110,
+      "layoutType": "lower-third",
+      "keyWord": "قرطبة"
+    },
+    {
+      "arabicText": "المسجدُ كبر. صار شيئاً آخر",
+      "startFrame": 995,
+      "durationFrames": 50,
+      "layoutType": "lower-third"
+    },
+    {
+      "arabicText": "ابن خلدون درَسَ هنا",
+      "startFrame": 1120,
+      "durationFrames": 80,
+      "layoutType": "photo-caption",
+      "keyWord": "خلدون"
+    },
+    {
+      "arabicText": "موسى ابن ميمون مرَّ بها",
+      "startFrame": 1205,
+      "durationFrames": 75,
+      "layoutType": "photo-caption",
+      "keyWord": "ميمون"
+    },
+    {
+      "arabicText": "بابا روماني — حملَ الأرقامَ إلى أوروبا",
+      "startFrame": 1285,
+      "durationFrames": 65,
+      "layoutType": "photo-caption",
+      "keyWord": "الأرقامَ"
+    },
+    {
+      "arabicText": "لم تكتب اسمها على البوابة",
+      "startFrame": 1430,
+      "durationFrames": 130,
+      "layoutType": "full-bleed-quote",
+      "keyWord": "اسمها"
+    },
+    {
+      "arabicText": "ألفٌ ومئتا سنة",
+      "startFrame": 1700,
+      "durationFrames": 95,
+      "layoutType": "lower-third",
+      "keyWord": "1200"
+    },
+    {
+      "arabicText": "الأقدم في العالم",
+      "startFrame": 1810,
+      "durationFrames": 110,
+      "layoutType": "lower-third",
+      "keyWord": "الأقدم"
+    },
+    {
+      "arabicText": "وبَقي الذهبُ يُعَلِّم",
+      "startFrame": 2030,
+      "durationFrames": 110,
+      "layoutType": "single-word",
+      "keyWord": "الذهبُ"
+    }
+  ],
+
+  "heroMedia": "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/hero.jpg",
+
+  "chapters": [
+    {
+      "startFrame": 240,
+      "durationFrames": 510,
+      "photos": [
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c1_1.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c1_2.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c1_3.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c1_4.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c1_5.jpg"
+      ]
+    },
+    {
+      "startFrame": 750,
+      "durationFrames": 600,
+      "photos": [
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c2_1.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c2_2.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c2_3.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c2_4.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c2_5.jpg"
+      ]
+    },
+    {
+      "startFrame": 1380,
+      "durationFrames": 570,
+      "photos": [
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c3_1.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c3_2.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c3_3.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c3_4.jpg",
+        "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/c3_5.jpg"
+      ]
+    }
+  ],
+
+  "closingMedia": "images/hekaya/2026-05-04-fatima-al-fihri-qarawiyyin/closing.jpg",
+
+  "loopHook": {
+    "openingPhrase": "ورثَت ذهباً. كان يكفي لقصرٍ كبير.",
+    "closingPhrase": "وبَقي الذهبُ يُعَلِّم."
+  },
+
+  "sources": [
+    { "name": "Wikipedia — Fatima al-Fihriya", "domain": "en.wikipedia.org" },
+    { "name": "Wikipedia — University of al-Qarawiyyin", "domain": "en.wikipedia.org" },
+    { "name": "World History Encyclopedia", "domain": "worldhistory.org" },
+    { "name": "Manchester University Press Blog", "domain": "manchesteruniversitypress.co.uk" },
+    { "name": "UNESCO Recognition Records", "domain": "unesco.org" }
+  ]
+}

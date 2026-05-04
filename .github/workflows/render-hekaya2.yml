@@ -1,0 +1,159 @@
+name: Render hekaya v2
+
+# Sister workflow to render-hekaya.yml but for the v2 narrated mini-doc rebuild.
+# Reads from data/hekaya/<date>-* (same folder as v1 — but uses v2-schema props
+# with voiceOver + music + sfx + chapters + phrases). Renders Hekaya2
+# composition. Uploads to Photonect HEKAYA / <date> Drive subfolder.
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to render (YYYY-MM-DD). Blank = today (UTC).'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            ffmpeg fontconfig fonts-noto fonts-noto-cjk \
+            libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 \
+            libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 \
+            libxrandr2 libgbm1 libasound2t64 libpangocairo-1.0-0
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: my-video/package-lock.json
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install Pillow numpy google-api-python-client google-auth
+
+      - name: Install Remotion dependencies
+        working-directory: my-video
+        run: npm ci
+
+      - name: Resolve target date
+        id: date
+        env:
+          INPUT_DATE: ${{ inputs.date }}
+        run: |
+          if [ -z "$INPUT_DATE" ]; then
+            RESOLVED="$(date -u +%Y-%m-%d)"
+          else
+            RESOLVED="$INPUT_DATE"
+          fi
+          if ! [[ "$RESOLVED" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+            echo "::error::invalid date $RESOLVED"
+            exit 1
+          fi
+          echo "value=$RESOLVED" >> "$GITHUB_OUTPUT"
+
+      - name: Stage hand-picked HEKAYA media into my-video/public
+        env:
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          set -e
+          SRC="cloud-media/hekaya/$DATE_ARG"
+          DST="my-video/public/images/hekaya"
+          if [ ! -d "$SRC" ]; then
+            echo "::error::no hekaya cloud-media for $DATE_ARG (expected $SRC)"
+            exit 1
+          fi
+          mkdir -p "$DST"
+          for slug_dir in "$SRC"/*/; do
+            slug="$(basename "$slug_dir")"
+            mkdir -p "$DST/$slug"
+            cp "$slug_dir"* "$DST/$slug/"
+          done
+          ls "$DST" | grep "^$DATE_ARG" || true
+
+      - name: Verify VO + music + SFX assets present
+        env:
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          set -e
+          missing=0
+          for slug_dir in data/hekaya/$DATE_ARG-*/; do
+            [ -d "$slug_dir" ] || continue
+            for field in voiceOver music; do
+              path=$(python3 -c "import json,sys; p=json.load(open(sys.argv[1])); print(p.get('$field',''))" "$slug_dir.meta/props.json")
+              if [ -z "$path" ]; then
+                echo "  MISSING $field in $(basename $slug_dir)"; missing=$((missing+1)); continue
+              fi
+              full="my-video/public/$path"
+              if [ ! -f "$full" ]; then
+                echo "  MISSING file: $full"; missing=$((missing+1))
+              fi
+            done
+          done
+          if [ $missing -gt 0 ]; then
+            echo "::error::$missing audio asset(s) missing — generate VO + ensure music files committed"
+            exit 1
+          fi
+
+      - name: Render hekaya v2 slate
+        env:
+          MYVIDEO: ${{ github.workspace }}/my-video
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: bash generate-hekaya2.sh "$DATE_ARG"
+
+      - name: Write Drive OAuth credentials to disk
+        env:
+          DRIVE_OAUTH_JSON: ${{ secrets.DRIVE_OAUTH_JSON }}
+        run: |
+          mkdir -p automation/secrets
+          printf '%s' "$DRIVE_OAUTH_JSON" > automation/secrets/drive-creds.json
+          python3 -c "import json; json.load(open('automation/secrets/drive-creds.json'))"
+
+      - name: Upload v2 renders + captions to Google Drive
+        env:
+          DRIVE_PARENT_FOLDER_ID: ${{ secrets.DRIVE_PARENT_FOLDER_ID }}
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          python3 automation/scripts/upload-hekaya-to-drive.py \
+            --date "$DATE_ARG" \
+            --parent-id "$DRIVE_PARENT_FOLDER_ID" \
+            --credentials automation/secrets/drive-creds.json
+
+      - name: Upload QA artefacts
+        if: always()
+        env:
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          echo "artefact_path=/tmp/photonect-hekaya2-$DATE_ARG" >> "$GITHUB_ENV"
+          echo "artefact_name=qa-hekaya2-$DATE_ARG" >> "$GITHUB_ENV"
+
+      - name: Publish QA artefacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.artefact_name }}
+          path: ${{ env.artefact_path }}
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Shred Drive credentials JSON
+        if: always()
+        run: rm -f automation/secrets/drive-creds.json
