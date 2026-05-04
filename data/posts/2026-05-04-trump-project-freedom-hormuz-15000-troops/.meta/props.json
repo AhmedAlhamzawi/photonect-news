@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "هرمز ينفجر",
+    "arabicHeadline": "ترامب يرمي 15000 جندي على هرمز لانتزاع 2000 سفينة من قبضة طهران",
+    "englishSubhead": "PROJECT FREEDOM • 15K TROOPS • 2K SHIPS • HORMUZ",
+    "heroQueries": [
+      "US destroyer Strait of Hormuz 2026",
+      "Trump CENTCOM press conference",
+      "stranded oil tanker Persian Gulf",
+      "F-18 carrier deck Gulf",
+      "US Navy escort convoy"
+    ],
+    "heroMedia": "images/news/2026-05-04-trump-project-freedom-hormuz-15000-troops/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "إطلاق العملية",
+      "arabicHeading": "ترامب يكسر 65 يوماً من الإغلاق الإيراني بقرار مفاجئ من البيت الأبيض",
+      "arabicBody": "في 4 مايو، أمر ترامب القيادة المركزية بدفع 15000 جندي ومدمرات صواريخ موجهة وأكثر من 100 طائرة قتالية ومسيّرات بحرية وجوية. الهدف: إخراج 2000 سفينة و20000 بحار محتجزين منذ 28 فبراير. واشنطن سمّتها عملية إنسانية، وترامب رمى تهديداً صريحاً على طهران: أي قوة تطلق النار على سفننا ستُمحى من على وجه الأرض.",
+      "bigStat": {
+        "value": "15,000",
+        "label": "US troops deployed",
+        "arabicLabel": "جندي أمريكي"
+      },
+      "supportingStats": [
+        {
+          "label": "السفن المحتجزة",
+          "value": "2000 تقريباً"
+        },
+        {
+          "label": "البحارة العالقون",
+          "value": "20000 بحار"
+        },
+        {
+          "label": "أيام الإغلاق",
+          "value": "65 يوماً"
+        }
+      ],
+      "broll": "images/news/2026-05-04-trump-project-freedom-hormuz-15000-troops/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الاشتباك الأول",
+      "arabicHeading": "البحرية الأمريكية تُسقط 7 زوارق إيرانية ساعات بعد إطلاق العملية",
+      "arabicBody": "ردّت طهران خلال ساعات. ترامب كشف أن البحرية أسقطت 7 زوارق إيرانية بعد إطلاقها النار على سفن تجارية. الإعلام الإيراني ادّعى ضرب مدمرة أمريكية، فنفت القيادة المركزية الادعاء علناً. الإصابة الوحيدة المؤكدة: ناقلة كورية جنوبية. السوق ضرب فوراً: WTI قفز 3% إلى 105 دولاراً، وبرنت ارتفع 6% إلى 114.44 دولاراً، الأعلى منذ مايو 2022. الأرقام تكشف الذعر.",
+      "bigStat": {
+        "value": "$114.44",
+        "label": "Brent settle, May 2022 high",
+        "arabicLabel": "برميل برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "زوارق إيرانية",
+          "value": "7 أُسقطت"
+        },
+        {
+          "label": "WTI خام",
+          "value": "105 دولاراً"
+        },
+        {
+          "label": "حصة هرمز",
+          "value": "20% نفط عالمي"
+        }
+      ],
+      "broll": "images/news/2026-05-04-trump-project-freedom-hormuz-15000-troops/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الحساب الضيق",
+      "arabicHeading": "12 سفينة مرافقة مقابل 100 عبور يومي: الرياضيات لا تكذب",
+      "arabicBody": "المحللون يقولون إن الحساب قاسٍ. واشنطن تملك دزينة سفن مرافقة فقط، أمام أكثر من 100 عبور يومي قبل الحرب. المعنى الواحد: العملية ستخنق التجارة لا تفتحها. الحرس الثوري كرّر مهلة 30 يوماً لإخراج البحرية الأمريكية من موانئ الخليج. باكستان تعرض خطة 14 نقطة للوساطة، وترامب رفضها على الطاولة. الـ72 ساعة المقبلة تقرر: انفجار شامل أم تسوية على الحافة؟",
+      "bigStat": {
+        "value": "72h",
+        "label": "Highest-risk window",
+        "arabicLabel": "نافذة الخطر"
+      },
+      "supportingStats": [
+        {
+          "label": "سفن مرافقة",
+          "value": "12 فقط"
+        },
+        {
+          "label": "عبور يومي",
+          "value": "100+ سفينة"
+        },
+        {
+          "label": "مهلة الحرس",
+          "value": "30 يوماً"
+        }
+      ],
+      "broll": "images/news/2026-05-04-trump-project-freedom-hormuz-15000-troops/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "name": "Stars and Stripes",
+      "domain": "stripes.com"
+    },
+    {
+      "name": "TIME",
+      "domain": "time.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "ترامب يرمي 15000 جندي لكسر إغلاق هرمز بعد 65 يوماً من الشلل التجاري الكامل",
+    "2000 سفينة و20000 بحار محتجزون داخل الخليج منذ بدء الحرب في 28 فبراير الماضي",
+    "البحرية الأمريكية تُسقط 7 زوارق إيرانية ساعات بعد إطلاق عملية الحرية على هرمز",
+    "برنت يقفز 6% ويغلق على 114.44 دولاراً، الأعلى منذ مايو 2022 خلال يوم واحد",
+    "الحرس الثوري يجدد مهلة 30 يوماً لإخراج البحرية الأمريكية من كل موانئ الخليج",
+    "12 سفينة مرافقة فقط أمام 100 عبور يومي تعني خنق التجارة لا فتح الممر",
+    "هل تكسر واشنطن القبضة الإيرانية في 72 ساعة دون فتح جبهة حرب ثانية كاملة؟"
+  ]
+}

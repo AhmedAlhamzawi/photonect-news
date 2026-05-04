@@ -1,0 +1,143 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "بنتاغون أنثروبيك",
+    "arabicHeadline": "البنتاغون يقفل العقود السرّية على 8 شركات ويستثني أنثروبيك للمرة الأولى",
+    "englishSubhead": "PENTAGON 8 | ANTHROPIC OUT | MAY 19",
+    "heroQueries": [
+      "Pentagon AI contracts ceremony",
+      "Anthropic Claude logo headquarters",
+      "OpenAI ChatGPT data center",
+      "US Department of Defense seal",
+      "AI courtroom legal battle"
+    ],
+    "heroMedia": "images/news/2026-05-04-pentagon-anthropic-blacklist-classified-deals/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ثمانية فائزون",
+      "arabicHeading": "البنتاغون أقفل عقود الشبكة المصنّفة في 1 مايو واستثنى أنثروبيك عمداً.",
+      "arabicBody": "البنتاغون حسم اللعبة. في 1 مايو وقّع عقود الذكاء المصنّفة مع 8 شركات: أوبن إيه آي، غوغل، مايكروسوفت، أمازون، أوراكل، إنفيديا، سبيس إكس، وريفلكشن. أنثروبيك، صانعة كلود، استُبعدت تحت تصنيف رسمي لمخاطر سلسلة التوريد، أول وسم من نوعه على شركة أميركية. الخلاف على رفض أنثروبيك ترك كلود يُستخدم في أسلحة قاتلة أو مراقبة جماعية. الفائزون لم يضعوا قيوداً مماثلة.",
+      "bigStat": {
+        "label": "Classified AI vendors",
+        "value": "8",
+        "unit": "firms",
+        "arabicLabel": "ثمانية فائزون"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ التوقيع",
+          "value": "1 مايو"
+        },
+        {
+          "label": "وسم رسمي",
+          "value": "أول مرة"
+        },
+        {
+          "label": "أنثروبيك",
+          "value": "خارج"
+        }
+      ],
+      "broll": "images/news/2026-05-04-pentagon-anthropic-blacklist-classified-deals/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "معركة المحكمة",
+      "arabicHeading": "أنثروبيك تقاضي ترامب وجلسة المرافعة في 19 مايو والصفقة وُقّعت قبلها.",
+      "arabicBody": "أنثروبيك دخلت المحكمة. قاضٍ في سان فرانسيسكو علّق التصنيف بداية، لكن استئناف العاصمة رفض في 8 أبريل تجميد إجراء البنتاغون رغم اعترافه بضرر لا يُعوَّض. جلسة المرافعة في 19 مايو، لكن العقود وُقّعت في 1 مايو. بالتوازي، أعلنت أنثروبيك مشروعاً مع بلاك ستون وغولدمان وهيلمان لبناء إيرادات مستقلة عن البنتاغون. الشركة تجمع 50 مليار دولار بتقييم 900 مليار.",
+      "bigStat": {
+        "label": "Anthropic valuation",
+        "value": "900",
+        "unit": "B USD",
+        "arabicLabel": "تقييم أنثروبيك"
+      },
+      "supportingStats": [
+        {
+          "label": "جولة الجمع",
+          "value": "50 مليار"
+        },
+        {
+          "label": "المرافعة",
+          "value": "19 مايو"
+        },
+        {
+          "label": "ضرر",
+          "value": "لا يُعوَّض"
+        }
+      ],
+      "broll": "images/news/2026-05-04-pentagon-anthropic-blacklist-classified-deals/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "أوبن إيه آي تتربّع على عرش الدفاع وغوغل تقف على ضفّتَي الانقسام.",
+      "arabicBody": "الخريطة تغيّرت. أوبن إيه آي، التي جمعت 122 مليار دولار بتقييم 852 ملياراً، باتت المورّد المهيمن للنماذج اللغوية للبنتاغون. غوغل التزمت في الوقت ذاته بحتى 40 مليار دولار نقداً وحوسبة لأنثروبيك، فوجدت نفسها على ضفّتَي الانقسام. حكم 19 مايو يقرّر إن انتزعت أنثروبيك أي عقد عسكري قبل أن يُقفل التحالف الثماني الأبواب. للحكومات العربية، الرسالة أن ضوابط السلامة الأميركية متنازَع عليها قانونياً.",
+      "bigStat": {
+        "label": "OpenAI valuation",
+        "value": "852",
+        "unit": "B USD",
+        "arabicLabel": "تقييم أوبن"
+      },
+      "supportingStats": [
+        {
+          "label": "أوبن جمعت",
+          "value": "122 مليار"
+        },
+        {
+          "label": "غوغل لأنثروبيك",
+          "value": "40 مليار"
+        },
+        {
+          "label": "حكم",
+          "value": "19 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-04-pentagon-anthropic-blacklist-classified-deals/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "gHacks",
+      "domain": "ghacks.net"
+    },
+    {
+      "name": "Defense News",
+      "domain": "defensenews.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "The Hill",
+      "domain": "thehill.com"
+    },
+    {
+      "name": "Photonect Tech Desk",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "البنتاغون يختار 8 شركات ذكاء اصطناعي ويستثني أنثروبيك من الشبكة المصنّفة",
+    "الفائزون: أوبن إيه آي وغوغل ومايكروسوفت وأمازون وأوراكل وإنفيديا وسبيس إكس وريفلكشن",
+    "أنثروبيك تُقاضي إدارة ترامب وجلسة المرافعة في 19 مايو القادم",
+    "تصنيف رسمي لمخاطر سلسلة التوريد طُبّق لأول مرة على شركة أميركية",
+    "أنثروبيك تجمع 50 مليار دولار بتقييم 900 مليار وتطلق مشروعاً مع بلاك ستون",
+    "أوبن إيه آي بتقييم 852 ملياراً تتربّع على عرش الذكاء العسكري الأميركي",
+    "هل تنتزع أنثروبيك أي عقد قبل أن يُقفل التحالف الثماني الأبواب؟"
+  ]
+}

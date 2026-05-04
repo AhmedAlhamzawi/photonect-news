@@ -1,0 +1,143 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "صدمة برنت",
+    "arabicHeadline": "درون أحرق الفجيرة فقفز برنت إلى 114 دولاراً، أعلى تسوية منذ 2022",
+    "englishSubhead": "BRENT 114 | +5.9% | 4Y HIGH",
+    "heroQueries": [
+      "Brent crude oil price chart 2026",
+      "Fujairah oil terminal fire",
+      "ICE Brent futures trading floor",
+      "oil price spike news ticker",
+      "Strait of Hormuz tankers"
+    ],
+    "heroMedia": "images/news/2026-05-04-brent-114-fujairah-shock-2022-high/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "برنت 114",
+      "arabicHeading": "البرميل أغلق على 114.44 دولاراً وذروة الجلسة لامست 117 قبل تهدئة ترامب.",
+      "arabicBody": "السوق فتح على نار. درون إيراني أحرق الفجيرة، ثالث أكبر مرفأ تزوّد بالعالم، فقفز برنت 6% وأغلق على 114.44 دولاراً، أعلى تسوية منذ مايو 2022. غرب تكساس صعد فوق 4% إلى 106.42 دولاراً. الذروة لامست 117 قبل أن يخفّض إعلان ترامب لعملية الحرية حدّة الذعر. هرمز مغلق منذ 65 يوماً، وألفا سفينة محبوسة بالداخل.",
+      "bigStat": {
+        "label": "Brent settlement May 4",
+        "value": "114.44",
+        "unit": "USD/bbl",
+        "arabicLabel": "إغلاق برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "تغيّر اليوم",
+          "value": "+5.9%"
+        },
+        {
+          "label": "ذروة الجلسة",
+          "value": "117 دولاراً"
+        },
+        {
+          "label": "تكساس",
+          "value": "106.42"
+        }
+      ],
+      "broll": "images/news/2026-05-04-brent-114-fujairah-shock-2022-high/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "فاتورة أوروبا",
+      "arabicHeading": "أوروبا دفعت 24 مليار يورو إضافية والدعم الحكومي قارب 10.5 مليار يورو.",
+      "arabicBody": "الفاتورة الأوروبية تنفجر. الاتحاد استورد وقوداً أحفورياً بزيادة 24 مليار يورو منذ بداية الحرب، النفط ارتفع 60% والغاز 70% فوق متوسطات ما قبل الحرب. الحكومات ضخّت 10.46 مليار يورو دعماً للمستهلك، وتحمّلت إسبانيا وألمانيا الجزء الأكبر. السعودية هبطت من 10.1 مليون برميل إلى 7.76، والعراق سقط من 3.3 مليون إلى 900 ألف. الفاقد قارب 5 ملايين برميل.",
+      "bigStat": {
+        "label": "EU extra fossil bill",
+        "value": "24",
+        "unit": "B EUR",
+        "arabicLabel": "فاتورة أوروبا"
+      },
+      "supportingStats": [
+        {
+          "label": "دعم حكومي",
+          "value": "10.46 مليار"
+        },
+        {
+          "label": "السعودية",
+          "value": "7.76 مليون"
+        },
+        {
+          "label": "البصرة",
+          "value": "0.9 مليون"
+        }
+      ],
+      "broll": "images/news/2026-05-04-brent-114-fujairah-shock-2022-high/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "غولدمان وجيه بي يستهدفان 130 إلى 140 دولاراً إن بقيت الفجيرة معطّلة.",
+      "arabicBody": "المحللون انقسموا. نماذج غولدمان ساكس وجيه بي مورغان ترى البرميل بين 130 و140 دولاراً إذا بقيت الفجيرة معطّلة فوق 7 أيام، بينما ممرّ ترامب الناجح قد يعيد السعر نحو 95 خلال أسبوعين. الوكالة الدولية لم تطلق المخزون، لكنها لمّحت للتنسيق إن كسر برنت 120. قناة السويس، التي حصدت 449 مليون دولار من يناير، باتت الشريان البديل الوحيد القائم.",
+      "bigStat": {
+        "label": "Bull case target",
+        "value": "130-140",
+        "unit": "USD/bbl",
+        "arabicLabel": "هدف صعودي"
+      },
+      "supportingStats": [
+        {
+          "label": "هدف هابط",
+          "value": "95 دولاراً"
+        },
+        {
+          "label": "خط أحمر",
+          "value": "120 دولاراً"
+        },
+        {
+          "label": "إيرادات السويس",
+          "value": "449 مليون"
+        }
+      ],
+      "broll": "images/news/2026-05-04-brent-114-fujairah-shock-2022-high/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Oilprice",
+      "domain": "oilprice.com"
+    },
+    {
+      "name": "Anadolu",
+      "domain": "aa.com.tr"
+    },
+    {
+      "name": "Photonect Markets Desk",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يغلق على 114.44 دولاراً وأعلى تسوية منذ مايو 2022",
+    "غرب تكساس صعد فوق 4% إلى 106.42 دولاراً والسوق فتح على ذعر",
+    "درون إيراني أحرق الفجيرة ثالث أكبر مرفأ تزوّد في العالم",
+    "أوروبا دفعت 24 مليار يورو إضافية للطاقة منذ بداية الحرب",
+    "السعودية هبطت من 10.1 مليون إلى 7.76 مليون برميل في شهر",
+    "غولدمان وجيه بي مورغان يريان 130 إلى 140 دولاراً للبرميل قريباً",
+    "هل تكسر الأسعار 120 دولاراً وتجبر الوكالة الدولية على فتح المخزون؟"
+  ]
+}

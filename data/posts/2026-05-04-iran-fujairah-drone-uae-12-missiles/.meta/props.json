@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "الفجيرة تشتعل",
+    "arabicHeadline": "طهران ترمي 19 صاروخاً ومسيّرة على الإمارات والفجيرة تحترق فجراً",
+    "englishSubhead": "FUJAIRAH HIT • 12 BM • 4 DRONES • IRON DOME",
+    "heroQueries": [
+      "Fujairah oil terminal fire 2026",
+      "UAE missile interception night",
+      "Iron Dome battery Abu Dhabi",
+      "ADNOC tanker drone strike",
+      "Strait of Hormuz missile salvo"
+    ],
+    "heroMedia": "images/news/2026-05-04-iran-fujairah-drone-uae-12-missiles/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "وابل الفجر",
+      "arabicHeading": "أكبر وابل على الإمارات: 12 باليستي و3 كروز و4 مسيّرات في فجر واحد",
+      "arabicBody": "وزارة الدفاع الإماراتية أعلنت في 4 مايو أن إيران رمت 12 صاروخاً باليستياً و3 كروز و4 مسيّرات في وابل واحد عند الفجر، الأكبر منذ بدء الحرب. اعتُرضت 3 صواريخ فوق المياه الإماراتية وسقط رابع. مسيّرة إيرانية اخترقت الدفاعات وأشعلت حريقاً ضخماً في منطقة الفجيرة النفطية، ثالث أكبر مركز تموين بحري في الخليج. 3 عمال هنود أُصيبوا، وناقلة أدنوك «البركة» الفارغة ضُربت قرب عُمان.",
+      "bigStat": {
+        "value": "12+3+4",
+        "label": "Ballistic, cruise, drones",
+        "arabicLabel": "وابل واحد"
+      },
+      "supportingStats": [
+        {
+          "label": "اعتراض ناجح",
+          "value": "3 صواريخ"
+        },
+        {
+          "label": "إصابات",
+          "value": "3 عمال"
+        },
+        {
+          "label": "ناقلة أدنوك",
+          "value": "البركة"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iran-fujairah-drone-uae-12-missiles/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "القبة الحديدية",
+      "arabicHeading": "القبة الإسرائيلية فوق أبوظبي تعترض ولأول مرة خارج إسرائيل تاريخياً",
+      "arabicBody": "بطارية القبة الحديدية المنشورة في أبوظبي منذ فبراير، أول استخدام أجنبي للنظام، اعترضت صاروخاً واحداً على الأقل. الأرقام التراكمية منذ 28 فبراير ثقيلة: 549 باليستياً و29 كروز و2260 مسيّرة سقطت على الإمارات وحدها. قيمة الفجيرة الاستراتيجية ليست النفط بل خط أبوظبي للخام: 1.5 مليون برميل يومياً يلتفّ حول هرمز. ضرب هذا الخط = ضرب الخطة البديلة الوحيدة للإمارات.",
+      "bigStat": {
+        "value": "549+29+2,260",
+        "label": "Iranian projectiles since Feb 28",
+        "arabicLabel": "إجمالي الوابل"
+      },
+      "supportingStats": [
+        {
+          "label": "خط أبوظبي",
+          "value": "1.5 مليون برميل"
+        },
+        {
+          "label": "بداية الحرب",
+          "value": "28 فبراير"
+        },
+        {
+          "label": "نشر القبة",
+          "value": "فبراير 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iran-fujairah-drone-uae-12-missiles/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "إشارة مزدوجة",
+      "arabicHeading": "طهران تنفي الاستهداف وتهدد المصالح الإماراتية في الجملة نفسها",
+      "arabicBody": "مصدر إيراني رفيع نفى وجود خطة لاستهداف الإمارات، لكن حذّر: أي تصرف غير حكيم يعني ضرب كل المصالح الإماراتية. الرسالة وصلت بعد 4 أسابيع من وقف نار باكستاني كان يُفترض أن يحمي الخليج. عبدالله بن زايد وأيمن الصفدي ينسّقان رداً عربياً عاجلاً. برنت 114 دولاراً وعلاوة 30 دولاراً على تأمين الخليج: السوق يتوقع رداً، لا امتصاصاً. خط الفجيرة يقرر مصير صادرات الإمارات في 14 يوماً.",
+      "bigStat": {
+        "value": "14d",
+        "label": "Pipeline survival window",
+        "arabicLabel": "نافذة الخط"
+      },
+      "supportingStats": [
+        {
+          "label": "علاوة التأمين",
+          "value": "30 دولاراً"
+        },
+        {
+          "label": "وقف النار",
+          "value": "4 أسابيع"
+        },
+        {
+          "label": "تنسيق عربي",
+          "value": "بن زايد والصفدي"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iran-fujairah-drone-uae-12-missiles/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Khaleej Times",
+      "domain": "khaleejtimes.com"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Washington Times",
+      "domain": "washingtontimes.com"
+    },
+    {
+      "name": "US News",
+      "domain": "usnews.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "وابل إيراني فجر 4 مايو: 12 باليستي و3 كروز و4 مسيّرات على الإمارات في ساعة واحدة",
+    "حريق ضخم في منطقة الفجيرة النفطية بعد اختراق مسيّرة إيرانية للدفاعات الإماراتية الليلة",
+    "القبة الحديدية الإسرائيلية في أبوظبي تعترض صاروخاً ولأول مرة خارج حدود إسرائيل تاريخياً",
+    "إجمالي الوابل منذ 28 فبراير: 549 باليستي و29 كروز و2260 مسيّرة على الإمارات وحدها",
+    "خط أبوظبي للخام بطاقة 1.5 مليون برميل يومياً هو الخطة البديلة الوحيدة عن مضيق هرمز",
+    "طهران تنفي الاستهداف لكن تهدد بضرب كل المصالح الإماراتية في حال أي تحرك مضاد",
+    "هل تصمد صادرات الإمارات الـ14 يوماً المقبلة أم يُغلق الطريق البديل عن هرمز نهائياً؟"
+  ]
+}

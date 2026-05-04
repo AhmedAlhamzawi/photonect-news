@@ -1,0 +1,143 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "europe",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "موسكو تُضرَب",
+    "arabicHeadline": "درون أوكراني يفجّر برج موسفيلم على بُعد 7 كم من الكرملين",
+    "englishSubhead": "MOSCOW HIT | 7 KM | MAY 9 CLOCK",
+    "heroQueries": [
+      "Mosfilm Tower Moscow skyline",
+      "Ukrainian drone strike Moscow",
+      "Kremlin Red Square aerial",
+      "Russian air defense Pantsir",
+      "Victory Day parade rehearsal"
+    ],
+    "heroMedia": "images/news/2026-05-04-ukraine-mosfilm-tower-drone-moscow-victory-day/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ضربة موسكو",
+      "arabicHeading": "الدرون فجّر الطوابق العليا لبرج موسفيلم على بُعد 7 كم من الكرملين.",
+      "arabicBody": "ليلة 4 مايو لم تكن عادية. درون أوكراني فجّر الطوابق العليا لبرج موسفيلم، مجمّع سكني فاخر في غرب موسكو. صور تحقّقت منها وكالات مستقلة أظهرت أضراراً هيكلية وحطاماً متناثراً. البرج يبعد 7 كيلومترات عن الكرملين والساحة الحمراء، و3 كيلومترات فقط عن وزارة الدفاع الروسية. الدفاعات أسقطت درونَين إضافيَّين. سوبيانين عمدة موسكو أكّد الإصابة دون قتلى. كييف لم تتبنَّ.",
+      "bigStat": {
+        "label": "Distance to Kremlin",
+        "value": "7",
+        "unit": "km",
+        "arabicLabel": "من الكرملين"
+      },
+      "supportingStats": [
+        {
+          "label": "وزارة الدفاع",
+          "value": "3 كم"
+        },
+        {
+          "label": "أُسقطت",
+          "value": "2 درون"
+        },
+        {
+          "label": "قتلى",
+          "value": "صفر"
+        }
+      ],
+      "broll": "images/news/2026-05-04-ukraine-mosfilm-tower-drone-moscow-victory-day/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "ضغط 9 مايو",
+      "arabicHeading": "ضربة قبل 5 أيام من العرض وكييف تصل إلى 1750 كم داخل روسيا.",
+      "arabicBody": "التوقيت هو الرسالة. الضربة جاءت قبل 5 أيام من عرض النصر في 9 مايو، أهم يوم رمزي في التقويم الروسي. أوكرانيا وسّعت غلاف ضرباتها العميقة ليبلغ 1750 كيلومتراً. الحملة على البنية النفطية أنزلت طاقة التكرير الوطنية إلى 4.69 مليون برميل، أدنى مستوى منذ ديسمبر 2009. مصفاة توابسي ضُربت 4 مرات في أسبوعَين. بيرم سجّلت إنذاراً كيميائياً في 30 أبريل. موسكو بقيت بلا ضرر مرئي قبل اليوم.",
+      "bigStat": {
+        "label": "Russia refining low",
+        "value": "4.69",
+        "unit": "M bpd",
+        "arabicLabel": "تكرير 16 سنة"
+      },
+      "supportingStats": [
+        {
+          "label": "غلاف الضربات",
+          "value": "1750 كم"
+        },
+        {
+          "label": "توابسي",
+          "value": "4 مرات"
+        },
+        {
+          "label": "9 مايو",
+          "value": "بعد 5 أيام"
+        }
+      ],
+      "broll": "images/news/2026-05-04-ukraine-mosfilm-tower-drone-moscow-victory-day/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "روسيا تحشد بانتسير وإس 400 وضيوف بكين ودلهي أمام معادلة جديدة.",
+      "arabicBody": "روسيا ستحشد بانتسير وإس 400 إضافيتَين حول موسكو خلال 4 أيام، لكن الضرر الرمزي وقع. الوفود الأجنبية القادمة للعرض، الصينية والهندية والبيلاروسية، توازن بين السلامة الشخصية والمنظر العام. كييف لمّحت إلى تصعيد إضافي إن تأخّرت مساعدات الدفاع الجوي في واشنطن المنشغلة بإيران. للعراقي والخليجي، الرسالة أن دائرة التصعيد تجاوزت الشرق الأوسط، وأن سوق الخام الروسي المضغوط بإغلاق هرمز يفقد طاقة تكرير اليوم.",
+      "bigStat": {
+        "label": "Days to Victory Day",
+        "value": "5",
+        "unit": "days",
+        "arabicLabel": "حتى العرض"
+      },
+      "supportingStats": [
+        {
+          "label": "تحصين",
+          "value": "4 أيام"
+        },
+        {
+          "label": "ضيوف",
+          "value": "بكين دلهي"
+        },
+        {
+          "label": "هرمز",
+          "value": "65 يوماً"
+        }
+      ],
+      "broll": "images/news/2026-05-04-ukraine-mosfilm-tower-drone-moscow-victory-day/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#5B8FF9"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyiv Independent",
+      "domain": "kyivindependent.com"
+    },
+    {
+      "name": "Moscow Times",
+      "domain": "themoscowtimes.com"
+    },
+    {
+      "name": "19FortyFive",
+      "domain": "19fortyfive.com"
+    },
+    {
+      "name": "Odessa Journal",
+      "domain": "odessa-journal.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Photonect Eurasia Desk",
+      "domain": "photonect.net"
+    }
+  ],
+  "arabicTicker": [
+    "درون أوكراني يفجّر الطوابق العليا لبرج موسفيلم على بُعد 7 كم من الكرملين",
+    "الضربة على بُعد 3 كيلومترات فقط من وزارة الدفاع الروسية",
+    "الدفاعات الجوية أسقطت درونَين إضافيَّين قرب المدينة دون قتلى مدنيين",
+    "أوكرانيا وسّعت غلاف ضرباتها ليصل إلى 1750 كيلومتراً عمقاً داخل روسيا",
+    "طاقة التكرير الروسية انخفضت إلى 4.69 مليون برميل أدنى مستوى منذ 2009",
+    "موسكو ستحشد بطاريات بانتسير وإس 400 إضافية قبل عرض النصر بأيام",
+    "هل يجبر الضرر الرمزي ضيوف بكين ودلهي على إعادة حساب الحضور؟"
+  ]
+}

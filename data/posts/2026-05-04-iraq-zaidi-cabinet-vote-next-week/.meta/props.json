@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 04 • 2026",
+  "arabicDateLabel": "4 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "كابينة الزيدي",
+    "arabicHeadline": "الزيدي يدخل عدّ تنازلي 23 يوماً والبرلمان يفتح صندوق التصويت",
+    "englishSubhead": "ZAIDI CABINET • 23 SEATS • 167 VOTES • 23 DAYS",
+    "heroQueries": [
+      "Iraq parliament Baghdad 2026",
+      "Halbousi speaker session",
+      "Ali al-Zaidi prime minister",
+      "Council of Representatives Iraq",
+      "Baghdad Green Zone parliament"
+    ],
+    "heroMedia": "images/news/2026-05-04-iraq-zaidi-cabinet-vote-next-week/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "موعد التصويت",
+      "arabicHeading": "الحلبوسي يفتح جلسة 4 مايو ويرمي قائمة الزيدي على الطاولة",
+      "arabicBody": "هيبت الحلبوسي افتتح جلسة 4 مايو وأعلن: قائمة الزيدي تُعرض للتصويت الأسبوع المقبل، والبرنامج الحكومي مطلوب نهاية هذا الأسبوع. الثقة تحتاج 167 صوتاً من 329 نائباً. الزيدي كُلّف في 27 أبريل من الرئيس نزار العامدي، بعد أن استقر الإطار التنسيقي على رجل الأعمال بدل المالكي الذي رفضته إدارة ترامب. 23 يوماً فقط بقيت من المهلة الدستورية البالغة 30 يوماً.",
+      "bigStat": {
+        "value": "167",
+        "label": "Votes needed of 329 MPs",
+        "arabicLabel": "صوت ثقة"
+      },
+      "supportingStats": [
+        {
+          "label": "أيام متبقية",
+          "value": "23 يوماً"
+        },
+        {
+          "label": "وزارات الكابينة",
+          "value": "23 حقيبة"
+        },
+        {
+          "label": "تكليف الزيدي",
+          "value": "27 أبريل"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iraq-zaidi-cabinet-vote-next-week/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "خريطة النقاط",
+      "arabicHeading": "12 شيعية و6 سنية و4 كردية و1 للأقليات: الخريطة المسرّبة تكشف الكل",
+      "arabicBody": "تسريب شفق نيوز يكشف التوزيع: الشيعة 12 وزارة، السنة 6، الكرد 4، الأقليات 1. ائتلاف السوداني للإعمار ينتزع 5 وزارات بينها المالية ونائباً للرئيس. دولة القانون تخطف النفط، وصادقون الخزعلي يمسكون العمل والصناعة ونائباً ثانياً. الديمقراطي الكردستاني يأخذ الخارجية والعدل. واشنطن تضغط لتقنوقراط في النفط والمالية والدفاع والداخلية، فاصطدمت مباشرة مع توزيع الإطار.",
+      "bigStat": {
+        "value": "12-6-4-1",
+        "label": "Shia–Sunni–Kurd–minority split",
+        "arabicLabel": "توزيع المقاعد"
+      },
+      "supportingStats": [
+        {
+          "label": "إعمار السوداني",
+          "value": "5 وزارات"
+        },
+        {
+          "label": "دولة القانون",
+          "value": "وزارة النفط"
+        },
+        {
+          "label": "الكردستاني",
+          "value": "خارجية وعدل"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iraq-zaidi-cabinet-vote-next-week/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "ساعة الدينار",
+      "arabicHeading": "الدينار يسقط إلى 1542 في الشارع رغم تثبيت البنك المركزي عند 1320",
+      "arabicBody": "مسوّدتان تتصارعان داخل الإطار التنسيقي، وتكشفان هشاشة نظام النقاط من الداخل. ائتلاف الإعمار اعترض علناً على وزارة التربية. البنك المركزي يثبّت رسمياً عند 1320، لكن سعر السوق قفز إلى 1542 في 1 مايو خشية عقوبات أمريكية. إنتاج البصرة هبط إلى 900 ألف برميل من 3.3 مليون قبل الحرب. 7 أيام تحدد المصير: حكومة منتصف مايو، أم فراغ ثانٍ خلال 6 أشهر؟",
+      "bigStat": {
+        "value": "1,542",
+        "label": "Street dinar rate, May 1",
+        "arabicLabel": "دينار في السوق"
+      },
+      "supportingStats": [
+        {
+          "label": "إنتاج البصرة",
+          "value": "900 ألف برميل"
+        },
+        {
+          "label": "ما قبل الحرب",
+          "value": "3.3 مليون"
+        },
+        {
+          "label": "نافذة الحسم",
+          "value": "7 أيام"
+        }
+      ],
+      "broll": "images/news/2026-05-04-iraq-zaidi-cabinet-vote-next-week/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua",
+      "domain": "english.news.cn"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Kurdistan 24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Al-Monitor",
+      "domain": "al-monitor.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    }
+  ],
+  "arabicTicker": [
+    "البرلمان يحدد جلسة الثقة الأسبوع المقبل والزيدي مطالب بـ23 وزارة وبرنامج حكومي كامل",
+    "الثقة تتطلب 167 صوتاً من 329 نائباً والإطار التنسيقي على مسوّدتين متنافستين الآن",
+    "12 وزارة شيعية و6 سنية و4 كردية و1 للأقليات حسب تسريب شفق نيوز اليوم",
+    "ائتلاف الإعمار ينتزع 5 وزارات، دولة القانون تخطف النفط، صادقون يمسكون العمل والصناعة",
+    "واشنطن تضغط لتقنوقراط في المالية والنفط والدفاع والداخلية وترفض هيمنة طهرانية كاملة",
+    "الدينار يسقط في الشارع إلى 1542 رغم تثبيت البنك المركزي رسمياً عند 1320",
+    "هل ينتزع الزيدي الثقة في 23 يوماً أم ينزلق العراق لفراغ ثانٍ خلال 6 أشهر؟"
+  ]
+}

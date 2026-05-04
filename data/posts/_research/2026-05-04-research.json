@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "trump-project-freedom-hormuz-15000-troops",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Trump launches Project Freedom with 15,000 troops to escort 2,000 stranded Hormuz ships",
+    "protagonist": "Donald Trump (US Central Command)",
+    "verb": "launched",
+    "anchor_number": "15,000 troops",
+    "beat1": {
+      "label_seed": "Project Freedom",
+      "fact": "On May 4 the United States began Project Freedom, an operation to guide commercial vessels out of the Strait of Hormuz after Iran's de-facto closure stranded shipping for 65 days. President Trump ordered Central Command to deploy guided-missile destroyers, more than 100 land and sea-based combat aircraft, multiple sea and air drones and about 15,000 service members. CENTCOM described the mission as a humanitarian gesture to free roughly 2,000 vessels and up to 20,000 seafarers locked inside the Gulf since the February 28 war began. Trump warned Iran that any forces firing at US ships would be blown off the face of the Earth."
+    },
+    "beat2": {
+      "label_seed": "First clash",
+      "fact": "Within hours Iran responded. Trump said the US Navy shot down 7 small Iranian boats after Tehran's forces fired at several commercial ships in the strait. Iranian state media falsely claimed an American warship had been struck by missiles, a claim US Central Command publicly denied. Only one confirmed hit was registered against a South Korean tanker, with no American casualties. WTI crude jumped about 3% to 105 dollars a barrel and Brent surged near 6% to settle at 114.44 dollars, the highest level since May 2022. The Strait carries roughly 20% of the world's oil and a fifth of global LNG."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Naval analysts warned the math is tight. The US has only about a dozen warships capable of escort duty against pre-war Hormuz traffic of more than 100 daily transits, so the operation will throttle commercial flow rather than fully restore it. Iran's Revolutionary Guard reiterated a 30-day ultimatum on US Gulf port presence, while Pakistan continued shuttle diplomacy on a 14-point peace plan Trump has so far rejected. Project Freedom now becomes the visible test of whether Washington can break Iran's chokehold without triggering a second war front, with the next 72 hours seen as the highest-risk window."
+    },
+    "sources": ["aljazeera.com", "cnbc.com", "washingtonpost.com", "stripes.com", "time.com"],
+    "supporting_stats": [
+      {"label": "US troops assigned to Project Freedom", "value": "about 15,000"},
+      {"label": "Commercial vessels stranded in the Gulf", "value": "roughly 2,000"}
+    ]
+  },
+  {
+    "slug": "iraq-zaidi-cabinet-vote-next-week",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq parliament sets Zaidi cabinet vote for next week, 23 ministries staked",
+    "protagonist": "Haibet al-Halbousi (parliament speaker)",
+    "verb": "scheduled",
+    "anchor_number": "23 ministries",
+    "beat1": {
+      "label_seed": "Vote scheduled",
+      "fact": "Parliament Speaker Haibet al-Halbousi opened the May 4 session by announcing that prime minister-designate Ali al-Zaidi's full cabinet list will be presented to the Council of Representatives for a confidence vote next week. Halbousi said parliament expects to receive Zaidi's government program by the end of this week. Confidence requires 167 of 329 MPs. Zaidi was named on April 27 by President Nizar Amedi after the Coordination Framework finally settled on the businessman over former premier Nuri al-Maliki, whom the Trump administration vetoed. Zaidi has only 23 of his original 30 constitutional days remaining to deliver."
+    },
+    "beat2": {
+      "label_seed": "Points map",
+      "fact": "The points-based ministry distribution leaked to Shafaq News holds: 12 ministries for Shia blocs, 6 for Sunnis, 4 for Kurds and 1 for minorities, totaling 23 cabinet portfolios. Sudani's Reconstruction and Development Coalition gets 5 ministries including Finance plus 1 deputy PM. Maliki's State of Law receives Oil. Khazali's Sadiqoun takes Labor and Industry plus a second deputy PM. The KDP gets Foreign Affairs and Justice. Washington is privately pressing for technocrats in Oil, Finance, Defense and Interior, putting the Maliki-Oil and Badr-Interior allocations on collision course with US approval that the Zaidi government urgently needs."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Two cabinet drafts now circulate inside the Coordination Framework, signaling the points system is fragile. The Reconstruction Coalition has already publicly disputed the Education portfolio. Iraq's central bank holds the dollar at 1,320 per dinar officially, but Baghdad street rates climbed to 1,542 on May 1 on fears of US sanctions if pro-Tehran faces dominate sovereign ministries. The next 7 days decide whether Iraq seats a cabinet by mid-May or slides into its second leadership void in 6 months while Basra crude output still sits near 900,000 barrels per day, down from 3.3 million before the war."
+    },
+    "sources": ["english.news.cn", "shafaq.com", "aljazeera.com", "kurdistan24.net", "al-monitor.com"],
+    "supporting_stats": [
+      {"label": "Days left on Zaidi's constitutional clock", "value": "23 days"},
+      {"label": "Confidence vote threshold in parliament", "value": "167 of 329 MPs"}
+    ]
+  },
+  {
+    "slug": "iran-fujairah-drone-uae-12-missiles",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "Iran fires 12 ballistic missiles plus drones at UAE; Fujairah oil zone burns",
+    "protagonist": "UAE Defense Ministry",
+    "verb": "intercepted",
+    "anchor_number": "12 ballistic missiles",
+    "beat1": {
+      "label_seed": "Salvo on Fujairah",
+      "fact": "The UAE Defense Ministry reported on May 4 that Iran fired 12 ballistic missiles, 3 cruise missiles and 4 drones in a single dawn salvo, the largest barrage on Emirati territory since the regional war began. Three missiles were intercepted over UAE waters and a fourth crashed into the sea. An Iranian drone breached defenses and ignited a major fire at the Fujairah Oil Industry Zone, the Gulf's third-largest bunkering hub. Three Indian workers were moderately injured and hospitalized. Two more drones struck the empty ADNOC tanker Barakah off Oman's coast as it tried to transit Hormuz, with no crew casualties reported."
+    },
+    "beat2": {
+      "label_seed": "Iron Dome saves",
+      "fact": "An Israeli Iron Dome battery, deployed to Abu Dhabi in February in the first foreign use of the system, intercepted at least one Iranian missile during the salvo. Cumulative figures since the war began on February 28 are stark: Iran has fired 549 ballistic missiles, 29 cruise missiles and 2,260 drones at the UAE, the country most heavily targeted in the conflict. Fujairah's strategic value is the Abu Dhabi Crude Oil Pipeline, which feeds 1.5 million barrels per day from inland fields to the Gulf of Oman, bypassing Hormuz entirely. The strike on this bypass line is a direct attack on the UAE's only export plan B."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "An unnamed senior Iranian source publicly claimed Iran had no plans to target the UAE, while warning that any unwise UAE actions would mean targeting all Emirati interests. The mixed signal arrived 4 weeks after a Pakistan-mediated ceasefire was supposed to insulate the Gulf states. UAE Foreign Minister Abdullah bin Zayed and Jordan's Aiman al-Safadi are now coordinating an emergency Arab response. Brent at 114 dollars and a 30 dollar premium baked into Gulf insurance suggest markets believe the salvo will be answered, not absorbed. The Fujairah pipeline status will dictate whether UAE crude exports survive the next 14 days."
+    },
+    "sources": ["aljazeera.com", "khaleejtimes.com", "timesofisrael.com", "washingtontimes.com", "usnews.com"],
+    "supporting_stats": [
+      {"label": "Iranian projectiles since Feb 28 war start", "value": "549 BM + 29 CM + 2260 drones"},
+      {"label": "Abu Dhabi Crude Oil Pipeline capacity", "value": "1.5 million bpd"}
+    ]
+  },
+  {
+    "slug": "brent-114-fujairah-shock-2022-high",
+    "topicBucket": "global_economy",
+    "headline_seed": "Brent jumps 6% to 114 dollars on Fujairah strike, hitting 4-year high",
+    "protagonist": "Brent crude futures (ICE)",
+    "verb": "surged",
+    "anchor_number": "114.44 dollars",
+    "beat1": {
+      "label_seed": "Brent at 114",
+      "fact": "Brent crude futures closed at 114.44 dollars per barrel on May 4, up nearly 6%, the highest settlement since May 2022. WTI advanced more than 4% to 106.42 dollars. The trigger was the dawn Iranian salvo on UAE territory and the fire at Fujairah, the third-largest oil bunkering hub on the planet. Traders priced in fresh physical risk on top of a 65-day Hormuz closure that has trapped 2,000 vessels. The intraday Brent peak briefly touched 117 dollars before easing on Trump's Project Freedom announcement, which signaled the US would not let the chokehold tighten further."
+    },
+    "beat2": {
+      "label_seed": "EU bill mounts",
+      "fact": "European Union fossil-fuel imports have already grown by 24 billion euros since the war started, with oil prices up roughly 60% and gas up 70% versus pre-war averages. EU governments have committed about 10.46 billion euros so far in consumer subsidies to cushion the price shock, with Spain and Germany shouldering the largest fiscal load. Saudi Arabia's crude output collapsed from 10.1 million bpd in February to 7.76 million bpd in March as Hormuz risk forced cuts. Iraq's southern fields have dropped to roughly 900,000 bpd from 3.3 million pre-war. The combined supply loss now approaches 5 million bpd."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Analysts split on the next leg. Goldman Sachs and JPMorgan models reportedly target 130 to 140 dollar Brent if Fujairah remains offline more than 7 days, while a successful Project Freedom corridor could pull prices back toward 95 dollars within 2 weeks. The IEA has not yet released emergency reserves but EU officials hinted at coordination if Brent breaks 120 dollars decisively. The Suez Canal, which earned 449 million dollars in revenue from January to early May 2026, is now the only intact alternative artery and is being marketed aggressively by Cairo to capture redirected Asian-bound crude."
+    },
+    "sources": ["cnbc.com", "tradingeconomics.com", "cnn.com", "oilprice.com", "aa.com.tr"],
+    "supporting_stats": [
+      {"label": "Brent 1-day move May 4", "value": "+5.9% to 114.44 USD"},
+      {"label": "EU extra fossil-fuel bill since war", "value": "24 billion EUR"}
+    ]
+  },
+  {
+    "slug": "pentagon-anthropic-blacklist-classified-deals",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Pentagon picks 8 AI firms for classified deals, freezes out Anthropic",
+    "protagonist": "Pentagon (US Department of Defense)",
+    "verb": "awarded",
+    "anchor_number": "8 firms",
+    "beat1": {
+      "label_seed": "Pentagon picks 8",
+      "fact": "Reports surfacing on May 4 confirmed the Pentagon finalized classified-network AI contracts with 8 companies on May 1: OpenAI, Google, Microsoft, Amazon, Oracle, Nvidia, SpaceX and Reflection AI. Anthropic, the company behind Claude and one of the leading US foundation-model labs, was deliberately excluded under a formal supply-chain risk designation, the first such label ever applied to an American firm. The dispute centers on Anthropic's policy refusing to let the Pentagon use Claude for fully autonomous weapons or mass domestic surveillance. The 8 winners agreed to no such guardrails."
+    },
+    "beat2": {
+      "label_seed": "Court fight",
+      "fact": "Anthropic is suing the Trump administration. A San Francisco federal judge initially blocked the supply-chain risk designation, but a DC appeals court refused on April 8 to stay the Pentagon's action while the case proceeds, despite acknowledging Anthropic faces irreparable harm. Oral arguments are set for May 19. The May 1 contracts went out anyway. Separately on May 4, Anthropic announced a new enterprise AI joint venture with Blackstone, Hellman and Friedman, and Goldman Sachs to build commercial revenue independent of US defense spending. Anthropic is currently raising 50 billion dollars at a 900 billion dollar valuation."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "The freeze reshapes the US defense AI map. OpenAI, with 122 billion dollars raised at an 852 billion dollar valuation, is now the dominant LLM supplier to the Pentagon. Google, which simultaneously committed up to 40 billion dollars to Anthropic in cash and compute, finds itself on both sides of the safety divide. The May 19 ruling will determine whether Anthropic can claw back any military contracts before the 8-firm consortium locks in classified-network architecture. For Arab governments evaluating sovereign AI partnerships, the message is that US safety guardrails are now legally contested at the federal level."
+    },
+    "sources": ["cnn.com", "ghacks.net", "defensenews.com", "techcrunch.com", "thehill.com"],
+    "supporting_stats": [
+      {"label": "Anthropic valuation in current raise", "value": "900 billion USD"},
+      {"label": "Pentagon classified AI vendors approved", "value": "8 firms"}
+    ]
+  },
+  {
+    "slug": "ukraine-mosfilm-tower-drone-moscow-victory-day",
+    "topicBucket": "europe",
+    "headline_seed": "Ukrainian drone hits Mosfilm Tower 7 km from Kremlin days before Victory Day",
+    "protagonist": "Ukrainian drone forces",
+    "verb": "struck",
+    "anchor_number": "7 km",
+    "beat1": {
+      "label_seed": "Hit on Moscow",
+      "fact": "Overnight into May 4 a Ukrainian drone struck the upper floors of the Mosfilm Tower, a luxury residential complex in west-central Moscow. Photos verified by independent outlets showed structural damage to the top stories with debris scattered across the street below. The tower sits roughly 7 kilometers west of the Kremlin and Red Square, and only 3 kilometers from the Russian Defense Ministry building. Russian air defenses claimed to have downed 2 additional drones approaching Moscow. Mayor Sergey Sobyanin confirmed the hit and stated no casualties were sustained. Ukraine's military did not immediately claim responsibility."
+    },
+    "beat2": {
+      "label_seed": "Victory Day pressure",
+      "fact": "Timing is the message. The strike landed 5 days before the May 9 Victory Day Parade, the most symbolically charged event on the Russian state calendar. Ukraine has steadily extended its deep-strike envelope, now reaching about 1,750 kilometers inside Russia. The campaign against Russian energy infrastructure has reduced national refining capacity to 4.69 million barrels per day, the lowest level since December 2009. The Tuapse refinery has been hit 4 times in 2 weeks, and a chemical-emergency alert was triggered in Perm on April 30 after Ukrainian strikes on industrial sites. Moscow had been spared visible damage until May 4."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Russia is expected to harden Moscow air defense in the next 4 days ahead of Victory Day with extra Pantsir and S-400 batteries, but the symbolic damage is already inked. Foreign delegations attending the parade, including from China, India and Belarus, must now weigh personal safety against optics. Ukraine has signaled willingness to escalate if Western air-defense aid stalls in Washington while the US reorients toward Iran. For Iraqi and Gulf viewers, the Mosfilm strike is a reminder that the global escalation cycle is no longer confined to the Middle East and that Russian crude markets, already stressed by the Hormuz shutdown, face fresh refining-capacity losses."
+    },
+    "sources": ["kyivindependent.com", "themoscowtimes.com", "19fortyfive.com", "odessa-journal.com", "aljazeera.com"],
+    "supporting_stats": [
+      {"label": "Distance from strike to Kremlin", "value": "7 km"},
+      {"label": "Russia refining capacity (16-year low)", "value": "4.69 million bpd"}
+    ]
+  }
+]

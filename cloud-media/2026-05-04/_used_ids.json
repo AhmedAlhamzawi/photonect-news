@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-04",
+  "source": "pexels+unsplash",
+  "ids_by_slug": {
+    "trump-project-freedom-hormuz-15000-troops": {
+      "hero": "13465144",
+      "broll_1": "33284879",
+      "broll_2": "10546956",
+      "broll_3": "34098828"
+    },
+    "iraq-zaidi-cabinet-vote-next-week": {
+      "hero": "33124287",
+      "broll_1": "10157893",
+      "broll_2": "32357268",
+      "broll_3": "5693617"
+    },
+    "iran-fujairah-drone-uae-12-missiles": {
+      "hero": "10407684",
+      "broll_1": "18341554",
+      "broll_2": "36474351",
+      "broll_3": "31334739"
+    },
+    "brent-114-fujairah-shock-2022-high": {
+      "hero": "210607",
+      "broll_1": "15484708",
+      "broll_2": "5987842",
+      "broll_3": "5831265"
+    },
+    "pentagon-anthropic-blacklist-classified-deals": {
+      "hero": "37201921",
+      "broll_1": "17489157",
+      "broll_2": "270373",
+      "broll_3": "1448561"
+    },
+    "ukraine-mosfilm-tower-drone-moscow-victory-day": {
+      "hero": "7923029",
+      "broll_1": "16660294",
+      "broll_2": "11594581",
+      "broll_3": "32624150"
+    }
+  }
+}
