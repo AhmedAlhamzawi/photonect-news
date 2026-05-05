@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-05",
+  "tier_distribution": {
+    "wikimedia_commons": 22,
+    "wikimedia_us_gov_pd": 5,
+    "pexels_or_other": 0
+  },
+  "files_used": {
+    "iraq-basra-haditha-pipeline-2-5mbpd-launched": [
+      "wikimedia/US_Navy_051120-N-2445C-079_The_sun_rises_over_the_Al_Basra_Oil_Terminal_(ABOT)_in_the_North_Persian_Gulf.jpg",
+      "wikimedia/Al_Basra_Oil_Terminal_(ABOT)_(3486222175).jpg",
+      "wikimedia/Haditha_Dam_in_Iraq.JPG",
+      "wikimedia/Khalig-fars-Persian-Gulf_01.jpg"
+    ],
+    "sudan-kordofan-decisive-battle-150-vehicles": [
+      "wikimedia/Sudanese_Armed_Forces_soldier_in_the_town_of_Habila_before_lifting_the_siege_of_Dilling.jpg",
+      "wikimedia/Foreign_Secretary_Yvette_Cooper_meets_Sudanese_civil_war_refugees_in_Adre_eastern_Chad_on_3_February_2026_-_12.jpg",
+      "wikimedia/War_in_Sudan_(2023).svg.png",
+      "wikimedia/Chairman_of_the_Sovereignty_Council_of_Sudan_Abdel_Fattah_Abdelrahman_Burhan_in_October_2019.jpg"
+    ],
+    "saudi-vision-2030-phase-3-93-percent-targets": [
+      "wikimedia/Official_Saudi_Press_Agency_MBS_portrait_(Arabic_filename).jpg",
+      "wikimedia/HRH_Prince_Mohammed_bin_Salman_Chairs_Extraordinary_Arab_and_Islamic_Summit_in_Riyadh_(2024).jpg",
+      "wikimedia/Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg",
+      "wikimedia/Mada'in_Saleh_2017.jpg"
+    ],
+    "iraq-hawizeh-marshes-85-percent-revival": [
+      "wikimedia/Grilling_Fish_in_Chibayish_Marshes_in_Iraq_09.jpg",
+      "wikimedia/Marsh_Arabs_(30935589262).jpg",
+      "wikimedia/Marsh_Arabs_in_a_mashoof.jpg",
+      "wikimedia/Iraq_marshes_1994.jpg"
+    ],
+    "qatar-airways-iraq-flights-resume-may-7": [
+      "wikimedia/Qatar_Airways_A7-ALH_Airbus_A350-941.jpg",
+      "wikimedia/Doha_Hamad_International_Airport_2.jpg",
+      "wikimedia/Baghdad_International_Airport_3.jpg",
+      "wikimedia/Erbil_International_Airport_terminal_building.JPG"
+    ],
+    "uae-saudi-data-center-jv-taranis-emaar-50mw": [
+      "wikimedia/Datacenter_Server_Racks_(22370909788).jpg",
+      "wikimedia/Abu_Dhabi_Skyline_UAE_Flag.jpg",
+      "wikimedia/Dubai_fountain_pond_and_Emaar_towers_view_from_Dubai_Mall.jpg",
+      "wikimedia/Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg"
+    ]
+  },
+  "duplicates_intentional": [
+    "Riyadh_Skyline_KAFD_KingdomTower used in BOTH saudi-vision-2030 and uae-saudi-data-center stories (different roles: Vision 2030 capital cityscape vs JV's KSA build location)"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "قطر للطيران تعود",
+    "arabicHeadline": "قطر للطيران تكسر عتمة 70 يوماً وتعود إلى بغداد 7 مايو",
+    "englishSubhead": "QATAR • IRAQ RESTART • MAY 7 • MAY 10",
+    "heroQueries": [
+      "Qatar Airways A350 Baghdad tarmac",
+      "Hamad airport Doha gate Iraq",
+      "Baghdad International Airport BIAP",
+      "Iraqi diaspora family arrivals reunion",
+      "Erbil airport mountain backdrop"
+    ],
+    "heroMedia": "images/news/2026-05-05-qatar-airways-iraq-flights-resume-may-7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "نهاية العتمة",
+      "arabicHeading": "الشحن في 7 مايو والركاب في 10 مايو بعد 70 يوماً معلّقة",
+      "arabicBody": "قطر للطيران أكدت في 3 و4 مايو أن الشحن إلى بغداد يعود في 7 مايو 2026، ورحلات الركاب إلى بغداد والبصرة وأربيل تستأنف 10 مايو، فتُسقط عتمة 70 يوماً منذ أغلق العراق مجاله الجوي ليلة 28 فبراير. قبل التعليق كانت الناقلة تشغّل 16 رحلة أسبوعياً على الدوحة بغداد وحدها. لكن السؤال: من يدفع الفاتورة الفعلية لهذا الانقطاع؟",
+      "bigStat": {
+        "value": "70",
+        "label": "Days of Iraqi airspace blackout",
+        "arabicLabel": "يوم إغلاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الشحن يعود",
+          "value": "7 مايو"
+        },
+        {
+          "label": "الركاب يعودون",
+          "value": "10 مايو"
+        },
+        {
+          "label": "الدوحة بغداد",
+          "value": "16 رحلة أسبوعياً"
+        }
+      ],
+      "broll": "images/news/2026-05-05-qatar-airways-iraq-flights-resume-may-7/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "من يدفع",
+      "arabicHeading": "6 ملايين مغترب وتذكرة الصيف تسقط من 1,800 إلى 620 دولاراً",
+      "arabicBody": "الخطوط العراقية وحدها لا تكفي بـ14 طائرة مقابل 28 ألف راكب يومياً قبل الحرب. عودة قطر تفتح 4,500 مقعد إلى بغداد و2,200 إلى البصرة وأربيل أسبوعياً، فتسقط التذكرة الصيفية من 1,800 دولار إلى نحو 620. نحو 6 ملايين عراقي في الخارج يحوّلون 4.8 مليار دولار سنوياً، ومركز الدوحة يربطهم بـ150 وجهة قبل يونيو. لكن الاختبار الحقيقي ينتظر بعد أسبوعين.",
+      "bigStat": {
+        "value": "6,700+",
+        "label": "Restored economy seats per week",
+        "arabicLabel": "مقعداً أسبوعياً"
+      },
+      "supportingStats": [
+        {
+          "label": "المغتربون",
+          "value": "6 ملايين"
+        },
+        {
+          "label": "الحوالات سنوياً",
+          "value": "4.8 مليار دولار"
+        },
+        {
+          "label": "تذكرة الصيف",
+          "value": "1,800 → 620"
+        }
+      ],
+      "broll": "images/news/2026-05-05-qatar-airways-iraq-flights-resume-may-7/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "الاختبار التالي",
+      "arabicHeading": "32 ألف حاج و24 رحلة عريضة يومياً والاتحاد ثم الإمارات تتبعان",
+      "arabicBody": "الاختبار الكبير هو الحج. الحكومة تستعد لإرسال 32 ألف حاج إلى مكة عبر السعودية ومصر للطيران بين 26 مايو و16 يونيو، ما يفرض على بغداد 24 رحلة طائرات عريضة يومياً. الزيدي وضع توسعة المطار 480 مليون دولار على طاولة الكابينة. الاتحاد متوقعة 20 مايو والإمارات نهاية الشهر. إذا بقي هرمز مقيداً، تصبح الدوحة ودبي ممرّي 2026 الرئيسيين.",
+      "bigStat": {
+        "value": "32,000",
+        "label": "Iraqi pilgrims to Mecca May 26–June 16",
+        "arabicLabel": "حاج عراقي"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد يومياً",
+          "value": "24 طائرة"
+        },
+        {
+          "label": "توسعة المطار",
+          "value": "480 مليون دولار"
+        },
+        {
+          "label": "الاتحاد تستأنف",
+          "value": "20 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-05-qatar-airways-iraq-flights-resume-may-7/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wego Blog",
+      "domain": "blog.wego.com"
+    },
+    {
+      "name": "Tribune India",
+      "domain": "tribuneindia.com"
+    },
+    {
+      "name": "Marhaba Qatar",
+      "domain": "marhaba.qa"
+    },
+    {
+      "name": "Arabian Business",
+      "domain": "arabianbusiness.com"
+    },
+    {
+      "name": "Gulf Times",
+      "domain": "gulf-times.com"
+    },
+    {
+      "name": "Iraqi Civil Aviation Authority",
+      "domain": "icaa.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "قطر للطيران تكسر عتمة 70 يوماً وتعود إلى بغداد بالشحن 7 مايو والركاب 10 مايو",
+    "العراق أغلق مجاله الجوي ليلة 28 فبراير بفعل الحرب وفتحه مدنياً 8 أبريل",
+    "الدوحة بغداد كانت تشغّل 16 رحلة أسبوعياً قبل التعليق وستعود تدريجياً قبل يونيو",
+    "6 ملايين عراقي مغترب يحوّلون 4.8 مليار دولار سنوياً وينتظرون عودة الجسر الجوي",
+    "تذكرة الصيف تسقط من 1,800 دولار حصراً إلى نحو 620 دولاراً عبر الدوحة",
+    "32 ألف حاج عراقي ينتظرون 24 رحلة طائرات عريضة يومياً بين 26 مايو و16 يونيو",
+    "هل تتبع الاتحاد والإمارات قطر للطيران قبل نهاية مايو لإعادة الجسر الجوي العراقي؟"
+  ]
+}

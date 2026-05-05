@@ -1,0 +1,5 @@
+# media brief — iraq-basra-haditha-pipeline-2-5mbpd-launched
+- hero.jpg — depicts: Sun rising over Al Basra Oil Terminal (ABOT) in the North Persian Gulf, the export terminal that the new pipeline is designed to bypass; source: https://commons.wikimedia.org/wiki/File:US_Navy_051120-N-2445C-079_The_sun_rises_over_the_Al_Basra_Oil_Terminal_(ABOT)_in_the_North_Persian_Gulf.jpg; license: Public Domain (US Navy)
+- broll_1.jpg — depicts: Al Basra Oil Terminal (ABOT) wide shot, USCG photo 2009 — story trigger / Basra crude infrastructure; source: https://commons.wikimedia.org/wiki/File:Al_Basra_Oil_Terminal_(ABOT)_(3486222175).jpg; license: CC BY 2.0 (USCG Press)
+- broll_2.jpg — depicts: Haditha Dam in Anbar, Iraq — the named pipeline endpoint city in Anbar province; source: https://commons.wikimedia.org/wiki/File:Haditha_Dam_in_Iraq.JPG; license: Public Domain (US Marines)
+- broll_3.jpg — depicts: Persian Gulf / Strait of Hormuz region overhead view — the chokepoint the pipeline is designed to bypass; source: https://commons.wikimedia.org/wiki/File:Khalig-fars-Persian-Gulf_01.jpg; license: CC BY-SA 4.0 (Mostafameraji)

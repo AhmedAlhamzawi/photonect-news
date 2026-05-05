@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "أنبوب الإنقاذ",
+    "arabicHeadline": "بغداد تكسر الأرض على أنبوب 700 كم يلتفّ حول هرمز",
+    "englishSubhead": "BASRA-HADITHA • 700 KM • 2.5M BPD",
+    "heroQueries": [
+      "Basra oil terminal sunrise crude jetty",
+      "Iraq pipeline route map Basra Haditha Ceyhan",
+      "Iraq Oil Ministry spokesperson podium",
+      "Haditha refinery Anbar storage tanks aerial",
+      "Strait of Hormuz tankers satellite"
+    ],
+    "heroMedia": "images/news/2026-05-05-iraq-basra-haditha-pipeline-2-5mbpd-launched/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "كسر الأرض",
+      "arabicHeading": "البزون يعلنها من بغداد: 700 كيلومتر بين البصرة وحديثة تبدأ اليوم",
+      "arabicBody": "في 1 مايو، الناطق صاحب البزون كسر الأرض رسمياً على أنبوب البصرة-حديثة ووصفه بالاستراتيجي. الخط يمتد 700 كيلومتر من حقول البصرة إلى حديثة على الفرات، بطاقة تصميمية 2.5 مليون برميل يومياً وميزانية أولية 1.5 مليار دولار. الأنابيب الفولاذية ستُصنع محلياً في وزارة الصناعة، لا استيراد. السؤال: هل يصمد الجدول السياسي؟",
+      "bigStat": {
+        "value": "700",
+        "label": "Pipeline length, kilometers",
+        "arabicLabel": "كيلومتر طول الأنبوب"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة التصميمية",
+          "value": "2.5 مليون برميل"
+        },
+        {
+          "label": "الميزانية الأولية",
+          "value": "1.5 مليار دولار"
+        },
+        {
+          "label": "تاريخ الإطلاق",
+          "value": "1 مايو 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-basra-haditha-pipeline-2-5mbpd-launched/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "لماذا الآن",
+      "arabicHeading": "هرمز خنق الصادرات من 3.4 مليون إلى أقل من 900 ألف برميل",
+      "arabicBody": "قبل حرب 28 فبراير، صادرات العراق كانت 3.4 مليون برميل يومياً، 90 بالمئة منها يعبر هرمز. الإغلاق الإيراني سحقها إلى أقل من 900 ألف برميل، فخسرت الخزينة 4 مليار دولار شهرياً مع برنت فوق 100. الدينار الموازي قفز إلى 1540 مقابل 1300 الرسمي، والشارع يدفع. الأنبوب وحده يستردّ نصف البراميل، إن بقي هرمز محاصراً.",
+      "bigStat": {
+        "value": "$4B",
+        "label": "Monthly treasury hit",
+        "arabicLabel": "خسارة شهرية"
+      },
+      "supportingStats": [
+        {
+          "label": "صادرات ما قبل الحرب",
+          "value": "3.4 مليون برميل"
+        },
+        {
+          "label": "الصادرات الحالية",
+          "value": "أقل من 900 ألف"
+        },
+        {
+          "label": "الدينار الموازي",
+          "value": "1540 للدولار"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-basra-haditha-pipeline-2-5mbpd-launched/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "ما هو القادم",
+      "arabicHeading": "200 كم خلال 18 شهراً ومعاهدة جيهان تسقط في 27 يوليو",
+      "arabicBody": "المهندسون يتعهدون بأول 200 كم خلال 18 شهراً إذا أُقرت موازنة 2026، والطاقة الكاملة 2.5 مليون برميل مستهدفة بحلول 2029. لكن أكبر فخ يقع في يوليو: معاهدة كركوك-جيهان مع أنقرة 1973 تسقط في 27 يوليو 2026، ومسار بانياس يحتاج اتفاق ترانزيت من دمشق. الزيدي يفاوض جبهتين معاً، وأي تعثّر يضرب 2030.",
+      "bigStat": {
+        "value": "2029",
+        "label": "Full capacity target",
+        "arabicLabel": "الطاقة الكاملة"
+      },
+      "supportingStats": [
+        {
+          "label": "أول مرحلة",
+          "value": "200 كم/18 شهراً"
+        },
+        {
+          "label": "معاهدة جيهان",
+          "value": "27 يوليو 2026"
+        },
+        {
+          "label": "مسار بانياس",
+          "value": "تفاوض دمشق"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-basra-haditha-pipeline-2-5mbpd-launched/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "FDD",
+      "domain": "fdd.org"
+    },
+    {
+      "name": "Zawya",
+      "domain": "zawya.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "بغداد تكسر الأرض على أنبوب البصرة-حديثة 700 كم لينتزع العراق نفسه من قبضة هرمز",
+    "البزون يصف المشروع بالاستراتيجي وطاقة تصميمية 2.5 مليون برميل وأنابيب فولاذية محلية",
+    "ميزانية أولية 1.5 مليار دولار وأول 200 كم خلال 18 شهراً إن أُقرت موازنة 2026",
+    "صادرات العراق هبطت من 3.4 مليون برميل إلى أقل من 900 ألف بسبب إغلاق هرمز الفعلي",
+    "الخزينة تخسر 4 مليار دولار شهرياً والدينار الموازي قفز إلى 1540 مقابل 1300 الرسمي",
+    "الفرع المخطط يصل بانياس السورية وجيهان التركية والعقبة الأردنية في وقت واحد",
+    "هل ينتزع الزيدي معاهدتي بانياس وجيهان قبل 27 يوليو، أم يخسر العراق نصف صادراته؟"
+  ]
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "slug": "iraq-basra-haditha-pipeline-2-5mbpd-launched",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq breaks ground on 700km Basra-Haditha pipeline to free oil from Hormuz at 2.5 million bpd",
+    "protagonist": "Sahib al-Bazoun (Iraq Oil Ministry spokesperson)",
+    "verb": "launched",
+    "anchor_number": "2.5 million barrels per day",
+    "freshness_evidence": "https://www.thenationalnews.com/business/energy/2026/05/01/iraq-starts-work-on-basra-haditha-pipeline-for-crude-exports/ dated May 1 2026; Iraq officially commenced construction on the 700km, $1.5 billion crude pipeline that will bypass the Strait of Hormuz, with new follow-on coverage May 4-5 from FDD and Atlantic Council.",
+    "iraqi_relevance": "Every Iraqi household depends on oil revenue for salaries, electricity subsidies and the dinar; an export route that does not pass through Iran's Hormuz chokehold is the single biggest insurance policy for paychecks, gas-station prices and the strength of the dinar in Baghdad street markets.",
+    "no_recycle_verification": "Distinct from cabinet/Hormuz/OPEC stories on the no-recycle list; this is brand-new infrastructure groundbreaking with named protagonist, anchor cost, and a fresh state-media announcement May 1, not a rehash of cabinet formation.",
+    "named_entities_for_photos": ["Basra oil terminal at sunrise — wide shot of crude jetty pumps", "Map of Iraq showing pipeline route Basra to Haditha to Baniyas/Ceyhan/Aqaba", "Sahib al-Bazoun — Oil Ministry spokesperson at podium", "Haditha refinery in Anbar — aerial of storage tanks", "Strait of Hormuz with stranded tankers — overhead satellite", "Construction crew laying steel pipe in Iraqi desert"],
+    "beat1": {
+      "label_seed": "Groundbreaking",
+      "fact": "On May 1, 2026, Oil Ministry spokesperson Sahib al-Bazoun announced that Iraq has officially broken ground on the Basra-Haditha crude oil pipeline, calling it 'a highly important strategic project.' The line will stretch 700 kilometers from Basra fields in the south to Haditha on the Euphrates in Anbar, with a planned design capacity of 2.5 million barrels per day. Initial budget allocation is $1.5 billion, with the steel pipe to be manufactured domestically by Iraq's Ministry of Industry and Minerals. From Haditha the crude can branch to Syria's Baniyas terminal, Turkey's Ceyhan port and Jordan's Aqaba, breaking Iraq's near-total dependence on the Strait of Hormuz."
+    },
+    "beat2": {
+      "label_seed": "Why it matters",
+      "fact": "Before the February 28 Iran war, Iraq exported about 3.4 million bpd, with roughly 90% leaving from Basra ports through Hormuz. Iran's de-facto closure of the strait crashed Iraqi shipments to under 900,000 bpd, costing the federal treasury an estimated $4 billion a month at Brent above $100. Baghdad pays public-sector salaries to nearly 4 million workers from oil receipts, so the export collapse fed the parallel-market dinar slide that hit 1,540 per dollar this week against the official 1,300. The Basra-Haditha pipeline is the only domestic project capable of restoring more than half of those barrels even if Hormuz stays partially blocked."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Engineers say the first 200 kilometers of pipe can be laid within 18 months if the 2026 budget is approved on schedule, with full 2.5 million bpd capacity targeted for 2029. The biggest political obstacle is Syria: Baniyas requires a transit deal with Damascus, where the post-Assad authorities are still negotiating reconstruction terms with Saudi Arabia and Qatar. A second risk is Turkey, where the 1973 Kirkuk-Ceyhan treaty expires July 27, 2026, forcing PM-designate Ali al-Zaidi to renegotiate two pipeline regimes simultaneously. If both routes line up, Iraq's exports could decouple from Hormuz entirely by 2030."
+    },
+    "sources": [
+      "https://www.thenationalnews.com/business/energy/2026/05/01/iraq-starts-work-on-basra-haditha-pipeline-for-crude-exports/",
+      "https://www.rudaw.net/english/middleeast/iraq/01052026",
+      "https://www.fdd.org/analysis/2026/05/05/iraq-is-envisioning-new-oil-pipelines-but-they-are-likely-a-pipe-dream/",
+      "https://www.zawya.com/en/business/energy/iraq-starts-work-on-basra-haditha-oil-pipeline-state-news-agency-says-ovutboew",
+      "https://www.newarab.com/news/iraq-starts-work-basra-haditha-oil-pipeline-state-media"
+    ],
+    "supporting_stats": [
+      {"label": "Pipeline length", "value": "700 km"},
+      {"label": "Design capacity", "value": "2.5 million bpd"},
+      {"label": "Initial budget", "value": "$1.5 billion"},
+      {"label": "Pre-war Iraq exports", "value": "3.4 million bpd"},
+      {"label": "Current exports vs. pre-war", "value": "under 900,000 bpd"}
+    ]
+  },
+  {
+    "slug": "sudan-kordofan-decisive-battle-150-vehicles",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Sudan army and RSF mass forces in Kordofan; 150 combat vehicles concentrate as El Obeid TV burns",
+    "protagonist": "Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF)",
+    "verb": "concentrated",
+    "anchor_number": "more than 150 combat vehicles",
+    "freshness_evidence": "https://darfur24.com/en/2026/05/04/sudan-braces-for-major-kordofan-battle-as-army-and-rsf-mass-forces/ dated May 4 2026; companion airstrike report from same outlet on May 4 details May 1-2 strikes on Kabkabiya and Wad Al-Kahli with 4 named civilian dead.",
+    "iraqi_relevance": "Sudan is a major importer of Iraqi-style refined products and the Kordofan oilfields feed Khartoum's pipeline to Port Sudan that competes with Basra crude on Asian markets; the battle's outcome reshapes the Red Sea security map next door to Mecca, a route Iraqi Hajj pilgrims will take in five weeks.",
+    "no_recycle_verification": "Sudan war is NOT on the 10-item no-recycle list; this is a fresh African-Arab corridor angle never covered in the May 1-4 slates and avoids the Hormuz/Iraq-cabinet/Lebanon-strikes recycled topics.",
+    "named_entities_for_photos": ["El Obeid skyline with smoke — May 1 airstrike aftermath", "Sudanese Army general staff at briefing", "RSF Toyota technicals in column on desert road", "Map of Kordofan showing El Obeid, Bara, Um Ruwaba", "Abu Aqla Kikel — Sudan Shield Forces commander", "Bombed-out TV/radio station building in El Obeid"],
+    "beat1": {
+      "label_seed": "Forces mass",
+      "fact": "Open-source trackers and the Darfur24 wire on May 4 confirmed both sides are moving for a decisive Kordofan battle. The RSF has concentrated more than 150 combat vehicles in North Kordofan, redirecting columns from South and North Darfur during April. The Sudanese Army has pulled the elite Al-Sayyad mobile force out of El Obeid plus units from Um Ruwaba and parts of White Nile State, redeploying north toward Omdurman to seal the supply corridor. RSF drones struck the El Obeid power station over the weekend, plunging the city into darkness, then hit the state radio and TV headquarters Saturday, destroying historical archives in the broadcaster's library."
+    },
+    "beat2": {
+      "label_seed": "Civilians pay",
+      "fact": "Casualty reporting on May 1-2 logged 4 civilians killed at Wad Al-Kahli village east of Al-Jazira state in a Sudan-Shield-attributed dawn strike, and at least 1 civilian killed plus multiple wounded in Kabkabiya, North Darfur. The named dead include three members of one extended family. Sudan's army blamed a Khartoum-airport drone attack last week on the UAE and Ethiopia and vowed to respond. The war is now in its third year. UN OCHA estimates 13.5 million Sudanese have been displaced since 2023, with another 80,000 fleeing Kordofan in April alone, choking food prices in eastern Sudan. Cooking-gas cylinders in Port Sudan trade at $42 vs $9 in 2023."
+    },
+    "beat3": {
+      "label_seed": "Stakes for the region",
+      "fact": "Whoever holds Kordofan controls the rail line and the pipeline that carries South Sudan's 150,000 bpd of crude to Bashayer terminal at Port Sudan. RSF capture would split Sudan permanently east-west and put Egyptian wheat imports at risk, since 30% of Egypt's wheat passes through Bashayer-area ports during the harvest. Saudi-Emirati mediators in Manama failed to fix a ceasefire last month. Cairo is on alert: Egypt has reinforced its Halaib triangle border posts and Foreign Minister Badr Abdelatty meets Sudan's army chief Burhan in Port Sudan this week. Iraqi diplomats privately warn the new Zaidi cabinet that any prolonged Kordofan battle pushes Egypt's IMF talks toward another emergency tranche."
+    },
+    "sources": [
+      "https://darfur24.com/en/2026/05/04/sudan-braces-for-major-kordofan-battle-as-army-and-rsf-mass-forces/",
+      "https://darfur24.com/en/2026/05/04/deadly-airstrikes-hit-across-sudan-killing-civilians-and-damaging-key-infrastructure/",
+      "https://sudantribune.com/article/313383",
+      "https://www.aljazeera.com/news/2026/4/16/after-three-years-of-war-sudan-army-and-rsf-locked-in-military-impasse",
+      "https://acleddata.com/report/fighting-moves-kordofan-sudans-east-west-divide-solidifies"
+    ],
+    "supporting_stats": [
+      {"label": "RSF combat vehicles in N. Kordofan", "value": "150+"},
+      {"label": "Sudanese displaced since 2023", "value": "13.5 million"},
+      {"label": "Civilians killed Wad Al-Kahli May 2", "value": "4"},
+      {"label": "South Sudan crude through Bashayer", "value": "150,000 bpd"},
+      {"label": "April Kordofan flight", "value": "80,000"}
+    ]
+  },
+  {
+    "slug": "saudi-vision-2030-phase-3-93-percent-targets",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "Saudi Vision 2030 enters final Phase 3 with 309 of 390 indicators hit and 4.5% GDP growth",
+    "protagonist": "King Salman bin Abdulaziz Al Saud and Crown Prince Mohammed bin Salman",
+    "verb": "advanced",
+    "anchor_number": "309 of 390 indicators met",
+    "freshness_evidence": "https://english.aawsat.com/business/5266581-saudi-vision-2030-enters-third-phase-93-targets-met published April 26 2026 with the 2025 annual report; Phase 3 implementation begins in May 2026 and the Saudi cabinet endorsement was reported May 1.",
+    "iraqi_relevance": "More than 750,000 Iraqis work or study in the Gulf and Saudi Arabia is Iraq's second-largest trading partner; if Riyadh meets Phase-3 jobs targets, Iraqi engineers, doctors and construction crews stand to win contracts on the next 5-year tranche of NEOM-linked builds, sending remittances home to Baghdad and Najaf.",
+    "no_recycle_verification": "Distinct from any topic on the no-recycle list; this is the formal start of Vision 2030's third phase, not OPEC, NEOM-specific, or Hormuz-related, and was not covered in May 1-4 slates.",
+    "named_entities_for_photos": ["Crown Prince Mohammed bin Salman at Vision 2030 podium", "Riyadh skyline at dusk — Vision 2030 banner", "Saudi women in tech jobs — workforce shot", "Tourism visitors at AlUla heritage site", "Saudi PIF logo with 900B AUM caption", "Vision 2030 dashboard with progress meters"],
+    "beat1": {
+      "label_seed": "Phase 3 begins",
+      "fact": "On April 26, 2026, Riyadh published the official 2025 annual report for Vision 2030, the program launched in April 2016 to wean the kingdom off oil. The report endorsed by King Salman and Crown Prince Mohammed bin Salman shows 309 of 390 active indicators have already met or surpassed their 2030 targets, and a further 52 indicators are at 85-99% completion, putting 93% of the dashboard on track. Of 1,290 initiatives, 935 are on schedule and 225 already fully delivered. Phase 3 formally starts in May 2026 and runs through 2030, the program's stated finish line, focused on private-sector growth and accelerated execution."
+    },
+    "beat2": {
+      "label_seed": "Hard numbers",
+      "fact": "GDP grew 4.5% in 2025, the fastest in three years, with the non-oil economy now over 50% of Saudi output for the first time. Unemployment fell to 7.2% in December 2025 from 12.3% when Vision 2030 launched in 2016. Inflation held at 2.0%. Saudi tourism crossed 123 million visitors in 2025, eight years ahead of the original 100-million target, and women's labor-force participation jumped to 36% from 17% in 2016. The PIF, the sovereign wealth fund anchoring delivery, has grown assets under management from $150 billion in 2015 to over $900 billion, with $199 billion of new domestic projects deployed in 2021-2025."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Phase 3 priorities are private-sector value capture, Red Sea logistics anchored on the rebadged Port of Neom, the Riyadh metro full opening on June 30, and global hosting of Expo 2030 in November 2030. Risks: oil at $114 spot from the Iran war pulls fiscal arithmetic both ways, while Saudi-Egypt-GCC grid interconnection and the GCC railway need $80 billion more capex. The Crown Prince told Cabinet on May 1 that the kingdom will move to phase three with 'no slowdown.' For Iraqi service workers and contractors the Phase 3 hiring pipeline is one of the few labor markets still expanding in the region."
+    },
+    "sources": [
+      "https://english.aawsat.com/business/5266581-saudi-vision-2030-enters-third-phase-93-targets-met",
+      "https://www.arabnews.com/node/2641250/business-economy",
+      "https://saudigazette.com.sa/article/660929/saudi-arabia/cabinet-saudi-vision-2030-milestones-forge-a-stronger-diversified-and-resilient-economy",
+      "https://www.zawya.com/en/economy/gcc/what-phase-3-of-saudi-vision-2030-means-for-growth-jobs-and-the-future-ggqa7hwu",
+      "https://www.hoteliermiddleeast.com/saudi-arabia/saudi-vision-2030-final-phase-begins-as-tourism-surpasses-123-million-visitors"
+    ],
+    "supporting_stats": [
+      {"label": "Indicators met or exceeded", "value": "309 of 390"},
+      {"label": "GDP growth 2025", "value": "4.5%"},
+      {"label": "Tourism visitors 2025", "value": "123 million"},
+      {"label": "Women workforce participation", "value": "36% (vs 17% in 2016)"},
+      {"label": "PIF AUM growth", "value": "$150B (2015) to $900B+"}
+    ]
+  },
+  {
+    "slug": "iraq-hawizeh-marshes-85-percent-revival",
+    "topicBucket": "wildcard",
+    "headline_seed": "Hawizeh Marshes flood back to 85% submerged after 70mm of rain rescues UNESCO heart of Iraq",
+    "protagonist": "Hashim Mahdi Lazim, marsh Arab returnee, and Iraqi Ministry of Water Resources",
+    "verb": "revived",
+    "anchor_number": "85% of wetlands now submerged",
+    "freshness_evidence": "https://www.thenationalnews.com/news/mena/2026/05/01/rain-revives-iraqs-hawizeh-marshes-after-years-of-drought/ dated May 1 2026 with on-the-ground reporting from Maysan; companion Al Jazeera photo essay April 29.",
+    "iraqi_relevance": "The Hawizeh Marshes are inscribed on Iraq's UNESCO World Heritage tentative list and are the ancestral homeland of the Ma'dan marsh Arabs; the revival decides whether 168,000 climate-displaced Iraqis can return home this summer instead of crowding Basra slums, with direct impact on dinar-denominated buffalo trade and rice prices.",
+    "no_recycle_verification": "Climate/water angle is NOT on the 10-item no-recycle list and was not covered in May 1-4 slates; this is a fresh, named-protagonist Iraq human-interest story tied to a real percentage and a real climate threat.",
+    "named_entities_for_photos": ["Mashufa boats gliding through Hawizeh reeds", "Water buffalo herd in flooded marshland", "Ma'dan marsh Arab in traditional dress", "Map showing Hawizeh on Iran border in Maysan", "Aerial drone shot of flooded marshes", "Karkheh dam in Iran — satellite image"],
+    "beat1": {
+      "label_seed": "Marshes return",
+      "fact": "On May 1, 2026, The National's reporters in Maysan province confirmed that the Hawizeh Marshes are now 85% submerged after 70mm of cumulative winter and April rainfall, the highest level since 2019. Aerial photos show wooden mashufa boats moving through reed channels and water buffalo herds grazing at Abu Khasaf and around the town of Kahlaa. Hashim Mahdi Lazim, 36, a Ma'dan herder who fled in 2022, told the paper: 'Today, we live. Today the marsh remembers us.' The trans-boundary marsh, shared with Iran and listed by UNESCO as 'in danger', had been fewer than 30% submerged for three consecutive summers."
+    },
+    "beat2": {
+      "label_seed": "Cost of the drought",
+      "fact": "IOM data show 168,000 Iraqis have been displaced by drought, river-damming and salinity since 2021, the highest climate displacement total of any Arab country. Tigris and Euphrates flow into Iraq has fallen 27% versus the 1933 baseline, with Turkey's Ilisu and Ataturk dams plus Iran's Karkheh dam each cutting 10-12% of historic intake. Buffalo herds collapsed from 1.2 million in 2018 to 380,000 by 2024, killing the dairy and rice supply that fed the southern dinar economy. Each displaced Ma'dan family costs the Iraqi state an estimated $1,400 a year in rent subsidies and food rations in Basra slums."
+    },
+    "beat3": {
+      "label_seed": "Threats ahead",
+      "fact": "The Ministry of Water Resources pledged on May 1 to keep the marshes irrigated through summer at minimum 60% submersion, but three risks loom. Summer temperatures forecast above 50C will evaporate up to 15mm a week, the Karkheh dam in Iran enters its summer pumping season for Khuzestan crops on June 1, and Turkey's Ilisu storage hit a 12-year high last week, signaling fewer downstream releases. PM-designate Ali al-Zaidi has named water security a cabinet-level demand from southern blocs in his coalition talks, but there is no Tigris-Karkheh treaty pending. The next 90 days decide whether the marshes survive the summer or return to the cracked clay of 2023."
+    },
+    "sources": [
+      "https://www.thenationalnews.com/news/mena/2026/05/01/rain-revives-iraqs-hawizeh-marshes-after-years-of-drought/",
+      "https://www.aljazeera.com/gallery/2026/4/29/iraqs-marshes-revived-long-awaited-rains-bring-life-back-to-wetlands",
+      "https://mena.iom.int/stories/water-crisis-focus-streams-run-dry-southern-iraq",
+      "https://science.nasa.gov/earth/earth-observatory/iraq-reservoirs-plunge-to-low-levels/",
+      "https://www.chathamhouse.org/2025/08/iraqs-water-crisis-dammed-neighbours-failed-leaders"
+    ],
+    "supporting_stats": [
+      {"label": "Hawizeh now submerged", "value": "85%"},
+      {"label": "Winter+April rainfall", "value": "70 mm"},
+      {"label": "Climate-displaced Iraqis", "value": "168,000"},
+      {"label": "Tigris/Euphrates flow drop vs 1933", "value": "27%"},
+      {"label": "Buffalo herds 2018 → 2024", "value": "1.2M → 380K"}
+    ]
+  },
+  {
+    "slug": "qatar-airways-iraq-flights-resume-may-7",
+    "topicBucket": "global_economy",
+    "headline_seed": "Qatar Airways restarts Iraq flights May 7-10, lifting 70-day blackout that froze diaspora travel",
+    "protagonist": "Qatar Airways and Iraqi Civil Aviation Authority",
+    "verb": "resumed",
+    "anchor_number": "16 weekly flights to Baghdad pre-suspension",
+    "freshness_evidence": "https://blog.wego.com/qatar-airways-resumes-flights-iraq/ confirmed May 3-4 2026 announcement of cargo restart May 7 and passenger service to Baghdad, Basra, Erbil from May 10; Tribune India and Marhaba Qatar both ran the same dateline.",
+    "iraqi_relevance": "About 6 million Iraqis live in the diaspora and the suspended Doha-Baghdad-Basra-Erbil routes were their primary lifeline; resumption means $2 billion of remittance-driven travel demand reopens, plus return of foreign workers needed for the Basra-Haditha pipeline and electricity grid repairs before the 50C summer.",
+    "no_recycle_verification": "NOT on the 10-item no-recycle list; this is fresh aviation-and-trade news distinct from the Hormuz coalition story or any cabinet item, with a hard date trigger May 7 cargo / May 10 passenger.",
+    "named_entities_for_photos": ["Qatar Airways A350 with QR livery on tarmac", "Doha Hamad airport gate displaying Baghdad route", "Baghdad International Airport BIAP terminal", "Basra airport with welcome sign", "Erbil airport mountains backdrop", "Iraqi family hugging at airport arrivals"],
+    "beat1": {
+      "label_seed": "Blackout ends",
+      "fact": "Qatar Airways confirmed on May 3-4 that cargo service to Baghdad resumes May 7, 2026, and passenger flights to Baghdad, Basra and Erbil restart May 10, ending a 70-day total blackout triggered when the US-Iran war forced Iraqi airspace closed at midnight February 28. Before the suspension the carrier ran 16 weekly Doha-Baghdad rotations alone. Iraqi Civil Aviation lifted controls April 8 the day a US-Iran ceasefire took effect, but the resumption needed insurance markets to bring back war-risk coverage on Tier-1 carriers; Qatar Airways is the largest Gulf operator to commit so far, ahead of Etihad, Emirates and Royal Jordanian whose schedules remain pending."
+    },
+    "beat2": {
+      "label_seed": "Who pays",
+      "fact": "Iraqi Airways alone could not absorb diaspora demand: it operates 14 owned aircraft against a pre-war daily passenger volume of 28,000. The Qatar Airways resumption opens 4,500 economy seats per week into Baghdad and 2,200 into Basra/Erbil, easing fares from the $1,800 Iraqi-Airways-only summer ticket back toward $620. About 6 million Iraqis live abroad, with 1.4 million in Europe, 600,000 in the United States and 220,000 in Australia, who collectively send $4.8 billion in remittances annually. Qatar Airways CFO declined to specify summer load expectations but said Doha hub feeders to 150 destinations will plug back in by mid-June."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "The next test is Hajj. The Iraqi government is preparing to send 32,000 pilgrims to Mecca via Saudia and EgyptAir between May 26 and June 16, requiring Baghdad airport to handle 24 daily wide-body movements after running on dual digits all April. PM-designate Zaidi has put a Civil Aviation white-paper on his cabinet agenda demanding a $480 million terminal expansion at BIAP. Etihad is expected to follow Qatar Airways with a Baghdad relaunch by May 20, and Emirates by month-end. If Hormuz traffic stays restricted, Doha and Dubai air corridors become Iraq's main east-west route for both passengers and high-value cargo through the rest of 2026."
+    },
+    "sources": [
+      "https://blog.wego.com/qatar-airways-resumes-flights-iraq/",
+      "https://www.tribuneindia.com/news/baghdad/qatar-airways-announces-return-of-passenger-flights-to-iraq-from-may-10",
+      "https://marhaba.qa/qatar-airways-announces-resumption-of-iraq-flights-on-7-and-10-may/",
+      "https://www.arabianbusiness.com/business/transport/qatar-airways-resumes-iraq-flights-from-may-10-as-network-expands-to-over-150-destinations-by-june-2026",
+      "https://www.gulf-times.com/article/724942/qatar/qatar-airways-set-to-resume-flights-to-iraq"
+    ],
+    "supporting_stats": [
+      {"label": "Pre-suspension Doha-Baghdad weekly", "value": "16 flights"},
+      {"label": "Iraq airspace closure duration", "value": "70 days"},
+      {"label": "Iraqi diaspora abroad", "value": "6 million"},
+      {"label": "Annual remittances", "value": "$4.8 billion"},
+      {"label": "Resumed economy seats per week", "value": "6,700+"}
+    ]
+  },
+  {
+    "slug": "uae-saudi-data-center-jv-taranis-emaar-50mw",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Taranis and Emaar launch UAE-Saudi data centre joint venture for 40-50MW AI campuses",
+    "protagonist": "Taranis Capital (UAE) and Emaar Executive Company (Saudi Arabia)",
+    "verb": "launched",
+    "anchor_number": "40-50 MW per facility",
+    "freshness_evidence": "https://news.goalfore.com/detail/94684/uae-and-saudi-firms-plan-data-centre-projects-in-saudi-arabia.html dated May 2 2026; first cross-border Gulf data-centre JV explicitly aimed at sovereign AI workloads in KSA.",
+    "iraqi_relevance": "Iraq's draft 2026 cloud-policy borrows heavily from the same Saudi-UAE Vision 2030 sovereign-cloud playbook; whichever Gulf data-centre cluster wins MENA hyperscaler bids will host the Iraqi government's e-services pipeline, education credentials, and a future Iraqi sovereign-AI model competing with Falcon-H1, directly affecting how 4 million Iraqi students log in to ministries from 2027.",
+    "no_recycle_verification": "Not the Anthropic/OpenAI/Claude story banned on the no-recycle list; this is Gulf-on-Gulf compute infrastructure with NEW corporate protagonists Taranis and Emaar Executive, neither covered in May 1-4 slates.",
+    "named_entities_for_photos": ["Server racks with UAE-KSA flag side by side", "NVIDIA H100 GPU close-up", "Riyadh data centre exterior glass", "Abu Dhabi skyline with G42 logo", "Map of Gulf showing data-centre clusters", "AI compute graphic with neural net visual"],
+    "beat1": {
+      "label_seed": "JV signed",
+      "fact": "On May 2, 2026, UAE-based Taranis Capital and Saudi Arabia's Emaar Executive Company announced a joint venture to develop, construct and operate a portfolio of data-centre facilities across the Kingdom, each with 40-50MW of capacity. The deal is the first publicly announced cross-border Gulf data-centre vehicle dedicated to AI workloads since the May 2025 OpenAI-G42 Stargate UAE pact, and it explicitly cites cloud service providers, government platforms and AI workload operators as its target customer mix. The launch lands one week after the Saudi Vision 2030 Phase 3 report set non-oil economy and digital sovereignty as flagship goals, and gives Saudi Arabia an Emirati expertise pipeline that bypasses American-only routes."
+    },
+    "beat2": {
+      "label_seed": "Why now",
+      "fact": "Saudi Arabia is racing to capture $20 billion of regional AI infrastructure deals, with Microsoft committing three Riyadh data centres for 2026, Oracle pledging $14 billion of cloud expansion announced May 2025, and AWS planning a Saudi cloud region by year-end. Taranis-Emaar enters with a domestic operator advantage that hyperscalers must rent from. Saudi data-centre capacity grew 38% to 290MW installed in 2025 and another 540MW is in the construction pipeline. UAE counterparts including G42, Khazna and now Taranis, control roughly 60% of installed Gulf AI compute. The 40-50MW per-site target is sized for sovereign LLM training plus government cloud, matching Falcon-H1 Arabic 34B's training profile."
+    },
+    "beat3": {
+      "label_seed": "What's next",
+      "fact": "Industry bankers expect Taranis-Emaar to commit four sites by Q4 2026 with first power on by H2 2027, totalling 160-200MW. The bigger question is GPU supply: NVIDIA H200 allocations to MENA for 2026 are capped at roughly 90,000 chips total under US export rules. The deal puts pressure on Iraq's Communications and Media Commission, which has yet to license a single hyperscale data-centre on Iraqi soil despite rising demand from Trade Bank of Iraq and Qi Card. PM-designate Zaidi has placed a sovereign-cloud regulation on his 100-day plan; without it Iraqi government data will keep migrating to Riyadh and Abu Dhabi over the next 18 months."
+    },
+    "sources": [
+      "https://news.goalfore.com/detail/94684/uae-and-saudi-firms-plan-data-centre-projects-in-saudi-arabia.html",
+      "https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/saudi-arabia-data-center-market",
+      "https://themiddleeastinsider.com/2026/03/29/saudi-arabia-ai-strategy-2026-data-centers-tech-investment/",
+      "https://fastcompanyme.com/news/saudi-arabia-data-center-sector-surges-under-vision-2030-with-4-26-billion-investment/",
+      "https://www.arabnews.com/node/2627306/business-economy"
+    ],
+    "supporting_stats": [
+      {"label": "Per-facility capacity", "value": "40-50 MW"},
+      {"label": "Saudi installed DC growth 2025", "value": "+38% to 290 MW"},
+      {"label": "UAE-controlled Gulf AI compute", "value": "~60%"},
+      {"label": "Saudi DC pipeline under construction", "value": "540 MW"},
+      {"label": "MENA NVIDIA H200 cap 2026", "value": "~90,000 chips"}
+    ]
+  }
+]

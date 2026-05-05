@@ -1,0 +1,5 @@
+# media brief — qatar-airways-iraq-flights-resume-may-7
+- hero.jpg — depicts: Qatar Airways A350-941 (registration A7-ALH) showing the QR maroon livery — the named carrier returning to Iraqi airspace; source: https://commons.wikimedia.org/wiki/File:Qatar_Airways_A7-ALH_Airbus_A350-941.jpg; license: CC BY-SA 4.0
+- broll_1.jpg — depicts: Hamad International Airport Doha exterior — the originating hub for the Doha-Baghdad/Basra/Erbil rotations; source: https://commons.wikimedia.org/wiki/File:Doha_Hamad_International_Airport_2.jpg; license: CC BY-SA 4.0
+- broll_2.jpg — depicts: Baghdad International Airport (BIAP) terminal building — the main destination resuming May 10; source: https://commons.wikimedia.org/wiki/File:Baghdad_International_Airport_3.jpg; license: CC BY-SA 4.0
+- broll_3.jpg — depicts: Erbil International Airport terminal building wide-angle shot (Jeffrey Beall, 2014) — the third Iraqi destination on the Qatar Airways resumption schedule; source: https://commons.wikimedia.org/wiki/File:Erbil_International_Airport_terminal_building.JPG; license: CC BY 3.0 (Jeffrey Beall)

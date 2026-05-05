@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "ساعة كردفان",
+    "arabicHeadline": "كردفان على شفا معركة فاصلة: حميدتي يكدّس 150 آلية شمال الأبيض",
+    "englishSubhead": "KORDOFAN BATTLE • 150 VEHICLES • 13.5M DISPLACED",
+    "heroQueries": [
+      "El Obeid Sudan smoke skyline airstrike",
+      "Sudanese Armed Forces general staff briefing",
+      "RSF Toyota technicals desert column",
+      "Kordofan map El Obeid Bara Um Ruwaba",
+      "Sudan army general Burhan Port Sudan"
+    ],
+    "heroMedia": "images/news/2026-05-05-sudan-kordofan-decisive-battle-150-vehicles/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "حشد القوى",
+      "arabicHeading": "البرهان يسحب الصياد من الأبيض وحميدتي يكدّس 150 آلية شمال كردفان",
+      "arabicBody": "في 4 مايو، شبكات الرصد ودارفور 24 أكدت أن الطرفين يستعدّان لمعركة فاصلة. حميدتي حشد أكثر من 150 آلية قتالية في شمال كردفان بعد سحب أرتال من دارفور. البرهان قابلها بسحب قوة الصياد من الأبيض ووحدات أم روابة إلى أم درمان لإغلاق ممر الإمداد. مسيّرات الدعم السريع أطفأت كهرباء الأبيض السبت وأحرقت أرشيف التلفزيون. والتالي؟",
+      "bigStat": {
+        "value": "150+",
+        "label": "RSF combat vehicles, N. Kordofan",
+        "arabicLabel": "آلية للدعم السريع"
+      },
+      "supportingStats": [
+        {
+          "label": "الجيش يسحب",
+          "value": "قوة الصياد"
+        },
+        {
+          "label": "الأبيض اليوم",
+          "value": "بلا كهرباء"
+        },
+        {
+          "label": "موعد الحشد",
+          "value": "4 مايو 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-05-sudan-kordofan-decisive-battle-150-vehicles/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "ثمن المدنيين",
+      "arabicHeading": "13.5 مليون نازح منذ 2023 و4 قتلى في وادي الكاهلي بضربة فجر",
+      "arabicBody": "في 1-2 مايو، 4 مدنيين سقطوا في وادي الكاهلي شرق الجزيرة بضربة فجر نُسبت لدرع السودان، 3 منهم من أسرة واحدة. كبكابية بشمال دارفور خسرت 1 على الأقل في اليوم نفسه. الجيش اتهم الإمارات وإثيوبيا بضربة مطار الخرطوم. أوتشا تعدّ 13.5 مليون نازح، و80 ألف فروا من كردفان في أبريل وحده. أسطوانة غاز بورتسودان قفزت من 9 إلى 42 دولاراً.",
+      "bigStat": {
+        "value": "13.5M",
+        "label": "Displaced since 2023",
+        "arabicLabel": "نازح سوداني"
+      },
+      "supportingStats": [
+        {
+          "label": "وادي الكاهلي",
+          "value": "4 قتلى"
+        },
+        {
+          "label": "نزوح أبريل",
+          "value": "80 ألف من كردفان"
+        },
+        {
+          "label": "غاز بورتسودان",
+          "value": "42 دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-05-sudan-kordofan-decisive-battle-150-vehicles/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الرهان الإقليمي",
+      "arabicHeading": "كردفان تمسك أنبوب الجنوب وقمح مصر يعبر من بشائر",
+      "arabicBody": "من يمسك كردفان يمسك السكة الحديدية وأنبوب جنوب السودان الحامل لـ150 ألف برميل يومياً إلى ميناء بشائر. سقوطها بيد الدعم السريع يقسم السودان شرقاً وغرباً، ويهدد 30 بالمئة من قمح مصر العابر من المنطقة. وساطة سعودية-إماراتية في المنامة فشلت في أبريل. القاهرة في تأهب: عززت معابر مثلث حلايب، وعبد العاطي يلتقي البرهان في بورتسودان هذا الأسبوع. الحصاد يقترب.",
+      "bigStat": {
+        "value": "150K",
+        "label": "S. Sudan crude bpd via Bashayer",
+        "arabicLabel": "برميل عبر بشائر"
+      },
+      "supportingStats": [
+        {
+          "label": "قمح مصر",
+          "value": "30 بالمئة من المنطقة"
+        },
+        {
+          "label": "وساطة المنامة",
+          "value": "فشلت أبريل"
+        },
+        {
+          "label": "حلايب",
+          "value": "تعزيز مصري"
+        }
+      ],
+      "broll": "images/news/2026-05-05-sudan-kordofan-decisive-battle-150-vehicles/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Darfur 24",
+      "domain": "darfur24.com"
+    },
+    {
+      "name": "Sudan Tribune",
+      "domain": "sudantribune.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "AFP",
+      "domain": "afp.com"
+    }
+  ],
+  "arabicTicker": [
+    "البرهان وحميدتي يحتشدان في شمال كردفان لمعركة وُصفت بالفاصلة هذا الأسبوع",
+    "الدعم السريع كدّس أكثر من 150 آلية قتالية بعد سحب أرتال من شمال وجنوب دارفور",
+    "مسيّرات حميدتي ضربت محطة كهرباء الأبيض والتلفزيون وأحرقت أرشيف الإذاعة التاريخي",
+    "13.5 مليون سوداني نزحوا منذ 2023، و80 ألف إضافي فرّوا من كردفان في أبريل وحده",
+    "وادي الكاهلي خسر 4 مدنيين بينهم 3 من أسرة واحدة في ضربة فجر منسوبة لدرع السودان",
+    "أنبوب الجنوب يحمل 150 ألف برميل عبر بشائر، و30 بالمئة من قمح مصر يعبر المنطقة",
+    "هل تسقط كردفان وينقسم السودان شرقاً وغرباً، أم تنتزع القاهرة هدنة قبل الحصاد؟"
+  ]
+}

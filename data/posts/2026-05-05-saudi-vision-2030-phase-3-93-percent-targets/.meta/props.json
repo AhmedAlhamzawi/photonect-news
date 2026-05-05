@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "المرحلة الثالثة",
+    "arabicHeadline": "محمد بن سلمان يعلن المرحلة 3: 309 من 390 مؤشراً عبرت الهدف",
+    "englishSubhead": "VISION 2030 PHASE 3 • 309/390 • $900B PIF",
+    "heroQueries": [
+      "Crown Prince Mohammed bin Salman Vision 2030 podium",
+      "Riyadh skyline dusk Vision 2030 banner",
+      "Saudi women workforce technology jobs",
+      "AlUla heritage tourism visitors Saudi",
+      "Saudi PIF sovereign wealth fund logo"
+    ],
+    "heroMedia": "images/news/2026-05-05-saudi-vision-2030-phase-3-93-percent-targets/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "بداية المرحلة 3",
+      "arabicHeading": "الملك سلمان وولي العهد يعتمدان تقرير 2025 و93 بالمئة على المسار",
+      "arabicBody": "في 26 أبريل، الرياض نشرت التقرير السنوي لرؤية 2030 لعام 2025، البرنامج المُطلق في 2016 لفطم المملكة عن النفط. التقرير المعتمد من الملك سلمان ومحمد بن سلمان كشف 309 من 390 مؤشراً بلغت أو تجاوزت أهداف 2030، و52 مؤشراً عند 85-99 بالمئة. من 1290 مبادرة، 935 على الجدول و225 مكتملة. والمحك القادم؟",
+      "bigStat": {
+        "value": "309/390",
+        "label": "Indicators met or exceeded",
+        "arabicLabel": "مؤشر متحقق"
+      },
+      "supportingStats": [
+        {
+          "label": "اللوحة على المسار",
+          "value": "93 بالمئة"
+        },
+        {
+          "label": "مبادرات نشطة",
+          "value": "935 من 1290"
+        },
+        {
+          "label": "تاريخ التقرير",
+          "value": "26 أبريل 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-05-saudi-vision-2030-phase-3-93-percent-targets/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الأرقام الصلبة",
+      "arabicHeading": "الناتج 4.5 بالمئة، السياحة 123 مليون، والصندوق يقفز إلى 900 مليار",
+      "arabicBody": "نما الناتج المحلي 4.5 بالمئة في 2025، الأسرع منذ ثلاث سنوات، والاقتصاد غير النفطي عبر 50 بالمئة لأول مرة. البطالة هبطت إلى 7.2 بالمئة من 12.3 عند الإطلاق 2016. التضخم 2 بالمئة فقط. السياحة عبرت 123 مليون زائر، قبل ثماني سنوات من هدف 100 مليون. مشاركة المرأة قفزت إلى 36 من 17. الصندوق السيادي ضخم إلى 900 مليار.",
+      "bigStat": {
+        "value": "$900B",
+        "label": "PIF AUM, 2026",
+        "arabicLabel": "أصول الصندوق"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو الناتج 2025",
+          "value": "4.5 بالمئة"
+        },
+        {
+          "label": "زوار السياحة",
+          "value": "123 مليون"
+        },
+        {
+          "label": "مشاركة المرأة",
+          "value": "36 بالمئة"
+        }
+      ],
+      "broll": "images/news/2026-05-05-saudi-vision-2030-phase-3-93-percent-targets/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "الرهان القادم",
+      "arabicHeading": "نيوم ومترو الرياض في 30 يونيو وإكسبو 2030 في نوفمبر",
+      "arabicBody": "أولويات المرحلة 3: قيمة القطاع الخاص، لوجستيات البحر الأحمر عبر ميناء نيوم، الافتتاح الكامل لمترو الرياض في 30 يونيو، واستضافة إكسبو 2030 في نوفمبر. لكن الفخ يتربّص: برنت عند 114 دولار من حرب إيران يجذب الميزان في اتجاهين، والربط الكهربائي والسكك الخليجية يحتاجان 80 مليار دولار إضافية. ولي العهد قال للحكومة في 1 مايو: المملكة تنتقل «دون تباطؤ».",
+      "bigStat": {
+        "value": "$80B",
+        "label": "Extra capex needed, GCC grid+rail",
+        "arabicLabel": "رأسمال إضافي"
+      },
+      "supportingStats": [
+        {
+          "label": "مترو الرياض",
+          "value": "30 يونيو"
+        },
+        {
+          "label": "إكسبو 2030",
+          "value": "نوفمبر 2030"
+        },
+        {
+          "label": "نفط برنت",
+          "value": "114 دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-05-saudi-vision-2030-phase-3-93-percent-targets/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "english.aawsat.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Saudi Gazette",
+      "domain": "saudigazette.com.sa"
+    },
+    {
+      "name": "Zawya",
+      "domain": "zawya.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "محمد بن سلمان يعلن انتقال السعودية للمرحلة الثالثة من رؤية 2030 رسمياً في مايو 2026",
+    "309 من 390 مؤشراً عبرت أو بلغت هدف 2030، و52 مؤشراً إضافياً عند 85 بالمئة فأكثر",
+    "الناتج المحلي نما 4.5 بالمئة في 2025، الأسرع منذ ثلاث سنوات، والقطاع غير النفطي عبر النصف",
+    "السياحة بلغت 123 مليون زائر، قبل ثماني سنوات من هدف 100 مليون الذي أعلنته الرؤية",
+    "مشاركة المرأة في سوق العمل قفزت إلى 36 بالمئة من 17 بالمئة في 2016",
+    "صندوق الاستثمارات العامة كبر من 150 مليار دولار في 2015 إلى أكثر من 900 مليار اليوم",
+    "هل تنهي السعودية المرحلة 3 في 2030 دون تباطؤ، أم يكسر برنت 114 دولار حساب الميزان؟"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "تحالف الخليج للحوسبة",
+    "arabicHeadline": "تارانيس وإعمار يحسمان أول تحالف خليجي علني لمراكز بيانات الذكاء",
+    "englishSubhead": "TARANIS × EMAAR • 40-50MW • SOVEREIGN AI",
+    "heroQueries": [
+      "data center server racks blue lights",
+      "NVIDIA H200 GPU close-up",
+      "Riyadh skyline modern technology",
+      "Abu Dhabi G42 headquarters skyline",
+      "AI chip neural network visualization"
+    ],
+    "heroMedia": "images/news/2026-05-05-uae-saudi-data-center-jv-taranis-emaar-50mw/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "توقيع التحالف",
+      "arabicHeading": "تارانيس وإعمار يبنيان مراكز 40-50 ميغاواط للسيادة الرقمية الخليجية",
+      "arabicBody": "في 2 مايو 2026 حسمت تارانيس كابيتال الإماراتية وإعمار التنفيذية السعودية تحالفاً لتطوير سلسلة مراكز بيانات داخل المملكة بسعة 40 إلى 50 ميغاواط لكل منشأة. هذا أول وعاء خليجي معلن مكرّس لأحمال الذكاء الاصطناعي منذ ميثاق ستارغيت بين OpenAI و G42 في مايو 2025. الهدف: مزوّدو السحابة والمنصات الحكومية ومشغّلو نماذج الذكاء. لكن من سيتنافس على الرقاقات؟",
+      "bigStat": {
+        "value": "40-50 MW",
+        "label": "Capacity per data centre site",
+        "arabicLabel": "سعة المنشأة"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ الإعلان",
+          "value": "2 مايو 2026"
+        },
+        {
+          "label": "أول تحالف",
+          "value": "منذ ستارغيت"
+        },
+        {
+          "label": "العملاء",
+          "value": "حكومات وسحابة"
+        }
+      ],
+      "broll": "images/news/2026-05-05-uae-saudi-data-center-jv-taranis-emaar-50mw/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "لماذا الآن",
+      "arabicHeading": "20 مليار دولار سباق و290 ميغاواط مركّباً و540 قيد البناء",
+      "arabicBody": "السعودية تتسابق لاقتناص 20 مليار دولار من صفقات بنية الذكاء الاصطناعي، مع 3 مراكز لمايكروسوفت في الرياض و14 مليار من أوراكل وخطة AWS لإقليم سحابي نهاية العام. تارانيس وإعمار تدخلان كمشغّل محلي تستأجره الـHyperscale. السعة السعودية قفزت 38% إلى 290 ميغاواط في 2025، و540 إضافياً قيد البناء. شركات الإمارات تسيطر على 60% من حوسبة الخليج. وهنا تبدأ المعركة الحقيقية.",
+      "bigStat": {
+        "value": "290 → 540 MW",
+        "label": "Saudi DC capacity now and pipeline",
+        "arabicLabel": "مركّب وقيد البناء"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو 2025",
+          "value": "+38%"
+        },
+        {
+          "label": "حصة الإمارات",
+          "value": "60% خليجياً"
+        },
+        {
+          "label": "صفقات الإقليم",
+          "value": "20 مليار دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-05-uae-saudi-data-center-jv-taranis-emaar-50mw/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "4 مواقع نهاية 2026 و90 ألف رقاقة سقف والعراق دون ترخيص واحد",
+      "arabicBody": "المصرفيون يتوقعون التزام تارانيس وإعمار بأربعة مواقع بحلول الربع الرابع 2026 وتشغيل النصف الثاني 2027 بإجمالي 160 إلى 200 ميغاواط. السؤال الأكبر الرقاقات: حصة الشرق الأوسط من NVIDIA H200 لعام 2026 سقفها 90 ألفاً فقط. الزيدي وضع تنظيم السحابة السيادية في خطة 100 يوم. بدونه تهاجر بيانات الحكومة العراقية إلى الرياض وأبوظبي خلال 18 شهراً. الأسوأ لم يصل بعد.",
+      "bigStat": {
+        "value": "90,000",
+        "label": "MENA NVIDIA H200 chip cap 2026",
+        "arabicLabel": "سقف الرقاقات"
+      },
+      "supportingStats": [
+        {
+          "label": "أربعة مواقع",
+          "value": "نهاية 2026"
+        },
+        {
+          "label": "إجمالي السعة",
+          "value": "160-200 ميغاواط"
+        },
+        {
+          "label": "تشغيل الكهرباء",
+          "value": "نصف 2027"
+        }
+      ],
+      "broll": "images/news/2026-05-05-uae-saudi-data-center-jv-taranis-emaar-50mw/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GoalFore News",
+      "domain": "news.goalfore.com"
+    },
+    {
+      "name": "S&P Global",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Middle East Insider",
+      "domain": "themiddleeastinsider.com"
+    },
+    {
+      "name": "Fast Company ME",
+      "domain": "fastcompanyme.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Saudi Vision 2030 Office",
+      "domain": "vision2030.gov.sa"
+    }
+  ],
+  "arabicTicker": [
+    "تارانيس الإماراتية وإعمار السعودية تحسمان أول تحالف خليجي معلن لمراكز بيانات الذكاء الاصطناعي",
+    "كل منشأة بسعة 40 إلى 50 ميغاواط تكفي تدريب نموذج Falcon-H1 العربي بـ34 مليار معامل",
+    "السعة المركّبة في السعودية قفزت 38% إلى 290 ميغاواط و540 إضافياً في خط الأنابيب",
+    "شركات الإمارات تسيطر على 60% من حوسبة الذكاء الاصطناعي الخليجية حسب آخر التقديرات",
+    "أربعة مواقع متوقعة بنهاية 2026 وتشغيل كهرباء النصف الثاني 2027 بإجمالي 200 ميغاواط",
+    "سقف رقاقات NVIDIA H200 الشرق أوسطية 90 ألفاً فقط في 2026 بفعل قيود التصدير الأمريكية",
+    "هل يرخّص العراق مركز بيانات سيادي ضمن خطة الزيدي 100 يوم أم تهاجر البيانات للرياض؟"
+  ]
+}

@@ -1,0 +1,5 @@
+# media brief — uae-saudi-data-center-jv-taranis-emaar-50mw
+- hero.jpg — depicts: Datacenter server racks (the asset class the Taranis-Emaar JV will build) — generic-context AI compute infrastructure; source: https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg; license: CC BY 2.0 (Carl Lender)
+- broll_1.jpg — depicts: Abu Dhabi skyline with UAE flag — visual anchor for Taranis Capital's UAE side of the JV; source: https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_UAE_Flag.jpg; license: CC BY-SA 4.0
+- broll_2.jpg — depicts: Dubai fountain pond and Emaar towers viewed from Dubai Mall — recognisable Emaar-branded skyline tying to Emaar Executive Company; source: https://commons.wikimedia.org/wiki/File:Dubai_fountain_pond_and_Emaar_towers_view_from_Dubai_Mall.jpg; license: CC BY-SA 4.0
+- broll_3.jpg — depicts: Riyadh skyline with King Abdullah Financial District (KAFD) and Kingdom Tower — Saudi capital cityscape where the JV's data centres will be built; source: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg; license: CC BY-SA 4.0

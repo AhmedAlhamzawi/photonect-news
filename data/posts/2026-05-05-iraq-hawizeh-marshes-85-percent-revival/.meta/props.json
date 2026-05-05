@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 05 • 2026",
+  "arabicDateLabel": "5 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "أهوار الحويزة",
+    "arabicHeadline": "الحويزة تعود 85% غارقة و70 ملم مطر تعيد قلب العراق",
+    "englishSubhead": "HAWIZEH 85% • 70MM RAIN • 168K DISPLACED",
+    "heroQueries": [
+      "Hawizeh marshes Iraq flooded",
+      "Madan marsh Arab buffalo herder",
+      "Mashufa boat reed channel sunset",
+      "Iraq Maysan wetland aerial drone",
+      "Iraqi marshes UNESCO heritage"
+    ],
+    "heroMedia": "images/news/2026-05-05-iraq-hawizeh-marshes-85-percent-revival/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "عودة الأهوار",
+      "arabicHeading": "85% غمر في 1 مايو والمشاحيف تعود بعد 3 صيفيات جفاف",
+      "arabicBody": "في 1 مايو 2026 رصدت ذا ناشيونال من ميسان أن الحويزة غارقة 85%، الأعلى منذ 2019، بعد 70 ملم من أمطار الشتاء وأبريل. صور جوية تلتقط المشاحيف بين القصب وقطعان الجاموس ترعى عند أبو خصاف والكحلاء. هاشم مهدي لازم، راعي معدان نزح 2022، قال: اليوم الهور يتذكرنا. لكن من ضمن لازم بقاء الماء بعد يونيو؟",
+      "bigStat": {
+        "value": "85%",
+        "label": "Hawizeh marshland now flooded",
+        "arabicLabel": "نسبة الغمر"
+      },
+      "supportingStats": [
+        {
+          "label": "أمطار الشتاء",
+          "value": "70 ملم"
+        },
+        {
+          "label": "أعلى مستوى",
+          "value": "منذ 2019"
+        },
+        {
+          "label": "المصدر",
+          "value": "ذا ناشيونال"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-hawizeh-marshes-85-percent-revival/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "ثمن الجفاف",
+      "arabicHeading": "168 ألف نازح والجاموس يسقط من 1.2 مليون إلى 380 ألفاً",
+      "arabicBody": "المنظمة الدولية للهجرة تكشف أن 168 ألف عراقي نزحوا منذ 2021 بسبب الجفاف والملوحة، الأعلى عربياً. تدفق دجلة والفرات سقط 27% عن خط 1933، وسدود تركيا وإيران تقتطع 10 إلى 12% لكل منها. قطعان الجاموس انهارت من 1.2 مليون عام 2018 إلى 380 ألفاً في 2024، فضربت ألبان وشلب الجنوب. وهنا تبدأ المشكلة الأخطر.",
+      "bigStat": {
+        "value": "168,000",
+        "label": "Iraqis displaced by drought since 2021",
+        "arabicLabel": "نازح مناخياً"
+      },
+      "supportingStats": [
+        {
+          "label": "تدفق النهرين",
+          "value": "هبوط 27%"
+        },
+        {
+          "label": "جاموس 2018",
+          "value": "1.2 مليون"
+        },
+        {
+          "label": "جاموس 2024",
+          "value": "380 ألفاً"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-hawizeh-marshes-85-percent-revival/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "تهديدات الصيف",
+      "arabicHeading": "50 درجة و15 ملم تبخراً والكرخة يفتح ضخّ خوزستان في 1 يونيو",
+      "arabicBody": "وزارة الموارد المائية تعهدت في 1 مايو بإبقاء غمر الأهوار صيفاً عند 60% كحدّ أدنى، لكن 3 مخاطر تطل. الحرارة فوق 50 ستبخّر 15 ملم أسبوعياً، وسد الكرخة الإيراني يفتح ضخّ خوزستان في 1 يونيو، وخزان أليسو التركي بلغ ذروة 12 سنة. الزيدي رفع الأمن المائي للكابينة دون اتفاقية إقليمية. الأسوأ لم يصل بعد.",
+      "bigStat": {
+        "value": "90 يوماً",
+        "label": "Window to save the summer marsh",
+        "arabicLabel": "نافذة الإنقاذ"
+      },
+      "supportingStats": [
+        {
+          "label": "حرارة الصيف",
+          "value": "فوق 50"
+        },
+        {
+          "label": "تبخر أسبوعي",
+          "value": "15 ملم"
+        },
+        {
+          "label": "ضخّ الكرخة",
+          "value": "1 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-05-05-iraq-hawizeh-marshes-85-percent-revival/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "IOM MENA",
+      "domain": "mena.iom.int"
+    },
+    {
+      "name": "NASA Earth",
+      "domain": "science.nasa.gov"
+    },
+    {
+      "name": "Chatham House",
+      "domain": "chathamhouse.org"
+    },
+    {
+      "name": "Iraqi Ministry of Water Resources",
+      "domain": "mowr.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "هاشم راعي معدان نزح 2022 يعود اليوم لأن الحويزة غارقة 85%",
+    "70 ملم من أمطار الشتاء وأبريل أعادت الأهوار بعد 3 صيفيات جفاف",
+    "168 ألف عراقي نزحوا مناخياً منذ 2021 وهو الأعلى عربياً وفق المنظمة الدولية للهجرة",
+    "تدفق دجلة والفرات سقط 27% عن خط 1933 وسدود الجوار تقتطع 10 إلى 12% لكل منها",
+    "قطعان الجاموس سقطت من 1.2 مليون رأس عام 2018 إلى 380 ألفاً في 2024",
+    "وزارة الموارد المائية تتعهد بغمر صيفي لا يقل عن 60% رغم تبخر 15 ملم أسبوعياً",
+    "هل ينقذ ملف الأمن المائي في كابينة الزيدي الأهوار خلال الـ90 يوماً المقبلة؟"
+  ]
+}
