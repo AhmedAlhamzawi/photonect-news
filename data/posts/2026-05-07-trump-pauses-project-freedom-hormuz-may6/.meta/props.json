@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "أقل من 48 ساعة",
+    "arabicHeadline": "ترامب يجمّد Project Freedom في هرمز قبل اكتمال 48 ساعة من إطلاقها",
+    "englishSubhead": "PROJECT FREEDOM • <48H • BRENT −8%",
+    "heroQueries": [
+      "Donald Trump Oval Office Truth Social White House podium",
+      "USS Carney destroyer Strait of Hormuz convoy formation",
+      "Pakistan Foreign Minister Ishaq Dar Islamabad podium",
+      "Strait of Hormuz aerial map chokepoint mine field",
+      "Brent crude oil price chart May 2026 drop"
+    ],
+    "heroMedia": "images/news/2026-05-07-trump-pauses-project-freedom-hormuz-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التجميد",
+      "arabicHeading": "ترامب على Truth Social: نوقف العملية بطلب من إسحاق دار",
+      "arabicBody": "الثلاثاء 5 مايو، ترامب أعلن على Truth Social إيقاف Project Freedom، التي أطلقتها البحرية الأمريكية الأحد 3 مايو لمرافقة ناقلات هرمز. NPR أكدت أن العملية انطفأت قبل اكتمال 48 ساعة. ترامب استند إلى طلب وزير خارجية باكستان إسحاق دار، وسيط الرسائل بين البيت الأبيض وعراقجي، وإلى تقدّم كبير نحو اتفاق نهائي مع طهران. لكن السؤال المخفي: من قبض الثمن مقابل الإيقاف؟",
+      "bigStat": {
+        "value": "<48h",
+        "label": "Operation duration before pause",
+        "arabicLabel": "ساعة قبل التجميد"
+      },
+      "supportingStats": [
+        {
+          "label": "إطلاق العملية",
+          "value": "3 مايو 2026"
+        },
+        {
+          "label": "أول قافلة",
+          "value": "USS Carney"
+        },
+        {
+          "label": "الوسيط",
+          "value": "إسحاق دار"
+        }
+      ],
+      "broll": "images/news/2026-05-07-trump-pauses-project-freedom-hormuz-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "ما توقف",
+      "arabicHeading": "الحصار البحري قائم والألغام في القناة وبرنت يسقط 8 بالمئة",
+      "arabicBody": "Project Freedom كانت برنامج المرافقة فقط؛ الحصار البحري الأمريكي على الموانئ الإيرانية ما زال قائماً. ألغام الحرس الثوري ما زالت في القناة المركزية، وطهران لم ترفع رسمياً إعلان إغلاق 28 فبراير. أرامكو وأدنوك لم تستأنفا الإبحار، ومركز معلومات الملاحة المشترك لم يصدر تنبيه الأربعاء. برنت سقط 8 بالمئة خلال اليوم، تحت 101 دولار من قمة 107 الاثنين. وهنا تبدأ المشكلة الحقيقية.",
+      "bigStat": {
+        "value": "−8%",
+        "label": "Brent intraday drop, $107 to <$101",
+        "arabicLabel": "هبوط برنت خلال اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "قمة 2026",
+          "value": "107 دولار للبرميل"
+        },
+        {
+          "label": "قاع اليوم",
+          "value": "أقل من 101 دولار"
+        },
+        {
+          "label": "إعلان إيران",
+          "value": "28 فبراير سار"
+        }
+      ],
+      "broll": "images/news/2026-05-07-trump-pauses-project-freedom-hormuz-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "حصة العراق",
+      "arabicHeading": "سومو جاهزة بناقلتين، وانهيار المسار يخصم 4 مليار من بغداد",
+      "arabicBody": "نائب وزير النفط باسم محمد قال للعربية إن سومو هيّأت ناقلتين للتحميل من البصرة مع القافلة، واثنتين رهن الأمن. تجميد ناجح يعيد صادرات العراق إلى 3.4 مليون برميل خلال أسبوع. انهيار الاتفاق يعني شهراً آخر عند 1.4-1.5 مليون، بكلفة 4 مليار دولار من خزينة بغداد في مايو. ولي العهد محمد بن سلمان يضغط شخصياً على ترامب لإبقاء الهدنة حتى عيد الأضحى 27 مايو. الأسوأ لم يصل بعد.",
+      "bigStat": {
+        "value": "$4B",
+        "label": "Iraq treasury cost per low-export month",
+        "arabicLabel": "خسارة شهرية محتملة"
+      },
+      "supportingStats": [
+        {
+          "label": "ناقلات سومو",
+          "value": "2 + 2 احتياط"
+        },
+        {
+          "label": "هدف العودة",
+          "value": "3.4 مليون برميل"
+        },
+        {
+          "label": "عيد الأضحى",
+          "value": "27 مايو 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-07-trump-pauses-project-freedom-hormuz-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    }
+  ],
+  "arabicTicker": [
+    "ترامب يجمّد Project Freedom قبل اكتمال 48 ساعة من إطلاقها لمرافقة ناقلات هرمز",
+    "إسحاق دار وزير خارجية باكستان وسيط بين البيت الأبيض وعراقجي يطلب فرصة هدنة",
+    "الحصار البحري على إيران قائم والألغام ما زالت في القناة رغم تجميد المرافقة",
+    "برنت يسقط 8 بالمئة خلال اليوم تحت 101 دولار من قمة 107 الاثنين",
+    "نائب وزير النفط: سومو جاهزة بناقلتين والاثنتين الأخريين رهن أمن الممر",
+    "تجميد ناجح يعيد صادرات العراق إلى 3.4 مليون برميل، انهيار يكلف 4 مليار شهرياً",
+    "هل ينجح ابن سلمان بإبقاء الهدنة حتى عيد الأضحى 27 مايو؟"
+  ]
+}

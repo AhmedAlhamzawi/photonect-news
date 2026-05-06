@@ -1,0 +1,136 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "بكين تتدخّل",
+    "arabicHeadline": "وانغ يي يضرب الطاولة بوجه أراغجي: افتحوا هرمز قبل قمة شي وترامب",
+    "englishSubhead": "BEIJING • ARAGHCHI | HORMUZ | TRUMP-XI",
+    "heroQueries": [
+      "Abbas Araghchi Iranian Foreign Minister portrait",
+      "Wang Yi Chinese Foreign Minister official photo",
+      "Diaoyutai State Guesthouse Beijing pavilion",
+      "Strait of Hormuz tanker traffic satellite",
+      "Trump Xi Jinping summit handshake"
+    ],
+    "heroMedia": "images/news/2026-05-07-araghchi-wang-yi-beijing-hormuz-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "قمة بكين",
+      "arabicHeading": "أراغجي يدخل دياويوتاي… ووانغ يي يستقبله بإنذار علني",
+      "arabicBody": "في 6 مايو، نزل أراغجي ضيفاً عند وانغ يي في دياويوتاي ببكين. لكن الصيني فاجأ الجميع وتكلّم علناً: أوقفوا القتال فوراً، وافتحوا مضيق هرمز قبل ما يفوت الوقت. أراغجي ردّ ببرود: لا اتفاق إلا عادل وشامل. الجلسة لم تكن دبلوماسية روتينية، بل بروفة قبل 7 أيام من قمة شي وترامب في 14-15 مايو.",
+      "bigStat": {
+        "value": "May 14-15",
+        "label": "Trump-Xi Beijing summit",
+        "arabicLabel": "قمة شي وترامب"
+      },
+      "supportingStats": [
+        {
+          "label": "مكان اللقاء",
+          "value": "دياويوتاي"
+        },
+        {
+          "label": "تاريخه",
+          "value": "6 مايو"
+        },
+        {
+          "label": "الفجوة",
+          "value": "أسبوع واحد"
+        }
+      ],
+      "broll": "images/news/2026-05-07-araghchi-wang-yi-beijing-hormuz-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "الرهانات",
+      "arabicHeading": "خُمس نفط العالم محبوس… وبكين تنزف 800 ألف برميل من الاحتياطي يومياً",
+      "arabicBody": "هرمز ليس ممراً، بل شريان: 20 مليون برميل يومياً، خُمس نفط الكوكب وغازه المسال. الصين أكبر مشتري: 1.56 مليون برميل من السعودية و1.1 مليون من العراق. منذ إغلاق 28 فبراير، بكين تستنزف احتياطها الاستراتيجي بمعدّل 800 ألف برميل يومياً، وهوامش سينوبك ودالين تحوّلت سلبية لأول مرة منذ 2020. هكذا تشرح كلام وانغ يي العلني.",
+      "bigStat": {
+        "value": "20%",
+        "label": "Hormuz share of global oil",
+        "arabicLabel": "حصة هرمز عالمياً"
+      },
+      "supportingStats": [
+        {
+          "label": "السعودية للصين",
+          "value": "1.56 مليون"
+        },
+        {
+          "label": "العراق للصين",
+          "value": "1.1 مليون"
+        },
+        {
+          "label": "سحب الاحتياطي",
+          "value": "800 ألف يومياً"
+        }
+      ],
+      "broll": "images/news/2026-05-07-araghchi-wang-yi-beijing-hormuz-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    },
+    {
+      "label": "الصدى العراقي",
+      "arabicHeading": "موازنة بغداد بُنيت على هرمز مفتوح… والحج يدقّ في 25 مايو",
+      "arabicBody": "موازنة العراق 2026 افترضت استعادة 100 بالمئة من صادرات هرمز بحلول الربع الثالث. هذا يعني خياراً واحداً: سحب الألغام طوعاً أو فتح بضغط واشنطن وبكين. إن أنتجت قمة 14-15 مايو مصافحة، تبدأ ناقلات البصرة التحميل قبل الحج. إن عاد أراغجي بلا اتفاق، يبقى العراق محبوساً على 330 ألف برميل عبر جيهان، أقل بعشرة أضعاف من 3.4 مليون قبل الحرب.",
+      "bigStat": {
+        "value": "May 25",
+        "label": "Hajj 2026 day 1",
+        "arabicLabel": "بداية الحج"
+      },
+      "supportingStats": [
+        {
+          "label": "افتراض الموازنة",
+          "value": "هرمز Q3"
+        },
+        {
+          "label": "جيهان اليوم",
+          "value": "330 ألف"
+        },
+        {
+          "label": "ما قبل الحرب",
+          "value": "3.4 مليون"
+        }
+      ],
+      "broll": "images/news/2026-05-07-araghchi-wang-yi-beijing-hormuz-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFB020"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "وانغ يي يضرب الطاولة علناً بوجه أراغجي: افتحوا هرمز قبل قمة شي وترامب",
+    "أراغجي يردّ من دياويوتاي: لا اتفاق إلا عادل وشامل ولا تنازل تحت الضغط",
+    "هرمز شريان 20 مليون برميل يومياً وخُمس نفط العالم وغازه المسال",
+    "الصين تشتري 1.56 مليون من السعودية و1.1 مليون من العراق سنوياً",
+    "بكين تستنزف 800 ألف برميل من احتياطها الاستراتيجي يومياً منذ 28 فبراير",
+    "هوامش سينوبك ودالين تنقلب سلبية لأول مرة منذ 2020 بسبب إغلاق المضيق",
+    "موازنة بغداد بُنيت على هرمز مفتوح Q3 فهل ينجو الحج 25 مايو؟"
+  ]
+}

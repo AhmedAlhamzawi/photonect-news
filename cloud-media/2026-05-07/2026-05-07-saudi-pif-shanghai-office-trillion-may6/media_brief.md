@@ -1,0 +1,6 @@
+# media brief — saudi-pif-shanghai-office-trillion-may6
+
+- hero.jpg — depicts: Lily Cong (PIF Greater China head) in tailored cream blazer against blurred Shanghai Lujiazui skyline; verifies as: HERO named entity (Lily Cong); source: Kie AI (google/nano-banana, taskId d3a93a48564e94f5fa5afaf0fee59aed); license: Generated content, full commercial use; match score: good (AI illustration of named entity — no public Commons/Wikipedia portrait of Lily Cong exists; the Shanghai backdrop reinforces the Shanghai-office story angle)
+- broll_1.jpg — depicts: Yasir bin Othman Al-Rumayyan, PIF Governor; verifies as: BROLL_1 named entity (Yasir al-Rumayyan); source: https://commons.wikimedia.org/wiki/File:Yasir_bin_Othman_Al-Rumayyan.jpg; license: CC-BY (Saudi government / WEF); match score: strict
+- broll_2.jpg — depicts: Shanghai Lujiazui financial district night skyline (Shanghai Tower / Jin Mao / SWFC trio); verifies as: BROLL_2 named entity (Lujiazui Shanghai); source: https://commons.wikimedia.org/wiki/File:Shanghai_Lujiazui_night_skyline_2017_-_Flickr.jpg; license: CC-BY 2.0; match score: strict
+- broll_3.jpg — depicts: PIF Tower in Riyadh's King Abdullah Financial District (KAFD); verifies as: BROLL_3 named entity (PIF HQ Riyadh); source: https://commons.wikimedia.org/wiki/File:PIF_Tower_Riyadh_2024.jpg; license: CC-BY-SA; match score: strict

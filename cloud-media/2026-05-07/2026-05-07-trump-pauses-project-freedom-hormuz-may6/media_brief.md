@@ -1,0 +1,6 @@
+# media brief — trump-pauses-project-freedom-hormuz-may6
+
+- hero.jpg — depicts: Donald Trump official 2025 portrait headshot; verifies as: HERO named entity (Donald Trump); source: https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait,_2025_(cropped_headshot).jpg; license: Public Domain (PD-USGov, White House official photographer); match score: strict
+- broll_1.jpg — depicts: USS Carney (DDG-64) Arleigh Burke-class guided-missile destroyer underway; verifies as: BROLL_1 named entity (USS Carney destroyer); source: https://commons.wikimedia.org/wiki/File:USS_CARNEY_(DDG_64)_underway.jpg; license: Public Domain (PD-USGov, US Navy DVIDS); match score: strict
+- broll_2.jpg — depicts: Mohammad Ishaq Dar, Pakistan Foreign Minister, official 2024 portrait; verifies as: BROLL_2 named entity (Pakistan FM Ishaq Dar); source: https://commons.wikimedia.org/wiki/File:Mohammad_Ishaq_Dar_in_2024_(cropped).jpg; license: CC-BY 4.0 (Pakistan MOFA / Government of Pakistan); match score: strict
+- broll_3.jpg — depicts: Strait of Hormuz NASA MODIS satellite image showing chokepoint between Persian Gulf and Gulf of Oman; verifies as: BROLL_3 named entity (Strait of Hormuz NASA satellite); source: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg; license: Public Domain (PD-NASA); match score: strict

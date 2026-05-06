@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "الصندوق السيادي",
+    "arabicHeadline": "الرميان يفتح مكتب شنغهاي ويوجه تريليون دولار نحو الصين",
+    "englishSubhead": "PIF • $1T • SHANGHAI",
+    "heroQueries": [
+      "Lily Cong PIF China head Bloomberg portrait Beijing",
+      "Yasir Rumayyan PIF governor portrait Future Investment Initiative",
+      "Shanghai Lujiazui financial district skyline dusk",
+      "PIF logo King Fahad Road tower Riyadh exterior",
+      "Mohammed bin Salman PIF chairman portrait"
+    ],
+    "heroMedia": "images/news/2026-05-07-saudi-pif-shanghai-office-trillion-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ما افتتح",
+      "arabicHeading": "بلومبرغ تكشف: ليلي كونغ تقود مكتب شنغهاي من بكين",
+      "arabicBody": "الثلاثاء 6 مايو، بلومبرغ ووكالة AGBI أكدتا أن صندوق ياسر الرميان، التريليون دولار، فعّل مكتب شنغهاي. ثاني مكتب على البر الصيني بعد بكين. الكيان سُجل 2025 وانطلق مطلع 2026، وتديره ليلي كونغ التي قادت Fidelity في بكين قبل أن تنتقل للصندوق. الشبكة الآن: نيويورك، لندن، هونغ كونغ، باريس، بكين، شنغهاي. والسؤال: لماذا اثنان في 18 شهراً؟",
+      "bigStat": {
+        "value": "$1T",
+        "label": "PIF assets under management",
+        "arabicLabel": "أصول الصندوق"
+      },
+      "supportingStats": [
+        {
+          "label": "مكاتب البر الصيني",
+          "value": "2 (بكين+شنغهاي)"
+        },
+        {
+          "label": "تسجيل الكيان",
+          "value": "2025"
+        },
+        {
+          "label": "بدء التشغيل",
+          "value": "مطلع 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-pif-shanghai-office-trillion-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "لماذا الآن",
+      "arabicHeading": "الرياض ثاني مورد نفط لبكين والصندوق يلاحق بطاريات الصين",
+      "arabicBody": "استراتيجية 2026-2030 المعتمدة في أبريل تشطر الأصول ثلاثاً: محلية، أبطال وطنيون كأرامكو، واستثمارات عالمية. الصين في الثلاث. الرياض ثاني مورد نفط لبكين بـ 1.56 مليون برميل، توسعة أرامكو-سينوبك تضيف 1.8 مليون طن إيثيلين، ومصفاة فوجيان بـ 9.8 مليار دولار تنطلق 2030. الرميان يريد محللين داخل لوجياتزوي لاقتناص بطاريات السيارات والطاقة الشمسية. الباب يُفتح من الداخل.",
+      "bigStat": {
+        "value": "1.56M",
+        "label": "Saudi crude bpd to China 2025",
+        "arabicLabel": "برميل سعودي للصين يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "مصفاة فوجيان",
+          "value": "9.8 مليار دولار"
+        },
+        {
+          "label": "إيثيلين أرامكو",
+          "value": "1.8 مليون طن"
+        },
+        {
+          "label": "اعتماد الاستراتيجية",
+          "value": "أبريل 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-pif-shanghai-office-trillion-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    },
+    {
+      "label": "موقع العراق",
+      "arabicHeading": "تحويل 5 بالمئة فقط نحو الصين يعني 50 مليار تخنق البصرة",
+      "arabicBody": "العراق في مهب التيار. لو وجّه الرميان 5 بالمئة من تكليفاته الجديدة، أي 50 مليار دولار، إلى تكرير وتخزين صيني، فمشترو الخام السعودي يحصدون عقوداً طويلة المدى تخنق خصومات بصرة 5-7 دولار للبرميل. لكن أموال البطاريات الصينية قد ترفع طلب الخام إذا أعادت بكين توجيه الاستيراد. وزارة الطاقة تطالب بغداد بفتح مكتب اقتصادي في شنغهاي قبل قمة ترامب-شي في نوفمبر. وإلا؟",
+      "bigStat": {
+        "value": "$50B",
+        "label": "5% reallocation could pressure Iraq",
+        "arabicLabel": "تحويل محتمل نحو الصين"
+      },
+      "supportingStats": [
+        {
+          "label": "خصم بصرة",
+          "value": "5-7 دولار للبرميل"
+        },
+        {
+          "label": "العراق للصين 2025",
+          "value": "1.1 مليون برميل"
+        },
+        {
+          "label": "قمة ترامب-شي",
+          "value": "نوفمبر 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-pif-shanghai-office-trillion-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Eastern Herald",
+      "domain": "easternherald.com"
+    },
+    {
+      "name": "The Cradle",
+      "domain": "thecradle.co"
+    },
+    {
+      "name": "Gulf Business",
+      "domain": "gulfbusiness.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    }
+  ],
+  "arabicTicker": [
+    "بلومبرغ تؤكد: الرميان يفعّل مكتب شنغهاي ثاني مكتب للصندوق على البر الصيني",
+    "ليلي كونغ تدير شبكة الصين من بكين بعد سنوات قادت فيها Fidelity",
+    "الرياض ثاني مورد نفط للصين بـ 1.56 مليون برميل ومصفاة فوجيان 9.8 مليار",
+    "استراتيجية 2026-2030 المعتمدة في أبريل تركز على بطاريات السيارات والطاقة الشمسية والبيوتك",
+    "تحويل 5 بالمئة فقط أي 50 مليار يخنق عقود بصرة طويلة المدى",
+    "صادرات العراق للصين 1.1 مليون برميل وخصم بصرة 5-7 دولار تحت برنت",
+    "هل تفتح بغداد مكتباً في شنغهاي قبل قمة ترامب-شي في نوفمبر؟"
+  ]
+}

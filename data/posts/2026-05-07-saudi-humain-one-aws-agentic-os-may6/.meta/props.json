@@ -1,0 +1,132 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "الرياض تطلق",
+    "arabicHeadline": "طارق أمين يكشف هيومين ون: أوّل نظام عربي للوكلاء الذكيين بدعم AWS",
+    "englishSubhead": "RIYADH • HUMAIN ONE | AWS-POWERED",
+    "heroQueries": [
+      "Tareq Amin HUMAIN CEO PIF Forum portrait",
+      "HUMAIN logo Riyadh headquarters",
+      "AWS Riyadh data center exterior",
+      "Mohammed bin Salman PIF Private Sector Forum",
+      "AI agentic operating system enterprise"
+    ],
+    "heroMedia": "images/news/2026-05-07-saudi-humain-one-aws-agentic-os-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكشف",
+      "arabicHeading": "أمين يصعد منصة الصندوق ويُعلن: زمن النوايا حلّ مكان زمن التطبيقات",
+      "arabicBody": "في منتدى القطاع الخاص لصندوق الاستثمارات 2026، الرئيس التنفيذي طارق أمين كشف HUMAIN ONE: أوّل نظام تشغيل بدرجة المؤسسات لبناء ونشر وحوكمة وكلاء ذكاء اصطناعي مستقلين على نطاق واسع. الفرق الجوهري: أنظمة اليوم تشغّل تطبيقات، هذا النظام يشغّل نوايا. تكتب هدفك بلغتك، والوكلاء يدبّرون المهام عبر كل الأنظمة. AWS هو الشريك المؤسس على طبقة النظام.",
+      "bigStat": {
+        "value": "AWS",
+        "label": "Foundation partner",
+        "arabicLabel": "الشريك المؤسس"
+      },
+      "supportingStats": [
+        {
+          "label": "اسم النظام",
+          "value": "HUMAIN ONE"
+        },
+        {
+          "label": "الفئة",
+          "value": "وكيل مؤسسي"
+        },
+        {
+          "label": "الحدث",
+          "value": "PIF 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-humain-one-aws-agentic-os-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "الرهان",
+      "arabicHeading": "صندوق 930 مليار دولار يراهن: الرياض تصدّر الذكاء بدل النفط",
+      "arabicBody": "هيومين مملوكة بالكامل لصندوق الاستثمارات السعودي بقيمة 930 مليار دولار، تشكّلت بدمج قدرات الذكاء الوطنية بما فيها أرامكو الرقمية. مهمتها بلسان أمين: تحويل المملكة إلى أكبر مصدّر رموز ذكاء اصطناعي على الكوكب. تسمية 2026 سنة الذكاء السعودية ليست شعاراً بل تثبيت دفعة، تضمّ سلفاً AMD وسيسكو، والآن AWS، شركاء على طبقات مراكز البيانات والنظام معاً.",
+      "bigStat": {
+        "value": "$930B",
+        "label": "PIF AUM",
+        "arabicLabel": "أصول الصندوق"
+      },
+      "supportingStats": [
+        {
+          "label": "الملكية",
+          "value": "PIF بالكامل"
+        },
+        {
+          "label": "الشركاء",
+          "value": "AMD وسيسكو وAWS"
+        },
+        {
+          "label": "2026",
+          "value": "سنة الذكاء"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-humain-one-aws-agentic-os-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    },
+    {
+      "label": "ما هو القادم",
+      "arabicHeading": "سوق ذكاء MENA يقفز فوق 50 مليار بحلول 2030… والعراق على الحلبة",
+      "arabicBody": "رهان الرياض واضح: إن صار النظام العربي بنية تحتية لمؤسسات الخليج، تستحوذ المملكة على اقتصاد الذكاء الإقليمي قبل البديل الأمريكي والصيني. السوق المستهدف يتجاوز 50 مليار دولار بحلول 2030. الفشل يعني مشروع سيادي رمزي ينطفئ. النجاح يعني منصة بحجم مايكروسوفت مرتكزها الرياض، والمطورون العراقيون يدخلون نفس الحلبة بنفس الأدوات. السؤال: من يقطف العائد؟",
+      "bigStat": {
+        "value": "$50B+",
+        "label": "MENA AI by 2030",
+        "arabicLabel": "ذكاء MENA 2030"
+      },
+      "supportingStats": [
+        {
+          "label": "السوق",
+          "value": "مؤسسات الخليج"
+        },
+        {
+          "label": "المنافس",
+          "value": "أمريكي وصيني"
+        },
+        {
+          "label": "المكافأة",
+          "value": "مايكروسوفت الرياض"
+        }
+      ],
+      "broll": "images/news/2026-05-07-saudi-humain-one-aws-agentic-os-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#C084FC"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PR Newswire",
+      "domain": "prnewswire.com"
+    },
+    {
+      "name": "Saudi Gazette",
+      "domain": "saudigazette.com.sa"
+    },
+    {
+      "name": "AI Magazine",
+      "domain": "aimagazine.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "طارق أمين يكشف HUMAIN ONE من منتدى صندوق الاستثمارات السعودي 2026",
+    "أوّل نظام تشغيل عربي بدرجة المؤسسات لإدارة وكلاء ذكاء اصطناعي مستقلين",
+    "مدفوع بالنية: المستخدم يصرّح بهدفه والوكلاء يدبّرون المهام عبر الأنظمة",
+    "AWS الشريك المؤسس على طبقة النظام إلى جانب AMD وسيسكو على البنية",
+    "هيومين مملوكة بالكامل لصندوق سيادي بقيمة 930 مليار دولار سعودي",
+    "هدف أمين تحويل المملكة لأكبر مصدّر رموز ذكاء اصطناعي على الكوكب",
+    "سوق ذكاء MENA يتجاوز 50 مليار 2030 فهل يلحق المطور العراقي بالحلبة؟"
+  ]
+}

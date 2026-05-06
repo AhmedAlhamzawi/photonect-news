@@ -1,0 +1,132 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "ضربة دمشق",
+    "arabicHeadline": "دمشق تضرب خلية حزب الله: مدرّبة في لبنان لاغتيال مسؤولين سوريين",
+    "englishSubhead": "DAMASCUS • HEZBOLLAH | LEBANON-TRAINED",
+    "heroQueries": [
+      "Anas Khattab Syrian Interior Minister portrait",
+      "Damascus old city Syrian flag 2025",
+      "Hezbollah yellow flag silhouette fighter",
+      "Masnaa border crossing Lebanon Syria",
+      "Syrian counter-intelligence operation"
+    ],
+    "heroMedia": "images/news/2026-05-07-syria-busts-hezbollah-assassination-cell-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "خلية تسلّلت من لبنان… ودمشق تكشف الصيد قبل الضربة",
+      "arabicBody": "في 6 مايو، الداخلية السورية كشفت ضربة موجعة: خلية منظمة تابعة لحزب الله، عبرت الحدود من لبنان بعد تدريب نوعي مكثّف، كانت تجهّز عملية اغتيال لمسؤولين في الحكومة الجديدة. الاستخبارات المضادة طاردت الخلية خطوة بخطوة، رصدت تحركاتها، ثم أطبقت عليها بهدوء قبل أن يصل أي رصاص إلى هدفه.",
+      "bigStat": {
+        "value": "1",
+        "label": "Cell dismantled",
+        "arabicLabel": "خلية مضبوطة"
+      },
+      "supportingStats": [
+        {
+          "label": "التدريب",
+          "value": "لبنان"
+        },
+        {
+          "label": "الهدف",
+          "value": "مسؤولون سوريون"
+        },
+        {
+          "label": "الإعلان",
+          "value": "6 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-07-syria-busts-hezbollah-assassination-cell-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "التحوّل",
+      "arabicHeading": "أوّل اشتباك علني بين دمشق ما بعد الأسد وحزب الله القديم",
+      "arabicBody": "هذه أوضح مواجهة بين دمشق والحزب منذ سقوط الأسد. الحزب الذي خرج محطّماً من حرب 2026 مع إسرائيل، فقد ممرات السلاح عبر سوريا، وفقد معها صفته كحليف. القيادة الجديدة تدور نحو الرياض والخليج، فتركت أهم وكيل غير حكومي لطهران بلا غطاء جغرافي ولا سياسي. الضبط ليس عملية أمنية فقط، بل إعلان قطيعة.",
+      "bigStat": {
+        "value": "POST-ASSAD",
+        "label": "Damascus axis shift",
+        "arabicLabel": "محور دمشق الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "حرب 2026",
+          "value": "أنهكت الحزب"
+        },
+        {
+          "label": "ممرّات السلاح",
+          "value": "مغلقة"
+        },
+        {
+          "label": "محور دمشق",
+          "value": "السعودية والخليج"
+        }
+      ],
+      "broll": "images/news/2026-05-07-syria-busts-hezbollah-assassination-cell-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    },
+    {
+      "label": "الصدى العراقي",
+      "arabicHeading": "الحشد يتشارك بنية القيادة مع الخلية التي رُفعت في دمشق",
+      "arabicBody": "بالنسبة للعراق، الانعكاس فوري. فصائل الحشد المدعومة إيرانياً تتشارك بنية قيادة وسيطرة مع الخلية التي رُفعت. بغداد ترصد المشهد: هل تفرض دمشق الجديدة انكماشاً على شبكات الشام كلها، أم تدفعها أعمق نحو حدود العراق؟ في الحالتين، البنية شبه العسكرية الشيعية الإقليمية تُفكَّك علناً، والكلفة ستصل بغداد قبل غيرها.",
+      "bigStat": {
+        "value": "PMF",
+        "label": "Iraqi Hashd echo",
+        "arabicLabel": "صدى الحشد"
+      },
+      "supportingStats": [
+        {
+          "label": "بنية القيادة",
+          "value": "متشاركة"
+        },
+        {
+          "label": "خيار دمشق",
+          "value": "انكماش الشام"
+        },
+        {
+          "label": "خيار بغداد",
+          "value": "ضغط أعمق"
+        }
+      ],
+      "broll": "images/news/2026-05-07-syria-busts-hezbollah-assassination-cell-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "دمشق تضرب خلية حزب الله مدرّبة في لبنان قبل تنفيذ عمليات الاغتيال",
+    "أعضاء الخلية تلقّوا تدريباً نوعياً مكثّفاً ثم تسلّلوا عبر الحدود بهدوء",
+    "الأهداف كانت مسؤولين في حكومة دمشق الجديدة ما بعد الأسد",
+    "الاستخبارات المضادة تتبّعت الخلية خطوة بخطوة قبل الإطباق عليها",
+    "أوضح مواجهة علنية بين دمشق والحزب منذ سقوط نظام الأسد",
+    "حرب 2026 أنهكت الحزب وأقفلت ممرّات السلاح من سوريا إلى لبنان",
+    "بغداد ترصد: انكماش شبكات الشام أم اندفاع أعمق نحو حدود العراق؟"
+  ]
+}

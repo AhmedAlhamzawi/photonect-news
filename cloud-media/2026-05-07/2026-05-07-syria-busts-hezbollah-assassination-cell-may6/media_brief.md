@@ -1,0 +1,6 @@
+# media brief — syria-busts-hezbollah-assassination-cell-may6
+
+- hero.jpg — depicts: Anas Hassan Khattab, Syrian Interior Minister, official portrait; verifies as: HERO named entity (Syrian Interior Minister Anas Khattab); source: https://commons.wikimedia.org/wiki/File:%D8%A3%D9%86%D8%B3_%D8%AD%D8%B3%D8%A7%D9%86_%D8%AE%D8%B7%D8%A7%D8%A8.jpg (Arabic-named filename); license: CC-BY-SA (Syrian Interior Ministry / Wikipedia commons upload); match score: strict
+- broll_1.jpg — depicts: Street in the Old City of Damascus, Syria — covered souk arches; verifies as: BROLL_1 named entity (Damascus old city); source: https://commons.wikimedia.org/wiki/File:Damascus,_Syria,_Street_in_the_Old_City_of_Damascus.jpg; license: CC-BY-SA; match score: strict
+- broll_2.jpg — depicts: Hezbollah yellow flag flying over Beaufort Castle in southern Lebanon; verifies as: BROLL_2 named entity (Hezbollah flag); source: https://commons.wikimedia.org/wiki/File:Hezbollah_flag_at_beaufort_castle.jpg; license: CC-BY-SA; match score: strict
+- broll_3.jpg — depicts: Lebanon-Syria border crossing area photograph; verifies as: BROLL_3 named entity (Lebanese-Syrian border); source: https://commons.wikimedia.org/wiki/File:Lebanon-Syria_border_sep13VOA_02.jpeg; license: Public Domain (PD-USGov, Voice of America); match score: strict

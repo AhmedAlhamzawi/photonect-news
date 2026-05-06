@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 07 • 2026",
+  "arabicDateLabel": "7 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "السعر الموازي",
+    "arabicHeadline": "الكفاح يفتح صباح الأربعاء على 153,750 وموظف العراق يدفع الفجوة",
+    "englishSubhead": "BAGHDAD • 1,537 VS 1,300",
+    "heroQueries": [
+      "Ali Mohsen al-Allaq Central Bank Iraq governor podium",
+      "Al-Kifah money exchange Baghdad Karrada dealers glass",
+      "Central Bank of Iraq tower Rasheed Street Baghdad",
+      "Iraqi 25000 dinar banknote Hammurabi closeup",
+      "Baghdad Karrada exchange shop dollar stacks"
+    ],
+    "heroMedia": "images/news/2026-05-07-iraq-dinar-parallel-market-153750-may6/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القفزة",
+      "arabicHeading": "صرافة الكفاح وبازار أربيل يفتحان الدولار على 1,537 دينار",
+      "arabicBody": "الأربعاء 6 مايو، الكفاح ببغداد وبازار أربيل قفزا بسعر بيع الدولار إلى 153,750 دينار لكل 100 دولار. الناتج 1,537 دينار للدولار مقابل 1,300 الرسمي، فجوة 18.2 بالمئة في يوم. علاوي العلاق محافظ المركزي يكرر: لا خطة لتعديل السعر، وموازنة 2026 ما زالت مربوطة عند 1,300. الفارق يخرج كله من جيب الموظف. والسؤال: من يدفع الثمن غير الموظف؟",
+      "bigStat": {
+        "value": "153,750",
+        "label": "Dinar per $100 parallel",
+        "arabicLabel": "دينار لكل 100 دولار"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر الرسمي",
+          "value": "1,300 دينار"
+        },
+        {
+          "label": "السعر الموازي",
+          "value": "1,537 دينار"
+        },
+        {
+          "label": "الفجوة",
+          "value": "18.2 بالمئة"
+        }
+      ],
+      "broll": "images/news/2026-05-07-iraq-dinar-parallel-market-153750-may6/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "لماذا اتسعت",
+      "arabicHeading": "هرمز يخنق الصادرات والحج يبتلع الدولار وحكومة الزيدي معلقة",
+      "arabicBody": "ثلاث ضربات معاً. صادرات النفط هبطت من 3.4 مليون برميل قبل 28 فبراير إلى أقل من 900 ألف، وكردستان-جيهان تنقل 330 ألف فقط. حج 2026 يبدأ 25 مايو، وعشرات الآلاف من العراقيين يكنزون الدولار اليوم. والمشهداني يؤجل تصويت الثقة لحكومة الزيدي إلى الأسبوع المقبل، فالموازنة مجمدة والنافذة اليومية مكبّلة. وهنا تبدأ المشكلة الحقيقية.",
+      "bigStat": {
+        "value": "<900K",
+        "label": "Iraq oil exports vs 3.4M pre-war",
+        "arabicLabel": "برميل صادرات اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "ما قبل الحرب",
+          "value": "3.4 مليون برميل"
+        },
+        {
+          "label": "كردستان-جيهان",
+          "value": "330 ألف برميل"
+        },
+        {
+          "label": "أول أيام الحج",
+          "value": "25 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-07-iraq-dinar-parallel-market-153750-may6/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    },
+    {
+      "label": "الشارع يدفع",
+      "arabicHeading": "قسط مدرسة 1,000 دولار يتحول إلى 1.537 مليون دينار اليوم",
+      "arabicBody": "قسط 1,000 دولار من المدرسة الأهلية يصبح 1.537 مليون دينار في الكفاح بدل 1.310 مليون في الموازنة، 17 بالمئة بلا تعويض. الإنسولين والحليب واللابتوب يُسعّرون أسبوعياً موازياً، وأربعة ملايين موظف يقبضون رسمياً. النافذة اليومية تبيع 200 مليون دولار بـ 1,310، لكن الفيدرالي يحجز 28 بالمئة. إذا تأخر حلف الزيدي بعد 14 مايو، التجار يتوقعون 1,560 يوم العيد. الأسوأ لم يصل بعد.",
+      "bigStat": {
+        "value": "17%",
+        "label": "Surcharge on dollar-priced bills",
+        "arabicLabel": "ضريبة شارع غير معلنة"
+      },
+      "supportingStats": [
+        {
+          "label": "نافذة CBI اليومية",
+          "value": "200 مليون دولار"
+        },
+        {
+          "label": "حجز الفيدرالي",
+          "value": "28 بالمئة"
+        },
+        {
+          "label": "توقع عيد الأضحى",
+          "value": "1,560 دينار"
+        }
+      ],
+      "broll": "images/news/2026-05-07-iraq-dinar-parallel-market-153750-may6/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "Exchange Rates UK",
+      "domain": "exchangerates.org.uk"
+    },
+    {
+      "name": "EBC",
+      "domain": "ebc.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "US First Exchange",
+      "domain": "usfirstexchange.com"
+    }
+  ],
+  "arabicTicker": [
+    "الكفاح وبازار أربيل يفتحان صباح الأربعاء على 1,537 دينار للدولار",
+    "الفجوة بين الرسمي 1,300 والموازي 1,537 تتسع إلى 18.2 بالمئة في يوم",
+    "العلاق يكرر: لا خطة لتعديل السعر وموازنة 2026 مرتكزة عند 1,300",
+    "صادرات النفط من 3.4 مليون قبل فبراير إلى أقل من 900 ألف اليوم",
+    "حج 2026 يبدأ 25 مايو وعشرات الآلاف من العراقيين يكنزون الدولار",
+    "حكومة الزيدي بلا تصويت ثقة والنافذة اليومية مكبلة بقرار سياسي",
+    "إذا تأخر الحلف بعد 14 مايو فهل نرى 1,560 دينار يوم عيد الأضحى؟"
+  ]
+}
