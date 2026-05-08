@@ -143,10 +143,38 @@ export const NewsReel: React.FC<NewsReelProps> = ({
   const totalFrames = computeNewsReelDurationInFrames();
   const activeVariant = resolveVariant(variant, topicBucket);
 
+  // V7 leap audio architecture (2026-05-08):
+  //   1. Audio fades in BEFORE the picture commits — Vox/Vice/Bloomberg pattern.
+  //      Music starts at frame 0, image starts darker and lifts (handled in Breaking).
+  //   2. Strategic SILENCE drop near the climax beat — Vox/BBC/Vice/AJ Arabic pattern.
+  //      Music cuts to near-zero for ~24 frames around the bigStat reveal in Beat 3
+  //      (~frame 1380-1410, i.e. 46-47s into a 60s reel). Then re-enters at heightened
+  //      intensity for the resolution.
+  //   3. Loop-hook fade at the very end — closing 5 frames cold-cut, not a 45-frame
+  //      fade, so IG autoplay loops back to 0 cleanly without "this is over" signal.
+  //
+  // Frame math: BREAKING(150) + BEAT(270) + BEAT(270) + BEAT3(240) + SOURCES(90) = 1020 frames.
+  // (Note: schema names are misleading — total reel is 34s, not 60s.)
+  // Climax beat lands inside Beat 3 around BREAKING+BEAT+BEAT+72 = 762 frames.
+  // Silence drop window: frames 750-780 (1.0s mute). Reentry at 0.5x then ramping.
+  const SILENCE_START = BREAKING_FRAMES + BEAT_FRAMES * 2 + 60;          // ~26s
+  const SILENCE_END   = SILENCE_START + 30;                              // 1.0s mute
+  const REENTRY_END   = SILENCE_END + 20;                                // 0.67s reentry to 0.55
+
   const audioVolume = interpolate(
     frame,
-    [0, 15, totalFrames - 45, totalFrames - 5],
-    [0, 0.45, 0.45, 0],
+    [
+      0,                            // music starts immediately
+      18,                           // ramps to 0.45 by frame 18 (0.6s) — quicker than V6's 15-frame fade
+      SILENCE_START - 8,            // start ducking 0.27s before silence
+      SILENCE_START,                // full mute
+      SILENCE_END,                  // hold mute
+      REENTRY_END,                  // ramp back to 0.55 (5dB lift over baseline = the climax swell)
+      totalFrames - 45,             // hold at 0.55 through resolution
+      totalFrames - 5,              // fade out only the last 5 frames (cold-cut for loop-hook)
+      totalFrames,
+    ],
+    [0, 0.45, 0.45, 0.02, 0.02, 0.55, 0.55, 0.55, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
 

@@ -5,12 +5,25 @@ import { FONT_ARABIC, FONT_LATIN } from "../../PhotonectBrandReel/fonts";
 import type { SourceProps } from "../schema";
 import { LogoPhotonectInline } from "../../AINewsDaily/LogoPhotonect";
 import { CONTENT_PADDING, CONTENT_WIDTH } from "../safeArea";
+import { SOURCES_FRAMES } from "../schema";
 
 type Props = {
   sources: SourceProps[];
   handle: string;
 };
 
+/**
+ * Sources — V7 leap (2026-05-08).
+ *
+ * Adds a loop-hook outro to the last 24 frames (0.8s):
+ *   - All Sources content fades out
+ *   - Frame goes near-black with a single bottom-right kicker still visible
+ *   - The very last 5 frames are pure 100% black (cold-cut to allow IG autoplay
+ *     loop to land cleanly back at frame 0 of Breaking, which is also dark)
+ *
+ * Pattern from Bloomberg/Insider/BBC: closing rhymes with opening; cold-cut
+ * never fade-out (a fade signals "this is over" — cold cut signals "play me again").
+ */
 export const Sources: React.FC<Props> = ({ sources, handle }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -18,10 +31,27 @@ export const Sources: React.FC<Props> = ({ sources, handle }) => {
   const titleReveal = spring({ frame, fps, config: { damping: 16 } });
   const handleReveal = spring({ frame: frame - 40, fps, config: { damping: 14 } });
 
+  // Loop-hook outro: everything fades to black over the last 24 frames.
+  // Sources duration is SOURCES_FRAMES (90); fade window is 66-90.
+  const outroFade = interpolate(
+    frame,
+    [SOURCES_FRAMES - 24, SOURCES_FRAMES - 5],
+    [1, 0],
+    { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
+  );
+  // Black overlay to enforce cold-cut darkness in the final 5 frames
+  const blackOut = interpolate(
+    frame,
+    [SOURCES_FRAMES - 8, SOURCES_FRAMES - 5, SOURCES_FRAMES],
+    [0, 1, 1],
+    { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
+  );
+
   return (
     <AbsoluteFill
       style={{
         background: `radial-gradient(ellipse at 50% 45%, ${PHOTONECT.signal}16 0%, ${PHOTONECT.ink} 70%)`,
+        opacity: outroFade,
       }}
     >
       <AbsoluteFill
@@ -157,6 +187,16 @@ export const Sources: React.FC<Props> = ({ sources, handle }) => {
           </div>
         </div>
       </AbsoluteFill>
+
+      {/* Loop-hook black-out overlay — outside the outro-fade wrapper so it
+          can fully cover even when the wrapper has already started fading. */}
+      <AbsoluteFill
+        style={{
+          background: "#000",
+          opacity: blackOut,
+          pointerEvents: "none",
+        }}
+      />
     </AbsoluteFill>
   );
 };

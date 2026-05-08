@@ -99,6 +99,30 @@ From props.json, **rewrite only these Arabic/bilingual copy fields** (leave sche
 
 Ahmed (2026-05-03) said: "you're using too much text… tune it down by 30% and make it bigger." The caps above are the canonical numbers — enforce them. If a source field overflows the cap, cut the weakest clause first; never invent stats to compensate for cut prose. Composition font sizes are bumped 12-18% to match.
 
+### 2026-05-08 Leap Mandate (after watching 100 best world news videos)
+
+Six new structural rules layered on top of everything above. Synthesized from 9 watch dossiers (Vox / AJ Arabic / BBC / Vice / Bloomberg / Insider / Reuters / NowThis / C4 / Sky / France 24).
+
+**11. ONE canonical sentence — never three variants.** The string in `breaking.arabicHeadline` MUST appear verbatim as the first line of `caption.txt` AND as `arabicTicker[0]`. Currently we paraphrase across the three surfaces; from now on the line locks. Why: AJ Arabic does this, and it builds memorability — the same line repeats across feed surfaces and viewers learn it. Pick the sharpest possible line, then repeat it.
+
+**12. arabicTicker[6] (the last line) MUST be a question.** Question-frame closers are the comment-bait pattern Bloomberg/Insider and C4/Sky use universally. The reel's final ticker line is no longer "the third declarative anchor stat" — it's a question the audience answers in comments or DMs. Examples:
+- "من يدفع الفاتورة في النهاية؟"
+- "هل تصمد الهدنة، أم نعود إلى التصعيد؟"
+- "بغداد أم أربيل — من يقبض أوّلاً؟"
+
+**13. New optional field per beat: `brollSource`.** A short attribution string (≤4 tokens) for the persistent SourceChip in the lower-left of each beat. Format: `"REUTERS · MAY 7"`, `"WIKIMEDIA · CC-BY"`, `"AP · BAGHDAD"`, `"GETTY · 2026"`. Always-caps, dot-separator. When you set this, you're saying "this beat's broll comes from this source on this date." If you don't set it, the chip falls back to the slug's first source domain — but for the leap standard, set it on every beat.
+
+**14. New optional field per beat: `subtitlePhrases` — 3-4 short Arabic phrases (5-9 words each).** These are the screenshot-able punch lines that reveal phrase-by-phrase in the bottom subtitle bar. They are NOT a duplicate of `arabicBody`. They are the body's compressed essence — what a viewer would read with sound off. Each phrase must work as a standalone line. Order matches the beat's narrative arc: phrase 1 = trigger, phrase 2 = anchor number, phrase 3 = cliffhanger. 4th phrase optional.
+
+Example for a beat about Iraqi dinar parallel-market spike:
+- "الكفاح يفتح صباح الأربعاء على 153,750"
+- "18.2% فجوة بين السعرين الرسمي والحقيقي"
+- "وموظف يدفع رسوم الفجوة من جيبه"
+
+**15. Headline can be a question (1 of 3 voice options).** The arabicHeadline can be: (a) protagonist + verb + anchor number (default), (b) contradiction hook, OR (c) a question whose answer costs the viewer something. Question-form is now permitted — but the headline must still satisfy the 9-13 word cap and the "would I screenshot this" test. C4/Sky and Bloomberg use this often.
+
+**16. Foley/SFX hint per beat.** For now no new field — but in your beat-body prose, lead with a sensory verb that implies the SFX the editor will add (paper rustle, market noise, helicopter blade, calligraphy reed, refinery flame whoosh). The audio team reads your prose to know what foley to layer.
+
 From `caption.txt`, rewrite the entire body following the caption structure above. Always preserve the signature/credit block format the channel uses but improve the hook line at the top.
 
 ## What You NEVER Touch

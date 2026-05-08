@@ -12,13 +12,13 @@ const BigStat = z.object({
 });
 
 // V6 (2026-04-22) — restore content density that V5 over-stripped.
-// Rejected verbatim: "You cut down a lot of the context and the text. Even the
-// caption, you cut it down. And now I don't get enough context about the news."
-//
-// Every beat now carries: arabicHeading + arabicBody (20-30 words) + bigStat +
-// 3 supportingStats. All variants render the full payload; the variant picks
-// the visual treatment, not the data density. Safe-zone discipline from V5 is
-// preserved via overflow:hidden + adaptive font sizing.
+// V7 (2026-05-08, Leap) — adds editorial-craft fields after watching ~100 best
+// short-form news videos. Every existing prop keeps validating because all new
+// fields are optional. New fields enable:
+//   - brollSource:     persistent attribution chip in lower-left of every beat
+//                      (Vox/C4/Sky/Reuters pattern — "credibility as design")
+//   - subtitlePhrases: phrase-by-phrase caption bar in bottom 10% of frame
+//                      (BBC/Vice pattern — sound-off design system)
 const Beat = z.object({
   label: z.string(),
   arabicHeading: z.string(),
@@ -29,6 +29,17 @@ const Beat = z.object({
   supportingStats: z.array(Stat).max(3).optional(),
   broll: z.string(),
   brollType: z.enum(["video", "image"]),
+  // V7 leap — short attribution string for the persistent SourceChip in the
+  // lower-left of the beat (e.g. "REUTERS · MAY 6", "WIKIMEDIA · CC-BY",
+  // "AP · BAGHDAD"). When omitted, the chip falls back to the slug's first
+  // top-level source (so existing posts still render meaningfully).
+  brollSource: z.string().optional(),
+  // V7 leap — 3-4 short Arabic phrases (5-9 words each) that reveal phrase-by-
+  // phrase in a bottom subtitle bar across the beat's runtime. They are NOT a
+  // duplicate of arabicBody — they're the screenshot-able punch lines a viewer
+  // reads with sound off. When omitted, the bar stays empty and the beat falls
+  // back to V6 behavior.
+  subtitlePhrases: z.array(z.string()).max(4).optional(),
   accent: z.string().optional(),
   photoInsert: z.string().optional(),
   photoCaption: z.string().optional(),
