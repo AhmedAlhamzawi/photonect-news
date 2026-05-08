@@ -126,17 +126,24 @@ const GiantStatStamp: React.FC<{
 };
 
 export const Beat: React.FC<Props> = (props) => {
+  // Trial 2 fix (2026-05-08): when index === 3, the new GiantStatStamp overlay
+  // takes over the bigStat treatment. Strip bigStat off the variant scene so
+  // we don't double-render it (Trial 1 had the variant's red number rendered
+  // BEHIND the V7 white stamp — visible duplicate). Other props pass through.
+  const sceneProps =
+    props.index === 3 ? { ...props, bigStat: undefined } : props;
+
   let scene: React.ReactNode;
   switch (props.variant) {
     case "B":
-      scene = <BeatB {...props} />;
+      scene = <BeatB {...sceneProps} />;
       break;
     case "C":
-      scene = <BeatC {...props} />;
+      scene = <BeatC {...sceneProps} />;
       break;
     case "A":
     default:
-      scene = <BeatA {...props} />;
+      scene = <BeatA {...sceneProps} />;
       break;
   }
 

@@ -45,8 +45,12 @@ export const Breaking: React.FC<Props> = ({
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
-  // Hero image brightness: starts at 35%, lifts to 95% over frames 0-30
-  const heroLift = interpolate(frame, [0, 30], [0.35, 0.95], {
+  // Hero image brightness: starts at 65%, lifts to 100% over frames 0-30.
+  // Trial 2 fix (2026-05-08): the original V7 lift (35→95%) stacked with the
+  // vignette pulse below to render the t=2s frame near-black. Loosening the
+  // bottom of the brightness ramp from 0.35 → 0.65 keeps the "delayed reveal"
+  // mood without burying the hero entirely.
+  const heroLift = interpolate(frame, [0, 30], [0.65, 1.0], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
     easing: Easing.bezier(0.16, 1, 0.3, 1),
@@ -80,8 +84,11 @@ export const Breaking: React.FC<Props> = ({
     extrapolateRight: "clamp",
   });
 
-  // Vignette pulse over runtime — pulls eye to center after image is up
-  const vignettePulse = 0.4 + 0.3 * Math.sin(frame * 0.06);
+  // Vignette pulse over runtime — pulls eye to center after image is up.
+  // Trial 2 fix: the V7 amplitude (0.4-0.7 multiply) was too aggressive and
+  // combined with the brightness mask above to bury the hero. Toning down to
+  // 0.18-0.32 — still creates the centerward pull but lets the image breathe.
+  const vignettePulse = 0.18 + 0.14 * Math.sin(frame * 0.06);
 
   return (
     <AbsoluteFill>

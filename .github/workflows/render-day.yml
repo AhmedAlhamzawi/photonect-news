@@ -2,13 +2,18 @@ name: Render day
 
 # One-tap trigger from the GitHub mobile app.
 # Open the app → this repo → Actions → "Render day" → Run workflow.
-# ~30 min later the 12 videos + 12 captions are in Google Drive.
+# ~30 min later the 6 videos + 6 captions are in Google Drive.
 
 on:
   workflow_dispatch:
     inputs:
       date:
         description: 'Date to render (YYYY-MM-DD). Blank = today (UTC).'
+        required: false
+        type: string
+        default: ''
+      trial:
+        description: 'Optional trial label (e.g. "Trial 2") for leap-mandate A/B comparison runs. Leaves Trial 1 at root, puts this run inside a subfolder.'
         required: false
         type: string
         default: ''
@@ -63,9 +68,8 @@ jobs:
           else
             RESOLVED="$INPUT_DATE"
           fi
-          # Strict validation — only YYYY-MM-DD passes through
           if ! [[ "$RESOLVED" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
-            echo "::error::invalid date '$RESOLVED' — must match YYYY-MM-DD"
+            echo "::error::invalid date '$RESOLVED' -- must match YYYY-MM-DD"
             exit 1
           fi
           echo "value=$RESOLVED" >> "$GITHUB_OUTPUT"
@@ -102,18 +106,20 @@ jobs:
         run: |
           mkdir -p automation/secrets
           printf '%s' "$DRIVE_OAUTH_JSON" > automation/secrets/drive-creds.json
-          # Sanity: must be valid JSON before we try to use it
           python3 -c "import json; json.load(open('automation/secrets/drive-creds.json'))"
 
       - name: Upload renders + captions to Google Drive
         env:
           DRIVE_PARENT_FOLDER_ID: ${{ secrets.DRIVE_PARENT_FOLDER_ID }}
           DATE_ARG: ${{ steps.date.outputs.value }}
+          TRIAL_LABEL: ${{ inputs.trial }}
         run: |
-          python3 automation/scripts/upload-to-drive.py \
-            --date "$DATE_ARG" \
-            --parent-id "$DRIVE_PARENT_FOLDER_ID" \
-            --credentials automation/secrets/drive-creds.json
+          set -e
+          ARGS=(--date "$DATE_ARG" --parent-id "$DRIVE_PARENT_FOLDER_ID" --credentials automation/secrets/drive-creds.json)
+          if [ -n "$TRIAL_LABEL" ]; then
+            ARGS+=(--trial-label "$TRIAL_LABEL")
+          fi
+          python3 automation/scripts/upload-to-drive.py "${ARGS[@]}"
 
       - name: Upload QA artefacts to workflow run
         if: always()

@@ -109,6 +109,11 @@ def main() -> int:
                     help="Drive folder ID to upload into (the dated folder is created under this)")
     ap.add_argument("--credentials", required=True,
                     help="Path to Drive credentials JSON (OAuth 'authorized_user' or service account)")
+    ap.add_argument("--trial-label", default=None,
+                    help="Optional trial-comparison subfolder (e.g. 'Trial 2'). When set, uploads "
+                         "land inside <date>/<trial-label>/<slug>/ instead of <date>/<slug>/. "
+                         "Used by leap-mandate runs to surface Trial 1 vs Trial 2 side-by-side "
+                         "in Drive without overwriting.")
     args = ap.parse_args()
 
     creds_path = Path(args.credentials)
@@ -125,6 +130,16 @@ def main() -> int:
     date_folder_id = find_or_create_folder(service, args.date, args.parent_id)
     print(f"→ Drive folder for {args.date}: {date_folder_id}")
 
+    # Trial-subfolder support (leap-mandate runs). If the workflow passes a
+    # --trial-label like "Trial 2", we create that subfolder under the date
+    # folder and upload there. Trial 1 is conventionally uploaded WITHOUT a
+    # label (lands at the date folder root), so Ahmed sees Trial 1 files at
+    # the top alongside a "Trial 2" subfolder.
+    upload_root_id = date_folder_id
+    if args.trial_label:
+        upload_root_id = find_or_create_folder(service, args.trial_label, date_folder_id)
+        print(f"→ Trial subfolder '{args.trial_label}': {upload_root_id}")
+
     uploaded, skipped = 0, 0
     for slug_dir in slugs:
         video = slug_dir / "video.mp4"
@@ -134,7 +149,7 @@ def main() -> int:
             skipped += 1
             continue
 
-        slug_folder_id = find_or_create_folder(service, slug_dir.name, date_folder_id)
+        slug_folder_id = find_or_create_folder(service, slug_dir.name, upload_root_id)
         upload_file(service, video, slug_folder_id)
         upload_file(service, caption, slug_folder_id)
         size_mb = video.stat().st_size // (1024 * 1024)
