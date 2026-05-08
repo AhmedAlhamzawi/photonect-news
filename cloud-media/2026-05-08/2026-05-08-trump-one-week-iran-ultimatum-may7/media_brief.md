@@ -1,0 +1,6 @@
+# media brief — trump-one-week-iran-ultimatum-may7
+
+- hero.jpg — depicts: Donald J. Trump, official 2025 Presidential Portrait; verifies as: HERO named entity (Trump); source: https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(cropped)(2).jpg; license: PD (White House official portrait); match score: strict
+- broll_1.jpg — depicts: Iranian President Masoud Pezeshkian, 2024 official portrait; verifies as: BROLL_1 named entity (Pezeshkian); source: https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_2024_portrait_(cropped).jpg; license: CC-BY 4.0 (Iranian Presidency); match score: strict
+- broll_2.jpg — depicts: NASA MODIS satellite view of the Strait of Hormuz and Musandam Peninsula (Dec 10 2018); verifies as: BROLL_2 named entity (Strait of Hormuz satellite); source: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg; license: PD (NASA Earth Observatory); match score: strict
+- broll_3.jpg — depicts: Natanz nuclear facility (Atomanlage Natanz 2022) — main centrifuge halls aerial; verifies as: BROLL_3 named entity (Natanz uranium enrichment facility); source: https://commons.wikimedia.org/wiki/File:Atomanlage_Natanz_(2022).jpg; license: CC-BY-SA 4.0; match score: strict

@@ -1,0 +1,158 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "إنذار البيت الأبيض",
+    "arabicHeadline": "ترامب يمهل إيران أسبوعاً واحداً قبل القصف بمستوى أعلى",
+    "englishSubhead": "WHITE HOUSE • 1-WEEK MOU OR HIGHER-LEVEL STRIKES",
+    "heroQueries": [
+      "Donald Trump White House lectern press conference 2026",
+      "Iranian President Masoud Pezeshkian Tehran palace podium",
+      "Strait of Hormuz satellite tanker chokepoint NASA",
+      "Natanz Fordow Iran uranium enrichment facility IAEA",
+      "Foreign Minister Abbas Araghchi Tehran briefing"
+    ],
+    "heroMedia": "images/news/2026-05-08-trump-one-week-iran-ultimatum-may7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإنذار",
+      "arabicHeading": "ترامب يضع طهران أمام خيار حاسم: اتفاق شامل أو قصف أعلى",
+      "arabicBody": "دوّى صوت المنبر في غرفة البيت الأبيض الخميس. ترامب وضع طهران أمام خيار تاريخي: مهلة أسبوع واحد للتوصل إلى اتفاق شامل ينهي الحرب، أو قصف بمستوى أعلى بكثير. صوت الإمارات ووسائل أميركية وصفت الإنذار بدبلوماسية المكالمة الأخيرة. ترامب أعلن أن الوضع لم يعد مقبولاً وأن الاتفاق يجب أن يكون حاسماً يفكك المخاطر النووية والإقليمية بالكامل. الموعد ينتهي تقريباً الخميس 14 أيار.",
+      "bigStat": {
+        "value": "7",
+        "label": "Days until ultimatum expires (~May 14)",
+        "arabicLabel": "أيام حتى انتهاء المهلة"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ الإنذار",
+          "value": "7 مايو 2026"
+        },
+        {
+          "label": "نهاية المهلة",
+          "value": "14 مايو تقريباً"
+        },
+        {
+          "label": "وصف ترامب",
+          "value": "حاسم ونهائي"
+        }
+      ],
+      "broll": "images/news/2026-05-08-trump-one-week-iran-ultimatum-may7/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "WHITE HOUSE · MAY 7",
+      "subtitlePhrases": [
+        "أسبوع واحد فقط على الطاولة",
+        "اتفاق حاسم أو قصف أعلى",
+        "المهلة تنتهي 14 أيار"
+      ]
+    },
+    {
+      "label": "الورقة",
+      "arabicHeading": "مذكرة تفاهم من صفحة واحدة و14 نقطة لإنهاء الحرب الإقليمية",
+      "arabicBody": "حفيف ورقة واحدة يحمل ثقل المنطقة كلها. وفق أكسيوس في 6 أيار، صياغة الاتفاق مذكرة تفاهم من صفحة واحدة و14 نقطة. تنص على إعلان نهاية الحرب، 30 يوماً من المفاوضات التفصيلية، فتح هرمز، تجميد التخصيب، رفع العقوبات، والإفراج عن مليارات من الأموال المجمدة. عراقجي وإسلامي رفضا أي وقف كامل للتخصيب، وقالا إن البرنامج النووي خط أحمر غير قابل للتفاوض.",
+      "bigStat": {
+        "value": "14",
+        "label": "Points on a one-page MOU draft",
+        "arabicLabel": "نقطة على صفحة واحدة"
+      },
+      "supportingStats": [
+        {
+          "label": "نافذة المفاوضات",
+          "value": "30 يوماً"
+        },
+        {
+          "label": "ملف هرمز",
+          "value": "فتح كامل"
+        },
+        {
+          "label": "موقف إيران",
+          "value": "خط أحمر للنووي"
+        }
+      ],
+      "broll": "images/news/2026-05-08-trump-one-week-iran-ultimatum-may7/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "WIKIMEDIA · NASA",
+      "subtitlePhrases": [
+        "14 نقطة على ورقة واحدة",
+        "30 يوماً نافذة للمفاوضات",
+        "التخصيب خط أحمر طهراني"
+      ]
+    },
+    {
+      "label": "العراق في المنتصف",
+      "arabicHeading": "كل سيناريو يمر فوق سماء بغداد وعين الأسد وحرير",
+      "arabicBody": "هزيز محرك قاذفة فوق الفلوجة يوقظ كل عائلة في الأنبار. كل سيناريو على الطاولة يمر فوق الأجواء العراقية. أي ضربة أميركية على نطنز أو فوردو ستعبر مجال بغداد، وأي رد إيراني سيستهدف عين الأسد وحرير. وزارة الطيران المدني أعلنت استمرار قيود الرحلات، والسفارة الأميركية جدّدت تنبيهها الأمني في 5 أيار. الطيران الخليجي يعمل عند 75 بالمئة من القدرة، وتذاكر بغداد-عمّان ارتفعت 35 بالمئة.",
+      "bigStat": {
+        "value": "+35%",
+        "label": "Iraq airfares vs one week ago",
+        "arabicLabel": "ارتفاع تذاكر الطيران"
+      },
+      "supportingStats": [
+        {
+          "label": "قدرة الخليجية",
+          "value": "75 بالمئة"
+        },
+        {
+          "label": "قاعدة عين الأسد",
+          "value": "الأنبار"
+        },
+        {
+          "label": "تنبيه السفارة",
+          "value": "5 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-08-trump-one-week-iran-ultimatum-may7/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "TASNIM · TEHRAN ARCHIVE",
+      "subtitlePhrases": [
+        "كل سيناريو يمر فوق بغداد",
+        "تذاكر بغداد-عمّان +35 بالمئة",
+        "كل أسرة تنتظر الأسبوع مثل 2003"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Voice of Emirates",
+      "domain": "voiceofemirates.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    },
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "White House Briefing Room",
+      "domain": "whitehouse.gov"
+    }
+  ],
+  "arabicTicker": [
+    "ترامب يمهل إيران أسبوعاً واحداً قبل القصف بمستوى أعلى",
+    "البيت الأبيض يصف القرار بأنه دبلوماسية المكالمة الأخيرة لطهران",
+    "صياغة الاتفاق مذكرة تفاهم من صفحة واحدة و 14 نقطة محددة",
+    "إيران ترفض أي وقف كامل للتخصيب وتعتبر النووي خطاً أحمر",
+    "أي ضربة أميركية على نطنز أو فوردو ستمر فوق الأجواء العراقية",
+    "تذاكر بغداد-عمّان والقاهرة ارتفعت أكثر من 35 بالمئة في أسبوع",
+    "هل تنتهي المهلة الخميس 14 أيار باتفاق أم بضربة أكبر؟"
+  ]
+}

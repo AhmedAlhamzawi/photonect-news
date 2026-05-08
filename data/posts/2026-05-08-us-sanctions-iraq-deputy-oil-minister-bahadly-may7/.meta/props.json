@@ -1,0 +1,158 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "عقوبات الخزانة",
+    "arabicHeadline": "العقوبات تطال وكيل وزير النفط العراقي البحادلي لتهريبه نفط إيران",
+    "englishSubhead": "WASHINGTON • OFAC DESIGNATES SITTING IRAQI MINISTER",
+    "heroQueries": [
+      "Ali Maarij Al-Bahadly Iraq Deputy Oil Minister portrait podium",
+      "US Treasury Secretary Scott Bessent press conference",
+      "Zubair oilfield Basra wellhead aerial pipeline",
+      "Asa'ib Ahl al-Haq Baghdad rally yellow flag fighters",
+      "OFAC designation document seal Treasury Department"
+    ],
+    "heroMedia": "images/news/2026-05-08-us-sanctions-iraq-deputy-oil-minister-bahadly-may7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "العقوبة",
+      "arabicHeading": "OFAC تجمد أصول البحادلي وثلاثة قادة من عصائب وكتائب",
+      "arabicBody": "ختم وثيقة الخزانة جاء جافاً يوم الخميس 7 أيار 2026، حين أعلن مكتب OFAC فرض عقوبات على علي معارج البحادلي وكيل وزير النفط العراقي. وزير الخزانة سكوت بيسنت قال إن الخزانة لن تقف مكتوفة الأيدي بينما يموَّل الإرهاب من نفط العراق. الإجراء يجمّد أصول البحادلي ويمنع الأميركيين من التعامل معه، ويشمل ثلاثة قادة من عصائب أهل الحق وكتائب سيد الشهداء. لأول مرة منذ سنوات يطال الإجراء وزيراً عراقياً جالساً.",
+      "bigStat": {
+        "value": "4",
+        "label": "Individuals + 3 entities designated",
+        "arabicLabel": "أسماء في القائمة"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ الإدراج",
+          "value": "7 مايو 2026"
+        },
+        {
+          "label": "وزير الخزانة",
+          "value": "سكوت بيسنت"
+        },
+        {
+          "label": "الكتل المستهدفة",
+          "value": "عصائب وكتائب"
+        }
+      ],
+      "broll": "images/news/2026-05-08-us-sanctions-iraq-deputy-oil-minister-bahadly-may7/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "OFAC · MAY 7 2026",
+      "subtitlePhrases": [
+        "ختم الخزانة على وزير عراقي جالس",
+        "4 أفراد و 3 كيانات في القائمة",
+        "أول عقوبة على وزير منذ سنوات"
+      ]
+    },
+    {
+      "label": "آلية التهريب",
+      "arabicHeading": "خلط الخام في VS Oil Terminal وتزوير شهادات منشأ بصرية",
+      "arabicBody": "صرير شاحنات الصهاريج في محطة VS Oil Terminal كان يخفي العملية. وفق وثيقة الخزانة، استغل البحادلي صلاحياته لتسهيل خلط النفط الإيراني بالعراقي، ثم تزوير وثائق التصدير ليبدو الخام بصري المنشأ بالكامل. الشبكة يديرها التاجر سليم أحمد سعيد، وتدر على طهران أكثر من مليار دولار سنوياً. حقلا الزبير في البصرة والقيارة في نينوى هما المصدران الرئيسيان للشحنات اليومية. النفط يمثل 80 بالمئة من صادرات إيران وربع موازنتها.",
+      "bigStat": {
+        "value": "$1B+",
+        "label": "Annual smuggling revenue to Iran",
+        "arabicLabel": "للميليشيات سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "محطة الخلط",
+          "value": "VS Oil Terminal"
+        },
+        {
+          "label": "الحقول المصدر",
+          "value": "الزبير والقيارة"
+        },
+        {
+          "label": "نسبة النفط بإيران",
+          "value": "80 بالمئة صادرات"
+        }
+      ],
+      "broll": "images/news/2026-05-08-us-sanctions-iraq-deputy-oil-minister-bahadly-may7/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "REUTERS · BASRA · MAY 7",
+      "subtitlePhrases": [
+        "خلط النفط الإيراني بالخام البصري",
+        "1 مليار دولار سنوياً للشبكة",
+        "VS Oil Terminal بوابة التزوير"
+      ]
+    },
+    {
+      "label": "الأثر على بغداد",
+      "arabicHeading": "البنوك المراسلة تشدد ونافذة الدولار اليومية تحت ضغط جديد",
+      "arabicBody": "سحب مارش بطيء من ساحة قصر السلام يحمل ثقل القرار. هذه أول عقوبة على وزير عراقي بمنصبه منذ سنوات، قبل تصويت البرلمان على حكومة الزيدي. التداعيات فورية: البنوك الأميركية المراسلة ستضاعف فحص كل تحويل دولاري من وزارة النفط، نافذة الدولار اليومية تحت ضغط، وسعر السوق الموازي سجل 1,537 دينار صباح الخميس. واشنطن تطالب الزيدي بحكومة خالية من الإرهاب، وعصائب أهل الحق رابع أكبر كتلة برلمانية.",
+      "bigStat": {
+        "value": "1,537",
+        "label": "Parallel-market dinar per dollar Thursday",
+        "arabicLabel": "دينار صباح الخميس"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر الرسمي",
+          "value": "1,300 دينار"
+        },
+        {
+          "label": "السوق الموازي",
+          "value": "1,537 دينار"
+        },
+        {
+          "label": "ترتيب عصائب",
+          "value": "4 برلمانياً"
+        }
+      ],
+      "broll": "images/news/2026-05-08-us-sanctions-iraq-deputy-oil-minister-bahadly-may7/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AFP · BAGHDAD · ARCHIVE",
+      "subtitlePhrases": [
+        "البنوك المراسلة تضاعف الفحص",
+        "1,537 دينار في الكفاح صباحاً",
+        "هل تنهار حكومة الزيدي قبل أن تولد؟"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Al Arabiya English",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "US State Department",
+      "domain": "state.gov"
+    },
+    {
+      "name": "US News",
+      "domain": "usnews.com"
+    },
+    {
+      "name": "US Treasury OFAC",
+      "domain": "treasury.gov"
+    }
+  ],
+  "arabicTicker": [
+    "العقوبات تطال وكيل وزير النفط العراقي البحادلي لتهريبه نفط إيران",
+    "OFAC تدرج 4 أفراد و 3 كيانات وتجمد كل أصولهم في الولايات المتحدة",
+    "وزير الخزانة بيسنت: لن نقف مكتوفي الأيدي بينما يموَّل الإرهاب",
+    "الشبكة تخلط الخام الإيراني في VS Oil Terminal وتزوّر شهادات المنشأ",
+    "أكثر من مليار دولار سنوياً تصب في خزائن طهران من الحقول العراقية",
+    "السعر الموازي يفتح صباح الخميس على 1,537 دينار في صرافة الكفاح",
+    "هل يقيل الزيدي وكيلَ وزارة كان جزءاً من إطار التنسيق الذي رشّحه؟"
+  ]
+}

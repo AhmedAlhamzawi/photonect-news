@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "us-sanctions-iraq-deputy-oil-minister-bahadly-may7",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "US Treasury sanctions Iraq's Deputy Oil Minister al-Bahadly for diverting Iraqi crude to Iran-linked militias",
+    "canonical_arabic_headline": "العقوبات تطال وكيل وزير النفط العراقي البحادلي لتهريبه نفط إيران",
+    "protagonist": "Ali Maarij Al-Bahadly (Iraq Deputy Oil Minister)",
+    "verb": "designated",
+    "anchor_number": "$1 billion/year smuggling network · 4 individuals + 3 entities",
+    "freshness_evidence": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran dated May 7 2026; OFAC announcement Thursday May 7 designating Iraq's sitting Deputy Oil Minister Ali Maarij Al-Bahadly plus three senior leaders of Asa'ib Ahl al-Haq and Kata'ib Sayyid al-Shuhada — first sanctions against a serving Iraqi cabinet-level official in years.",
+    "iraqi_relevance": "An Iraqi sitting deputy minister has been blacklisted by the US Treasury, freezing US-dollar transactions across the entire Ministry of Oil — at the exact moment Zaidi is trying to swear in a cabinet, dollar-window auctions are already constrained, and 90 percent of federal revenue comes from oil.",
+    "no_recycle_verification": "NOT on the 36-item no-recycle list; previous slates covered the Bahadly story zero times — this is a fresh May 7 OFAC designation with new named protagonists (Bahadly, Salim Ahmed Said, Mustafa al-Behadili, Ahmed Maksus, Mohammed al-Shuwaili) tied to the VS Oil Terminal scheme.",
+    "named_entities_for_photos": [
+      "HERO: Ali Maarij Al-Bahadly, Iraq Deputy Oil Minister — Iraqi Ministry of Oil press kit / Shafaq News portrait at parliamentary oil and gas committee podium when he chaired it; INA news agency archive of 2024 deputy-minister appointment day",
+      "BROLL_1: US Treasury Secretary Scott Bessent — Wikipedia 'Scott Bessent' article infobox lead photo / Treasury Department official portrait at Treasury press conference podium",
+      "BROLL_2: Zubair Oil Field super-giant in Basra (the smuggling scheme's source) — Wikimedia Commons 'Zubair Field' featured photo of well-head pipeline gantries / Reuters Basra Petroleum Company aerial",
+      "BROLL_3: Asa'ib Ahl al-Haq militia rally with Qais al-Khazali — Wikipedia 'Asa'ib Ahl al-Haq' article photo / AFP Baghdad rally archive showing yellow flag and fighters in fatigues"
+    ],
+    "subtitle_phrase_hints": [
+      "العقوبات على وكيل وزير النفط",
+      "1 مليار دولار سنوياً للميليشيات",
+      "هل تنهار حكومة الزيدي قبل أن تولد؟"
+    ],
+    "broll_sources_per_beat": [
+      "OFAC · MAY 7 2026",
+      "REUTERS · BASRA · MAY 7",
+      "AFP · BAGHDAD · ARCHIVE"
+    ],
+    "beat1": {
+      "label_seed": "العقوبة",
+      "fact": "في يوم الخميس 7 أيار 2026 أعلن مكتب مراقبة الأصول الأجنبية OFAC في وزارة الخزانة الأميركية فرض عقوبات على علي معارج البحادلي، وكيل وزير النفط العراقي منذ عام 2024 ورئيس لجنة النفط والغاز البرلمانية سابقاً. وزير الخزانة سكوت بيسنت قال نصاً إن الخزانة لن تقف مكتوفة الأيدي بينما يستغل الجيش الإيراني نفط العراق لتمويل الإرهاب. الإجراء يجمّد كل أصول البحادلي في الولايات المتحدة ويمنع الأميركيين من التعامل معه — ويشمل أيضاً ثلاثة قادة من عصائب أهل الحق وكتائب سيد الشهداء بأسمائهم الكاملة. للمرة الأولى منذ سنوات يطال الإجراء وزيراً عراقياً بمنصبه."
+    },
+    "beat2": {
+      "label_seed": "آلية التهريب",
+      "fact": "وفق وثيقة الخزانة، استخدم البحادلي صلاحياته في وزارة النفط لتسهيل خلط النفط الإيراني بالنفط العراقي عند محطة VS Oil Terminal، ثم تزوير وثائق التصدير ليبدو الخام بالكامل عراقي المنشأ قبل بيعه في الأسواق العالمية. الشبكة تديرها شركة سليم أحمد سعيد، تاجر النفط المرتبط بإيران، وتدر على طهران ما لا يقل عن مليار دولار سنوياً وفق تقدير OFAC. حقل الزبير في البصرة وحقل القيارة في نينوى هما المصدران الرئيسيان للشحنات اليومية التي قال البحادلي إنها للتصدير الرسمي، بينما كانت الشاحنات تنقل ملايين الدولارات من النفط لصالح الشبكة الإيرانية. النفط يمثل 80 بالمئة من صادرات إيران وربع موازنة الدولة."
+    },
+    "beat3": {
+      "label_seed": "أثر العقوبة على بغداد",
+      "fact": "هذه أول عقوبة على وزير عراقي بمنصبه منذ سنوات، وتأتي قبل أيام من تصويت البرلمان على حكومة علي فلاح الزيدي. التداعيات فورية: البنوك الأميركية المراسلة ستضاعف فحص كل تحويل دولاري صادر من وزارة النفط العراقية، نافذة الدولار اليومية للبنك المركزي ستتعرض لمزيد من الضغط، وسعر صرف السوق الموازي سجل 1,537 دينار للدولار صباح الخميس. وزير الخارجية الأميركي دعا الزيدي علناً إلى تشكيل حكومة 'خالية من الإرهاب' ووجّه له دعوة لزيارة واشنطن — والآن العقوبة على البحادلي تختبر إن كان الزيدي قادراً على إقالة وكيل وزارة كان جزءاً من إطار التنسيق الذي رشّحه أصلاً. عصائب أهل الحق هي رابع أكبر كتلة في البرلمان الحالي."
+    },
+    "sources": [
+      "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran",
+      "https://www.bloomberg.com/news/articles/2026-05-07/us-sanctions-iraqi-oil-official-militia-leaders-linked-to-iran",
+      "https://english.alarabiya.net/News/middle-east/2026/05/07/us-sanctions-iraq-s-deputy-oil-minister-for-helping-iran-and-its-proxies-treasury",
+      "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/sanctioning-iran-aligned-actors-undermining-iraqs-sovereignty-and-exploiting-its-resources/",
+      "https://www.usnews.com/news/world/articles/2026-05-07/us-sanctions-iraqs-deputy-oil-minister-militias-over-iran-support"
+    ],
+    "supporting_stats": [
+      {"label": "Designation date", "value": "May 7 2026"},
+      {"label": "Iran smuggling income", "value": "$1B+ per year"},
+      {"label": "Designated individuals", "value": "4 named"},
+      {"label": "Source oilfields", "value": "Zubair · Qayyarah"},
+      {"label": "AAH parliament rank", "value": "4th-largest bloc"}
+    ]
+  },
+  {
+    "slug": "trump-one-week-iran-ultimatum-may7",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Trump gives Iran one week to sign comprehensive deal or face higher-level bombing",
+    "canonical_arabic_headline": "ترامب يمهل إيران أسبوعاً واحداً قبل القصف بمستوى أعلى",
+    "protagonist": "Donald Trump (US President)",
+    "verb": "issued ultimatum",
+    "anchor_number": "1-week deadline · 14-point one-page MOU · 30-day talks window",
+    "freshness_evidence": "https://www.voiceofemirates.com/en/news/2026/05/07/the-one-week-ultimatum-trump-gives-iran-two-choices-a-comprehensive-deal-or-military-escalation/ dated May 7 2026; CNBC and Axios confirmed the same day that Trump set a one-week deadline for a 14-point MOU after rejecting Iran's latest counter-offer on April 29.",
+    "iraqi_relevance": "Iraqi airspace is the corridor any new strike package will fly through — every previous escalation between the US and Iran has put cruise-missile and drone fragments on Iraqi towns from Erbil to Mahmudiya, and a one-week clock means Iraqi families have to plan school and travel around a calendar that ends roughly May 14.",
+    "no_recycle_verification": "Recent slates covered Hormuz transit, the Vance warning and Araghchi-Wang Yi Beijing — none covered the May 7 specific 1-week ultimatum and the 14-point one-page MOU draft language; this is a discrete new diplomatic ticking clock with concrete dates and a specific document.",
+    "named_entities_for_photos": [
+      "HERO: Donald Trump at White House lectern — White House press kit / Wikipedia 'Donald Trump' article 2026 official portrait",
+      "BROLL_1: Iranian President Masoud Pezeshkian at Tehran palace podium — Wikipedia 'Masoud Pezeshkian' article infobox lead photo / Tasnim News Agency archive",
+      "BROLL_2: Strait of Hormuz satellite tanker chokepoint — Wikimedia Commons 'Strait of Hormuz' featured satellite photo / NASA Earth Observatory image",
+      "BROLL_3: Iran's Natanz / Fordow uranium enrichment facility — Wikipedia 'Nuclear program of Iran' article photo / IAEA inspector facility photo"
+    ],
+    "subtitle_phrase_hints": [
+      "أسبوع واحد فقط بين الحرب والاتفاق",
+      "14 نقطة على ورقة واحدة",
+      "ماذا يحدث في 14 أيار؟"
+    ],
+    "broll_sources_per_beat": [
+      "WHITE HOUSE · MAY 7",
+      "WIKIMEDIA · NASA",
+      "TASNIM · TEHRAN ARCHIVE"
+    ],
+    "beat1": {
+      "label_seed": "الإنذار",
+      "fact": "في 7 أيار 2026 وضع الرئيس الأميركي دونالد ترامب القيادة الإيرانية أمام خيار تاريخي: مهلة أسبوع واحد للتوصل إلى اتفاق شامل ينهي الحرب نهائياً، أو قصف بمستوى أعلى بكثير. صحيفة 'صوت الإمارات' ووسائل أميركية أكدت أن ترامب لجأ إلى ما وصفه مستشاروه بـ 'دبلوماسية المكالمة الأخيرة'، مؤكداً أن الوضع الراهن لم يعد مقبولاً وأن أي اتفاق يجب أن يكون 'حاسماً ونهائياً' يفكك المخاطر النووية والإقليمية بالكامل. الموعد النهائي ينتهي تقريباً الخميس 14 أيار."
+    },
+    "beat2": {
+      "label_seed": "الورقة",
+      "fact": "وفق ما كشفه موقع أكسيوس في 6 أيار، صياغة الاتفاق هي مذكرة تفاهم من صفحة واحدة و14 نقطة. تنص على إعلان نهاية الحرب الإقليمية، فترة 30 يوماً من المفاوضات التفصيلية لاحقاً، فتح مضيق هرمز، تجميد التخصيب الإيراني للنووي، رفع العقوبات الأميركية، والإفراج عن مليارات الدولارات من الأموال الإيرانية المجمدة. وزير الخارجية الإيراني عباس عراقجي ورئيس منظمة الطاقة الذرية محمد إسلامي رفضا في تصريحات يوم الأربعاء أي 'وقف كامل' للتخصيب، وقالا إن البرنامج النووي 'خط أحمر غير قابل للتفاوض'، بينما الرئيس مسعود بزشكيان حاول إظهار وحدة القرار في الجانب الإيراني."
+    },
+    "beat3": {
+      "label_seed": "العراق في المنتصف",
+      "fact": "كل سيناريو على الطاولة يمر فوق الأجواء العراقية. أي ضربة أميركية على منشآت نطنز أو فوردو ستعبر مجال بغداد، وأي رد إيراني على القواعد الأميركية سيستهدف عين الأسد قرب الأنبار وحرير قرب أربيل. وزارة الطيران المدني العراقية أعلنت يوم الخميس استمرار قيود الرحلات مع إغلاق متقطع، وسفارة الولايات المتحدة في بغداد جدّدت تنبيهها الأمني المؤرخ 5 أيار. شركات الطيران الخليجية الإماراتية والقطرية تعمل عند 75 بالمئة من القدرة، وأسعار التذاكر من بغداد إلى عمّان والقاهرة ارتفعت بأكثر من 35 بالمئة في الأيام الماضية. كل أسرة عراقية تنتظر هذا الأسبوع مثل عام 2003."
+    },
+    "sources": [
+      "https://www.voiceofemirates.com/en/news/2026/05/07/the-one-week-ultimatum-trump-gives-iran-two-choices-a-comprehensive-deal-or-military-escalation/",
+      "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+      "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo",
+      "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them",
+      "https://www.aljazeera.com/news/2026/5/7/irans-president-pezeshkian-seeks-to-quash-divided-leadership-narrative"
+    ],
+    "supporting_stats": [
+      {"label": "Deadline", "value": "1 week (~May 14)"},
+      {"label": "MOU points", "value": "14 on 1 page"},
+      {"label": "Talks window", "value": "30 days"},
+      {"label": "Iraq airfares vs week ago", "value": "+35%"},
+      {"label": "Gulf airline capacity", "value": "75% of pre-war"}
+    ]
+  },
+  {
+    "slug": "beirut-radwan-balout-strike-may7",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "IDF kills Hezbollah Radwan commander Ahmed Ghaleb Balout in first Beirut strike since ceasefire",
+    "canonical_arabic_headline": "بلوط قائد قوة الرضوان يُغتال في الضاحية وضربات على 3 بلدات",
+    "protagonist": "Ahmed Ghaleb Balout (Hezbollah Radwan Force commander, killed)",
+    "verb": "killed",
+    "anchor_number": "1 senior commander · 12 dead in 24 hours · 3 evacuation orders",
+    "freshness_evidence": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander dated May 6 and IDF confirmation May 7 2026; first Israeli strike on Beirut since the mid-April ceasefire, IDF named Balout as the target and confirmed his killing on Thursday with the rubble photo from Dahiyeh's Haret Hreik.",
+    "iraqi_relevance": "Iraqi viewers watched the 33-day Lebanon war 2024 in real time and have family in Dahiyeh and Saida; the resumption of Beirut strikes signals that the entire southern Levant ceasefire architecture (which directly underpins Iraqi airspace stability) is one assassination away from collapse, and Hezbollah's reaction will determine whether Iraqi PMF brigades along the Syria border are activated.",
+    "no_recycle_verification": "Lebanon south strikes / Habboush were covered May 1 — but this is a categorically NEW event: the FIRST Beirut-capital strike since the mid-April ceasefire, a named Radwan commander killed at chief-of-operations rank, three new evacuation orders, and a fresh confirmation timeline (May 6 strike, May 7 IDF confirmation). This is the 'major escalation' carve-out the no-recycle list explicitly allows.",
+    "named_entities_for_photos": [
+      "HERO: Ahmed Ghaleb Balout, Radwan commander — Hezbollah-issued martyr poster / Al Manar TV obituary photo (these are typically released within 48h)",
+      "BROLL_1: Dahiyeh / Haret Hreik destroyed building with excavator — Reuters and AFP photo wire from Beirut May 7 morning",
+      "BROLL_2: Hezbollah leader Naim Qassem at Beirut speech — Wikipedia 'Naim Qassem' article infobox lead photo / Al-Mayadeen archive",
+      "BROLL_3: Israeli IDF Spokesperson Daniel Hagari at briefing — Wikipedia 'Daniel Hagari' photo / IDF press conference room standard image"
+    ],
+    "subtitle_phrase_hints": [
+      "بلوط في الضاحية",
+      "أول ضربة بيروت منذ الهدنة",
+      "3 أوامر إخلاء جنوباً"
+    ],
+    "broll_sources_per_beat": [
+      "REUTERS · BEIRUT · MAY 7",
+      "AL MANAR · DAHIYEH",
+      "IDF SPOKESPERSON · MAY 7"
+    ],
+    "beat1": {
+      "label_seed": "الاغتيال",
+      "fact": "ليلة الأربعاء 6 أيار 2026 شنّت إسرائيل غارة دقيقة على مبنى في حارة حريك جنوب بيروت، وفي صباح الخميس 7 أيار أعلن المتحدث باسم الجيش الإسرائيلي مقتل أحمد غالب بلوط قائد قوة الرضوان النخبة في حزب الله. هي أول ضربة على العاصمة اللبنانية منذ سريان وقف إطلاق النار في منتصف نيسان. مصادر مقربة من الحزب أكدت لقناة 'الميادين' أن بلوط شغل سابقاً منصب رئيس عمليات الرضوان وأشرف على عشرات الكمائن ضد الجنود الإسرائيليين خلال حرب 2024. صور وكالة رويترز أظهرت حفّارة كبيرة تزيل ركام المبنى المستهدف عند الفجر."
+    },
+    "beat2": {
+      "label_seed": "الجنوب",
+      "fact": "بالتوازي مع ضربة بيروت أصدر الجيش الإسرائيلي أوامر إخلاء جديدة لثلاث بلدات في الجنوب: دير الزهراني، بفرويا، وحبوش، متهماً حزب الله بانتهاكات للهدنة. حصيلة 24 ساعة بلغت 12 قتيلاً وفق إحصائيات وزارة الصحة اللبنانية. غارات إضافية ضربت محيط النبطية وبنت جبيل في وقت متأخر من الخميس. الجيش اللبناني انتشر في القرى المخلاة لتمرير قوافل المدنيين شمالاً، فيما أعلنت اليونيفيل أن دورياتها رصدت 4 طائرات مسيّرة إسرائيلية فوق نهر الليطاني خلال 24 ساعة."
+    },
+    "beat3": {
+      "label_seed": "هل تنهار الهدنة",
+      "fact": "البيت الأبيض كان قد ضغط على نتنياهو لتجنب التصعيد قبل المفاوضات الإقليمية المقررة في 17 أيار في واشنطن. مقتل بلوط يجبر حزب الله على الرد، والأمين العام نعيم قاسم متوقع أن يخطب الجمعة. ثلاثة سيناريوهات على الطاولة: رد محدود بصواريخ على الجليل الأعلى يحفظ ماء الوجه، أو سكوت تكتيكي مع تكثيف اللجوء للمحكمة الدولية، أو فتح جبهة محدودة شمالاً تنسحب عليها فصائل العراق وسوريا. الخارجية اللبنانية استدعت السفير الأميركي ليلة الخميس. كل سيناريو يضرب الأجواء العراقية لأن مفاوضات 17 أيار في واشنطن مرتبطة بمهلة ترامب لإيران."
+    },
+    "sources": [
+      "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander",
+      "https://www.timesofisrael.com/liveblog_entry/idf-confirms-killing-commander-of-hezbollahs-radwan-force-in-beirut-strike/",
+      "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/",
+      "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official",
+      "https://today.lorientlejour.com/article/1506106/who-was-ahmad-ballout-the-hezbollah-commander-israel-targeted-in-beiruts-southern-suburbs.html"
+    ],
+    "supporting_stats": [
+      {"label": "Strike date", "value": "May 6 2026 night"},
+      {"label": "First Beirut hit since", "value": "ceasefire April"},
+      {"label": "Lebanon dead 24h", "value": "12"},
+      {"label": "New evacuation orders", "value": "3 towns"},
+      {"label": "Talks scheduled", "value": "May 17 · Washington"}
+    ]
+  },
+  {
+    "slug": "egypt-allam-syria-damascus-reconstruction-may7",
+    "topicBucket": "gulf_regional",
+    "headline_seed": "Egyptian construction billionaire Hassan Allam meets al-Sharaa in Damascus to enter $400B Syria reconstruction race",
+    "canonical_arabic_headline": "حسن علام يدخل سوق إعمار سوريا بـ 400 مليار دولار",
+    "protagonist": "Hassan Allam (Egyptian construction tycoon)",
+    "verb": "signed",
+    "anchor_number": "$400B reconstruction market · $14B prior signed deals · 20x Syria GDP",
+    "freshness_evidence": "https://www.billionaires.africa/2026/05/05/egyptian-tycoon-hassan-allam-meets-syrias-president-al-sharaa-in-damascus-to-discuss-infrastructure-and-real-estate-investment/ dated May 5 2026 with confirmation in https://www.madamasr.com/en/2026/05/06/feature/politics/a-cautious-rekindling-of-syria-egypt-relations-amid-economic-challenges-regional-upheaval/ — first major Egyptian construction capital crossing into Damascus since Caesar Act lifted in 2025; meeting at the People's Palace.",
+    "iraqi_relevance": "Iraq exports gypsum, cement, steel rebar and labor through the al-Qaim crossing into Syria, and any Egyptian-led reconstruction wave forces Iraqi contractors to either join the Egyptian-led consortium or be priced out of a $400B market sitting on Iraq's western border; al-Anbar's reconstruction-supply economy is the direct beneficiary or victim.",
+    "no_recycle_verification": "NOT on the no-recycle list; previous slates did not cover Syria reconstruction or any Egyptian-Syrian capital-flow story. This is a brand-new May 5-7 development with named Egyptian protagonist (Hassan Allam) and named Syrian counterpart (al-Sharaa), specific venue (People's Palace Damascus), and specific market size ($400B).",
+    "named_entities_for_photos": [
+      "HERO: Hassan Allam, CEO of Hassan Allam Holding — company press kit / Forbes Middle East Egyptian-billionaires gallery photo",
+      "BROLL_1: Ahmad al-Sharaa, Syrian President — Wikipedia 'Ahmad al-Sharaa' article infobox lead photo / Syrian Presidency official portrait",
+      "BROLL_2: People's Palace (Qasr al-Shaab) Damascus exterior — Wikimedia Commons featured photo of the Mount Mezzeh hilltop palace / Reuters Damascus archive",
+      "BROLL_3: Damaged Damascus or Aleppo old-city neighborhood used in reconstruction announcements — Reuters / AFP Aleppo old souq photo"
+    ],
+    "subtitle_phrase_hints": [
+      "حسن علام يلتقي الشرع",
+      "400 مليار دولار سوق الإعمار",
+      "هل يدخل المقاول العراقي قبل الإغلاق؟"
+    ],
+    "broll_sources_per_beat": [
+      "BILLIONAIRES AFRICA · MAY 5",
+      "SYRIAN PRESIDENCY · DAMASCUS",
+      "REUTERS · ALEPPO ARCHIVE"
+    ],
+    "beat1": {
+      "label_seed": "اللقاء",
+      "fact": "في الإثنين 4 أيار 2026 التقى رجل الأعمال المصري حسن علام، رئيس مجموعة 'حسن علام للقابضة'، الرئيس السوري الانتقالي أحمد الشرع في 'قصر الشعب' بدمشق. الاجتماع، الذي وثقته 'وكالة سانا' الرسمية وموقع 'بليونيرز أفريكا'، تركّز على التطوير العقاري وإعادة تأهيل البنية التحتية المدمرة. علام كان أحد ثلاثة من قادة الأعمال الإقليميين قابلهم الشرع في اليوم نفسه، بينهم محمد إبراهيم الشيباني المدير التنفيذي لمؤسسة دبي للاستثمارات. الحكومة السورية الانتقالية تقدّر تكلفة الإعمار بنحو 400 مليار دولار — أي 20 ضعف الناتج المحلي الإجمالي السوري الحالي."
+    },
+    "beat2": {
+      "label_seed": "السباق الإقليمي",
+      "fact": "علام يصل متأخراً لكن قبل إغلاق الباب: السعودية تعهدت بـ 6.4 مليار دولار للقطاعات السياحية والاتصالات والصحة، وقطر والإمارات وتركيا أمضت سنتين تموضعت حول السوق. شركة 'إيغل هيلز' الإماراتية تدرس مشاريع بـ 50 مليار دولار، وسوريا وقّعت بالفعل صفقات استثمارية بقيمة 14 مليار دولار تشمل مشاريع المطار ومترو دمشق. قانون قيصر الأميركي الذي كان يجرّم أي تعامل مع دمشق رُفع في تصويت الكونغرس عام 2025، فُتحت تحويلات الدولار، وعادت الفنادق المصرية وشركات المقاولات الكويتية إلى المعرض الاستثماري السوري الذي عُقد في دمشق في كانون الثاني."
+    },
+    "beat3": {
+      "label_seed": "العراق على الحدود",
+      "fact": "العراق على بعد 380 كيلومتراً من حلب عبر معبر القائم. وزارة الصناعة العراقية أعلنت في 2025 أن صادرات الجبس والإسمنت والحديد إلى سوريا قابلة للتضاعف ثلاث مرات إذا فُتحت أسواق الإعمار. لكن المقاولين العراقيين، ومعظمهم من الأنبار وصلاح الدين، يواجهون منافسة مع شركة 'حسن علام' التي وقّعت في مصر صفقات بـ 50 مليار دولار وتمتلك خبرة في القاهرة الجديدة والعاصمة الإدارية. الفرصة العراقية الوحيدة هي أن تنضم شركاتها كمقاول من الباطن — وهذا يتطلب قراراً حكومياً سريعاً قبل تشكيل حكومة الزيدي. في غياب القرار، الإعمار السوري يصبح فرصة مصرية-إماراتية-سعودية، والعراق يتفرّج."
+    },
+    "sources": [
+      "https://www.billionaires.africa/2026/05/05/egyptian-tycoon-hassan-allam-meets-syrias-president-al-sharaa-in-damascus-to-discuss-infrastructure-and-real-estate-investment/",
+      "https://www.madamasr.com/en/2026/05/06/feature/politics/a-cautious-rekindling-of-syria-egypt-relations-amid-economic-challenges-regional-upheaval/",
+      "https://english.enabbaladi.net/archives/2026/05/al-sharaa-presents-syria-investment-opportunities-to-three-businessmen/",
+      "https://sana.sy/en/presidency/2314446/",
+      "https://english.enabbaladi.net/archives/2026/05/eagle-hills-studies-50-billion-syria-projects/"
+    ],
+    "supporting_stats": [
+      {"label": "Reconstruction market", "value": "$400B"},
+      {"label": "Saudi pledge", "value": "$6.4B"},
+      {"label": "Eagle Hills study", "value": "$50B"},
+      {"label": "Deals already signed", "value": "$14B"},
+      {"label": "Caesar Act repealed", "value": "2025 vote"}
+    ]
+  },
+  {
+    "slug": "aramco-q1-2026-results-may10-preview",
+    "topicBucket": "global_economy",
+    "headline_seed": "Aramco set to report 13.8% Q1 2026 profit jump on May 10 despite 30% Saudi output collapse",
+    "canonical_arabic_headline": "أرامكو تعلن أرباح الربع الأول 29 مليار دولار رغم تراجع الإنتاج 30 بالمئة",
+    "protagonist": "Amin Nasser (Aramco CEO)",
+    "verb": "to report",
+    "anchor_number": "$29B Q1 net profit · +13.8% YoY · 7.25M bpd vs 10.4M before war",
+    "freshness_evidence": "https://www.argaam.com/en/article/articledetail/id/1898844 dated May 7 2026 confirming results release Sunday May 10 with earnings call May 11; analyst consensus SAR 108.8B (~$29B) net profit per https://www.tradingview.com/news/reuters.com,2026-04-23:newsml_Zaw8nhHQp:0-zawya-saudi-aramco-q1-2026-profit-forecast-to-rise-on-higher-oil-prices/ — the world's most-watched oil earnings will land on Sunday.",
+    "iraqi_relevance": "Aramco's quarterly report sets the price ceiling for every barrel Iraq sells. If Aramco confirms it can earn $29B with output cut 30%, OPEC+ headquarters in Vienna will treat the Iraqi quota of 4.0M bpd as renegotiable — Iraq's 90 percent budget dependence on oil means the Sunday number lands in every Iraqi salary slip by July.",
+    "no_recycle_verification": "NOT on the no-recycle list; previous slates covered OPEC+/UAE-OPEC exit, Brent moves, ADNOC $55B, Aramco-Sinopec Yasref — but never the discrete Aramco Q1 2026 results release on a specific date with the specific paradox metric (profit up while output collapsed). This is a forward-looking countdown to Sunday May 10.",
+    "named_entities_for_photos": [
+      "HERO: Amin H. Nasser, Aramco President & CEO — Wikipedia 'Amin Nasser' article infobox lead photo / Aramco IR press kit official portrait",
+      "BROLL_1: Aramco Dhahran headquarters Eastern Province — Wikipedia 'Saudi Aramco' article exterior photo / Saudi Aramco corporate press kit",
+      "BROLL_2: Saudi Tadawul stock exchange screen with Aramco ticker 2222 — Reuters Riyadh archive photo / Tadawul press kit trading floor",
+      "BROLL_3: Saudi Energy Minister Prince Abdulaziz bin Salman at Vienna OPEC+ press conference — Wikipedia article / OPEC press kit photo"
+    ],
+    "subtitle_phrase_hints": [
+      "29 مليار دولار في 90 يوماً",
+      "إنتاج أقل بـ 30 بالمئة",
+      "ماذا يعني هذا للموازنة العراقية؟"
+    ],
+    "broll_sources_per_beat": [
+      "ARAMCO IR · DHAHRAN",
+      "TADAWUL · RIYADH",
+      "OPEC PRESS · VIENNA"
+    ],
+    "beat1": {
+      "label_seed": "الأحد القادم",
+      "fact": "تعلن أرامكو السعودية يوم الأحد 10 أيار 2026 نتائجها للربع الأول، يتلوها مؤتمر صحفي مع المحللين يوم الإثنين 11 أيار. توقعات بنوك الاستثمار السعودية الكبرى (الراجحي، الأهلي، فالكم، إن سي بي كابيتال) تشير إلى صافي ربح بـ 108.8 مليار ريال سعودي — حوالي 29 مليار دولار، أي ارتفاع 13.8 بالمئة على أساس سنوي و 56.7 بالمئة على أساس فصلي مقارنة بـ 69.5 مليار ريال في الربع الرابع 2025. الإيرادات المتوقعة 455.3 مليار ريال. الرئيس التنفيذي أمين الناصر سيقدّم النتائج من مقر الشركة في الظهران."
+    },
+    "beat2": {
+      "label_seed": "المفارقة",
+      "fact": "الإنتاج السعودي تراجع من 10.4 مليون برميل يومياً في شباط 2026 إلى 7.25 مليون برميل في آذار — أي 30 بالمئة، وهي أكبر اضطراب إمداد من دولة واحدة في تاريخ وكالة الطاقة الدولية. لكن سعر البرميل ارتفع 24.8 بالمئة على أساس فصلي بسبب الحرب الإقليمية وإغلاق هرمز المتقطع. النتيجة: أرباح أعلى من إنتاج أقل. مجلس إدارة أرامكو ثبّت توزيع الأرباح الأساسي عند 87.6 مليار دولار سنوياً، وأطلق برنامج إعادة شراء أسهم بـ 11.25 مليار ريال على 18 شهراً ابتداءً من آذار. الصندوق السيادي السعودي (PIF)، الذي يمتلك 4 بالمئة من أرامكو، يستخدم هذه التوزيعات لتمويل نيوم وتوسعة شنغهاي."
+    },
+    "beat3": {
+      "label_seed": "ماذا تعني للعراق",
+      "fact": "للعراق ثلاث تداعيات مباشرة. أولاً: أوبك+ عند اجتماع فيينا التالي ستسأل بغداد عن خفض حصتها من 4.0 مليون برميل يومياً، لأن السعودية أثبتت قدرتها على ربح أكثر بإنتاج أقل. ثانياً: المشترون الآسيويون (الصين والهند تشتران 70 بالمئة من خام البصرة الثقيل) سيطلبون خصومات أكبر، وإيرادات وزارة المالية العراقية مرتبطة مباشرةً بفارق السعر مقابل برنت. ثالثاً: السوق الموازي للدولار في بغداد سيقرأ النتيجة كإشارة على متانة الريال السعودي مقارنة بالدينار العراقي، وقد يدفع سعر الدولار في الكفاح فوق 1,540 ديناراً قبل عيد الأضحى. كل هذا يحدث قبل وصول حكومة الزيدي إلى الرقم 50."
+    },
+    "sources": [
+      "https://www.argaam.com/en/article/articledetail/id/1898844",
+      "https://www.tradingview.com/news/reuters.com,2026-04-23:newsml_Zaw8nhHQp:0-zawya-saudi-aramco-q1-2026-profit-forecast-to-rise-on-higher-oil-prices/",
+      "https://houseofsaud.com/aramco-q1-2026-war-price-paradox/",
+      "https://maaal.com/en/news/details/aramco-to-announce-q1-fin/",
+      "https://english.alarabiya.net/News/saudi-arabia/2026/04/15/pif-s-alrumayyan-says-no-neom-projects-cancelled-spending-priorities-reassessed"
+    ],
+    "supporting_stats": [
+      {"label": "Q1 net profit (est)", "value": "$29B / SAR 108.8B"},
+      {"label": "YoY change", "value": "+13.8%"},
+      {"label": "QoQ change", "value": "+56.7%"},
+      {"label": "Saudi output drop", "value": "10.4M → 7.25M bpd"},
+      {"label": "Results release", "value": "Sunday May 10"}
+    ]
+  },
+  {
+    "slug": "kuwait-citizenship-revocations-71059-may2026",
+    "topicBucket": "wildcard",
+    "headline_seed": "Kuwait Decree-Law 52 of 2026 strips citizenship from 71,059 people including bedoon descendants",
+    "canonical_arabic_headline": "الكويت تسحب الجنسية من 71,059 شخصاً بمرسوم رقم 52 لعام 2026",
+    "protagonist": "Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah (Emir of Kuwait)",
+    "verb": "issued",
+    "anchor_number": "71,059 revocations · 4.6% of population · 250,000-300,000 family members affected",
+    "freshness_evidence": "https://gulfnews.com/world/gulf/kuwait/kuwait-issues-major-amendments-to-citizenship-law-under-new-decree-1.500504946 and https://newlinesmag.com/essays/kuwait-is-stripping-its-people-of-citizenship-at-an-unprecedented-rate/ — Decree-Law No. 52 published in Official Gazette April 13 2026, with revocation count of 71,059 confirmed as of April 15 2026 by the Newsroom Initiative; ongoing implementation through May with new tranches gazetted weekly.",
+    "iraqi_relevance": "About 100,000 Iraqis live in Kuwait — many are second-generation residents whose status depends on bilateral agreements, and the bedoon community, the largest stateless group in the Gulf, includes thousands of families with Iraqi tribal origins (al-Anbar, Basra). Kuwait's wholesale stripping of citizenship redraws the legal map for Iraqi-origin Kuwaitis and bedoon Iraqis at the same moment that Hajj 2026 (May 25-29) requires nationality verification for visa pickup.",
+    "no_recycle_verification": "NOT on the 36-item no-recycle list; this is a Gulf domestic / human-rights story that none of the prior 7 slates touched. Specific protagonist (Emir Meshal), specific decree number (52/2026), specific date (April 13 gazette), specific count (71,059 revocations) — all unrelated to anything covered May 1-7.",
+    "named_entities_for_photos": [
+      "HERO: Sheikh Meshal Al-Ahmad Al-Sabah, Emir of Kuwait — Wikipedia 'Meshal Al-Ahmad Al-Jaber Al-Sabah' article infobox lead photo / Kuwait Royal Court press kit",
+      "BROLL_1: Kuwaiti Council of Ministers building / Bayan Palace — Wikimedia Commons 'Bayan Palace' photo / Kuwait Ministry of Information press kit",
+      "BROLL_2: Kuwaiti passport with date palm crest — Wikipedia 'Kuwaiti passport' article photo / Wikimedia Commons feature image",
+      "BROLL_3: Bedoon protest in Sulaibiya / Jahra Kuwait — Reuters / AFP Gulf archive (faces blurred per editorial standard) / Human Rights Watch Kuwait report imagery"
+    ],
+    "subtitle_phrase_hints": [
+      "71,059 جنسية مسحوبة في 8 أشهر",
+      "البدون والعائلات في الواجهة",
+      "ماذا عن العراقيين في الكويت؟"
+    ],
+    "broll_sources_per_beat": [
+      "KUWAITI GAZETTE · APRIL 13",
+      "KUNA · KUWAIT CITY",
+      "REUTERS · GULF ARCHIVE"
+    ],
+    "beat1": {
+      "label_seed": "المرسوم",
+      "fact": "نشرت الجريدة الرسمية الكويتية في 13 نيسان 2026 المرسوم رقم 52 لعام 2026 بشأن قانون الجنسية، الذي وقعه الأمير الشيخ مشعل الأحمد الجابر الصباح. المرسوم يضيّق معايير التجنّس، يُلغي حصول الزوجة الأجنبية تلقائياً على الجنسية، يصنّف أبناء المتجنّسين كـ 'متجنّسين' لا 'كويتيين بالأصل'، ويوسّع صلاحيات الإلغاء. القانون يحدّد لأول مرة أن الكويتي بالأصل هو من ولد لأب كويتي بصرف النظر عن مكان الميلاد. اللجنة العليا للجنسية تجتمع أسبوعياً في قصر بيان وتعلن قراراتها كل خميس."
+    },
+    "beat2": {
+      "label_seed": "الأرقام",
+      "fact": "وفق منصة 'مبادرة غرفة الأخبار' الكويتية، عدد الجنسيات المسحوبة وصل إلى 71,059 جنسية حتى 15 نيسان 2026 — أي 4.6 بالمئة من سكان الكويت الرسميين البالغ عددهم 1.545 مليون. لكن الأثر يمتد إلى الأقارب: الزوجات والأبناء والأحفاد الذين حصلوا على الجنسية عبر هؤلاء الأفراد، والعدد التراكمي قد يصل إلى ما بين 250 و 300 ألف شخص. مجتمع 'البدون' (عديمي الجنسية، يُقدَّر عددهم بـ 100,000 في الكويت) يتأثر أيضاً لأن المرسوم يربط الإقامة بالجنسية. منظمة العفو الدولية ووثيقة 'هيومن رايتس ووتش' لشهر آذار وصفتا الإجراء بأنه 'الأكبر من نوعه في تاريخ دولة خليجية'."
+    },
+    "beat3": {
+      "label_seed": "العراقي في الكويت",
+      "fact": "في الكويت يعيش حوالي 100,000 عراقي، معظمهم من البصرة والمحافظات الجنوبية، يعملون في الخدمات والبناء. السفارة العراقية في الكويت أصدرت في 5 أيار 'إرشادات احترازية' تطلب من المواطنين العراقيين تحديث الإقامة وتوثيق العلاقة العائلية مع أي قريب كويتي قبل أن تُسحب جنسيته — لأن الأقارب من الدرجة الأولى يفقدون امتيازات الإقامة فوراً. أيضاً، فريضة الحج 2026 تنطلق 25 أيار، وعشرات الآلاف من العراقيين والبدون في الكويت يحتاجون إلى وثائق سفر قبل ذلك. من فقد جنسيته خلال أبريل-مايو لا يستطيع الحصول على تأشيرة الحج هذا العام. القرار الكويتي يصبح قراراً عراقياً معاشاً لكل عائلة عابرة للحدود."
+    },
+    "sources": [
+      "https://gulfnews.com/world/gulf/kuwait/kuwait-issues-major-amendments-to-citizenship-law-under-new-decree-1.500504946",
+      "https://thelawreporters.com/kuwait-citizenship-law-reform-2026-nationality-rules",
+      "https://newlinesmag.com/essays/kuwait-is-stripping-its-people-of-citizenship-at-an-unprecedented-rate/",
+      "https://www.lexis.ae/2026/04/17/kwt-new-decree-tightens-citizenship-rules-and-expands-revocation-powers/",
+      "https://kuwaittimes.com/article/42247/kuwait/kuwait-citizenship-law-amendments-published-in-official-gazette/"
+    ],
+    "supporting_stats": [
+      {"label": "Decree number", "value": "52 / 2026"},
+      {"label": "Revocations to date", "value": "71,059"},
+      {"label": "Share of population", "value": "4.6%"},
+      {"label": "Family members affected", "value": "250-300K"},
+      {"label": "Hajj 2026 day 1", "value": "May 25"}
+    ]
+  }
+]

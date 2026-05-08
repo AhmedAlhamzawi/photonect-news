@@ -1,0 +1,154 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "audioBed": "audio/mood_mideast.mp3",
+  "breaking": {
+    "arabicKicker": "مرسوم 52",
+    "arabicHeadline": "الكويت تسحب الجنسية من 71,059 شخصاً بمرسوم رقم 52 لعام 2026",
+    "englishSubhead": "KUWAIT • DECREE 52 • 4.6% OF POPULATION",
+    "heroQueries": [
+      "Sheikh Meshal Al-Ahmad Al-Sabah Emir Kuwait portrait",
+      "Bayan Palace Kuwait Council of Ministers exterior",
+      "Kuwaiti passport date palm crest official",
+      "Bedoon stateless Kuwait Sulaibiya Jahra protest archive",
+      "Kuwait Official Gazette decree document"
+    ],
+    "heroMedia": "images/news/2026-05-08-kuwait-citizenship-revocations-71059-may2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المرسوم",
+      "arabicHeading": "المرسوم 52 يعيد رسم تعريف الكويتي ويوسّع صلاحيات الإلغاء",
+      "arabicBody": "نشرت الجريدة الرسمية الكويتية في 13 أبريل 2026 المرسوم رقم 52 لسنة 2026 بشأن قانون الجنسية، وقعه الأمير الشيخ مشعل الأحمد الجابر الصباح. المرسوم يضيّق التجنّس، يلغي حصول الزوجة الأجنبية تلقائياً على الجنسية، يصنّف أبناء المتجنّسين كـ 'متجنّسين' لا 'كويتيين بالأصل'، ويوسّع صلاحيات الإلغاء. الكويتي بالأصل من ولد لأب كويتي بصرف النظر عن مكان الميلاد. اللجنة العليا تجتمع أسبوعياً في قصر بيان وتعلن قراراتها كل خميس.",
+      "bigStat": {
+        "value": "52/2026",
+        "label": "Kuwait citizenship Decree-Law number",
+        "arabicLabel": "رقم المرسوم في الجريدة الرسمية"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ النشر",
+          "value": "13 أبريل 2026"
+        },
+        {
+          "label": "صاحب التوقيع",
+          "value": "الأمير مشعل"
+        },
+        {
+          "label": "اجتماع اللجنة",
+          "value": "أسبوعياً قصر بيان"
+        }
+      ],
+      "broll": "images/news/2026-05-08-kuwait-citizenship-revocations-71059-may2026/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "GAZETTE · APRIL 13",
+      "subtitlePhrases": [
+        "مرسوم رقم 52 لسنة 2026",
+        "الأمير مشعل وقّع قانون الجنسية الجديد",
+        "لجنة الجنسية تجتمع أسبوعياً كل خميس"
+      ]
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "71,059 جنسية مسحوبة و 300 ألف من الأقارب يدفعون الثمن",
+      "arabicBody": "وفق منصة 'مبادرة غرفة الأخبار' الكويتية، الجنسيات المسحوبة وصلت إلى 71,059 حتى 15 أبريل، أي 4.6 بالمئة من سكان الكويت الرسميين البالغ 1.545 مليون. لكن الأثر يمتد للأقارب: زوجات وأبناء وأحفاد حصلوا على الجنسية عبر هؤلاء، والعدد قد يبلغ 250 إلى 300 ألف. البدون عديمو الجنسية، 100 ألف شخص، يتأثرون لأن المرسوم يربط الإقامة بالجنسية. منظمة العفو وهيومن رايتس ووتش وصفتا الإجراء بالأكبر في تاريخ الخليج.",
+      "bigStat": {
+        "value": "71,059",
+        "label": "Citizenship revocations as of April 15",
+        "arabicLabel": "جنسية مسحوبة حتى الآن"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة من السكان",
+          "value": "4.6 بالمئة"
+        },
+        {
+          "label": "أقارب يتأثرون",
+          "value": "250 إلى 300 ألف"
+        },
+        {
+          "label": "البدون في الكويت",
+          "value": "100 ألف شخص"
+        }
+      ],
+      "broll": "images/news/2026-05-08-kuwait-citizenship-revocations-71059-may2026/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "KUNA · KUWAIT CITY",
+      "subtitlePhrases": [
+        "71,059 جنسية مسحوبة في 8 أشهر",
+        "النسبة 4.6 بالمئة من إجمالي السكان",
+        "هيومن رايتس ووتش تصف الإجراء بالأكبر"
+      ]
+    },
+    {
+      "label": "العراقي في الكويت",
+      "arabicHeading": "100 ألف عراقي و فريضة الحج 25 مايو على المحك",
+      "arabicBody": "في الكويت يعيش حوالي 100 ألف عراقي، معظمهم من البصرة والمحافظات الجنوبية، يعملون في الخدمات والبناء. السفارة العراقية أصدرت في 5 مايو إرشادات احترازية تطلب تحديث الإقامة وتوثيق العلاقة العائلية مع أي قريب كويتي قبل سحب جنسيته، لأن أقارب الدرجة الأولى يفقدون الإقامة فوراً. فريضة الحج 2026 تنطلق 25 مايو، وعشرات الآلاف من العراقيين والبدون يحتاجون وثائق قبل ذلك. من فقد جنسيته خلال هذين الشهرين لا يحصل على تأشيرة الحج.",
+      "bigStat": {
+        "value": "100K",
+        "label": "Iraqis residing in Kuwait, Basra-rooted",
+        "arabicLabel": "عراقي يعيش في الكويت"
+      },
+      "supportingStats": [
+        {
+          "label": "إرشادات السفارة",
+          "value": "5 مايو 2026"
+        },
+        {
+          "label": "بداية الحج",
+          "value": "25 مايو 2026"
+        },
+        {
+          "label": "أقارب الدرجة الأولى",
+          "value": "يفقدون الإقامة"
+        }
+      ],
+      "broll": "images/news/2026-05-08-kuwait-citizenship-revocations-71059-may2026/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "REUTERS · GULF",
+      "subtitlePhrases": [
+        "100 ألف عراقي يعيشون في الكويت",
+        "السفارة العراقية تحذّر العائلات اليوم",
+        "فريضة الحج تبدأ في 25 مايو"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "New Lines Magazine",
+      "domain": "newlinesmag.com"
+    },
+    {
+      "name": "Lexis MENA",
+      "domain": "lexis.ae"
+    },
+    {
+      "name": "Kuwait Times",
+      "domain": "kuwaittimes.com"
+    },
+    {
+      "name": "The Law Reporters",
+      "domain": "thelawreporters.com"
+    }
+  ],
+  "arabicTicker": [
+    "الكويت تسحب الجنسية من 71,059 شخصاً بمرسوم رقم 52 لعام 2026",
+    "المرسوم 52 نُشر في الجريدة الرسمية بتاريخ 13 أبريل ووقعه الأمير مشعل",
+    "العدد يساوي 4.6 بالمئة من سكان الكويت الرسميين البالغ 1.545 مليون",
+    "الأثر يمتد إلى ما بين 250 و 300 ألف شخص من الأقارب والعائلات",
+    "البدون عديمو الجنسية 100 ألف شخص يتأثرون لأن الإقامة مرتبطة بالجنسية",
+    "السفارة العراقية تطلب تحديث الإقامة لمن له قريب كويتي مهدد بالسحب",
+    "هل يحصل الحاج العراقي والبدون على تأشيرة قبل 25 مايو؟"
+  ]
+}

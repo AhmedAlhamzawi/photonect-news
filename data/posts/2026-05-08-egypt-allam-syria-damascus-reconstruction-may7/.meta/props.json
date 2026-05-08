@@ -1,0 +1,154 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "breaking": {
+    "arabicKicker": "إعمار سوريا",
+    "arabicHeadline": "حسن علام يدخل سوق إعمار سوريا بـ 400 مليار دولار",
+    "englishSubhead": "DAMASCUS • $400B RECONSTRUCTION RACE",
+    "heroQueries": [
+      "Hassan Allam Egyptian construction CEO Forbes Middle East portrait",
+      "Ahmad al-Sharaa Syria president Damascus People's Palace meeting",
+      "Damascus Mount Mezzeh People's Palace Qasr al-Shaab exterior",
+      "Aleppo old city reconstruction damaged souq Reuters archive",
+      "Syria Egypt businessmen Damascus presidential meeting May 2026"
+    ],
+    "heroMedia": "images/news/2026-05-08-egypt-allam-syria-damascus-reconstruction-may7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللقاء",
+      "arabicHeading": "علام يلتقي الشرع في قصر الشعب ضمن وفد ثلاثي إقليمي",
+      "arabicBody": "الإثنين 4 مايو، رجل الأعمال المصري حسن علام رئيس 'حسن علام للقابضة' التقى الرئيس السوري الانتقالي أحمد الشرع في قصر الشعب بدمشق. اللقاء وثقته 'سانا' وموقع 'بليونيرز أفريكا'، وتمحور حول التطوير العقاري وإعادة تأهيل البنية التحتية. علام كان أحد ثلاثة من قادة الأعمال الإقليميين قابلهم الشرع في يوم واحد. الحكومة السورية تقدّر تكلفة الإعمار بـ 400 مليار دولار، أي 20 ضعف الناتج المحلي السوري الحالي.",
+      "bigStat": {
+        "value": "$400B",
+        "label": "Syria reconstruction estimate vs 20x GDP",
+        "arabicLabel": "كلفة الإعمار 20 ضعف الناتج"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ اللقاء",
+          "value": "4 مايو 2026"
+        },
+        {
+          "label": "موقع اللقاء",
+          "value": "قصر الشعب دمشق"
+        },
+        {
+          "label": "حجم الإعمار",
+          "value": "400 مليار دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-08-egypt-allam-syria-damascus-reconstruction-may7/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "BILLIONAIRES · MAY 5",
+      "subtitlePhrases": [
+        "علام يلتقي الشرع في دمشق",
+        "قصر الشعب يفتح ملف الإعمار",
+        "20 ضعف الناتج السوري الحالي"
+      ]
+    },
+    {
+      "label": "السباق الإقليمي",
+      "arabicHeading": "السعودية والإمارات وقطر وتركيا سبقت علام إلى السوق",
+      "arabicBody": "علام يصل متأخراً قبل إغلاق الباب. السعودية تعهدت بـ 6.4 مليار دولار للسياحة والاتصالات والصحة، و'إيغل هيلز' الإماراتية تدرس مشاريع بـ 50 مليار، وسوريا وقّعت 14 مليار دولار صفقات تشمل المطار ومترو دمشق. قانون قيصر الأميركي رُفع بتصويت الكونغرس عام 2025، فُتحت تحويلات الدولار، وعادت الفنادق المصرية والمقاولات الكويتية إلى المعرض الاستثماري بدمشق في كانون الثاني. باب الـ 400 مليار يضيق بسرعة، والداخلون متأخراً يدفعون أكثر.",
+      "bigStat": {
+        "value": "$50B",
+        "label": "Eagle Hills UAE Syria study scope",
+        "arabicLabel": "إيغل هيلز تدرس 50 مليار"
+      },
+      "supportingStats": [
+        {
+          "label": "تعهد السعودية",
+          "value": "6.4 مليار دولار"
+        },
+        {
+          "label": "إيغل هيلز الإمارات",
+          "value": "50 مليار دولار"
+        },
+        {
+          "label": "صفقات موقعة",
+          "value": "14 مليار دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-08-egypt-allam-syria-damascus-reconstruction-may7/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "SANA · DAMASCUS",
+      "subtitlePhrases": [
+        "السعودية تعهدت بـ 6.4 مليار",
+        "إيغل هيلز تدرس 50 مليار",
+        "قانون قيصر سقط في 2025"
+      ]
+    },
+    {
+      "label": "العراق على الحدود",
+      "arabicHeading": "380 كيلومتراً من حلب والمقاول العراقي ينتظر قراراً حكومياً",
+      "arabicBody": "العراق على بعد 380 كيلومتراً من حلب عبر معبر القائم، ووزارة الصناعة أعلنت 2025 أن صادرات الجبس والإسمنت والحديد إلى سوريا قابلة للتضاعف ثلاث مرات. لكن مقاولي الأنبار وصلاح الدين يواجهون 'حسن علام' الذي وقّع في مصر 50 مليار دولار وبنى العاصمة الإدارية. الفرصة الوحيدة دخول العراقيين كمقاول من الباطن، وذلك يحتاج قراراً حكومياً قبل تشكيل حكومة الزيدي. بدون قرار، الإعمار يصبح مصرياً إماراتياً سعودياً والعراق يتفرّج.",
+      "bigStat": {
+        "value": "380 كم",
+        "label": "Al-Qaim crossing distance to Aleppo",
+        "arabicLabel": "بين القائم وحلب"
+      },
+      "supportingStats": [
+        {
+          "label": "توقع تضاعف الصادرات",
+          "value": "3 مرات"
+        },
+        {
+          "label": "صفقات علام في مصر",
+          "value": "50 مليار دولار"
+        },
+        {
+          "label": "حكومة الزيدي",
+          "value": "بانتظار التصويت"
+        }
+      ],
+      "broll": "images/news/2026-05-08-egypt-allam-syria-damascus-reconstruction-may7/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "REUTERS · ALEPPO",
+      "subtitlePhrases": [
+        "380 كيلومتراً تفصل القائم عن حلب",
+        "صادرات الإسمنت العراقية تتضاعف ثلاث مرات",
+        "بدون قرار حكومي العراق يتفرّج فقط"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Billionaires Africa",
+      "domain": "billionaires.africa"
+    },
+    {
+      "name": "Mada Masr",
+      "domain": "madamasr.com"
+    },
+    {
+      "name": "Enab Baladi",
+      "domain": "english.enabbaladi.net"
+    },
+    {
+      "name": "SANA",
+      "domain": "sana.sy"
+    },
+    {
+      "name": "Forbes Middle East",
+      "domain": "forbesmiddleeast.com"
+    }
+  ],
+  "arabicTicker": [
+    "حسن علام يدخل سوق إعمار سوريا بـ 400 مليار دولار",
+    "علام التقى أحمد الشرع في قصر الشعب بدمشق الإثنين 4 مايو",
+    "السعودية تعهدت بـ 6.4 مليار دولار للسياحة والاتصالات والصحة في سوريا",
+    "إيغل هيلز الإماراتية تدرس مشاريع سورية بقيمة 50 مليار دولار",
+    "سوريا وقّعت بالفعل صفقات بـ 14 مليار دولار تشمل مطار ومترو دمشق",
+    "العراق على بعد 380 كيلومتراً من حلب عبر معبر القائم",
+    "هل يدخل المقاول العراقي قبل أن تُغلق أبواب الـ 400 مليار؟"
+  ]
+}

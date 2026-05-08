@@ -1,0 +1,158 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "breaking": {
+    "arabicKicker": "ضربة الضاحية",
+    "arabicHeadline": "بلوط قائد قوة الرضوان يُغتال في الضاحية وضربات على 3 بلدات",
+    "englishSubhead": "BEIRUT • FIRST CAPITAL STRIKE SINCE APRIL CEASEFIRE",
+    "heroQueries": [
+      "Ahmed Ghaleb Balout Hezbollah Radwan commander portrait",
+      "Dahiyeh Haret Hreik destroyed building excavator rubble",
+      "Hezbollah leader Naim Qassem Beirut speech podium",
+      "Israeli IDF spokesperson Daniel Hagari briefing",
+      "Beirut southern suburb strike aftermath morning"
+    ],
+    "heroMedia": "images/news/2026-05-08-beirut-radwan-balout-strike-may7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاغتيال",
+      "arabicHeading": "غارة دقيقة على حارة حريك واغتيال رئيس عمليات الرضوان",
+      "arabicBody": "هدير الطائرات شُقّ ليل الأربعاء فوق حارة حريك. ليلة 6 أيار شنّت إسرائيل غارة دقيقة على مبنى في الضاحية الجنوبية، وصباح الخميس أعلن المتحدث الإسرائيلي مقتل أحمد غالب بلوط قائد قوة الرضوان. هي أول ضربة على العاصمة منذ سريان الهدنة في منتصف نيسان. مصادر الميادين قالت إن بلوط شغل سابقاً منصب رئيس عمليات الرضوان. صور رويترز أظهرت حفّارة كبيرة تزيل ركام المبنى عند الفجر.",
+      "bigStat": {
+        "value": "1",
+        "label": "First Beirut strike since April ceasefire",
+        "arabicLabel": "ضربة العاصمة الأولى"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ الضربة",
+          "value": "6 مايو ليلاً"
+        },
+        {
+          "label": "تأكيد إسرائيلي",
+          "value": "7 مايو صباحاً"
+        },
+        {
+          "label": "المنطقة",
+          "value": "حارة حريك"
+        }
+      ],
+      "broll": "images/news/2026-05-08-beirut-radwan-balout-strike-may7/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "REUTERS · BEIRUT · MAY 7",
+      "subtitlePhrases": [
+        "غارة دقيقة على حارة حريك",
+        "أول ضربة بيروت منذ الهدنة",
+        "حفّارة تزيل الركام عند الفجر"
+      ]
+    },
+    {
+      "label": "الجنوب",
+      "arabicHeading": "أوامر إخلاء جديدة لثلاث بلدات و12 قتيلاً في 24 ساعة",
+      "arabicBody": "قعقعة قنابل دخان في طرقات دير الزهراني سبقت أوامر الإخلاء. بالتوازي مع ضربة بيروت أصدر الجيش الإسرائيلي أوامر إخلاء لثلاث بلدات في الجنوب: دير الزهراني، بفرويا، وحبوش، متهماً حزب الله بانتهاكات للهدنة. حصيلة 24 ساعة بلغت 12 قتيلاً وفق وزارة الصحة اللبنانية. غارات إضافية ضربت محيط النبطية وبنت جبيل ليل الخميس. الجيش اللبناني انتشر في القرى المخلاة لتمرير قوافل المدنيين شمالاً، فيما رصدت اليونيفيل 4 طائرات مسيّرة إسرائيلية فوق الليطاني.",
+      "bigStat": {
+        "value": "12",
+        "label": "Lebanon dead in 24 hours",
+        "arabicLabel": "قتيل في 24 ساعة"
+      },
+      "supportingStats": [
+        {
+          "label": "أوامر إخلاء",
+          "value": "3 بلدات"
+        },
+        {
+          "label": "البلدات المستهدفة",
+          "value": "دير الزهراني وحبوش"
+        },
+        {
+          "label": "مسيّرات الليطاني",
+          "value": "4 إسرائيلية"
+        }
+      ],
+      "broll": "images/news/2026-05-08-beirut-radwan-balout-strike-may7/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AL MANAR · DAHIYEH",
+      "subtitlePhrases": [
+        "3 أوامر إخلاء جنوباً",
+        "12 قتيلاً في 24 ساعة",
+        "4 مسيّرات فوق الليطاني"
+      ]
+    },
+    {
+      "label": "هل تنهار الهدنة",
+      "arabicHeading": "ثلاثة سيناريوهات للرد ومفاوضات واشنطن 17 أيار في خطر",
+      "arabicBody": "وقع أحذية المشيعين على درج الضاحية يفرض الجواب. البيت الأبيض ضغط على نتنياهو لتجنب التصعيد قبل مفاوضات 17 أيار في واشنطن. مقتل بلوط يجبر حزب الله على الرد، ونعيم قاسم متوقع أن يخطب الجمعة. ثلاثة سيناريوهات: رد محدود بصواريخ على الجليل، أو سكوت تكتيكي، أو فتح جبهة شمالاً تنسحب عليها فصائل العراق وسوريا. مفاوضات 17 أيار مرتبطة بمهلة ترامب لإيران.",
+      "bigStat": {
+        "value": "3",
+        "label": "Scenarios for Hezbollah response",
+        "arabicLabel": "سيناريوهات الرد"
+      },
+      "supportingStats": [
+        {
+          "label": "خطاب قاسم",
+          "value": "الجمعة"
+        },
+        {
+          "label": "مفاوضات واشنطن",
+          "value": "17 مايو"
+        },
+        {
+          "label": "ربط ترامب",
+          "value": "مهلة 14 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-08-beirut-radwan-balout-strike-may7/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "IDF SPOKESPERSON · MAY 7",
+      "subtitlePhrases": [
+        "3 سيناريوهات على طاولة قاسم",
+        "مفاوضات واشنطن 17 أيار",
+        "كل سيناريو يضرب الأجواء العراقية"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "name": "L'Orient Le Jour",
+      "domain": "today.lorientlejour.com"
+    },
+    {
+      "name": "Al Mayadeen",
+      "domain": "almayadeen.net"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "بلوط قائد قوة الرضوان يُغتال في الضاحية وضربات على 3 بلدات",
+    "أول ضربة على بيروت منذ سريان وقف إطلاق النار في منتصف نيسان",
+    "الجيش الإسرائيلي يأمر بإخلاء دير الزهراني وبفرويا وحبوش جنوباً",
+    "حصيلة 24 ساعة 12 قتيلاً واليونيفيل ترصد 4 مسيّرات فوق الليطاني",
+    "البيت الأبيض كان يضغط لتجنب التصعيد قبل مفاوضات 17 أيار في واشنطن",
+    "نعيم قاسم متوقع أن يخطب الجمعة محدداً شكل الرد على الاغتيال",
+    "هل تنهار الهدنة قبل أسبوع من مفاوضات واشنطن أم يصمد الردع المحدود؟"
+  ]
+}

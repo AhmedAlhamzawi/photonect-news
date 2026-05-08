@@ -1,0 +1,154 @@
+{
+  "dateLabel": "MAY 08 • 2026",
+  "arabicDateLabel": "8 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "breaking": {
+    "arabicKicker": "الأحد القادم",
+    "arabicHeadline": "أرامكو تعلن أرباح الربع الأول 29 مليار دولار رغم تراجع الإنتاج 30 بالمئة",
+    "englishSubhead": "DHAHRAN • Q1 2026 • $29B EXPECTED",
+    "heroQueries": [
+      "Amin Nasser Aramco CEO official portrait Dhahran",
+      "Saudi Aramco Dhahran headquarters Eastern Province exterior",
+      "Tadawul stock exchange Aramco ticker 2222 Riyadh",
+      "Saudi oil refinery infrastructure satellite",
+      "Prince Abdulaziz bin Salman Saudi energy minister OPEC Vienna"
+    ],
+    "heroMedia": "images/news/2026-05-08-aramco-q1-2026-results-may10-preview/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الأحد القادم",
+      "arabicHeading": "نتائج أرامكو الأحد 10 مايو ومؤتمر المحللين الإثنين 11 مايو",
+      "arabicBody": "تعلن أرامكو السعودية الأحد 10 مايو 2026 نتائجها للربع الأول، يتلوها مؤتمر صحفي مع المحللين الإثنين 11 مايو. توقعات الراجحي والأهلي وفالكم تشير إلى صافي ربح 108.8 مليار ريال أي 29 مليار دولار، ارتفاع 13.8 بالمئة سنوياً و 56.7 بالمئة فصلياً مقابل 69.5 مليار في الربع الرابع. الإيرادات المتوقعة 455.3 مليار ريال. الرئيس التنفيذي أمين الناصر يقدّم النتائج من الظهران. كل المراقبين ينتظرون رقماً واحداً.",
+      "bigStat": {
+        "value": "$29B",
+        "label": "Aramco Q1 2026 net profit consensus",
+        "arabicLabel": "صافي الربع الأول المتوقع"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ الإعلان",
+          "value": "الأحد 10 مايو"
+        },
+        {
+          "label": "مؤتمر المحللين",
+          "value": "الإثنين 11 مايو"
+        },
+        {
+          "label": "صافي ربح متوقع",
+          "value": "108.8 مليار ريال"
+        }
+      ],
+      "broll": "images/news/2026-05-08-aramco-q1-2026-results-may10-preview/broll_1.jpg",
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "ARAMCO IR · DHAHRAN",
+      "subtitlePhrases": [
+        "الأحد 10 مايو يوم النتائج",
+        "29 مليار دولار صافي متوقع",
+        "أمين الناصر يقدّم من الظهران"
+      ]
+    },
+    {
+      "label": "المفارقة",
+      "arabicHeading": "الإنتاج هبط 30 بالمئة لكن السعر قفز 24 بالمئة فصلياً",
+      "arabicBody": "الإنتاج السعودي تراجع من 10.4 مليون برميل في فبراير إلى 7.25 مليون في مارس، أي 30 بالمئة، أكبر اضطراب إمداد من دولة في تاريخ وكالة الطاقة. لكن سعر البرميل قفز 24.8 بالمئة فصلياً بسبب الحرب وإغلاق هرمز المتقطع. النتيجة: أرباح أعلى من إنتاج أقل. مجلس الإدارة ثبّت التوزيعات عند 87.6 مليار سنوياً، وأطلق إعادة شراء بـ 11.25 مليار ريال على 18 شهراً. الصندوق السيادي يموّل نيوم من العائدات.",
+      "bigStat": {
+        "value": "+24.8%",
+        "label": "Brent QoQ price rise during war",
+        "arabicLabel": "ارتفاع برنت فصلياً"
+      },
+      "supportingStats": [
+        {
+          "label": "إنتاج فبراير",
+          "value": "10.4 مليون برميل"
+        },
+        {
+          "label": "إنتاج مارس",
+          "value": "7.25 مليون برميل"
+        },
+        {
+          "label": "توزيع أرباح سنوي",
+          "value": "87.6 مليار دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-08-aramco-q1-2026-results-may10-preview/broll_2.jpg",
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "TADAWUL · RIYADH",
+      "subtitlePhrases": [
+        "الإنتاج السعودي هبط 30 بالمئة كاملة",
+        "سعر البرميل قفز 24 بالمئة فصلياً",
+        "نيوم تتمول من توزيعات أرامكو السنوية"
+      ]
+    },
+    {
+      "label": "ماذا تعني للعراق",
+      "arabicHeading": "أوبك+ ستعيد فتح حصة بغداد والسوق الموازي يتأثر فوراً",
+      "arabicBody": "ثلاث تداعيات للعراق. أولاً، أوبك+ في فيينا ستسأل بغداد خفض حصتها من 4.0 مليون برميل لأن السعودية أثبتت ربحاً أعلى بإنتاج أقل. ثانياً، الصين والهند تشتريان 70 بالمئة من خام البصرة الثقيل وستطلبان خصومات أكبر، وإيرادات وزارة المالية مرتبطة بفارق السعر مع برنت. ثالثاً، السوق الموازي للدولار في الكفاح يقرأ النتيجة كإشارة قوة للريال السعودي وقد يدفع الدولار فوق 1,540 ديناراً قبل عيد الأضحى. والموازنة العراقية تنتظر رقم الأحد.",
+      "bigStat": {
+        "value": "70%",
+        "label": "China and India share of Basra Heavy",
+        "arabicLabel": "الصين والهند من البصرة الثقيل"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة العراق أوبك+",
+          "value": "4.0 مليون برميل"
+        },
+        {
+          "label": "موازنة العراق من النفط",
+          "value": "90 بالمئة"
+        },
+        {
+          "label": "السوق الموازي",
+          "value": "يستهدف 1,540"
+        }
+      ],
+      "broll": "images/news/2026-05-08-aramco-q1-2026-results-may10-preview/broll_3.jpg",
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "OPEC PRESS · VIENNA",
+      "subtitlePhrases": [
+        "أوبك+ ستفتح ملف حصة بغداد",
+        "خام البصرة يخسر هامش السعر",
+        "الكفاح يستهدف 1,540 ديناراً قبل العيد"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Argaam",
+      "domain": "argaam.com"
+    },
+    {
+      "name": "Trading View",
+      "domain": "tradingview.com"
+    },
+    {
+      "name": "House of Saud",
+      "domain": "houseofsaud.com"
+    },
+    {
+      "name": "Maaal",
+      "domain": "maaal.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "english.alarabiya.net"
+    }
+  ],
+  "arabicTicker": [
+    "أرامكو تعلن أرباح الربع الأول 29 مليار دولار رغم تراجع الإنتاج 30 بالمئة",
+    "إعلان نتائج أرامكو الأحد 10 مايو ومؤتمر المحللين الإثنين 11 مايو",
+    "توقع 108.8 مليار ريال صافي ربح بارتفاع 13.8 بالمئة على أساس سنوي",
+    "إنتاج السعودية هبط من 10.4 مليون إلى 7.25 مليون برميل في شهر",
+    "سعر برميل برنت قفز 24.8 بالمئة فصلياً بسبب الحرب الإقليمية",
+    "حصة العراق في أوبك+ هي 4.0 مليون برميل وقابلة لإعادة التفاوض",
+    "هل يدفع رقم الأحد سعر الدولار في الكفاح فوق 1,540 ديناراً؟"
+  ]
+}
