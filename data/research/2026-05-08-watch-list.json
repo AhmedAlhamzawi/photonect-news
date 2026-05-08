@@ -1,0 +1,858 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=veMFCFyOwFI",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The Middle East's cold war, explained",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Gold-standard MENA explainer template: animated map sequences with growing/shrinking spheres of influence, layered timeline of proxy conflicts, narration that uses geography as the protagonist."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NUVy0421bjU",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The Israel-Palestine Conflict: A Brief, Simple History",
+    "approx_length_minutes": 10.0,
+    "why_in_canon": "27M+ views: master class in compressing 100 years into 10 minutes via map morphology, palette discipline (only two colors), and rhythmic title-card beats that we should mimic for Arabic."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lv1SpwwJEW8",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Gaza, explained",
+    "approx_length_minutes": 7.5,
+    "why_in_canon": "Cartographic storytelling: how a single map element (the Gaza strip itself) is animated, zoomed, and re-contextualized to drive emotional arc rather than data dump."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qtzvIBAYP_8",
+    "source": "Vox Atlas",
+    "cluster": "vox",
+    "title": "How Iran's Soleimani became a US target",
+    "approx_length_minutes": 6.5,
+    "why_in_canon": "Atlas-series template that we want to clone: archival news footage cycled with kinetic chyrons, profile of one human as a thread through 30 years of geopolitics."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cUBg6Qp_N98",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Why the US and Iran are fighting over this tiny waterway",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Hormuz/Persian Gulf chokepoint explainer: ship icons moving on a map, oil-flow infographics, an invisible economic story made tangible. Direct precedent for our Hormuz posts."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wFpfYTYupKA",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "How the Beirut explosion was a government failure",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Investigative reconstruction: shipping records become character, multi-source documents stitched as B-roll, mixes news clips with custom 3D port graphics."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=U-mwFoev3OQ",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Trump quits Iran nuclear deal, undoing years of diplomacy",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Tight news-react explainer with a clear villain/hero arc, archival footage of negotiations cut against animated centrifuge schematics."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NwbYpdGpx8U",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The growing North Korean nuclear threat, explained",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Mixes narration, newsreel, animated graphics, and graphic overlays above news clips: blueprint for high-density geopolitical short-form."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lM6rliphNdw",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "What made North Korea so bizarre",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Strong narrative spine that uses one country's iconography (statues, parades) as visual punctuation between abstract policy beats."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aYDTjkTi-2o",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "What a war with North Korea would look like",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Scenario-based explainer: hypothetical visualization with range maps and projectile arcs - the format we used for our Iran-war scenarios deck."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bLOEhycMG78",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The Modern Middle East, Explained",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Compresses Sykes-Picot through Arab Spring into one map-based narrative. Best example of using border lines as the literal protagonist of the video."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7DbdBIuFrIE",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "How the Saudis ended up with so many American weapons",
+    "approx_length_minutes": 6.5,
+    "why_in_canon": "Trade-flow visual: weapon-system icons stacked on a US-to-Saudi pipeline diagram, then mapped onto Yemen front lines - data viz with moral stakes."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nPhTwmylZi8",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "What the Red Sea ship attacks are really about",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Houthi/Red Sea explainer with shipping-route maps, drone-and-missile range circles, and quick-cut maritime B-roll. Direct template for our chokepoint reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MVu8QbxafJE",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Putin's war on Ukraine, explained",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Best single document of how Vox handles a breaking war: timeline of provocations, force-disposition maps, named characters as visual anchors."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=L7INxfISGFs",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "How Ukraine got the upper hand against Russia",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Late-cycle conflict explainer: weapons-system specs, supply-line maps, force-balance bar charts, intercut with combat footage."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Y1hBOagLyks",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "The unique psychology of extreme endurance athletes",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "BBC Reel signature: cinematic verite footage + voice-over essay + on-screen pull-quotes. The polish of broadcast applied to a 5-minute piece."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rNNwtO-uyrs",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "Shanghai's 'rage room': the psychology of stress relief",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Character-led short-doc: one location, one human voice, sound design that lets the shattering glass become the soundtrack."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SgMNqBNeFyI",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "A simple way to improve your mind",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Single-expert interview elevated by abstract motion graphics that visualize internal cognitive states - a model for animating ideas, not just data."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qr5_wQrW8CM",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "How positive thinking is harming your happiness",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Counter-intuitive thesis structure (BBC Reel's signature), tight 5-min essay film with measured pacing and warm color grade."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=phJNZRr8Qoo",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "The houses that build themselves",
+    "approx_length_minutes": 4.5,
+    "why_in_canon": "Future-of-tech short with on-site footage, architect interview, and 3D mockups that move the story forward rather than decorate it."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6SRM2nyzIAk",
+    "source": "BBC Reel",
+    "cluster": "bbc",
+    "title": "Was this humanity's biggest mistake?",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Big-idea history essay film: spans 12,000 years in 6 minutes with archival illustrations, museum footage and one strong throughline thesis."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IpDG3fgSeXI",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "Iran and Saudi Arabia agree to renew diplomatic relations after seven-year rift",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Broadcast-quality 4-min news package: studio anchor handover, on-the-ground reporter, archival diplomacy montage. Reference for newsroom craft we want to retain."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uEKo_JjyFTg",
+    "source": "Sky News",
+    "cluster": "c4_sky_france24",
+    "title": "Inside Syria's Islamic State prisons | Sky News Investigates",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Exclusive-access investigation: handheld vérité, no-narration sequences inside the prison, intercut with on-camera correspondent. A study in restraint."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jK7pcAfQbcQ",
+    "source": "Sky News",
+    "cluster": "c4_sky_france24",
+    "title": "Sky's Alex Crawford explains complexities of violence sweeping southern Syria",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Veteran-correspondent explainer: human map (Druze vs Bedouin) drawn through proximity to actual people on the ground, not abstractions."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GWgIihVwL34",
+    "source": "Sky News",
+    "cluster": "c4_sky_france24",
+    "title": "The story of the Yazidi people that ISIS tried to obliterate | Sky News documentary",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "MENA-relevant survivor narrative compressed into a punchy 8-minute package - first-person testimony stitched with map context and restrained scoring."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pT-Ij3gldUU",
+    "source": "Sky News",
+    "cluster": "c4_sky_france24",
+    "title": "Why the West is watching northeast Syria - explained",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Sky's daily explainer format: presenter walking-and-talking with motion-graphic overlay maps, exactly the style our 1080x1080 reels target."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ltPyr8lHaYA",
+    "source": "Sky News",
+    "cluster": "c4_sky_france24",
+    "title": "US airstrikes hit 85 targets in Iraq and Syria",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Studio-to-field handoff with map of strike locations, lower-third casualty stats - clean newsroom typography we should benchmark against."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=usNtD5P6uro",
+    "source": "France 24 English",
+    "cluster": "c4_sky_france24",
+    "title": "War in the Middle East: Where does France stand?",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "France 24's explainer style: presenter, motion-graphic backgrounds, multilingual lower-thirds - useful for bilingual signage discipline."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-YRX3mdOfKw",
+    "source": "France 24 English",
+    "cluster": "c4_sky_france24",
+    "title": "War in the Middle East: Strike hits key nuclear site in Iran",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Real-time war coverage with satellite-image before/after, on-the-ground correspondent, and tight 4-min runtime."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Skt1pBqDUKw",
+    "source": "France 24 English",
+    "cluster": "c4_sky_france24",
+    "title": "Israel will reduce French defense imports 'to zero'",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Diplomatic-tension explainer with arms-trade flow chart and embassy quotes - example of converting press-release news into short visual story."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8k8-MY8_eSE",
+    "source": "France 24 English",
+    "cluster": "c4_sky_france24",
+    "title": "Third night of fire exchange in the Middle East: When will it back down?",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Live-blog-style nightly recap: rapid-fire map cuts of strike locations, missile-trajectory animations, casualty tickers - cadence we want for daily reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ACXfA7azYXM",
+    "source": "Channel 4 News",
+    "cluster": "c4_sky_france24",
+    "title": "What happened to the Mariupol teachers who didn't want to leave?",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Channel 4's signature character-led war reporting: two teachers as the lens for an entire siege - intimate, slow, sound-driven."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AUjHb4C7b94",
+    "source": "Vice News",
+    "cluster": "vice",
+    "title": "The Islamic State (Full Length)",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Reference clip from the canonical Vice ISIS embed - first-person camera, ambient-only sound, no narrator. The moral weight is in what is NOT said."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RIrcB1sAN8I",
+    "source": "Vice News Tonight",
+    "cluster": "vice",
+    "title": "Charlottesville: Race and Terror",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "44M+ views, Peabody winner: vérité reportage, on-camera correspondent embedded with subjects, no music, no graphics - intensity through proximity."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=P54sP0Nlngg",
+    "source": "Vice News Tonight",
+    "cluster": "vice",
+    "title": "Charlottesville: Race and Terror (HBO)",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Alternate cut of the canonical Vice News Tonight episode, Emmy-winning sound design and breaking-news craft."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mkkMhKEfOqw",
+    "source": "Vice News",
+    "cluster": "vice",
+    "title": "Tobaccoland & Underground Heroin Clinic | VICE on HBO",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Two-segment Vice on HBO ep: structure shows how to braid one regulatory exposé with one human-cost segment in 25 minutes."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vU3Pcc2SmJQ",
+    "source": "Vice News",
+    "cluster": "vice",
+    "title": "Love in the Time of Fentanyl",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Vice-style intimate doc: trailer/excerpt of an Oscar-shortlisted film exemplifying how restraint beats sensationalism on a hot topic."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cKn4i2dvya0",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "14 Fascinating Businesses Behind The Scenes | Business Insider Marathon",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Anchor of the Insider mini-doc engine: process-oriented narration, factory-floor B-roll, infographic price/cost cards - format clones across topics."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ygAR3E0xoJQ",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "Why This Obsolete Mechanism Makes Watches More Expensive | So Expensive",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "'So Expensive' template: macro footage, expert sound bite, single thesis ('why X costs Y'), driven by curiosity hook."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hkKGjXNQb4I",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "Why Royal Quinoa Is So Expensive | So Expensive Food",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Origin-story format: Bolivian terraced farms, harvest sequence, supply-chain map - product-as-character storytelling."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_qp-5x4dAig",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "How Did Tesla's Cybertruck Become So Expensive And So Delayed? | True Cost",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "True Cost format: investigative tone with cost-build-up infographic, internal-document reveals, archive of executive quotes."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_iwW5PQcdGw",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "How The US Military Spends $800B Per Year On War",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Big-number story turned visual: stacked-coin animations, contractor org charts, Pentagon flythroughs - make abstract dollars concrete."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pN0LM2AL-gc",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "So Expensive Season 5 Marathon",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Reference for the SE house-style: cold-open thesis, three-act structure, tight 4-6 min episodes that can stack into hour-long marathons."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jpkulZGK1Sg",
+    "source": "Business Insider",
+    "cluster": "bloomberg_insider",
+    "title": "So Expensive Season 10 Marathon",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Late-season iteration of SE format with tighter cold opens and richer infographics - good for studying format evolution."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3rTiYpH9UM4",
+    "source": "AJ+ English",
+    "cluster": "aj_english",
+    "title": "Best of Newsbroke (Farewell)",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Best-of compilation of AJ+ Newsbroke - kinetic-typography satire, montage cuts, comedic lower-thirds. Useful for our Arabic punchier register."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ObgdljTT8gk",
+    "source": "AJ+ English",
+    "cluster": "aj_english",
+    "title": "AJ+'s Newsbroke Is Newswoke!",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Newsbroke episode showcasing the show's text-on-screen pacing, archive-clip remixes, fast jokes - direct ancestor to social-native explainer."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-qGX0mliKdM",
+    "source": "AJ+",
+    "cluster": "aj_english",
+    "title": "AJ's Story | Short Film | Featurette",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "AJ+ brand short showing how the network frames itself - useful for studying the channel's voice and animation style guide."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VHcgnRl2xPM",
+    "source": "FRONTLINE",
+    "cluster": "aj_english",
+    "title": "Bitter Rivals: Iran and Saudi Arabia, Part One (full film) | FRONTLINE",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Long-form benchmark; we study selected 8-minute segments to learn how PBS/FRONTLINE structures hour-long Middle East narratives - useful for our 'depth tier'."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=td5Iph8BFgE",
+    "source": "FRONTLINE",
+    "cluster": "aj_english",
+    "title": "Strike on Iran: The Nuclear Question (updated documentary) | FRONTLINE",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Latest FRONTLINE Iran cut: study sequence design, source-on-camera framing, archival-document reveals - the gold-standard investigative grammar."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bNyUyrR0PHo",
+    "source": "Al Jazeera Arabic",
+    "cluster": "aj_arabic",
+    "title": "Al Jazeera Arabic Live | البث الحي",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Reference of live-broadcast Arabic typography, lower-thirds, and ticker design - the 'parent grammar' our channel inherits."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=N8xxOD0nT1Y",
+    "source": "Al Jazeera 2",
+    "cluster": "aj_arabic",
+    "title": "الجزيرة 2 | متابعات إخبارية وبرامج مختارة",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "AJ2 channel showcase reel - second-screen highlight format with bigger graphics and shorter packages."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eksOMqVMINo",
+    "source": "Al Jazeera Mubasher",
+    "cluster": "aj_arabic",
+    "title": "الجزيرة مباشر.. بث مباشر",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Live news reference for Arabic news typography density - what audiences are habituated to and what we must beat in clarity."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8D5QY5gw_Xk",
+    "source": "Al Jazeera Mubasher",
+    "cluster": "aj_arabic",
+    "title": "البث الحي | الجزيرة مباشر 24",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Al Jazeera's 24-hour stream - useful for studying lower-third compositional rules over a long range of stories."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lwbp9WfLslc",
+    "source": "Al Jazeera Arabic",
+    "cluster": "aj_arabic",
+    "title": "🔴 البث المباشر | تابع الأحداث العاجلة لحظة بلحظة",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Breaking-news live with Arabic chyrons and breaking banners - the visual baseline our reels are competing against on viewer feeds."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ujGX_nPa6_E",
+    "source": "AJ+ English",
+    "cluster": "aj_arabic",
+    "title": "Video shows moment Iran strikes US-owned oil tanker near Iraq",
+    "approx_length_minutes": 1.0,
+    "why_in_canon": "AJ+ short: ~60 seconds, single-event reconstruction with caption-only narration - exactly the cadence Photonect NEWS reels target."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yruVUdNjCZY",
+    "source": "Al Jazeera English",
+    "cluster": "aj_arabic",
+    "title": "Why are Iran's AI videos going viral?",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Meta-story on viral propaganda craft - we study both the source content (Iran's AI/Lego videos) AND AJ's framing of it."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LMZ15Nwfj0o",
+    "source": "Al Jazeera",
+    "cluster": "aj_arabic",
+    "title": "The Gen Z creators behind viral Iranian Lego-style AI videos",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "How creators in MENA produce viral propaganda using AI/Lego stylization - direct reference for animation tricks we can repurpose ethically."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DX6TEqtiHqw",
+    "source": "Al Jazeera Plus",
+    "cluster": "aj_arabic",
+    "title": "AJ+ commentary clip",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "AJ+ Arabic clip exemplifying the Arabic kinetic-text social-native format we are benchmarking."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vEqKYLJzV2s",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "Iraqi Kurds 'prepared to draw own borders', Barzani warns Baghdad",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "BBC News Insight piece on Kurdish independence: studio + on-the-ground report + animated Iraq map. Direct precedent for our Iraq Daily Posts."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ycNcf-qHA-Y",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "Iran launches new wave of strikes across Gulf region",
+    "approx_length_minutes": 4.5,
+    "why_in_canon": "Live-event package: presenter, two correspondents in different cities, tight cutbacks to map of strike sites - newsroom craft baseline."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Z0V8XupL_d4",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "Will Putin benefit from the Iran war? | BBC Newscast",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Talk-format explainer: two analysts plus B-roll, demonstrates how to keep talking-head energetic with archival cutaways."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uVXzpM8aFSE",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "War on Iran: Pakistan hosts foreign ministers of Saudi Arabia, Türkiye, Egypt",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Diplomacy-package with quote framing, country-flag montage, and tight talking-points list - structure we already mirror in our Iran-war reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wUtGwJH8Cxg",
+    "source": "BBC News",
+    "cluster": "bbc",
+    "title": "Iran and US exchange fire in strait of Hormuz",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Maritime-incident reconstruction: AIS-style ship icons on Hormuz map, military-vessel B-roll, OSINT-flavored evidence stack."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qsO-rULEfrk",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The War in Yemen, Mapped",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Mapped-war template: control-zone shading animated over time, faction icons, casualty bars - the closest non-Photonect example of our 'mapped-conflict' goal."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NG4iNdj2X3I",
+    "source": "NowThis",
+    "cluster": "reuters_nowthis",
+    "title": "NowThis Top 10: Most-Watched Videos of 2020",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Self-curated NowThis greatest-hits: each clip is a 30-90sec masterclass in caption-driven, sound-off social storytelling."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ryE14q4pn-w",
+    "source": "NowThis",
+    "cluster": "reuters_nowthis",
+    "title": "How Iran's Hijab Protests Went Viral",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "NowThis explainer on viral protest cycle: stitch UGC + on-screen Tweet quotes + voice-over - blueprint for citizen-media-driven reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fhU0CBd2dIc",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Iranian Woman's Daring Protest Against Hijab Sparks Global Fury",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Single-event short: ~4 min, single subject, single act - shows how to stretch one viral image into a full short story."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GCciZxGAoAo",
+    "source": "WION/Gravitas",
+    "cluster": "reuters_nowthis",
+    "title": "Iranian Women Defy Hijab Laws, Face Challenges Entering New Year",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "WION's Gravitas format: presenter-driven explainer with crisp infographics and Iran-specific imagery - reference for high-density anchor delivery."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CDIDmpKSySw",
+    "source": "France 24 / WION",
+    "cluster": "reuters_nowthis",
+    "title": "Iran's hijab crackdown goes digital as women fight back with tech of their own",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Tech-and-protest crossover: Iran-specific apps, dashboard captures, anonymized phone-screen footage - useful tactic for our digital-resistance stories."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=434HERJ8Em8",
+    "source": "ABC News In-depth",
+    "cluster": "reuters_nowthis",
+    "title": "North Korea propaganda goes viral, but was that the plan?",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Australian wire-service style mini-doc analyzing how state propaganda goes viral - methodological cousin to our Iran/AI-video study."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZzFoNe5rNMo",
+    "source": "ABC News",
+    "cluster": "reuters_nowthis",
+    "title": "The Bizarre World of North Korean Influencers",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Influencer-led explainer: meets the subject on social platforms, uses their own footage, intercuts with anchor analysis."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NgQ7jh9mrWs",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "The 2020 Beirut Explosion Disaster Documentary",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Reconstructive documentary using CCTV, harbor-cam and OSINT - the documentary form of an open-source investigation."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FnSr820S2Mk",
+    "source": "Reuters / DW",
+    "cluster": "reuters_nowthis",
+    "title": "Explained: What happened in deadly Beirut explosion",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Wire-service explainer with diagrammed warehouse, ammonium-nitrate animation, blast-radius map - canonical reference for our Beirut card."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NFjDq-Rsyjo",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "Compilation of videos show moment explosions rip at Beirut port",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Eyewitness-compilation craft: how Reuters edits and frames UGC clips while preserving viewer trust through clear timestamps."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=93tV6-0Ugwk",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "Beirut explosion: footage shows massive blast shaking Lebanon's capital",
+    "approx_length_minutes": 2.0,
+    "why_in_canon": "How a wire-service edits a single 2-minute UGC-driven story while staying calm and authoritative."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LFDj_2Lloks",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "Lebanon: Video Footage Shows Moment of Beirut Explosion",
+    "approx_length_minutes": 1.5,
+    "why_in_canon": "Single-take eyewitness clip with minimal editorial overlay - useful negative example: what NOT to do when we want richer storytelling."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IxiNtIPFDXs",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "CCTV captures Beirut explosion as pagers detonate across Lebanon",
+    "approx_length_minutes": 3.0,
+    "why_in_canon": "Multi-camera CCTV mosaic, time-synced - a compositional move we can clone for major-event reconstructions."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LNDhIGR-83w",
+    "source": "Reuters",
+    "cluster": "reuters_nowthis",
+    "title": "Beirut explosion: Video shows new angle of the massive blast",
+    "approx_length_minutes": 2.5,
+    "why_in_canon": "Updated-angle micro-package: how to refresh an old viral story with new evidence."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DxmDPrfinXY",
+    "source": "Bloomberg Originals",
+    "cluster": "bloomberg_insider",
+    "title": "Bloomberg Originals Live | News, Documentaries & More",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Bloomberg Originals' channel showcase - house style for studio and field documentary tone."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iJAKCV8bw9E",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "What most people miss about the war in Ukraine",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Long-arc 'historical context' explainer that resists news-cycle framing - useful for our 'depth' tier reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fb9U1uoYCOc",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Why Ukraine is trapped in endless conflict",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Cycle-of-conflict template: timeline of failed agreements, broken-promise montage, pattern-spotting essay film."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rf-YEv8uRvI",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "Visual Explainer: Russian Disinformation",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Disinfo-deconstruction format - useful for our 'media literacy' angle on Iranian/Russian propaganda."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YpOhvBOdI_Q",
+    "source": "Vox / Map",
+    "cluster": "vox",
+    "title": "The Russo-Ukrainian War Explained on a Map",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Pure map-driven explainer: control-line evolution, supply-route arrows, force-balance markers."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=W5hBL94EFMQ",
+    "source": "Vox Shorts",
+    "cluster": "vox",
+    "title": "Why the Nakba is key to understanding Palestinian history #shorts",
+    "approx_length_minutes": 1.0,
+    "why_in_canon": "Vox Shorts - the platform's vertical 60-second format. Direct format match for our IG reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8_feZzMNt5E",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "The Middle East's cold war, explained (alternate cut)",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Alternate framing of the Iran/Saudi cold-war piece - studying the differences across cuts shows editorial discipline."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7G2lEMberCw",
+    "source": "Vox Borders",
+    "cluster": "vox",
+    "title": "Vox Borders: Life at the edge of nations",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Vox Borders trailer - reference for the series' 'humans at borders' framing and Johnny Harris VO style we want to channel."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iRDpNzngVTM",
+    "source": "Independent docs",
+    "cluster": "vice",
+    "title": "What Is KURDISTAN? What Do They Want? Inside Iraqi Kurdistan",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "First-person-explorer Kurdistan piece - solo-creator format showing how lean teams produce strong MENA shorts."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FJMvQBnHKi0",
+    "source": "Vox",
+    "cluster": "vox",
+    "title": "How War in Ukraine Revealed the Hypocrisy of US Border Policy",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Issue-bridging essay film: connects two regions' refugee policies via parallel-edit montage and split-screen archival."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3ZrCw_h9S4M",
+    "source": "Vox / partner",
+    "cluster": "vox",
+    "title": "Spotlight on Ukraine amid Russian escalation: Vox pops",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Vox-pop methodology piece: structuring street interviews around three guiding questions - useful for our future on-the-ground stories."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_BCY0SPOFpE",
+    "source": "Independent docs",
+    "cluster": "vox",
+    "title": "Egypt's Dam Problem: The Geopolitics of the Nile",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "GERD/Nile geopolitical explainer - water as the protagonist, Ethiopia-Egypt-Sudan triangle drawn as a competing-claim diagram."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2EWmp4cgznc",
+    "source": "Critique/Vox",
+    "cluster": "vox",
+    "title": "Critique reel of Vox Israel/Gaza coverage",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Useful as a counter-case: shows how Vox's stylistic moves can be weaponized in critique - we should be aware of our own visual rhetoric."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hfiVUpSSSGc",
+    "source": "Independent docs",
+    "cluster": "c4_sky_france24",
+    "title": "Iran Retreats - Houthis CRUSHED as U.S. BOMBS Light Up Yemen",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Western news-doc on Houthi/Yemen front with strike maps and force charts - reference for the geopolitics-mid-conflict framing we need in 2026."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cKBYE9298O0",
+    "source": "Firstpost",
+    "cluster": "reuters_nowthis",
+    "title": "Iranian Woman Takes Off Her Clothes To Protest Hijab Laws",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Sub-continental wire piece on Iran protest, anchor-led with viewer-warning chyrons - tone study for sensitive subjects."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WqhupB2ivWY",
+    "source": "WION",
+    "cluster": "reuters_nowthis",
+    "title": "Iranian Woman's Defiant Protest Against Dress Code Draws Global Attention",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "WION-style global-attention amplifier piece - how a wire desk turns one local incident into a global short-form."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nLRgdFP-s30",
+    "source": "Independent",
+    "cluster": "vox",
+    "title": "Explainer: The War in Yemen Explained in 3 minutes",
+    "approx_length_minutes": 3.0,
+    "why_in_canon": "Tight 3-minute Yemen explainer - efficiency benchmark: study what is dropped vs kept relative to longer Vox pieces."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_WtMIlP-qgo",
+    "source": "Independent geopolitics",
+    "cluster": "c4_sky_france24",
+    "title": "Iran 'CRUSHES All US-Backed Iraqi Kurdish Units' After Border Breach",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Real-time-conflict short: handheld archival, rapid-fire chyrons, animated push-zoom on Iran-Iraq border - references the kinetic style we lean on."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=m4sZTG4VPKw",
+    "source": "Independent geopolitics",
+    "cluster": "c4_sky_france24",
+    "title": "Exiled Kurds Gear Up For War: Will US-Israel Strikes Spark A Rebellion?",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Diaspora-led conflict short - useful for studying how exile communities and home-country events are stitched into one timeline."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iEdB3Z7M4OA",
+    "source": "Independent geopolitics",
+    "cluster": "c4_sky_france24",
+    "title": "Big Middle East Shift? Saudi Arabia Moves Closer to Iran",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Diplomacy-pivot explainer: walk-through of Saudi-Iran rapprochement with handshake archival, mediator (China) overlay - direct precedent."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NwFv6HJNPCc",
+    "source": "WION/Vantage",
+    "cluster": "reuters_nowthis",
+    "title": "Vision 2030 Meets Reality: Saudi Arabia Rethinks Its Big Bets",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Anchor-led economic explainer on Saudi Vision 2030 / NEOM - clean infographic stack for budget cuts and project pivots."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=S4RD2jxNDpY",
+    "source": "Independent",
+    "cluster": "c4_sky_france24",
+    "title": "Eyewitness Video Reportedly Shows Saudi Arabia PUMMELING Yemeni Separatists",
+    "approx_length_minutes": 4.0,
+    "why_in_canon": "Eyewitness/UGC compilation reframed as short news doc - reference (and warning) on sensational packaging in Yemen war coverage."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7xbJiDA4fDM",
+    "source": "Independent",
+    "cluster": "c4_sky_france24",
+    "title": "Watch: Moment Saudi Arabia Bombs Port in Yemen",
+    "approx_length_minutes": 2.0,
+    "why_in_canon": "Single-incident 2-min war clip with location callout and impact frame - the minimal-grammar version of our reels."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HxPvgTl9tlM",
+    "source": "Vice News",
+    "cluster": "vice",
+    "title": "VICE Inside Iran | Then and Now ft. Alex Chitty",
+    "approx_length_minutes": 7.0,
+    "why_in_canon": "Vice's Iran coverage retrospective: producer-led, archive of past embeds, modern context - useful study of MENA access journalism."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jSQevkWfMBM",
+    "source": "Independent docs",
+    "cluster": "aj_arabic",
+    "title": "What Was Arabia Like Before Islam? | DOCUMENTARY",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Pre-Islamic Arabia explainer - Arabic-history-deep angle that pairs well with the 'Hekaya' track storytelling beats."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=b5YjIGt8pR0",
+    "source": "Free Documentary",
+    "cluster": "vice",
+    "title": "Beirut Blast Disaster: The Largest Explosion in Modern History | What Went Wrong",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Long-form Beirut blast doc - useful as the 'what an extended doc looks like' anchor for a video we usually compress to 60 seconds."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VLRCk68BZ00",
+    "source": "AJ+ / American Muslims",
+    "cluster": "aj_english",
+    "title": "How Muslims Influenced Thomas Jefferson and America's Founders",
+    "approx_length_minutes": 5.0,
+    "why_in_canon": "Aj+-aligned cultural history short - example of an underserved counter-narrative played as a tight 5-min essay film."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9pDB3dX3Voo",
+    "source": "Vice News Tonight",
+    "cluster": "aj_english",
+    "title": "Breaking News Story Charlottesville",
+    "approx_length_minutes": 6.0,
+    "why_in_canon": "Reference clip of breaking-news craft (Vice News Tonight) often paired with AJ+ in academic curricula on short-form documentary."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5-0zHqYGnlo",
+    "source": "Insider",
+    "cluster": "bloomberg_insider",
+    "title": "The True Cost: Who Pays the Real Price for YOUR Clothes",
+    "approx_length_minutes": 8.0,
+    "why_in_canon": "Foundational True Cost essay film, fashion supply-chain investigation - reference for documentary-grade infographics on supply chains."
+  }
+]
