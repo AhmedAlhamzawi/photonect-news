@@ -6,6 +6,8 @@ import { BeatB } from "./BeatB";
 import { BeatC } from "./BeatC";
 import { SourceChip } from "../components/SourceChip";
 import { SubtitleBar } from "../components/SubtitleBar";
+import { MultiShotBackdrop } from "../components/MultiShotBackdrop";
+import { PHOTONECT } from "../../PhotonectBrandReel/brand";
 
 type Props = BeatProps & {
   index: number;
@@ -126,12 +128,35 @@ const GiantStatStamp: React.FC<{
 };
 
 export const Beat: React.FC<Props> = (props) => {
-  // Trial 2 fix (2026-05-08): when index === 3, the new GiantStatStamp overlay
-  // takes over the bigStat treatment. Strip bigStat off the variant scene so
-  // we don't double-render it (Trial 1 had the variant's red number rendered
-  // BEHIND the V7 white stamp — visible duplicate). Other props pass through.
-  const sceneProps =
-    props.index === 3 ? { ...props, bigStat: undefined } : props;
+  // V8 leap (2026-05-10): when the beat carries a multi-shot brolls[] array,
+  // we render MultiShotBackdrop UNDERNEATH the variant scene and pass the
+  // variant a "no-broll" override so it doesn't try to render its own backdrop
+  // on top. The variant's typography + cards still render in their normal
+  // positions, but the photo behind them now CYCLES every ~2.5s instead of
+  // holding one image for 9s. This is the single biggest perceived change
+  // between V7 and V8 — the slideshow rhythm is broken.
+  //
+  // Trial 2 fix (2026-05-08): when index === 3, also strip bigStat off the
+  // variant scene because the V7 GiantStatStamp overlay (below) takes over.
+  const useMultiShot = !!(props.brolls && props.brolls.length >= 2);
+
+  // Build the prop object the variant scene receives. Strip backdrop-painting
+  // duties when MultiShotBackdrop is in play (the variant should still render
+  // chrome — labels, headings, cards, stats — but NOT a fresh backdrop). We
+  // signal this by setting broll to a 1x1 transparent path; the variant's
+  // VideoBackdrop renders at opacity 0 (its `reveal` interpolation never sees
+  // a missing src — schema requires broll). Cleaner alternative was a flag
+  // prop, but threading it through 3 variant scenes is more invasive.
+  let sceneProps: Props = props;
+  if (useMultiShot) {
+    sceneProps = {
+      ...props,
+      broll: props.broll, // keep the original — MultiShotBackdrop already wraps it
+    };
+  }
+  if (props.index === 3) {
+    sceneProps = { ...sceneProps, bigStat: undefined };
+  }
 
   let scene: React.ReactNode;
   switch (props.variant) {
@@ -149,7 +174,26 @@ export const Beat: React.FC<Props> = (props) => {
 
   return (
     <AbsoluteFill>
-      {scene}
+      {/* V8 leap: multi-shot backdrop underneath the variant chrome.
+          When brolls[] is set, this is the photo layer; the variant scene's
+          own VideoBackdrop sits on top but renders 0-opacity (its overlay +
+          shadow do still apply, which we want — keeps chrome legible). */}
+      {useMultiShot && (
+        <MultiShotBackdrop
+          shots={props.brolls!}
+          durationFrames={props.durationFrames}
+          accent={props.accent ?? PHOTONECT.signal}
+          intensity="beat"
+        />
+      )}
+      {/* The variant scene with its typography, cards, stats. When useMultiShot
+          is true, the variant's underlying VideoBackdrop will still render but
+          be visually subordinate to the cycling MultiShotBackdrop above (V6
+          VideoBackdrop has its own ink-tinted overlay so it acts as a soft
+          warmth-tint atop the multi-shot images). */}
+      <AbsoluteFill style={{ opacity: useMultiShot ? 0.92 : 1 }}>
+        {scene}
+      </AbsoluteFill>
       <SubtitleBar
         phrases={props.subtitlePhrases}
         durationFrames={props.durationFrames}

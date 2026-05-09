@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "audioBed": "audio/mood_mideast.mp3",
+  "voScript": "ليبيا تعود إلى الواجهة. شركة النفط الوطنية أعلنت إنتاجاً قياسياً بلغ 1.43 مليون برميل يومياً في نيسان، الأعلى منذ عقد. الرئيس الجديد مسعود سليمان يستهدف 1.6 مليون بنهاية 2026. وأول موازنة موحّدة منذ 2013 أُقرّت بين طرابلس وبنغازي. صفقة 20 مليار دولار مع توتال وشيفرون. هل تصبح ليبيا منافس العراق الأول في أوبك+؟",
+  "breaking": {
+    "arabicKicker": "عودة ليبيا",
+    "arabicHeadline": "ليبيا تسجل 1.43 مليون برميل وتقرّ أول موازنة موحّدة منذ 2013",
+    "englishSubhead": "TRIPOLI • 1.43M BPD RECORD + UNIFIED BUDGET",
+    "heroQueries": [
+      "Es Sider oil terminal Libya tankers aerial 2026",
+      "Masoud Suleman Libya NOC Chairman portrait",
+      "Abdul Hamid Dbeibah Libya GNU Tripoli briefing",
+      "TotalEnergies Chevron Libya oil rig signing",
+      "Libya Sharara field southwestern desert"
+    ],
+    "heroMedia": "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم القياسي",
+      "arabicHeading": "1.43 مليون برميل يومياً وصفقة 20 مليار مع توتال وشيفرون",
+      "arabicBody": "في 22 نيسان 2026 أعلنت شركة النفط الوطنية NOC أن إنتاج ليبيا بلغ 1,433,000 برميل يومياً، الأعلى منذ 12 عاماً. الرئيس التنفيذي مسعود سليمان، المعيّن في تشرين الأول 2025، أعلن خطة 'إعادة التموضع' لرفع الإنتاج إلى 1.6 مليون بنهاية 2026 ثم 2 مليون بحلول 2028. الإنتاج يأتي من الشرارة جنوباً ومليتة أبو عطيفل شمالاً. صفقة 20 مليار دولار لـ 25 سنة مع توتال وشيفرون تستهدف 850 ألف برميل إضافي.",
+      "bigStat": {
+        "value": "1.43M",
+        "label": "Libya bpd in April 2026 (12-year high)",
+        "arabicLabel": "برميل يومياً ذروة 12 عاماً"
+      },
+      "supportingStats": [
+        {
+          "label": "هدف نهاية 2026",
+          "value": "1.6 مليون"
+        },
+        {
+          "label": "هدف 2028",
+          "value": "2 مليون"
+        },
+        {
+          "label": "صفقة توتال-شيفرون",
+          "value": "20 مليار/25 سنة"
+        }
+      ],
+      "broll": "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+      "brolls": [
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_1.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "NOC LIBYA · APR 22",
+      "subtitlePhrases": [
+        "1.43 مليون برميل قمة 12 عاماً",
+        "الشرارة ومليتة محرّكا الإنتاج الجديد",
+        "20 مليار دولار توتال وشيفرون"
+      ]
+    },
+    {
+      "label": "الموازنة المُوحَّدة",
+      "arabicHeading": "165 مليار دينار توحّد طرابلس وبنغازي ودرنة بعد فيضان 2023",
+      "arabicBody": "للمرة الأولى منذ 2013 أقرّ مجلس النواب في طبرق ومجلس الدولة في طرابلس وحكومة الدبيبة موازنة موحّدة بـ 165 مليار دينار، أي 34 مليار دولار. الموازنة تحوّل الإيرادات النفطية إلى المصرف المركزي بدل تقاسمها، وتخصّص 20 بالمئة لإعادة إعمار درنة بعد فيضان 2023. الجامعة العربية: 'أهم تطور سياسي منذ اتفاق الصخيرات 2015'. خام إس سيدر الليبي يتداول بعلاوة 1.20 دولار فوق برنت لجودته.",
+      "bigStat": {
+        "value": "$34B",
+        "label": "First unified Libya budget since 2013",
+        "arabicLabel": "أول موازنة منذ 2013"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار الليبي",
+          "value": "165 مليار"
+        },
+        {
+          "label": "إعادة إعمار درنة",
+          "value": "20 بالمئة"
+        },
+        {
+          "label": "علاوة إس سيدر",
+          "value": "+1.20 دولار"
+        }
+      ],
+      "broll": "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_2.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_2.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "REUTERS · TRIPOLI",
+      "subtitlePhrases": [
+        "165 مليار دينار موازنة موحّدة",
+        "20 بالمئة لإعمار درنة وبنغازي",
+        "إس سيدر يتفوق على برنت"
+      ]
+    },
+    {
+      "label": "التحدي العراقي",
+      "arabicHeading": "فيينا 5 حزيران: حصة العراق 4 مليون برميل في خطر",
+      "arabicBody": "ليبيا في طريقها لتصبح منافس العراق الأول داخل أوبك+. اجتماع فيينا 5 حزيران سيحدّد حصص النصف الثاني، والعراق ملتزم بـ 4 مليون برميل مع تخفيض إضافي. ليبيا معفاة من الحصص منذ 2017 بسبب الحرب، لكن مع موازنة موحّدة وإنتاج 1.43 مليون، الرياض وأبوظبي وبغداد سيطالبون بإلغاء الإعفاء. صفقة توتال-شيفرون تحوّل روتردام من البصرة الثقيل إلى إس سيدر الأخف. SOMO قد تخسر 80 ألف برميل يومياً.",
+      "bigStat": {
+        "value": "4.0M",
+        "label": "Iraq OPEC+ quota at risk in June",
+        "arabicLabel": "حصة العراق المهدّدة"
+      },
+      "supportingStats": [
+        {
+          "label": "اجتماع فيينا",
+          "value": "5 يونيو 2026"
+        },
+        {
+          "label": "إعفاء ليبيا منذ",
+          "value": "2017"
+        },
+        {
+          "label": "خسارة SOMO المتوقعة",
+          "value": "80 ألف يومياً"
+        }
+      ],
+      "broll": "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_3.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/hero.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_3.jpg",
+        "images/news/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFB020",
+      "brollSource": "TOTALENERGIES · LIBYA",
+      "subtitlePhrases": [
+        "فيينا 5 حزيران تحدّد المصير",
+        "الرياض وأبوظبي ضد إعفاء طرابلس",
+        "روتردام تتحوّل إلى إس سيدر"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "S&P Global",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Libya NOC",
+      "domain": "noc.ly"
+    },
+    {
+      "name": "Ecofin Agency",
+      "domain": "ecofinagency.com"
+    },
+    {
+      "name": "Voice of Africa",
+      "domain": "thevoiceofafrica.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "ليبيا تسجل 1.43 مليون برميل وتقرّ أول موازنة موحّدة منذ 2013",
+    "رئيس NOC مسعود سليمان يستهدف 1.6 مليون برميل بنهاية 2026",
+    "صفقة 20 مليار دولار بين ليبيا وتوتال إنرجي وشيفرون لـ 25 سنة",
+    "موازنة 165 مليار دينار توحّد طرابلس وبنغازي وحكومة الدبيبة لأول مرة",
+    "خام إس سيدر الليبي يتداول بعلاوة 1.20 دولار فوق برنت",
+    "اجتماع أوبك+ فيينا 5 حزيران سيواجه حصة العراق 4 مليون",
+    "هل تصبح ليبيا منافس العراق الأول داخل أوبك+ بعد الموازنة؟"
+  ],
+  "voicePath": "voice/2026-05-10-libya-oil-record-1-43mbpd-unified-budget-may2026.mp3",
+  "voiceDurationSeconds": 30.07,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}

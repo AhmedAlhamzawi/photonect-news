@@ -137,53 +137,93 @@ export const NewsReel: React.FC<NewsReelProps> = ({
   beats,
   sources,
   arabicTicker,
+  voicePath,
+  voiceDurationSeconds,
 }) => {
   const BEAT_DURATIONS = [BEAT_FRAMES, BEAT_FRAMES, BEAT3_FRAMES];
   const frame = useCurrentFrame();
   const totalFrames = computeNewsReelDurationInFrames();
   const activeVariant = resolveVariant(variant, topicBucket);
 
-  // V7 leap audio architecture (2026-05-08):
-  //   1. Audio fades in BEFORE the picture commits — Vox/Vice/Bloomberg pattern.
-  //      Music starts at frame 0, image starts darker and lifts (handled in Breaking).
-  //   2. Strategic SILENCE drop near the climax beat — Vox/BBC/Vice/AJ Arabic pattern.
-  //      Music cuts to near-zero for ~24 frames around the bigStat reveal in Beat 3
-  //      (~frame 1380-1410, i.e. 46-47s into a 60s reel). Then re-enters at heightened
-  //      intensity for the resolution.
-  //   3. Loop-hook fade at the very end — closing 5 frames cold-cut, not a 45-frame
-  //      fade, so IG autoplay loops back to 0 cleanly without "this is over" signal.
+  // V8 leap audio architecture (2026-05-10) — voice-over is now the spine.
+  // Layers:
+  //   - VO at full volume 1.0 (the dominant speech track, ar-IQ-BasselNeural)
+  //   - Music BED ducked to 0.18 while VO speaks, swelling to 0.55 between
+  //     VO start and end OR after VO ends
+  //   - Silence drop at climax preserved (V7 pattern), runs INSIDE the VO
+  //     duration so VO + silence at the same moment doubles the impact
+  //   - Loop-hook cold-cut at end preserved
   //
   // Frame math: BREAKING(150) + BEAT(270) + BEAT(270) + BEAT3(240) + SOURCES(90) = 1020 frames.
-  // (Note: schema names are misleading — total reel is 34s, not 60s.)
-  // Climax beat lands inside Beat 3 around BREAKING+BEAT+BEAT+72 = 762 frames.
-  // Silence drop window: frames 750-780 (1.0s mute). Reentry at 0.5x then ramping.
+  // ASSUMPTION: VO starts ~frame 24 (just after the cold-open hero settles)
+  // and ends roughly when the VO mp3 ends. We compute VO_END from the
+  // voiceDurationSeconds prop the generator wrote back; if missing, default
+  // to total - 90 (so VO ends 3s before the reel ends).
+  const VO_START = 24;
+  const VO_END = voiceDurationSeconds
+    ? Math.min(VO_START + Math.round(voiceDurationSeconds * 30), totalFrames - 30)
+    : totalFrames - 90;
+
+  // Strategic SILENCE drop near the climax — V7 pattern preserved.
   const SILENCE_START = BREAKING_FRAMES + BEAT_FRAMES * 2 + 60;          // ~26s
   const SILENCE_END   = SILENCE_START + 30;                              // 1.0s mute
-  const REENTRY_END   = SILENCE_END + 20;                                // 0.67s reentry to 0.55
+  const REENTRY_END   = SILENCE_END + 20;                                // 0.67s reentry
 
+  // Music volume curve — ducked under VO, swells when VO is silent (between
+  // sections / after VO ends), full silence drop at climax.
   const audioVolume = interpolate(
     frame,
     [
       0,                            // music starts immediately
-      18,                           // ramps to 0.45 by frame 18 (0.6s) — quicker than V6's 15-frame fade
-      SILENCE_START - 8,            // start ducking 0.27s before silence
+      18,                           // ramps to 0.45 by frame 18
+      VO_START - 4,                 // start ducking just before VO enters
+      VO_START + 4,                 // ducked under VO at 0.18
+      SILENCE_START - 8,            // start ducking deeper toward silence
       SILENCE_START,                // full mute
       SILENCE_END,                  // hold mute
-      REENTRY_END,                  // ramp back to 0.55 (5dB lift over baseline = the climax swell)
-      totalFrames - 45,             // hold at 0.55 through resolution
-      totalFrames - 5,              // fade out only the last 5 frames (cold-cut for loop-hook)
+      REENTRY_END,                  // climb back to 0.18 (still ducked, VO still going)
+      VO_END - 4,                   // begin swell as VO ends
+      VO_END + 12,                  // music takes the floor at 0.55
+      totalFrames - 45,             // hold through resolution
+      totalFrames - 5,              // cold-cut for loop-hook
       totalFrames,
     ],
-    [0, 0.45, 0.45, 0.02, 0.02, 0.55, 0.55, 0.55, 0],
+    [0, 0.45, 0.45, 0.18, 0.18, 0.02, 0.02, 0.18, 0.18, 0.55, 0.55, 0.55, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
 
+  // VO volume — comes in fast, holds at 1.0 (full output), exits cleanly with
+  // the VO mp3's natural tail (edge-tts mp3s end with ~150ms of silence).
+  const voiceVolume = voicePath
+    ? interpolate(
+        frame,
+        [VO_START - 6, VO_START, VO_END, VO_END + 12],
+        [0, 1, 1, 0],
+        { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
+      )
+    : 0;
+
   const bedPath = pickAudioBed(audioBed, topicBucket);
   const audioSrc = bedPath.startsWith("http") ? bedPath : staticFile(bedPath);
+  const voiceSrc = voicePath
+    ? voicePath.startsWith("http") ? voicePath : staticFile(voicePath)
+    : null;
 
   return (
     <AbsoluteFill style={{ background: PHOTONECT.ink }}>
       <Audio src={audioSrc} volume={audioVolume} />
+      {voiceSrc && (
+        <Audio
+          src={voiceSrc}
+          volume={voiceVolume}
+          startFrom={0}
+          // Music bed plays from frame 0; VO starts at VO_START. We use Sequence
+          // semantics via the audio's natural offset by trimming with startFrom=0
+          // and relying on volume=0 for the leading frames. Cleaner than wrapping
+          // the Audio in a delayed Sequence because the Sequence would also
+          // affect the surrounding TransitionSeries timeline.
+        />
+      )}
 
       <BackgroundPulse />
       <DotGrid />

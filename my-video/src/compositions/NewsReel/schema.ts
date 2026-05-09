@@ -29,6 +29,13 @@ const Beat = z.object({
   supportingStats: z.array(Stat).max(3).optional(),
   broll: z.string(),
   brollType: z.enum(["video", "image"]),
+  // V8 leap (2026-05-10) — multi-shot photo cycle within the beat. When set,
+  // the Beat scene cycles through these images at ~2.5s intervals with crop/
+  // zoom variations (the "cuts every 2.5s" pattern that every world-class
+  // short-form news reel uses). 3-6 entries; the first is treated as the
+  // anchor/hero of the beat. Falls back to single `broll` when omitted, so
+  // existing posts render unchanged.
+  brolls: z.array(z.string()).min(3).max(6).optional(),
   // V7 leap — short attribution string for the persistent SourceChip in the
   // lower-left of the beat (e.g. "REUTERS · MAY 6", "WIKIMEDIA · CC-BY",
   // "AP · BAGHDAD"). When omitted, the chip falls back to the slug's first
@@ -88,6 +95,14 @@ export const NewsReelSchema = z.object({
   audioBed: z.string().optional(),
   variant: z.enum(VARIANT_VALUES).optional(),
   topicBucket: z.enum(TOPIC_BUCKETS).optional(),
+  // V8 leap (2026-05-10) — voice-over fields. All optional so existing posts
+  // still validate. When voScript is present, generate-vo.py produces
+  // voice.mp3 in the slug's .meta/ folder; voicePath + voiceDurationSeconds
+  // get written back so the composition can sync visuals to VO timing.
+  voScript: z.string().optional(),
+  voicePath: z.string().optional(),
+  voiceDurationSeconds: z.number().optional(),
+  voiceVoiceId: z.string().optional(),
   breaking: z.object({
     arabicKicker: z.string().default("عاجل"),
     arabicHeadline: z.string(),

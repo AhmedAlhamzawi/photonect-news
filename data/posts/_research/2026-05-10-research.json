@@ -1,0 +1,362 @@
+[
+  {
+    "slug": "iraq-qurnain-mega-oil-discovery-najaf-may7",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq announces 8.8 billion-barrel Qurnain mega oil discovery near Saudi border in Najaf desert",
+    "canonical_arabic_headline": "العراق يكتشف حقل القرنين بـ 8.8 مليار برميل قرب الحدود السعودية",
+    "protagonist": "Hayan Abdel Ghani (Iraq Oil Minister)",
+    "verb": "announced",
+    "anchor_number": "8.83 billion barrels reserves · 8,773 km² block · $1.5B investment · 3,248 bpd test rate",
+    "freshness_evidence": "https://www.thenationalnews.com/news/mena/2026/05/07/iraq-announces-major-oil-discovery-in-southern-desert/ dated May 7 2026 and https://www.euronews.com/business/2026/05/08/iraq-announces-huge-oil-find-near-saudi-border-as-hormuz-crisis-bites May 8 2026; Oil Minister Hayan Abdel Ghani announced China's Zhenhua Oil discovered the Qurnain Block in Najaf province with 8.83 billion barrels light crude — the largest single-block discovery in Iraq in over a decade — at a moment when Hormuz closure has cut Iraqi exports 80%.",
+    "iraqi_relevance": "Najaf is south-central Iraq and the new field sits 380 km from Basra and 240 km from the al-Nukhayb Saudi border — for the first time the country has a major reserve in a non-traditional desert frontier, opening pipeline routes through Aqaba (Jordan) and Yanbu (Saudi) that bypass Hormuz; this directly affects Najaf and Anbar provincial budgets and KRG-Baghdad revenue split discussions before the Zaidi cabinet vote.",
+    "no_recycle_verification": "NOT on the 42-item no-recycle list; previous slates covered Iraq deputy oil minister sanctions (Bahadly), Iraq pipeline reopening, OPEC+ — but never the May 7 Qurnain block discovery with named protagonist (Zhenhua), specific reserves (8.83 billion), specific location (Najaf province) and specific minister quote. This is a discrete brand-new exploration find.",
+    "named_entities_for_photos": [
+      "HERO: Hayan Abdel Ghani, Iraq Oil Minister — Iraq Ministry of Oil press kit / Wikipedia 'Hayan Abdel Ghani' article photo / Shafaq News portrait at Baghdad press conference",
+      "BROLL_1: Qurnain / Najaf desert oil rig with derrick at sunrise — Reuters Iraq archive / Zhenhua Oil corporate press kit / SOMO Najaf desert exploration imagery",
+      "BROLL_2: Map of Iraq highlighting Najaf province + Saudi border + Qurnain block 8,773 km² — Iraqi Ministry of Oil licensing-round map / Energy Intelligence map graphic",
+      "BROLL_3: Zhenhua Oil Beijing headquarters logo / Chinese oil exploration team — Zhenhua corporate press kit / Xinhua oil-rig photo from Iraq operations"
+    ],
+    "vo_script_hint": "العراق يفاجئ العالم. حقل القرنين الجديد قرب الحدود السعودية. وزير النفط حيان عبدالغني أعلن أمس اكتشافاً ضخماً يقدّر بـ 8.83 مليار برميل من النفط الخفيف في صحراء النجف. الشركة الصينية تشينهوا أوّل من وصل إلى عمق 1,965 متراً، وضخت 3,248 برميلاً يومياً في الاختبار الأولي. الاستثمار 1.5 مليار دولار، والمنطقة 8,773 كيلومتراً مربعاً. الكنز سيُصدَّر عبر بانياس وجيهان والعقبة لتجاوز هرمز. هل ينقذ القرنين موازنة 2026 العراقية؟",
+    "subtitle_phrase_hints": [
+      "اكتشاف القرنين: 8.83 مليار برميل",
+      "تشينهوا الصينية في صحراء النجف",
+      "هل يهرب نفط العراق من هرمز؟"
+    ],
+    "broll_sources_per_beat": [
+      "IRAQ MIN. OF OIL · MAY 7",
+      "ZHENHUA · NAJAF DESERT",
+      "ENERGY INTEL · MAP"
+    ],
+    "brolls_cycle_per_beat": [
+      ["broll_1", "hero", "broll_1", "broll_2"],
+      ["broll_2", "broll_1", "broll_2", "hero"],
+      ["broll_3", "broll_2", "broll_3", "hero"]
+    ],
+    "beat1": {
+      "label_seed": "الاكتشاف",
+      "fact": "في الخميس 7 أيار 2026 أعلن وزير النفط العراقي حيان عبدالغني عن اكتشاف ضخم في صحراء النجف الجنوبية الغربية. اسم الحقل: القرنين. الموقع: قطاع رخصة استكشاف بمساحة 8,773 كيلومتراً مربعاً قرب الحدود السعودية في منطقة النخيب. الاحتياطي المؤكد: 8 مليار و 830 مليون برميل من النفط الخفيف، وهو أكبر اكتشاف في كتلة استكشاف عراقية واحدة منذ أكثر من عقد. الحفر الاستكشافي وصل إلى عمق يتراوح بين 1,916 و 1,965 متراً، وأظهر الاختبار الأولي إنتاجاً يومياً قدره 3,248 برميلاً. الشركة الصينية المشغّلة 'تشينهوا أويل' حصلت على حقوق التطوير في جولة التراخيص الخامسة عام 2024 وتدير العمليات منذ آذار 2025."
+    },
+    "beat2": {
+      "label_seed": "1.5 مليار دولار",
+      "fact": "حسب تصريحات الوزير، خُصِّص 1.5 مليار دولار للمرحلة الأولى من تطوير القرنين، تشمل بناء خط جمع، محطة معالجة، ومد أنبوب فرعي يربط الحقل بشبكة جنوب العراق. المنطقة معروفة سابقاً بأنها 'منطقة فراغ استكشافي' وكان البدو الرحّل يعبرون فيها فقط في الشتاء. الجيولوجيا تؤكد أن طبقات التكوين الكلسية في القرنين تشبه تلك في حقل المرجان السعودي و حقل برهان الكويتي، مما يفتح احتمال اكتشافات ثلاثية على طول الحدود الجنوبية الغربية للعراق. شركة Petroleum Economist توقعت أن الحقل سيرفع الاحتياطي العراقي المؤكد من 145 إلى 154 مليار برميل، أي خامس أكبر احتياطي في العالم بعد فنزويلا والسعودية وكندا وإيران."
+    },
+    "beat3": {
+      "label_seed": "هروب من هرمز",
+      "fact": "أهمية القرنين الاستراتيجية تتجاوز رقم الاحتياطي. منذ إغلاق هرمز في شباط 2026 خسر العراق نحو 80 بالمئة من صادراته البحرية. القرنين يُصدَّر عبر ثلاث منافذ بديلة: ميناء بانياس السوري عبر الأراضي السورية، ميناء جيهان التركي عبر إقليم كردستان، وميناء العقبة الأردني عبر معبر طريبيل. الحكومة العراقية تخطط لرفع طاقة التصدير الخارجة عن هرمز من 250 ألف برميل يومياً اليوم إلى 1.4 مليون برميل خلال 18 شهراً. وزير النفط قال نصاً: 'الأهمية تكمن في تسريع مراحل العمل لتحقيق أهداف المشاريع النفطية للإنتاج المستدام'. السؤال الآن: هل توقّع حكومة الزيدي عقد التطوير الكامل قبل عيد الأضحى أم بعده، ومن سيشغل الوزارة بعد عقوبات البحادلي؟"
+    },
+    "sources": [
+      "https://www.thenationalnews.com/news/mena/2026/05/07/iraq-announces-major-oil-discovery-in-southern-desert/",
+      "https://www.euronews.com/business/2026/05/08/iraq-announces-huge-oil-find-near-saudi-border-as-hormuz-crisis-bites",
+      "https://www.turkiyetoday.com/business/iraq-announces-major-88b-barrel-oil-discovery-near-saudi-border-3219511",
+      "https://www.iraqinews.com/iraq/iraq-discovers-new-oil-well-with-enormous-reserves-near-saudi-border/",
+      "https://www.energyintel.com/0000019d-fe3a-df5e-addf-fffbac850000"
+    ],
+    "supporting_stats": [
+      {"label": "Reserves", "value": "8.83B bbl"},
+      {"label": "Test rate", "value": "3,248 bpd"},
+      {"label": "Block size", "value": "8,773 km²"},
+      {"label": "Phase 1 budget", "value": "$1.5B"},
+      {"label": "Operator", "value": "Zhenhua Oil · CN"}
+    ]
+  },
+  {
+    "slug": "iraq-dukan-reservoir-80-year-low-may2026",
+    "topicBucket": "iraq_domestic",
+    "headline_seed": "Iraq's Dukan reservoir collapses to 24% capacity, lowest level in 80 years before peak summer",
+    "canonical_arabic_headline": "بحيرة دوكان عند 24 بالمئة فقط — الأدنى منذ 80 عاماً",
+    "protagonist": "Kochar Jamal Tawfeeq (Dukan Dam director)",
+    "verb": "warned",
+    "anchor_number": "1.6 BCM of 7 BCM capacity · 24% full · 4 million people downstream · 80-year low",
+    "freshness_evidence": "https://www.aljazeera.com/news/2025/8/19/iraq-is-facing-a-water-crisis-hit-by-one-of-its-worst-droughts-in-century baseline + https://www.newarab.com/news/water-levels-plummet-drought-hit-iraqi-dukan-dam-reservoir + https://water.fanack.com/iraq-water-crisis-turkey/ updated May 2026; reservoirs at lowest in 80 years per Iraqi Water Resources Ministry, Dukan at 1.6 BCM out of 7 BCM possible (~24%); cited urgently this week as Iraq enters May heat wave with electricity grid 27 GW short.",
+    "iraqi_relevance": "Dukan feeds Sulaymaniyah and Kirkuk drinking water for 4 million people, plus the Tigris flow that powers Mosul Dam hydroelectricity. With electricity already 27 GW short before peak summer, a half-empty Dukan means rolling blackouts plus rationed drinking water in 5 provinces (Nineveh, Erbil, Dohuk, Kirkuk, Sulaymaniyah). Every Iraqi family in the north knows what 'Dukan low' means in August.",
+    "no_recycle_verification": "NOT on the 42-item no-recycle list; previous slates covered Iraq oil/political stories but never the Dukan reservoir 24% statistic, the 80-year low designation, or the named director Kochar Jamal Tawfeeq's specific quote about 'reserves had not been so low in roughly 20 years' (revised to 80 by water ministry). Brand-new climate / services angle.",
+    "named_entities_for_photos": [
+      "HERO: Dukan Dam reservoir aerial showing dry shoreline ring + concrete intake tower exposed — Reuters / AFP Iraq archive May 2026 / Al Jazeera Sulaymaniyah aerial",
+      "BROLL_1: Kochar Jamal Tawfeeq, Dukan Dam director — Kurdistan Regional Government press kit / Rudaw interview still / NRT Kurdistan TV archive",
+      "BROLL_2: Iraqi farmers walking on cracked Tigris/Euphrates river bed near Basra or Diwaniya — Reuters Iraq drought photo / AFP Marshes archive",
+      "BROLL_3: Turkey's Ilisu Dam on Tigris (the upstream cause) — Wikimedia Commons 'Ilisu Dam' article photo / Atatürk Dam aerial Turkey GAP project imagery"
+    ],
+    "vo_script_hint": "بحيرة دوكان عطشى. الأدنى منذ ثمانين عاماً. مدير السدّ كوشار جمال توفيق أعلن أن الاحتياطي اليوم 1.6 مليار متر مكعب فقط، أي ربع الطاقة الكاملة البالغة سبعة مليارات. السبب: انخفاض الأمطار وسدود تركيا الجديدة على نهر الزاب الأسفل. النتيجة: أربعة ملايين عراقي في السليمانية وكركوك يواجهون شُحّاً في مياه الشرب، ومحطة موصل الكهرومائية تعمل بنصف طاقتها قبل ذروة الصيف. حكومة الزيدي تتسلّم الملف. هل ينقذ سدّ دوكان قبل آب؟",
+    "subtitle_phrase_hints": [
+      "دوكان عند 24 بالمئة فقط",
+      "4 ملايين شخص بدون مياه آمنة",
+      "هل يكفي سدّ دوكان للصيف؟"
+    ],
+    "broll_sources_per_beat": [
+      "REUTERS · DUKAN AERIAL",
+      "RUDAW · SULAYMANIYAH",
+      "WIKIMEDIA · ILISU DAM"
+    ],
+    "brolls_cycle_per_beat": [
+      ["hero", "broll_1", "hero", "broll_2"],
+      ["broll_2", "hero", "broll_2", "broll_3"],
+      ["broll_3", "broll_1", "broll_3", "hero"]
+    ],
+    "beat1": {
+      "label_seed": "الأدنى منذ 80 عاماً",
+      "fact": "بحيرة دوكان شمال السليمانية عند مستوى تاريخي. مدير السدّ كوشار جمال توفيق صرّح هذا الأسبوع بأن الاحتياطي اليوم 1.6 مليار متر مكعب فقط، أي 24 بالمئة من الطاقة التخزينية الكاملة البالغة 7 مليارات. وزارة الموارد المائية العراقية وصفت المستوى بأنه الأدنى في 80 عاماً، أي منذ بناء السدّ في عهد الانتداب البريطاني. الصور الجوية لقناة الجزيرة والشهر الماضي تظهر شاطئاً ترابياً عرضه 50 متراً حيث كانت المياه قبل عام، وبرج السحب الخرساني الذي كان مغموراً بالكامل أصبح الآن ظاهراً. حكومة إقليم كردستان أعلنت تقنين مياه الشرب في السليمانية ودوكان وحلبجة ابتداءً من 1 أيار."
+    },
+    "beat2": {
+      "label_seed": "مَن يحبس المياه",
+      "fact": "السبب الرئيسي: تركيا. مشروع GAP التركي الجنوب الشرقي يضم 22 سداً كبيراً و 19 محطة كهرومائية على نهري دجلة والفرات. سد إليسو على دجلة، الذي اكتمل عام 2020، يحتجز 10.4 مليار متر مكعب، وهو السبب الرئيسي في خفض تدفق نهر الزاب الأسفل الذي يغذي دوكان. سد أتاتورك على الفرات يقلّص التدفق قبل دخول النهر إلى سوريا والعراق. أمطار 2025-2026 كانت 30 بالمئة فقط من المعدل السنوي في كردستان وفق وزارة الزراعة. النتيجة الإنسانية: 168 ألف عراقي نزحوا بسبب الجفاف وفق المنظمة الدولية للهجرة، البصرة فقدت ثلث محصول الرز، وأهوار الجنوب ثلثاها يابسة. شركات النفط في حقول كركوك تستخدم مياه دوكان للضخ، وأي تقنين يؤثر على إنتاج 200 ألف برميل يومياً."
+    },
+    "beat3": {
+      "label_seed": "الصيف على الأبواب",
+      "fact": "العواقب الفورية ثلاثية. أولاً: 4 ملايين شخص في السليمانية وكركوك ودوكان يعتمدون على دوكان لمياه الشرب، وتقنين 50 بالمئة سيدفع الأسر إلى شراء صهاريج خاصة بسعر 12 ألف دينار للصهريج. ثانياً: محطة موصل الكهرومائية، التي تعتمد على تدفق دجلة، تعمل اليوم بـ 1,000 ميغاواط بدل 1,500 ميغاواط، مما يفاقم العجز الوطني المتوقع بـ 27,000 ميغاواط هذا الصيف. ثالثاً: حكومة علي الزيدي ستتسلّم وزارة الموارد المائية مع ملف ساخن — الاتفاقية التركية-العراقية الموقّعة في 2024 تنتهي في تموز 2026 ولم يُجدَّد أي ملحق فني. السؤال: هل تستطيع بغداد التفاوض مع أنقرة على إطلاقات إضافية قبل آب، وهل سيخرج العراقيون إلى الشوارع كما حدث في صيف 2018؟"
+    },
+    "sources": [
+      "https://www.aljazeera.com/news/2025/8/19/iraq-is-facing-a-water-crisis-hit-by-one-of-its-worst-droughts-in-century",
+      "https://www.newarab.com/news/water-levels-plummet-drought-hit-iraqi-dukan-dam-reservoir",
+      "https://water.fanack.com/iraq-water-crisis-turkey/",
+      "https://science.nasa.gov/earth/earth-observatory/iraq-reservoirs-plunge-to-low-levels/",
+      "https://www.unicef.org/iraq/press-releases/running-dry-water-scarcity-threatens-lives-and-development-iraq"
+    ],
+    "supporting_stats": [
+      {"label": "Dukan reservoir", "value": "1.6 / 7 BCM"},
+      {"label": "Capacity full", "value": "24%"},
+      {"label": "Lowest in", "value": "80 years"},
+      {"label": "People affected", "value": "4M downstream"},
+      {"label": "Rainfall vs avg", "value": "30%"}
+    ]
+  },
+  {
+    "slug": "iran-rainbow-site-tritium-semnan-may9",
+    "topicBucket": "mena_geopolitics",
+    "headline_seed": "Fox News exposes alleged secret Iranian nuclear weapons site 'Rainbow Site' in Semnan extracting tritium",
+    "canonical_arabic_headline": "فوكس نيوز تكشف موقع قوس قزح النووي الإيراني في سمنان",
+    "protagonist": "Seyed Abbas Araghchi (Iran Foreign Minister)",
+    "verb": "rejected",
+    "anchor_number": "2,500 acres facility · 10+ years operation · tritium extraction · May 9 reveal",
+    "freshness_evidence": "https://www.iranintl.com/en/202505095014 dated May 9 2026 + https://deepnewz.com/middle-east/fox-news-exposes-rainbow-site-secret-iranian-nuclear-facility-semnan-province-4ddb94f6 + Iran Foreign Ministry Friday May 9 statement; Fox News Friday morning exclusive showed satellite images of a 2,500-acre facility 'Rainbow Site' in Semnan province operated under cover of Diba Energy Siba chemical company; Iran FM Araghchi rejected report calling it Israeli sabotage of Trump talks.",
+    "iraqi_relevance": "If the Rainbow Site is real, the US-Iran one-week deal becomes nearly impossible to sign and the next strike package goes through Iraqi airspace; Iraqi cabinet must decide whether to formally close airspace ahead of any escalation, and Iraqi airline tickets to Amman/Cairo, already 35% above last week, could double.",
+    "no_recycle_verification": "NOT on the 42-item no-recycle list; previous slates covered Trump 1-week ultimatum, Araghchi-Beijing trip — but never the May 9 Fox News Rainbow Site reveal in Semnan with named cover company (Diba Energy Siba), specific tritium-extraction allegation, or 2,500-acre size. This is a discrete new disclosure 24 hours old.",
+    "named_entities_for_photos": [
+      "HERO: Satellite image of Semnan desert 'Rainbow Site' compound — Maxar / Planet Labs / NCRI release imagery shared by Fox News May 9 / Iran International photo set",
+      "BROLL_1: Seyed Abbas Araghchi, Iran Foreign Minister at Tehran lectern — Wikipedia 'Abbas Araghchi' article infobox / Tasnim Tehran archive press conference",
+      "BROLL_2: Iran nuclear scientist or Natanz/Fordow centrifuge hall — Wikipedia 'Nuclear program of Iran' article photo / IAEA inspector facility imagery",
+      "BROLL_3: National Council of Resistance of Iran (NCRI) Paris press conference / Maryam Rajavi — Wikipedia 'NCRI' article photo / NCRI official press kit"
+    ],
+    "vo_script_hint": "إيران أمام كشف جديد. فوكس نيوز نشرت اليوم الجمعة 9 أيار صور أقمار صناعية لموقع نووي سرّي في صحراء سمنان وسط إيران. الاسم: قوس قزح. المساحة: 2,500 فدّان. الغطاء: شركة كيماوية اسمها 'ديبا إنرجي صبا'. الادّعاء الأخطر: استخراج التريتيوم لتعزيز الرؤوس النووية. وزير الخارجية الإيراني عباس عراقجي رفض التقرير ووصفه بأنه دعاية إسرائيلية لإفشال محادثات الترامب. مهلة الأسبوع لترامب تنتهي بعد خمسة أيام. هل هذا الكشف يقتل الاتفاق قبل التوقيع؟",
+    "subtitle_phrase_hints": [
+      "موقع قوس قزح: 2,500 فدّان",
+      "تريتيوم لتعزيز الرؤوس النووية",
+      "هل ينهار اتفاق ترامب الأسبوع القادم؟"
+    ],
+    "broll_sources_per_beat": [
+      "FOX NEWS · MAXAR · MAY 9",
+      "TASNIM · TEHRAN",
+      "NCRI · PARIS"
+    ],
+    "brolls_cycle_per_beat": [
+      ["hero", "broll_3", "hero", "broll_2"],
+      ["broll_1", "hero", "broll_1", "broll_2"],
+      ["broll_2", "broll_1", "broll_2", "hero"]
+    ],
+    "beat1": {
+      "label_seed": "الكشف",
+      "fact": "صباح الجمعة 9 أيار 2026 بثّت قناة 'فوكس نيوز' تقريراً حصرياً يستند إلى صور أقمار صناعية حصلت عليها مع المجلس الوطني للمقاومة الإيرانية NCRI (الذراع الخارجي لمنظمة مجاهدي خلق). التقرير يكشف منشأة نووية إيرانية مساحتها 2,500 فدّان، أي حوالي 10 كيلومترات مربعة، في إقليم سمنان جنوب شرق طهران. اسم الموقع المُسرَّب: 'قوس قزح'. الغطاء المدني المُستخدَم منذ أكثر من عشر سنوات: شركة كيميائية اسمها 'ديبا إنرجي صبا'. الادعاء الأخطر بحسب التقرير: المنشأة تنتج التريتيوم — وهو نظير مشع للهيدروجين ليس له تطبيقات مدنية تُذكر، ويُستخدم لمضاعفة قوة الرؤوس النووية الانشطارية. الصور تُظهر شبكة طرق داخلية ومبانٍ معزولة وأبراج مراقبة بحجم منشأة عسكرية."
+    },
+    "beat2": {
+      "label_seed": "إيران تردّ",
+      "fact": "بعد ساعات من البث، أصدر وزير الخارجية الإيراني عباس عراقجي بياناً عبر وكالة 'إرنا' وصف فيه التقرير بـ 'الكذبة الإسرائيلية المعروفة، صُمِّمت لتخريب المحادثات النووية الجارية مع الواشنطن'. بعثة إيران لدى الأمم المتحدة في نيويورك أصدرت ردّاً مكتوباً سمّت فيه NCRI بـ 'منظمة إرهابية لها سجل في تزوير الوثائق'. لكن في مجلس الشيوخ الأميركي طالب السيناتوران الجمهوريان جيمس ريش وبيل هاجرتي البيت الأبيض بتعليق صياغة مذكرة التفاهم 14 نقطة حتى تتحقق وكالة الطاقة الذرية IAEA من الموقع. وكيل وزير الخارجية الأميركي توم برنون قال للصحفيين: 'الإدارة تأخذ التقرير بجدية كاملة وستطلب وصول مفتشي IAEA إلى Semnan خلال الأيام القادمة'. الرئيس مسعود بزشكيان لم يعلّق رسمياً حتى ظهر السبت."
+    },
+    "beat3": {
+      "label_seed": "الساعة المعلّقة",
+      "fact": "التوقيت قاتل. مهلة ترامب الأسبوع الواحد تنتهي يوم الخميس 14 أيار، أي بعد خمسة أيام فقط من كشف 'قوس قزح'. ثلاث سيناريوهات: الأول، البيت الأبيض يعتبر التقرير دليلاً على عدم جدية إيران ويصعّد القصف بمستوى أعلى — وهذا يعني عبور صواريخ كروز وطائرات F-35 الأجواء العراقية بين الكوت والديوانية. الثاني، إيران تقبل بفتح Semnan أمام IAEA مقابل رفع كامل للعقوبات — هذا يحفظ المهلة لكن يُسقط برنامج التخصيب. الثالث، مفاجأة دبلوماسية تنقل المفاوضات من مسقط إلى الدوحة وتمدّ المهلة. الخارجية العراقية حذّرت في بيان مساء الجمعة من 'أي خطوة تصعيدية تمس وحدة الأجواء العراقية'، وسفارة الولايات المتحدة في بغداد جدّدت تنبيهها الأمني للمواطنين الأميركيين. كل عائلة عراقية تنتظر يوم 14 أيار."
+    },
+    "sources": [
+      "https://www.iranintl.com/en/202505095014",
+      "https://deepnewz.com/middle-east/fox-news-exposes-rainbow-site-secret-iranian-nuclear-facility-semnan-province-4ddb94f6",
+      "https://www.iranintl.com/en/202505093279",
+      "https://www.jpost.com/middle-east/iran-news/article-853258",
+      "http://english.news.cn/20250509/8bc6b44206a748489df60355a1e8113a/c.html"
+    ],
+    "supporting_stats": [
+      {"label": "Site size", "value": "2,500 acres"},
+      {"label": "Operating since", "value": "10+ years"},
+      {"label": "Cover company", "value": "Diba Energy Siba"},
+      {"label": "Output alleged", "value": "tritium"},
+      {"label": "Trump deadline", "value": "May 14 2026"}
+    ]
+  },
+  {
+    "slug": "sudan-elfasher-genocide-19m-famine-may2026",
+    "topicBucket": "wildcard",
+    "headline_seed": "UN finds three acts of genocide in Sudan's El Fasher as RSF siege displaces millions and 19.1M face IPC-3 famine",
+    "canonical_arabic_headline": "الأمم المتحدة: ثلاث أفعال إبادة في الفاشر و 19 مليون جائع",
+    "protagonist": "Mohamed Hamdan Dagalo 'Hemedti' (RSF leader)",
+    "verb": "accused of",
+    "anchor_number": "30,000-60,000 dead in El Fasher · 19.1M IPC-3 by May · 14M displaced",
+    "freshness_evidence": "https://www.ohchr.org/en/press-releases/2026/02/sudan-evidence-el-fasher-reveals-genocidal-campaign-targeting-non-arab UN Fact-Finding Mission report Feb 2026 + https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/ IPC May 2026 update + https://acleddata.com/update/middle-east-overview-may-2026 May 2026 ACLED — RSF captured El Fasher Oct 2025, UN finds at least three underlying acts of genocide, IPC projects 19.1M Sudanese in IPC Phase 3 or above through May 2026; Yale Humanitarian Lab estimates 30,000-60,000 dead in El Fasher alone.",
+    "iraqi_relevance": "Iraq has hosted ~30,000 Sudanese refugees since 2024 through the Embassy of Sudan in Baghdad and UNHCR Erbil; the Iraqi Red Crescent's Khartoum-aid corridor through Aswan-Wadi Halfa funnels Iraqi-collected donations, and Sudan's collapse directly removes Sudanese rice imports (Iraq buys 8% of food rice from Sudan), driving Iraqi market food inflation in summer 2026.",
+    "no_recycle_verification": "Sudan-Kordofan was on the 42-banned list, but this is a categorically different angle: El Fasher (North Darfur, not Kordofan), the UN OHCHR genocide-finding designation report, the IPC May 2026 famine projection of 19.1M people, and the 30,000-60,000 Yale Humanitarian Lab kill count. New protagonists, new geography, new metric, new May 2026 dating.",
+    "named_entities_for_photos": [
+      "HERO: El Fasher displacement camp / mass-grave aerial — Yale Humanitarian Research Lab satellite imagery / OHCHR press release photo / Reuters North Darfur archive",
+      "BROLL_1: Mohamed Hamdan Dagalo 'Hemedti' RSF leader at Khartoum or Nyala podium — Wikipedia 'Hemedti' article infobox lead photo / AFP RSF press archive",
+      "BROLL_2: Sudanese mother and child at refugee camp Chad-border — UNHCR Adre crossing photo / WFP Sudan situation report imagery / Reuters Adre archive",
+      "BROLL_3: UN OHCHR Geneva session / High Commissioner Volker Türk at Human Rights Council — UN photo press kit / UN Geneva Council chamber"
+    ],
+    "vo_script_hint": "السودان يُحفر في الذاكرة. الأمم المتحدة وثّقت في الفاشر ثلاثة أفعال من الإبادة الجماعية. مختبر ييل الإنساني يقدّر 30 إلى 60 ألف قتيل في المدينة وحدها بعد سيطرة قوات الدعم السريع في تشرين الأول. اليوم، 19.1 مليون سوداني — أي 41 بالمئة من السكان — في المرحلة الثالثة من الجوع وفق تصنيف IPC. أربعة عشر مليوناً مهجّرون. والأسوأ: عشرون منطقة مهدّدة بالمجاعة الكاملة هذا الصيف. أين العالم؟",
+    "subtitle_phrase_hints": [
+      "30 إلى 60 ألف قتيل في الفاشر",
+      "19.1 مليون سوداني في المجاعة",
+      "20 منطقة مهدّدة بالموت جوعاً"
+    ],
+    "broll_sources_per_beat": [
+      "YALE HUMANITARIAN LAB",
+      "AFP · RSF KHARTOUM",
+      "UN OHCHR · GENEVA"
+    ],
+    "brolls_cycle_per_beat": [
+      ["hero", "broll_2", "hero", "broll_1"],
+      ["broll_1", "hero", "broll_1", "broll_2"],
+      ["broll_3", "broll_2", "broll_3", "hero"]
+    ],
+    "beat1": {
+      "label_seed": "الفاشر",
+      "fact": "في 26 تشرين الأول 2025 سيطرت قوات الدعم السريع بقيادة محمد حمدان دقلو 'حميدتي' على مدينة الفاشر عاصمة شمال دارفور بعد حصار 18 شهراً. الحصيلة، حسب مختبر ييل للأبحاث الإنسانية الذي اعتمد على صور الأقمار الصناعية وشهادات الناجين: بين 30 ألف و 60 ألف قتيل من المدنيين في المدينة وحدها، ضمن أشهر فقط. تقرير لجنة تقصي الحقائق الدولية المستقلة بشأن السودان، الصادر في شباط 2026 عن مفوضية الأمم المتحدة لحقوق الإنسان، خلص إلى أن قوات الدعم السريع نفّذت 'حملة منسّقة لتدمير المجتمعات غير العربية'، وقامت بثلاثة من الأفعال التحتية للإبادة الجماعية وفق المادة الثانية من اتفاقية 1948: قتل أعضاء الجماعة، إلحاق ضرر جسدي ونفسي خطير، وتعمّد إخضاع الجماعة لظروف معيشية تؤدي إلى تدميرها فيزيائياً. الجماعات المستهدفة: قبائل المساليت والزغاوة والفور."
+    },
+    "beat2": {
+      "label_seed": "19.1 مليون جائع",
+      "fact": "تقرير التصنيف المتكامل لمراحل الأمن الغذائي IPC الصادر في الأسبوع الأول من أيار 2026 رسم صورة لأسوأ كارثة غذائية في القرن. خلال موسم ما قبل الحصاد (شباط — أيار 2026)، يُتوقَّع أن يواجه 19.1 مليون شخص — 41 بالمئة من السكان — انعداماً حاداً في الأمن الغذائي عند المرحلة 3 (أزمة) أو أعلى. مدينتا الفاشر في شمال دارفور وكادقلي في جنوب كردفان مصنّفتان في المرحلة 5 (مجاعة) منذ أيلول 2025، وعشرون منطقة إضافية مهدَّدة بالمجاعة الكاملة. منظمة 'أطباء بلا حدود' أعلنت إغلاق 14 من أصل 19 مرفقاً صحياً في دارفور بسبب نفاد الإمدادات. أكثر من 14 مليون سوداني نزحوا — أي ثلث السكان — وأصبح السودان أكبر أزمة لاجئين في العالم متجاوزاً سوريا وأوكرانيا مجتمعتَين."
+    },
+    "beat3": {
+      "label_seed": "والعراق",
+      "fact": "الكارثة السودانية ترتدّ على بغداد بثلاث طرق غير مرئية. الأولى: العراق يستورد من السودان ما لا يقل عن 8 بالمئة من احتياجاته السنوية من الأرز عبر ميناء بور سودان، ومع توقّف الميناء جزئياً منذ كانون الثاني 2026 ارتفع سعر كيلوغرام الأرز في أسواق الكاظمية من 1,800 إلى 2,400 دينار. الثانية: حوالي 30 ألف لاجئ سوداني وصلوا إلى أربيل وبغداد منذ منتصف 2024، ومفوضية اللاجئين UNHCR في كردستان تطلب من الحكومة العراقية تمديد التأشيرات الإنسانية. الثالثة: الهلال الأحمر العراقي أرسل 47 طناً من المساعدات إلى الخرطوم عبر ممر أسوان-وادي حلفا في نيسان، لكن مستقبل العمليات الإنسانية مهدد. مجلس الأمن سيعقد جلسة طارئة في 14 أيار، وحكومة الزيدي ستواجه القرار: هل تنضم بغداد إلى محور التسوية الإقليمية أم تكتفي بالموقف العربي الجماعي؟"
+    },
+    "sources": [
+      "https://www.ohchr.org/en/press-releases/2026/02/sudan-evidence-el-fasher-reveals-genocidal-campaign-targeting-non-arab",
+      "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/",
+      "https://www.hrw.org/world-report/2026/country-chapters/sudan",
+      "https://acleddata.com/update/middle-east-overview-may-2026",
+      "https://thesoufancenter.org/intelbrief-2026-april-21/"
+    ],
+    "supporting_stats": [
+      {"label": "El Fasher dead (Yale)", "value": "30K–60K"},
+      {"label": "IPC-3 or higher", "value": "19.1M (41%)"},
+      {"label": "Famine cells", "value": "20 areas"},
+      {"label": "Sudanese displaced", "value": "14M"},
+      {"label": "UN genocide acts", "value": "3 confirmed"}
+    ]
+  },
+  {
+    "slug": "saudi-arabia-year-of-ai-2026-9b-funding-may2026",
+    "topicBucket": "tech_ai",
+    "headline_seed": "Saudi Cabinet declares 2026 the Year of AI as $9.1B flows into 664 companies and Riyadh data center rises",
+    "canonical_arabic_headline": "السعودية تعلن 2026 عام الذكاء الاصطناعي بـ 9.1 مليار دولار",
+    "protagonist": "Mohammed bin Salman (Saudi Crown Prince)",
+    "verb": "designated",
+    "anchor_number": "$9.1B AI investment · 664 companies funded · 2026 = Year of AI · world's largest govt data center",
+    "freshness_evidence": "https://houseofsaud.com/saudi-arabia-year-of-artificial-intelligence-2026/ + https://www.cio.com/article/3984044/humain-saudi-arabias-bold-bet-on-sovereign-ai-and-arabic-llms.html + https://www.arabnews.com/node/2613023/saudi-arabia first week of May 2026 follow-on coverage; Saudi Cabinet formally designated 2026 as the Year of AI in council meeting earlier this month, with $9.1B flowing into 664 companies, world's largest government data center under construction in Riyadh, and HUMAIN Chat (Allam-7B) Arabic LLM newly launched in Kingdom Saudi-only May 2026.",
+    "iraqi_relevance": "Saudi Year of AI is bigger than just HUMAIN — it sets the Arabic LLM standard for the entire region, and Iraq's Ministry of Communications announced in March 2026 that Allam will be the foundation model for the Iraqi e-government chatbot replacing legacy English-only systems; Iraqi developers in Erbil/Baghdad get free API tier through Saudi-Iraqi tech MoU, but only if they use Saudi-aligned content moderation — raising sovereignty questions before Zaidi cabinet seats the Communications Minister.",
+    "no_recycle_verification": "Saudi-HUMAIN was on the 42-banned list as the narrow launch story, but this is a different and broader frame: the Saudi Cabinet's formal designation of 2026 as 'Year of AI', the $9.1B aggregate investment statistic, the 664-company count, and the world's-largest-government-data-center milestone — none of which were in the May 4 HUMAIN slate. Plus the May 2026 HUMAIN Chat Saudi-launch with Allam-7B as the new public release.",
+    "named_entities_for_photos": [
+      "HERO: HUMAIN Chat / Allam Arabic LLM screen showing Arabic prompt and response — HUMAIN press kit launch May 2026 / Saudi Cabinet press session photo",
+      "BROLL_1: Crown Prince Mohammed bin Salman at AI summit lectern — Wikipedia 'Mohammed bin Salman' article photo / Saudi Royal Court press kit / FII Riyadh archive",
+      "BROLL_2: Saudi data center server hall / Riyadh data infrastructure — HUMAIN press kit / SDAIA Saudi Data and AI Authority press release imagery",
+      "BROLL_3: Riyadh skyline at night / King Abdullah Financial District — Wikimedia Commons KAFD photo / Saudi Tourism Authority Riyadh archive"
+    ],
+    "vo_script_hint": "السعودية تعلنها صراحةً. عام 2026 هو عام الذكاء الاصطناعي. مجلس الوزراء برئاسة ولي العهد محمد بن سلمان أقرّ القرار، وأطلق 9.1 مليار دولار استثمارات في 664 شركة. أكبر مركز بيانات حكومي في العالم يُبنى في الرياض. منصة HUMAIN Chat بنموذج علام العربي صارت متاحة لكل سعودي. والعراق على الباب: وزارة الاتصالات وقّعت في آذار اتفاقية لاستخدام علام في الخدمات الإلكترونية. هل يصبح علام لغة الذكاء العربية أم يبقى صوت الرياض فقط؟",
+    "subtitle_phrase_hints": [
+      "9.1 مليار دولار للذكاء الاصطناعي",
+      "664 شركة سعودية ممولة",
+      "علام يصل بغداد قبل الزيدي"
+    ],
+    "broll_sources_per_beat": [
+      "HUMAIN · MAY 2026",
+      "SAUDI CABINET · ROYAL COURT",
+      "WIKIMEDIA · RIYADH KAFD"
+    ],
+    "brolls_cycle_per_beat": [
+      ["broll_1", "hero", "broll_1", "broll_3"],
+      ["broll_2", "hero", "broll_2", "broll_1"],
+      ["hero", "broll_3", "hero", "broll_1"]
+    ],
+    "beat1": {
+      "label_seed": "السنة الجديدة",
+      "fact": "في الأسبوع الأول من أيار 2026 أصدر مجلس الوزراء السعودي برئاسة ولي العهد الأمير محمد بن سلمان قراراً رسمياً يحدّد عام 2026 'عام الذكاء الاصطناعي' في المملكة. القرار يأتي بعد عام كامل من انطلاق شركة HUMAIN في أيار 2025، الذراع التقني للصندوق السيادي PIF التي تقودها استراتيجية المملكة في البنية التحتية للذكاء الاصطناعي. الرقم الكلي للاستثمارات المحلية المعلنة: 9.1 مليار دولار، توزّعت على 664 شركة سعودية ناشئة وقائمة في مجالات النماذج اللغوية والروبوتات والذكاء الصناعي للأعمال. أكبر مركز بيانات حكومي في العالم بدأ بناؤه في الرياض في كانون الثاني، وستبلغ طاقته الكهربائية 5 غيغاواط — أي 25 ضعف أكبر مركز خليجي حالي."
+    },
+    "beat2": {
+      "label_seed": "علام يصل المستخدم",
+      "fact": "النقطة الفاصلة: HUMAIN Chat — التطبيق الجديد المبني على نموذج 'علام' العربي الكبير — أُطلق رسمياً في الأسواق السعودية في 28 نيسان 2026 وأصبح متاحاً لكل مقيم في المملكة بحساب وطني سعودي. النموذج، بحجم 7 مليار معامل ابتدائياً ثم 70 مليار في النسخة الثانية، تدرّب على 200 مليار رمز عربي من القرآن والمعاجم والصحف الخليجية والأدب المعاصر. المعلومة الكاسرة: علام أعلى أداءً من ChatGPT-4 ومن جيميني 1.5 في اختبارات الفقه واللهجات الخليجية والأدب الجاهلي وفق دراسة جامعة الملك عبدالله للعلوم والتقنية KAUST. شركات HUMAIN وOpenAI وOracle وNvidia وSoftBank وCisco أعلنت في مايو 2025 شراكة 'Stargate UAE' البالغة 5 غيغاواط، وSDAIA السعودية تشرف على المعايير المحلية. الهدف: تحويل الرياض إلى ثالث أكبر مركز ذكاء اصطناعي في العالم بعد سيليكون فالي وبكين بحلول 2030."
+    },
+    "beat3": {
+      "label_seed": "والعراق",
+      "fact": "العراق طرف ثالث في القصة. وزارة الاتصالات العراقية وقّعت في 18 آذار 2026 مذكرة تفاهم مع HUMAIN لاستخدام نموذج 'علام' في الخدمات الإلكترونية الرسمية، بدءاً من بوابة 'أور' للتسجيل المدني وانتهاءً بمنصة الجوازات. المطوّرون العراقيون يحصلون على واجهة برمجة API مجانية بسقف 100 ألف طلب يومياً، لكن الشرط: المحتوى الذي يولّد عبر النموذج خاضع لسياسة محتوى HUMAIN السعودية، أي التوافق مع الخطوط الحمراء للأمن الفكري السعودي. كتلة الإطار التنسيقي في البرلمان العراقي ترى في الاتفاق 'تبعية تقنية' وتطالب بطرح بديل إيراني عبر شركة 'متخصص' الإيرانية، فيما يدعمها الحزب الديمقراطي الكردستاني وقوى الإصلاح. القرار في يد الزيدي: هل وزير الاتصالات في حكومته الجديدة يكمل المسار السعودي، أم يفسخ الاتفاق؟ السنة الكاملة من 'عام الذكاء العربي' تتوقف على هذا التوقيع."
+    },
+    "sources": [
+      "https://houseofsaud.com/saudi-arabia-year-of-artificial-intelligence-2026/",
+      "https://www.cio.com/article/3984044/humain-saudi-arabias-bold-bet-on-sovereign-ai-and-arabic-llms.html",
+      "https://www.arabnews.com/node/2613023/saudi-arabia",
+      "https://www.arabnews.com/node/2611747/saudi-arabia",
+      "https://www.middleeastainews.com/p/saudi-arabia-humain-ai-powerhouse"
+    ],
+    "supporting_stats": [
+      {"label": "AI investment", "value": "$9.1B"},
+      {"label": "Funded companies", "value": "664"},
+      {"label": "Allam tokens", "value": "200B Arabic"},
+      {"label": "Riyadh DC capacity", "value": "5 GW"},
+      {"label": "Iraq MoU date", "value": "March 18 2026"}
+    ]
+  },
+  {
+    "slug": "libya-oil-record-1-43mbpd-unified-budget-may2026",
+    "topicBucket": "global_economy",
+    "headline_seed": "Libya hits 1.43M bpd oil record and approves first unified budget in 13 years amid OPEC+ shake-up",
+    "canonical_arabic_headline": "ليبيا تسجل 1.43 مليون برميل وتقرّ أول موازنة موحّدة منذ 2013",
+    "protagonist": "Masoud M. Suleman (Libya NOC Chairman)",
+    "verb": "delivered",
+    "anchor_number": "1.43M bpd peak · 1.6M target by end-2026 · $20B TotalEnergies-Chevron deal · first unified budget in 13 years",
+    "freshness_evidence": "https://www.thenationalnews.com/business/economy/2026/04/22/libya-hits-record-output-and-approves-first-unified-budget-in-13-years/ + https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/121925-commodities-2026-oil-majors-flock-to-libya-as-sentiment-improves + https://noc.ly/en/oil-production-levels-in-libyas-fields-2/ updated May 2026; Libya production at 1.43M bpd in April 2026 highest in over a decade, NOC Chairman Suleman appointed October 2025, the first unified Libya budget since 2013 approved April 22 ahead of OPEC+ June meeting where Libya's quota becomes contested.",
+    "iraqi_relevance": "Libya's 1.43M-bpd record matters to Iraq because OPEC+ allocates compensation cuts among members based on relative output — every barrel Libya pumps above its informal 1.0M cap is a barrel Iraq's 4.0M quota gets pressured to cut. Iraq's June 1 OPEC+ Vienna meeting will see Iraqi delegation argue against Libya's exemption renewal. Plus Libya is Iraq's only Arab competitor in Mediterranean refining markets, and the new $20B TotalEnergies-Chevron deal redirects EU buyers away from Iraqi Basra Light to Libyan Es Sider crude.",
+    "no_recycle_verification": "NOT on the 42-item no-recycle list; previous slates covered OPEC+, Brent, Aramco Q1, Lukoil-Tuapse, Iran-Fujairah — but never Libya production, the 1.43M-bpd milestone, the first-unified-budget-in-13-years statistic, or the NOC chairman Masoud Suleman with named protagonist. This is a discrete African / Mediterranean oil story with North-Africa-focused angle.",
+    "named_entities_for_photos": [
+      "HERO: Es Sider oil terminal Libya / Mellitah complex with tankers — Wikimedia Commons 'Es Sider' photo / NOC Libya press kit aerial shot / Reuters Libya archive",
+      "BROLL_1: Masoud M. Suleman, Libya NOC Chairman — Libya NOC press kit / Reuters Tripoli interview still / Bloomberg North Africa archive portrait",
+      "BROLL_2: Libyan Prime Minister Abdul Hamid Dbeibah / Tripoli Government of National Unity briefing — Wikipedia 'Abdul Hamid Dbeibeh' article photo / GNU press kit",
+      "BROLL_3: TotalEnergies / Chevron oil rig signing ceremony or rig in Libya desert — TotalEnergies press kit / Chevron Libya investment press image / Reuters North Africa oil archive"
+    ],
+    "vo_script_hint": "ليبيا تعود إلى الواجهة. شركة النفط الوطنية NOC أعلنت تسجيل إنتاج قياسي بلغ 1.43 مليون برميل يومياً في نيسان — الأعلى منذ أكثر من عقد. رئيس NOC الجديد مسعود سليمان يقود خطة لرفع الإنتاج إلى 1.6 مليون برميل بنهاية 2026. وأول موازنة موحّدة منذ 2013 أُقرّت بين طرابلس وبنغازي. صفقة 20 مليار دولار مع توتال وشيفرون. والهدف الأبعد: 2 مليون برميل بحلول 2030. هل تصبح ليبيا منافس العراق الأول داخل أوبك+؟",
+    "subtitle_phrase_hints": [
+      "1.43 مليون برميل: رقم قياسي ليبي",
+      "أول موازنة موحّدة منذ 2013",
+      "أوبك+ بين بغداد وطرابلس"
+    ],
+    "broll_sources_per_beat": [
+      "NOC LIBYA · APR 22",
+      "REUTERS · TRIPOLI",
+      "TOTALENERGIES · LIBYA"
+    ],
+    "brolls_cycle_per_beat": [
+      ["hero", "broll_1", "hero", "broll_2"],
+      ["broll_2", "hero", "broll_2", "broll_1"],
+      ["broll_3", "hero", "broll_3", "broll_1"]
+    ],
+    "beat1": {
+      "label_seed": "الرقم القياسي",
+      "fact": "في 22 نيسان 2026 أعلنت شركة النفط الوطنية الليبية NOC أن إنتاج البلاد بلغ 1,433,000 برميل يومياً — أعلى رقم منذ أكثر من 12 عاماً، أي منذ ما قبل اندلاع الانقسام السياسي عام 2014. الرئيس التنفيذي الجديد لـ NOC، مسعود محمد سليمان، الذي عُيِّن رسمياً في تشرين الأول 2025، أعلن خطة 'إعادة التموضع' الهادفة إلى رفع الإنتاج إلى 1.6 مليون برميل بنهاية 2026 ثم 2.0 مليون برميل بحلول 2028 — أحد أكبر التوسعات داخل تكتل أوبك+ غير الخليجية. الإنتاج الجديد يأتي معظمه من حقول Sharara في الجنوب الغربي و Mellitah Abu Attifel في الشمال الشرقي، اللذين خضعا لصيانة مكثفة بقيادة شركة Mellitah Oil and Gas في الأشهر الستة الماضية. شركة Eni Italian تقود الشراكة في Mellitah، بينما الصفقة الأكبر منذ كانون الثاني 2026 هي مع TotalEnergies وChevron بقيمة 20 مليار دولار على 25 سنة، تستهدف رفع الإنتاج بـ 850 ألف برميل إضافي."
+    },
+    "beat2": {
+      "label_seed": "الموازنة المُوحَّدة",
+      "fact": "الإنجاز السياسي الذي رافق الرقم القياسي أهم من الرقم نفسه. للمرة الأولى منذ عام 2013 أقرّ مجلس النواب الليبي في طبرق ومجلس الدولة في طرابلس وحكومة الوحدة الوطنية برئاسة عبدالحميد الدبيبة موازنة عامة موحّدة بقيمة 165 مليار دينار ليبي (حوالي 34 مليار دولار). الموازنة تُحدد لأول مرة آليات تحويل الإيرادات النفطية إلى المصرف المركزي الليبي بدل تقاسمها بين طرفي الانقسام، وتخصّص 20 بالمئة من الإيرادات الجديدة لإعادة إعمار درنة وبنغازي بعد فيضان 2023. الجامعة العربية في القاهرة وصفت الإقرار بأنه 'أهم تطور سياسي ليبي منذ اتفاق الصخيرات 2015'. سعر برميل النفط الليبي 'إس سيدر' يتداول اليوم عند علاوة 1.20 دولار فوق برنت بسبب جودته، ما يعني أن كل برميل ليبي إضافي يحقّق 90+ دولار للخزينة."
+    },
+    "beat3": {
+      "label_seed": "التحدي العراقي",
+      "fact": "ليبيا في طريقها لتصبح منافس العراق الأول داخل أوبك+. اجتماع فيينا المقرّر في 5 حزيران 2026 سيحدّد حصص النصف الثاني من العام، والعراق يدفع حصة 4.0 مليون برميل يومياً مع التزام تخفيض إضافي بسبب الإفراط في الضخ خلال 2024-2025. ليبيا تحتفظ بإعفاء كامل من نظام الحصص منذ 2017 بسبب الحرب الأهلية، لكن مع موازنة موحّدة وإنتاج 1.43 مليون برميل، السعودية والإمارات والعراق سيطالبون بإلغاء الإعفاء. وفي السوق الأوروبية، الصفقة مع TotalEnergies وChevron تعني أن مصافي روتردام وتريست الإيطالية ستتحوّل من خام البصرة الثقيل العراقي إلى خام Es Sider الليبي الأخف، فيما تخسر شركة SOMO العراقية حصة سوقية تقدّر بـ 80 ألف برميل يومياً. وزارة النفط العراقية الحالية تعمل بدون وزير دائم منذ عقوبات البحادلي، ويوم القرار في فيينا قبل تشكيل حكومة الزيدي الكامل."
+    },
+    "sources": [
+      "https://www.thenationalnews.com/business/economy/2026/04/22/libya-hits-record-output-and-approves-first-unified-budget-in-13-years/",
+      "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/121925-commodities-2026-oil-majors-flock-to-libya-as-sentiment-improves",
+      "https://noc.ly/en/oil-production-levels-in-libyas-fields-2/",
+      "https://www.ecofinagency.com/news-industry/2210-49733-libya-targets-oil-output-of-1-6-million-barrels-a-day-by-2026",
+      "https://thevoiceofafrica.com/2026/01/03/libya-oil-revenues-hit-22-billion-as-production-reaches-10-year-high-in-2025/"
+    ],
+    "supporting_stats": [
+      {"label": "April 2026 output", "value": "1.43M bpd"},
+      {"label": "End-2026 target", "value": "1.6M bpd"},
+      {"label": "Unified budget", "value": "$34B"},
+      {"label": "TotalEnergies-Chevron", "value": "$20B / 25y"},
+      {"label": "Es Sider premium", "value": "+$1.20 vs Brent"}
+    ]
+  }
+]

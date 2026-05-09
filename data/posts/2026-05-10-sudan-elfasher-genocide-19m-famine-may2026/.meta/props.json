@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "voScript": "السودان يُحفر في الذاكرة. الأمم المتحدة وثّقت في الفاشر ثلاثة أفعال من الإبادة الجماعية. مختبر ييل الإنساني يقدّر بين 30 و 60 ألف قتيل في المدينة وحدها بعد سيطرة قوات الدعم السريع في تشرين الأول. اليوم 19.1 مليون سوداني، أي 41 بالمئة من السكان، في المرحلة الثالثة من الجوع وفق تصنيف IPC. أربعة عشر مليوناً مهجّرون. والأسوأ: عشرون منطقة مهدّدة بالمجاعة الكاملة هذا الصيف. أين العالم؟",
+  "breaking": {
+    "arabicKicker": "إبادة ومجاعة",
+    "arabicHeadline": "الأمم المتحدة: ثلاث أفعال إبادة في الفاشر و 19 مليون جائع",
+    "englishSubhead": "EL FASHER • UN GENOCIDE FINDING + 19.1M IPC-3",
+    "heroQueries": [
+      "El Fasher Sudan displacement camp aerial 2026",
+      "Mohamed Hamdan Dagalo Hemedti RSF leader Khartoum",
+      "Sudan refugee Adre crossing Chad UNHCR",
+      "UN OHCHR Geneva Human Rights Council session",
+      "Yale Humanitarian Lab North Darfur satellite"
+    ],
+    "heroMedia": "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الفاشر",
+      "arabicHeading": "60 ألف قتيل في حصار 18 شهراً وثلاث جرائم إبادة موثّقة",
+      "arabicBody": "في 26 تشرين الأول 2025 سيطرت قوات الدعم السريع بقيادة محمد حمدان دقلو 'حميدتي' على الفاشر عاصمة شمال دارفور بعد حصار 18 شهراً. مختبر ييل للأبحاث الإنسانية يقدّر بين 30 و 60 ألف قتيل من المدنيين في المدينة وحدها. تقرير شباط 2026 من مفوضية الأمم المتحدة لحقوق الإنسان خلص إلى ثلاثة أفعال تحتية للإبادة وفق اتفاقية 1948: قتل، إيذاء جسدي ونفسي، وإخضاع لظروف تدمير. الجماعات المستهدفة: المساليت والزغاوة والفور.",
+      "bigStat": {
+        "value": "60K",
+        "label": "Civilians killed in El Fasher (Yale)",
+        "arabicLabel": "قتلى الفاشر بحسب ييل"
+      },
+      "supportingStats": [
+        {
+          "label": "الحصيلة بمختبر ييل",
+          "value": "30 إلى 60 ألف"
+        },
+        {
+          "label": "أفعال إبادة موثّقة",
+          "value": "3 أفعال"
+        },
+        {
+          "label": "تاريخ السقوط",
+          "value": "26 أكتوبر 2025"
+        }
+      ],
+      "broll": "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg",
+      "brolls": [
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_2.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "YALE HUMANITARIAN LAB",
+      "subtitlePhrases": [
+        "الفاشر سقطت بعد حصار 18 شهراً",
+        "ثلاث أفعال إبادة بنص اتفاقية 1948",
+        "المساليت والزغاوة والفور أهداف رئيسية"
+      ]
+    },
+    {
+      "label": "19.1 مليون جائع",
+      "arabicHeading": "41 بالمئة من السودان عند المرحلة الثالثة وعشرون منطقة في المجاعة",
+      "arabicBody": "تقرير IPC أول أيار 2026 يرسم أسوأ كارثة غذائية في القرن. خلال موسم ما قبل الحصاد سيواجه 19.1 مليون شخص، أي 41 بالمئة من السكان، جوعاً حاداً عند المرحلة 3 أو أعلى. الفاشر وكادقلي مصنّفتان مجاعة منذ أيلول 2025، وعشرون منطقة إضافية مهدّدة. أطباء بلا حدود أغلقت 14 من 19 مرفقاً في دارفور. 14 مليون نازح يجعلون السودان أكبر أزمة لاجئين في العالم.",
+      "bigStat": {
+        "value": "19.1M",
+        "label": "Sudanese in IPC-3 or higher",
+        "arabicLabel": "سودانيون في الجوع الحاد"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة من السكان",
+          "value": "41 بالمئة"
+        },
+        {
+          "label": "خلايا مجاعة",
+          "value": "20 منطقة"
+        },
+        {
+          "label": "نازحون داخلياً",
+          "value": "14 مليون"
+        }
+      ],
+      "broll": "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_1.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_1.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AFP · RSF KHARTOUM",
+      "subtitlePhrases": [
+        "19.1 مليون يواجهون الجوع الحاد",
+        "عشرون منطقة على حافة المجاعة",
+        "أكبر موجة نزوح في العالم اليوم"
+      ]
+    },
+    {
+      "label": "والعراق",
+      "arabicHeading": "الأرز يقفز 33 بالمئة وبغداد تستقبل 30 ألف لاجئ سوداني",
+      "arabicBody": "الكارثة ترتدّ على بغداد بثلاث طرق. أولاً، العراق يستورد 8 بالمئة من الأرز عبر بور سودان، وكيلوغرام الأرز ارتفع من 1,800 إلى 2,400 دينار في الكاظمية. ثانياً، 30 ألف لاجئ سوداني وصلوا أربيل وبغداد منذ 2024، ومفوضية اللاجئين تطلب تمديد التأشيرات. ثالثاً، الهلال الأحمر العراقي أرسل 47 طناً عبر ممر أسوان-وادي حلفا في نيسان. مجلس الأمن يجتمع 14 أيار. هل تنضم بغداد إلى محور التسوية؟",
+      "bigStat": {
+        "value": "+33%",
+        "label": "Iraqi rice price rise since January",
+        "arabicLabel": "ارتفاع سعر الأرز العراقي"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة العراق من بور سودان",
+          "value": "8 بالمئة"
+        },
+        {
+          "label": "لاجئون في كردستان",
+          "value": "30 ألف"
+        },
+        {
+          "label": "مساعدات الهلال الأحمر",
+          "value": "47 طناً"
+        }
+      ],
+      "broll": "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_3.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_2.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/broll_3.jpg",
+        "images/news/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "UN OHCHR · GENEVA",
+      "subtitlePhrases": [
+        "كيلو الأرز قفز إلى 2400 دينار",
+        "30 ألف سوداني في بغداد وأربيل",
+        "مجلس الأمن يجتمع في 14 أيار"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "OHCHR",
+      "domain": "ohchr.org"
+    },
+    {
+      "name": "IPC Global",
+      "domain": "ipcinfo.org"
+    },
+    {
+      "name": "Human Rights Watch",
+      "domain": "hrw.org"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    },
+    {
+      "name": "Yale Humanitarian Lab",
+      "domain": "yale.edu"
+    },
+    {
+      "name": "UNHCR",
+      "domain": "unhcr.org"
+    }
+  ],
+  "arabicTicker": [
+    "الأمم المتحدة: ثلاث أفعال إبادة في الفاشر و 19 مليون جائع",
+    "مختبر ييل يقدّر بين 30 و 60 ألف قتيل في الفاشر وحدها",
+    "تصنيف IPC: 41 بالمئة من السودان في المرحلة 3 أو أعلى",
+    "عشرون منطقة سودانية مهدّدة بالمجاعة الكاملة قبل نهاية موسم الصيف",
+    "14 مليون نازح يجعلون السودان أكبر أزمة لاجئين في العالم اليوم",
+    "كيلو الأرز في الكاظمية قفز من 1800 إلى 2400 دينار",
+    "هل ينضم العراق إلى تسوية إقليمية أم يكتفي بالموقف العربي؟"
+  ],
+  "voicePath": "voice/2026-05-10-sudan-elfasher-genocide-19m-famine-may2026.mp3",
+  "voiceDurationSeconds": 33.55,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}

@@ -45,19 +45,16 @@ export const Breaking: React.FC<Props> = ({
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
-  // Hero image brightness: starts at 65%, lifts to 100% over frames 0-30.
-  // Trial 2 fix (2026-05-08): the original V7 lift (35→95%) stacked with the
-  // vignette pulse below to render the t=2s frame near-black. Loosening the
-  // bottom of the brightness ramp from 0.35 → 0.65 keeps the "delayed reveal"
-  // mood without burying the hero entirely.
-  const heroLift = interpolate(frame, [0, 30], [0.65, 1.0], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-    easing: Easing.bezier(0.16, 1, 0.3, 1),
-  });
+  // V8.1 fix (2026-05-10) — Ahmed: "first frame should be the news subject
+  // itself (Trump, Elon, etc) catchy". The V7/V8 brightness mask delayed the
+  // hero reveal to 1-3 seconds. Killing that — hero is now FULL-BRIGHT from
+  // frame 0. The kicker chip + headline still animate ON TOP, but the photo
+  // commits instantly. heroLift stays for back-compat in the JSX (1.0 const).
+  const heroLift = 1.0;
 
-  // Subtle slow zoom on the hero image for the first 90 frames (3s)
-  const heroZoom = interpolate(frame, [0, 90], [1.04, 1.0], {
+  // Slow zoom-IN over the 5-second runtime (1.0 → 1.06) — gives motion to the
+  // photo without dimming it. Subtle Ken Burns push-in feel.
+  const heroZoom = interpolate(frame, [0, 150], [1.0, 1.06], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
     easing: Easing.bezier(0.16, 1, 0.3, 1),
@@ -84,11 +81,10 @@ export const Breaking: React.FC<Props> = ({
     extrapolateRight: "clamp",
   });
 
-  // Vignette pulse over runtime — pulls eye to center after image is up.
-  // Trial 2 fix: the V7 amplitude (0.4-0.7 multiply) was too aggressive and
-  // combined with the brightness mask above to bury the hero. Toning down to
-  // 0.18-0.32 — still creates the centerward pull but lets the image breathe.
-  const vignettePulse = 0.18 + 0.14 * Math.sin(frame * 0.06);
+  // V8.1 — vignette pulse off completely. Was burying the hero from corners.
+  // The VideoBackdrop already applies its own inset shadow + overlay; we let
+  // those carry the cinematic edge feel instead.
+  const vignettePulse = 0.0;
 
   return (
     <AbsoluteFill>

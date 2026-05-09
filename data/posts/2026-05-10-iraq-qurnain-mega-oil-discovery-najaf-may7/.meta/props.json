@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "voScript": "العراق يفاجئ السوق. حقل القرنين قرب الحدود السعودية. وزير النفط حيان عبدالغني أعلن اكتشافاً ضخماً يقدّر بـ 8.83 مليار برميل في صحراء النجف. الشركة الصينية تشينهوا حفرت 1,965 متراً، وضخّت 3,248 برميلاً في الاختبار الأول. الاستثمار 1.5 مليار دولار. التصدير سيتجاوز هرمز عبر بانياس وجيهان. هل ينقذ القرنين موازنة الزيدي؟",
+  "breaking": {
+    "arabicKicker": "اكتشاف نفطي ضخم",
+    "arabicHeadline": "العراق يكتشف حقل القرنين بـ 8.8 مليار برميل قرب الحدود السعودية",
+    "englishSubhead": "QURNAIN BLOCK • NAJAF DESERT • 8.83B BBL DISCOVERY",
+    "heroQueries": [
+      "Hayan Abdel Ghani Iraq Oil Minister Baghdad press conference",
+      "Najaf desert oil rig derrick sunrise Iraq",
+      "Iraq oil block map Saudi border Qurnain",
+      "Zhenhua Oil Beijing headquarters Chinese oil exploration",
+      "SOMO Iraq oil licensing round Baghdad ministry"
+    ],
+    "heroMedia": "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاكتشاف",
+      "arabicHeading": "وزير النفط يعلن أكبر اكتشاف عراقي منذ أكثر من عقد",
+      "arabicBody": "دوّى صوت المؤتمر الصحفي في بغداد الخميس. وزير النفط حيان عبدالغني أعلن اكتشاف حقل القرنين في صحراء النجف الجنوبية الغربية. المساحة 8,773 كيلومتراً مربعاً قرب الحدود السعودية في منطقة النخيب. الاحتياطي المؤكد 8 مليار و 830 مليون برميل من النفط الخفيف. الحفر الاستكشافي وصل إلى عمق 1,965 متراً، والاختبار الأولي ضخّ 3,248 برميلاً يومياً. الشركة الصينية تشينهوا أويل تدير العمليات منذ آذار 2025.",
+      "bigStat": {
+        "value": "8.83B",
+        "label": "Barrels of light crude in confirmed reserves",
+        "arabicLabel": "مليار برميل احتياطي"
+      },
+      "supportingStats": [
+        {
+          "label": "مساحة الكتلة",
+          "value": "8,773 كم²"
+        },
+        {
+          "label": "عمق الحفر",
+          "value": "1,965 متراً"
+        },
+        {
+          "label": "إنتاج الاختبار",
+          "value": "3,248 ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_1.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/hero.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_1.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "IRAQ MIN. OF OIL · MAY 7",
+      "subtitlePhrases": [
+        "اكتشاف القرنين: 8.83 مليار برميل",
+        "صحراء النجف تحوّلت إلى منجم",
+        "أكبر اكتشاف منذ أكثر من عقد"
+      ]
+    },
+    {
+      "label": "1.5 مليار دولار",
+      "arabicHeading": "تشينهوا الصينية تستثمر مليار ونصف لتطوير المرحلة الأولى",
+      "arabicBody": "قرقعة معدّات الحفر تتقدّم على الكثبان. الوزير خصّص 1.5 مليار دولار للمرحلة الأولى من تطوير القرنين، تشمل خط جمع، محطة معالجة، وأنبوب فرعي يربط الحقل بشبكة الجنوب. الجيولوجيا تشبه حقل المرجان السعودي وحقل برهان الكويتي، ما يفتح احتمال اكتشافات ثلاثية على الحدود. شركة Petroleum Economist توقّعت رفع الاحتياطي العراقي من 145 إلى 154 مليار برميل، أي خامس أكبر احتياطي عالمي.",
+      "bigStat": {
+        "value": "$1.5B",
+        "label": "Phase 1 development budget by Zhenhua Oil",
+        "arabicLabel": "ميزانية المرحلة الأولى"
+      },
+      "supportingStats": [
+        {
+          "label": "احتياطي عراقي جديد",
+          "value": "154 مليار"
+        },
+        {
+          "label": "ترتيب عالمي",
+          "value": "خامس أكبر"
+        },
+        {
+          "label": "المشغّل",
+          "value": "تشينهوا · صين"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_2.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_1.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_2.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ZHENHUA · NAJAF DESERT",
+      "subtitlePhrases": [
+        "1.5 مليار دولار للمرحلة الأولى",
+        "جيولوجيا تشبه المرجان وبرهان",
+        "العراق يقفز إلى 154 مليار برميل"
+      ]
+    },
+    {
+      "label": "هروب من هرمز",
+      "arabicHeading": "ثلاث منافذ تصدير بديلة عبر بانياس وجيهان والعقبة",
+      "arabicBody": "صفير الأنابيب يتجاوز خناق هرمز. منذ إغلاقه في شباط خسر العراق 80 بالمئة من صادراته البحرية. القرنين سيُصدَّر عبر ميناء بانياس السوري، ميناء جيهان التركي، وميناء العقبة الأردني عبر طريبيل. الحكومة تخطط لرفع الطاقة الخارجة عن هرمز من 250 ألف إلى 1.4 مليون برميل خلال 18 شهراً. الوزير قال نصاً: 'الأهمية تكمن في تسريع المشاريع للإنتاج المستدام'. هل توقّع حكومة الزيدي عقد التطوير قبل عيد الأضحى؟",
+      "bigStat": {
+        "value": "1.4M",
+        "label": "Target bpd bypassing Hormuz within 18 months",
+        "arabicLabel": "ب/ي خارج هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "خسارة هرمز",
+          "value": "80 بالمئة"
+        },
+        {
+          "label": "تصدير اليوم",
+          "value": "250 ألف ب/ي"
+        },
+        {
+          "label": "أفق التحوّل",
+          "value": "18 شهراً"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_3.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_2.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/broll_3.jpg",
+        "images/news/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ENERGY INTEL · MAP",
+      "subtitlePhrases": [
+        "بانياس وجيهان والعقبة بدائل",
+        "1.4 مليون برميل خارج هرمز",
+        "هل ينقذ القرنين موازنة 2026؟"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Euronews Business",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "Türkiye Today",
+      "domain": "turkiyetoday.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Energy Intelligence",
+      "domain": "energyintel.com"
+    },
+    {
+      "name": "Iraq Ministry of Oil",
+      "domain": "oil.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يكتشف حقل القرنين بـ 8.8 مليار برميل قرب الحدود السعودية",
+    "وزير النفط حيان عبدالغني يعلن أكبر اكتشاف عراقي منذ أكثر من عقد",
+    "تشينهوا أويل الصينية تدير العمليات منذ جولة التراخيص الخامسة 2024",
+    "1.5 مليار دولار ميزانية المرحلة الأولى لخط جمع ومحطة معالجة",
+    "الاحتياطي العراقي يقفز من 145 إلى 154 مليار برميل عالمياً",
+    "تصدير عبر بانياس وجيهان والعقبة لتجاوز خناق هرمز المغلق",
+    "هل توقّع حكومة الزيدي عقد التطوير الكامل قبل عيد الأضحى؟"
+  ],
+  "voicePath": "voice/2026-05-10-iraq-qurnain-mega-oil-discovery-najaf-may7.mp3",
+  "voiceDurationSeconds": 31.75,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}

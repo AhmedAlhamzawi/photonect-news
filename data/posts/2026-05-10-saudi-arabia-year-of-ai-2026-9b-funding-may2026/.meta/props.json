@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "tech_ai",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "voScript": "السعودية تعلنها صراحةً. عام 2026 هو عام الذكاء الاصطناعي. مجلس الوزراء برئاسة ولي العهد محمد بن سلمان أقرّ القرار، وأطلق 9.1 مليار دولار استثمارات في 664 شركة. أكبر مركز بيانات حكومي في العالم يُبنى في الرياض. منصة HUMAIN Chat بنموذج علام العربي صارت متاحة لكل سعودي. والعراق على الباب: وزارة الاتصالات وقّعت في آذار اتفاقية لاستخدام علام في الخدمات. هل يصبح علام لغة الذكاء العربية أم يبقى صوت الرياض فقط؟",
+  "breaking": {
+    "arabicKicker": "عام الذكاء العربي",
+    "arabicHeadline": "السعودية تعلن 2026 عام الذكاء الاصطناعي بـ 9.1 مليار دولار",
+    "englishSubhead": "RIYADH • $9.1B AI · 664 COMPANIES · ALLAM ARABIC LLM",
+    "heroQueries": [
+      "HUMAIN Chat Allam Arabic LLM screen Saudi 2026",
+      "Mohammed bin Salman Saudi Crown Prince AI summit",
+      "Saudi data center server hall Riyadh SDAIA",
+      "Riyadh skyline KAFD King Abdullah Financial District",
+      "Saudi Cabinet meeting Royal Court press"
+    ],
+    "heroMedia": "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السنة الجديدة",
+      "arabicHeading": "9.1 مليار دولار و 664 شركة وأكبر مركز بيانات حكومي في العالم",
+      "arabicBody": "في الأسبوع الأول من أيار 2026 أصدر مجلس الوزراء السعودي برئاسة ولي العهد محمد بن سلمان قراراً يُحدّد عام 2026 'عام الذكاء الاصطناعي'. الاستثمارات المعلنة: 9.1 مليار دولار توزّعت على 664 شركة سعودية. أكبر مركز بيانات حكومي في العالم بدأ بناؤه في الرياض في كانون الثاني، وستبلغ طاقته الكهربائية 5 غيغاواط، أي 25 ضعف أكبر مركز خليجي حالي. شركة HUMAIN التابعة للصندوق السيادي PIF تقود الاستراتيجية منذ أيار 2025.",
+      "bigStat": {
+        "value": "$9.1B",
+        "label": "AI investment in 664 companies",
+        "arabicLabel": "استثمار في 664 شركة"
+      },
+      "supportingStats": [
+        {
+          "label": "شركات ممولة",
+          "value": "664"
+        },
+        {
+          "label": "مركز الرياض",
+          "value": "5 غيغاواط"
+        },
+        {
+          "label": "إعلان مجلس الوزراء",
+          "value": "أيار 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_1.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_1.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#C084FC",
+      "brollSource": "HUMAIN · MAY 2026",
+      "subtitlePhrases": [
+        "9.1 مليار دولار للذكاء الاصطناعي",
+        "664 شركة سعودية ضمن الخطة",
+        "مركز بيانات بـ 5 غيغاواط في الرياض"
+      ]
+    },
+    {
+      "label": "علام يصل المستخدم",
+      "arabicHeading": "نموذج 70 مليار معامل يتفوق على ChatGPT-4 في الفقه واللهجات",
+      "arabicBody": "النقطة الفاصلة: HUMAIN Chat المبني على نموذج 'علام' أُطلق 28 نيسان لكل مقيم سعودي. النموذج 7 مليار معامل ثم 70 مليار في النسخة الثانية، تدرّب على 200 مليار رمز عربي. دراسة كاوست تثبت تفوّق علام على ChatGPT-4 في الفقه واللهجات الخليجية والأدب الجاهلي. شراكة Stargate UAE بـ 5 غيغاواط تجمع HUMAIN وOpenAI وOracle وNvidia. الهدف 2030: ثالث مركز ذكاء بعد سيليكون فالي وبكين.",
+      "bigStat": {
+        "value": "200B",
+        "label": "Arabic tokens trained on Allam",
+        "arabicLabel": "رمز عربي في تدريب علام"
+      },
+      "supportingStats": [
+        {
+          "label": "حجم النموذج",
+          "value": "70 مليار معامل"
+        },
+        {
+          "label": "إطلاق HUMAIN Chat",
+          "value": "28 أبريل 2026"
+        },
+        {
+          "label": "هدف 2030",
+          "value": "ثالث مركز عالمي"
+        }
+      ],
+      "broll": "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_2.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_2.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#C084FC",
+      "brollSource": "SAUDI CABINET · ROYAL COURT",
+      "subtitlePhrases": [
+        "علام يتفوق في اختبارات الفقه",
+        "200 مليار رمز عربي للتدريب",
+        "Stargate UAE بـ 5 غيغاواط"
+      ]
+    },
+    {
+      "label": "والعراق",
+      "arabicHeading": "بغداد توقّع علام في 18 آذار وكتلة الإطار تطالب بالبديل الإيراني",
+      "arabicBody": "العراق طرف ثالث. وزارة الاتصالات وقّعت في 18 آذار 2026 مذكرة مع HUMAIN لاستخدام علام في بوابة 'أور' للتسجيل المدني ومنصة الجوازات. المطوّرون العراقيون يحصلون على API مجانية بسقف 100 ألف طلب يومياً، لكن المحتوى خاضع لسياسة HUMAIN السعودية. كتلة الإطار التنسيقي تصف الاتفاق بـ 'تبعية تقنية' وتطالب ببديل إيراني عبر شركة 'متخصص'، فيما يدعمها الديمقراطي الكردستاني وقوى الإصلاح. القرار في يد وزير الاتصالات بحكومة الزيدي.",
+      "bigStat": {
+        "value": "100K",
+        "label": "Free Allam API requests per day",
+        "arabicLabel": "طلب يومي مجاني للعراق"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ المذكرة",
+          "value": "18 مارس 2026"
+        },
+        {
+          "label": "الجهة العراقية",
+          "value": "وزارة الاتصالات"
+        },
+        {
+          "label": "البديل المقترح",
+          "value": "متخصص الإيراني"
+        }
+      ],
+      "broll": "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+      "brolls": [
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_3.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/hero.jpg",
+        "images/news/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#C084FC",
+      "brollSource": "WIKIMEDIA · RIYADH KAFD",
+      "subtitlePhrases": [
+        "بغداد وقّعت اتفاقية علام في آذار",
+        "100 ألف طلب يومي مجاناً للمطورين",
+        "هل تحسم حكومة الزيدي مسار العقد؟"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "House of Saud",
+      "domain": "houseofsaud.com"
+    },
+    {
+      "name": "CIO",
+      "domain": "cio.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Middle East AI News",
+      "domain": "middleeastainews.com"
+    },
+    {
+      "name": "HUMAIN",
+      "domain": "humain.ai"
+    },
+    {
+      "name": "SDAIA",
+      "domain": "sdaia.gov.sa"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تعلن 2026 عام الذكاء الاصطناعي بـ 9.1 مليار دولار",
+    "مجلس الوزراء السعودي برئاسة محمد بن سلمان يقرّ التسمية رسمياً",
+    "664 شركة سعودية ناشئة وقائمة استفادت من خطة عام الذكاء 2026",
+    "أكبر مركز بيانات حكومي بـ 5 غيغاواط يُبنى في الرياض",
+    "منصة HUMAIN Chat بنموذج علام أصبحت متاحة لكل مقيم سعودي اليوم",
+    "العراق وقّع في 18 مارس مذكرة استخدام علام في الخدمات الإلكترونية",
+    "هل يصبح علام لغة الذكاء العربية أم صوت الرياض فقط؟"
+  ],
+  "voicePath": "voice/2026-05-10-saudi-arabia-year-of-ai-2026-9b-funding-may2026.mp3",
+  "voiceDurationSeconds": 35.5,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}

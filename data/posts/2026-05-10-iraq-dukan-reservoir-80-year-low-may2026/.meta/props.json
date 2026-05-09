@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "voScript": "بحيرة دوكان عطشى. الأدنى منذ ثمانين عاماً. مدير السدّ كوشار جمال توفيق أعلن أن الاحتياطي اليوم 1.6 مليار متر مكعب فقط، أي ربع الطاقة الكاملة البالغة سبعة مليارات. السبب: تراجع الأمطار وسدود تركيا الجديدة على نهر الزاب. النتيجة: أربعة ملايين عراقي في السليمانية وكركوك يواجهون شُحّاً في المياه، ومحطة موصل تعمل بنصف قدرتها قبل ذروة الصيف. هل ينقذ سدّ دوكان قبل آب؟",
+  "breaking": {
+    "arabicKicker": "كارثة المياه تنذر",
+    "arabicHeadline": "بحيرة دوكان عند 24 بالمئة فقط — الأدنى منذ 80 عاماً",
+    "englishSubhead": "DUKAN RESERVOIR • 1.6/7 BCM • 80-YEAR LOW",
+    "heroQueries": [
+      "Dukan Dam reservoir Iraq aerial dry shoreline",
+      "Kochar Jamal Tawfeeq Dukan Dam director Kurdistan",
+      "Iraqi farmers cracked Tigris Euphrates river bed drought",
+      "Turkey Ilisu Dam Tigris GAP project upstream",
+      "Sulaymaniyah Iraq drinking water rationing 2026"
+    ],
+    "heroMedia": "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الأدنى منذ 80 عاماً",
+      "arabicHeading": "السدّ يكشف شاطئاً ترابياً عرضه 50 متراً قرب السليمانية",
+      "arabicBody": "صرير شبكات السحب الخرسانية يعلو على الصمت. مدير السدّ كوشار جمال توفيق صرّح أن الاحتياطي اليوم 1.6 مليار متر مكعب فقط، أي 24 بالمئة من الطاقة الكاملة البالغة 7 مليارات. وزارة الموارد المائية وصفت المستوى بأنه الأدنى في 80 عاماً، أي منذ بناء السدّ في عهد الانتداب البريطاني. صور الجزيرة الجوية تظهر شاطئاً ترابياً عرضه 50 متراً وبرج سحب ظاهراً بالكامل بعد أن كان مغموراً.",
+      "bigStat": {
+        "value": "24%",
+        "label": "Dukan reservoir capacity, lowest in 80 years",
+        "arabicLabel": "بالمئة فقط"
+      },
+      "supportingStats": [
+        {
+          "label": "الاحتياطي الحالي",
+          "value": "1.6 مليار م³"
+        },
+        {
+          "label": "الطاقة الكاملة",
+          "value": "7 مليار م³"
+        },
+        {
+          "label": "الأدنى منذ",
+          "value": "80 عاماً"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_1.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "REUTERS · DUKAN AERIAL",
+      "subtitlePhrases": [
+        "دوكان عند 24 بالمئة فقط",
+        "1.6 من 7 مليار متر مكعب",
+        "أدنى مستوى منذ 1946"
+      ]
+    },
+    {
+      "label": "مَن يحبس المياه",
+      "arabicHeading": "سدود تركيا تضغط الزاب وأمطار الإقليم 30 بالمئة فقط",
+      "arabicBody": "زمجرة توربينات إليسو تبتلع تدفق دجلة قبل أن يصل الإقليم. مشروع GAP التركي يضمّ 22 سداً و 19 محطة، أبرزها إليسو الذي اكتمل 2020 ويحتجز 10.4 مليار م³. أمطار 2025-2026 كانت 30 بالمئة فقط من المعدل السنوي. النتيجة: 168 ألف عراقي نزحوا، البصرة فقدت ثلث محصول الرز، أهوار الجنوب ثلثاها يابسة. وحقول كركوك تستخدم مياه دوكان للضخ، وأي تقنين يهدد إنتاج 200 ألف برميل يومياً.",
+      "bigStat": {
+        "value": "30%",
+        "label": "Rainfall in Kurdistan vs annual average",
+        "arabicLabel": "من معدل الأمطار"
+      },
+      "supportingStats": [
+        {
+          "label": "نازحون عراقيون",
+          "value": "168 ألف"
+        },
+        {
+          "label": "إليسو يحتجز",
+          "value": "10.4 مليار م³"
+        },
+        {
+          "label": "إنتاج كركوك مهدد",
+          "value": "200 ألف ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_2.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_2.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "RUDAW · SULAYMANIYAH",
+      "subtitlePhrases": [
+        "تركيا تحبس 10.4 مليار م³",
+        "أمطار الإقليم 30 بالمئة فقط",
+        "168 ألف نازح من الجفاف"
+      ]
+    },
+    {
+      "label": "الصيف على الأبواب",
+      "arabicHeading": "موصل الكهرومائية تنزل لـ 1,000 ميغاواط قبل ذروة الحرّ",
+      "arabicBody": "يصفق الجفاف على ثلاثة جدران دفعةً واحدة. أربعة ملايين شخص في السليمانية وكركوك ودوكان سيدفعون 12 ألف دينار للصهريج. محطة موصل الكهرومائية تعمل اليوم بـ 1,000 ميغاواط بدل 1,500، ما يفاقم العجز المتوقع بـ 27 ألف ميغاواط هذا الصيف. حكومة الزيدي ستتسلّم وزارة المياه والاتفاقية التركية تنتهي في تموز دون ملحق فني. هل تخرج بغداد إلى الشوارع كما حدث في صيف 2018؟",
+      "bigStat": {
+        "value": "27 GW",
+        "label": "Iraq summer 2026 power deficit forecast",
+        "arabicLabel": "عجز الكهرباء"
+      },
+      "supportingStats": [
+        {
+          "label": "متضررون",
+          "value": "4 ملايين"
+        },
+        {
+          "label": "موصل اليوم",
+          "value": "1,000 ميغاواط"
+        },
+        {
+          "label": "اتفاقية أنقرة",
+          "value": "تنتهي تموز"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_3.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_1.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/broll_3.jpg",
+        "images/news/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "WIKIMEDIA · ILISU DAM",
+      "subtitlePhrases": [
+        "4 ملايين شخص بدون مياه آمنة",
+        "موصل تنزل 500 ميغاواط",
+        "هل يكفي سدّ دوكان للصيف؟"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera English",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "Fanack Water",
+      "domain": "water.fanack.com"
+    },
+    {
+      "name": "NASA Earth Observatory",
+      "domain": "science.nasa.gov"
+    },
+    {
+      "name": "UNICEF Iraq",
+      "domain": "unicef.org"
+    },
+    {
+      "name": "KRG Water Resources",
+      "domain": "gov.krd"
+    }
+  ],
+  "arabicTicker": [
+    "بحيرة دوكان عند 24 بالمئة فقط — الأدنى منذ 80 عاماً",
+    "مدير السدّ كوشار جمال توفيق يعلن 1.6 مليار متر مكعب فقط",
+    "صور جوية تظهر شاطئاً ترابياً عرضه 50 متراً وبرج سحب ظاهراً",
+    "سد إليسو التركي يحتجز 10.4 مليار متر مكعب على نهر دجلة",
+    "أمطار كردستان موسم 2025-2026 عند 30 بالمئة فقط من المعدل",
+    "أربعة ملايين شخص في السليمانية وكركوك يواجهون تقنين الشرب",
+    "هل تنقذ بغداد دوكان قبل ذروة آب أم نشهد احتجاجات 2018 جديدة؟"
+  ],
+  "voicePath": "voice/2026-05-10-iraq-dukan-reservoir-80-year-low-may2026.mp3",
+  "voiceDurationSeconds": 30.34,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}

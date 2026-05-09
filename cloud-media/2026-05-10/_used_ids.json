@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-10",
+  "pexels_ids": [],
+  "wikimedia_files": [
+    "Hayyan_Abdul_Ghani.jpg",
+    "Abqaiq_Desert_Oil_Rig_by_Paul_Palmer_2066922864.jpg",
+    "IraqAnNajaf.png",
+    "Iraq_Reservoirs_Plunge_to_Low_Levels_(154874_-_50904_lrg).jpg",
+    "Iraq_Reservoirs_Plunge_to_Low_Levels_(154874_-_00906_lrg).jpg",
+    "Ilısu_Baraj_Havzası.jpg",
+    "Abbas_Araghchi_In_Moscow_(2025).jpg",
+    "Atomanlage_Natanz_(2022).jpg",
+    "NCRI_President-elect_Maryam_Rajavi_-Villepinte_June_2012.jpg",
+    "Rapid_Support_Forces_in_El_Fasher,_2025.png",
+    "Mohamed_Hamdan_Dagalo_2022.jpg",
+    "Foreign_Secretary_David_Lammy_meets_Sudanese_refugees_in_Chad_in_the_border_town_of_Adre_on_24_January_2025_-_1.jpg",
+    "Sudan_Darfur_states.png",
+    "2025_Crown_Prince_and_Prime_Minister_Mohammed_bin_Salman_Al_Saud_of_Saudi_Arabia_on_November_18_(cropped).jpg",
+    "BalticServers_data_center.jpg",
+    "Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg",
+    "Amal_oil_field_from_air.jpg",
+    "Visit_of_Abdul_Hamid_Dbeibah,_Prime_Minister_of_the_Government_of_National_Unity_of_Libya,_to_the_European_Commission_04.jpg"
+  ],
+  "ai_generations": [
+    {"slug": "iraq-qurnain-mega-oil-discovery-najaf-may7", "slot": "broll_3", "taskId": "952109f913ddcdb76433b85e0becca82", "model": "google/nano-banana", "prompt_summary": "Zhenhua Oil exploration crew at Iraqi desert rig at sunrise"},
+    {"slug": "iraq-dukan-reservoir-80-year-low-may2026", "slot": "broll_1", "taskId": "7382bd20c2b6b9695efa425442e4cd5e", "model": "google/nano-banana", "prompt_summary": "Kochar Jamal Tawfeeq, Dukan Dam director, at low-water concrete arch dam"},
+    {"slug": "iran-rainbow-site-tritium-semnan-may9", "slot": "hero", "taskId": "05831b2aba6522a69dede509dc6a7383", "model": "google/nano-banana", "prompt_summary": "Aerial of secret Iranian Rainbow Site nuclear compound in Semnan desert with Diba Energy Siba signage"},
+    {"slug": "saudi-arabia-year-of-ai-2026-9b-funding-may2026", "slot": "hero", "taskId": "439390ea60e9cb3d4036d2106d6ce165", "model": "google/nano-banana", "prompt_summary": "HUMAIN Chat Allam Arabic AI smartphone interface against Riyadh KAFD skyline"},
+    {"slug": "libya-oil-record-1-43mbpd-unified-budget-may2026", "slot": "broll_1", "taskId": "6ffa07c987469c8bff8cf3ba696bdb41", "model": "google/nano-banana", "prompt_summary": "Masoud M. Suleman, Libya NOC Chairman, at refinery"},
+    {"slug": "libya-oil-record-1-43mbpd-unified-budget-may2026", "slot": "broll_3", "taskId": "01d612ff85b1bdafa9941d77d3003f94", "model": "google/nano-banana", "prompt_summary": "TotalEnergies-Chevron-NOC Libya signing ceremony in Tripoli"}
+  ]
+}

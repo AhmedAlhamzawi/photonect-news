@@ -94,6 +94,31 @@ jobs:
           echo "staged $(ls "$SRC" | wc -l) slugs:"
           ls "$DST" | grep "^$DATE_ARG" || true
 
+      - name: Stage V8 voice-over mp3s into my-video/public/voice
+        env:
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          set -e
+          # V8 leap (2026-05-10): VO files are committed inside each post's
+          # .meta/ folder as voice.mp3 (generated locally by
+          # automation/scripts/generate-vo.py before commit). Stage them into
+          # my-video/public/voice/<slug>.mp3 so the composition's
+          # voicePath ("voice/<slug>.mp3") resolves via staticFile().
+          DST="my-video/public/voice"
+          mkdir -p "$DST"
+          STAGED=0
+          for post_dir in data/posts/${DATE_ARG}-*/; do
+            [ -d "$post_dir" ] || continue
+            slug="$(basename "$post_dir")"
+            vo="${post_dir}.meta/voice.mp3"
+            if [ -f "$vo" ]; then
+              cp "$vo" "$DST/${slug}.mp3"
+              STAGED=$((STAGED + 1))
+            fi
+          done
+          echo "staged $STAGED voice-over mp3s"
+          ls "$DST" 2>/dev/null | head -10 || true
+
       - name: Render slate
         env:
           MYVIDEO: ${{ github.workspace }}/my-video

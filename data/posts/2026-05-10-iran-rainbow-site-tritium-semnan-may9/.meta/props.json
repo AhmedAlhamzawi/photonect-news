@@ -1,0 +1,180 @@
+{
+  "dateLabel": "MAY 10 • 2026",
+  "arabicDateLabel": "10 مايو 2026",
+  "handle": "@photonect.news",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "voScript": "إيران أمام كشف جديد. فوكس نيوز نشرت يوم الجمعة 9 أيار صور أقمار صناعية لموقع نووي سرّي في صحراء سمنان وسط إيران. الاسم: قوس قزح. المساحة: 2,500 فدّان. الغطاء: شركة ديبا إنرجي صبا. الأخطر: استخراج التريتيوم لتعزيز الرؤوس النووية. وزير الخارجية عباس عراقجي رفض التقرير ووصفه بدعاية إسرائيلية. مهلة ترامب تنتهي بعد خمسة أيام. هل يقتل هذا الكشف الاتفاق قبل التوقيع؟",
+  "breaking": {
+    "arabicKicker": "كشف نووي إيراني",
+    "arabicHeadline": "فوكس نيوز تكشف موقع قوس قزح النووي الإيراني في سمنان",
+    "englishSubhead": "RAINBOW SITE • SEMNAN • 2,500 ACRES • TRITIUM ALLEGED",
+    "heroQueries": [
+      "Semnan Iran satellite Maxar Rainbow Site nuclear facility",
+      "Abbas Araghchi Iran Foreign Minister Tehran lectern",
+      "Iran nuclear program Natanz Fordow centrifuge IAEA",
+      "NCRI Maryam Rajavi Paris National Council Resistance Iran",
+      "Iran Semnan desert Diba Energy Siba chemical plant"
+    ],
+    "heroMedia": "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكشف",
+      "arabicHeading": "صور أقمار صناعية لمنشأة 2,500 فدّان جنوب طهران",
+      "arabicBody": "يصفر بثٌ مباشر من نيويورك صباح الجمعة 9 أيار. فوكس نيوز كشفت بالتعاون مع NCRI منشأة إيرانية بمساحة 2,500 فدّان أي حوالي 10 كيلومترات مربعة في إقليم سمنان جنوب شرق طهران. اسم الموقع المُسرَّب: قوس قزح. الغطاء المدني المُستخدم منذ أكثر من عشر سنوات: شركة ديبا إنرجي صبا. الادّعاء الأخطر: المنشأة تنتج التريتيوم، وهو نظير مُشعّ يُستخدم لمضاعفة قوة الرؤوس النووية الانشطارية.",
+      "bigStat": {
+        "value": "2,500",
+        "label": "Acres of alleged covert nuclear site in Semnan",
+        "arabicLabel": "فدّان مساحة الموقع"
+      },
+      "supportingStats": [
+        {
+          "label": "تشغيل سرّي",
+          "value": "10+ سنوات"
+        },
+        {
+          "label": "شركة الغطاء",
+          "value": "ديبا إنرجي صبا"
+        },
+        {
+          "label": "الادعاء",
+          "value": "تريتيوم نووي"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_3.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "FOX NEWS · MAXAR · MAY 9",
+      "subtitlePhrases": [
+        "موقع قوس قزح: 2,500 فدّان",
+        "تريتيوم لتعزيز الرؤوس النووية",
+        "شركة ديبا إنرجي صبا الغطاء"
+      ]
+    },
+    {
+      "label": "إيران تردّ",
+      "arabicHeading": "عراقجي يرفض التقرير ويسمّيه دعاية إسرائيلية لإفشال محادثات ترامب",
+      "arabicBody": "تتدفق ردود طهران كرصاص من بُرج. عباس عراقجي بياناً عبر إرنا وصف فيه التقرير بـ 'الكذبة الإسرائيلية المعروفة'. بعثة إيران في نيويورك سمّت NCRI 'منظمة إرهابية لها سجل تزوير وثائق'. لكن السيناتوران ريش وهاجرتي طالبا البيت الأبيض بتعليق صياغة مذكرة 14 نقطة. وكيل خارجية أميركا توم برنون قال: 'الإدارة ستطلب وصول مفتشي IAEA إلى سمنان خلال الأيام القادمة'. الرئيس بزشكيان لم يعلّق رسمياً.",
+      "bigStat": {
+        "value": "14",
+        "label": "MOU points US senators want frozen pending IAEA access",
+        "arabicLabel": "نقطة قيد التجميد"
+      },
+      "supportingStats": [
+        {
+          "label": "موقف عراقجي",
+          "value": "كذبة معروفة"
+        },
+        {
+          "label": "طلب الكونغرس",
+          "value": "تعليق المذكرة"
+        },
+        {
+          "label": "مهلة IAEA",
+          "value": "أيام قليلة"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_1.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_1.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "TASNIM · TEHRAN",
+      "subtitlePhrases": [
+        "عراقجي: كذبة إسرائيلية معروفة",
+        "ريش وهاجرتي يطلبان التعليق",
+        "IAEA على باب سمنان"
+      ]
+    },
+    {
+      "label": "الساعة المعلّقة",
+      "arabicHeading": "خمسة أيام تفصل بين كشف قوس قزح ونهاية مهلة ترامب",
+      "arabicBody": "تكتك الثواني فوق طاولة المفاوضات. مهلة ترامب الأسبوع الواحد تنتهي الخميس 14 أيار، أي بعد خمسة أيام فقط من كشف قوس قزح. ثلاث سيناريوهات: قصف بمستوى أعلى يعبر أجواء الكوت والديوانية، قبول إيراني لفتح سمنان أمام IAEA مقابل رفع العقوبات، أو نقل المفاوضات من مسقط إلى الدوحة. الخارجية العراقية حذّرت من 'أي تصعيد يمسّ وحدة الأجواء العراقية'، والسفارة الأميركية جدّدت تنبيهها الأمني.",
+      "bigStat": {
+        "value": "5",
+        "label": "Days from Rainbow Site reveal to Trump deadline May 14",
+        "arabicLabel": "أيام إلى المهلة"
+      },
+      "supportingStats": [
+        {
+          "label": "نهاية المهلة",
+          "value": "14 مايو"
+        },
+        {
+          "label": "السيناريوهات",
+          "value": "3 خيارات"
+        },
+        {
+          "label": "تحذير بغداد",
+          "value": "5 مايو"
+        }
+      ],
+      "broll": "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_2.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_1.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/broll_2.jpg",
+        "images/news/2026-05-10-iran-rainbow-site-tritium-semnan-may9/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "NCRI · PARIS",
+      "subtitlePhrases": [
+        "خمسة أيام إلى نهاية المهلة",
+        "ضربة أو فتح أو الدوحة",
+        "هل ينهار الاتفاق قبل التوقيع؟"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iran International",
+      "domain": "iranintl.com"
+    },
+    {
+      "name": "DeepNewz",
+      "domain": "deepnewz.com"
+    },
+    {
+      "name": "The Jerusalem Post",
+      "domain": "jpost.com"
+    },
+    {
+      "name": "Xinhua English",
+      "domain": "english.news.cn"
+    },
+    {
+      "name": "Fox News",
+      "domain": "foxnews.com"
+    },
+    {
+      "name": "NCRI Press",
+      "domain": "ncr-iran.org"
+    }
+  ],
+  "arabicTicker": [
+    "فوكس نيوز تكشف موقع قوس قزح النووي الإيراني في سمنان",
+    "صور أقمار صناعية لمنشأة 2,500 فدّان جنوب شرق طهران",
+    "ادّعاء استخراج التريتيوم لمضاعفة قوة الرؤوس النووية الانشطارية",
+    "شركة ديبا إنرجي صبا تعمل غطاءً مدنياً منذ أكثر من 10 سنوات",
+    "عراقجي: 'كذبة إسرائيلية معروفة لإفشال محادثات الترامب النووية'",
+    "ريش وهاجرتي يطلبان تعليق صياغة مذكرة 14 نقطة حتى تحقّق IAEA",
+    "هل ينهار اتفاق ترامب الأسبوع المقبل أم تعبر القنابل أجواء العراق؟"
+  ],
+  "voicePath": "voice/2026-05-10-iran-rainbow-site-tritium-semnan-may9.mp3",
+  "voiceDurationSeconds": 34.13,
+  "voiceVoiceId": "ar-IQ-BasselNeural"
+}
