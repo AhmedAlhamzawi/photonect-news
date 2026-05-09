@@ -128,17 +128,14 @@ const GiantStatStamp: React.FC<{
 };
 
 export const Beat: React.FC<Props> = (props) => {
-  // V8 leap (2026-05-10): when the beat carries a multi-shot brolls[] array,
-  // we render MultiShotBackdrop UNDERNEATH the variant scene and pass the
-  // variant a "no-broll" override so it doesn't try to render its own backdrop
-  // on top. The variant's typography + cards still render in their normal
-  // positions, but the photo behind them now CYCLES every ~2.5s instead of
-  // holding one image for 9s. This is the single biggest perceived change
-  // between V7 and V8 — the slideshow rhythm is broken.
-  //
-  // Trial 2 fix (2026-05-08): when index === 3, also strip bigStat off the
-  // variant scene because the V7 GiantStatStamp overlay (below) takes over.
-  const useMultiShot = !!(props.brolls && props.brolls.length >= 2);
+  // V8 leap (2026-05-10): MultiShotBackdrop temporarily DISABLED.
+  // Remotion 404'd on `/public/images/...` URLs during the Breaking→Beat1
+  // fade transition when MultiShotBackdrop preloaded its 4 shots simultane-
+  // ously. Investigation needed for V8.1 — likely staticFile() URL-resolution
+  // quirk with multiple Img tags loading in the fade-overlap window. For now,
+  // each beat falls back to V6 single-photo Ken Burns. The OTHER V8 features
+  // (voice-over spine, catchy first frame, audio sidechain duck) ship intact.
+  const useMultiShot = false;
 
   // Build the prop object the variant scene receives. Strip backdrop-painting
   // duties when MultiShotBackdrop is in play (the variant should still render
