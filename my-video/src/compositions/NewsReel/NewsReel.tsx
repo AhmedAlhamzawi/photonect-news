@@ -160,8 +160,13 @@ export const NewsReel: React.FC<NewsReelProps> = ({
   // voiceDurationSeconds prop the generator wrote back; if missing, default
   // to total - 90 (so VO ends 3s before the reel ends).
   const VO_START = 24;
+  // Cap VO_END so the downstream interpolate keypoints stay strictly
+  // monotonically increasing. We then add +12 frames for the music swell
+  // and need VO_END + 12 < totalFrames - 45 (the music-hold window).
+  // → VO_END ≤ totalFrames - 60. (Trial 1 used -30 and crashed Remotion's
+  // interpolate with [...,1002,975,...] for VOs >= 33s.)
   const VO_END = voiceDurationSeconds
-    ? Math.min(VO_START + Math.round(voiceDurationSeconds * 30), totalFrames - 30)
+    ? Math.min(VO_START + Math.round(voiceDurationSeconds * 30), totalFrames - 60)
     : totalFrames - 90;
 
   // Strategic SILENCE drop near the climax — V7 pattern preserved.
