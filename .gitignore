@@ -36,3 +36,6 @@ my-video/public/images/news/*/downloaded/
 /tmp/photonect-*
 data/_template/samples/*.mp4
 data/_template/proposals/*.tmp
+
+# ── Git worktrees (isolated workspaces, never committed) ───────
+.worktrees/
