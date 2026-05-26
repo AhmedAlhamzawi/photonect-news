@@ -128,14 +128,18 @@ const GiantStatStamp: React.FC<{
 };
 
 export const Beat: React.FC<Props> = (props) => {
-  // V8 leap (2026-05-10): MultiShotBackdrop temporarily DISABLED.
-  // Remotion 404'd on `/public/images/...` URLs during the Breaking→Beat1
-  // fade transition when MultiShotBackdrop preloaded its 4 shots simultane-
-  // ously. Investigation needed for V8.1 — likely staticFile() URL-resolution
-  // quirk with multiple Img tags loading in the fade-overlap window. For now,
-  // each beat falls back to V6 single-photo Ken Burns. The OTHER V8 features
-  // (voice-over spine, catchy first frame, audio sidechain duck) ship intact.
-  const useMultiShot = false;
+  // V8 leap (2026-05-10): MultiShotBackdrop cycles each beat through its
+  // brolls[] at ~2.5s/cut with per-shot Ken Burns. Cuts every 2.5s instead
+  // of 9s holds — the pattern every world-class news short-form reel uses.
+  //
+  // V8.1 (2026-05-26): re-enabled after May 10 disable. The original disable
+  // was triggered by a Remotion 404 during the Breaking→Beat1 fade transition
+  // that was suspected to be a staticFile() URL-resolution race with multiple
+  // concurrent Img preloads. Re-reproduction under Remotion 4.0.448 + the
+  // current TransitionSeries fade (12-frame overlap) does NOT trigger the
+  // bug — fade boundary + mid-beat crossfade frames render cleanly. Bug was
+  // likely a transient in older Remotion or browser-session-specific.
+  const useMultiShot = true;
 
   // Build the prop object the variant scene receives. Strip backdrop-painting
   // duties when MultiShotBackdrop is in play (the variant should still render
