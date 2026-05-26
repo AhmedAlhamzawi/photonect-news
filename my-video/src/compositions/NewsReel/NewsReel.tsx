@@ -137,98 +137,28 @@ export const NewsReel: React.FC<NewsReelProps> = ({
   beats,
   sources,
   arabicTicker,
-  voicePath,
-  voiceDurationSeconds,
 }) => {
   const BEAT_DURATIONS = [BEAT_FRAMES, BEAT_FRAMES, BEAT3_FRAMES];
   const frame = useCurrentFrame();
   const totalFrames = computeNewsReelDurationInFrames();
   const activeVariant = resolveVariant(variant, topicBucket);
 
-  // V8 leap audio architecture (2026-05-10) — voice-over is now the spine.
-  // Layers:
-  //   - VO at full volume 1.0 (the dominant speech track, ar-IQ-BasselNeural)
-  //   - Music BED ducked to 0.18 while VO speaks, swelling to 0.55 between
-  //     VO start and end OR after VO ends
-  //   - Silence drop at climax preserved (V7 pattern), runs INSIDE the VO
-  //     duration so VO + silence at the same moment doubles the impact
-  //   - Loop-hook cold-cut at end preserved
-  //
-  // Frame math: BREAKING(150) + BEAT(270) + BEAT(270) + BEAT3(240) + SOURCES(90) = 1020 frames.
-  // ASSUMPTION: VO starts ~frame 24 (just after the cold-open hero settles)
-  // and ends roughly when the VO mp3 ends. We compute VO_END from the
-  // voiceDurationSeconds prop the generator wrote back; if missing, default
-  // to total - 90 (so VO ends 3s before the reel ends).
-  const VO_START = 24;
-  // Cap VO_END so the downstream interpolate keypoints stay strictly
-  // monotonically increasing. We then add +12 frames for the music swell
-  // and need VO_END + 12 < totalFrames - 45 (the music-hold window).
-  // → VO_END ≤ totalFrames - 60. (Trial 1 used -30 and crashed Remotion's
-  // interpolate with [...,1002,975,...] for VOs >= 33s.)
-  const VO_END = voiceDurationSeconds
-    ? Math.min(VO_START + Math.round(voiceDurationSeconds * 30), totalFrames - 60)
-    : totalFrames - 90;
-
-  // Strategic SILENCE drop near the climax — V7 pattern preserved.
-  const SILENCE_START = BREAKING_FRAMES + BEAT_FRAMES * 2 + 60;          // ~26s
-  const SILENCE_END   = SILENCE_START + 30;                              // 1.0s mute
-  const REENTRY_END   = SILENCE_END + 20;                                // 0.67s reentry
-
-  // Music volume curve — ducked under VO, swells when VO is silent (between
-  // sections / after VO ends), full silence drop at climax.
+  // V9 (2026-05-26) — VO removed. Ahmed: "I don't need the voice over kill it."
+  // Clean music bed: ramp in at start, hold at 0.55, cold-cut at the end.
+  // No ducking, no sidechain — pure cinematic news-music feel.
   const audioVolume = interpolate(
     frame,
-    [
-      0,                            // music starts immediately
-      18,                           // ramps to 0.45 by frame 18
-      VO_START - 4,                 // start ducking just before VO enters
-      VO_START + 4,                 // ducked under VO at 0.18
-      SILENCE_START - 8,            // start ducking deeper toward silence
-      SILENCE_START,                // full mute
-      SILENCE_END,                  // hold mute
-      REENTRY_END,                  // climb back to 0.18 (still ducked, VO still going)
-      VO_END - 4,                   // begin swell as VO ends
-      VO_END + 12,                  // music takes the floor at 0.55
-      totalFrames - 45,             // hold through resolution
-      totalFrames - 5,              // cold-cut for loop-hook
-      totalFrames,
-    ],
-    [0, 0.45, 0.45, 0.18, 0.18, 0.02, 0.02, 0.18, 0.18, 0.55, 0.55, 0.55, 0],
+    [0, 18, totalFrames - 45, totalFrames - 5],
+    [0, 0.55, 0.55, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
 
-  // VO volume — comes in fast, holds at 1.0 (full output), exits cleanly with
-  // the VO mp3's natural tail (edge-tts mp3s end with ~150ms of silence).
-  const voiceVolume = voicePath
-    ? interpolate(
-        frame,
-        [VO_START - 6, VO_START, VO_END, VO_END + 12],
-        [0, 1, 1, 0],
-        { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
-      )
-    : 0;
-
   const bedPath = pickAudioBed(audioBed, topicBucket);
   const audioSrc = bedPath.startsWith("http") ? bedPath : staticFile(bedPath);
-  const voiceSrc = voicePath
-    ? voicePath.startsWith("http") ? voicePath : staticFile(voicePath)
-    : null;
 
   return (
     <AbsoluteFill style={{ background: PHOTONECT.ink }}>
       <Audio src={audioSrc} volume={audioVolume} />
-      {voiceSrc && (
-        <Audio
-          src={voiceSrc}
-          volume={voiceVolume}
-          startFrom={0}
-          // Music bed plays from frame 0; VO starts at VO_START. We use Sequence
-          // semantics via the audio's natural offset by trimming with startFrom=0
-          // and relying on volume=0 for the leading frames. Cleaner than wrapping
-          // the Audio in a delayed Sequence because the Sequence would also
-          // affect the surrounding TransitionSeries timeline.
-        />
-      )}
 
       <BackgroundPulse />
       <DotGrid />

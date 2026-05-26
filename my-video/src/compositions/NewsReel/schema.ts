@@ -95,14 +95,6 @@ export const NewsReelSchema = z.object({
   audioBed: z.string().optional(),
   variant: z.enum(VARIANT_VALUES).optional(),
   topicBucket: z.enum(TOPIC_BUCKETS).optional(),
-  // V8 leap (2026-05-10) — voice-over fields. All optional so existing posts
-  // still validate. When voScript is present, generate-vo.py produces
-  // voice.mp3 in the slug's .meta/ folder; voicePath + voiceDurationSeconds
-  // get written back so the composition can sync visuals to VO timing.
-  voScript: z.string().optional(),
-  voicePath: z.string().optional(),
-  voiceDurationSeconds: z.number().optional(),
-  voiceVoiceId: z.string().optional(),
   breaking: z.object({
     arabicKicker: z.string().default("عاجل"),
     arabicHeadline: z.string(),
@@ -120,11 +112,13 @@ export type BeatProps = z.infer<typeof Beat>;
 export type BigStatProps = z.infer<typeof BigStat>;
 export type SourceProps = z.infer<typeof Source>;
 
-// V4 timing retained. Each beat gets ~9s for readability per Ahmed's mandate.
-// Breaking 150f (5s) + Beat 270f ×2 + Beat3 240f + Sources 90f = 1020f @ 30fps = 34s.
+// V9 (2026-05-26) — Ahmed feedback: "the video is fast, I can't read the context."
+// Extended every beat from 9s → 13s for Arabic body-text readability.
+// Breaking 150f (5s) + Beat 390f ×3 + Sources 90f = 1410f @ 30fps = 47s.
+// MultiShotBackdrop still cycles 4 shots/beat at 97.5f each (3.25s/shot).
 export const BREAKING_FRAMES = 150;
-export const BEAT_FRAMES = 270;
-export const BEAT3_FRAMES = 240;
+export const BEAT_FRAMES = 390;
+export const BEAT3_FRAMES = 390;
 export const SOURCES_FRAMES = 90;
 
 export const computeNewsReelDurationInFrames = () =>

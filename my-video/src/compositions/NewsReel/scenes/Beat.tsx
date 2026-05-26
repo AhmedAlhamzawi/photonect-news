@@ -1,11 +1,10 @@
 import React from "react";
-import { AbsoluteFill, useCurrentFrame, interpolate, spring, useVideoConfig, Easing } from "remotion";
+import { AbsoluteFill, useCurrentFrame, interpolate, spring, useVideoConfig } from "remotion";
 import type { BeatProps, VariantName } from "../schema";
 import { BeatA } from "./BeatA";
 import { BeatB } from "./BeatB";
 import { BeatC } from "./BeatC";
 import { SourceChip } from "../components/SourceChip";
-import { SubtitleBar } from "../components/SubtitleBar";
 import { MultiShotBackdrop } from "../components/MultiShotBackdrop";
 import { PHOTONECT } from "../../PhotonectBrandReel/brand";
 
@@ -15,14 +14,12 @@ type Props = BeatProps & {
   variant: VariantName;
 };
 
-// V7 leap dispatcher — wraps the variant-specific Beat scene with two new
-// overlays applied to ALL beats:
+// V9 (2026-05-26) dispatcher — wraps the variant-specific Beat scene.
+// SubtitleBar removed: was paired with VO (killed V9). Without VO it's noise.
 //
+// Overlays applied to ALL beats:
 //   1. SourceChip (lower-left) — persistent attribution chip showing the
 //      broll's source. Pattern from Vox/C4/Reuters: credibility as design.
-//
-//   2. SubtitleBar (bottom 96px) — phrase-by-phrase Arabic caption bar.
-//      Pattern from BBC/Vice: sound-off design system.
 //
 // AND: when index === 3 (the climax beat), an extra GiantStatStamp overlay
 // kicks in around 60% through the beat. Pattern from Bloomberg/Vox: the
@@ -195,10 +192,6 @@ export const Beat: React.FC<Props> = (props) => {
       <AbsoluteFill style={{ opacity: useMultiShot ? 0.92 : 1 }}>
         {scene}
       </AbsoluteFill>
-      <SubtitleBar
-        phrases={props.subtitlePhrases}
-        durationFrames={props.durationFrames}
-      />
       <SourceChip
         source={props.brollSource}
         durationFrames={props.durationFrames}
