@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""V8 leap (2026-05-10) — generate Arabic voice-over per reel via edge-tts.
+"""DEPRECATED — V9 (2026-05-26). Voice-over killed per Ahmed feedback:
+"I don't need the voice over kill it … it's not synced.. not iraqi."
+VO fields (voScript / voicePath / voiceDurationSeconds) removed from schema.
+This script is kept for reference only — it should NOT be called.
+
+V8 leap (2026-05-10) — generate Arabic voice-over per reel via edge-tts (ARCHIVED).
 
 For each post folder under data/posts/<date>-* the script:
   1. Reads .meta/props.json
