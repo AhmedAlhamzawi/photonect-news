@@ -20,7 +20,7 @@ if [ -z "$SLUG" ]; then
 fi
 
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-MYVIDEO="${MYVIDEO:-$HOME/Desktop/Claude <> Ahmed - 2nd Brain/Photonect/my-video}"
+MYVIDEO="${MYVIDEO:-$ROOT/my-video}"
 PROPS="$ROOT/data/posts/$SLUG/.meta/props.json"
 
 case "$VARIANT" in
