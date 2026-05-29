@@ -1,0 +1,148 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "هدنة على الحافة",
+    "arabicHeadline": "هدنة لبنان تُمدَّد 45 يوماً وسط خروقات متصاعدة",
+    "englishSubhead": "LEBANON TRUCE EXTENDED 45 DAYS • ISRAEL-HEZBOLLAH CLASHES RISE",
+    "heroMedia": "images/news/2026-05-29-lebanon-ceasefire-brink/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التمديد",
+      "arabicHeading": "تمديد الهدنة 45 يوماً بوساطة أمريكية",
+      "arabicBody": "مُدِّدت الهدنة بين إسرائيل ولبنان 45 يوماً في 15 مايو، عقب هدنة عشرة أيام رعاها ترامب في أبريل، لكنها تبقى هشّة، وفق Council on Foreign Relations.",
+      "bigStat": {
+        "value": "45",
+        "label": "يوماً تمديد الهدنة",
+        "arabicLabel": "يوماً تمديد الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "التمديد",
+          "value": "15 مايو"
+        },
+        {
+          "label": "هدنة ترامب",
+          "value": "أبريل"
+        },
+        {
+          "label": "الوضع",
+          "value": "هشّ"
+        }
+      ],
+      "broll": "images/news/2026-05-29-lebanon-ceasefire-brink/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_3.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/hero.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_1.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "COUNCIL ON FOREIGN RELATIONS • 2026"
+    },
+    {
+      "label": "الخروقات",
+      "arabicHeading": "الجيش اللبناني ينهي المرحلة الأولى لنزع السلاح",
+      "arabicBody": "أعلن الجيش إتمام المرحلة الأولى من نزع سلاح حزب الله، فيما تتصاعد الغارات الإسرائيلية والردود المتبادلة، وفق ABC News والأمم المتحدة.",
+      "bigStat": {
+        "value": "1",
+        "label": "أولى مراحل نزع السلاح",
+        "arabicLabel": "أولى مراحل نزع السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "الجيش",
+          "value": "أنهى المرحلة 1"
+        },
+        {
+          "label": "الغارات",
+          "value": "تتصاعد"
+        },
+        {
+          "label": "النزوح",
+          "value": "مستمر"
+        }
+      ],
+      "broll": "images/news/2026-05-29-lebanon-ceasefire-brink/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_1.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_2.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_3.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ABC NEWS / UN NEWS • 2026"
+    },
+    {
+      "label": "تحوّل سوري",
+      "arabicHeading": "الشرع يدعم نزع سلاح حزب الله",
+      "arabicBody": "الرئيس السوري أحمد الشرع يساند بيروت، وقد اعترضت دمشق شحنة صواريخ دقيقة من إيران إلى الحزب — تحوّل لافت، وفق The Washington Institute.",
+      "bigStat": {
+        "value": "0",
+        "label": "تهاون سوري مع تهريب السلاح",
+        "arabicLabel": "تهاون سوري مع تهريب السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرع",
+          "value": "يدعم بيروت"
+        },
+        {
+          "label": "دمشق",
+          "value": "اعترضت صواريخ"
+        },
+        {
+          "label": "المصدر",
+          "value": "إيران"
+        }
+      ],
+      "broll": "images/news/2026-05-29-lebanon-ceasefire-brink/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_2.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_3.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/hero.jpg",
+        "images/news/2026-05-29-lebanon-ceasefire-brink/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "THE WASHINGTON INSTITUTE • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Council on Foreign Relations",
+      "domain": "cfr.org"
+    },
+    {
+      "name": "The Washington Institute",
+      "domain": "washingtoninstitute.org"
+    },
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    },
+    {
+      "name": "ABC News",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "هدنة لبنان تُمدَّد 45 يوماً وسط خروقات متصاعدة",
+    "الجيش اللبناني ينهي المرحلة الأولى من نزع السلاح",
+    "تصاعد الغارات الإسرائيلية رغم الهدنة",
+    "الرئيس السوري الشرع يدعم نزع سلاح حزب الله",
+    "دمشق تعترض شحنة صواريخ إيرانية إلى الحزب"
+  ]
+}

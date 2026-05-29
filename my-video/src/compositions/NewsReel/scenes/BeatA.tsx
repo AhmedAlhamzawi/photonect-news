@@ -16,6 +16,7 @@ import {
 type Props = BeatProps & {
   index: number;
   durationFrames: number;
+  hideBackdrop?: boolean;
 };
 
 // V6 — Variant A MONEY-SHOT (2026-04-22)
@@ -42,47 +43,50 @@ export const BeatA: React.FC<Props> = ({
   accent,
   index,
   durationFrames,
+  hideBackdrop,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const a = accent ?? PHOTONECT.signal;
 
-  // Reveal schedule — each layer arrives in sequence so the eye can follow.
+  // V10 reveal schedule — COMPRESSED so all text lands by ~frame 95 (3.2s) then
+  // holds for the rest of the 15s beat. Ahmed: "the speed to show it is too fast,
+  // I can't read the facts." Earlier reveal = longer readable hold.
   const labelReveal = spring({ frame, fps, config: { damping: 16 } });
   const slamIn = spring({
-    frame: frame - 12,
+    frame: frame - 6,
     fps,
     config: { damping: 9, stiffness: 140, mass: 0.9 },
   });
   const slamTY = (1 - slamIn) * -36;
 
-  // Count-up
-  const { numPart, suffix, prefix } = parseStat(bigStat?.value);
-  const countProg = interpolate(frame, [18, 58], [0, 1], {
+  // Count-up — preserves decimals (V10.1: was Math.round, which turned 1.75→2)
+  const { numPart, suffix, prefix, decimals } = parseStat(bigStat?.value);
+  const countProg = interpolate(frame, [10, 34], [0, 1], {
     easing: Easing.bezier(0.22, 1, 0.36, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
-  const countNum = numPart != null ? Math.round(numPart * countProg) : null;
+  const countVal = numPart != null ? numPart * countProg : null;
   const displayedStat = bigStat
-    ? countNum != null
-      ? `${prefix}${formatWithSeparators(countNum, numPart!)}${suffix}`
+    ? countVal != null
+      ? `${prefix}${formatStatNumber(countVal, decimals)}${suffix}`
       : bigStat.value
     : "";
 
   const headingReveal = spring({
-    frame: frame - 56,
+    frame: frame - 28,
     fps,
     config: { damping: 18, stiffness: 110 },
   });
 
-  const bodyReveal = interpolate(frame, [90, 120], [0, 1], {
+  const bodyReveal = interpolate(frame, [44, 70], [0, 1], {
     easing: Easing.bezier(0.22, 1, 0.36, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
 
-  const pillsReveal = interpolate(frame, [130, 170], [0, 1], {
+  const pillsReveal = interpolate(frame, [74, 98], [0, 1], {
     easing: Easing.bezier(0.22, 1, 0.36, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
@@ -104,13 +108,15 @@ export const BeatA: React.FC<Props> = ({
 
   return (
     <AbsoluteFill>
-      <VideoBackdrop
-        src={broll}
-        type={brollType}
-        accent={a}
-        intensity="hero"
-        durationFrames={durationFrames}
-      />
+      {!hideBackdrop && (
+        <VideoBackdrop
+          src={broll}
+          type={brollType}
+          accent={a}
+          intensity="hero"
+          durationFrames={durationFrames}
+        />
+      )}
 
       {/* Dark scrim below for body/pills legibility — bottom 42% of canvas */}
       <AbsoluteFill
@@ -223,7 +229,7 @@ export const BeatA: React.FC<Props> = ({
                 fontWeight: 700,
                 fontSize: 26,
                 color: PHOTONECT.paper,
-                opacity: Math.max(0, interpolate(frame, [44, 64], [0, 0.92])),
+                opacity: Math.max(0, interpolate(frame, [26, 44], [0, 0.92])),
                 marginTop: 6,
                 textAlign: "right",
                 maxWidth: STAT_MAX_WIDTH,
@@ -284,7 +290,7 @@ export const BeatA: React.FC<Props> = ({
             }}
           >
             {supportingStats.slice(0, 3).map((s, i) => (
-              <StatPill key={i} label={s.label} value={s.value} accent={a} startFrame={130 + i * 4} frame={frame} />
+              <StatPill key={i} label={s.label} value={s.value} accent={a} startFrame={74 + i * 4} frame={frame} />
             ))}
           </div>
         )}
@@ -358,19 +364,23 @@ const StatPill: React.FC<{ label: string; value: string; accent: string; startFr
 };
 
 export function parseStat(value: string | undefined) {
-  if (!value) return { numPart: null as number | null, prefix: "", suffix: "" };
-  const m = /^([^\d\-]*)([\d,.]+)(.*)$/.exec(value.trim());
-  if (!m) return { numPart: null, prefix: "", suffix: "" };
+  if (!value) return { numPart: null as number | null, prefix: "", suffix: "", decimals: 0 };
+  const m = value.trim().match(/^([^\d\-]*)([\d,.]+)(.*)$/);
+  if (!m) return { numPart: null, prefix: "", suffix: "", decimals: 0 };
   const raw = m[2].replace(/,/g, "");
   const num = parseFloat(raw);
-  if (!isFinite(num)) return { numPart: null, prefix: "", suffix: "" };
-  return { numPart: num, prefix: m[1] || "", suffix: m[3] || "" };
+  if (!isFinite(num)) return { numPart: null, prefix: "", suffix: "", decimals: 0 };
+  const dot = raw.indexOf(".");
+  const decimals = dot >= 0 ? raw.length - dot - 1 : 0;
+  return { numPart: num, prefix: m[1] || "", suffix: m[3] || "", decimals };
 }
 
-function formatWithSeparators(n: number, original: number) {
-  const hasDecimal = !Number.isInteger(original);
-  if (hasDecimal && n < 100) return n.toFixed(1);
-  return n.toLocaleString("en-US");
+// V10.1 — count-up formatter that PRESERVES the original's decimal places.
+// Previously Math.round turned "$1.75T" -> "$2.0T" and "$1.25T" -> "$1.0T".
+// Ints get thousands separators; decimals keep their exact precision.
+export function formatStatNumber(n: number, decimals: number) {
+  if (decimals > 0) return n.toFixed(decimals);
+  return Math.round(n).toLocaleString("en-US");
 }
 
 // Re-export StatPill so BeatB and BeatC can share one visual vocabulary.

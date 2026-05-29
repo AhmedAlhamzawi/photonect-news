@@ -1,0 +1,148 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "حرب منسيّة",
+    "arabicHeadline": "السودان في عامه الرابع: 14 مليون نازح ومجاعة مؤكدة",
+    "englishSubhead": "SUDAN ENTERS YEAR 4 • 14M DISPLACED • FAMINE CONFIRMED IN DARFUR",
+    "heroMedia": "images/news/2026-05-29-sudan-famine-year4/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكارثة",
+      "arabicHeading": "أكبر أزمة نزوح في العالم تدخل عامها الرابع",
+      "arabicBody": "دخلت حرب السودان عامها الرابع لتصبح أكبر أزمة إنسانية ونزوح بالعالم؛ نزح 14 مليوناً، عبر 4.4 مليون منهم الحدود، وفق UN News.",
+      "bigStat": {
+        "value": "14M",
+        "label": "نازح — أكبر أزمة نزوح بالعالم",
+        "arabicLabel": "نازح — أكبر أزمة نزوح بالعالم"
+      },
+      "supportingStats": [
+        {
+          "label": "النازحون",
+          "value": "14 مليون"
+        },
+        {
+          "label": "عبر الحدود",
+          "value": "4.4 مليون"
+        },
+        {
+          "label": "الحرب",
+          "value": "4 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-05-29-sudan-famine-year4/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-sudan-famine-year4/broll_1.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/hero.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_2.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "UN NEWS • 2026"
+    },
+    {
+      "label": "المجاعة",
+      "arabicHeading": "المجاعة مؤكدة في دارفور وكردفان",
+      "arabicBody": "أكّدت المنظمات الأممية المجاعة في دارفور وكردفان حيث أعنف القتال؛ وحرب إيران رفعت أسعار الوقود 24% ففاقمت الجوع، وفق Arab News.",
+      "bigStat": {
+        "value": "+24%",
+        "label": "ارتفاع أسعار الوقود يفاقم الجوع",
+        "arabicLabel": "ارتفاع أسعار الوقود يفاقم الجوع"
+      },
+      "supportingStats": [
+        {
+          "label": "المجاعة",
+          "value": "دارفور وكردفان"
+        },
+        {
+          "label": "الوقود",
+          "value": "+24%"
+        },
+        {
+          "label": "الغذاء",
+          "value": "يرتفع"
+        }
+      ],
+      "broll": "images/news/2026-05-29-sudan-famine-year4/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-sudan-famine-year4/broll_2.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_1.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_3.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ARAB NEWS / NPR • 2026"
+    },
+    {
+      "label": "صمت دولي",
+      "arabicHeading": "العالم يتخاذل والتمويل الإغاثي ينهار",
+      "arabicBody": "حذّر مسؤول الإغاثة الأممي من تخاذل العالم مع دخول الحرب عامها الرابع؛ التمويل يتعثّر ودول عدة منخرطة في الصراع، وفق Brookings.",
+      "bigStat": {
+        "value": "4",
+        "label": "سنوات حرب دون أفق للحل",
+        "arabicLabel": "سنوات حرب دون أفق للحل"
+      },
+      "supportingStats": [
+        {
+          "label": "التمويل",
+          "value": "متعثّر"
+        },
+        {
+          "label": "الانخراط",
+          "value": "إقليمي"
+        },
+        {
+          "label": "الأفق",
+          "value": "غائب"
+        }
+      ],
+      "broll": "images/news/2026-05-29-sudan-famine-year4/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-sudan-famine-year4/broll_3.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_2.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/hero.jpg",
+        "images/news/2026-05-29-sudan-famine-year4/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "BROOKINGS / CFR • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "domain": "cfr.org"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Brookings",
+      "domain": "brookings.edu"
+    }
+  ],
+  "arabicTicker": [
+    "السودان في عامه الرابع: 14 مليون نازح ومجاعة مؤكدة",
+    "4.4 مليون سوداني عبروا الحدود هرباً من الحرب",
+    "المجاعة مؤكدة في دارفور وكردفان",
+    "حرب إيران ترفع أسعار الوقود 24% وتفاقم الجوع",
+    "الأمم المتحدة: العالم يتخاذل عن نجدة السودان"
+  ]
+}

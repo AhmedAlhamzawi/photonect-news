@@ -11,11 +11,12 @@ import {
   PLATFORM_SAFE,
   adaptiveFontSize,
 } from "../safeArea";
-import { parseStat, BeatStatPill } from "./BeatA";
+import { parseStat, BeatStatPill, formatStatNumber } from "./BeatA";
 
 type Props = BeatProps & {
   index: number;
   durationFrames: number;
+  hideBackdrop?: boolean;
 };
 
 // V6 — Variant B KINETIC SPLIT (2026-04-22)
@@ -35,6 +36,7 @@ export const BeatB: React.FC<Props> = ({
   accent,
   index,
   durationFrames,
+  hideBackdrop,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -42,14 +44,16 @@ export const BeatB: React.FC<Props> = ({
 
   const labelReveal = spring({ frame, fps, config: { damping: 16 } });
 
+  // V10 — compressed word-slam + earlier body/pills so the bottom-half text
+  // lands fast and holds. Ahmed: "too fast, I can't read the facts."
   const words = arabicHeading.split(/\s+/).filter(Boolean);
-  const WORD_STEP = 5;
-  const wordStart = 12;
+  const WORD_STEP = 3;
+  const wordStart = 8;
   const headingEndFrame = wordStart + words.length * WORD_STEP;
 
-  const statRevealFrame = 20;
-  const bodyRevealFrame = headingEndFrame + 10;
-  const pillsRevealFrame = bodyRevealFrame + 24;
+  const statRevealFrame = 12;
+  const bodyRevealFrame = headingEndFrame + 6;
+  const pillsRevealFrame = bodyRevealFrame + 16;
 
   // 2026-05-03: Ahmed feedback "make it bigger by ~15%". With heading caps
   // tightened to 1 short sentence and body caps cut to 55-90w, the shorter
@@ -73,13 +77,15 @@ export const BeatB: React.FC<Props> = ({
           overflow: "hidden",
         }}
       >
-        <VideoBackdrop
-          src={broll}
-          type={brollType}
-          accent={a}
-          intensity="hero"
-          durationFrames={durationFrames}
-        />
+        {!hideBackdrop && (
+          <VideoBackdrop
+            src={broll}
+            type={brollType}
+            accent={a}
+            intensity="hero"
+            durationFrames={durationFrames}
+          />
+        )}
 
         {/* Lower-third scrim in top half (so stat reads over broll) */}
         <div
@@ -313,12 +319,9 @@ export const BeatB: React.FC<Props> = ({
 };
 
 function animatedStat(value: string, frame: number, startFrame: number) {
-  const { numPart, prefix, suffix } = parseStat(value);
+  const { numPart, prefix, suffix, decimals } = parseStat(value);
   if (numPart == null) return value;
   const prog = Math.max(0, Math.min(1, (frame - startFrame) / 36));
   const ease = 1 - Math.pow(1 - prog, 3);
-  const n = Math.round(numPart * ease);
-  const hasDecimal = !Number.isInteger(numPart);
-  const formatted = hasDecimal && n < 100 ? n.toFixed(1) : n.toLocaleString("en-US");
-  return `${prefix}${formatted}${suffix}`;
+  return `${prefix}${formatStatNumber(numPart * ease, decimals)}${suffix}`;
 }

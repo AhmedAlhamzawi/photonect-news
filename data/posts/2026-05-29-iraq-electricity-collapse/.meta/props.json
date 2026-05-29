@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "انهيار الكهرباء",
+    "arabicHeadline": "العراق نحو صيف بلا كهرباء.. عجز 11 ألف ميغاواط",
+    "englishSubhead": "IRAQ SUMMER GRID CRISIS • 40GW DEMAND vs 29GW SUPPLY • IRAN GAS CUT",
+    "heroMedia": "images/news/2026-05-29-iraq-electricity-collapse/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "العجز",
+      "arabicHeading": "الطلب 40 ألف ميغاواط والإنتاج 29 فقط",
+      "arabicBody": "مع اشتداد الحر يواجه العراق أسوأ عجز كهربائي منذ سنوات؛ الطلب الصيفي 40 ألف ميغاواط مقابل إنتاج 29 ألفاً، وفق Shafaq News.",
+      "bigStat": {
+        "value": "11",
+        "label": "ألف ميغاواط فجوة الكهرباء",
+        "arabicLabel": "ألف ميغاواط فجوة الكهرباء"
+      },
+      "supportingStats": [
+        {
+          "label": "الطلب الصيفي",
+          "value": "40 ألف م.و"
+        },
+        {
+          "label": "الإنتاج الحالي",
+          "value": "29 ألف م.و"
+        },
+        {
+          "label": "العجز",
+          "value": "11 ألف م.و"
+        }
+      ],
+      "broll": "images/news/2026-05-29-iraq-electricity-collapse/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_1.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/hero.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_2.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SHAFAQ NEWS • MAY 2026"
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "ضربات إيران تقطع الغاز وتُسقط 3 آلاف ميغاواط",
+      "arabicBody": "بعد الضربات على حقل بارس الجنوبي في فبراير، توقف الغاز الإيراني فجأة، ففقدت الشبكة أكثر من 3 آلاف ميغاواط، وفق Human Rights Watch.",
+      "bigStat": {
+        "value": "3,000",
+        "label": "ميغاواط فُقدت بقطع الغاز",
+        "arabicLabel": "ميغاواط فُقدت بقطع الغاز"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز إيران",
+          "value": "مقطوع"
+        },
+        {
+          "label": "الفاقد الفوري",
+          "value": "3000+ م.و"
+        },
+        {
+          "label": "منذ",
+          "value": "فبراير 2026"
+        }
+      ],
+      "broll": "images/news/2026-05-29-iraq-electricity-collapse/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_3.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_1.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_2.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "HUMAN RIGHTS WATCH • 2026"
+    },
+    {
+      "label": "الشارع",
+      "arabicHeading": "الغضب يعود إلى الشوارع مع طول التقنين",
+      "arabicBody": "خرج محتجون يقطعون الطرق ويحرقون الإطارات اعتراضاً على ساعات التقنين الطويلة؛ والصيف الحارق ينذر بموجة احتجاج أوسع، وفق Al Jazeera.",
+      "bigStat": {
+        "value": "50°",
+        "label": "ذروة الحرارة الصيفية",
+        "arabicLabel": "ذروة الحرارة الصيفية"
+      },
+      "supportingStats": [
+        {
+          "label": "احتجاجات",
+          "value": "قطع طرق"
+        },
+        {
+          "label": "التقنين",
+          "value": "ساعات طويلة"
+        },
+        {
+          "label": "الخطر",
+          "value": "تصعيد صيفي"
+        }
+      ],
+      "broll": "images/news/2026-05-29-iraq-electricity-collapse/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_2.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_3.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/hero.jpg",
+        "images/news/2026-05-29-iraq-electricity-collapse/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "AL JAZEERA / THE NATIONAL • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Human Rights Watch",
+      "domain": "hrw.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق نحو صيف بلا كهرباء.. عجز 11 ألف ميغاواط",
+    "الطلب الصيفي 40 ألف ميغاواط مقابل إنتاج 29 ألفاً",
+    "قطع الغاز الإيراني أسقط 3 آلاف ميغاواط من الشبكة",
+    "محتجون يقطعون الطرق اعتراضاً على التقنين",
+    "الحر يقترب من 50 درجة مع اشتداد الأزمة"
+  ]
+}

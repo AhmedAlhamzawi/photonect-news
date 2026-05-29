@@ -1,5 +1,5 @@
 import React from "react";
-import { AbsoluteFill, useCurrentFrame, interpolate, spring, useVideoConfig } from "remotion";
+import { AbsoluteFill } from "remotion";
 import type { BeatProps, VariantName } from "../schema";
 import { BeatA } from "./BeatA";
 import { BeatB } from "./BeatB";
@@ -14,147 +14,35 @@ type Props = BeatProps & {
   variant: VariantName;
 };
 
-// V9 (2026-05-26) dispatcher — wraps the variant-specific Beat scene.
-// SubtitleBar removed: was paired with VO (killed V9). Without VO it's noise.
+// V10 (2026-05-29) dispatcher — wraps the variant-specific Beat scene.
 //
-// Overlays applied to ALL beats:
-//   1. SourceChip (lower-left) — persistent attribution chip showing the
-//      broll's source. Pattern from Vox/C4/Reuters: credibility as design.
+// Two fixes this rev (Ahmed feedback):
+//   1. GHOST OVERLAY removed. Previously the variant scene painted its OWN
+//      VideoBackdrop (props.broll) at 0.92 opacity ON TOP of the cycling
+//      MultiShotBackdrop — two superimposed images = "a low-opacity overlay
+//      picture covering the main picture, looks like an editing mistake."
+//      Now: when MultiShotBackdrop owns the imagery (brolls[] present), we tell
+//      the variant to skip its VideoBackdrop via `hideBackdrop`, and the scene
+//      wrapper renders at full opacity. ONE image layer, clean.
+//   2. GiantStatStamp DELETED. The index===3 climax used to slam the stat at
+//      fontSize 320 dead-center over everything in the last ~10s ("a big
+//      centric number and a statement comes on top of everything... very bad").
+//      Removed entirely — beat 3 now shows its stat inline like beats 1 & 2.
 //
-// AND: when index === 3 (the climax beat), an extra GiantStatStamp overlay
-// kicks in around 60% through the beat. Pattern from Bloomberg/Vox: the
-// killer number isn't a card, it's stamped 60-70% of frame width over the
-// broll. The viewer can't miss the anchor.
-
-const GiantStatStamp: React.FC<{
-  value?: string;
-  arabicLabel?: string;
-  durationFrames: number;
-}> = ({ value, arabicLabel, durationFrames }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  if (!value) return null;
-
-  // The stat lands at 55% of the beat (BEAT3=240 → frame 132 of beat-local).
-  const stampStart = Math.floor(durationFrames * 0.55);
-  const stampHold = 60;       // 2s hold
-  const stampOutFade = 18;    // 0.6s fade
-
-  // Spring scale-in
-  const scaleIn = spring({
-    frame: frame - stampStart,
-    fps,
-    config: { damping: 14, mass: 0.6, stiffness: 120 },
-  });
-
-  // Fade out at the end of the hold window
-  const fadeOut = interpolate(
-    frame,
-    [stampStart + stampHold, stampStart + stampHold + stampOutFade],
-    [1, 0],
-    { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
-  );
-
-  if (frame < stampStart || frame > stampStart + stampHold + stampOutFade) {
-    return null;
-  }
-
-  const scale = 0.6 + 0.4 * scaleIn;
-  const opacity = scaleIn * fadeOut;
-
-  return (
-    <AbsoluteFill
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        justifyContent: "center",
-        pointerEvents: "none",
-        opacity,
-      }}
-    >
-      {/* Vignette pulse to pull the eye centerward */}
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          background:
-            "radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.55) 100%)",
-          pointerEvents: "none",
-        }}
-      />
-      {/* The giant number — 60% of frame width, ivory white, drop shadow */}
-      <div
-        style={{
-          fontFamily:
-            '"Tajawal", "Inter", "SF Pro Display", system-ui, sans-serif',
-          fontWeight: 900,
-          fontSize: 320,                                     // 30% of 1080 width visually
-          lineHeight: 0.95,
-          letterSpacing: "-0.04em",
-          color: "rgba(255, 252, 242, 0.97)",
-          textShadow:
-            "0 12px 48px rgba(0,0,0,0.85), 0 4px 12px rgba(0,0,0,0.9)",
-          transform: `scale(${scale})`,
-          transformOrigin: "center",
-        }}
-      >
-        {value}
-      </div>
-      {/* Small Arabic label sliding up under the number */}
-      {arabicLabel ? (
-        <div
-          style={{
-            marginTop: 24,
-            fontFamily: '"Tajawal", "Noto Sans Arabic", sans-serif',
-            fontWeight: 600,
-            fontSize: 44,
-            color: "rgba(255, 194, 23, 0.95)",                  // brand gold
-            letterSpacing: "0.02em",
-            direction: "rtl",
-            opacity: scaleIn,
-            transform: `translateY(${(1 - scaleIn) * 16}px)`,
-            textShadow: "0 4px 16px rgba(0,0,0,0.7)",
-          }}
-        >
-          {arabicLabel}
-        </div>
-      ) : null}
-    </AbsoluteFill>
-  );
-};
+// Persistent overlay on all beats: SourceChip (lower-left attribution).
 
 export const Beat: React.FC<Props> = (props) => {
-  // V8 leap (2026-05-10): MultiShotBackdrop cycles each beat through its
-  // brolls[] at ~2.5s/cut with per-shot Ken Burns. Cuts every 2.5s instead
-  // of 9s holds — the pattern every world-class news short-form reel uses.
-  //
-  // V8.1 (2026-05-26): re-enabled after May 10 disable. The original disable
-  // was triggered by a Remotion 404 during the Breaking→Beat1 fade transition
-  // that was suspected to be a staticFile() URL-resolution race with multiple
-  // concurrent Img preloads. Re-reproduction under Remotion 4.0.448 + the
-  // current TransitionSeries fade (12-frame overlap) does NOT trigger the
-  // bug — fade boundary + mid-beat crossfade frames render cleanly. Bug was
-  // likely a transient in older Remotion or browser-session-specific.
-  const useMultiShot = true;
-
-  // Build the prop object the variant scene receives. Strip backdrop-painting
-  // duties when MultiShotBackdrop is in play (the variant should still render
-  // chrome — labels, headings, cards, stats — but NOT a fresh backdrop). We
-  // signal this by setting broll to a 1x1 transparent path; the variant's
-  // VideoBackdrop renders at opacity 0 (its `reveal` interpolation never sees
-  // a missing src — schema requires broll). Cleaner alternative was a flag
-  // prop, but threading it through 3 variant scenes is more invasive.
-  let sceneProps: Props = props;
-  if (useMultiShot) {
-    sceneProps = {
-      ...props,
-      broll: props.broll, // keep the original — MultiShotBackdrop already wraps it
-    };
-  }
-  if (props.index === 3) {
-    sceneProps = { ...sceneProps, bigStat: undefined };
-  }
+  // MultiShotBackdrop cycles the beat through its brolls[] with per-shot Ken
+  // Burns. It owns ALL backdrop duties (image + overlay + vignette) whenever
+  // a valid brolls[] array is present.
+  // V10.1 (2026-05-29) — Ahmed rejected the multi-shot cycle: "the pics are
+  // thrown in so the text doesn't relate to the picture shown, the pictures are
+  // shown more than once, and it flips between the whole pics every beat."
+  // Fix: ONE still image per beat — the beat's own `broll`, content-matched to
+  // its text — rendered by the variant's VideoBackdrop. No cycle, no repeats,
+  // no ghost. Breaking shows hero; beat 1/2/3 each show a distinct broll.
+  const useMultiShot = false;
+  const sceneProps = { ...props, hideBackdrop: useMultiShot };
 
   let scene: React.ReactNode;
   switch (props.variant) {
@@ -172,10 +60,6 @@ export const Beat: React.FC<Props> = (props) => {
 
   return (
     <AbsoluteFill>
-      {/* V8 leap: multi-shot backdrop underneath the variant chrome.
-          When brolls[] is set, this is the photo layer; the variant scene's
-          own VideoBackdrop sits on top but renders 0-opacity (its overlay +
-          shadow do still apply, which we want — keeps chrome legible). */}
       {useMultiShot && (
         <MultiShotBackdrop
           shots={props.brolls!}
@@ -184,25 +68,14 @@ export const Beat: React.FC<Props> = (props) => {
           intensity="beat"
         />
       )}
-      {/* The variant scene with its typography, cards, stats. When useMultiShot
-          is true, the variant's underlying VideoBackdrop will still render but
-          be visually subordinate to the cycling MultiShotBackdrop above (V6
-          VideoBackdrop has its own ink-tinted overlay so it acts as a soft
-          warmth-tint atop the multi-shot images). */}
-      <AbsoluteFill style={{ opacity: useMultiShot ? 0.92 : 1 }}>
-        {scene}
-      </AbsoluteFill>
+      {/* Variant chrome — full opacity. When useMultiShot, the variant skips its
+          own VideoBackdrop (hideBackdrop), so this is pure typography/cards/stats
+          over the single MultiShotBackdrop image layer. */}
+      <AbsoluteFill>{scene}</AbsoluteFill>
       <SourceChip
         source={props.brollSource}
         durationFrames={props.durationFrames}
       />
-      {props.index === 3 ? (
-        <GiantStatStamp
-          value={props.bigStat?.value}
-          arabicLabel={props.bigStat?.arabicLabel}
-          durationFrames={props.durationFrames}
-        />
-      ) : null}
     </AbsoluteFill>
   );
 };

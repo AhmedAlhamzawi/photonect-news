@@ -69,6 +69,16 @@ const AVAILABLE_BEDS = new Set<string>([
   "audio/mood_newsroom.mp3",               // rhythmic synth arps + light percussion
   "audio/mood_orchestral.mp3",             // low strings + soft brass + distant piano
   "audio/mood_mideast.mp3",                // oud + qanun + deep drum + cinematic pad
+  // V10 (2026-05-29) — 7 new Suno-generated instrumental beds, loudnorm'd to
+  // -16 LUFS, interleaved into the rotation pool for variety. Ahmed: "I need
+  // new music, generate 10 more and loop them with the current ones."
+  "audio/music_01.mp3",                    // cinematic dawn
+  "audio/music_03.mp3",                    // orchestral weight
+  "audio/music_04.mp3",                    // mideast cinematic
+  "audio/music_05.mp3",                    // markets voltage
+  "audio/music_06.mp3",                    // ambient tide
+  "audio/music_08.mp3",                    // hopeful strings
+  "audio/music_10.mp3",                    // tech glass
   // Legacy V6 rev2 beds (kept so old post folders keep rendering)
   "audio/news_bed.mp3",
   "audio/bed_anchor.mp3",
@@ -158,7 +168,7 @@ export const NewsReel: React.FC<NewsReelProps> = ({
 
   return (
     <AbsoluteFill style={{ background: PHOTONECT.ink }}>
-      <Audio src={audioSrc} volume={audioVolume} />
+      <Audio src={audioSrc} volume={audioVolume} loop />
 
       <BackgroundPulse />
       <DotGrid />

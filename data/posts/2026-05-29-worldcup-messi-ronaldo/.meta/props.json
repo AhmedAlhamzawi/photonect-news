@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كأس العالم 2026",
+    "arabicHeadline": "ميسي ورونالدو نحو مونديال سادس تاريخي",
+    "englishSubhead": "MESSI & RONALDO HEADED FOR A RECORD 6TH WORLD CUP • USA/MEXICO/CANADA",
+    "heroMedia": "images/news/2026-05-29-worldcup-messi-ronaldo/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الأسطورتان",
+      "arabicHeading": "ميسي ورونالدو أول من يلعب 6 مونديالات",
+      "arabicBody": "اختار سكالوني ميسي (38 عاماً) ضمن قائمة الأرجنتين، وأُدرج رونالدو مع البرتغال؛ ليصبحا أول لاعبَين في ست بطولات عالمية، وفق ESPN.",
+      "bigStat": {
+        "value": "6",
+        "label": "مونديال لكلٍّ منهما — رقم قياسي",
+        "arabicLabel": "مونديال لكلٍّ منهما — رقم قياسي"
+      },
+      "supportingStats": [
+        {
+          "label": "ميسي",
+          "value": "38 عاماً"
+        },
+        {
+          "label": "القائمة",
+          "value": "26 لاعباً"
+        },
+        {
+          "label": "الأرجنتين",
+          "value": "حاملة اللقب"
+        }
+      ],
+      "broll": "images/news/2026-05-29-worldcup-messi-ronaldo/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_1.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/hero.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_2.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ESPN / FOX SPORTS • MAY 28, 2026"
+    },
+    {
+      "label": "العرب حاضرون",
+      "arabicHeading": "المغرب والجزائر يحملان راية العرب",
+      "arabicBody": "أعلن المغرب قائمته بقيادة حكيمي وإبراهيم دياز، وتفتتح الأرجنتين مشوارها بمواجهة الجزائر في 16 يونيو بكنساس سيتي، وفق FOX Sports.",
+      "bigStat": {
+        "value": "48",
+        "label": "منتخباً في أول مونديال موسّع",
+        "arabicLabel": "منتخباً في أول مونديال موسّع"
+      },
+      "supportingStats": [
+        {
+          "label": "المغرب",
+          "value": "حكيمي ودياز"
+        },
+        {
+          "label": "الافتتاح",
+          "value": "الأرجنتين vs الجزائر"
+        },
+        {
+          "label": "الموعد",
+          "value": "16 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-05-29-worldcup-messi-ronaldo/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_3.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_1.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_2.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "FOX SPORTS / YAHOO • 2026"
+    },
+    {
+      "label": "الحلم",
+      "arabicHeading": "هل تحتفظ الأرجنتين باللقب لأول مرة منذ 1962؟",
+      "arabicBody": "تسعى الأرجنتين لتصبح أول من يحتفظ باللقب منذ البرازيل 1962؛ البطولة الأولى بـ48 منتخباً وعبر ثلاث دول، وفق Yahoo Sports.",
+      "bigStat": {
+        "value": "1962",
+        "label": "آخر احتفاظ متتالٍ باللقب",
+        "arabicLabel": "آخر احتفاظ متتالٍ باللقب"
+      },
+      "supportingStats": [
+        {
+          "label": "المستضيف",
+          "value": "3 دول"
+        },
+        {
+          "label": "البداية",
+          "value": "يونيو 2026"
+        },
+        {
+          "label": "التحدي",
+          "value": "لقب متتالٍ"
+        }
+      ],
+      "broll": "images/news/2026-05-29-worldcup-messi-ronaldo/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_2.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_3.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/hero.jpg",
+        "images/news/2026-05-29-worldcup-messi-ronaldo/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "YAHOO SPORTS / THESCORE • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "FOX Sports",
+      "domain": "foxsports.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "theScore",
+      "domain": "thescore.com"
+    }
+  ],
+  "arabicTicker": [
+    "ميسي ورونالدو نحو مونديال سادس تاريخي",
+    "أول لاعبَين يشاركان في ست بطولات كأس عالم",
+    "المغرب بقيادة حكيمي ضمن المتأهلين",
+    "الأرجنتين تفتتح ضد الجزائر في 16 يونيو",
+    "أول مونديال بـ48 منتخباً وعبر ثلاث دول"
+  ]
+}

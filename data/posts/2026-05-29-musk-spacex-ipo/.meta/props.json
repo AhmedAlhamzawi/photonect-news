@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أكبر اكتتاب بالتاريخ",
+    "arabicHeadline": "سبيس إكس نحو أكبر اكتتاب في التاريخ بـ1.75 تريليون",
+    "englishSubhead": "SPACEX FILES FOR HISTORY'S BIGGEST IPO • $1.75T • STARSHIP V3 FLIES",
+    "heroMedia": "images/news/2026-05-29-musk-spacex-ipo/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاكتتاب",
+      "arabicHeading": "ماسك يطرح سبيس إكس في بورصة ناسداك",
+      "arabicBody": "قدّمت سبيس إكس أوراق الطرح في 20 مايو، وتبدأ التداول 12 يونيو برمز SPCX مستهدفةً جمع 75 مليار دولار، وفق CNBC.",
+      "bigStat": {
+        "value": "$1.75T",
+        "label": "التقييم المستهدف لسبيس إكس",
+        "arabicLabel": "التقييم المستهدف لسبيس إكس"
+      },
+      "supportingStats": [
+        {
+          "label": "الرمز",
+          "value": "SPCX"
+        },
+        {
+          "label": "بدء التداول",
+          "value": "12 يونيو"
+        },
+        {
+          "label": "جمع",
+          "value": "75 مليار $"
+        }
+      ],
+      "broll": "images/news/2026-05-29-musk-spacex-ipo/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-musk-spacex-ipo/broll_2.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/hero.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_1.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNBC • MAY 26, 2026"
+    },
+    {
+      "label": "الإمبراطورية",
+      "arabicHeading": "ماسك يدمج xAI داخل سبيس إكس",
+      "arabicBody": "أعلن ماسك دمج xAI ومنصة Grok ضمن قسم SpaceXAI، رابطاً رقائق إنفيديا ببيانات تسلا عبر شبكة الأقمار في حلقة مغلقة، وفق The Motley Fool.",
+      "bigStat": {
+        "value": "$1.25T",
+        "label": "تقييم الدمج مع xAI",
+        "arabicLabel": "تقييم الدمج مع xAI"
+      },
+      "supportingStats": [
+        {
+          "label": "xAI",
+          "value": "مدموج"
+        },
+        {
+          "label": "Grok",
+          "value": "ضمن سبيس إكس"
+        },
+        {
+          "label": "الشبكة",
+          "value": "أقمار ستارلينك"
+        }
+      ],
+      "broll": "images/news/2026-05-29-musk-spacex-ipo/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-musk-spacex-ipo/broll_1.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_2.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_3.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "THE MOTLEY FOOL / ELECTREK • 2026"
+    },
+    {
+      "label": "نحو المريخ",
+      "arabicHeading": "ستارشيب الجيل الثالث يقترب من المريخ",
+      "arabicBody": "أطلقت سبيس إكس النسخة الثالثة من ستارشيب في رحلتها الثانية عشرة يوم 20 مايو، الأقوى على الإطلاق، خطوةً نحو المريخ، وفق Teslarati.",
+      "bigStat": {
+        "value": "V3",
+        "label": "أقوى نسخة من ستارشيب",
+        "arabicLabel": "أقوى نسخة من ستارشيب"
+      },
+      "supportingStats": [
+        {
+          "label": "الرحلة",
+          "value": "الثانية عشرة"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "20 مايو"
+        },
+        {
+          "label": "الهدف",
+          "value": "المريخ"
+        }
+      ],
+      "broll": "images/news/2026-05-29-musk-spacex-ipo/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-musk-spacex-ipo/broll_3.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_2.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/hero.jpg",
+        "images/news/2026-05-29-musk-spacex-ipo/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "TESLARATI / CNBC • MAY 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Electrek",
+      "domain": "electrek.co"
+    },
+    {
+      "name": "Teslarati",
+      "domain": "teslarati.com"
+    },
+    {
+      "name": "The Motley Fool",
+      "domain": "fool.com"
+    }
+  ],
+  "arabicTicker": [
+    "سبيس إكس نحو أكبر اكتتاب في التاريخ بـ1.75 تريليون دولار",
+    "بدء التداول 12 يونيو في ناسداك برمز SPCX",
+    "ماسك يدمج xAI ومنصة Grok ضمن سبيس إكس",
+    "ستارشيب الجيل الثالث ينطلق في رحلته الثانية عشرة",
+    "حلقة مغلقة: إنفيديا وتسلا وستارلينك تحت مظلة واحدة"
+  ]
+}

@@ -112,13 +112,16 @@ export type BeatProps = z.infer<typeof Beat>;
 export type BigStatProps = z.infer<typeof BigStat>;
 export type SourceProps = z.infer<typeof Source>;
 
-// V9 (2026-05-26) — Ahmed feedback: "the video is fast, I can't read the context."
-// Extended every beat from 9s → 13s for Arabic body-text readability.
-// Breaking 150f (5s) + Beat 390f ×3 + Sources 90f = 1410f @ 30fps = 47s.
-// MultiShotBackdrop still cycles 4 shots/beat at 97.5f each (3.25s/shot).
+// V10 (2026-05-29) — Ahmed feedback (again): "text is too much and the speed to
+// show it is too fast, I can't read the facts." V9's 13s wasn't enough. Two
+// levers pulled together: (1) beats extended 13s → 15s here, and (2) every
+// variant's reveal schedule compressed so all text lands by ~frame 90 (3s) and
+// then HOLDS for ~12s. Net readable-hold per beat jumps from ~7s to ~12s.
+// Breaking 150f (5s) + Beat 450f ×3 + Sources 90f = 1590f @ 30fps = 53s.
+// MultiShotBackdrop cycles 4 shots/beat at 112.5f each (3.75s/shot — calmer cuts).
 export const BREAKING_FRAMES = 150;
-export const BEAT_FRAMES = 390;
-export const BEAT3_FRAMES = 390;
+export const BEAT_FRAMES = 450;
+export const BEAT3_FRAMES = 450;
 export const SOURCES_FRAMES = 90;
 
 export const computeNewsReelDurationInFrames = () =>

@@ -19,11 +19,21 @@ import json
 import sys
 from pathlib import Path
 
+# V10 (2026-05-29) — expanded 11-track rotation: 4 original V7 moods + 7 new
+# Suno-generated beds (loudnorm'd to -16 LUFS), interleaved so each slate mixes
+# new and proven tracks. Ahmed: "new music, generate 10 more, loop with current."
 MOODS = [
+    "audio/music_01.mp3",        # cinematic dawn (new)
     "audio/mood_cinematic.mp3",
+    "audio/music_03.mp3",        # orchestral weight (new)
     "audio/mood_newsroom.mp3",
+    "audio/music_05.mp3",        # markets voltage (new)
     "audio/mood_orchestral.mp3",
+    "audio/music_04.mp3",        # mideast cinematic (new)
     "audio/mood_mideast.mp3",
+    "audio/music_06.mp3",        # ambient tide (new)
+    "audio/music_08.mp3",        # hopeful strings (new)
+    "audio/music_10.mp3",        # tech glass (new)
 ]
 
 ROOT = Path(__file__).resolve().parents[2]

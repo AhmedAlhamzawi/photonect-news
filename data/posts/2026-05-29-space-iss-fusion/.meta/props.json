@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 29 • 2026",
+  "arabicDateLabel": "29 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "قفزات الفضاء",
+    "arabicHeadline": "أول إخلاء طبي من محطة الفضاء وقفزة في الاندماج النووي",
+    "englishSubhead": "FIRST-EVER ISS MEDICAL EVACUATION • FUSION-ROCKET PLASMA IGNITION",
+    "heroMedia": "images/news/2026-05-29-space-iss-fusion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإخلاء",
+      "arabicHeading": "ناسا تُعيد روّاداً من المحطة لأول مرة طبياً",
+      "arabicBody": "للمرة الأولى في تاريخ محطة الفضاء الدولية، تُعيد ناسا مجموعة روّاد إلى الأرض مبكراً بسبب مشكلة صحية، وفق NASA.",
+      "bigStat": {
+        "value": "1",
+        "label": "أول إخلاء طبي في تاريخ المحطة",
+        "arabicLabel": "أول إخلاء طبي في تاريخ المحطة"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "مشكلة صحية"
+        },
+        {
+          "label": "القرار",
+          "value": "عودة مبكرة"
+        },
+        {
+          "label": "السابقة",
+          "value": "الأولى تاريخياً"
+        }
+      ],
+      "broll": "images/news/2026-05-29-space-iss-fusion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-29-space-iss-fusion/broll_1.jpg",
+        "images/news/2026-05-29-space-iss-fusion/hero.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_2.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA • MAY 2026"
+    },
+    {
+      "label": "الاندماج",
+      "arabicHeading": "بريطانيا تُشعل البلازما داخل محرك اندماجي",
+      "arabicBody": "حقّق علماء بريطانيون أول إشعال بلازما داخل محرك صاروخ يعمل بالاندماج النووي، ما قد يختصر زمن الرحلات إلى المريخ، وفق Euronews.",
+      "bigStat": {
+        "value": "1st",
+        "label": "أول إشعال بلازما في محرك صاروخ",
+        "arabicLabel": "أول إشعال بلازما في محرك صاروخ"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنجاز",
+          "value": "إشعال بلازما"
+        },
+        {
+          "label": "الدولة",
+          "value": "بريطانيا"
+        },
+        {
+          "label": "الأثر",
+          "value": "رحلات أسرع"
+        }
+      ],
+      "broll": "images/news/2026-05-29-space-iss-fusion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-29-space-iss-fusion/broll_2.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_1.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_3.jpg",
+        "images/news/2026-05-29-space-iss-fusion/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "EURONEWS / NATURE • 2026"
+    },
+    {
+      "label": "المريخ يقترب",
+      "arabicHeading": "750 تجربة في المدار تُعيد رسم المستقبل",
+      "arabicBody": "كشفت ناسا أن أكثر من 750 تجربة عام 2025 شملت جراحة روبوتية في الفضاء ومواد جديدة، بفوائد تمتد إلى الأرض، وفق Nature.",
+      "bigStat": {
+        "value": "750",
+        "label": "تجربة علمية على المحطة في 2025",
+        "arabicLabel": "تجربة علمية على المحطة في 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "التجارب",
+          "value": "750+"
+        },
+        {
+          "label": "منها",
+          "value": "جراحة روبوتية"
+        },
+        {
+          "label": "الفائدة",
+          "value": "تمتد للأرض"
+        }
+      ],
+      "broll": "images/news/2026-05-29-space-iss-fusion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-29-space-iss-fusion/broll_3.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_2.jpg",
+        "images/news/2026-05-29-space-iss-fusion/hero.jpg",
+        "images/news/2026-05-29-space-iss-fusion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NATURE / NASA • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "Nature",
+      "domain": "nature.com"
+    },
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    }
+  ],
+  "arabicTicker": [
+    "أول إخلاء طبي في تاريخ محطة الفضاء الدولية",
+    "بريطانيا تُشعل البلازما داخل محرك صاروخ اندماجي",
+    "750 تجربة علمية على المحطة في 2025",
+    "جراحة روبوتية في الفضاء بفوائد تمتد للأرض",
+    "الاندماج النووي يقرّب رحلات المريخ"
+  ]
+}

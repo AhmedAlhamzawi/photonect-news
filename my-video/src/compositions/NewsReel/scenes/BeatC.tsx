@@ -12,11 +12,12 @@ import {
   PLATFORM_SAFE,
   adaptiveFontSize,
 } from "../safeArea";
-import { parseStat, BeatStatPill } from "./BeatA";
+import { parseStat, BeatStatPill, formatStatNumber } from "./BeatA";
 
 type Props = BeatProps & {
   index: number;
   durationFrames: number;
+  hideBackdrop?: boolean;
 };
 
 // V6 — Variant C CINEMA REVEAL (2026-04-22)
@@ -36,36 +37,39 @@ export const BeatC: React.FC<Props> = ({
   accent,
   index,
   durationFrames,
+  hideBackdrop,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const a = accent ?? PHOTONECT.signal;
 
-  const labelReveal = interpolate(frame, [12, 40], [0, 1], {
+  // V10 — compressed cinematic reveal so the whole stack lands by ~frame 95 (3s)
+  // and holds. Ahmed: "too fast, I can't read the facts."
+  const labelReveal = interpolate(frame, [6, 24], [0, 1], {
     easing: Easing.bezier(0.22, 1, 0.36, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
 
-  const headingReveal = interpolate(frame, [36, 82], [0, 1], {
+  const headingReveal = interpolate(frame, [20, 50], [0, 1], {
     easing: Easing.bezier(0.16, 1, 0.3, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
 
-  const bodyReveal = interpolate(frame, [80, 116], [0, 1], {
+  const bodyReveal = interpolate(frame, [44, 72], [0, 1], {
     easing: Easing.bezier(0.16, 1, 0.3, 1),
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
 
   const statReveal = spring({
-    frame: frame - 130,
+    frame: frame - 74,
     fps,
     config: { damping: 22, stiffness: 70, mass: 1 },
   });
 
-  const pillsStartFrame = 150;
+  const pillsStartFrame = 86;
 
   const bottomScrim = interpolate(frame, [0, 60], [0.4, 0.88], {
     extrapolateRight: "clamp",
@@ -82,13 +86,15 @@ export const BeatC: React.FC<Props> = ({
 
   return (
     <AbsoluteFill>
-      <VideoBackdrop
-        src={broll}
-        type={brollType}
-        accent={a}
-        intensity="hero"
-        durationFrames={durationFrames}
-      />
+      {!hideBackdrop && (
+        <VideoBackdrop
+          src={broll}
+          type={brollType}
+          accent={a}
+          intensity="hero"
+          durationFrames={durationFrames}
+        />
+      )}
 
       {/* Gradient scrim — dark bottom, transparent top */}
       <AbsoluteFill
@@ -251,12 +257,9 @@ export const BeatC: React.FC<Props> = ({
 };
 
 function cinemaStat(value: string, frame: number) {
-  const { numPart, prefix, suffix } = parseStat(value);
+  const { numPart, prefix, suffix, decimals } = parseStat(value);
   if (numPart == null) return value;
-  const prog = Math.max(0, Math.min(1, (frame - 130) / 48));
+  const prog = Math.max(0, Math.min(1, (frame - 74) / 36));
   const ease = 1 - Math.pow(1 - prog, 2);
-  const n = Math.round(numPart * ease);
-  const hasDecimal = !Number.isInteger(numPart);
-  const formatted = hasDecimal && n < 100 ? n.toFixed(1) : n.toLocaleString("en-US");
-  return `${prefix}${formatted}${suffix}`;
+  return `${prefix}${formatStatNumber(numPart * ease, decimals)}${suffix}`;
 }
