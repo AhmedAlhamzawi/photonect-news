@@ -1,0 +1,140 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "عودة إلى القمر",
+    "arabicHeadline": "ناسا تكشف أول قاعدة قمرية بتمويل خاص",
+    "englishSubhead": "NASA UNVEILS MOON BASE I • FIRST PRIVATELY FUNDED LUNAR LANDER • BLUE ORIGIN MK1 • FALL 2026",
+    "heroMedia": "images/news/2026-05-30-nasa-moonbase/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "إيزاكمان يعلن قاعدة القمر الأولى",
+      "arabicBody": "أعلن مدير ناسا جاريد إيزاكمان في 26 مايو مشروع قاعدة القمر الأولى، أول مهمة هبوط قمري بتمويل خاص في التاريخ، وفق ناسا.",
+      "bigStat": {
+        "value": "1st",
+        "label": "مهمة هبوط قمري بتمويل خاص",
+        "arabicLabel": "مهمة هبوط قمري بتمويل خاص"
+      },
+      "supportingStats": [
+        {
+          "label": "المدير",
+          "value": "إيزاكمان"
+        },
+        {
+          "label": "الإعلان",
+          "value": "26 مايو"
+        },
+        {
+          "label": "الأولى",
+          "value": "تمويل خاص"
+        }
+      ],
+      "broll": "images/news/2026-05-30-nasa-moonbase/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-nasa-moonbase/broll_1.jpg",
+        "images/news/2026-05-30-nasa-moonbase/hero.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_2.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA • MAY 26, 2026"
+    },
+    {
+      "label": "المركبة",
+      "arabicHeading": "بلو أوريجن تهبط عند قطب القمر الجنوبي",
+      "arabicBody": "تحمل مركبة بلو أوريجن مارك 1 إنديورانس حمولتين لناسا إلى حافة شاكلتون قرب القطب الجنوبي للقمر، وفق سبيس فلايت ناو.",
+      "bigStat": {
+        "value": "Mk1",
+        "label": "مركبة بلو أوريجن إنديورانس",
+        "arabicLabel": "مركبة بلو أوريجن إنديورانس"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "قطب جنوبي"
+        },
+        {
+          "label": "الحمولة",
+          "value": "حمولتا ناسا"
+        },
+        {
+          "label": "المركبة",
+          "value": "إنديورانس"
+        }
+      ],
+      "broll": "images/news/2026-05-30-nasa-moonbase/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-nasa-moonbase/broll_2.jpg",
+        "images/news/2026-05-30-nasa-moonbase/hero.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_1.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SPACEFLIGHT NOW • 2026"
+    },
+    {
+      "label": "الهدف",
+      "arabicHeading": "خطوة نحو هبوط البشر مع أرتميس",
+      "arabicBody": "تستهدف المهمة الإطلاق خريف 2026 لتقليل مخاطر منظومة الهبوط البشري ضمن برنامج أرتميس للعودة إلى القمر، وفق ناسا.",
+      "bigStat": {
+        "value": "خريف 2026",
+        "label": "موعد الإطلاق المستهدف",
+        "arabicLabel": "موعد الإطلاق المستهدف"
+      },
+      "supportingStats": [
+        {
+          "label": "الإطلاق",
+          "value": "خريف 2026"
+        },
+        {
+          "label": "البرنامج",
+          "value": "أرتميس"
+        },
+        {
+          "label": "الحمولات",
+          "value": "SCALPSS + مرايا"
+        }
+      ],
+      "broll": "images/news/2026-05-30-nasa-moonbase/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-nasa-moonbase/broll_3.jpg",
+        "images/news/2026-05-30-nasa-moonbase/hero.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_1.jpg",
+        "images/news/2026-05-30-nasa-moonbase/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NASA / SPACEFLIGHT NOW • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "Spaceflight Now",
+      "domain": "spaceflightnow.com"
+    },
+    {
+      "name": "Blue Origin",
+      "domain": "blueorigin.com"
+    }
+  ],
+  "arabicTicker": [
+    "ناسا تكشف مشروع قاعدة القمر الأولى",
+    "أول مهمة هبوط قمري بتمويل خاص في التاريخ",
+    "مركبة بلو أوريجن مارك 1 إنديورانس تهبط قرب القطب الجنوبي",
+    "المهمة تحمل حمولتين علميتين لناسا إلى حافة شاكلتون",
+    "الإطلاق المستهدف خريف 2026 ضمن برنامج أرتميس"
+  ]
+}

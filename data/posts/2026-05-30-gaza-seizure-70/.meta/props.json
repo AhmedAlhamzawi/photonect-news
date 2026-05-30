@@ -1,0 +1,148 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "نتنياهو يأمر بالسيطرة على 70% من قطاع غزة",
+    "englishSubhead": "NETANYAHU ORDERS SEIZURE OF 70% OF GAZA • HAMAS REJECTS DISARMAMENT • IDF KILLS ODEH",
+    "heroMedia": "images/news/2026-05-30-gaza-seizure-70/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "نتنياهو يوسّع السيطرة من 53% إلى 70%",
+      "arabicBody": "أمر نتنياهو الجيش بالسيطرة على 70% من غزة، صعوداً من 60% الأسبوع الماضي و53% قبل شهر، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "70%",
+        "label": "مساحة غزة تحت السيطرة",
+        "arabicLabel": "مساحة غزة تحت السيطرة"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل أسبوع",
+          "value": "60%"
+        },
+        {
+          "label": "قبل شهر",
+          "value": "53%"
+        },
+        {
+          "label": "المصدر",
+          "value": "تايمز أوف إسرائيل"
+        }
+      ],
+      "broll": "images/news/2026-05-30-gaza-seizure-70/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-gaza-seizure-70/broll_1.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/hero.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_2.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "TIMES OF ISRAEL • MAY 28, 2026"
+    },
+    {
+      "label": "نزع السلاح",
+      "arabicHeading": "حماس ترفض نزع السلاح وخطة ترامب تتعثر",
+      "arabicBody": "رفضت حماس توجيه مجلس السلام الدولي بنزع سلاحها، وهو شرط محوري في خطة ترامب ذات العشرين بنداً، وفق واشنطن بوست.",
+      "bigStat": {
+        "value": "20",
+        "label": "بنود خطة ترامب للسلام",
+        "arabicLabel": "بنود خطة ترامب للسلام"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرط",
+          "value": "نزع السلاح"
+        },
+        {
+          "label": "الرد",
+          "value": "رفض حماس"
+        },
+        {
+          "label": "الخط",
+          "value": "الأصفر"
+        }
+      ],
+      "broll": "images/news/2026-05-30-gaza-seizure-70/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-gaza-seizure-70/broll_2.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/hero.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_1.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "THE WASHINGTON POST • 2026"
+    },
+    {
+      "label": "التصعيد",
+      "arabicHeading": "الجيش يقتل القيادي محمد عودة و10 خروقات",
+      "arabicBody": "قتل الجيش الإسرائيلي القيادي في حماس محمد عودة، وسجّل 10 خروقات للهدنة بين 21 و28 مايو، وفق مؤسسة الدفاع عن الديمقراطيات.",
+      "bigStat": {
+        "value": "10",
+        "label": "خروقات للهدنة بأسبوع",
+        "arabicLabel": "خروقات للهدنة بأسبوع"
+      },
+      "supportingStats": [
+        {
+          "label": "21–28 مايو",
+          "value": "10 خروقات"
+        },
+        {
+          "label": "القتيل",
+          "value": "محمد عودة"
+        },
+        {
+          "label": "المرصد",
+          "value": "FDD / ACLED"
+        }
+      ],
+      "broll": "images/news/2026-05-30-gaza-seizure-70/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-gaza-seizure-70/broll_3.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/hero.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_1.jpg",
+        "images/news/2026-05-30-gaza-seizure-70/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "FDD / ACLED • MAY 29, 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "name": "FDD",
+      "domain": "fdd.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    }
+  ],
+  "arabicTicker": [
+    "نتنياهو يأمر بالسيطرة على 70% من قطاع غزة",
+    "صعود من 60% قبل أسبوع و53% قبل شهر",
+    "حماس ترفض نزع السلاح وخطة ترامب ذات العشرين بنداً تتعثر",
+    "الجيش الإسرائيلي يقتل القيادي محمد عودة",
+    "تسجيل 10 خروقات للهدنة بين 21 و28 مايو"
+  ]
+}

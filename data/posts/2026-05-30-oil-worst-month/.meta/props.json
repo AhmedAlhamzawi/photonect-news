@@ -1,0 +1,148 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أسوأ شهر منذ كورونا",
+    "arabicHeadline": "برنت يهوي 19% في أسوأ شهر منذ كورونا",
+    "englishSubhead": "BRENT DOWN 19% IN MAY — WORST MONTH SINCE COVID • $92 • HORMUZ DEAL NEARS",
+    "heroMedia": "images/news/2026-05-30-oil-worst-month/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السوق",
+      "arabicHeading": "برنت يغلق مايو عند 92 دولاراً هابطاً 19%",
+      "arabicBody": "أغلق خام برنت مايو عند 92.56 دولار منخفضاً 19% خلال الشهر، في أسوأ أداء شهري منذ جائحة كورونا، وفق CNBC.",
+      "bigStat": {
+        "value": "-19%",
+        "label": "هبوط برنت في مايو",
+        "arabicLabel": "هبوط برنت في مايو"
+      },
+      "supportingStats": [
+        {
+          "label": "الإغلاق",
+          "value": "$92.56"
+        },
+        {
+          "label": "عن القمة",
+          "value": "-20%"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-05-30-oil-worst-month/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-oil-worst-month/broll_1.jpg",
+        "images/news/2026-05-30-oil-worst-month/hero.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_2.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNBC • MAY 29, 2026"
+    },
+    {
+      "label": "هرمز",
+      "arabicHeading": "اتفاق أمريكي إيراني يقترب لفتح مضيق هرمز",
+      "arabicBody": "تراجع النفط مع اقتراب مذكرة تفاهم أمريكية إيرانية لـ60 يوماً تخفّف قيود الشحن عبر هرمز، بانتظار توقيع ترامب، وفق رويترز.",
+      "bigStat": {
+        "value": "60",
+        "label": "أيام مذكرة وقف التصعيد",
+        "arabicLabel": "أيام مذكرة وقف التصعيد"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيق",
+          "value": "هرمز"
+        },
+        {
+          "label": "الحالة",
+          "value": "بانتظار ترامب"
+        },
+        {
+          "label": "الأثر",
+          "value": "شحن أوسع"
+        }
+      ],
+      "broll": "images/news/2026-05-30-oil-worst-month/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-oil-worst-month/broll_2.jpg",
+        "images/news/2026-05-30-oil-worst-month/hero.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_1.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "REUTERS • MAY 29, 2026"
+    },
+    {
+      "label": "الطلب",
+      "arabicHeading": "أوبك تخفّض توقعات نمو الطلب لـ2026",
+      "arabicBody": "خفّضت أوبك توقعات نمو الطلب العالمي في 2026 إلى 1.2 مليون برميل يومياً من 1.4 مليون، وسط رهان الأسواق على هدنة دائمة، وفق أوبك.",
+      "bigStat": {
+        "value": "1.2M",
+        "label": "نمو الطلب المتوقع (ب/ي)",
+        "arabicLabel": "نمو الطلب المتوقع (ب/ي)"
+      },
+      "supportingStats": [
+        {
+          "label": "سابقاً",
+          "value": "1.4M ب/ي"
+        },
+        {
+          "label": "الرهان",
+          "value": "هدنة دائمة"
+        },
+        {
+          "label": "المصدر",
+          "value": "OPEC"
+        }
+      ],
+      "broll": "images/news/2026-05-30-oil-worst-month/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-oil-worst-month/broll_3.jpg",
+        "images/news/2026-05-30-oil-worst-month/hero.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_1.jpg",
+        "images/news/2026-05-30-oil-worst-month/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "OPEC / EIA • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "OPEC",
+      "domain": "opec.org"
+    },
+    {
+      "name": "EIA",
+      "domain": "eia.gov"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يغلق مايو عند 92.56 دولار هابطاً 19%",
+    "أسوأ أداء شهري للنفط منذ جائحة كورونا",
+    "النفط يتراجع 20% عن قمته في 2026",
+    "مذكرة تفاهم أمريكية إيرانية لـ60 يوماً قرب فتح هرمز",
+    "أوبك تخفّض توقعات نمو الطلب إلى 1.2 مليون برميل يومياً"
+  ]
+}

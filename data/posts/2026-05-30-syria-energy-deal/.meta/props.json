@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "إعمار سوريا",
+    "arabicHeadline": "دمشق توقّع اتفاق طاقة بـ7 مليارات دولار",
+    "englishSubhead": "SYRIA SIGNS $7B ENERGY DEAL IN DAMASCUS • 4,000MW GAS + 1,000MW SOLAR • 50,000 JOBS",
+    "heroMedia": "images/news/2026-05-30-syria-energy-deal/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاتفاق",
+      "arabicHeading": "اتفاق بـ7 مليارات لإعادة بناء كهرباء سوريا",
+      "arabicBody": "وقّعت دمشق في 29 مايو اتفاقاً للطاقة بـ7 مليارات دولار لبناء محطات في حمص وحماة ودير الزور، وفق المجلس الأطلسي.",
+      "bigStat": {
+        "value": "$7B",
+        "label": "قيمة اتفاق الطاقة",
+        "arabicLabel": "قيمة اتفاق الطاقة"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "29 مايو"
+        },
+        {
+          "label": "المدن",
+          "value": "حمص وحماة"
+        },
+        {
+          "label": "المصدر",
+          "value": "المجلس الأطلسي"
+        }
+      ],
+      "broll": "images/news/2026-05-30-syria-energy-deal/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-syria-energy-deal/broll_1.jpg",
+        "images/news/2026-05-30-syria-energy-deal/hero.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_2.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ATLANTIC COUNCIL • MAY 29, 2026"
+    },
+    {
+      "label": "القدرة",
+      "arabicHeading": "4000 ميغاواط غاز و1000 ميغاواط شمسية",
+      "arabicBody": "يضيف الاتفاق 4000 ميغاواط من الغاز و1000 من الطاقة الشمسية، بإنتاج 35 مليار كيلوواط ساعة سنوياً، وفق ديلي صباح.",
+      "bigStat": {
+        "value": "5,000MW",
+        "label": "إجمالي القدرة المضافة",
+        "arabicLabel": "إجمالي القدرة المضافة"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز",
+          "value": "4000 ميغا"
+        },
+        {
+          "label": "شمسية",
+          "value": "1000 ميغا"
+        },
+        {
+          "label": "الإنتاج",
+          "value": "35 مليار ك.و.س"
+        }
+      ],
+      "broll": "images/news/2026-05-30-syria-energy-deal/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-syria-energy-deal/broll_2.jpg",
+        "images/news/2026-05-30-syria-energy-deal/hero.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_1.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "DAILY SABAH • 2026"
+    },
+    {
+      "label": "الإعمار",
+      "arabicHeading": "تركيا تقود إعمار سوريا بعد سقوط الأسد",
+      "arabicBody": "يأتي الاتفاق ضمن إعمار تقوده تركيا بعد سقوط الأسد، ويَعِد بنحو 50 ألف وظيفة ومحادثات شراكة اقتصادية شاملة، وفق المجلس الأوروبي للعلاقات.",
+      "bigStat": {
+        "value": "50,000",
+        "label": "وظائف متوقعة",
+        "arabicLabel": "وظائف متوقعة"
+      },
+      "supportingStats": [
+        {
+          "label": "القيادة",
+          "value": "تركيا"
+        },
+        {
+          "label": "الإطار",
+          "value": "شراكة CEPA"
+        },
+        {
+          "label": "السياق",
+          "value": "ما بعد الأسد"
+        }
+      ],
+      "broll": "images/news/2026-05-30-syria-energy-deal/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-syria-energy-deal/broll_3.jpg",
+        "images/news/2026-05-30-syria-energy-deal/hero.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_1.jpg",
+        "images/news/2026-05-30-syria-energy-deal/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "ECFR / TURKISH MINUTE • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    },
+    {
+      "name": "Daily Sabah",
+      "domain": "dailysabah.com"
+    },
+    {
+      "name": "Turkish Minute",
+      "domain": "turkishminute.com"
+    },
+    {
+      "name": "ECFR",
+      "domain": "ecfr.eu"
+    }
+  ],
+  "arabicTicker": [
+    "دمشق توقّع اتفاق طاقة بـ7 مليارات دولار في 29 مايو",
+    "الاتفاق يضيف 4000 ميغاواط غاز و1000 شمسية",
+    "إنتاج متوقع 35 مليار كيلوواط ساعة سنوياً",
+    "محطات في حمص وحماة ودير الزور وجنوب سوريا",
+    "تركيا تقود إعمار سوريا بعد سقوط الأسد بنحو 50 ألف وظيفة"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تحوّل استراتيجي",
+    "arabicHeadline": "السعودية توقف ذا لاين حتى ما بعد 2030",
+    "englishSubhead": "NEOM HALTS THE LINE TO POST-2030 • PIF PIVOTS 80% DOMESTIC • POPULATION TARGET CUT TO 100K",
+    "heroMedia": "images/news/2026-05-30-neom-line-halt/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الصندوق",
+      "arabicHeading": "صندوق الاستثمارات يعيد 80% من رهانه للداخل",
+      "arabicBody": "تستهدف استراتيجية الصندوق السيادي 2026‑2030 تخصيص 80% محلياً وخفض الانكشاف الخارجي إلى 20%، تحت ضغط مالي، وفق سيمافور.",
+      "bigStat": {
+        "value": "80%",
+        "label": "التخصيص المحلي الجديد",
+        "arabicLabel": "التخصيص المحلي الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "الخارج",
+          "value": "20% فقط"
+        },
+        {
+          "label": "السبب",
+          "value": "ضغط مالي"
+        },
+        {
+          "label": "المصدر",
+          "value": "سيمافور"
+        }
+      ],
+      "broll": "images/news/2026-05-30-neom-line-halt/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-neom-line-halt/broll_1.jpg",
+        "images/news/2026-05-30-neom-line-halt/hero.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_2.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SEMAFOR • MAY 2026"
+    },
+    {
+      "label": "ذا لاين",
+      "arabicHeading": "ذا لاين يتأجل وهدف السكان يهوي إلى 100 ألف",
+      "arabicBody": "أجّلت نيوم مدينة ذا لاين، المقدّرة بأكثر من تريليون دولار، إلى ما بعد 2030 وخفضت هدف سكان 2030 إلى 100 ألف، وفق سيمافور.",
+      "bigStat": {
+        "value": "$1T+",
+        "label": "كلفة ذا لاين المقدّرة",
+        "arabicLabel": "كلفة ذا لاين المقدّرة"
+      },
+      "supportingStats": [
+        {
+          "label": "الطول",
+          "value": "170 كم"
+        },
+        {
+          "label": "سكان 2030",
+          "value": "100 ألف"
+        },
+        {
+          "label": "الحالة",
+          "value": "مؤجل"
+        }
+      ],
+      "broll": "images/news/2026-05-30-neom-line-halt/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-neom-line-halt/broll_2.jpg",
+        "images/news/2026-05-30-neom-line-halt/hero.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_1.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SEMAFOR / NEOM • 2026"
+    },
+    {
+      "label": "البديل",
+      "arabicHeading": "نيوم تحوّل 3 مليارات نحو مدينة أوكساجون",
+      "arabicBody": "تتجه نيوم لإنفاق نحو 3 مليارات دولار على أوكساجون الصناعية ومراكز البيانات، تحوّلاً نحو مشاريع أسرع عائداً، وفق منتدى الخليج الدولي.",
+      "bigStat": {
+        "value": "$3B",
+        "label": "إنفاق أوكساجون الجديد",
+        "arabicLabel": "إنفاق أوكساجون الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "التوجه",
+          "value": "صناعة وبيانات"
+        },
+        {
+          "label": "المنطق",
+          "value": "عائد أسرع"
+        },
+        {
+          "label": "المصدر",
+          "value": "GIF"
+        }
+      ],
+      "broll": "images/news/2026-05-30-neom-line-halt/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-neom-line-halt/broll_3.jpg",
+        "images/news/2026-05-30-neom-line-halt/hero.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_1.jpg",
+        "images/news/2026-05-30-neom-line-halt/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "GULF INTERNATIONAL FORUM • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Semafor",
+      "domain": "semafor.com"
+    },
+    {
+      "name": "Gulf International Forum",
+      "domain": "gulfif.org"
+    },
+    {
+      "name": "House of Saud",
+      "domain": "houseofsaud.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    }
+  ],
+  "arabicTicker": [
+    "نيوم توقف مدينة ذا لاين إلى ما بعد 2030",
+    "هدف سكان ذا لاين 2030 يهوي إلى 100 ألف",
+    "صندوق الاستثمارات يخصّص 80% للداخل و20% للخارج",
+    "ذا لاين قُدّرت كلفته بأكثر من تريليون دولار",
+    "نيوم تحوّل 3 مليارات دولار نحو مدينة أوكساجون"
+  ]
+}

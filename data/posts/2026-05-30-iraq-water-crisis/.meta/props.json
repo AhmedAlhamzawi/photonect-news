@@ -1,0 +1,148 @@
+{
+  "dateLabel": "MAY 30 • 2026",
+  "arabicDateLabel": "30 مايو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "أسوأ جفاف منذ قرن",
+    "arabicHeadline": "العراق يواجه أسوأ جفاف منذ 1933",
+    "englishSubhead": "IRAQ'S WORST DROUGHT SINCE 1933 • TIGRIS & EUPHRATES DOWN 27% • RESERVES AT 80-YEAR LOW",
+    "heroMedia": "images/news/2026-05-30-iraq-water-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الأنهار",
+      "arabicHeading": "دجلة والفرات إلى أدنى مستوى بثمانية عقود",
+      "arabicBody": "انخفضت مناسيب دجلة والفرات حتى 27% ووصلت الخزانات إلى أدنى مستوى منذ 80 عاماً، وفق ناسا ووزارة الموارد المائية.",
+      "bigStat": {
+        "value": "27%",
+        "label": "هبوط مناسيب النهرين",
+        "arabicLabel": "هبوط مناسيب النهرين"
+      },
+      "supportingStats": [
+        {
+          "label": "الخزانات",
+          "value": "أدنى 80 عاماً"
+        },
+        {
+          "label": "حصة العراق",
+          "value": "<35%"
+        },
+        {
+          "label": "السنة",
+          "value": "الأجف منذ 1933"
+        }
+      ],
+      "broll": "images/news/2026-05-30-iraq-water-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-05-30-iraq-water-crisis/broll_1.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/hero.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_2.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA EARTH OBSERVATORY • 2026"
+    },
+    {
+      "label": "المنبع",
+      "arabicHeading": "سدود تركيا وإيران تخنق تدفق المياه",
+      "arabicBody": "يصل العراق أقل من 35% من حصته المائية بعد سدود بنتها تركيا وإيران على المنبع، وفق الجزيرة وذي أراب ويكلي.",
+      "bigStat": {
+        "value": "35%",
+        "label": "ما يصل العراق من حصته",
+        "arabicLabel": "ما يصل العراق من حصته"
+      },
+      "supportingStats": [
+        {
+          "label": "المنبع",
+          "value": "تركيا وإيران"
+        },
+        {
+          "label": "البصرة",
+          "value": "3.5 مليون متأثر"
+        },
+        {
+          "label": "السبب",
+          "value": "سدود ومناخ"
+        }
+      ],
+      "broll": "images/news/2026-05-30-iraq-water-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-05-30-iraq-water-crisis/broll_2.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/hero.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_1.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AL JAZEERA / THE ARAB WEEKLY • 2026"
+    },
+    {
+      "label": "الإنذار",
+      "arabicHeading": "تحذير رسمي: الفرات قد يجف بحلول 2040",
+      "arabicBody": "حذّرت وزارة الموارد المائية من جفاف الفرات كلياً بحلول 2040 دون إجراء عاجل، فيما تعتمد البصرة على صهاريج يومية، وفق الجزيرة.",
+      "bigStat": {
+        "value": "2040",
+        "label": "موعد الجفاف الكامل المحتمل",
+        "arabicLabel": "موعد الجفاف الكامل المحتمل"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة",
+          "value": "مياه بالصهاريج"
+        },
+        {
+          "label": "التلوث",
+          "value": "يتفاقم جنوباً"
+        },
+        {
+          "label": "الإنذار",
+          "value": "وزارة المياه"
+        }
+      ],
+      "broll": "images/news/2026-05-30-iraq-water-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-05-30-iraq-water-crisis/broll_3.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/hero.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_1.jpg",
+        "images/news/2026-05-30-iraq-water-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "IRAQ MINISTRY OF WATER RESOURCES • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "NASA Earth Observatory",
+      "domain": "science.nasa.gov"
+    },
+    {
+      "name": "AsiaNews",
+      "domain": "asianews.it"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Iraq Ministry of Water Resources",
+      "domain": "mowr.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يعيش أسوأ جفاف منذ عام 1933",
+    "مناسيب دجلة والفرات تنخفض حتى 27%",
+    "الخزانات المائية إلى أدنى مستوى منذ 80 عاماً",
+    "سدود تركيا وإيران تقلّص حصة العراق إلى أقل من 35%",
+    "وزارة الموارد المائية تحذّر من جفاف الفرات بحلول 2040"
+  ]
+}
