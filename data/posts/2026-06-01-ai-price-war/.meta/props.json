@@ -1,0 +1,154 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "حرب الأسعار",
+    "arabicHeadline": "السعر ينهار: ذكاء بـ1.25 دولار للمليون رمز",
+    "englishSubhead": "AI PRICE WAR • GROK 4.3 & DEEPSEEK V4 SLASH FRONTIER COSTS • CHEAPER ARABIC AI",
+    "heroMedia": "images/news/2026-06-01-ai-price-war/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحدث",
+      "arabicHeading": "xAI تنزل Grok 4.3 في وجه DeepSeek",
+      "arabicBody": "في 6 مايو أطلقت xAI نموذج Grok 4.3 بـ1.25 دولار للمليون رمز، يلاحق DeepSeek V4 على الأداء والسعر، وفق Artificial Analysis.",
+      "bigStat": {
+        "value": "$1.25",
+        "label": "للمليون رمز إدخال",
+        "arabicLabel": "للمليون رمز إدخال"
+      },
+      "supportingStats": [
+        {
+          "label": "النافذة",
+          "value": "مليون رمز"
+        },
+        {
+          "label": "المنافس",
+          "value": "DeepSeek V4"
+        },
+        {
+          "label": "المصدر",
+          "value": "Artificial Analysis"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ai-price-war/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ai-price-war/broll_1.jpg",
+        "images/news/2026-06-01-ai-price-war/hero.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_2.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ARTIFICIAL ANALYSIS • 2026-06-01"
+    },
+    {
+      "label": "لماذا يهم",
+      "arabicHeading": "سعر أرخص يفتح الذكاء بالعربية لنا",
+      "arabicBody": "انهيار السعر يضع ذكاءً بالعربية بمتناول ناشئة الخليج والعراق، فيما يُنشر Grok فعلياً في السعودية، وفق xAI.",
+      "bigStat": {
+        "value": "1M",
+        "label": "نافذة السياق بالرموز",
+        "arabicLabel": "نافذة السياق بالرموز"
+      },
+      "supportingStats": [
+        {
+          "label": "السوق",
+          "value": "الخليج والعراق"
+        },
+        {
+          "label": "النشر",
+          "value": "السعودية"
+        },
+        {
+          "label": "المصدر",
+          "value": "xAI"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ai-price-war/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ai-price-war/broll_2.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_1.jpg",
+        "images/news/2026-06-01-ai-price-war/hero.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ARTIFICIAL ANALYSIS • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "ثلاثة طرق: خفض أعمق، تركّز، تنظيم",
+      "arabicBody": "أمام السوق ثلاث طرق: خفض أعمق للسعر، أو تركّز بيد قلة، أو تنظيم حكومي للنماذج، وفق llm-stats وDataCenterDynamics.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات للسوق",
+        "arabicLabel": "مسارات للسوق"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "خفض أعمق"
+        },
+        {
+          "label": "الثاني",
+          "value": "تركّز"
+        },
+        {
+          "label": "الثالث",
+          "value": "تنظيم"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ai-price-war/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ai-price-war/broll_3.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_1.jpg",
+        "images/news/2026-06-01-ai-price-war/hero.jpg",
+        "images/news/2026-06-01-ai-price-war/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "ARTIFICIAL ANALYSIS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Artificial Analysis",
+      "domain": "artificialanalysis.ai"
+    },
+    {
+      "name": "xAI",
+      "domain": "x.ai"
+    },
+    {
+      "name": "llm-stats",
+      "domain": "llm-stats.com"
+    },
+    {
+      "name": "DataCenterDynamics",
+      "domain": "datacenterdynamics.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "InfoWorld",
+      "domain": "infoworld.com"
+    }
+  ],
+  "arabicTicker": [
+    "السعر ينهار: ذكاء بـ1.25 دولار للمليون رمز",
+    "xAI أطلقت Grok 4.3 في 6 مايو بـ1.25 دولار للمليون رمز",
+    "DeepSeek V4 يلاحق Grok على الأداء والسعر معاً في الجبهة نفسها",
+    "نافذة سياق مليون رمز صارت السقف الجديد للنماذج المنافسة اليوم",
+    "السعر الأرخص يفتح ذكاءً بالعربية لناشئة الخليج والعراق فعلياً",
+    "Grok يُنشر اليوم في السعودية، وأبوابه تُفتح أمام السوق العربي",
+    "خفض أعمق، تركّز، أم تنظيم: من يحكم سوق الذكاء غداً؟"
+  ]
+}

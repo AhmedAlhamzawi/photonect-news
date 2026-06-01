@@ -1,0 +1,154 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "مرسك تعبر البحر الأحمر بعد عامين توقف",
+    "englishSubhead": "MAERSK CROSSES RED SEA FIRST TIME IN 2 YEARS • HOUTHIS HOLD FIRE • OMAN-BROKERED TRUCE",
+    "heroMedia": "images/news/2026-06-01-redsea-reopens/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحدث",
+      "arabicHeading": "سفن مرسك تعود إلى البحر الأحمر",
+      "arabicBody": "عبرت سفن مرسك الممر لأول مرة منذ عامين، بعد التزام الحوثيين وقف النار بوساطة عُمانية، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "2",
+        "label": "عام منذ آخر عبور",
+        "arabicLabel": "عام منذ آخر عبور"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "سلطنة عُمان"
+        },
+        {
+          "label": "الهدنة",
+          "value": "6 مايو"
+        },
+        {
+          "label": "المصدر",
+          "value": "تايمز أوف إسرائيل"
+        }
+      ],
+      "broll": "images/news/2026-06-01-redsea-reopens/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-redsea-reopens/broll_1.jpg",
+        "images/news/2026-06-01-redsea-reopens/hero.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_2.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "THE NATIONAL • 2026-06-01"
+    },
+    {
+      "label": "لماذا يهم",
+      "arabicHeading": "باب المندب يحمل 12% من التجارة",
+      "arabicBody": "يمر عبر باب المندب نحو 12% من التجارة العالمية، وعودة السفن تختصر مسار إفريقيا وتخفض أجور الشحن، وفق مجلس العلاقات الخارجية.",
+      "bigStat": {
+        "value": "12%",
+        "label": "من التجارة العالمية",
+        "arabicLabel": "من التجارة العالمية"
+      },
+      "supportingStats": [
+        {
+          "label": "المسار البديل",
+          "value": "+10 أيام"
+        },
+        {
+          "label": "التأثير",
+          "value": "خفض أجور الشحن"
+        },
+        {
+          "label": "المصدر",
+          "value": "CFR"
+        }
+      ],
+      "broll": "images/news/2026-06-01-redsea-reopens/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-redsea-reopens/broll_2.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_1.jpg",
+        "images/news/2026-06-01-redsea-reopens/hero.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "THE NATIONAL • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "هدنة تصمد أم خرق يعيد التحويل",
+      "arabicBody": "ثلاثة مسارات أمام الممر: هدنة دائمة، أو خرق يعيد التحويل حول إفريقيا، أو عودة جزئية حذرة، وفق ماريتايم إكزكتف وACLED.",
+      "bigStat": {
+        "value": "3",
+        "label": "سيناريوهات للملاحة",
+        "arabicLabel": "سيناريوهات للملاحة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "هدنة دائمة"
+        },
+        {
+          "label": "الثاني",
+          "value": "خرق جديد"
+        },
+        {
+          "label": "الثالث",
+          "value": "عودة جزئية"
+        }
+      ],
+      "broll": "images/news/2026-06-01-redsea-reopens/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-redsea-reopens/broll_3.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_1.jpg",
+        "images/news/2026-06-01-redsea-reopens/hero.jpg",
+        "images/news/2026-06-01-redsea-reopens/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "THE NATIONAL • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "CFR",
+      "domain": "cfr.org"
+    },
+    {
+      "name": "Maritime Executive",
+      "domain": "maritime-executive.com"
+    },
+    {
+      "name": "ACLED",
+      "domain": "acleddata.com"
+    },
+    {
+      "name": "gCaptain",
+      "domain": "gcaptain.com"
+    }
+  ],
+  "arabicTicker": [
+    "سفن مرسك تعبر البحر الأحمر لأول مرة منذ عامين",
+    "الحوثيون يلتزمون وقف إطلاق النار بوساطة عُمانية منذ 6 مايو",
+    "باب المندب ممر نحو 12% من التجارة العالمية",
+    "عودة الملاحة تخفض أجور الشحن وتختصر مسار رأس الرجاء الصالح",
+    "المسار البديل حول إفريقيا يضيف نحو 10 أيام للرحلة",
+    "ثلاثة سيناريوهات أمام الممر: هدنة دائمة أو خرق أو عودة جزئية",
+    "هل تصمد الهدنة، أم نعود إلى تحويل السفن حول إفريقيا؟"
+  ]
+}

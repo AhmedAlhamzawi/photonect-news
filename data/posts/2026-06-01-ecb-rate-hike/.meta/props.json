@@ -1,0 +1,154 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "europe",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أوروبا والنفط",
+    "arabicHeadline": "صدمة من الخليج تدفع أوروبا لرفع الفائدة",
+    "englishSubhead": "ECB NEARS JUNE 11 RATE HIKE • IRAN OIL SHOCK • LAGARDE TO RAISE INFLATION OUTLOOK",
+    "heroMedia": "images/news/2026-06-01-ecb-rate-hike/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحدث",
+      "arabicHeading": "لاغارد ترفع توقع التضخم قبل 11 يونيو",
+      "arabicBody": "تمهّد كريستين لاغارد لرفع الفائدة في 11 يونيو ورفع توقع التضخم بعد قفزة النفط، وفق بلومبرغ.",
+      "bigStat": {
+        "value": "11",
+        "label": "يونيو موعد القرار",
+        "arabicLabel": "يونيو موعد القرار"
+      },
+      "supportingStats": [
+        {
+          "label": "التضخم المتوقع",
+          "value": "2.6%"
+        },
+        {
+          "label": "الميل",
+          "value": "رفع ربع نقطة"
+        },
+        {
+          "label": "المصدر",
+          "value": "بلومبرغ"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ecb-rate-hike/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ecb-rate-hike/broll_1.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/hero.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_2.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "BLOOMBERG • 2026-06-01"
+    },
+    {
+      "label": "لماذا يهم",
+      "arabicHeading": "هرمز رفع برنت 117 ودفع التضخم",
+      "arabicBody": "إغلاق مضيق هرمز رفع برنت إلى 117 دولاراً في أبريل، فصعد التضخم الأوروبي معه، وفق البنك الدولي.",
+      "bigStat": {
+        "value": "$117",
+        "label": "سعر برنت في أبريل",
+        "arabicLabel": "سعر برنت في أبريل"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "حرب إيران"
+        },
+        {
+          "label": "هرمز",
+          "value": "20% من النفط"
+        },
+        {
+          "label": "المصدر",
+          "value": "البنك الدولي"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ecb-rate-hike/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ecb-rate-hike/broll_2.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_1.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/hero.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "BLOOMBERG • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "ثلاثة مسارات: رفع أو تثبيت أو ركود",
+      "arabicBody": "أمام المركزي رفع ربع نقطة، أو تثبيت إن حلّ سلام أميركي إيراني، أو ركود، وفق CNBC ورويترز.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات للقرار",
+        "arabicLabel": "مسارات للقرار"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "رفع ربع نقطة"
+        },
+        {
+          "label": "الثاني",
+          "value": "تثبيت"
+        },
+        {
+          "label": "الثالث",
+          "value": "ركود"
+        }
+      ],
+      "broll": "images/news/2026-06-01-ecb-rate-hike/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-ecb-rate-hike/broll_3.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_1.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/hero.jpg",
+        "images/news/2026-06-01-ecb-rate-hike/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "BLOOMBERG • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "ECB",
+      "domain": "ecb.europa.eu"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "World Bank",
+      "domain": "worldbank.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Equiti",
+      "domain": "equiti.com"
+    }
+  ],
+  "arabicTicker": [
+    "صدمة من الخليج تدفع أوروبا لرفع الفائدة",
+    "لاغارد تمهّد لرفع توقع التضخم قبل اجتماع 11 يونيو، وفق بلومبرغ",
+    "إغلاق مضيق هرمز رفع برنت إلى 117 دولاراً في أبريل، وفق البنك الدولي",
+    "هرمز يمرّ عبره نحو 20% من إمدادات النفط في العالم",
+    "الأسواق تسعّر رفعاً بربع نقطة في اجتماع يونيو، وفق CNBC ورويترز",
+    "ثلاثة مسارات أمام المركزي: رفع أو تثبيت أو خطر ركود",
+    "هل يدفع المستهلك الأوروبي ثمن حرب بدأت في الخليج؟"
+  ]
+}

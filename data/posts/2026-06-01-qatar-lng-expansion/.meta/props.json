@@ -1,0 +1,154 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الغاز المسال",
+    "arabicHeadline": "قطر تضخّ 29 مليار في حقل الشمال",
+    "englishSubhead": "QATAR PUSHES $29B NORTH FIELD LNG EXPANSION • FIRST OUTPUT MID-2026 • US OVERSEAS DEAL",
+    "heroMedia": "images/news/2026-06-01-qatar-lng-expansion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحدث",
+      "arabicHeading": "قطر تمضي بالتوسعة رغم اضطراب السوق",
+      "arabicBody": "قطر للطاقة تدفع 29 مليار دولار في توسعة حقل الشمال، وأول إنتاج منتصف 2026، رغم اضطراب سوق الغاز، وفق يورونيوز.",
+      "bigStat": {
+        "value": "$29B",
+        "label": "استثمار التوسعة",
+        "arabicLabel": "استثمار التوسعة"
+      },
+      "supportingStats": [
+        {
+          "label": "بدء الإنتاج",
+          "value": "منتصف 2026"
+        },
+        {
+          "label": "الحقل",
+          "value": "الشمال"
+        },
+        {
+          "label": "المصدر",
+          "value": "يورونيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-01-qatar-lng-expansion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-qatar-lng-expansion/broll_1.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/hero.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_2.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "EURONEWS • 2026-06-01"
+    },
+    {
+      "label": "لماذا يهم",
+      "arabicHeading": "الطاقة تقفز من 77 إلى 142",
+      "arabicBody": "التوسعة ترفع طاقة الغاز المسال من 77 إلى 142 مليون طن سنوياً بحلول 2030، مع منح أميركي يفتح التصدير الخارجي، وفق AGBI.",
+      "bigStat": {
+        "value": "142",
+        "label": "مليون طن مسال سنوياً",
+        "arabicLabel": "مليون طن مسال سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالي",
+          "value": "77 مليون طن"
+        },
+        {
+          "label": "الهدف",
+          "value": "2030"
+        },
+        {
+          "label": "المصدر",
+          "value": "AGBI"
+        }
+      ],
+      "broll": "images/news/2026-06-01-qatar-lng-expansion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-qatar-lng-expansion/broll_2.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_1.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/hero.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "EURONEWS • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "ثلاثة مسارات: ريادة أم منافسة أم فائض",
+      "arabicBody": "أمام قطر ثلاثة مسارات: ترسيخ الريادة، أو منافسة أميركية صاعدة، أو فائض معروض يضغط الأسعار، وفق مصادر قطرية وأميركية.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات للسوق",
+        "arabicLabel": "مسارات للسوق"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "ريادة"
+        },
+        {
+          "label": "الثاني",
+          "value": "منافسة"
+        },
+        {
+          "label": "الثالث",
+          "value": "فائض"
+        }
+      ],
+      "broll": "images/news/2026-06-01-qatar-lng-expansion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-qatar-lng-expansion/broll_3.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_1.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/hero.jpg",
+        "images/news/2026-06-01-qatar-lng-expansion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "EURONEWS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "The Middle East Insider",
+      "domain": "themiddleeastinsider.com"
+    },
+    {
+      "name": "QatarEnergy",
+      "domain": "qatarenergy.qa"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Offshore Energy",
+      "domain": "offshore-energy.biz"
+    }
+  ],
+  "arabicTicker": [
+    "قطر تضخّ 29 مليار في حقل الشمال",
+    "أول إنتاج من التوسعة منتصف 2026 رغم اضطراب سوق الغاز عالمياً",
+    "التوسعة ترفع طاقة الغاز المسال إلى 142 مليون طن سنوياً بحلول 2030",
+    "الطاقة الحالية نحو 77 مليون طن سنوياً قبل التوسعة الجديدة",
+    "منح أميركي يفتح لقطر باب تصدير الغاز المسال من الخارج",
+    "السوق العالمي يضطرب فيما تراهن الدوحة على الريادة طويلة المدى",
+    "ريادة قطرية أم فائض يضغط الأسعار — من يكسب السوق؟"
+  ]
+}

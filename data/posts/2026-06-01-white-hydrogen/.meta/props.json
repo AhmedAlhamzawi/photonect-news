@@ -1,0 +1,152 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طاقة",
+    "arabicHeadline": "صخور كندا تسرّب وقوداً نظيفاً يهدد النفط",
+    "englishSubhead": "MASSIVE NATURAL 'WHITE' HYDROGEN FOUND IN BILLION-YEAR-OLD CANADIAN ROCK • PNAS STUDY",
+    "heroMedia": "images/news/2026-06-01-white-hydrogen/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاكتشاف",
+      "arabicHeading": "منجم في تيمنز يسرّب 140 طناً سنوياً",
+      "arabicBody": "قاس علماء 140 طناً من الهيدروجين تتسرب سنوياً من منجم في تيمنز بأونتاريو، في دراسة نشرتها PNAS، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "140",
+        "label": "طن هيدروجين سنوياً",
+        "arabicLabel": "طن هيدروجين سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "تيمنز، أونتاريو"
+        },
+        {
+          "label": "الدراسة",
+          "value": "PNAS"
+        },
+        {
+          "label": "المصدر",
+          "value": "ساينس ديلي"
+        }
+      ],
+      "broll": "images/news/2026-06-01-white-hydrogen/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-white-hydrogen/broll_1.jpg",
+        "images/news/2026-06-01-white-hydrogen/hero.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_2.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "PNAS • 2026-06-01"
+    },
+    {
+      "label": "لماذا يهم",
+      "arabicHeading": "موقع واحد يكفي 400 منزل سنوياً",
+      "arabicBody": "موقع واحد قد يولّد 4.7 مليون كيلوواط/ساعة، تكفي أكثر من 400 منزل سنوياً، ويزاحم النفط الذي يعيل العراق والخليج، وفق جامعة تورنتو.",
+      "bigStat": {
+        "value": "400",
+        "label": "منزل يمكن تشغيله سنوياً",
+        "arabicLabel": "منزل يمكن تشغيله سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة",
+          "value": "4.7 مليون ك.و.س"
+        },
+        {
+          "label": "النوع",
+          "value": "هيدروجين أبيض"
+        },
+        {
+          "label": "المصدر",
+          "value": "جامعة تورنتو"
+        }
+      ],
+      "broll": "images/news/2026-06-01-white-hydrogen/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-white-hydrogen/broll_2.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_1.jpg",
+        "images/news/2026-06-01-white-hydrogen/hero.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "PNAS • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "تطوير تجاري أم عقبات أم سباق",
+      "arabicBody": "أمام الاكتشاف ثلاثة مسارات: تطوير تجاري واعد، أو عقبات اقتصادية، أو سباق تنقيب عالمي على الهيدروجين الطبيعي، وفق Phys.org.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات للطاقة",
+        "arabicLabel": "مسارات للطاقة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "تطوير تجاري"
+        },
+        {
+          "label": "الثاني",
+          "value": "عقبات"
+        },
+        {
+          "label": "الثالث",
+          "value": "سباق تنقيب"
+        }
+      ],
+      "broll": "images/news/2026-06-01-white-hydrogen/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-white-hydrogen/broll_3.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_1.jpg",
+        "images/news/2026-06-01-white-hydrogen/hero.jpg",
+        "images/news/2026-06-01-white-hydrogen/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "PNAS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PNAS",
+      "domain": "pnas.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "University of Toronto",
+      "domain": "utoronto.ca"
+    },
+    {
+      "name": "Nature World News",
+      "domain": "natureworldnews.com"
+    },
+    {
+      "name": "Interesting Engineering",
+      "domain": "interestingengineering.com"
+    }
+  ],
+  "arabicTicker": [
+    "صخور كندا تسرّب وقوداً نظيفاً يهدد النفط",
+    "علماء يقيسون تسرّب 140 طناً من الهيدروجين سنوياً من منجم في تيمنز بأونتاريو",
+    "دراسة في PNAS ترصد هيدروجين أبيض في الدرع الكندي عمره مليار سنة",
+    "موقع واحد قد يولّد 4.7 مليون كيلوواط/ساعة، تكفي أكثر من 400 منزل سنوياً",
+    "هل يهدد الهيدروجين الأبيض خريطة النفط التي يعيش عليها العراق والخليج؟"
+  ]
+}

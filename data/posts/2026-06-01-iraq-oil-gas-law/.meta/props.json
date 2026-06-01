@@ -1,0 +1,154 @@
+{
+  "dateLabel": "JUN 1 • 2026",
+  "arabicDateLabel": "1 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط العراق",
+    "arabicHeadline": "بعد 20 عاماً: العراق يقترب من قانون النفط",
+    "englishSubhead": "IRAQ NEARS LANDMARK OIL & GAS LAW • 20 YEARS STALLED • BAGHDAD–ERBIL DEAL",
+    "heroMedia": "images/news/2026-06-01-iraq-oil-gas-law/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإطار",
+      "arabicHeading": "الزيدي يضع القانون على رأس أولوياته",
+      "arabicBody": "حكومة الزيدي تدفع قانون النفط والغاز إلى الواجهة بعد توافق أغلب الكتل، وفق شفق نيوز والصباح.",
+      "bigStat": {
+        "value": "20",
+        "label": "عاماً من التعطيل",
+        "arabicLabel": "عاماً من التعطيل"
+      },
+      "supportingStats": [
+        {
+          "label": "قوانين مُمررة",
+          "value": "16"
+        },
+        {
+          "label": "الموقف",
+          "value": "توافق الكتل"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-01-iraq-oil-gas-law/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_1.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/hero.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_2.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SHAFAQ NEWS • 2026-06-01"
+    },
+    {
+      "label": "بغداد وأربيل",
+      "arabicHeading": "القانون يعيد عائدات جيهان للخزينة",
+      "arabicBody": "القانون يوحّد إدارة الثروة بين بغداد وأربيل، ويعيد عائدات 200 ألف برميل تُصدَّر عبر جيهان للخزينة، وفق العربي ويكلي.",
+      "bigStat": {
+        "value": "200",
+        "label": "ألف برميل يومياً عبر جيهان",
+        "arabicLabel": "ألف برميل يومياً عبر جيهان"
+      },
+      "supportingStats": [
+        {
+          "label": "الوجهة",
+          "value": "ميناء جيهان"
+        },
+        {
+          "label": "العائدات",
+          "value": "للخزينة"
+        },
+        {
+          "label": "المصدر",
+          "value": "العربي ويكلي"
+        }
+      ],
+      "broll": "images/news/2026-06-01-iraq-oil-gas-law/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_2.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_1.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/hero.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SHAFAQ NEWS • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "ثلاثة مسارات تقرّر مصير القانون",
+      "arabicBody": "أمام القانون قراءة برلمانية وتمرير، أو تأجيل بسبب خلافات فنية، أو طعن دستوري، وفق رووداو وكردستان24.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات محتملة",
+        "arabicLabel": "مسارات محتملة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "قراءة وتمرير"
+        },
+        {
+          "label": "الثاني",
+          "value": "تأجيل"
+        },
+        {
+          "label": "الثالث",
+          "value": "طعن دستوري"
+        }
+      ],
+      "broll": "images/news/2026-06-01-iraq-oil-gas-law/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_3.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_1.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/hero.jpg",
+        "images/news/2026-06-01-iraq-oil-gas-law/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "SHAFAQ NEWS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Al-Sabah",
+      "domain": "alsabaah.iq"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Argus Media",
+      "domain": "argusmedia.com"
+    }
+  ],
+  "arabicTicker": [
+    "بعد 20 عاماً: العراق يقترب من قانون النفط",
+    "حكومة الزيدي تضع التشريع على رأس أولوياتها وسط توافق الكتل",
+    "البرلمان مرّر 16 قانوناً استراتيجياً حتى الآن",
+    "القانون يعيد عائدات 200 ألف برميل تُصدَّر عبر جيهان للخزينة الاتحادية",
+    "القانون يوحّد إدارة الثروة بين بغداد وأربيل لأول مرة",
+    "ثلاثة مسارات أمامه: تمرير، أو تأجيل، أو طعن دستوري",
+    "بعد 20 عاماً من التعطيل، هل يمرّ القانون هذه المرة؟"
+  ]
+}
