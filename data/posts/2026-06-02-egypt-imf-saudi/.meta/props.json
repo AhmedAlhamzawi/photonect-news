@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد مصر",
+    "arabicHeadline": "مصر تُنهي برنامج الصندوق وتقبض 2.3 مليار",
+    "englishSubhead": "EGYPT NEARS END OF IMF PROGRAM • $2.3B TRANCHE RELEASED • SAUDI INVESTMENT PACT APPROVED",
+    "heroMedia": "images/news/2026-06-02-egypt-imf-saudi/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البرنامج",
+      "arabicHeading": "القاهرة تُغلق ملف الصندوق في يونيو",
+      "arabicBody": "أقرّ الصندوق المراجعتين الخامسة والسادسة وصرف 2.3 مليار دولار، لتُنهي مصر البرنامج بحلول يونيو 2026، وفق صندوق النقد.",
+      "bigStat": {
+        "value": "2.3",
+        "label": "مليار دولار شريحة جديدة",
+        "arabicLabel": "مليار دولار شريحة جديدة"
+      },
+      "supportingStats": [
+        {
+          "label": "البرنامج",
+          "value": "تسهيل ممدد"
+        },
+        {
+          "label": "الشريحة",
+          "value": "2.3 مليار $"
+        },
+        {
+          "label": "المصدر",
+          "value": "صندوق النقد"
+        }
+      ],
+      "broll": "images/news/2026-06-02-egypt-imf-saudi/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-egypt-imf-saudi/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "IMF • 2026-02-26"
+    },
+    {
+      "label": "الخليج",
+      "arabicHeading": "الرياض تثبّت أقدامها في السوق المصري",
+      "arabicBody": "أقرّ البرلمان المصري اتفاق حماية الاستثمار مع السعودية، تحت مجلس تنسيق أعلى، بعد ودائع خليجية تجاوزت 20 مليار دولار، وفق عرب نيوز.",
+      "bigStat": {
+        "value": "20",
+        "label": "مليار دولار ودائع خليجية",
+        "arabicLabel": "مليار دولار ودائع خليجية"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاق",
+          "value": "حماية استثمار"
+        },
+        {
+          "label": "الإطار",
+          "value": "مجلس تنسيق"
+        },
+        {
+          "label": "المصدر",
+          "value": "عرب نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-egypt-imf-saudi/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-egypt-imf-saudi/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ARAB NEWS • 2026-05-30"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "الجنيه والتضخم اختبار ما بعد الصندوق",
+      "arabicBody": "رغم 35 مليار دولار من صفقة رأس الحكمة الإماراتية، يبقى تثبيت الجنيه وكبح التضخم التحدي الأكبر أمام القاهرة، وفق بروكينغز ورويترز.",
+      "bigStat": {
+        "value": "35",
+        "label": "مليار دولار صفقة رأس الحكمة",
+        "arabicLabel": "مليار دولار صفقة رأس الحكمة"
+      },
+      "supportingStats": [
+        {
+          "label": "التحدي",
+          "value": "التضخم"
+        },
+        {
+          "label": "الدعم",
+          "value": "35 مليار $"
+        },
+        {
+          "label": "المصدر",
+          "value": "بروكينغز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-egypt-imf-saudi/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-egypt-imf-saudi/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "REUTERS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "International Monetary Fund",
+      "domain": "imf.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Brookings",
+      "domain": "brookings.edu"
+    }
+  ],
+  "arabicTicker": [
+    "مصر تُنهي برنامج الصندوق وتقبض 2.3 مليار",
+    "الصندوق يقرّ المراجعتين الخامسة والسادسة ويصرف 2.3 مليار دولار",
+    "البرلمان المصري يقرّ اتفاق حماية الاستثمار مع السعودية",
+    "مجلس تنسيق أعلى يجمع القاهرة والرياض",
+    "ودائع خليجية تجاوزت 20 مليار دولار دعمت الاقتصاد المصري",
+    "صفقة رأس الحكمة الإماراتية ضخّت 35 مليار دولار في مصر",
+    "هل ينجح تثبيت الجنيه وكبح التضخم بعد رحيل الصندوق؟"
+  ]
+}

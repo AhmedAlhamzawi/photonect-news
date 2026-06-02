@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم الفضاء",
+    "arabicHeadline": "مسبار صيني يلحق بكويكب رفيق للأرض",
+    "englishSubhead": "CHINA'S TIANWEN-2 REACHES NEAR-EARTH ASTEROID KAMO'OALEWA • FIRST CHINESE SAMPLE RETURN",
+    "heroMedia": "images/news/2026-06-02-tianwen2-asteroid/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الوصول",
+      "arabicHeading": "تيانوين-2 يبلغ هدفه بعد 13 شهراً",
+      "arabicBody": "بعد 13 شهراً عبر الفضاء، يدخل مسبار تيانوين-2 مدار الكويكب كاموأوليوا منتصف يونيو، وفق سبيس نيوز.",
+      "bigStat": {
+        "value": "13",
+        "label": "شهراً رحلة الوصول",
+        "arabicLabel": "شهراً رحلة الوصول"
+      },
+      "supportingStats": [
+        {
+          "label": "الكويكب",
+          "value": "كاموأوليوا"
+        },
+        {
+          "label": "القطر",
+          "value": "40-100 م"
+        },
+        {
+          "label": "المصدر",
+          "value": "سبيس نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-tianwen2-asteroid/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-tianwen2-asteroid/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SPACENEWS • 2026-06-02"
+    },
+    {
+      "label": "المهمة",
+      "arabicHeading": "أول حفنة صينية من سطح كويكب",
+      "arabicBody": "في يوليو يلامس المسبار السطح ليقتطف عينة، في أول مهمة صينية تعيد ترابَ كويكب، وفق مجلة ساينس.",
+      "bigStat": {
+        "value": "2016",
+        "label": "عام اكتشاف الكويكب",
+        "arabicLabel": "عام اكتشاف الكويكب"
+      },
+      "supportingStats": [
+        {
+          "label": "الجمع",
+          "value": "يوليو 2026"
+        },
+        {
+          "label": "الأولى",
+          "value": "صينياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "ساينس"
+        }
+      ],
+      "broll": "images/news/2026-06-02-tianwen2-asteroid/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-tianwen2-asteroid/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SCIENCE • 2026-06-02"
+    },
+    {
+      "label": "العودة",
+      "arabicHeading": "كبسولة تهبط في منغوليا مطلع 2027",
+      "arabicBody": "تهبط الكبسولة في منغوليا الداخلية مطلع 2027، حاملةً تراباً قد يكشف نشأة النظام الشمسي، وفق نيو سبيس إيكونومي.",
+      "bigStat": {
+        "value": "2027",
+        "label": "موعد عودة العينات",
+        "arabicLabel": "موعد عودة العينات"
+      },
+      "supportingStats": [
+        {
+          "label": "الهبوط",
+          "value": "منغوليا الداخلية"
+        },
+        {
+          "label": "الهدف",
+          "value": "نشأة الكواكب"
+        },
+        {
+          "label": "المصدر",
+          "value": "نيو سبيس"
+        }
+      ],
+      "broll": "images/news/2026-06-02-tianwen2-asteroid/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-tianwen2-asteroid/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NEW SPACE ECONOMY • 2026-06-02"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SpaceNews",
+      "domain": "spacenews.com"
+    },
+    {
+      "name": "Science (AAAS)",
+      "domain": "science.org"
+    },
+    {
+      "name": "New Space Economy",
+      "domain": "newspaceeconomy.ca"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    }
+  ],
+  "arabicTicker": [
+    "مسبار صيني يلحق بكويكب رفيق للأرض",
+    "تيانوين-2 يدخل مدار كاموأوليوا منتصف يونيو بعد 13 شهراً",
+    "أول مهمة صينية تعيد عينة من تراب كويكب",
+    "اقتطاف العينة مقرر في يوليو 2026 من السطح",
+    "كبسولة العينات تهبط في منغوليا الداخلية مطلع 2027",
+    "الكويكب اكتُشف 2016 وقطره بين 40 و100 متر",
+    "ماذا يخبئ تراب الكويكب عن نشأة كواكبنا؟"
+  ]
+}

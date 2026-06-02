@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "حكومة العراق",
+    "arabicHeadline": "الزيدي بلا دفاع وداخلية: 9 حقائب شاغرة",
+    "englishSubhead": "AL-ZAIDI CABINET STILL INCOMPLETE • 9 PORTFOLIOS VACANT • DEFENSE & INTERIOR UNFILLED",
+    "heroMedia": "images/news/2026-06-02-iraq-cabinet-deadlock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإطار",
+      "arabicHeading": "14 وزيراً فقط نالوا الثقة",
+      "arabicBody": "نال 14 من أصل 23 وزيراً ثقة البرلمان في 14 مايو، فيما بقيت 9 حقائب شاغرة حتى الآن، وفق الجزيرة.",
+      "bigStat": {
+        "value": "14",
+        "label": "وزيراً نالوا الثقة",
+        "arabicLabel": "وزيراً نالوا الثقة"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلوب",
+          "value": "23 وزيراً"
+        },
+        {
+          "label": "الشاغرة",
+          "value": "9 حقائب"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة"
+        }
+      ],
+      "broll": "images/news/2026-06-02-iraq-cabinet-deadlock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-iraq-cabinet-deadlock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AL JAZEERA • 2026-06-02"
+    },
+    {
+      "label": "العقدة",
+      "arabicHeading": "الدفاع والداخلية خارج التشكيلة",
+      "arabicBody": "أبرز الشاغر حقيبتا الدفاع والداخلية، إذ تتنازع الكتل على الحقائب السيادية منذ أسابيع، وفق ذا ناشونال.",
+      "bigStat": {
+        "value": "2",
+        "label": "حقيبتان سياديتان معلقتان",
+        "arabicLabel": "حقيبتان سياديتان معلقتان"
+      },
+      "supportingStats": [
+        {
+          "label": "الدفاع",
+          "value": "شاغرة"
+        },
+        {
+          "label": "الداخلية",
+          "value": "شاغرة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ذا ناشونال"
+        }
+      ],
+      "broll": "images/news/2026-06-02-iraq-cabinet-deadlock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-iraq-cabinet-deadlock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "THE NATIONAL • 2026-06-02"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "ثلاثة مسارات أمام إكمال الحكومة",
+      "arabicBody": "أمام الزيدي توافق سريع، أو حكومة منقوصة تدير البلاد، أو أزمة ثقة جديدة، وفق إيراقي نيوز وشفق نيوز.",
+      "bigStat": {
+        "value": "3",
+        "label": "مسارات محتملة",
+        "arabicLabel": "مسارات محتملة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول",
+          "value": "توافق"
+        },
+        {
+          "label": "الثاني",
+          "value": "حكومة منقوصة"
+        },
+        {
+          "label": "الثالث",
+          "value": "أزمة ثقة"
+        }
+      ],
+      "broll": "images/news/2026-06-02-iraq-cabinet-deadlock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-iraq-cabinet-deadlock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "IRAQI NEWS • 2026-06-02"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "IraqiNews",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "حكومة الزيدي عالقة: 9 وزارات بلا أصحاب حتى الآن",
+    "14 من أصل 23 وزيراً فقط نالوا ثقة البرلمان في 14 مايو",
+    "حقيبتا الدفاع والداخلية لا تزالان شاغرتين",
+    "الكتل تتنازع على الحقائب السيادية منذ أسابيع",
+    "ثلاثة مسارات: توافق، أو حكومة منقوصة، أو أزمة ثقة",
+    "بعد 3 أسابيع من التصويت، هل تكتمل الحكومة؟"
+  ]
+}

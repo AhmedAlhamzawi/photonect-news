@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طب وصحة",
+    "arabicHeadline": "حبة من إيلي ليلي تنافس مشرط الجراح",
+    "englishSubhead": "ELI LILLY'S NEXT-GEN OBESITY DRUG NEARS SURGERY-LEVEL WEIGHT LOSS IN LATE-STAGE TRIAL",
+    "heroMedia": "images/news/2026-06-02-lilly-obesity-drug/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "النتيجة",
+      "arabicHeading": "حبة تقترب من نتائج المشرط",
+      "arabicBody": "في تجربة من المرحلة الثالثة، قارب عقار إيلي ليلي الجديد خسارة الوزن التي تحققها جراحة تكميم المعدة، وفق ستات نيوز.",
+      "bigStat": {
+        "value": "3",
+        "label": "المرحلة الثالثة من التجربة",
+        "arabicLabel": "المرحلة الثالثة من التجربة"
+      },
+      "supportingStats": [
+        {
+          "label": "الشركة",
+          "value": "إيلي ليلي"
+        },
+        {
+          "label": "المقارنة",
+          "value": "جراحة المعدة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ستات نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-lilly-obesity-drug/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-lilly-obesity-drug/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "STAT NEWS • 2026-05-21"
+    },
+    {
+      "label": "المعنى",
+      "arabicHeading": "بديل بلا مشرط لمليار إنسان",
+      "arabicBody": "أكثر من مليار مصاب بالسمنة قد يجدون بديلاً غير جراحي يعيد رسم سوق أدوية إنقاص الوزن، وفق مجلة ساينس.",
+      "bigStat": {
+        "value": "1",
+        "label": "مليار مصاب بالسمنة عالمياً",
+        "arabicLabel": "مليار مصاب بالسمنة عالمياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الفئة",
+          "value": "مرضى السمنة"
+        },
+        {
+          "label": "الأثر",
+          "value": "بديل للجراحة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ساينس"
+        }
+      ],
+      "broll": "images/news/2026-06-02-lilly-obesity-drug/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-lilly-obesity-drug/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SCIENCE • 2026-05-21"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "يبقى قرار المنظّمين حاسماً",
+      "arabicBody": "يبقى العقار رهن مراجعة الجهات التنظيمية قبل طرحه، وسط منافسة محتدمة على سوق أدوية إنقاص الوزن، وفق رويترز.",
+      "bigStat": {
+        "value": "2026",
+        "label": "عام إعلان نتائج التجربة",
+        "arabicLabel": "عام إعلان نتائج التجربة"
+      },
+      "supportingStats": [
+        {
+          "label": "التالي",
+          "value": "موافقة تنظيمية"
+        },
+        {
+          "label": "السوق",
+          "value": "منافسة محتدمة"
+        },
+        {
+          "label": "المصدر",
+          "value": "رويترز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-lilly-obesity-drug/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-lilly-obesity-drug/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "REUTERS • 2026-05-21"
+    }
+  ],
+  "sources": [
+    {
+      "name": "STAT News",
+      "domain": "statnews.com"
+    },
+    {
+      "name": "Science (AAAS)",
+      "domain": "science.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Eli Lilly",
+      "domain": "lilly.com"
+    }
+  ],
+  "arabicTicker": [
+    "حبة من إيلي ليلي تنافس مشرط الجراح",
+    "تجربة من المرحلة الثالثة تقارب نتائج جراحة تكميم المعدة، وفق ستات نيوز",
+    "العقار قد يصبح بديلاً غير جراحي لملايين مرضى السمنة",
+    "أكثر من مليار إنسان يعانون السمنة حول العالم، وفق ساينس",
+    "النتيجة تبقى رهن موافقة الجهات التنظيمية قبل الطرح، وفق رويترز",
+    "منافسة محتدمة تعيد رسم سوق أدوية إنقاص الوزن بالكامل",
+    "هل تزيح الحبة مشرط الجراح عن طاولة علاج السمنة؟"
+  ]
+}

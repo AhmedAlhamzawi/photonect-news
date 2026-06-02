@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "اليمن",
+    "arabicHeadline": "هادي يرحل في الرياض عن 80 عاماً",
+    "englishSubhead": "FORMER YEMENI PRESIDENT ABDRABBUH MANSUR HADI DIES IN RIYADH AT 80",
+    "heroMedia": "images/news/2026-06-02-hadi-yemen-legacy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرحيل",
+      "arabicHeading": "رحيل صامت في عاصمة المنفى",
+      "arabicBody": "غيّب الموت عبدربه منصور هادي في الرياض عن 80 عاماً بعد تدهور صحته، وفق الجزيرة وذا ناشونال.",
+      "bigStat": {
+        "value": "80",
+        "label": "عاماً عمر الراحل",
+        "arabicLabel": "عاماً عمر الراحل"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "الرياض"
+        },
+        {
+          "label": "المنصب",
+          "value": "رئيس أسبق"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hadi-yemen-legacy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hadi-yemen-legacy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AL JAZEERA • 2026-05-28"
+    },
+    {
+      "label": "المسار",
+      "arabicHeading": "من قصر الرئاسة إلى منفى الرياض",
+      "arabicBody": "قاد اليمن منذ 2012، ولجأ للسعودية عام 2015 بعد سيطرة الحوثيين على صنعاء، ثم استقال عام 2022، وفق ميدل إيست آي.",
+      "bigStat": {
+        "value": "2015",
+        "label": "عام اللجوء إلى الرياض",
+        "arabicLabel": "عام اللجوء إلى الرياض"
+      },
+      "supportingStats": [
+        {
+          "label": "تولى",
+          "value": "2012"
+        },
+        {
+          "label": "اللجوء",
+          "value": "2015"
+        },
+        {
+          "label": "الاستقالة",
+          "value": "2022"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hadi-yemen-legacy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hadi-yemen-legacy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "MIDDLE EAST EYE • 2026-05-28"
+    },
+    {
+      "label": "التداعيات",
+      "arabicHeading": "رحيله يطوي صفحة الشرعية الانتقالية",
+      "arabicBody": "نقل خالد بن سلمان تعازي القيادة السعودية، فيما يغلق رحيله ملف الشرعية الانتقالية بعد 11 عاماً من الحرب، وفق الشرق الأوسط.",
+      "bigStat": {
+        "value": "11",
+        "label": "عاماً من الحرب اليمنية",
+        "arabicLabel": "عاماً من الحرب اليمنية"
+      },
+      "supportingStats": [
+        {
+          "label": "التعازي",
+          "value": "القيادة السعودية"
+        },
+        {
+          "label": "المغزى",
+          "value": "نهاية حقبة"
+        },
+        {
+          "label": "المصدر",
+          "value": "الشرق الأوسط"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hadi-yemen-legacy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hadi-yemen-legacy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "ASHARQ AL-AWSAT • 2026-05-30"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Middle East Eye",
+      "domain": "middleeasteye.net"
+    },
+    {
+      "name": "Saudi Gazette",
+      "domain": "saudigazette.com.sa"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    }
+  ],
+  "arabicTicker": [
+    "هادي يرحل في الرياض عن 80 عاماً",
+    "قاد اليمن منذ 2012 ولجأ إلى السعودية عام 2015 بعد سقوط صنعاء",
+    "استقال من الرئاسة عام 2022 وأمضى سنواته الأخيرة في الرياض",
+    "خالد بن سلمان ينقل تعازي القيادة السعودية إلى أسرة الراحل",
+    "رحيله يغلق ملف الشرعية الانتقالية بعد 11 عاماً من الحرب",
+    "هل يطوي غياب هادي آخر صفحات مرحلة اليمن الانتقالية؟"
+  ]
+}

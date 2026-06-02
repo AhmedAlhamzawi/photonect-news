@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 2 • 2026",
+  "arabicDateLabel": "2 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "إنجاز عربي",
+    "arabicHeadline": "حكيمي أول عربي يرفع دوري الأبطال 3 مرات",
+    "englishSubhead": "HAKIMI: FIRST ARAB TO WIN 3 CHAMPIONS LEAGUE TITLES • MOST DECORATED AFRICAN EVER",
+    "heroMedia": "images/news/2026-06-02-hakimi-ucl-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللحظة",
+      "arabicHeading": "ركلات الترجيح تحسم اللقب لباريس",
+      "arabicBody": "باريس سان جيرمان يحتفظ باللقب بعد 1-1 وفوزه على أرسنال 4-3 بركلات الترجيح، وفق فوكس سبورتس.",
+      "bigStat": {
+        "value": "3",
+        "label": "ألقاب أوروبية لحكيمي",
+        "arabicLabel": "ألقاب أوروبية لحكيمي"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "4-3 ترجيح"
+        },
+        {
+          "label": "اللقب",
+          "value": "الثاني توالياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "فوكس سبورتس"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hakimi-ucl-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hakimi-ucl-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FOX SPORTS • 2026-06-01"
+    },
+    {
+      "label": "التاريخ",
+      "arabicHeading": "19 لقباً تتقدم على إيتو وتوريه",
+      "arabicBody": "بـ19 لقباً يصبح حكيمي أكثر اللاعبين الأفارقة تتويجاً، متجاوزاً صامويل إيتو ويايا توريه، وفق ترانسفير ماركت.",
+      "bigStat": {
+        "value": "19",
+        "label": "لقباً في مسيرته",
+        "arabicLabel": "لقباً في مسيرته"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "الأول أفريقياً"
+        },
+        {
+          "label": "تجاوز",
+          "value": "إيتو وتوريه"
+        },
+        {
+          "label": "المصدر",
+          "value": "ترانسفير ماركت"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hakimi-ucl-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hakimi-ucl-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "TRANSFERMARKT • 2026-06-01"
+    },
+    {
+      "label": "ماذا بعد",
+      "arabicHeading": "المغرب يريحه قبل مواجهة البرازيل",
+      "arabicBody": "المغرب يمنح حكيمي راحة قبل افتتاح كأس العالم أمام البرازيل يوم 13 يونيو، وفق موروكو وورلد نيوز.",
+      "bigStat": {
+        "value": "13",
+        "label": "يونيو موعد لقاء البرازيل",
+        "arabicLabel": "يونيو موعد لقاء البرازيل"
+      },
+      "supportingStats": [
+        {
+          "label": "البطولة",
+          "value": "كأس العالم"
+        },
+        {
+          "label": "المنافس",
+          "value": "البرازيل"
+        },
+        {
+          "label": "المصدر",
+          "value": "موروكو نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-02-hakimi-ucl-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-02-hakimi-ucl-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "MOROCCO WORLD NEWS • 2026-06-01"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Morocco World News",
+      "domain": "moroccoworldnews.com"
+    },
+    {
+      "name": "FOX Sports",
+      "domain": "foxsports.com"
+    },
+    {
+      "name": "Transfermarkt",
+      "domain": "transfermarkt.com"
+    },
+    {
+      "name": "Fotmob",
+      "domain": "fotmob.com"
+    }
+  ],
+  "arabicTicker": [
+    "حكيمي أول عربي يرفع دوري الأبطال 3 مرات",
+    "باريس سان جيرمان يحتفظ باللقب أمام أرسنال 4-3 بالترجيح",
+    "بـ19 لقباً.. حكيمي أكثر اللاعبين الأفارقة تتويجاً في التاريخ",
+    "تجاوز أساطير القارة صامويل إيتو ويايا توريه، وفق ترانسفير ماركت",
+    "المغرب يمنحه راحة قبل افتتاح كأس العالم أمام البرازيل",
+    "موعد الانطلاق: 13 يونيو في مواجهة منتخب البرازيل",
+    "هل يقود حكيمي المغرب لمفاجأة أمام البرازيل؟"
+  ]
+}
