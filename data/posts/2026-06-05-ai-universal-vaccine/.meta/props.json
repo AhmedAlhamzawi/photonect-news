@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم وصحة",
+    "arabicHeadline": "لقاح صمّمه الذكاء الاصطناعي يجتاز أول تجربة بشرية",
+    "englishSubhead": "AI-DESIGNED 'UNIVERSAL' CORONAVIRUS VACCINE PASSES FIRST HUMAN TRIAL • CAMBRIDGE",
+    "heroMedia": "images/news/2026-06-05-ai-universal-vaccine/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الذكاء الاصطناعي يصمم لقاحاً لعائلة كورونا",
+      "arabicBody": "صمّم باحثو جامعة كامبريدج لقاح pEVAC-PS بالتعلم الآلي ليستهدف فيروسات كورونا الحالية وأخرى لم تظهر بعد، وفق الجامعة.",
+      "bigStat": {
+        "value": "39",
+        "label": "متطوعاً في التجربة الأولى",
+        "arabicLabel": "متطوعاً في التجربة الأولى"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "جامعة كامبريدج"
+        },
+        {
+          "label": "المرحلة",
+          "value": "الأولى"
+        },
+        {
+          "label": "المصدر",
+          "value": "كامبريدج"
+        }
+      ],
+      "broll": "images/news/2026-06-05-ai-universal-vaccine/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-ai-universal-vaccine/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "UNIVERSITY OF CAMBRIDGE • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "آمن ويحفّز مناعة ضد فيروسات عدة",
+      "arabicBody": "أثبتت التجربة أن اللقاح آمن بلا آثار جانبية خطيرة، وحفّز مناعة ضد كوفيد-19 وسارس وفيروسات الخفافيش، وفق Journal of Infection.",
+      "bigStat": {
+        "value": "0",
+        "label": "آثار جانبية خطيرة مسجّلة",
+        "arabicLabel": "آثار جانبية خطيرة مسجّلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأعمار",
+          "value": "18–50 سنة"
+        },
+        {
+          "label": "الاستجابة",
+          "value": "ضد فيروسات عدة"
+        },
+        {
+          "label": "النشر",
+          "value": "Journal of Infection"
+        }
+      ],
+      "broll": "images/news/2026-06-05-ai-universal-vaccine/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-ai-universal-vaccine/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "JOURNAL OF INFECTION • 2026-06-04"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تجربة موسّعة في المرحلة الثانية",
+      "arabicBody": "يخطط الفريق لتجربة أوسع في المرحلة الثانية لتأكيد الحماية لدى فئات أكثر تنوعاً، تمهيداً لمواجهة أوبئة مقبلة، وفق فارما فوروم.",
+      "bigStat": {
+        "value": "2",
+        "label": "المرحلة الثانية المقبلة",
+        "arabicLabel": "المرحلة الثانية المقبلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "وقاية استباقية"
+        },
+        {
+          "label": "التقنية",
+          "value": "تصميم بالذكاء الاصطناعي"
+        },
+        {
+          "label": "المصدر",
+          "value": "فارما فوروم"
+        }
+      ],
+      "broll": "images/news/2026-06-05-ai-universal-vaccine/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-ai-universal-vaccine/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "PHARMAPHORUM • 2026-06-04"
+    }
+  ],
+  "sources": [
+    {
+      "name": "University of Cambridge",
+      "domain": "cam.ac.uk"
+    },
+    {
+      "name": "DIOSynVax",
+      "domain": "diosynvax.com"
+    },
+    {
+      "name": "Journal of Infection",
+      "domain": "journalofinfection.com"
+    },
+    {
+      "name": "Pharmaphorum",
+      "domain": "pharmaphorum.com"
+    }
+  ],
+  "arabicTicker": [
+    "جامعة كامبريدج تصمم لقاحاً عاماً لكورونا بالذكاء الاصطناعي",
+    "لقاح pEVAC-PS يجتاز أول تجربة بشرية على 39 متطوعاً",
+    "آمن بلا آثار جانبية خطيرة، وفق Journal of Infection",
+    "حفّز مناعة ضد كوفيد-19 وسارس وفيروسات الخفافيش",
+    "التعلم الآلي حدّد سمات مشتركة بين فيروسات عائلة كورونا",
+    "تجربة موسّعة في المرحلة الثانية تمهيداً لمواجهة أوبئة مقبلة"
+  ]
+}

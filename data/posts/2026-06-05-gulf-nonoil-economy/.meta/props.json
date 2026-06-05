@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد الخليج",
+    "arabicHeadline": "الخليج ينمو بعيداً عن النفط",
+    "englishSubhead": "GULF GROWTH RIDES NON-OIL SECTORS IN 2026 • UAE EYES 5.6%, SAUDI PMI AT 52.8",
+    "heroMedia": "images/news/2026-06-05-gulf-nonoil-economy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الإمارات تتوقع نمواً 5.6% في 2026",
+      "arabicBody": "يتوقع المركزي الإماراتي نمو الاقتصاد 5.6% في 2026، مدفوعاً بالقطاعات غير النفطية والتجارة والسياحة، وفق المصرف المركزي.",
+      "bigStat": {
+        "value": "5.6%",
+        "label": "نمو الإمارات المتوقع",
+        "arabicLabel": "نمو الإمارات المتوقع"
+      },
+      "supportingStats": [
+        {
+          "label": "المحرّك",
+          "value": "قطاعات غير نفطية"
+        },
+        {
+          "label": "الدعائم",
+          "value": "تجارة وسياحة"
+        },
+        {
+          "label": "المصدر",
+          "value": "المركزي الإماراتي"
+        }
+      ],
+      "broll": "images/news/2026-06-05-gulf-nonoil-economy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-gulf-nonoil-economy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "UAE CENTRAL BANK • 2026-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نشاط السعودية غير النفطي يتوسّع",
+      "arabicBody": "ارتفع مؤشر مديري المشتريات غير النفطي بالسعودية إلى 52.8 في مايو، مع تضخم منخفض عند 1.7%، وفق ستاندرد آند بورز.",
+      "bigStat": {
+        "value": "52.8",
+        "label": "مؤشر مديري المشتريات",
+        "arabicLabel": "مؤشر مديري المشتريات"
+      },
+      "supportingStats": [
+        {
+          "label": "التضخم",
+          "value": "1.7%"
+        },
+        {
+          "label": "الاتجاه",
+          "value": "توسّع"
+        },
+        {
+          "label": "المصدر",
+          "value": "S&P Global"
+        }
+      ],
+      "broll": "images/news/2026-06-05-gulf-nonoil-economy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-gulf-nonoil-economy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "S&P GLOBAL / ARAB NEWS • 2026-06"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "فيتش: نمو خليجي غير نفطي 3.7%",
+      "arabicBody": "تتوقع فيتش نمو الناتج غير النفطي للخليج 3.7% في 2026، في تحول تدريجي يقلّص الاعتماد على عائدات النفط، وفق فيتش.",
+      "bigStat": {
+        "value": "3.7%",
+        "label": "نمو الخليج غير النفطي",
+        "arabicLabel": "نمو الخليج غير النفطي"
+      },
+      "supportingStats": [
+        {
+          "label": "المدى",
+          "value": "2026"
+        },
+        {
+          "label": "التوجه",
+          "value": "تنويع اقتصادي"
+        },
+        {
+          "label": "المصدر",
+          "value": "فيتش"
+        }
+      ],
+      "broll": "images/news/2026-06-05-gulf-nonoil-economy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-gulf-nonoil-economy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "FITCH RATINGS • 2026-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UAE Central Bank",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "S&P Global",
+      "domain": "spglobal.com"
+    },
+    {
+      "name": "Fitch Ratings",
+      "domain": "arabnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "المركزي الإماراتي يتوقع نمو الاقتصاد 5.6% في 2026",
+    "النمو مدفوع بالقطاعات غير النفطية والتجارة والسياحة",
+    "مؤشر مديري المشتريات غير النفطي بالسعودية يرتفع إلى 52.8 في مايو",
+    "التضخم السعودي منخفض عند 1.7% بين الأدنى عالمياً",
+    "فيتش تتوقع نمو الناتج غير النفطي للخليج 3.7% في 2026",
+    "تحول تدريجي يقلّص اعتماد الخليج على عائدات النفط",
+    "هل ينجح الخليج في فطام اقتصاده عن النفط؟"
+  ]
+}

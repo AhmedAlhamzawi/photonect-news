@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أزمة الكهرباء",
+    "arabicHeadline": "العراق ينفق 600 مليار على الكهرباء ويجبي 1%",
+    "englishSubhead": "IRAQ SPENDS ~$397M/MONTH ON POWER, COLLECTS ~1% OF BILLS • SUMMER SHORTFALL LOOMS",
+    "heroMedia": "images/news/2026-06-05-iraq-power-revenue/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كل شهر 600 مليار تخرج… ويعود 1%",
+      "arabicBody": "ينفق العراق نحو 600 مليار دينار شهرياً على الكهرباء، فيما تعود جباية الفواتير بأقل من 1% من الإنفاق، وفق مرصد عراق الاقتصادي.",
+      "bigStat": {
+        "value": "1%",
+        "label": "نسبة تحصيل الفواتير",
+        "arabicLabel": "نسبة تحصيل الفواتير"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنفاق الشهري",
+          "value": "600 مليار دينار"
+        },
+        {
+          "label": "الجباية",
+          "value": "أقل من مليار"
+        },
+        {
+          "label": "المصدر",
+          "value": "مرصد عراق"
+        }
+      ],
+      "broll": "images/news/2026-06-05-iraq-power-revenue/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-iraq-power-revenue/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ECO IRAQ OBSERVATORY • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فجوة 22 ألف ميغاواط وموازنة تتقلّص",
+      "arabicBody": "تنتج المنظومة 28 ألف ميغاواط مقابل حاجة 50 ألفاً، فيما تتجه موازنة 2026 إلى 150 تريليون دينار، نزولاً من 211 في 2025، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "28",
+        "label": "ألف ميغاواط من أصل 50",
+        "arabicLabel": "ألف ميغاواط من أصل 50"
+      },
+      "supportingStats": [
+        {
+          "label": "الحاجة",
+          "value": "50 ألف ميغاواط"
+        },
+        {
+          "label": "موازنة 2026",
+          "value": "150 تريليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-05-iraq-power-revenue/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-iraq-power-revenue/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SHAFAQ NEWS • 2026-06-04"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ذروة الصيف تقترب… والمشاريع مجمّدة",
+      "arabicBody": "يحذّر تقرير للطاقة من نقص حاد في الكهرباء مع ذروة الصيف، فيما تتجمّد المشاريع لغياب التخصيصات المالية، وفق كردستان24.",
+      "bigStat": {
+        "value": "17.7",
+        "label": "تريليون دينار عجز حتى أيلول",
+        "arabicLabel": "تريليون دينار عجز حتى أيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "الذروة",
+          "value": "صيف 2026"
+        },
+        {
+          "label": "المشاريع",
+          "value": "مجمّدة"
+        },
+        {
+          "label": "المصدر",
+          "value": "كردستان24"
+        }
+      ],
+      "broll": "images/news/2026-06-05-iraq-power-revenue/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-iraq-power-revenue/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "KURDISTAN24 • 2026-06-03"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ECO Iraq Observatory",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "The Washington Institute",
+      "domain": "washingtoninstitute.org"
+    }
+  ],
+  "arabicTicker": [
+    "العراق ينفق نحو 600 مليار دينار شهرياً على الكهرباء",
+    "جباية الفواتير لا تتجاوز 1% من الإنفاق، وفق مرصد عراق الاقتصادي",
+    "المنظومة تنتج 28 ألف ميغاواط مقابل حاجة 50 ألفاً",
+    "موازنة 2026 تتجه نحو 150 تريليون دينار مقابل 211 في 2025",
+    "تقرير للطاقة يحذّر من نقص حاد في الكهرباء مع ذروة الصيف",
+    "العجز المالي بلغ 17.7 تريليون دينار حتى أيلول",
+    "هل يصمد التجهيز الكهربائي في صيف العراق القادم؟"
+  ]
+}

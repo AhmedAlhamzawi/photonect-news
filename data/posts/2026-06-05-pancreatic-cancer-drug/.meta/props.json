@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "اختراق طبي",
+    "arabicHeadline": "دواء يضاعف بقاء مرضى سرطان البنكرياس النقيلي",
+    "englishSubhead": "DARAXONRASIB NEARLY DOUBLES SURVIVAL IN METASTATIC PANCREATIC CANCER • PHASE 3",
+    "heroMedia": "images/news/2026-06-05-pancreatic-cancer-drug/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البقاء يقفز إلى 13.2 شهراً مقابل 6.7",
+      "arabicBody": "في تجربة المرحلة الثالثة، رفع داراكسونراسيب متوسط البقاء إلى 13.2 شهراً مقابل 6.7 للعلاج الكيميائي، وفق ريفولوشن ميديسنز.",
+      "bigStat": {
+        "value": "13.2",
+        "label": "شهراً متوسط البقاء",
+        "arabicLabel": "شهراً متوسط البقاء"
+      },
+      "supportingStats": [
+        {
+          "label": "العلاج الكيميائي",
+          "value": "6.7 شهر"
+        },
+        {
+          "label": "خفض خطر الوفاة",
+          "value": "60%"
+        },
+        {
+          "label": "المصدر",
+          "value": "ريفولوشن"
+        }
+      ],
+      "broll": "images/news/2026-06-05-pancreatic-cancer-drug/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-pancreatic-cancer-drug/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "REVOLUTION MEDICINES • 2026-05-31"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول علاج يثبت تفوقه في الخط الثاني",
+      "arabicBody": "يستهدف داراكسونراسيب مسار جين RAS ويخفض خطر الوفاة 60%، ما قد يعيد رسم معيار علاج السرطان النقيلي، وفق دانا-فاربر.",
+      "bigStat": {
+        "value": "60%",
+        "label": "خفض خطر الوفاة",
+        "arabicLabel": "خفض خطر الوفاة"
+      },
+      "supportingStats": [
+        {
+          "label": "الآلية",
+          "value": "مثبط مسار RAS"
+        },
+        {
+          "label": "الخط العلاجي",
+          "value": "الثاني"
+        },
+        {
+          "label": "المصدر",
+          "value": "دانا-فاربر"
+        }
+      ],
+      "broll": "images/news/2026-06-05-pancreatic-cancer-drug/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-pancreatic-cancer-drug/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "DANA-FARBER CANCER INSTITUTE • 2026-05-31"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أسكو ونيو إنغلاند تؤكدان النتائج",
+      "arabicBody": "عُرضت النتائج في مؤتمر أسكو ونُشرت في مجلة نيو إنغلاند الطبية، مع برنامج وصول مبكر أقرّته FDA، وفق آسكو بوست.",
+      "bigStat": {
+        "value": "0.40",
+        "label": "نسبة الخطر (HR)",
+        "arabicLabel": "نسبة الخطر HR"
+      },
+      "supportingStats": [
+        {
+          "label": "المؤتمر",
+          "value": "أسكو 2026"
+        },
+        {
+          "label": "النشر",
+          "value": "نيو إنغلاند"
+        },
+        {
+          "label": "الوصول المبكر",
+          "value": "أقرّته FDA"
+        }
+      ],
+      "broll": "images/news/2026-06-05-pancreatic-cancer-drug/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-pancreatic-cancer-drug/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "THE ASCO POST • 2026-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Revolution Medicines",
+      "domain": "revmed.com"
+    },
+    {
+      "name": "Dana-Farber Cancer Institute",
+      "domain": "dana-farber.org"
+    },
+    {
+      "name": "The ASCO Post",
+      "domain": "ascopost.com"
+    },
+    {
+      "name": "New England Journal of Medicine",
+      "domain": "nejm.org"
+    }
+  ],
+  "arabicTicker": [
+    "داراكسونراسيب يضاعف تقريباً بقاء مرضى سرطان البنكرياس النقيلي",
+    "متوسط البقاء 13.2 شهراً مقابل 6.7 للعلاج الكيميائي",
+    "خفض خطر الوفاة بنسبة 60% في تجربة المرحلة الثالثة",
+    "الدواء مثبط لمسار جين RAS في الخط العلاجي الثاني",
+    "عُرضت النتائج في مؤتمر أسكو ونُشرت في نيو إنغلاند الطبية",
+    "برنامج وصول مبكر أقرّته إدارة الغذاء والدواء الأميركية",
+    "هل يصبح هذا الدواء معياراً جديداً لعلاج سرطان البنكرياس؟"
+  ]
+}

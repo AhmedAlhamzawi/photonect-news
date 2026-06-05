@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كأس العالم",
+    "arabicHeadline": "مونديال 2026 ينطلق بـ48 منتخباً وثلاث دول",
+    "englishSubhead": "WORLD CUP 2026 KICKS OFF JUNE 11 • FIRST 48-TEAM, FIRST TRI-NATION TOURNAMENT",
+    "heroMedia": "images/news/2026-06-05-worldcup-2026-kickoff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المكسيك تفتتح المونديال على الأزتيكا",
+      "arabicBody": "ينطلق المونديال في 11 يونيو بمواجهة المكسيك وجنوب أفريقيا على ملعب أزتيكا، في أكبر نسخة بتاريخ البطولة، وفق فيفا.",
+      "bigStat": {
+        "value": "48",
+        "label": "منتخباً مشاركاً",
+        "arabicLabel": "منتخباً مشاركاً"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتتاح",
+          "value": "11 يونيو"
+        },
+        {
+          "label": "الملعب",
+          "value": "أزتيكا"
+        },
+        {
+          "label": "المصدر",
+          "value": "فيفا"
+        }
+      ],
+      "broll": "images/news/2026-06-05-worldcup-2026-kickoff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-worldcup-2026-kickoff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FIFA • 2026-06-03"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ثلاث دول و16 مدينة تستضيف لأول مرة",
+      "arabicBody": "تستضيف الولايات المتحدة والمكسيك وكندا البطولة في 16 مدينة، في أول نسخة بثلاث دول مضيفة و48 منتخباً، وفق فيفا.",
+      "bigStat": {
+        "value": "16",
+        "label": "مدينة مضيفة",
+        "arabicLabel": "مدينة مضيفة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدول المضيفة",
+          "value": "3"
+        },
+        {
+          "label": "المباريات",
+          "value": "104"
+        },
+        {
+          "label": "المصدر",
+          "value": "فيفا"
+        }
+      ],
+      "broll": "images/news/2026-06-05-worldcup-2026-kickoff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-worldcup-2026-kickoff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "FIFA • 2026-06-03"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النهائي 19 يوليو ومنتخبات عربية حاضرة",
+      "arabicBody": "تشارك منتخبات عربية بينها المغرب والسعودية، ويُقام النهائي في 19 يوليو وسط ترقب عربي واسع، وفق ياهو سبورتس.",
+      "bigStat": {
+        "value": "19",
+        "label": "يوليو موعد النهائي",
+        "arabicLabel": "يوليو موعد النهائي"
+      },
+      "supportingStats": [
+        {
+          "label": "الختام",
+          "value": "19 يوليو"
+        },
+        {
+          "label": "عربياً",
+          "value": "المغرب والسعودية"
+        },
+        {
+          "label": "المصدر",
+          "value": "ياهو سبورتس"
+        }
+      ],
+      "broll": "images/news/2026-06-05-worldcup-2026-kickoff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-worldcup-2026-kickoff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "YAHOO SPORTS • 2026-06-03"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    }
+  ],
+  "arabicTicker": [
+    "مونديال 2026 ينطلق في 11 يونيو بمواجهة المكسيك وجنوب أفريقيا",
+    "أكبر نسخة في التاريخ بـ48 منتخباً وثلاث دول مضيفة",
+    "الولايات المتحدة والمكسيك وكندا تستضيف على 16 مدينة",
+    "104 مباريات تمتد حتى النهائي يوم 19 يوليو",
+    "منتخبات عربية بينها المغرب والسعودية حاضرة في البطولة",
+    "ملعب أزتيكا التاريخي يحتضن مباراة الافتتاح في المكسيك"
+  ]
+}

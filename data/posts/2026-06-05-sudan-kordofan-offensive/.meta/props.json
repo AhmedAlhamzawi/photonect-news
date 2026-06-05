@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 5 • 2026",
+  "arabicDateLabel": "5 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السودان",
+    "arabicHeadline": "الجيش السوداني يقصف الدعم السريع في كردفان",
+    "englishSubhead": "SUDAN ARMY STRIKES RSF IN NORTH KORDOFAN • DOWNS LONG-RANGE DRONE OVER WHITE NILE",
+    "heroMedia": "images/news/2026-06-05-sudan-kordofan-offensive/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ضربات جوية تستهدف الدعم السريع",
+      "arabicBody": "نفّذ الجيش السوداني ضربات بمسيّرات على مواقع الدعم السريع في شمال كردفان، وأسقط طائرة بعيدة المدى فوق النيل الأبيض، وفق مصادر عسكرية.",
+      "bigStat": {
+        "value": "1",
+        "label": "مسيّرة بعيدة المدى أُسقطت",
+        "arabicLabel": "مسيّرة بعيدة المدى أُسقطت"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "شمال كردفان"
+        },
+        {
+          "label": "الهدف",
+          "value": "الدعم السريع"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجيش السوداني"
+        }
+      ],
+      "broll": "images/news/2026-06-05-sudan-kordofan-offensive/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-05-sudan-kordofan-offensive/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SUDAN ARMED FORCES • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حرب تدخل عامها الثالث بلا حسم",
+      "arabicBody": "تتواصل المعارك منذ أبريل 2023 بين جيش البرهان والدعم السريع، ونزح نحو 12 مليون شخص في واحدة من أكبر أزمات العالم، وفق الأمم المتحدة.",
+      "bigStat": {
+        "value": "12",
+        "label": "مليون نازح بفعل الحرب",
+        "arabicLabel": "مليون نازح بفعل الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "بدء الحرب",
+          "value": "أبريل 2023"
+        },
+        {
+          "label": "الطرفان",
+          "value": "الجيش والدعم السريع"
+        },
+        {
+          "label": "المصدر",
+          "value": "الأمم المتحدة"
+        }
+      ],
+      "broll": "images/news/2026-06-05-sudan-kordofan-offensive/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-05-sudan-kordofan-offensive/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "REUTERS / WIKIMEDIA COMMONS"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كردفان بوابة الإمداد نحو دارفور",
+      "arabicBody": "كردفان جبهة محورية تتحكم بخطوط الإمداد نحو دارفور، وحسمها قد يرجّح كفّة الحرب في عامها الثالث، وفق مراقبين.",
+      "bigStat": {
+        "value": "3",
+        "label": "السنة الثالثة من الحرب",
+        "arabicLabel": "السنة الثالثة من الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "الجبهة",
+          "value": "كردفان"
+        },
+        {
+          "label": "الاتجاه",
+          "value": "نحو دارفور"
+        },
+        {
+          "label": "المصدر",
+          "value": "مراقبون"
+        }
+      ],
+      "broll": "images/news/2026-06-05-sudan-kordofan-offensive/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-05-sudan-kordofan-offensive/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "AL JAZEERA • 2026-06-04"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sudan Armed Forces",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Middle East Eye",
+      "domain": "middleeasteye.net"
+    },
+    {
+      "name": "UN OCHA",
+      "domain": "unocha.org"
+    }
+  ],
+  "arabicTicker": [
+    "الجيش السوداني يقصف الدعم السريع في شمال كردفان",
+    "إسقاط طائرة بعيدة المدى للدعم السريع فوق ولاية النيل الأبيض",
+    "الحرب مستمرة منذ أبريل 2023 بين الجيش والدعم السريع",
+    "نحو 12 مليون نازح في واحدة من أكبر أزمات العالم، وفق الأمم المتحدة",
+    "كردفان بوابة الإمداد نحو دارفور وحسمها قد يرجّح كفّة الحرب",
+    "مراقبون يحذّرون من تصعيد أوسع في الأشهر المقبلة",
+    "من يحسم كردفان أولاً — الجيش أم الدعم السريع؟"
+  ]
+}
