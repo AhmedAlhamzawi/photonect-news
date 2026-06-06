@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "نيكس يكسب افتتاح نهائي دوري كرة السلة الأميركي",
+    "englishSubhead": "KNICKS TOP SPURS 105-95 IN GAME 1 • LEAD SERIES 1-0 • RIDING A 12-GAME PLAYOFF WIN STREAK",
+    "heroMedia": "images/news/2026-06-06-nba-finals-knicks-spurs/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نيكس يهزم سبيرز ويتقدّم 1-0",
+      "arabicBody": "فاز نيويورك نيكس على سان أنطونيو سبيرز 105-95 في المباراة الأولى من نهائي دوري كرة السلة الأميركي، متقدّماً 1-0 في السلسلة، وفق ESPN.",
+      "bigStat": {
+        "value": "105-95",
+        "label": "نيكس يكسب المباراة الأولى",
+        "arabicLabel": "نيكس يكسب المباراة الأولى"
+      },
+      "supportingStats": [
+        {
+          "label": "السلسلة",
+          "value": "1-0 لنيكس"
+        },
+        {
+          "label": "الخاسر",
+          "value": "سان أنطونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-06-nba-finals-knicks-spurs/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-nba-finals-knicks-spurs/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ESPN • 2026-06-05"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "12 فوزاً متتالياً في الإقصائيات",
+      "arabicBody": "رفع الفوز سلسلة انتصارات نيكس في الأدوار الإقصائية إلى 12 مباراة متتالية، معادلاً ثاني أطول سلسلة في تاريخ موسم واحد بدوري المحترفين، وفق ESPN.",
+      "bigStat": {
+        "value": "12",
+        "label": "انتصاراً متتالياً في الإقصائيات",
+        "arabicLabel": "انتصاراً متتالياً في الإقصائيات"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "ثاني أطول سلسلة"
+        },
+        {
+          "label": "الإطار",
+          "value": "موسم واحد"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-06-nba-finals-knicks-spurs/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-nba-finals-knicks-spurs/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ESPN • 2026-06-05"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "نيكس في النهائي لأول مرة منذ 1999",
+      "arabicBody": "يبلغ نيكس النهائي ممثلاً عن الشرق لأول مرة منذ 1999، حين خسر يومها أمام سبيرز أنفسهم، في إعادة لمواجهة تاريخية بين الفريقين، وفق ياهو سبورتس.",
+      "bigStat": {
+        "value": "1999",
+        "label": "آخر ظهور لنيكس في النهائي",
+        "arabicLabel": "آخر ظهور لنيكس في النهائي"
+      },
+      "supportingStats": [
+        {
+          "label": "1999",
+          "value": "خسارة أمام سبيرز"
+        },
+        {
+          "label": "الآن",
+          "value": "إعادة المواجهة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ياهو سبورتس"
+        }
+      ],
+      "broll": "images/news/2026-06-06-nba-finals-knicks-spurs/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-nba-finals-knicks-spurs/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "YAHOO SPORTS • 2026-06-05"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "NBC Sports",
+      "domain": "nbcsports.com"
+    },
+    {
+      "name": "NBA",
+      "domain": "nba.com"
+    }
+  ],
+  "arabicTicker": [
+    "نيويورك نيكس يهزم سان أنطونيو سبيرز 105-95",
+    "نيكس يتقدّم 1-0 في نهائي دوري كرة السلة الأميركي",
+    "سلسلة انتصارات نيكس في الإقصائيات تبلغ 12 مباراة متتالية",
+    "ثاني أطول سلسلة انتصارات في موسم واحد بتاريخ الدوري",
+    "نيكس يبلغ النهائي ممثلاً عن الشرق لأول مرة منذ 1999",
+    "إعادة لمواجهة 1999 التي خسرها نيكس أمام سبيرز",
+    "هل ينتزع نيكس اللقب هذه المرة؟"
+  ]
+}

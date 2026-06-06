@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تقنية",
+    "arabicHeadline": "OpenAI تمنح ChatGPT ذاكرة تتذكّر تلقائياً",
+    "englishSubhead": "OPENAI ROLLS OUT 'DREAMING' MEMORY • AUTO-CURATES CONTEXT • 2× CAPACITY FOR PLUS & PRO USERS",
+    "heroMedia": "images/news/2026-06-06-openai-memory-upgrade/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ذاكرة تُحدَّث تلقائياً وسعة مضاعفة",
+      "arabicBody": "أطلقت OpenAI في 4 يونيو نظام ذاكرة لـChatGPT يُحدّث المعلومات تلقائياً ويضاعف السعة لمشتركي Plus وPro، في أكبر تطوير منذ إطلاق الخدمة، وفق OpenAI.",
+      "bigStat": {
+        "value": "×2",
+        "label": "سعة الذاكرة لمشتركي Plus وPro",
+        "arabicLabel": "سعة الذاكرة لمشتركي Plus وPro"
+      },
+      "supportingStats": [
+        {
+          "label": "الإطلاق",
+          "value": "4 يونيو"
+        },
+        {
+          "label": "البداية",
+          "value": "Plus وPro"
+        },
+        {
+          "label": "المصدر",
+          "value": "OpenAI"
+        }
+      ],
+      "broll": "images/news/2026-06-06-openai-memory-upgrade/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-openai-memory-upgrade/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "OPENAI • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "\"الحلم\": ذاكرة تُبنى في الخلفية",
+      "arabicBody": "تعتمد بنية \"Dreaming\" على عملية خلفية تركّب الذاكرة من محادثات عدة، وتلتقط السياق وتحدّثه مع الوقت بدل انتظار طلب المستخدم، وفق 9to5Mac.",
+      "bigStat": {
+        "value": "Dreaming",
+        "label": "بنية تركّب الذاكرة تلقائياً",
+        "arabicLabel": "بنية تركّب الذاكرة تلقائياً"
+      },
+      "supportingStats": [
+        {
+          "label": "العملية",
+          "value": "في الخلفية"
+        },
+        {
+          "label": "التحديث",
+          "value": "مع الوقت"
+        },
+        {
+          "label": "المصدر",
+          "value": "9to5Mac"
+        }
+      ],
+      "broll": "images/news/2026-06-06-openai-memory-upgrade/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-openai-memory-upgrade/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "9TO5MAC • 2026-06-04"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "توسّع إلى المجّانيين خلال أسابيع",
+      "arabicBody": "قالت الشركة إنها ستوسّع الميزة إلى مستخدمي Free وGo في دول إضافية خلال الأسابيع المقبلة، مع صفحة تتيح مراجعة ما يعرفه النظام عنه، وفق TechTimes.",
+      "bigStat": {
+        "value": "Free + Go",
+        "label": "توسّع خلال أسابيع",
+        "arabicLabel": "توسّع خلال أسابيع"
+      },
+      "supportingStats": [
+        {
+          "label": "النطاق",
+          "value": "دول إضافية"
+        },
+        {
+          "label": "التحكّم",
+          "value": "صفحة مراجعة"
+        },
+        {
+          "label": "المصدر",
+          "value": "TechTimes"
+        }
+      ],
+      "broll": "images/news/2026-06-06-openai-memory-upgrade/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-openai-memory-upgrade/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "TECHTIMES • 2026-06-05"
+    }
+  ],
+  "sources": [
+    {
+      "name": "OpenAI",
+      "domain": "openai.com"
+    },
+    {
+      "name": "9to5Mac",
+      "domain": "9to5mac.com"
+    },
+    {
+      "name": "TechTimes",
+      "domain": "techtimes.com"
+    }
+  ],
+  "arabicTicker": [
+    "OpenAI تطلق في 4 يونيو نظام ذاكرة جديداً لـChatGPT يُحدّث المعلومات تلقائياً",
+    "أكبر تطوير لذاكرة ChatGPT منذ إطلاق الخدمة، مع مضاعفة السعة لمشتركي Plus وPro",
+    "الذاكرة تُحدّث المعلومات تلقائياً دون انتظار طلب المستخدم",
+    "بنية \"Dreaming\" تركّب الذاكرة من محادثات عدة عبر عملية تعمل في الخلفية",
+    "توسّع الميزة إلى مستخدمي Free وGo في دول إضافية خلال الأسابيع المقبلة",
+    "صفحة جديدة تتيح للمستخدم مراجعة كل ما يعرفه النظام عنه",
+    "ذاكرة تتذكّرك تلقائياً… ميزة تريحك أم خصوصية تتنازل عنها؟"
+  ]
+}

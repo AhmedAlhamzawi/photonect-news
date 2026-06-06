@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أسواق الطاقة",
+    "arabicHeadline": "برنت يهبط دون 94 دولاراً رغم حرب إيران",
+    "englishSubhead": "BRENT SLIPS BELOW $94 (−2% FRIDAY) • STILL +4% ON THE WEEK • CHINA CRUDE IMPORTS AT 10-YEAR LOW",
+    "heroMedia": "images/news/2026-06-06-oil-war-economy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يتراجع… لكنه أعلى على الأسبوع",
+      "arabicBody": "هبط برنت دون 94 دولاراً الجمعة بنحو 2%، لكنه بقي أعلى بـ4% على الأسبوع مع تجدّد الاشتباكات الأميركية-الإيرانية، وفق CNBC.",
+      "bigStat": {
+        "value": "$94",
+        "label": "برنت يهبط دونها (−2%)",
+        "arabicLabel": "برنت يهبط دونها (−2%)"
+      },
+      "supportingStats": [
+        {
+          "label": "على الأسبوع",
+          "value": "+4%"
+        },
+        {
+          "label": "المحرّك",
+          "value": "اشتباكات هرمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-06-06-oil-war-economy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-oil-war-economy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNBC • 2026-06-05"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هرمز يضغط… والطلب الصيني يتراجع",
+      "arabicBody": "أبقى إغلاق مضيق هرمز الأسواق متوترة، فيما هبطت واردات الصين النفطية إلى أدنى مستوى في 10 سنوات، ما خفّف الضغط الصعودي على الأسعار، وفق رويترز.",
+      "bigStat": {
+        "value": "10",
+        "label": "سنوات: أدنى واردات نفط صينية",
+        "arabicLabel": "سنوات: أدنى واردات نفط صينية"
+      },
+      "supportingStats": [
+        {
+          "label": "هرمز",
+          "value": "مغلق"
+        },
+        {
+          "label": "الطلب",
+          "value": "متراجع"
+        },
+        {
+          "label": "المصدر",
+          "value": "رويترز"
+        }
+      ],
+      "broll": "images/news/2026-06-06-oil-war-economy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-oil-war-economy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "REUTERS • 2026-06-05"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "انفجار في ميناء عماني… وإمداد هشّ",
+      "arabicBody": "توقّفت لوقت قصير عمليات التصدير في ميناء الفحل العماني إثر انفجار قبل أن تُستأنف، في مؤشر على هشاشة الإمدادات الخليجية، وفق الجزيرة.",
+      "bigStat": {
+        "value": "ميناء الفحل",
+        "label": "انفجار يعطّل التصدير مؤقتاً",
+        "arabicLabel": "انفجار يعطّل التصدير مؤقتاً"
+      },
+      "supportingStats": [
+        {
+          "label": "التعطّل",
+          "value": "مؤقت"
+        },
+        {
+          "label": "الإمداد",
+          "value": "هشّ"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة"
+        }
+      ],
+      "broll": "images/news/2026-06-06-oil-war-economy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-oil-war-economy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "AL JAZEERA • 2026-06-05"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يهبط دون 94 دولاراً رغم حرب إيران",
+    "النفط يبقى أعلى بـ4% خلال الأسبوع رغم تراجع الجمعة",
+    "تجدّد الاشتباكات الأميركية-الإيرانية يبقي الأسواق متوترة",
+    "واردات الصين النفطية عند أدنى مستوى في 10 سنوات",
+    "إغلاق مضيق هرمز يضغط على الإمدادات",
+    "انفجار يعطّل التصدير مؤقتاً في ميناء الفحل العماني",
+    "إلى أين تتجه أسعار النفط مع استمرار الحرب؟"
+  ]
+}

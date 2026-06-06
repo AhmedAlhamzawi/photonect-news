@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم وفضاء",
+    "arabicHeadline": "ناسا تنهي \"مافن\" بعد 11 عاماً حول المريخ",
+    "englishSubhead": "NASA ENDS THE MAVEN MISSION AFTER 11+ YEARS AT MARS • FIRST PROBE DEVOTED TO THE MARTIAN ATMOSPHERE",
+    "heroMedia": "images/news/2026-06-06-maven-mars-finale/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "وداع \"مافن\" بعد أكثر من 11 عاماً",
+      "arabicBody": "أنهت ناسا مهمة \"مافن\" بعد أكثر من 11 عاماً حول المريخ، وهي أول مهمة مخصّصة لرصد الغلاف الجوي للكوكب الأحمر وتطوّره، وفق Universe Today.",
+      "bigStat": {
+        "value": "11",
+        "label": "عاماً في مدار المريخ",
+        "arabicLabel": "عاماً في مدار المريخ"
+      },
+      "supportingStats": [
+        {
+          "label": "المهمة",
+          "value": "رصد الغلاف الجوي"
+        },
+        {
+          "label": "الأولى",
+          "value": "من نوعها"
+        },
+        {
+          "label": "المصدر",
+          "value": "Universe Today"
+        }
+      ],
+      "broll": "images/news/2026-06-06-maven-mars-finale/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-maven-mars-finale/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "UNIVERSE TODAY • 2026-06-05"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "عقد كامل تجاوز مهمتها الأصلية",
+      "arabicBody": "واصلت المركبة العمل عقداً كاملاً يتجاوز مهمتها الأساسية التي صُمّمت لعام واحد، كاشفةً كيف جرّدت الرياح الشمسية الغلاف الجوي للمريخ عبر الزمن، وفق ناسا.",
+      "bigStat": {
+        "value": "1",
+        "label": "عام كانت مدّة المهمة الأصلية",
+        "arabicLabel": "عام كانت مدّة المهمة الأصلية"
+      },
+      "supportingStats": [
+        {
+          "label": "الفعلي",
+          "value": "أكثر من عقد"
+        },
+        {
+          "label": "الكشف",
+          "value": "الرياح الشمسية"
+        },
+        {
+          "label": "المصدر",
+          "value": "ناسا"
+        }
+      ],
+      "broll": "images/news/2026-06-06-maven-mars-finale/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-maven-mars-finale/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "NASA • 2026-06-05"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "إرث يفسّر كيف فقد المريخ غلافه",
+      "arabicBody": "تترك \"مافن\" إرثاً علمياً يفسّر كيف فقد المريخ غلافه الجوي ومياهه، ويغذّي خطط البشرية لاستكشاف الكوكب الأحمر مستقبلاً، وفق ناسا.",
+      "bigStat": {
+        "value": "المريخ",
+        "label": "إرث يفسّر فقدان الغلاف الجوي",
+        "arabicLabel": "إرث يفسّر فقدان الغلاف الجوي"
+      },
+      "supportingStats": [
+        {
+          "label": "الكشف",
+          "value": "فقدان المياه"
+        },
+        {
+          "label": "الأثر",
+          "value": "خطط الاستكشاف"
+        },
+        {
+          "label": "المصدر",
+          "value": "ناسا"
+        }
+      ],
+      "broll": "images/news/2026-06-06-maven-mars-finale/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-maven-mars-finale/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NASA • 2026-06-05"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "Universe Today",
+      "domain": "universetoday.com"
+    },
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    }
+  ],
+  "arabicTicker": [
+    "ناسا تنهي مهمة مركبة \"مافن\" بعد أكثر من 11 عاماً حول المريخ",
+    "مافن أول مهمة مخصّصة لرصد الغلاف الجوي للمريخ وتطوّره",
+    "المركبة عملت عقداً كاملاً يتجاوز مهمتها الأصلية لعام واحد",
+    "مافن كشفت كيف جرّدت الرياح الشمسية الغلاف الجوي للمريخ",
+    "إرث علمي يفسّر كيف فقد المريخ غلافه الجوي ومياهه",
+    "نتائج المهمة تغذّي خطط استكشاف الكوكب الأحمر مستقبلاً",
+    "هل يكشف المريخ المزيد من أسراره؟"
+  ]
+}

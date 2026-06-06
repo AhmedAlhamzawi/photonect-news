@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تشكيل الحكومة",
+    "arabicHeadline": "حكومة الزيدي تنال الثقة ووزارتان أمنيتان شاغرتان",
+    "englishSubhead": "PM AL-ZAIDI'S CABINET CONFIRMED (14/23) • DEFENSE & INTERIOR STILL VACANT • MILITIAS FOLD INTO THE STATE",
+    "heroMedia": "images/news/2026-06-06-iraq-new-government/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ثقة لـ14 وزيراً… والحقيبتان الأمنيتان فارغتان",
+      "arabicBody": "نالت حكومة رئيس الوزراء علي الزيدي ثقة البرلمان لـ14 من 23 وزيراً، وهو الحد الأدنى الدستوري، فيما بقيت حقيبتا الدفاع والداخلية شاغرتين، وفق مركز صوفان.",
+      "bigStat": {
+        "value": "14/23",
+        "label": "وزيراً نالوا الثقة",
+        "arabicLabel": "وزيراً نالوا الثقة"
+      },
+      "supportingStats": [
+        {
+          "label": "الحد الدستوري",
+          "value": "14 وزيراً"
+        },
+        {
+          "label": "الشاغر",
+          "value": "الدفاع والداخلية"
+        },
+        {
+          "label": "المصدر",
+          "value": "مركز صوفان"
+        }
+      ],
+      "broll": "images/news/2026-06-06-iraq-new-government/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-iraq-new-government/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "THE SOUFAN CENTER • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صراع على الأمن… وجدل حول الحشد",
+      "arabicBody": "تتنافس القوى على الوزارتين، وتطرح أطراف وضع فصائل الحشد تحت وزارة أمن اتحادية، مع تحذير خبراء من أن سوء التنفيذ يقوّي الموالين لإيران، وفق مركز صوفان.",
+      "bigStat": {
+        "value": "2",
+        "label": "وزارتان سياديتان بلا وزير",
+        "arabicLabel": "وزارتان سياديتان بلا وزير"
+      },
+      "supportingStats": [
+        {
+          "label": "المقترح",
+          "value": "وزارة أمن اتحادية"
+        },
+        {
+          "label": "التحذير",
+          "value": "تقوية الفصائل"
+        },
+        {
+          "label": "المصدر",
+          "value": "مركز صوفان"
+        }
+      ],
+      "broll": "images/news/2026-06-06-iraq-new-government/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-iraq-new-government/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "THE SOUFAN CENTER • 2026-06-04"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الصدر يدمج سراياه… وفصيل يسلّم سلاحه",
+      "arabicBody": "أعلن مقتدى الصدر دمج \"سرايا السلام\" في القيادة الوطنية، والتزمت \"كتائب الإمام علي\" بتسليم سلاحها للدولة، تعزيزاً لمساعي الزيدي لحصر السلاح بيد الحكومة، وفق مركز صوفان.",
+      "bigStat": {
+        "value": "2",
+        "label": "فصيلان يسلّمان أو يندمجان",
+        "arabicLabel": "فصيلان يسلّمان أو يندمجان"
+      },
+      "supportingStats": [
+        {
+          "label": "سرايا السلام",
+          "value": "تندمج بالدولة"
+        },
+        {
+          "label": "كتائب الإمام علي",
+          "value": "تسلّم سلاحها"
+        },
+        {
+          "label": "المصدر",
+          "value": "مركز صوفان"
+        }
+      ],
+      "broll": "images/news/2026-06-06-iraq-new-government/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-iraq-new-government/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "COMMONS • MUQTADA AL-SADR"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Soufan Center",
+      "domain": "thesoufancenter.org"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "حكومة علي الزيدي تنال الثقة لـ14 من 23 وزيراً",
+    "حقيبتا الدفاع والداخلية تبقيان شاغرتين وسط تنافس القوى",
+    "نواب يطرحون وضع فصائل الحشد تحت وزارة أمن اتحادية",
+    "خبراء يحذّرون من أن سوء التنفيذ قد يقوّي فصائل موالية لإيران",
+    "مقتدى الصدر يدمج سرايا السلام في القيادة الوطنية",
+    "كتائب الإمام علي تلتزم بتسليم سلاحها للدولة",
+    "هل تنجح حكومة الزيدي في حصر السلاح بيد الدولة؟"
+  ]
+}

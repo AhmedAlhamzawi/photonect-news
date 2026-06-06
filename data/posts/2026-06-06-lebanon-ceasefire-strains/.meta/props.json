@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 6 • 2026",
+  "arabicDateLabel": "6 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "هدنة لبنان قائمة وغارات تقتل 21",
+    "englishSubhead": "LEBANON-ISRAEL TRUCE FRAYS • 21 KILLED IN THE SOUTH FRIDAY • HEZBOLLAH REJECTS THE DEAL • GULF ON ALERT",
+    "heroMedia": "images/news/2026-06-06-lebanon-ceasefire-strains/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الهدنة مُقرّة… والغارات مستمرة",
+      "arabicBody": "أقرّت حكومتا لبنان وإسرائيل هدنة الأربعاء، وفق CNN. ورغم ذلك استمرت الغارات الإسرائيلية جنوب لبنان وقتلت 21 شخصاً يوم الجمعة، وفق CNN.",
+      "bigStat": {
+        "value": "21",
+        "label": "قتيلاً في غارات الجمعة",
+        "arabicLabel": "قتيلاً في غارات الجمعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاق",
+          "value": "الأربعاء"
+        },
+        {
+          "label": "الموقّعون",
+          "value": "حكومتا البلدين"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNN"
+        }
+      ],
+      "broll": "images/news/2026-06-06-lebanon-ceasefire-strains/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-06-lebanon-ceasefire-strains/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CNN • 2026-06-05"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حزب الله خارج الاتفاق… وبري يطرح شرطاً",
+      "arabicBody": "رفض حزب الله، غير الموقّع على الاتفاق، الهدنة، وفق الجزيرة. وعرض رئيس البرلمان نبيه بري الانسحاب شمال الليطاني مقابل انسحاب إسرائيلي من المناطق المحتلة، وفق الجزيرة.",
+      "bigStat": {
+        "value": "الليطاني",
+        "label": "خط الانسحاب الذي يطرحه بري",
+        "arabicLabel": "خط الانسحاب الذي يطرحه بري"
+      },
+      "supportingStats": [
+        {
+          "label": "حزب الله",
+          "value": "يرفض الاتفاق"
+        },
+        {
+          "label": "الشرط",
+          "value": "انسحاب متبادل"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة"
+        }
+      ],
+      "broll": "images/news/2026-06-06-lebanon-ceasefire-strains/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-06-lebanon-ceasefire-strains/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AL JAZEERA • 2026-06-05"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ضربات قرب هرمز… وإنذارات في الخليج",
+      "arabicBody": "ضربت القوات الأميركية رادارات ساحلية إيرانية بعد إسقاط 4 مسيّرات قرب مضيق هرمز، وفق رويترز. وأُطلقت صفارات الإنذار في الكويت والبحرين، وفق رويترز.",
+      "bigStat": {
+        "value": "4",
+        "label": "مسيّرات أُسقطت قرب هرمز",
+        "arabicLabel": "مسيّرات أُسقطت قرب هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "رادارات ساحلية"
+        },
+        {
+          "label": "إنذارات",
+          "value": "الكويت والبحرين"
+        },
+        {
+          "label": "المصدر",
+          "value": "رويترز"
+        }
+      ],
+      "broll": "images/news/2026-06-06-lebanon-ceasefire-strains/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-06-lebanon-ceasefire-strains/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "REUTERS • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "FDD",
+      "domain": "fdd.org"
+    }
+  ],
+  "arabicTicker": [
+    "هدنة لبنان قائمة وغارات تقتل 21",
+    "غارات إسرائيلية جنوب لبنان تقتل 21 شخصاً يوم الجمعة، وفق CNN",
+    "حزب الله غير الموقّع على الاتفاق يرفض الهدنة، وفق الجزيرة",
+    "بري يعرض الانسحاب شمال الليطاني مقابل انسحاب إسرائيلي، وفق الجزيرة",
+    "القوات الأميركية تضرب رادارات إيرانية بعد إسقاط 4 مسيّرات، وفق رويترز",
+    "صفارات الإنذار تُطلق في الكويت والبحرين، وفق رويترز",
+    "هل تصمد الهدنة أم تتسع رقعة التوتر؟"
+  ]
+}
