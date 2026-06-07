@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أزمة مالية",
+    "arabicHeadline": "العراق يطبع 25 تريليون دينار لسد العجز",
+    "englishSubhead": "CBI PRINTS ~25 TRILLION DINARS (~$19B) • TOTAL ~125 TRILLION • OIL REVENUE COLLAPSED AFTER HORMUZ CLOSURE",
+    "heroMedia": "images/news/2026-06-07-iraq-fiscal-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البنك المركزي يطبع 25 تريليون دينار",
+      "arabicBody": "بحسب وزير الخارجية فؤاد حسين، طبع البنك المركزي نحو 25 تريليون دينار (19 مليار دولار)، ليبلغ إجمالي العملة المُصدرة 125 تريليوناً لسد عجز إيرادات النفط.",
+      "bigStat": {
+        "value": "25",
+        "label": "تريليون دينار طُبعت",
+        "arabicLabel": "تريليون دينار طُبعت"
+      },
+      "supportingStats": [
+        {
+          "label": "القيمة بالدولار",
+          "value": "19 مليار دولار"
+        },
+        {
+          "label": "الإجمالي المُصدر",
+          "value": "125 تريليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "فؤاد حسين"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-fiscal-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-fiscal-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "THE NATIONAL • 2026-06-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "النفط 90-95% من الموازنة وهرمز مغلق",
+      "arabicBody": "بحسب Shafaq News، يشكّل النفط نحو 90-95% من إيرادات الموازنة، وأدى إغلاق مضيق هرمز منذ أواخر فبراير إلى توقف الصادرات وانهيار الإيرادات النفطية.",
+      "bigStat": {
+        "value": "90-95%",
+        "label": "حصة النفط من الموازنة",
+        "arabicLabel": "حصة النفط من الموازنة"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "إغلاق هرمز"
+        },
+        {
+          "label": "منذ",
+          "value": "أواخر فبراير"
+        },
+        {
+          "label": "المصدر",
+          "value": "Shafaq News"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-fiscal-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-fiscal-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SHAFAQ NEWS • 2026-06-06"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "9 تريليونات شهرياً للرواتب ومخاطر تضخم",
+      "arabicBody": "بحسب Rudaw، تحتاج الرواتب والمعاشات والرعاية نحو 9 تريليونات دينار شهرياً تُموَّل من الاحتياطيات والاقتراض والدين المحلي، مع تحذير اقتصاديين من مخاطر التضخم.",
+      "bigStat": {
+        "value": "9",
+        "label": "تريليونات دينار للرواتب شهرياً",
+        "arabicLabel": "تريليونات دينار للرواتب شهرياً"
+      },
+      "supportingStats": [
+        {
+          "label": "التمويل",
+          "value": "احتياطيات ودين"
+        },
+        {
+          "label": "التحذير",
+          "value": "مخاطر تضخم"
+        },
+        {
+          "label": "المصدر",
+          "value": "Rudaw"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-fiscal-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-fiscal-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "RUDAW • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    }
+  ],
+  "arabicTicker": [
+    "البنك المركزي العراقي يطبع نحو 25 تريليون دينار",
+    "إجمالي العملة المُصدرة يرتفع إلى نحو 125 تريليون دينار",
+    "وزير الخارجية فؤاد حسين يربط الطباعة بانهيار إيرادات النفط",
+    "النفط يشكّل نحو 90-95% من إيرادات الموازنة العراقية",
+    "إغلاق مضيق هرمز منذ أواخر فبراير يوقف الصادرات",
+    "الرواتب تحتاج نحو 9 تريليونات دينار شهرياً وتُموَّل بالدين",
+    "هل يتجنب العراق موجة تضخم مع طول أمد الأزمة؟"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تلسكوب رومان",
+    "arabicHeadline": "تلسكوب رومان يُطلق قبل موعده بأشهر",
+    "englishSubhead": "NASA ROMAN TELESCOPE NOW LAUNCHES AUG 30 2026 • ~8 MONTHS EARLY • COULD FIND ~100,000 EXOPLANETS",
+    "heroMedia": "images/news/2026-06-07-roman-telescope/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "إطلاق في 30 أغسطس قبل الموعد بأشهر",
+      "arabicBody": "بحسب NASA، بات تلسكوب نانسي غريس رومان مقرراً للإطلاق في 30 أغسطس 2026، أي قبل الموعد بنحو 8 أشهر، ويُجهَّز للشحن إلى مركز كينيدي هذا الشهر.",
+      "bigStat": {
+        "value": "8",
+        "label": "أشهر تقدّم عن الموعد",
+        "arabicLabel": "أشهر تقدّم عن الموعد"
+      },
+      "supportingStats": [
+        {
+          "label": "موعد الإطلاق",
+          "value": "30 أغسطس 2026"
+        },
+        {
+          "label": "الوجهة",
+          "value": "مركز كينيدي"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-06-07-roman-telescope/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-roman-telescope/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA • 2026-06-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "قد يرصد نحو 100 ألف كوكب خارجي",
+      "arabicBody": "بحسب Science Daily، قد يكتشف رومان نحو 100,000 كوكب خارجي خلال مهمته الأساسية الممتدة 5 سنوات، أي أكثر من كل المهمات السابقة مجتمعة.",
+      "bigStat": {
+        "value": "100,000",
+        "label": "كوكب خارجي محتمل",
+        "arabicLabel": "كوكب خارجي محتمل"
+      },
+      "supportingStats": [
+        {
+          "label": "مدة المهمة",
+          "value": "5 سنوات"
+        },
+        {
+          "label": "المقارنة",
+          "value": "أكثر من السابقة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Science Daily"
+        }
+      ],
+      "broll": "images/news/2026-06-07-roman-telescope/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-roman-telescope/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SCIENCE DAILY • 2026-06-06"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مسح واسع للمجرات والثقوب السوداء",
+      "arabicBody": "بحسب SpacePolicyOnline، سيجري رومان مسحاً واسع المجال للمجرات والثقوب السوداء بهدف دراسة الطاقة المظلمة.",
+      "bigStat": {
+        "value": "5",
+        "label": "سنوات للمهمة الأساسية",
+        "arabicLabel": "سنوات للمهمة الأساسية"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "الطاقة المظلمة"
+        },
+        {
+          "label": "المسح",
+          "value": "واسع المجال"
+        },
+        {
+          "label": "المصدر",
+          "value": "SpacePolicyOnline"
+        }
+      ],
+      "broll": "images/news/2026-06-07-roman-telescope/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-roman-telescope/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "SPACEPOLICYONLINE • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "Science Daily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "SpacePolicyOnline",
+      "domain": "spacepolicyonline.com"
+    }
+  ],
+  "arabicTicker": [
+    "تلسكوب نانسي غريس رومان مقرر للإطلاق في 30 أغسطس 2026",
+    "الموعد الجديد يسبق الجدول الأصلي بنحو 8 أشهر",
+    "تجهيز التلسكوب للشحن إلى مركز كينيدي للفضاء هذا الشهر",
+    "ناسا: رومان قد يكتشف نحو 100000 كوكب خارجي",
+    "المهمة الأساسية تمتد 5 سنوات لرصد المجرات والثقوب السوداء",
+    "الهدف العلمي الأبرز هو دراسة الطاقة المظلمة",
+    "هل يعيد رومان رسم خريطتنا للكون؟"
+  ]
+}

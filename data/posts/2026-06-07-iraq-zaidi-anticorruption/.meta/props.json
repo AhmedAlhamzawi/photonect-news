@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "ملف الفساد",
+    "arabicHeadline": "الزيدي يرفض رشوة 200 مليون دولار",
+    "englishSubhead": "IRAQI PM AL-ZAIDI REVEALS $200M BRIBE OFFER • DEPUTY OIL MINISTER ARRESTED • ~$10M CASH SEIZED",
+    "heroMedia": "images/news/2026-06-07-iraq-zaidi-anticorruption/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رشوة مرفوضة واعتقال نائب وزير النفط",
+      "arabicBody": "كشف رئيس الوزراء علي الزيدي رفضه رشوة بـ200 مليون دولار لإسقاط قضية فساد، واعتُقل نائب وزير النفط عدنان الجميلي وضُبط نحو 10 ملايين، وفق The National.",
+      "bigStat": {
+        "value": "200",
+        "label": "مليون دولار رشوة مرفوضة",
+        "arabicLabel": "مليون دولار رشوة مرفوضة"
+      },
+      "supportingStats": [
+        {
+          "label": "النقد المضبوط",
+          "value": "10 ملايين دولار"
+        },
+        {
+          "label": "المعتقل",
+          "value": "نائب وزير النفط"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "THE NATIONAL • 2026-06-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مجلس سيادي للنزاهة ومراجعة العقود",
+      "arabicBody": "أمر الزيدي بتشكيل المجلس السيادي الأعلى للنزاهة والرقابة واسترداد الأموال العامة، ومراجعة جميع عقود الدولة، بحسب Asharq Al-Awsat، في خطوة وصفها بأنها اختبار لجدية الإصلاح.",
+      "bigStat": {
+        "value": "1",
+        "label": "مجلس سيادي جديد للنزاهة",
+        "arabicLabel": "مجلس سيادي جديد للنزاهة"
+      },
+      "supportingStats": [
+        {
+          "label": "المهمة",
+          "value": "استرداد الأموال"
+        },
+        {
+          "label": "الإجراء",
+          "value": "مراجعة كل العقود"
+        },
+        {
+          "label": "المصدر",
+          "value": "Asharq Al-Awsat"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ASHARQ AL-AWSAT • 2026-06-06"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "اختبار الدولة أمام فساد قطاع النفط",
+      "arabicBody": "قال الزيدي إن حجم الرشوة يكشف أن فساد قطاع النفط، الذي يوفّر 90% من الموازنة، بلغ مستوى يشتري فيه المسؤولون الإفلات من الملاحقة، بحسب CS Monitor.",
+      "bigStat": {
+        "value": "90%",
+        "label": "حصة النفط من الموازنة",
+        "arabicLabel": "حصة النفط من الموازنة"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسالة",
+          "value": "إشارة للإصلاح"
+        },
+        {
+          "label": "المتابعون",
+          "value": "واشنطن والخليج"
+        },
+        {
+          "label": "المصدر",
+          "value": "CS Monitor"
+        }
+      ],
+      "broll": "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-iraq-zaidi-anticorruption/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "CS MONITOR • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "The Christian Science Monitor",
+      "domain": "csmonitor.com"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس الوزراء علي الزيدي يكشف رفضه رشوة بـ200 مليون دولار",
+    "اعتقال نائب وزير النفط عدنان الجميلي بشبهة فساد",
+    "ضبط نحو 10 ملايين دولار نقداً لدى مسؤول موقوف",
+    "تشكيل المجلس السيادي الأعلى للنزاهة واسترداد الأموال العامة",
+    "الزيدي يأمر بمراجعة جميع عقود الدولة",
+    "الحكومة تعدّ الملف اختباراً لمواجهة فساد قطاع النفط",
+    "هل تنجح الحكومة في كسر شبكات الفساد المتجذرة؟"
+  ]
+}

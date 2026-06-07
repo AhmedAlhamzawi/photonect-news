@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تفشي إيبولا",
+    "arabicHeadline": "الكونغو تسجل 381 إصابة بإيبولا و64 وفاة",
+    "englishSubhead": "DRC EBOLA OUTBREAK • ~381 CASES, 64 DEATHS (JUN 4) • WHO DECLARED GLOBAL EMERGENCY MAY 17",
+    "heroMedia": "images/news/2026-06-07-drc-ebola-emergency/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "381 إصابة و64 وفاة وإيتوري الأكثر تضرراً",
+      "arabicBody": "بحسب وزارة الصحة في الكونغو الديمقراطية، بلغ تفشي إيبولا نحو 381 إصابة مؤكدة و64 وفاة حتى 4 يونيو، مع كون إقليم إيتوري الأكثر تضرراً.",
+      "bigStat": {
+        "value": "381",
+        "label": "إصابة مؤكدة",
+        "arabicLabel": "إصابة مؤكدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفيات",
+          "value": "64 وفاة"
+        },
+        {
+          "label": "الأكثر تضرراً",
+          "value": "إقليم إيتوري"
+        },
+        {
+          "label": "المصدر",
+          "value": "DRC Ministry of Health"
+        }
+      ],
+      "broll": "images/news/2026-06-07-drc-ebola-emergency/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-drc-ebola-emergency/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "DRC MINISTRY OF HEALTH • 2026-06-04"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سلالة بلا لقاح وطوارئ عالمية",
+      "arabicBody": "بحسب WHO، يعود التفشي إلى سلالة بونديبوغيو بلا لقاح مرخص، وأعلنت المنظمة طوارئ صحية دولية في 17 مايو، وامتدت العدوى إلى أوغندا بنحو 19 إصابة.",
+      "bigStat": {
+        "value": "19",
+        "label": "إصابة في أوغندا",
+        "arabicLabel": "إصابة في أوغندا"
+      },
+      "supportingStats": [
+        {
+          "label": "السلالة",
+          "value": "بونديبوغيو"
+        },
+        {
+          "label": "إعلان الطوارئ",
+          "value": "17 مايو"
+        },
+        {
+          "label": "المصدر",
+          "value": "WHO"
+        }
+      ],
+      "broll": "images/news/2026-06-07-drc-ebola-emergency/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-drc-ebola-emergency/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "WHO • 2026-05-17"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تتبع المخالطين وتعافي ناجين",
+      "arabicBody": "بحسب CDC، تعتمد الاستجابة على تتبع المخالطين والعزل في غياب لقاح مرخص، فيما تعافى بعض الناجين من المرض.",
+      "bigStat": {
+        "value": "0",
+        "label": "لقاح مرخص لهذه السلالة",
+        "arabicLabel": "لقاح مرخص لهذه السلالة"
+      },
+      "supportingStats": [
+        {
+          "label": "أداة الاحتواء",
+          "value": "تتبع المخالطين"
+        },
+        {
+          "label": "المؤشر الإيجابي",
+          "value": "تعافي ناجين"
+        },
+        {
+          "label": "المصدر",
+          "value": "CDC"
+        }
+      ],
+      "broll": "images/news/2026-06-07-drc-ebola-emergency/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-drc-ebola-emergency/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "CDC • 2026-06-04"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO",
+      "domain": "who.int"
+    },
+    {
+      "name": "CDC",
+      "domain": "cdc.gov"
+    },
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    }
+  ],
+  "arabicTicker": [
+    "تفشي إيبولا في الكونغو الديمقراطية يبلغ نحو 381 إصابة",
+    "وزارة الصحة الكونغولية تسجل 64 وفاة حتى 4 يونيو",
+    "إقليم إيتوري هو الأكثر تضرراً من التفشي",
+    "السلالة المسببة هي بونديبوغيو ولا لقاح مرخص لها",
+    "منظمة الصحة العالمية تعلن طوارئ صحية دولية في 17 مايو",
+    "العدوى تمتد إلى أوغندا بنحو 19 إصابة",
+    "هل ينجح تتبع المخالطين في احتواء التفشي؟"
+  ]
+}

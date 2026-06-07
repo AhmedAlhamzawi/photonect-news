@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "هدنة غزة",
+    "arabicHeadline": "ستة أشهر على الهدنة والضربات مستمرة",
+    "englishSubhead": "~6 MONTHS INTO GAZA CEASEFIRE • AL JAZEERA COUNTS 3,076 VIOLATIONS • UN SAYS CIVILIANS STILL UNSAFE",
+    "heroMedia": "images/news/2026-06-07-gaza-ceasefire-sixmonths/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نحو 6 أشهر على الهدنة والضربات مستمرة",
+      "arabicBody": "بعد نحو ستة أشهر على إعلان هدنة غزة، أحصت قناة الجزيرة 3076 خرقاً على الأقل بين 10 أكتوبر 2025 و31 مايو 2026، وفق رصدها للضربات الإسرائيلية.",
+      "bigStat": {
+        "value": "3,076",
+        "label": "خرقاً للهدنة برصد الجزيرة",
+        "arabicLabel": "خرقاً للهدنة برصد الجزيرة"
+      },
+      "supportingStats": [
+        {
+          "label": "بداية الرصد",
+          "value": "10 أكتوبر 2025"
+        },
+        {
+          "label": "نهاية الرصد",
+          "value": "31 مايو 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AL JAZEERA • 2026-05-31"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الأمم المتحدة: المدنيون ما زالوا في خطر",
+      "arabicBody": "قال المفوض السامي فولكر تورك في أبريل 2026 إن الفلسطينيين في غزة ما زالوا غير آمنين، فيما يبقى وصول المساعدات مقيّداً، وفق OHCHR.",
+      "bigStat": {
+        "value": "1",
+        "label": "تحذير أممي رسمي",
+        "arabicLabel": "تحذير أممي رسمي"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر الأممي",
+          "value": "فولكر تورك"
+        },
+        {
+          "label": "المساعدات",
+          "value": "وصول مقيّد"
+        },
+        {
+          "label": "المصدر",
+          "value": "OHCHR"
+        }
+      ],
+      "broll": "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "OHCHR • 2026-04"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الخطة عالقة في مرحلتها الأولى",
+      "arabicBody": "بحسب رويترز، لا تزال الخطة المدعومة أميركياً عالقة في مرحلتها الأولى، مع تعثر المسار الدبلوماسي وغياب اتفاق واضح على الخطوات التالية.",
+      "bigStat": {
+        "value": "1",
+        "label": "المرحلة الأولى لم تكتمل",
+        "arabicLabel": "المرحلة الأولى لم تكتمل"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "الولايات المتحدة"
+        },
+        {
+          "label": "المسار",
+          "value": "دبلوماسية متعثرة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-gaza-ceasefire-sixmonths/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "REUTERS • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "OHCHR",
+      "domain": "ohchr.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "نحو ستة أشهر على إعلان هدنة غزة في أكتوبر 2025",
+    "الجزيرة تحصي 3076 خرقاً بين 10 أكتوبر و31 مايو",
+    "المفوض السامي فولكر تورك: المدنيون ما زالوا في خطر",
+    "مكتب OHCHR يشير إلى استمرار تقييد وصول المساعدات",
+    "رويترز: الخطة المدعومة أميركياً عالقة في مرحلتها الأولى",
+    "تعثر المسار الدبلوماسي وغياب اتفاق على الخطوات التالية",
+    "هل تصمد الهدنة أم تتجه إلى مزيد من التعثر؟"
+  ]
+}

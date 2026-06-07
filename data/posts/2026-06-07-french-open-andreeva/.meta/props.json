@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUN 7 • 2026",
+  "arabicDateLabel": "7 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رولان غاروس",
+    "arabicHeadline": "أندريفا تحرز أول لقب كبير لها",
+    "englishSubhead": "ANDREEVA, 19, BEATS CHWALINSKA 6-3 6-3 • FIRST GRAND SLAM • YOUNGEST RG CHAMPION SINCE SWIATEK 2020",
+    "heroMedia": "images/news/2026-06-07-french-open-andreeva/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أندريفا تتوّج بطلة رولان غاروس",
+      "arabicBody": "في 6 يونيو 2026، هزمت ميرا أندريفا (19 عاماً) البولندية مايا تشفالينسكا 6-3 و6-3 في نهائي رولان غاروس محرزةً أول لقب كبير لها، وفق Roland-Garros.",
+      "bigStat": {
+        "value": "6-3, 6-3",
+        "label": "نتيجة النهائي",
+        "arabicLabel": "نتيجة النهائي"
+      },
+      "supportingStats": [
+        {
+          "label": "البطلة",
+          "value": "ميرا أندريفا"
+        },
+        {
+          "label": "العمر",
+          "value": "19 عاماً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Roland-Garros"
+        }
+      ],
+      "broll": "images/news/2026-06-07-french-open-andreeva/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-07-french-open-andreeva/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ROLAND-GARROS • 2026-06-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أصغر بطلة منذ شفيونتيك 2020",
+      "arabicBody": "بحسب Olympics.com، باتت أندريفا أصغر بطلة لرولان غاروس للسيدات منذ إيغا شفيونتيك عام 2020، وحصدت أكثر من 3 ملايين دولار جوائز مالية.",
+      "bigStat": {
+        "value": "3",
+        "label": "ملايين دولار جوائز",
+        "arabicLabel": "ملايين دولار جوائز"
+      },
+      "supportingStats": [
+        {
+          "label": "آخر أصغر بطلة",
+          "value": "شفيونتيك 2020"
+        },
+        {
+          "label": "الخاسرة",
+          "value": "تشفالينسكا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Olympics.com"
+        }
+      ],
+      "broll": "images/news/2026-06-07-french-open-andreeva/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-07-french-open-andreeva/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "OLYMPICS.COM • 2026-06-06"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "جيل جديد يصعد في تنس السيدات",
+      "arabicBody": "بحسب CBS Sports، يعكس الفوز صعود جيل جديد في تنس السيدات، مع توقع ارتفاع تصنيف أندريفا عقب التتويج.",
+      "bigStat": {
+        "value": "1",
+        "label": "أول لقب غراند سلام لها",
+        "arabicLabel": "أول لقب غراند سلام لها"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "متوقع الارتفاع"
+        },
+        {
+          "label": "البطولة",
+          "value": "رولان غاروس"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBS Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-07-french-open-andreeva/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-07-french-open-andreeva/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "CBS SPORTS • 2026-06-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Roland-Garros",
+      "domain": "rolandgarros.com"
+    },
+    {
+      "name": "Olympics.com",
+      "domain": "olympics.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    }
+  ],
+  "arabicTicker": [
+    "ميرا أندريفا تفوز بأول لقب غراند سلام في رولان غاروس",
+    "النتيجة 6-3 و6-3 على البولندية مايا تشفالينسكا",
+    "أندريفا أصغر بطلة لرولان غاروس للسيدات منذ شفيونتيك 2020",
+    "البطلة تحصد أكثر من 3 ملايين دولار جوائز مالية",
+    "CBS Sports: جيل جديد يصعد في تنس السيدات",
+    "تصنيف أندريفا مرشح للارتفاع بعد التتويج",
+    "هل تتحول أندريفا إلى نجمة الحقبة المقبلة؟"
+  ]
+}
