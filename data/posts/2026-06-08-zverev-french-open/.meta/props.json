@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رولان غاروس",
+    "arabicHeadline": "زفيريف ينتزع أول لقب غراند سلام في مسيرته",
+    "englishSubhead": "ZVEREV TAKES FIRST GRAND SLAM • FIVE SETS OVER COBOLLI • FIRST GERMAN SINCE 1996",
+    "heroMedia": "images/news/2026-06-08-zverev-french-open/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "زفيريف يحسم نهائي باريس في 5 مجموعات",
+      "arabicBody": "خطف الألماني ألكسندر زفيريف لقب رولان غاروس يوم 7 يونيو بعد ماراثون من 5 مجموعات أمام الإيطالي فلافيو كوبولي، أول غراند سلام في مسيرته، وفق Olympics.com.",
+      "bigStat": {
+        "value": "1",
+        "label": "أول لقب غراند سلام لزفيريف",
+        "arabicLabel": "أول لقب غراند سلام لزفيريف"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "6-1 4-6 6-4 6-7 6-1"
+        },
+        {
+          "label": "عدد المجموعات",
+          "value": "5"
+        },
+        {
+          "label": "المصدر",
+          "value": "Olympics.com"
+        }
+      ],
+      "broll": "images/news/2026-06-08-zverev-french-open/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-zverev-french-open/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ROLAND-GARROS • 2026-06-07"
+    },
+    {
+      "label": "من المنافس؟",
+      "arabicHeading": "كوبولي يسقط في أول نهائي كبير بمسيرته",
+      "arabicBody": "وصل الإيطالي فلافيو كوبولي إلى أول نهائي غراند سلام في حياته، وأخذ مجموعتين، لكنه سقط أمام زفيريف بعد 5 مجموعات متقلبة، وفق Yahoo Sports.",
+      "bigStat": {
+        "value": "1",
+        "label": "أول نهائي كبير لكوبولي",
+        "arabicLabel": "أول نهائي كبير لكوبولي"
+      },
+      "supportingStats": [
+        {
+          "label": "الجنسية",
+          "value": "إيطاليا"
+        },
+        {
+          "label": "النتيجة",
+          "value": "خسارة في 5"
+        },
+        {
+          "label": "المصدر",
+          "value": "Yahoo Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-08-zverev-french-open/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-zverev-french-open/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "YAHOO SPORTS • 2026-06-07"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول ألماني يرفع لقباً كبيراً منذ بيكر 1996",
+      "arabicBody": "بهذا اللقب يصبح زفيريف، البالغ 29 عاماً، أول ألماني يحرز غراند سلام منذ بوريس بيكر عام 1996، لينهي انتظاراً امتد ثلاثة عقود، بحسب NPR.",
+      "bigStat": {
+        "value": "1996",
+        "label": "آخر لقب ألماني قبل زفيريف",
+        "arabicLabel": "آخر لقب ألماني قبل زفيريف"
+      },
+      "supportingStats": [
+        {
+          "label": "عمر البطل",
+          "value": "29 عاماً"
+        },
+        {
+          "label": "آخر ألماني",
+          "value": "بيكر 1996"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-08-zverev-french-open/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-zverev-french-open/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NPR • 2026-06-07"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Olympics.com",
+      "domain": "olympics.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "ATP Tour",
+      "domain": "atptour.com"
+    }
+  ],
+  "arabicTicker": [
+    "زفيريف ينتزع أول لقب غراند سلام في مسيرته",
+    "الألماني يهزم الإيطالي فلافيو كوبولي في نهائي رولان غاروس بباريس",
+    "نتيجة المباراة الماراثونية: 6-1، 4-6، 6-4، 6-7، 6-1 في 5 مجموعات",
+    "أول غراند سلام في مسيرة زفيريف، وأول نهائي كبير يخسره كوبولي",
+    "زفيريف أول ألماني يحرز لقباً كبيراً منذ بوريس بيكر عام 1996",
+    "بعد 30 عاماً على بيكر، هل يفتح زفيريف عهداً ألمانياً جديداً؟"
+  ]
+}

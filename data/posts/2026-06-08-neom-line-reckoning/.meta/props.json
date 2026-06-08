@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نيوم تتراجع",
+    "arabicHeadline": "السعودية تؤجل ذا لاين إلى ما بعد 2030",
+    "englishSubhead": "THE LINE DELAYED PAST 2030 • PIVOT TO AI DATA CENTERS",
+    "heroMedia": "images/news/2026-06-08-neom-line-reckoning/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ذا لاين تنتظر، وبيانات الذكاء الاصطناعي تتقدّم",
+      "arabicBody": "أرجأت السعودية بناء مدينة ذا لاين إلى ما بعد 2030، وتدرس تحويلها إلى مركز لبيانات الذكاء الاصطناعي بحثاً عن عوائد أسرع، وفق Semafor.",
+      "bigStat": {
+        "value": "2030",
+        "label": "تأجيل بناء ذا لاين إلى ما بعده",
+        "arabicLabel": "تأجيل بناء ذا لاين إلى ما بعده"
+      },
+      "supportingStats": [
+        {
+          "label": "المشروع",
+          "value": "ذا لاين"
+        },
+        {
+          "label": "التوجه الجديد",
+          "value": "بيانات وذكاء اصطناعي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Semafor"
+        }
+      ],
+      "broll": "images/news/2026-06-08-neom-line-reckoning/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-neom-line-reckoning/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SEMAFOR • 2026-05"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نيوم تلغي 3 عقود، والرياض تنسحب من 2029",
+      "arabicBody": "ألغت نيوم 3 عقود، منها عقدان لمنتجع تروجينا، وسحبت الرياض ترشحها لاستضافة دورة الألعاب الآسيوية الشتوية 2029، بحسب Engineering News-Record.",
+      "bigStat": {
+        "value": "3",
+        "label": "عقود ألغتها نيوم",
+        "arabicLabel": "عقود ألغتها نيوم"
+      },
+      "supportingStats": [
+        {
+          "label": "تروجينا",
+          "value": "عقدان ملغيان"
+        },
+        {
+          "label": "الألعاب الآسيوية",
+          "value": "سحب 2029"
+        },
+        {
+          "label": "المصدر",
+          "value": "ENR"
+        }
+      ],
+      "broll": "images/news/2026-06-08-neom-line-reckoning/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-neom-line-reckoning/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ENGINEERING NEWS-RECORD • 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "صندوق الـ500 مليار يطارد عوائد أقرب",
+      "arabicBody": "يعيد صندوق الاستثمارات العامة توجيه مشروع بـ500 مليار دولار نحو الخدمات اللوجستية والتعدين والسياحة الدينية بحثاً عن عوائد أقرب، وفق Financial Times.",
+      "bigStat": {
+        "value": "500",
+        "label": "مليار دولار حجم مشروع نيوم",
+        "arabicLabel": "مليار دولار حجم مشروع نيوم"
+      },
+      "supportingStats": [
+        {
+          "label": "التركيز الجديد",
+          "value": "لوجستيات وتعدين"
+        },
+        {
+          "label": "السياحة",
+          "value": "دينية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Financial Times"
+        }
+      ],
+      "broll": "images/news/2026-06-08-neom-line-reckoning/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-neom-line-reckoning/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "FINANCIAL TIMES • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Semafor",
+      "domain": "semafor.com"
+    },
+    {
+      "name": "Engineering News-Record",
+      "domain": "enr.com"
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "Gulf International Forum",
+      "domain": "gulfif.org"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تؤجل ذا لاين إلى ما بعد 2030",
+    "دراسة لتحويل مدينة ذا لاين إلى مركز لبيانات الذكاء الاصطناعي بحثاً عن عوائد أسرع، وفق Semafor",
+    "نيوم تلغي 3 عقود من بينها عقدان لمنتجع تروجينا، بحسب Engineering News-Record",
+    "الرياض تسحب ترشحها لاستضافة دورة الألعاب الآسيوية الشتوية 2029",
+    "صندوق الاستثمارات العامة يعيد توجيه مشروع بـ500 مليار دولار نحو عوائد أقرب",
+    "التركيز ينتقل إلى الخدمات اللوجستية والتعدين والسياحة الدينية، وفق Financial Times",
+    "هل تعود ذا لاين كحلم عمراني، أم تُولد من جديد مركز بيانات؟"
+  ]
+}

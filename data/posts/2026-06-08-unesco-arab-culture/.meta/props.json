@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "ثقافة",
+    "arabicHeadline": "المغربي المزند يقتنص جائزة الشارقة–اليونسكو للثقافة",
+    "englishSubhead": "EL MAZNED TAKES UNESCO-SHARJAH PRIZE • 21ST EDITION • PARIS JUNE 24",
+    "heroMedia": "images/news/2026-06-08-unesco-arab-culture/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المغرب يخطف جائزة عربية بنكهة عالمية",
+      "arabicBody": "حصد رجل الثقافة المغربي إبراهيم المزند جائزة الشارقة–اليونسكو للثقافة العربية في دورتها الـ21، مناصفةً مع أكاديمية موسيقى بلدان المحيط الهندي، وفق Morocco World News.",
+      "bigStat": {
+        "value": "21",
+        "label": "الدورة الـ21 من الجائزة",
+        "arabicLabel": "الدورة الـ21 من الجائزة"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائز",
+          "value": "إبراهيم المزند"
+        },
+        {
+          "label": "البلد",
+          "value": "المغرب"
+        },
+        {
+          "label": "المصدر",
+          "value": "Morocco World News"
+        }
+      ],
+      "broll": "images/news/2026-06-08-unesco-arab-culture/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-unesco-arab-culture/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "MOROCCO WORLD NEWS • 2026-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "رجل بنى جسوراً بين الموسيقى والدبلوماسية",
+      "arabicBody": "أسّس المزند منصات حملت الفنون العربية والإفريقية إلى العالم، فجمع بين الموسيقى والتراث والدبلوماسية الثقافية، في تكريس للقوة الناعمة للثقافة العربية، بحسب UNESCO.",
+      "bigStat": {
+        "value": "1",
+        "label": "تكريم دولي للثقافة العربية",
+        "arabicLabel": "تكريم دولي للثقافة العربية"
+      },
+      "supportingStats": [
+        {
+          "label": "المجال",
+          "value": "موسيقى وتراث"
+        },
+        {
+          "label": "الأثر",
+          "value": "دبلوماسية ثقافية"
+        },
+        {
+          "label": "المصدر",
+          "value": "UNESCO"
+        }
+      ],
+      "broll": "images/news/2026-06-08-unesco-arab-culture/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-unesco-arab-culture/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "UNESCO • 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الموعد القادم: باريس يوم 24 يونيو",
+      "arabicBody": "يصعد الفائزان إلى المنصة في حفل بمقر اليونسكو في باريس يوم 24 يونيو، ضمن احتفاء سنوي يبرز إسهام المبدعين العرب في الثقافة العالمية، وفق Morocco World News.",
+      "bigStat": {
+        "value": "24",
+        "label": "يونيو موعد حفل التكريم بباريس",
+        "arabicLabel": "يونيو موعد حفل التكريم بباريس"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "مقر اليونسكو"
+        },
+        {
+          "label": "المدينة",
+          "value": "باريس"
+        },
+        {
+          "label": "المصدر",
+          "value": "Morocco World News"
+        }
+      ],
+      "broll": "images/news/2026-06-08-unesco-arab-culture/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-unesco-arab-culture/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "MOROCCO WORLD NEWS • 2026-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Morocco World News",
+      "domain": "moroccoworldnews.com"
+    },
+    {
+      "name": "UNESCO",
+      "domain": "unesco.org"
+    },
+    {
+      "name": "Yabiladi",
+      "domain": "yabiladi.com"
+    }
+  ],
+  "arabicTicker": [
+    "المغربي إبراهيم المزند يحصد جائزة الشارقة–اليونسكو للثقافة العربية",
+    "الجائزة في دورتها الـ21 مناصفةً مع أكاديمية موسيقى بلدان المحيط الهندي",
+    "المزند رجل موسيقى وتراث ودبلوماسية ثقافية حمل الفن العربي للعالم",
+    "تكريم يبرز القوة الناعمة للثقافة العربية والإفريقية على منصة دولية",
+    "حفل التكريم الرسمي في مقر اليونسكو بباريس يوم 24 يونيو",
+    "هل تتحول هذه الجوائز إلى نافذة حقيقية للثقافة العربية نحو العالم؟"
+  ]
+}

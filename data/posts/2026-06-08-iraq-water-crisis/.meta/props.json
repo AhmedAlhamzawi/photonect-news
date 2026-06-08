@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أزمة المياه",
+    "arabicHeadline": "مياه العراق عند أدنى مستوى منذ 80 عاماً",
+    "englishSubhead": "IRAQ WATER | 80-YEAR LOW | 8M AT RISK",
+    "heroMedia": "images/news/2026-06-08-iraq-water-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "4 مليارات م³ فقط في خزّان البلاد",
+      "arabicBody": "هبط احتياطي العراق المائي إلى نحو 4 مليارات متر مكعب، الأدنى منذ 80 عاماً، ووصفه وزير الموارد المائية بأنه أسوأ جفاف في تاريخ البلاد، وفق Kurdistan24.",
+      "bigStat": {
+        "value": "4",
+        "label": "مليار م³ الاحتياطي المتبقي",
+        "arabicLabel": "مليار م³ الاحتياطي المتبقي"
+      },
+      "supportingStats": [
+        {
+          "label": "الأدنى منذ",
+          "value": "80 عاماً"
+        },
+        {
+          "label": "تصنيف الوزير",
+          "value": "الأسوأ تاريخياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Kurdistan24"
+        }
+      ],
+      "broll": "images/news/2026-06-08-iraq-water-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-iraq-water-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "KURDISTAN24 • 2026-06-07"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "8 ملايين عراقي على خط الخطر",
+      "arabicBody": "حذّر البرلمان من أن نحو 8 ملايين عراقي يواجهون مخاطر مرتبطة بالمياه، مع تراجع الثروة الحيوانية 70% وتضرر الزراعة وصيد الأسماك، بحسب UNICEF وAl Jazeera.",
+      "bigStat": {
+        "value": "8",
+        "label": "ملايين عراقي تحت الخطر المائي",
+        "arabicLabel": "ملايين عراقي تحت الخطر المائي"
+      },
+      "supportingStats": [
+        {
+          "label": "الثروة الحيوانية",
+          "value": "-70%"
+        },
+        {
+          "label": "تدفق النهرين",
+          "value": "-27%"
+        },
+        {
+          "label": "المصدر",
+          "value": "UNICEF"
+        }
+      ],
+      "broll": "images/news/2026-06-08-iraq-water-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-iraq-water-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "UNICEF • 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد: أنقرة لم تُطلق حصص اتفاق 2025",
+      "arabicBody": "قالت بغداد إن تركيا لم تُطلق الحصص المتفق عليها في اتفاق نوفمبر 2025، فيما يلوّح برلمانيون بورقة تبادل تجاري بـ15 مليار دولار للضغط، وفق Iraqi News.",
+      "bigStat": {
+        "value": "15",
+        "label": "مليار دولار حجم التبادل مع تركيا",
+        "arabicLabel": "مليار دولار حجم التبادل مع تركيا"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاق",
+          "value": "نوفمبر 2025"
+        },
+        {
+          "label": "الموقف التركي",
+          "value": "حجب الحصص"
+        },
+        {
+          "label": "المصدر",
+          "value": "Iraqi News"
+        }
+      ],
+      "broll": "images/news/2026-06-08-iraq-water-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-iraq-water-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "IRAQI NEWS • 2026-06"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "UNICEF",
+      "domain": "unicef.org"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "مياه العراق عند أدنى مستوى منذ 80 عاماً",
+    "وزير الموارد المائية يصف الوضع بأنه أسوأ جفاف في تاريخ العراق",
+    "البرلمان يحذّر من تهديد مائي يطال نحو 8 ملايين عراقي",
+    "تراجع الثروة الحيوانية 70% مع تضرر الزراعة وصيد الأسماك",
+    "انخفاض تدفق نهري دجلة والفرات حتى 27% بفعل السدود",
+    "بغداد تقول إن تركيا لم تُطلق حصص المياه المتفق عليها في اتفاق نوفمبر 2025",
+    "هل تنجح ورقة الـ15 مليار دولار في فتح حصص العراق المائية من تركيا؟"
+  ]
+}

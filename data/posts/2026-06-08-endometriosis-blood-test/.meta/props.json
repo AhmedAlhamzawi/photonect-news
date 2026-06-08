@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اختراق طبي",
+    "arabicHeadline": "اختبار دم قد يُنهي سنوات من تأخّر التشخيص",
+    "englishSubhead": "MENSTRUAL-BLOOD TEST • ENDOMETRIOSIS • 10% OF WOMEN",
+    "heroMedia": "images/news/2026-06-08-endometriosis-blood-test/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تشخيص من دم الحيض بدل المنظار الجراحي",
+      "arabicBody": "طوّر باحثون اختباراً غير جراحي يكشف داء بطانة الرحم المهاجرة من دم الحيض بدقة عالية عبر مراحل الدورة، بديلاً عن جراحة مؤلمة، وفق National Geographic.",
+      "bigStat": {
+        "value": "1",
+        "label": "أول اختبار دم غير جراحي للتشخيص",
+        "arabicLabel": "أول اختبار دم غير جراحي للتشخيص"
+      },
+      "supportingStats": [
+        {
+          "label": "العينة",
+          "value": "دم الحيض"
+        },
+        {
+          "label": "الدقة",
+          "value": "عالية عبر الدورة"
+        },
+        {
+          "label": "المصدر",
+          "value": "National Geographic"
+        }
+      ],
+      "broll": "images/news/2026-06-08-endometriosis-blood-test/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-endometriosis-blood-test/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NATIONAL GEOGRAPHIC • 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "10% من النساء يحملن مرضاً يتأخّر سنوات",
+      "arabicBody": "يصيب داء بطانة الرحم المهاجرة نحو 10% من النساء في سن الإنجاب عالمياً، ويتأخّر تشخيصه سنوات لأنه يتطلّب منظاراً جراحياً، بحسب Medscape.",
+      "bigStat": {
+        "value": "10%",
+        "label": "من النساء بعمر الإنجاب مصابات",
+        "arabicLabel": "من النساء بعمر الإنجاب مصابات"
+      },
+      "supportingStats": [
+        {
+          "label": "التشخيص الحالي",
+          "value": "منظار جراحي"
+        },
+        {
+          "label": "التأخير",
+          "value": "سنوات"
+        },
+        {
+          "label": "المصدر",
+          "value": "Medscape"
+        }
+      ],
+      "broll": "images/news/2026-06-08-endometriosis-blood-test/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-endometriosis-blood-test/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "MEDSCAPE • 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مؤشرات حيوية وذكاء اصطناعي صمدت في التحقّق",
+      "arabicBody": "يدمج الاختبار مؤشرات حيوية متعددة مع تعلّم الآلة، وأظهر أداءً ثابتاً في مجموعة تحقّق، ما قد يُنهي سنوات من الألم والتشخيص الخاطئ، وفق JMIG.",
+      "bigStat": {
+        "value": "1",
+        "label": "نموذج يجمع المؤشرات والذكاء الاصطناعي",
+        "arabicLabel": "نموذج يجمع المؤشرات والذكاء الاصطناعي"
+      },
+      "supportingStats": [
+        {
+          "label": "التقنية",
+          "value": "مؤشرات + تعلّم آلة"
+        },
+        {
+          "label": "التحقق",
+          "value": "مجموعة مرضى"
+        },
+        {
+          "label": "المصدر",
+          "value": "JMIG"
+        }
+      ],
+      "broll": "images/news/2026-06-08-endometriosis-blood-test/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-endometriosis-blood-test/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "JMIG • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "National Geographic",
+      "domain": "nationalgeographic.com"
+    },
+    {
+      "name": "Medscape",
+      "domain": "medscape.com"
+    },
+    {
+      "name": "Journal of Minimally Invasive Gynecology",
+      "domain": "jmig.org"
+    },
+    {
+      "name": "The Pathologist",
+      "domain": "thepathologist.com"
+    }
+  ],
+  "arabicTicker": [
+    "اختبار دم قد يُنهي سنوات من تأخّر التشخيص",
+    "اختبار غير جراحي يكشف داء بطانة الرحم المهاجرة من دم الحيض",
+    "الاختبار يحافظ على دقته عبر مختلف مراحل الدورة الشهرية وفق National Geographic",
+    "المرض يصيب نحو 10% من النساء في سن الإنجاب حول العالم بحسب Medscape",
+    "التشخيص التقليدي يتطلب منظاراً جراحياً وغالباً ما يتأخّر سنوات",
+    "أداء ثابت في مجموعة تحقّق دمجت مؤشرات حيوية مع تعلّم الآلة وفق JMIG",
+    "هل يصبح اختبار الدم البسيط نهايةً لسنوات الألم والتشخيص الخاطئ؟"
+  ]
+}

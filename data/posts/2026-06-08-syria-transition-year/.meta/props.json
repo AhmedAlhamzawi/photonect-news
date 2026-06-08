@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 8 • 2026",
+  "arabicDateLabel": "8 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سوريا بعد عام",
+    "arabicHeadline": "سوريا بين انفتاح اقتصادي وتوتر في حلب",
+    "englishSubhead": "1 YEAR ON • EU PACT REACTIVATED • VISA & MASTERCARD BACK",
+    "heroMedia": "images/news/2026-06-08-syria-transition-year/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بروكسل تفتح الباب وبطاقات الدفع تعود",
+      "arabicBody": "بعد نحو عام على سقوط النظام السابق، أعادت بروكسل تفعيل اتفاق التعاون مع سوريا، وأعلنت دمشق عودة شبكتي Visa وMastercard، وفق Security Council Report.",
+      "bigStat": {
+        "value": "1",
+        "label": "عام على سقوط النظام السابق",
+        "arabicLabel": "عام على سقوط النظام السابق"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتحاد الأوروبي",
+          "value": "تفعيل التعاون"
+        },
+        {
+          "label": "المدفوعات",
+          "value": "Visa وMastercard"
+        },
+        {
+          "label": "المصدر",
+          "value": "Security Council Report"
+        }
+      ],
+      "broll": "images/news/2026-06-08-syria-transition-year/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-08-syria-transition-year/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SECURITY COUNCIL REPORT • 2026-06"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الشرع يعدّل حكومته وصناديق تملأ 11 مقعداً",
+      "arabicBody": "أجرى الرئيس أحمد الشرع تعديلاً حكومياً في 9 مايو، وجرت انتخابات تشريعية في 24 مايو بمناطق كردية سابقة لملء 11 مقعداً، وفق House of Commons.",
+      "bigStat": {
+        "value": "11",
+        "label": "مقعداً جرى ملؤها بالانتخابات",
+        "arabicLabel": "مقعداً جرى ملؤها بالانتخابات"
+      },
+      "supportingStats": [
+        {
+          "label": "تعديل حكومي",
+          "value": "9 مايو"
+        },
+        {
+          "label": "انتخابات",
+          "value": "24 مايو"
+        },
+        {
+          "label": "المصدر",
+          "value": "House of Commons"
+        }
+      ],
+      "broll": "images/news/2026-06-08-syria-transition-year/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-08-syria-transition-year/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "HOUSE OF COMMONS LIBRARY • 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الانفتاح يصطدم بحلب وملف التوحيد المعلّق",
+      "arabicBody": "رغم الانفراج، تستمر اشتباكات في حلب مع قوات سوريا الديمقراطية وتحديات إعادة توحيد البلاد، ويتناول مجلس الأمن الملف السوري في يونيو، بحسب Atlantic Council.",
+      "bigStat": {
+        "value": "يونيو",
+        "label": "مجلس الأمن يبحث ملف سوريا",
+        "arabicLabel": "مجلس الأمن يبحث ملف سوريا"
+      },
+      "supportingStats": [
+        {
+          "label": "بؤرة التوتر",
+          "value": "حلب"
+        },
+        {
+          "label": "الطرف",
+          "value": "قسد"
+        },
+        {
+          "label": "المصدر",
+          "value": "Atlantic Council"
+        }
+      ],
+      "broll": "images/news/2026-06-08-syria-transition-year/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-08-syria-transition-year/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "ATLANTIC COUNCIL • 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    },
+    {
+      "name": "House of Commons Library",
+      "domain": "commonslibrary.parliament.uk"
+    },
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    },
+    {
+      "name": "Human Rights Watch",
+      "domain": "hrw.org"
+    }
+  ],
+  "arabicTicker": [
+    "بعد نحو عام على سقوط النظام السوري السابق: انفراج اقتصادي وهشاشة داخلية معاً",
+    "الاتحاد الأوروبي يعيد تفعيل اتفاق التعاون مع سوريا، وفق Security Council Report",
+    "دمشق تعلن عودة شبكتي Visa وMastercard إلى البلاد بعد سنوات من العزلة",
+    "الرئيس أحمد الشرع يجري تعديلاً حكومياً جزئياً في 9 مايو، وفق House of Commons",
+    "انتخابات تشريعية في 24 مايو لملء 11 مقعداً في مناطق كردية سابقة",
+    "اشتباكات حلب مع قوات سوريا الديمقراطية تستمر وملف التوحيد عالق، بحسب Atlantic Council",
+    "انفتاح اقتصادي وتوتر في حلب ومجلس الأمن على الطاولة في يونيو: أي مسار تسلكه سوريا؟"
+  ]
+}
