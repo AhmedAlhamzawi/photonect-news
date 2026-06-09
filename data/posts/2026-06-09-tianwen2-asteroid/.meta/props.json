@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "فضاء",
+    "arabicHeadline": "مسبار صيني يصل كويكباً قرب الأرض لجمع عينة",
+    "englishSubhead": "TIANWEN-2 | KAMO'OALEWA | SAMPLE RETURN",
+    "heroMedia": "images/news/2026-06-09-tianwen2-asteroid/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تيانوين-2 يلحق بصخرة ترافق الأرض",
+      "arabicBody": "وصل المسبار الصيني تيانوين-2 إلى الكويكب القريب من الأرض كاموأوليوا بعد رحلة استمرت نحو 13 شهراً منذ إطلاقه، وفق SpaceNews ووكالة الفضاء الصينية.",
+      "bigStat": {
+        "value": "13",
+        "label": "months in transit",
+        "arabicLabel": "شهراً رحلة الوصول"
+      },
+      "supportingStats": [
+        {
+          "label": "المسبار",
+          "value": "تيانوين-2"
+        },
+        {
+          "label": "الهدف",
+          "value": "كاموأوليوا"
+        },
+        {
+          "label": "المصدر",
+          "value": "SpaceNews"
+        }
+      ],
+      "broll": "images/news/2026-06-09-tianwen2-asteroid/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-tianwen2-asteroid/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SPACENEWS · JUN 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول محاولة لتثبيت مركبة على كويكب",
+      "arabicBody": "تخطط المهمة لجمع نحو 100 غرام من تربة الكويكب بأسلوب التثبيت والالتصاق لأول مرة، على أن تعيد العينة إلى الأرض أواخر 2027، بحسب New Space Economy.",
+      "bigStat": {
+        "value": "100",
+        "label": "grams of regolith",
+        "arabicLabel": "غرام من العينة"
+      },
+      "supportingStats": [
+        {
+          "label": "العودة",
+          "value": "2027"
+        },
+        {
+          "label": "الأسلوب",
+          "value": "تثبيت والتصاق"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNSA"
+        }
+      ],
+      "broll": "images/news/2026-06-09-tianwen2-asteroid/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-tianwen2-asteroid/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CNSA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "دراسة تشكّك في الأصل القمري للكويكب",
+      "arabicBody": "تشير دراسة جديدة في نيتشر كوميونيكيشنز إلى أن سطح كاموأوليوا أقرب إلى الكويكب إيتوكاوا، ما يتحدّى فرضية أصله القمري، وفق phys.org.",
+      "bigStat": {
+        "value": "2027",
+        "label": "sample returns to Earth",
+        "arabicLabel": "عودة العينة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأصل",
+          "value": "محل جدل"
+        },
+        {
+          "label": "الشبيه",
+          "value": "إيتوكاوا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Nature"
+        }
+      ],
+      "broll": "images/news/2026-06-09-tianwen2-asteroid/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-tianwen2-asteroid/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NATURE COMMS · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SpaceNews",
+      "domain": "spacenews.com"
+    },
+    {
+      "name": "phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "Nature Communications",
+      "domain": "nature.com"
+    },
+    {
+      "name": "New Space Economy",
+      "domain": "newspaceeconomy.ca"
+    }
+  ],
+  "arabicTicker": [
+    "مسبار صيني يصل كويكباً قرب الأرض لجمع عينة",
+    "تيانوين-2 يبلغ الكويكب كاموأوليوا بعد رحلة 13 شهراً",
+    "المهمة تخطط لجمع نحو 100 غرام من تربة الكويكب",
+    "أول استخدام لأسلوب التثبيت والالتصاق على كويكب",
+    "العينة من المقرر أن تصل الأرض أواخر عام 2027",
+    "دراسة جديدة تشكّك في الأصل القمري لكاموأوليوا",
+    "هل تكشف العينة سرّ نشأة هذا الكويكب الغامض؟"
+  ]
+}

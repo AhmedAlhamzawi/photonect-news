@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "فينيرينون يحمي الكلى والقلب لملايين بلا سكري",
+    "englishSubhead": "FINERENONE | KIDNEY + HEART | NEJM JUN 4",
+    "heroMedia": "images/news/2026-06-09-kidney-heart-drug/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تجربة تثبت إبطاء الدواء لتدهور الكلى",
+      "arabicBody": "أظهرت تجربة FIND-CKD أن دواء فينيرينون يبطئ تدهور الكلى لدى مرضى القصور الكلوي غير المصابين بالسكري، ونُشرت النتائج في دورية نيو إنغلاند الطبية في 4 يونيو.",
+      "bigStat": {
+        "value": "4",
+        "label": "June: NEJM publication",
+        "arabicLabel": "يونيو: نشر الدراسة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدواء",
+          "value": "فينيرينون"
+        },
+        {
+          "label": "الفئة",
+          "value": "بلا سكري"
+        },
+        {
+          "label": "المصدر",
+          "value": "NEJM"
+        }
+      ],
+      "broll": "images/news/2026-06-09-kidney-heart-drug/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-kidney-heart-drug/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NEJM · JUN 4 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ملايين المرضى قد يستفيدون من العلاج",
+      "arabicBody": "القصور الكلوي يصيب نحو 10% من البالغين عالمياً، وثلاث دراسات كبرى تربط الدواء بخفض مخاطر الكلى والقلب معاً، بحسب ScienceDaily.",
+      "bigStat": {
+        "value": "10%",
+        "label": "of adults have CKD",
+        "arabicLabel": "من البالغين مصابون"
+      },
+      "supportingStats": [
+        {
+          "label": "الأثر",
+          "value": "كلى وقلب"
+        },
+        {
+          "label": "الأدلة",
+          "value": "3 دراسات"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-09-kidney-heart-drug/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-kidney-heart-drug/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SCIENCEDAILY · JUN 8"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "باير تستعد لتوسيع استخدام الدواء",
+      "arabicBody": "تعتزم شركة باير تقديم النتائج إلى هيئة الغذاء والدواء الأمريكية لتوسيع استخدام الدواء، وهو ما يهمّ الخليج حيث ترتفع معدلات السكري وأمراض الكلى، وفق Bayer.",
+      "bigStat": {
+        "value": "FDA",
+        "label": "Label-expansion filing",
+        "arabicLabel": "طلب توسيع الاستخدام"
+      },
+      "supportingStats": [
+        {
+          "label": "الخليج",
+          "value": "سكري مرتفع"
+        },
+        {
+          "label": "الخطوة",
+          "value": "تقديم لـFDA"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bayer"
+        }
+      ],
+      "broll": "images/news/2026-06-09-kidney-heart-drug/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-kidney-heart-drug/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "BAYER · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "New England Journal of Medicine",
+      "domain": "nejm.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Bayer",
+      "domain": "bayer.com"
+    },
+    {
+      "name": "Medscape",
+      "domain": "medscape.com"
+    }
+  ],
+  "arabicTicker": [
+    "فينيرينون يحمي الكلى والقلب لملايين بلا سكري",
+    "تجربة FIND-CKD: فينيرينون يبطئ تدهور الكلى دون سكري",
+    "النتائج نُشرت في دورية نيو إنغلاند الطبية في 4 يونيو",
+    "القصور الكلوي المزمن يصيب نحو 10% من البالغين في العالم",
+    "ثلاث دراسات كبرى تربط الدواء بخفض مخاطر الكلى والقلب",
+    "باير تستعد لتقديم النتائج إلى FDA لتوسيع استخدام الدواء",
+    "هل يغيّر هذا العلاج مصير مرضى الكلى في الخليج؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "مناخ",
+    "arabicHeadline": "المنطقة العربية تسخن بضعف المتوسط العالمي",
+    "englishSubhead": "ARAB REGION | WARMING 2× | WMO",
+    "heroMedia": "images/news/2026-06-09-arab-region-heat/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "احترار يفوق ضعف المتوسط العالمي",
+      "arabicBody": "حذّرت المنظمة العالمية للأرصاد الجوية من أن المنطقة العربية تسخن بنحو ضعف المتوسط العالمي، وسط موجة حر تضرب الشرق الأوسط منذ منتصف مايو، وفق WMO.",
+      "bigStat": {
+        "value": "×2",
+        "label": "warming vs global average",
+        "arabicLabel": "سرعة الاحترار"
+      },
+      "supportingStats": [
+        {
+          "label": "الموجة",
+          "value": "منذ مايو"
+        },
+        {
+          "label": "السرعة",
+          "value": "×2 المتوسط"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-06-09-arab-region-heat/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-arab-region-heat/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "WMO · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "2024 الأشد حراً وملايين متضررون",
+      "arabicBody": "سجّل عام 2024 أعلى حرارة في تاريخ المنطقة، وأثّرت الظواهر المتطرفة على نحو 3.8 مليون شخص وأودت بحياة أكثر من 300، بحسب UN News.",
+      "bigStat": {
+        "value": "3.8",
+        "label": "million affected in 2024",
+        "arabicLabel": "مليون متضرر 2024"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفيات",
+          "value": "300+"
+        },
+        {
+          "label": "الأحرّ",
+          "value": "2024"
+        },
+        {
+          "label": "المصدر",
+          "value": "UN News"
+        }
+      ],
+      "broll": "images/news/2026-06-09-arab-region-heat/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-arab-region-heat/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "UN NEWS · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "توقعات بـ200 يوم حر استثنائي سنوياً",
+      "arabicBody": "تحذّر المنظمة من أن استمرار الحرارة فوق 50 مئوية يفوق قدرة البشر والاقتصاد على التحمّل، مع توقعات بنحو 200 يوم من الحر الاستثنائي سنوياً، وفق WMO.",
+      "bigStat": {
+        "value": "50°",
+        "label": "Celsius endurance limit",
+        "arabicLabel": "مئوية حد التحمّل"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقع",
+          "value": "200 يوم"
+        },
+        {
+          "label": "الأثر",
+          "value": "صحة واقتصاد"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-06-09-arab-region-heat/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-arab-region-heat/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "WMO · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WMO",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Red Cross Climate Centre",
+      "domain": "climatecentre.org"
+    }
+  ],
+  "arabicTicker": [
+    "المنطقة العربية تسخن بضعف المتوسط العالمي",
+    "WMO: المنطقة العربية من الأسرع احتراراً في العالم",
+    "موجة حر تضرب الشرق الأوسط منذ منتصف مايو وتستمر صيفاً",
+    "2024 الأشد حراً في تاريخ المنطقة العربية",
+    "ظواهر متطرفة أثّرت على 3.8 مليون شخص وأكثر من 300 وفاة",
+    "توقعات بنحو 200 يوم من الحر الاستثنائي سنوياً",
+    "كيف تحمي المدن العربية سكانها من حرارة تتجاوز 50 مئوية؟"
+  ]
+}

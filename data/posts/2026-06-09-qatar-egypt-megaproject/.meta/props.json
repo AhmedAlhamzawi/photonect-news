@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "استثمار",
+    "arabicHeadline": "قطر تضخّ 29.7 مليار دولار في الساحل المصري",
+    "englishSubhead": "QATAR–EGYPT | $29.7B | ALAM EL ROUM",
+    "heroMedia": "images/news/2026-06-09-qatar-egypt-megaproject/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صفقة عقارية ضخمة على الساحل الشمالي",
+      "arabicBody": "حسمت الديار القطرية صفقة بـ29.7 مليار دولار مع هيئة المجتمعات العمرانية لتطوير علم الروم بالساحل الشمالي على مساحة 4,900 فدان، وفق QNA.",
+      "bigStat": {
+        "value": "29.7",
+        "label": "$B total investment",
+        "arabicLabel": "مليار دولار الاستثمار"
+      },
+      "supportingStats": [
+        {
+          "label": "المطوّر",
+          "value": "الديار القطرية"
+        },
+        {
+          "label": "المساحة",
+          "value": "4,900 فدان"
+        },
+        {
+          "label": "الموقع",
+          "value": "الساحل الشمالي"
+        }
+      ],
+      "broll": "images/news/2026-06-09-qatar-egypt-megaproject/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-qatar-egypt-megaproject/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "QNA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المشروع يَعِد بـ250 ألف فرصة عمل",
+      "arabicBody": "يمتد المشروع على واجهة بحرية بطول 7.2 كيلومتر بأكثر من 4,500 غرفة فندقية، ويُتوقع أن يخلق نحو 250 ألف فرصة عمل، وفق Arabian Business.",
+      "bigStat": {
+        "value": "250",
+        "label": "thousand jobs expected",
+        "arabicLabel": "ألف فرصة عمل"
+      },
+      "supportingStats": [
+        {
+          "label": "الواجهة",
+          "value": "7.2 كم"
+        },
+        {
+          "label": "الفنادق",
+          "value": "4,500 غرفة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arabian Business"
+        }
+      ],
+      "broll": "images/news/2026-06-09-qatar-egypt-megaproject/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-qatar-egypt-megaproject/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ARABIAN BUSINESS · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الديار القطرية تدفع 3.5 مليار دفعة أولى",
+      "arabicBody": "دفعت الديار القطرية دفعة أولى بقيمة 3.5 مليار دولار، في صفقة تعزّز تدفق رؤوس الأموال الخليجية إلى مصر وتدعم استثماراتها الأجنبية، وفق Daily News Egypt.",
+      "bigStat": {
+        "value": "3.5",
+        "label": "$B initial installment",
+        "arabicLabel": "مليار دفعة أولى"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة مصر",
+          "value": "15% أرباح"
+        },
+        {
+          "label": "الأثر",
+          "value": "جذب استثمارات"
+        },
+        {
+          "label": "المصدر",
+          "value": "Daily News Egypt"
+        }
+      ],
+      "broll": "images/news/2026-06-09-qatar-egypt-megaproject/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-qatar-egypt-megaproject/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "DAILY NEWS EGYPT · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "QNA",
+      "domain": "qna.org.qa"
+    },
+    {
+      "name": "Qatar Tribune",
+      "domain": "qatar-tribune.com"
+    },
+    {
+      "name": "Arabian Business",
+      "domain": "arabianbusiness.com"
+    },
+    {
+      "name": "Daily News Egypt",
+      "domain": "dailynewsegypt.com"
+    }
+  ],
+  "arabicTicker": [
+    "قطر تضخّ 29.7 مليار دولار في الساحل المصري",
+    "الديار القطرية وهيئة المجتمعات العمرانية توقّعان اتفاق علم الروم",
+    "المشروع يمتد على واجهة بحرية بطول 7.2 كيلومتر",
+    "أكثر من 4,500 غرفة فندقية ونحو 250 ألف فرصة عمل متوقعة",
+    "الديار القطرية تدفع 3.5 مليار دولار دفعة أولى من الصفقة",
+    "مصر تحصل على 15% من صافي أرباح شركة المشروع",
+    "هل يصبح الساحل الشمالي وجهة الاستثمار الخليجي الأولى في مصر؟"
+  ]
+}

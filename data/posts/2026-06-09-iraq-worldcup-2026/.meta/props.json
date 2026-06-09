@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كأس العالم",
+    "arabicHeadline": "العراق يتأهل لكأس العالم لأول مرة منذ 1986",
+    "englishSubhead": "IRAQ AT WORLD CUP | FIRST SINCE 1986",
+    "heroMedia": "images/news/2026-06-09-iraq-worldcup-2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق يبلغ المونديال بعد غياب 40 عاماً",
+      "arabicBody": "تأهّل العراق إلى كأس العالم 2026 لأول مرة منذ المكسيك 1986، بعد فوزه على بوليفيا 2-1 في ملحق مونتيري، وفق FIFA.",
+      "bigStat": {
+        "value": "1986",
+        "label": "Last World Cup appearance",
+        "arabicLabel": "آخر مشاركة"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "2-1"
+        },
+        {
+          "label": "الملحق",
+          "value": "مونتيري"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iraq-worldcup-2026/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iraq-worldcup-2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FIFA · JUN 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هدف أيمن حسين الحاسم يصنع التاريخ",
+      "arabicBody": "سجّل المهاجم أيمن حسين هدف التأهل أمام بوليفيا، بعدما تجاوز العراق الإمارات 3-2 في مجموع الملحق الآسيوي بقيادة المدرب غراهام أرنولد، بحسب ESPN.",
+      "bigStat": {
+        "value": "3-2",
+        "label": "Aggregate over UAE",
+        "arabicLabel": "تخطّي الإمارات"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدّاف",
+          "value": "أيمن حسين"
+        },
+        {
+          "label": "المدرب",
+          "value": "غراهام أرنولد"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iraq-worldcup-2026/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iraq-worldcup-2026/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ESPN · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مواجهة فرنسا والسنغال والنرويج بالمجموعة",
+      "arabicBody": "وقع العراق في المجموعة التاسعة إلى جانب فرنسا والسنغال والنرويج، ويفتتح مشواره أمام النرويج في 16 يونيو، وفق Sky Sports وFOX Sports.",
+      "bigStat": {
+        "value": "16",
+        "label": "June kickoff vs Norway",
+        "arabicLabel": "يونيو ضد النرويج"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعة",
+          "value": "التاسعة"
+        },
+        {
+          "label": "الافتتاح",
+          "value": "النرويج"
+        },
+        {
+          "label": "المصدر",
+          "value": "Sky Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iraq-worldcup-2026/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iraq-worldcup-2026/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "FIFA · JUN 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Sky Sports",
+      "domain": "skysports.com"
+    },
+    {
+      "name": "FOX Sports",
+      "domain": "foxsports.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يتأهل لكأس العالم لأول مرة منذ 1986",
+    "أسود الرافدين يعودون إلى المونديال بعد غياب 40 عاماً",
+    "العراق تجاوز بوليفيا 2-1 في الملحق العالمي بمدينة مونتيري",
+    "أيمن حسين يسجّل هدف التأهل التاريخي للمنتخب العراقي",
+    "العراق في المجموعة التاسعة مع فرنسا والسنغال والنرويج",
+    "يفتتح العراق مبارياته أمام النرويج في 16 يونيو 2026",
+    "هل يتجاوز العراق دور المجموعات في أول ظهور منذ 40 عاماً؟"
+  ]
+}

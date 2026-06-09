@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 9 • 2026",
+  "arabicDateLabel": "9 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الملف النووي",
+    "arabicHeadline": "ترامب: إطار اتفاق نووي مع إيران قريب",
+    "englishSubhead": "IRAN–US TALKS | ENRICHMENT DEADLOCK",
+    "heroMedia": "images/news/2026-06-09-iran-nuclear-deadlock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ترامب: مذكرة تفاهم مع طهران قريبة",
+      "arabicBody": "قال ترامب إن مذكرة تفاهم مع إيران 'قريبة من الإنجاز' وسط هدنة سارية منذ 8 أبريل، دون اتفاق شامل حتى الآن، وفق Al Jazeera.",
+      "bigStat": {
+        "value": "8 أبريل",
+        "label": "Ceasefire in effect since",
+        "arabicLabel": "بدء الهدنة"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "عُمان"
+        },
+        {
+          "label": "الحالة",
+          "value": "بلا اتفاق"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iran-nuclear-deadlock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iran-nuclear-deadlock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AL JAZEERA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "التخصيب النووي يبقى عقدة الخلاف الأكبر",
+      "arabicBody": "تتمسّك طهران بحقها في التخصيب بينما تطالب واشنطن بتخصيب صفري، وتملك إيران 460 كيلوغراماً من اليورانيوم المخصّب لدرجة 60%، بحسب مكتبة العموم البريطانية.",
+      "bigStat": {
+        "value": "460",
+        "label": "kg of 60% enriched uranium",
+        "arabicLabel": "كغم يورانيوم 60%"
+      },
+      "supportingStats": [
+        {
+          "label": "مطلب واشنطن",
+          "value": "صفر تخصيب"
+        },
+        {
+          "label": "موقف طهران",
+          "value": "حق التخصيب"
+        },
+        {
+          "label": "المصدر",
+          "value": "Commons Library"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iran-nuclear-deadlock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iran-nuclear-deadlock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "HOUSE OF COMMONS · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هرمز قد يُفتح إذا صمد إطار الهدنة",
+      "arabicBody": "قال ترامب إن مضيق هرمز قد يُفتح ضمن إطار وقف إطلاق النار، فيما تواصل عُمان وقطر الوساطة بين واشنطن وطهران، وفق NPR وReuters.",
+      "bigStat": {
+        "value": "هرمز",
+        "label": "Reopening as first test",
+        "arabicLabel": "أول اختبار للاتفاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسطاء",
+          "value": "عُمان وقطر"
+        },
+        {
+          "label": "الاختبار",
+          "value": "فتح هرمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-09-iran-nuclear-deadlock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-09-iran-nuclear-deadlock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "REUTERS · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "House of Commons Library",
+      "domain": "commonslibrary.parliament.uk"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "ترامب: إطار اتفاق نووي مع إيران قريب",
+    "ترامب يقول إن مذكرة تفاهم مع طهران قريبة من الإنجاز وسط هدنة سارية",
+    "الهدنة بين الجانبين مستمرة منذ 8 أبريل دون اتفاق شامل",
+    "التخصيب النووي يبقى العقبة الأبرز أمام أي اتفاق نهائي",
+    "إيران تملك 460 كغم من اليورانيوم المخصّب لدرجة 60%",
+    "عُمان وقطر تواصلان الوساطة لتقريب واشنطن وطهران",
+    "هل تصمد الهدنة وتتحوّل إلى اتفاق دائم أم نعود إلى التصعيد؟"
+  ]
+}
