@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "حرّ يقارب 50 وانقطاع كهرباء يبلغ 10 ساعات",
+    "englishSubhead": "IRAQ | SUMMER POWER & BUDGET STRAIN",
+    "heroMedia": "images/news/2026-06-10-baghdad-power-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الانقطاع يبلغ 10 ساعات مع ذروة الحر",
+      "arabicBody": "مع اقتراب الحرارة من 50 درجة، يبلغ انقطاع الكهرباء الحكومية 10 ساعات يومياً عند ذروة الحمل، ووُجّهت وزارة الكهرباء بخطة طارئة، وفق Shafaq News.",
+      "bigStat": {
+        "value": "10 ساعات",
+        "label": "Daily public power cuts",
+        "arabicLabel": "ساعات الانقطاع يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الحرارة",
+          "value": "≈50°م"
+        },
+        {
+          "label": "التوجيه",
+          "value": "خطة طارئة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Shafaq"
+        }
+      ],
+      "broll": "images/news/2026-06-10-baghdad-power-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-baghdad-power-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SHAFAQ NEWS · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تحصيل فواتير الكهرباء قارب الصفر",
+      "arabicBody": "حذّرت لجنة المالية النيابية من أن تحصيل فواتير الكهرباء هبط إلى ما يقارب الصفر، فيما تتخطّى بغداد موازنة 2026 وتعتمد على دعم البنك المركزي.",
+      "bigStat": {
+        "value": "≈0",
+        "label": "Electricity bill collection",
+        "arabicLabel": "تحصيل الفواتير"
+      },
+      "supportingStats": [
+        {
+          "label": "الموازنة",
+          "value": "تخطّي 2026"
+        },
+        {
+          "label": "الدعم",
+          "value": "البنك المركزي"
+        },
+        {
+          "label": "المصدر",
+          "value": "لجنة المالية"
+        }
+      ],
+      "broll": "images/news/2026-06-10-baghdad-power-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-baghdad-power-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "PARLIAMENT FINANCE CMTE · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "خطة طارئة وأخرى لتطوير الشبكة",
+      "arabicBody": "وُجّهت وزارة الكهرباء بخطتين، عاجلة لصيف هذا العام وأخرى بعيدة المدى لتطوير الشبكة، فيما يتّجه مجلس الوزراء نحو موازنة 2027، وفق The New Region.",
+      "bigStat": {
+        "value": "2027",
+        "label": "Budget focus shifts to",
+        "arabicLabel": "التركيز المالي ينتقل إلى"
+      },
+      "supportingStats": [
+        {
+          "label": "الخطط",
+          "value": "طارئة وبعيدة"
+        },
+        {
+          "label": "الهدف",
+          "value": "تطوير الشبكة"
+        },
+        {
+          "label": "المصدر",
+          "value": "The New Region"
+        }
+      ],
+      "broll": "images/news/2026-06-10-baghdad-power-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-baghdad-power-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "THE NEW REGION · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "The New Region",
+      "domain": "thenewregion.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "حرّ يقارب 50 وانقطاع كهرباء يبلغ 10 ساعات",
+    "الحرارة تقترب من 50 درجة وساعات الانقطاع تبلغ 10 يومياً",
+    "وزارة الكهرباء توجَّه بإعداد خطة طارئة للصيف",
+    "لجنة المالية النيابية: تحصيل فواتير الكهرباء قارب الصفر",
+    "بغداد تتخطّى موازنة 2026 وتعتمد على دعم البنك المركزي",
+    "خطة بعيدة المدى لتطوير الشبكة والتركيز ينتقل إلى موازنة 2027",
+    "هل ينجو العراقيون من صيف الانقطاعات أم تتكرّر أزمة الخدمات؟"
+  ]
+}

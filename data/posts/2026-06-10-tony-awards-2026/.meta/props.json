@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "ثقافة",
+    "arabicHeadline": "«شميغادون» يفوز بأفضل مسرحية غنائية في توني 79",
+    "englishSubhead": "BROADWAY | 79TH TONY AWARDS",
+    "heroMedia": "images/news/2026-06-10-tony-awards-2026/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "«شميغادون» أفضل مسرحية غنائية",
+      "arabicBody": "في حفل توني الـ79 يوم 7 يونيو، نالت الكوميديا الغنائية «شميغادون» جائزة أفضل عمل غنائي، مع الموسيقى والنص والتوزيع، أبرز تكريم برودواي، وفق Variety.",
+      "bigStat": {
+        "value": "79",
+        "label": "Tony Awards edition",
+        "arabicLabel": "دورة جوائز توني"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائز",
+          "value": "شميغادون"
+        },
+        {
+          "label": "الفئة",
+          "value": "غنائية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Variety"
+        }
+      ],
+      "broll": "images/news/2026-06-10-tony-awards-2026/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-tony-awards-2026/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "VARIETY · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "«موت بائع متجوّل» يتصدّر بـ6 جوائز",
+      "arabicBody": "تصدّر إحياء «موت بائع متجوّل» لآرثر ميلر، ببطولة ناثان لين ولوري ميتكالف، بـ6 جوائز شملت أفضل إحياء وأفضل إخراج، وفق NPR وPlaybill.",
+      "bigStat": {
+        "value": "6",
+        "label": "Wins for the Salesman revival",
+        "arabicLabel": "جوائز لأكثر عمل"
+      },
+      "supportingStats": [
+        {
+          "label": "العمل",
+          "value": "موت بائع"
+        },
+        {
+          "label": "الفئة",
+          "value": "إحياء مسرحية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Playbill"
+        }
+      ],
+      "broll": "images/news/2026-06-10-tony-awards-2026/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-tony-awards-2026/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NPR · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "«راغتايم» و«ليبريشن» يتقاسمان الليلة",
+      "arabicBody": "نال «راغتايم» أفضل إحياء غنائي للمرة الأولى بـ4 جوائز، وفازت «ليبريشن» بأفضل مسرحية، فيما قدّمت بينك آخر بث تعاقدي لـCBS، وفق Broadway.com.",
+      "bigStat": {
+        "value": "4",
+        "label": "Wins for the Ragtime revival",
+        "arabicLabel": "جوائز لـ«راغتايم»"
+      },
+      "supportingStats": [
+        {
+          "label": "أفضل مسرحية",
+          "value": "ليبريشن"
+        },
+        {
+          "label": "المضيفة",
+          "value": "بينك"
+        },
+        {
+          "label": "المصدر",
+          "value": "Broadway.com"
+        }
+      ],
+      "broll": "images/news/2026-06-10-tony-awards-2026/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-tony-awards-2026/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "BROADWAY.COM · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Variety",
+      "domain": "variety.com"
+    },
+    {
+      "name": "Playbill",
+      "domain": "playbill.com"
+    },
+    {
+      "name": "Broadway.com",
+      "domain": "broadway.com"
+    }
+  ],
+  "arabicTicker": [
+    "«شميغادون» يفوز بأفضل مسرحية غنائية في توني 79",
+    "حفل توني الـ79 أُقيم يوم 7 يونيو على مسارح برودواي",
+    "«شميغادون» نال أيضاً جوائز الموسيقى والنص والتوزيع",
+    "إحياء «موت بائع متجوّل» يتصدّر الليلة بست جوائز",
+    "ناثان لين ولوري ميتكالف في بطولة العمل المتصدّر",
+    "«راغتايم» أفضل إحياء غنائي و«ليبريشن» أفضل مسرحية",
+    "هل تعيد هذه الدورة وهج برودواي بعد سنوات صعبة؟"
+  ]
+}

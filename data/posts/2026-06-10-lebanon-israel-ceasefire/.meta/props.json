@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "لبنان",
+    "arabicHeadline": "اتفاق هدنة بين لبنان وإسرائيل يرفضه حزب الله",
+    "englishSubhead": "LEBANON–ISRAEL | CEASEFIRE, HEZBOLLAH REFUSES",
+    "heroMedia": "images/news/2026-06-10-lebanon-israel-ceasefire/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "واشنطن ترعى هدنة و«مناطق تجريبية»",
+      "arabicBody": "بعد جولة رابعة برعاية أميركية يومي 2 و3 يونيو، اتّفق لبنان وإسرائيل على تجديد الهدنة وإنشاء «مناطق تجريبية» يسيطر فيها الجيش اللبناني حصراً، وفق الخارجية الأميركية.",
+      "bigStat": {
+        "value": "3 يونيو",
+        "label": "Ceasefire agreed in Washington",
+        "arabicLabel": "تاريخ الاتفاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الراعي",
+          "value": "واشنطن"
+        },
+        {
+          "label": "الآلية",
+          "value": "مناطق تجريبية"
+        },
+        {
+          "label": "المصدر",
+          "value": "State Dept"
+        }
+      ],
+      "broll": "images/news/2026-06-10-lebanon-israel-ceasefire/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-lebanon-israel-ceasefire/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "U.S. STATE DEPT · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الجيش اللبناني ينتشر جنوب الليطاني",
+      "arabicBody": "قال رئيس الوزراء نواف سلام إن الجيش سينتشر فوراً، وحدّد الرئيس جوزيف عون نقاط الانطلاق، شرط إخلاء حزب الله جنوب الليطاني، وفق Al Jazeera.",
+      "bigStat": {
+        "value": "جنوب الليطاني",
+        "label": "Hezbollah must evacuate sector",
+        "arabicLabel": "منطقة الانتشار"
+      },
+      "supportingStats": [
+        {
+          "label": "الانتشار",
+          "value": "المرحلة الأولى"
+        },
+        {
+          "label": "الشرط",
+          "value": "إخلاء حزب الله"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-10-lebanon-israel-ceasefire/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-lebanon-israel-ceasefire/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "AL JAZEERA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "حزب الله يرفض ويطالب بانسحاب إسرائيل",
+      "arabicBody": "رفض أمين عام حزب الله نعيم قاسم الاتفاق في كلمة متلفزة، قائلاً إن المقاومة مستمرة حتى انسحاب إسرائيل، ومطالباً بانسحاب كامل أولاً، وفق Naharnet.",
+      "bigStat": {
+        "value": "رفض",
+        "label": "Hezbollah's position",
+        "arabicLabel": "موقف حزب الله"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلب",
+          "value": "انسحاب كامل"
+        },
+        {
+          "label": "الحرب",
+          "value": "مستمرة منذ مارس"
+        },
+        {
+          "label": "المصدر",
+          "value": "Naharnet"
+        }
+      ],
+      "broll": "images/news/2026-06-10-lebanon-israel-ceasefire/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-lebanon-israel-ceasefire/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "NAHARNET · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "U.S. Department of State",
+      "domain": "state.gov"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Naharnet",
+      "domain": "naharnet.com"
+    }
+  ],
+  "arabicTicker": [
+    "اتفاق هدنة بين لبنان وإسرائيل يرفضه حزب الله",
+    "جولة تفاوض رابعة برعاية أميركية يومي 2 و3 يونيو",
+    "اتفاق على إنشاء «مناطق تجريبية» يسيطر فيها الجيش اللبناني حصراً",
+    "رئيس الوزراء نواف سلام: الجيش سينتشر فوراً في المرحلة الأولى",
+    "الرئيس جوزيف عون يحدّد نقاط انطلاق قرب زوطر وقلعة الشقيف",
+    "نعيم قاسم يرفض ويطالب بانسحاب إسرائيلي كامل أولاً",
+    "هل تصمد الهدنة أم تستمر الحرب المندلعة منذ مارس؟"
+  ]
+}

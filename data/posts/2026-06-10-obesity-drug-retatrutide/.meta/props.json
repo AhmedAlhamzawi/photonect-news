@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "عقار جديد يخفض الوزن 28% في تجربة كبرى",
+    "englishSubhead": "OBESITY | RETATRUTIDE PHASE 3 READOUT",
+    "heroMedia": "images/news/2026-06-10-obesity-drug-retatrutide/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ريتاتروتيد يخفض 28% من وزن الجسم",
+      "arabicBody": "خلال تجربة TRIUMPH-1 على مدى 80 أسبوعاً، فقد مرضى جرعة 12 ملغ 28.3% من وزنهم، أعلى نتيجة لعقار تنحيف، وفق Eli Lilly في ADA 2026.",
+      "bigStat": {
+        "value": "28.3%",
+        "label": "Average weight loss (80 weeks)",
+        "arabicLabel": "متوسط فقدان الوزن"
+      },
+      "supportingStats": [
+        {
+          "label": "الجرعة",
+          "value": "12 ملغ"
+        },
+        {
+          "label": "المدة",
+          "value": "80 أسبوعاً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Eli Lilly"
+        }
+      ],
+      "broll": "images/news/2026-06-10-obesity-drug-retatrutide/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-obesity-drug-retatrutide/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ELI LILLY · ADA 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ثلث المرضى بلغوا وزناً صحياً",
+      "arabicBody": "بلغ ثلث المرضى مؤشّر كتلة جسم صحياً عند 25 أو أقل، مع تراجع 60.6% في نوبات انقطاع النفس النومي، نتائج تهمّ الخليج المثقل بالسمنة، وفق ADA.",
+      "bigStat": {
+        "value": "1/3",
+        "label": "Reached healthy BMI ≤25",
+        "arabicLabel": "بلغوا مؤشّر كتلة صحياً"
+      },
+      "supportingStats": [
+        {
+          "label": "انقطاع النفس",
+          "value": "-60.6%"
+        },
+        {
+          "label": "الفئة",
+          "value": "الخليج معرّض"
+        },
+        {
+          "label": "المصدر",
+          "value": "ADA 2026"
+        }
+      ],
+      "broll": "images/news/2026-06-10-obesity-drug-retatrutide/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-obesity-drug-retatrutide/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "ADA 2026 · NEW ORLEANS"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "آثار جانبية تستوجب الحذر قبل الطرح",
+      "arabicBody": "تبقى التحمّلية سؤالاً مفتوحاً، إذ أبلغ 25.3% من مجموعة 12 ملغ عن تقيّؤ وتوقّف 11.3% بسبب أعراض جانبية، قبل أي طلب ترخيص، وفق Clinical Trials Arena.",
+      "bigStat": {
+        "value": "11.3%",
+        "label": "Discontinued (adverse events)",
+        "arabicLabel": "توقّفوا لأعراض جانبية"
+      },
+      "supportingStats": [
+        {
+          "label": "التقيّؤ",
+          "value": "25.3%"
+        },
+        {
+          "label": "الحالة",
+          "value": "قبل الترخيص"
+        },
+        {
+          "label": "المصدر",
+          "value": "Clinical Trials"
+        }
+      ],
+      "broll": "images/news/2026-06-10-obesity-drug-retatrutide/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-obesity-drug-retatrutide/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CLINICAL TRIALS ARENA · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clinical Trials Arena",
+      "domain": "clinicaltrialsarena.com"
+    },
+    {
+      "name": "American Diabetes Association",
+      "domain": "diabetes.org"
+    },
+    {
+      "name": "Eli Lilly",
+      "domain": "lilly.com"
+    },
+    {
+      "name": "NEJM",
+      "domain": "nejm.org"
+    }
+  ],
+  "arabicTicker": [
+    "عقار ريتاتروتيد يخفض الوزن 28% في تجربة كبرى",
+    "تجربة TRIUMPH-1 من المرحلة الثالثة على مدى 80 أسبوعاً",
+    "جرعة 12 ملغ حقّقت 28.3% فقداناً من وزن الجسم",
+    "ثلث المرضى بلغوا مؤشّر كتلة جسم صحياً عند 25 أو أقل",
+    "تراجع 60.6% في نوبات انقطاع النفس النومي",
+    "آثار جانبية: تقيّؤ لدى 25.3% وتوقّف 11.3% قبل الترخيص",
+    "هل يغيّر هذا العقار معادلة السمنة في الخليج؟"
+  ]
+}

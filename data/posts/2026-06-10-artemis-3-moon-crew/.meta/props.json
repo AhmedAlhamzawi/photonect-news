@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الفضاء",
+    "arabicHeadline": "ناسا تكشف طاقم مهمة أرتميس 3 للقمر",
+    "englishSubhead": "NASA | ARTEMIS III CREW NAMED",
+    "heroMedia": "images/news/2026-06-10-artemis-3-moon-crew/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ناسا تسمّي طاقماً من 4 روّاد",
+      "arabicBody": "أعلنت ناسا في 9 يونيو طاقم أرتميس 3 المكوّن من 4 روّاد، بقيادة راندي بريسنيك، ومعه دوغلاس وروبيو وبارميتانو، وفق NASA وU.S. News.",
+      "bigStat": {
+        "value": "4",
+        "label": "Astronauts named to the crew",
+        "arabicLabel": "روّاد في الطاقم"
+      },
+      "supportingStats": [
+        {
+          "label": "القائد",
+          "value": "بريسنيك"
+        },
+        {
+          "label": "الوكالتان",
+          "value": "ناسا + ESA"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-06-10-artemis-3-moon-crew/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-artemis-3-moon-crew/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المهمة تحوّلت إلى اختبار التحام مداري",
+      "arabicBody": "تحوّلت المهمة من هبوط قمري إلى اختبار التحام في مدار أرضي منخفض، لتجربة مركبتي هبوط تجاريتين قبل هبوط أرتميس 4 عام 2028، وفق NBC News.",
+      "bigStat": {
+        "value": "2028",
+        "label": "Surface landing now on Artemis IV",
+        "arabicLabel": "الهبوط على أرتميس 4"
+      },
+      "supportingStats": [
+        {
+          "label": "المركبات",
+          "value": "مزوّدان"
+        },
+        {
+          "label": "المهمة",
+          "value": "التحام مداري"
+        },
+        {
+          "label": "المصدر",
+          "value": "NBC News"
+        }
+      ],
+      "broll": "images/news/2026-06-10-artemis-3-moon-crew/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-artemis-3-moon-crew/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "NASA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الإطلاق العام المقبل بطيار أوروبي",
+      "arabicBody": "يُتوقّع إطلاق الطاقم إلى مدار الأرض العام المقبل 2027، ويتولّى رائد وكالة الفضاء الأوروبية لوكا بارميتانو القيادة المساعدة، وبوب هاينز احتياطياً، وفق Planetary Society.",
+      "bigStat": {
+        "value": "2027",
+        "label": "Crew launch target",
+        "arabicLabel": "موعد الإطلاق المستهدف"
+      },
+      "supportingStats": [
+        {
+          "label": "الطيار",
+          "value": "بارميتانو"
+        },
+        {
+          "label": "الاحتياط",
+          "value": "هاينز"
+        },
+        {
+          "label": "المصدر",
+          "value": "Planetary Society"
+        }
+      ],
+      "broll": "images/news/2026-06-10-artemis-3-moon-crew/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-artemis-3-moon-crew/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ESA · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "U.S. News",
+      "domain": "usnews.com"
+    },
+    {
+      "name": "NBC News",
+      "domain": "nbcnews.com"
+    },
+    {
+      "name": "Planetary Society",
+      "domain": "planetary.org"
+    }
+  ],
+  "arabicTicker": [
+    "ناسا تكشف طاقم مهمة أرتميس 3 للقمر",
+    "4 روّاد في الطاقم بقيادة راندي بريسنيك",
+    "أندريه دوغلاس وفرانك روبيو ضمن أخصائيي المهمة",
+    "المهمة تتحوّل إلى اختبار التحام في مدار أرضي منخفض",
+    "تجربة مركبتي هبوط تجاريتين قبل هبوط أرتميس 4 عام 2028",
+    "إطلاق الطاقم مستهدف العام المقبل 2027 بطيار من وكالة أوروبا",
+    "هل تعيد أرتميس الإنسان إلى سطح القمر بعد أكثر من نصف قرن؟"
+  ]
+}

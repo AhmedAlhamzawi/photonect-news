@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 10 • 2026",
+  "arabicDateLabel": "10 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تقنية",
+    "arabicHeadline": "آبل تعيد بناء «سيري» بالذكاء الاصطناعي",
+    "englishSubhead": "APPLE WWDC 2026 | NEW SIRI, iOS 27",
+    "heroMedia": "images/news/2026-06-10-siri-ai-wwdc/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "آبل تكشف «سيري» جديدة في WWDC",
+      "arabicBody": "في كلمة 8 يونيو كشفت آبل «سيري» مُعاد بناؤها بفهم شخصي شامل ووعي بالشاشة، مع نظام iOS 27، وفق 9to5Mac.",
+      "bigStat": {
+        "value": "iOS 27",
+        "label": "New operating system unveiled",
+        "arabicLabel": "نظام التشغيل الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "الحدث",
+          "value": "WWDC"
+        },
+        {
+          "label": "المكان",
+          "value": "مقر آبل"
+        },
+        {
+          "label": "المصدر",
+          "value": "9to5Mac"
+        }
+      ],
+      "broll": "images/news/2026-06-10-siri-ai-wwdc/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-10-siri-ai-wwdc/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "9TO5MAC · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "محرّك «جيميني» من غوغل يشغّل «سيري»",
+      "arabicBody": "تعتمد «سيري» الجديدة على نموذج «جيميني» من غوغل في الخلفية، فتصبح أكثر حواريةً ووعياً بصرياً ضمن تطبيق مستقل، وفق TechCrunch.",
+      "bigStat": {
+        "value": "Gemini",
+        "label": "Engine powering the new Siri",
+        "arabicLabel": "المحرّك تحت الغطاء"
+      },
+      "supportingStats": [
+        {
+          "label": "التطبيق",
+          "value": "مستقل"
+        },
+        {
+          "label": "الميزة",
+          "value": "وعي بصري"
+        },
+        {
+          "label": "المصدر",
+          "value": "TechCrunch"
+        }
+      ],
+      "broll": "images/news/2026-06-10-siri-ai-wwdc/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-10-siri-ai-wwdc/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "TECHCRUNCH · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الميزات تتطلّب آيفون 16 فأحدث",
+      "arabicBody": "طرحت آبل نسخاً تجريبية لأنظمة 27، وتتطلّب ميزات «سيري» الذكية آيفون 16 فأحدث مع iPhone 15 Pro، والطرح العام لاحقاً 2026، وفق MacRumors.",
+      "bigStat": {
+        "value": "iPhone 16+",
+        "label": "Required for the new Siri AI",
+        "arabicLabel": "الأجهزة المدعومة"
+      },
+      "supportingStats": [
+        {
+          "label": "النسخة",
+          "value": "تجريبية للمطوّرين"
+        },
+        {
+          "label": "الطرح",
+          "value": "لاحقاً 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "MacRumors"
+        }
+      ],
+      "broll": "images/news/2026-06-10-siri-ai-wwdc/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-10-siri-ai-wwdc/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "MACRUMORS · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "9to5Mac",
+      "domain": "9to5mac.com"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com"
+    },
+    {
+      "name": "Engadget",
+      "domain": "engadget.com"
+    },
+    {
+      "name": "MacRumors",
+      "domain": "macrumors.com"
+    }
+  ],
+  "arabicTicker": [
+    "آبل تعيد بناء «سيري» بالذكاء الاصطناعي في WWDC 2026",
+    "الكشف عن نظام iOS 27 وتحديثات ذكاء واسعة يوم 8 يونيو",
+    "«سيري» الجديدة تفهم السياق الشخصي وما يظهر على الشاشة",
+    "نموذج «جيميني» من غوغل يشغّل «سيري» في الخلفية",
+    "تطبيق مستقل أكثر حوارية ووعياً بصرياً",
+    "الميزات تتطلّب آيفون 16 فأحدث مع iPhone 15 Pro",
+    "هل تنقل هذه الشراكة آبل إلى صدارة سباق الذكاء الاصطناعي؟"
+  ]
+}
