@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السودان",
+    "arabicHeadline": "الفاشر محاصرة والمجاعة تهدّد المدنيين",
+    "englishSubhead": "SUDAN | EL FASHER SIEGE DEEPENS, FAMINE SPREADS",
+    "heroMedia": "images/news/2026-06-11-sudan-elfasher-famine/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "حصار الفاشر يقارب عامين متواصلين",
+      "arabicBody": "يحاصر الدعم السريع مدينة الفاشر في دارفور منذ نحو عامين، وتتسع المجاعة بين أكثر من مليون مدني، وفق Human Rights Watch وOHCHR.",
+      "bigStat": {
+        "value": "2",
+        "label": "Years of siege on El Fasher",
+        "arabicLabel": "عاما الحصار"
+      },
+      "supportingStats": [
+        {
+          "label": "المدينة",
+          "value": "الفاشر"
+        },
+        {
+          "label": "المهدّدون",
+          "value": "+1 مليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "OHCHR"
+        }
+      ],
+      "broll": "images/news/2026-06-11-sudan-elfasher-famine/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-sudan-elfasher-famine/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هيومن رايتس ووتش تطالب بمحاسبة قادة",
+      "arabicBody": "طالبت هيومن رايتس ووتش في 10 يونيو الجيش السوداني بمحاسبة قادة من الدعم السريع انشقّوا إليه، بينهم اثنان منذ أبريل، على جرائم خطيرة.",
+      "bigStat": {
+        "value": "2",
+        "label": "Defected RSF commanders since April",
+        "arabicLabel": "قائدان منشقّان"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "10 يونيو"
+        },
+        {
+          "label": "الجهة",
+          "value": "HRW"
+        },
+        {
+          "label": "منذ",
+          "value": "أبريل"
+        }
+      ],
+      "broll": "images/news/2026-06-11-sudan-elfasher-famine/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-sudan-elfasher-famine/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كردفان ساحة كرّ وفرّ بين الطرفين",
+      "arabicBody": "تتبدّل السيطرة على إقليم كردفان الغني بالذهب والصمغ العربي بين الجيش والدعم السريع، مع تحذيرات أممية من تصعيد ميداني، وفق Al Jazeera.",
+      "bigStat": {
+        "value": "+500K",
+        "label": "Displaced around El Fasher",
+        "arabicLabel": "نازحون حول الفاشر"
+      },
+      "supportingStats": [
+        {
+          "label": "الإقليم",
+          "value": "كردفان"
+        },
+        {
+          "label": "الموارد",
+          "value": "ذهب وصمغ"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-11-sudan-elfasher-famine/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-sudan-elfasher-famine/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Human Rights Watch",
+      "domain": "hrw.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "OHCHR",
+      "domain": "ohchr.org"
+    },
+    {
+      "name": "Foreign Policy",
+      "domain": "foreignpolicy.com"
+    }
+  ],
+  "arabicTicker": [
+    "الفاشر تحت حصار الدعم السريع منذ نحو عامين",
+    "أكثر من مليون مدني يواجهون المجاعة في دارفور",
+    "هيومن رايتس ووتش تطالب بمحاسبة قادة منشقّين على جرائم",
+    "قائدان من الدعم السريع انشقّا إلى الجيش منذ أبريل",
+    "كردفان الغنية بالذهب والصمغ العربي ساحة كرّ وفرّ",
+    "تحذيرات أممية متكرّرة من تصعيد ميداني في السودان",
+    "هل يفتح انشقاق القادة باباً لمحاسبة على انتهاكات الحرب؟"
+  ]
+}

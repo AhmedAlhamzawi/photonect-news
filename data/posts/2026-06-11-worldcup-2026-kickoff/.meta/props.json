@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "كأس العالم 2026 ينطلق اليوم بأكبر نسخة",
+    "englishSubhead": "FIFA | 2026 WORLD CUP KICKS OFF TODAY",
+    "heroMedia": "images/news/2026-06-11-worldcup-2026-kickoff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الانطلاقة من إستاد أزتيكا في مكسيكو",
+      "arabicBody": "تنطلق نهائيات كأس العالم 2026 اليوم 11 يونيو بمباراة المكسيك وجنوب أفريقيا على إستاد أزتيكا في مدينة مكسيكو، وفق FIFA وESPN.",
+      "bigStat": {
+        "value": "48",
+        "label": "Teams in the tournament",
+        "arabicLabel": "منتخباً في البطولة"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتتاح",
+          "value": "المكسيك × ج.أفريقيا"
+        },
+        {
+          "label": "الملعب",
+          "value": "أزتيكا"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA"
+        }
+      ],
+      "broll": "images/news/2026-06-11-worldcup-2026-kickoff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-worldcup-2026-kickoff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول نسخة بثلاث دول و104 مباريات",
+      "arabicBody": "للمرة الأولى تستضيفها ثلاث دول هي الولايات المتحدة وكندا والمكسيك، وللمرة الأولى يشارك فيها 48 منتخباً عبر 104 مباريات، وفق FOX Sports.",
+      "bigStat": {
+        "value": "104",
+        "label": "Matches across the tournament",
+        "arabicLabel": "مباراة في البطولة"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيفون",
+          "value": "3 دول"
+        },
+        {
+          "label": "المنتخبات",
+          "value": "48"
+        },
+        {
+          "label": "المصدر",
+          "value": "FOX Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-11-worldcup-2026-kickoff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-worldcup-2026-kickoff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النهائي في 19 يوليو قرب نيويورك",
+      "arabicBody": "تُتوَّج البطولة بالنهائي في 19 يوليو على ملعب MetLife قرب نيويورك، خاتمةً أكبر نسخة في تاريخ كأس العالم، وفق NBC.",
+      "bigStat": {
+        "value": "19 يوليو",
+        "label": "Final at MetLife Stadium",
+        "arabicLabel": "نهائي البطولة"
+      },
+      "supportingStats": [
+        {
+          "label": "الملعب",
+          "value": "MetLife"
+        },
+        {
+          "label": "قرب",
+          "value": "نيويورك"
+        },
+        {
+          "label": "المصدر",
+          "value": "NBC"
+        }
+      ],
+      "broll": "images/news/2026-06-11-worldcup-2026-kickoff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-worldcup-2026-kickoff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "FOX Sports",
+      "domain": "foxsports.com"
+    },
+    {
+      "name": "NBC",
+      "domain": "nbcnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "كأس العالم 2026 ينطلق اليوم بأكبر نسخة في التاريخ",
+    "المباراة الافتتاحية بين المكسيك وجنوب أفريقيا في أزتيكا",
+    "أول نسخة تستضيفها ثلاث دول: الولايات المتحدة وكندا والمكسيك",
+    "للمرة الأولى يشارك 48 منتخباً عبر 104 مباريات في نسخة واحدة",
+    "النهائي مقرّر في 19 يوليو على ملعب MetLife قرب نيويورك",
+    "نسخة قياسية في عدد المنتخبات والمدن المضيفة والجماهير",
+    "من يرفع اللقب في أكبر مونديال شهده العالم حتى اليوم؟"
+  ]
+}

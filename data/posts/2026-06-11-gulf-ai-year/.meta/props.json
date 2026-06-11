@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "ذكاء اصطناعي",
+    "arabicHeadline": "السعودية تُعلن 2026 عاماً للذكاء الاصطناعي",
+    "englishSubhead": "SAUDI ARABIA | 2026 DECLARED THE YEAR OF AI",
+    "heroMedia": "images/news/2026-06-11-gulf-ai-year/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مجلس الوزراء يرفع الذكاء أولوية وطنية",
+      "arabicBody": "اعتمد مجلس الوزراء السعودي عام 2026 عاماً للذكاء الاصطناعي، أولويةً مركزية تخترق كل الوزارات والأجهزة الحكومية والخدمات العامة، وفق House of Saud.",
+      "bigStat": {
+        "value": "2026",
+        "label": "Declared the Year of AI",
+        "arabicLabel": "عام الذكاء الاصطناعي"
+      },
+      "supportingStats": [
+        {
+          "label": "العام",
+          "value": "2026"
+        },
+        {
+          "label": "النطاق",
+          "value": "كل الوزارات"
+        },
+        {
+          "label": "المصدر",
+          "value": "مجلس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-06-11-gulf-ai-year/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-gulf-ai-year/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هيومين تجهّز نموذج علّام السيادي للإطلاق",
+      "arabicBody": "هيومين، المدعومة من صندوق الاستثمارات العامة وقيمتها نحو 100 مليار دولار، تُجهّز نموذجها اللغوي السيادي علّام لإطلاق نهاية أغسطس، وفق AI World Journal.",
+      "bigStat": {
+        "value": "$100B",
+        "label": "Humain valuation",
+        "arabicLabel": "قيمة شركة هيومين"
+      },
+      "supportingStats": [
+        {
+          "label": "القيمة",
+          "value": "100 مليار"
+        },
+        {
+          "label": "النموذج",
+          "value": "علّام"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "أغسطس"
+        }
+      ],
+      "broll": "images/news/2026-06-11-gulf-ai-year/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-gulf-ai-year/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بنية حوسبة بـ 500 ميغاواط خلال سنوات",
+      "arabicBody": "تنشر هيومين نحو 500 ميغاواط من معالجات AMD ومثلها من Nvidia خلال 5 سنوات، يفتتحها طلب أوّلي قدره 18 ألف وحدة GB300، وفق Middle East Institute.",
+      "bigStat": {
+        "value": "500",
+        "label": "Megawatts of AMD compute",
+        "arabicLabel": "ميغاواط من المعالجات"
+      },
+      "supportingStats": [
+        {
+          "label": "Nvidia",
+          "value": "500MW"
+        },
+        {
+          "label": "الطلب",
+          "value": "18,000 وحدة"
+        },
+        {
+          "label": "المدة",
+          "value": "5 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-06-11-gulf-ai-year/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-gulf-ai-year/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "House of Saud",
+      "domain": "houseofsaud.com"
+    },
+    {
+      "name": "AI World Journal",
+      "domain": "aiworldjournal.com"
+    },
+    {
+      "name": "Middle East Institute",
+      "domain": "mei.edu"
+    },
+    {
+      "name": "Gulf Business",
+      "domain": "gulfbusiness.com"
+    }
+  ],
+  "arabicTicker": [
+    "مجلس الوزراء السعودي يُعلن 2026 عاماً للذكاء الاصطناعي",
+    "الذكاء الاصطناعي أولوية مركزية تخترق كل الوزارات والخدمات",
+    "هيومين بقيمة نحو 100 مليار دولار تجهّز نموذج علّام للإطلاق",
+    "علّام نموذج لغوي سيادي يُنتظر إطلاقه نهاية أغسطس",
+    "نشر 500 ميغاواط من معالجات AMD ومثلها من Nvidia",
+    "طلب أوّلي قدره 18 ألف وحدة GB300 خلال 5 سنوات",
+    "هل يصبح الخليج قطباً سيادياً ثالثاً للذكاء الاصطناعي عالمياً؟"
+  ]
+}

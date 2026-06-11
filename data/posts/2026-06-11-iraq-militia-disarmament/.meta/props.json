@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "فصائل عراقية تضع سلاحها تحت سلطة الدولة",
+    "englishSubhead": "IRAQ | FACTIONS MOVE ARMS UNDER STATE CONTROL",
+    "heroMedia": "images/news/2026-06-11-iraq-militia-disarmament/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "فصيلان يفكّان ارتباطهما بهيئة الحشد",
+      "arabicBody": "أعلن فصيلا عصائب أهل الحق وكتائب الإمام علي في 2 يونيو فكّ ارتباطهما بهيئة الحشد الشعبي ووضع سلاحهما تحت سلطة الدولة، وفق Long War Journal.",
+      "bigStat": {
+        "value": "2",
+        "label": "Factions severing PMF ties",
+        "arabicLabel": "فصيلان يفكّان الارتباط"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "2 يونيو"
+        },
+        {
+          "label": "الجهة",
+          "value": "الحشد الشعبي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Long War Journal"
+        }
+      ],
+      "broll": "images/news/2026-06-11-iraq-militia-disarmament/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-iraq-militia-disarmament/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الزيدي يشكّل لجنة مشتركة لحصر السلاح",
+      "arabicBody": "التقى رئيس الوزراء علي الزيدي وفود الفصائل في 3 يونيو، واتُّفق على تشكيل لجنة مشتركة تضع آليات حصر السلاح بيد الدولة خلال يومين، وفق The National.",
+      "bigStat": {
+        "value": "3 يونيو",
+        "label": "PM Zaidi meets the faction delegations",
+        "arabicLabel": "اجتماع رئيس الوزراء"
+      },
+      "supportingStats": [
+        {
+          "label": "رئيس الوزراء",
+          "value": "الزيدي"
+        },
+        {
+          "label": "اللجنة",
+          "value": "حصر السلاح"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-11-iraq-militia-disarmament/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-iraq-militia-disarmament/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مواقف الفصائل بين القبول والرفض",
+      "arabicBody": "حلّ مقتدى الصدر سرايا السلام في 27 مايو، فيما تؤيّد كتائب حزب الله التسليم مع تحفّظات، وترفض حركة النجباء المبادرة، وفق Iraqi News.",
+      "bigStat": {
+        "value": "27 مايو",
+        "label": "Sadr dissolves Saraya al-Salam",
+        "arabicLabel": "حلّ سرايا السلام"
+      },
+      "supportingStats": [
+        {
+          "label": "الصدر",
+          "value": "27 مايو"
+        },
+        {
+          "label": "كتائب حزب الله",
+          "value": "تحفّظات"
+        },
+        {
+          "label": "النجباء",
+          "value": "رفض"
+        }
+      ],
+      "broll": "images/news/2026-06-11-iraq-militia-disarmament/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-iraq-militia-disarmament/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Long War Journal",
+      "domain": "longwarjournal.org"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Religion News",
+      "domain": "religionnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "فصائل عراقية تضع سلاحها تحت سلطة الدولة",
+    "عصائب أهل الحق وكتائب الإمام علي تفكّان ارتباطهما بالحشد الشعبي",
+    "رئيس الوزراء الزيدي يلتقي الفصائل ويشكّل لجنة لحصر السلاح",
+    "الصدر يحلّ سرايا السلام في 27 مايو ويضعها بيد الدولة",
+    "كتائب حزب الله تؤيّد التسليم مع تحفّظات وحركة النجباء ترفض",
+    "اللجنة المشتركة مكلّفة بوضع آليات حصر السلاح خلال يومين",
+    "هل تنجح بغداد في حصر السلاح بيد الدولة بعد سنوات من تعدّد الفصائل؟"
+  ]
+}

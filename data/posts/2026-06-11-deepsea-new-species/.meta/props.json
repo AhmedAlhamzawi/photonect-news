@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "31 نوعاً بحرياً جديداً قبالة البرازيل",
+    "englishSubhead": "OCEAN | 31 NEW DEEP-SEA SPECIES FOUND OFF BRAZIL",
+    "heroMedia": "images/news/2026-06-11-deepsea-new-species/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بعثة تغوص في الطبقة الوسطى للمحيط",
+      "arabicBody": "غاصت بعثة معهد شميدت على متن السفينة فالكور قبالة سواحل البرازيل، فأكّدت 31 نوعاً بحرياً جديداً خلال أيام معدودة، وفق Schmidt Ocean Institute.",
+      "bigStat": {
+        "value": "31",
+        "label": "New marine species confirmed",
+        "arabicLabel": "نوعاً بحرياً جديداً"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "قبالة البرازيل"
+        },
+        {
+          "label": "السفينة",
+          "value": "فالكور"
+        },
+        {
+          "label": "المصدر",
+          "value": "Schmidt Ocean"
+        }
+      ],
+      "broll": "images/news/2026-06-11-deepsea-new-species/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-deepsea-new-species/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كائنات هلامية ودود شفافة بين النتائج",
+      "arabicBody": "ضمّت النتائج قناديل وأمشاطاً هلامية وسيفونوفورات ودوداً شفافة، تسبح في المياه الوسطى بين الطبقة المضيئة وقاع البحر، وفق Smithsonian.",
+      "bigStat": {
+        "value": "4",
+        "label": "Gelatinous groups among the finds",
+        "arabicLabel": "مجموعات هلامية بين النتائج"
+      },
+      "supportingStats": [
+        {
+          "label": "المنطقة",
+          "value": "المياه الوسطى"
+        },
+        {
+          "label": "أمثلة",
+          "value": "قناديل ودود"
+        },
+        {
+          "label": "المصدر",
+          "value": "Smithsonian"
+        }
+      ],
+      "broll": "images/news/2026-06-11-deepsea-new-species/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-deepsea-new-species/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أوزبورن: المحيط لا يزال مجهولاً",
+      "arabicBody": "قالت كبيرة الباحثين كارين أوزبورن إن المياه الوسطى مليئة بكائنات مدهشة بدأنا للتوّ فهمها، وفق University of Alaska Fairbanks وPopular Science.",
+      "bigStat": {
+        "value": "أيام",
+        "label": "Discoveries confirmed within days",
+        "arabicLabel": "خلال أيام معدودة"
+      },
+      "supportingStats": [
+        {
+          "label": "الباحثة",
+          "value": "أوزبورن"
+        },
+        {
+          "label": "المعهد",
+          "value": "Smithsonian"
+        },
+        {
+          "label": "المصدر",
+          "value": "Popular Science"
+        }
+      ],
+      "broll": "images/news/2026-06-11-deepsea-new-species/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-deepsea-new-species/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Schmidt Ocean Institute",
+      "domain": "schmidtocean.org"
+    },
+    {
+      "name": "Smithsonian",
+      "domain": "si.edu"
+    },
+    {
+      "name": "University of Alaska Fairbanks",
+      "domain": "uaf.edu"
+    },
+    {
+      "name": "Popular Science",
+      "domain": "popsci.com"
+    }
+  ],
+  "arabicTicker": [
+    "بعثة معهد شميدت تكتشف 31 نوعاً بحرياً جديداً قبالة البرازيل",
+    "الاكتشافات تمّت على متن السفينة فالكور خلال أيام معدودة",
+    "قناديل وأمشاط هلامية وسيفونوفورات ودود شفافة بين النتائج",
+    "الكائنات رُصدت في المياه الوسطى بين سطح البحر وقاعه",
+    "كارين أوزبورن: المياه الوسطى مليئة بكائنات بدأنا فهمها للتوّ",
+    "تقنيات الغوص الحديثة مكّنت من تأكيد الأنواع في وقت قياسي",
+    "كم من أسرار المحيط ما زالت بعيدة عن أعين العلماء؟"
+  ]
+}

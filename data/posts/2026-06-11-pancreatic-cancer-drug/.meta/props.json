@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 11 • 2026",
+  "arabicDateLabel": "11 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة عالمية",
+    "arabicHeadline": "عقار يضاعف بقاء مرضى سرطان البنكرياس",
+    "englishSubhead": "ONCOLOGY | RAS DRUG DOUBLES PANCREATIC SURVIVAL",
+    "heroMedia": "images/news/2026-06-11-pancreatic-cancer-drug/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تجربة المرحلة الثالثة تضاعف زمن البقاء",
+      "arabicBody": "في سرطان البنكرياس المنتشر، رفع عقار داراكسونراسيب متوسط البقاء إلى 13.2 شهراً مقابل 6.7 للعلاج الكيميائي ضمن تجربة RASolute 302، وفق ASCO.",
+      "bigStat": {
+        "value": "13.2",
+        "label": "Median overall survival (months)",
+        "arabicLabel": "أشهر البقاء الوسطي"
+      },
+      "supportingStats": [
+        {
+          "label": "الكيميائي",
+          "value": "6.7 شهر"
+        },
+        {
+          "label": "التجربة",
+          "value": "RASolute 302"
+        },
+        {
+          "label": "المصدر",
+          "value": "ASCO"
+        }
+      ],
+      "broll": "images/news/2026-06-11-pancreatic-cancer-drug/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-11-pancreatic-cancer-drug/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خطر الوفاة ينخفض إلى نسبة 0.40",
+      "arabicBody": "سجّل العقار نسبة خطر 0.40 باحتمال إحصائي دون 0.0001، وضاعف البقاء دون تقدّم المرض وثلّث نسبة الاستجابة، وفق Dana-Farber وNEJM.",
+      "bigStat": {
+        "value": "0.40",
+        "label": "Hazard ratio for death",
+        "arabicLabel": "نسبة خطر الوفاة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدلالة",
+          "value": "p<0.0001"
+        },
+        {
+          "label": "الاستجابة",
+          "value": "×3"
+        },
+        {
+          "label": "المصدر",
+          "value": "NEJM"
+        }
+      ],
+      "broll": "images/news/2026-06-11-pancreatic-cancer-drug/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-11-pancreatic-cancer-drug/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "نحو معيار علاجي جديد للخط الثاني",
+      "arabicBody": "شملت التجربة 500 مريضاً، وعُرضت نتائجها في مؤتمر ASCO في 31 مايو، ما يرشّح العقار معياراً جديداً للخط الثاني، وفق Revolution Medicines.",
+      "bigStat": {
+        "value": "500",
+        "label": "Patients in the trial",
+        "arabicLabel": "مريضاً في التجربة"
+      },
+      "supportingStats": [
+        {
+          "label": "العرض",
+          "value": "31 مايو"
+        },
+        {
+          "label": "الشركة",
+          "value": "Revolution Medicines"
+        },
+        {
+          "label": "الخط",
+          "value": "الثاني"
+        }
+      ],
+      "broll": "images/news/2026-06-11-pancreatic-cancer-drug/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-11-pancreatic-cancer-drug/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ASCO",
+      "domain": "asco.org"
+    },
+    {
+      "name": "Dana-Farber",
+      "domain": "dana-farber.org"
+    },
+    {
+      "name": "Revolution Medicines",
+      "domain": "revmed.com"
+    },
+    {
+      "name": "NEJM",
+      "domain": "nejm.org"
+    }
+  ],
+  "arabicTicker": [
+    "عقار داراكسونراسيب يضاعف بقاء مرضى سرطان البنكرياس المنتشر",
+    "متوسط البقاء يرتفع إلى 13.2 شهراً مقابل 6.7 للكيميائي",
+    "نسبة خطر الوفاة تنخفض إلى 0.40 باحتمال إحصائي دون 0.0001",
+    "العقار يضاعف البقاء دون تقدّم المرض ويثلّث نسبة الاستجابة",
+    "التجربة شملت 500 مريضاً وعُرضت في مؤتمر ASCO في 31 مايو",
+    "نتائج نُشرت في NEJM ترشّح العقار معياراً جديداً للخط الثاني",
+    "هل يفتح هذا الباب أمام علاج أكثر فاعلية لأصعب أنواع السرطان؟"
+  ]
+}
