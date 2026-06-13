@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "نيكس على بُعد فوز من لقب تاريخي",
+    "englishSubhead": "NBA FINALS | KNICKS ONE WIN FROM FIRST TITLE SINCE 1973",
+    "heroMedia": "images/news/2026-06-13-nba-finals-knicks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نيكس يتصدّر النهائي 3-1 على سبيرز",
+      "arabicBody": "يتقدّم نيويورك نيكس 3-1 على سان أنطونيو سبيرز في نهائي الدوري الأمريكي للسلة، وتُقام المباراة الخامسة الحاسمة في سان أنطونيو يوم 13 يونيو، وفق NBA.",
+      "bigStat": {
+        "value": "3-1",
+        "label": "Knicks lead the Finals series",
+        "arabicLabel": "تقدّم نيكس في النهائي"
+      },
+      "supportingStats": [
+        {
+          "label": "التقدّم",
+          "value": "3-1"
+        },
+        {
+          "label": "المباراة 5",
+          "value": "13 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "NBA"
+        }
+      ],
+      "broll": "images/news/2026-06-13-nba-finals-knicks/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-nba-finals-knicks/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أكبر ريمونتادا في تاريخ النهائيات",
+      "arabicBody": "قلب نيكس تأخّره بفارق 29 نقطة في المباراة الرابعة، في أكبر ريمونتادا بتاريخ النهائيات، وفوزٌ واحد يُنهي صياماً عن اللقب منذ 1973، وفق ESPN.",
+      "bigStat": {
+        "value": "29",
+        "label": "Points erased — record Finals comeback",
+        "arabicLabel": "نقاط الريمونتادا القياسية"
+      },
+      "supportingStats": [
+        {
+          "label": "الريمونتادا",
+          "value": "29 نقطة"
+        },
+        {
+          "label": "آخر لقب",
+          "value": "1973"
+        },
+        {
+          "label": "الصيام",
+          "value": "53 عاماً"
+        }
+      ],
+      "broll": "images/news/2026-06-13-nba-finals-knicks/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-nba-finals-knicks/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "برانسون يقود وفمبانياما يقاوم",
+      "arabicBody": "يقود جايلن برانسون نيكس بمعدّل 29.5 نقطة، فيما يسعى سبيرز بقيادة فيكتور فمبانياما (27.8 نقطة) لخطف الفوز وفرض مباراة سادسة، وفق NBA.",
+      "bigStat": {
+        "value": "29.5",
+        "label": "Brunson points per game",
+        "arabicLabel": "معدّل برانسون"
+      },
+      "supportingStats": [
+        {
+          "label": "برانسون",
+          "value": "29.5"
+        },
+        {
+          "label": "فمبانياما",
+          "value": "27.8"
+        },
+        {
+          "label": "الحسم",
+          "value": "مباراة 5"
+        }
+      ],
+      "broll": "images/news/2026-06-13-nba-finals-knicks/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-nba-finals-knicks/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NBA",
+      "domain": "nba.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "The Big Lead",
+      "domain": "thebiglead.com"
+    }
+  ],
+  "arabicTicker": [
+    "نيويورك نيكس على بُعد فوز واحد من أول لقب منذ 1973",
+    "نيكس يتصدّر النهائي 3-1 على سان أنطونيو سبيرز في الدوري الأمريكي للسلة",
+    "المباراة الخامسة الحاسمة تُقام في سان أنطونيو يوم 13 يونيو",
+    "نيكس قلب تأخّره بفارق 29 نقطة في أكبر ريمونتادا بتاريخ النهائيات",
+    "فوز واحد فقط يُنهي صياماً عن اللقب امتدّ 53 عاماً",
+    "برانسون يقود بمعدّل 29.5 نقطة وفمبانياما يقاوم بـ27.8 نقطة",
+    "هل يحسم نيكس اللقب أم يفرض سبيرز مباراة سادسة؟"
+  ]
+}

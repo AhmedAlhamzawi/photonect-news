@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد السعودية",
+    "arabicHeadline": "اقتصاد السعودية يبلغ 1.31 تريليون دولار",
+    "englishSubhead": "SAUDI ARABIA | ECONOMY HITS $1.31T, NON-OIL DRIVES GROWTH",
+    "heroMedia": "images/news/2026-06-13-saudi-vision2030-nextphase/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "القطاعات غير النفطية تقود النمو",
+      "arabicBody": "بلغ حجم الاقتصاد السعودي 1.31 تريليون دولار، تقوده القطاعات غير النفطية والسياحة والاستثمار ضمن رؤية 2030، وفق Gulf News.",
+      "bigStat": {
+        "value": "1.31 تريليون $",
+        "label": "Saudi economy size",
+        "arabicLabel": "حجم الاقتصاد"
+      },
+      "supportingStats": [
+        {
+          "label": "الناتج",
+          "value": "1.31 تريليون $"
+        },
+        {
+          "label": "المحرّك",
+          "value": "غير نفطي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Gulf News"
+        }
+      ],
+      "broll": "images/news/2026-06-13-saudi-vision2030-nextphase/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-saudi-vision2030-nextphase/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "123 مليون سائح و700 مقر إقليمي",
+      "arabicBody": "استقبلت المملكة 123 مليون سائح في 2025، وتجاوز المعتمرون 18 مليوناً فوق هدف 15 مليوناً، وأسّست +700 شركة مقارّ إقليمية، وفق رؤية 2030.",
+      "bigStat": {
+        "value": "123 مليون",
+        "label": "Tourists in 2025",
+        "arabicLabel": "عدد السياح 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "السياح",
+          "value": "123 مليون"
+        },
+        {
+          "label": "العمرة",
+          "value": "+18 مليون"
+        },
+        {
+          "label": "المقارّ",
+          "value": "+700"
+        }
+      ],
+      "broll": "images/news/2026-06-13-saudi-vision2030-nextphase/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-saudi-vision2030-nextphase/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المرحلة المقبلة «أكثر سعودية»",
+      "arabicBody": "يرى محللون أنّ مرحلة رؤية 2030 المقبلة ستحدّد شروط مشاركة العالم في الاقتصاد السعودي، وتكون «أكثر سعودية»، وفق AGBI.",
+      "bigStat": {
+        "value": "2030",
+        "label": "Vision target year, next phase begins",
+        "arabicLabel": "أفق الرؤية"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة",
+          "value": "المقبلة"
+        },
+        {
+          "label": "التركيز",
+          "value": "محلي"
+        },
+        {
+          "label": "المصدر",
+          "value": "AGBI"
+        }
+      ],
+      "broll": "images/news/2026-06-13-saudi-vision2030-nextphase/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-saudi-vision2030-nextphase/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Vision 2030",
+      "domain": "vision2030.gov.sa"
+    }
+  ],
+  "arabicTicker": [
+    "اقتصاد السعودية يبلغ 1.31 تريليون دولار تقوده القطاعات غير النفطية",
+    "السياحة والاستثمار محرّكان رئيسيان للنمو ضمن رؤية 2030",
+    "المملكة استقبلت 123 مليون سائح في عام 2025",
+    "المعتمرون يتجاوزون 18 مليوناً فوق هدف 15 مليوناً",
+    "+700 شركة عالمية تؤسّس مقارّ إقليمية في المملكة",
+    "محللون: مرحلة رؤية 2030 المقبلة ستكون «أكثر سعودية» وفق AGBI",
+    "هل ينجح التنويع في خفض اعتماد المملكة على النفط؟"
+  ]
+}

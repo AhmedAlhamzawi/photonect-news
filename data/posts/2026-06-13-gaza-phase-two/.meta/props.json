@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "غزة",
+    "arabicHeadline": "غزة تدخل المرحلة الثانية من وقف النار",
+    "englishSubhead": "GAZA | ENTERING PHASE TWO OF THE CEASEFIRE PLAN",
+    "heroMedia": "images/news/2026-06-13-gaza-phase-two/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المبعوث الأمريكي يعلن بدء المرحلة الثانية",
+      "arabicBody": "قال المبعوث الأمريكي إنّ غزة تدخل المرحلة الثانية من خطة وقف إطلاق النار، وتشمل ترتيبات الحكم وإعادة الإعمار، وفق PBS.",
+      "bigStat": {
+        "value": "2",
+        "label": "Phase of the ceasefire plan now beginning",
+        "arabicLabel": "المرحلة الثانية"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة",
+          "value": "الثانية"
+        },
+        {
+          "label": "الإطار",
+          "value": "خطة أكتوبر 2025"
+        },
+        {
+          "label": "المصدر",
+          "value": "PBS"
+        }
+      ],
+      "broll": "images/news/2026-06-13-gaza-phase-two/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-gaza-phase-two/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الانسحاب والإدارة المدنية ما زالا معلّقين",
+      "arabicBody": "تنص خطة أكتوبر 2025 على انسحاب إسرائيلي خلف «الخط الأصفر» وإبقاء 58% من القطاع، ولم تتشكّل إدارة فلسطينية ولا قوة استقرار دولية، وفق Al Jazeera.",
+      "bigStat": {
+        "value": "58%",
+        "label": "Share of Gaza Israel would retain (Yellow Line)",
+        "arabicLabel": "نسبة السيطرة المرتقبة"
+      },
+      "supportingStats": [
+        {
+          "label": "الخط الأصفر",
+          "value": "58%"
+        },
+        {
+          "label": "قوة الاستقرار",
+          "value": "غير مشكّلة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-13-gaza-phase-two/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-gaza-phase-two/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كلفة الإعمار تتجاوز 50 مليار دولار",
+      "arabicBody": "تقدّر الأمم المتحدة كلفة إعادة إعمار غزة بأكثر من 50 مليار دولار على مدى سنوات، مع تعهّدات تمويلية محدودة حتى الآن، وفق United Nations.",
+      "bigStat": {
+        "value": "+50 مليار $",
+        "label": "UN reconstruction cost estimate",
+        "arabicLabel": "كلفة إعادة الإعمار"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة",
+          "value": "+50 مليار $"
+        },
+        {
+          "label": "المدة",
+          "value": "سنوات"
+        },
+        {
+          "label": "المصدر",
+          "value": "United Nations"
+        }
+      ],
+      "broll": "images/news/2026-06-13-gaza-phase-two/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-gaza-phase-two/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PBS NewsHour",
+      "domain": "pbs.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "United Nations",
+      "domain": "un.org"
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com"
+    }
+  ],
+  "arabicTicker": [
+    "غزة تدخل المرحلة الثانية من خطة وقف إطلاق النار",
+    "المبعوث الأمريكي: المرحلة الثانية تشمل الحكم وإعادة الإعمار، وفق PBS",
+    "خطة أكتوبر 2025 تنص على انسحاب إسرائيلي خلف «الخط الأصفر» مع إبقاء 58% من القطاع",
+    "إدارة فلسطينية وقوة استقرار دولية لم تتشكّلا بعد، وفق Al Jazeera",
+    "الأمم المتحدة تقدّر كلفة إعادة الإعمار بأكثر من 50 مليار دولار",
+    "تعهّدات التمويل لا تزال محدودة وإعادة الإعمار لم تبدأ، وفق United Nations",
+    "هل تصمد المرحلة الثانية وتفتح باب إعادة إعمار القطاع؟"
+  ]
+}

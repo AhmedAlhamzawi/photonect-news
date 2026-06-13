@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "ستانفورد تعيد نمو الغضروف في الفئران",
+    "englishSubhead": "HEALTH | STANFORD REGROWS CARTILAGE, REVERSES ARTHRITIS",
+    "heroMedia": "images/news/2026-06-13-stanford-cartilage-regrow/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تثبيط بروتين يستعيد سماكة الغضروف",
+      "arabicBody": "أظهرت دراسة بقيادة Stanford Medicine أنّ تثبيط بروتين 15-PGDH استعاد سماكة غضروف الركبة المتآكل لدى فئران مسنّة، ونُشرت في دورية Science.",
+      "bigStat": {
+        "value": "15-PGDH",
+        "label": "The aging protein that was blocked",
+        "arabicLabel": "البروتين المستهدف"
+      },
+      "supportingStats": [
+        {
+          "label": "البروتين",
+          "value": "15-PGDH"
+        },
+        {
+          "label": "النموذج",
+          "value": "فئران مسنّة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Science"
+        }
+      ],
+      "broll": "images/news/2026-06-13-stanford-cartilage-regrow/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-stanford-cartilage-regrow/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إشارات تجدّد واعدة في أنسجة بشرية",
+      "arabicBody": "البروتين «إنزيم شيخوخة» يتزايد مع العمر، وتثبيطه منع التهاب المفاصل بعد الإصابة، فيما أظهرت أنسجة ركبة بشرية من عمليات استبدال مؤشرات تجدّد أولية، وفق Stanford.",
+      "bigStat": {
+        "value": "بشري",
+        "label": "Human knee tissue began regenerating",
+        "arabicLabel": "تجدّد أنسجة بشرية"
+      },
+      "supportingStats": [
+        {
+          "label": "البروتين",
+          "value": "إنزيم شيخوخة"
+        },
+        {
+          "label": "الأثر",
+          "value": "منع التهاب المفاصل"
+        },
+        {
+          "label": "العيّنة",
+          "value": "أنسجة ركبة بشرية"
+        }
+      ],
+      "broll": "images/news/2026-06-13-stanford-cartilage-regrow/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-stanford-cartilage-regrow/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أمل في حقنة أو دواء بديل للجراحة",
+      "arabicBody": "تصف الباحثة هيلين بلاو النتائج بأنّها «طريقة جديدة لتجديد أنسجة البالغين»، قد تتيح مستقبلاً حقنة أو دواءً فموياً يقلّل الحاجة لاستبدال الركبة والورك، وفق Stanford.",
+      "bigStat": {
+        "value": "حقنة أو دواء",
+        "label": "Possible delivery — could cut joint replacements",
+        "arabicLabel": "بديل محتمل للجراحة"
+      },
+      "supportingStats": [
+        {
+          "label": "الباحثة",
+          "value": "هيلين بلاو"
+        },
+        {
+          "label": "التطبيق",
+          "value": "حقنة·دواء"
+        },
+        {
+          "label": "الأثر",
+          "value": "تراجع الجراحات"
+        }
+      ],
+      "broll": "images/news/2026-06-13-stanford-cartilage-regrow/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-stanford-cartilage-regrow/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Stanford Medicine",
+      "domain": "stanford.edu"
+    },
+    {
+      "name": "Science",
+      "domain": "science.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "ScienceAlert",
+      "domain": "sciencealert.com"
+    }
+  ],
+  "arabicTicker": [
+    "دراسة ستانفورد تعيد نمو الغضروف لدى فئران وتكبح التهاب المفاصل",
+    "تثبيط بروتين 15-PGDH استعاد سماكة غضروف الركبة لدى فئران مسنّة",
+    "البروتين «إنزيم شيخوخة» يتزايد مع العمر وتثبيطه منع التهاب المفاصل",
+    "أنسجة ركبة بشرية من عمليات استبدال أظهرت مؤشرات تجدّد أولية",
+    "هيلين بلاو: طريقة جديدة لتجديد أنسجة البالغين بنتائج واعدة",
+    "حقنة أو دواء فموي قد يقلّل مستقبلاً الحاجة لاستبدال الركبة والورك",
+    "هل نقترب من علاج للخشونة يغني عن الجراحة؟"
+  ]
+}

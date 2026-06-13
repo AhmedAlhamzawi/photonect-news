@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "مرصد جونو الصيني يقيس النيوترينو بأعلى دقة",
+    "englishSubhead": "SCIENCE | CHINA'S JUNO PUBLISHES FIRST PRECISION NEUTRINO RESULT",
+    "heroMedia": "images/news/2026-06-13-juno-neutrino-result/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول نتيجة لجونو على غلاف Nature",
+      "arabicBody": "نشر مرصد جونو الصيني أول نتائجه على غلاف دورية Nature في 10 يونيو، فقاس كيفية تحوّل النيوترينو بين أنواعها بأدق صورة عالمياً، وفق الأكاديمية الصينية للعلوم.",
+      "bigStat": {
+        "value": "10 يونيو",
+        "label": "First result, Nature cover",
+        "arabicLabel": "النشر على Nature"
+      },
+      "supportingStats": [
+        {
+          "label": "النشر",
+          "value": "10 يونيو"
+        },
+        {
+          "label": "المقاس",
+          "value": "تحوّل النيوترينو"
+        },
+        {
+          "label": "المصدر",
+          "value": "CAS"
+        }
+      ],
+      "broll": "images/news/2026-06-13-juno-neutrino-result/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-juno-neutrino-result/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "59 يوماً تقلّص هامش الخطأ 1.6 مرة",
+      "arabicBody": "اعتمدت النتيجة على 59 يوماً فقط من الرصد، فخفّضت هامش الخطأ بمقدار 1.6 مرة مقارنةً بعقود من القياسات السابقة، وفق تعاون جونو الدولي.",
+      "bigStat": {
+        "value": "×1.6",
+        "label": "Uncertainty reduction vs prior results",
+        "arabicLabel": "تقليص هامش الخطأ"
+      },
+      "supportingStats": [
+        {
+          "label": "البيانات",
+          "value": "59 يوماً"
+        },
+        {
+          "label": "الدقة",
+          "value": "×1.6"
+        },
+        {
+          "label": "العمق",
+          "value": "700 م"
+        }
+      ],
+      "broll": "images/news/2026-06-13-juno-neutrino-result/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-juno-neutrino-result/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الهدف: أيّ نيوترينو أثقل وزناً؟",
+      "arabicBody": "الكاشف كرة بارتفاع 13 طابقاً على عمق 700 متر في جيانغمن، هدفه ترتيب أنواع النيوترينو حسب كتلتها، ويتطلب سنوات إضافية من الرصد، وفق دورية Science.",
+      "bigStat": {
+        "value": "700 م",
+        "label": "Detector depth underground",
+        "arabicLabel": "عمق الكاشف"
+      },
+      "supportingStats": [
+        {
+          "label": "العمق",
+          "value": "700 م"
+        },
+        {
+          "label": "الحجم",
+          "value": "13 طابقاً"
+        },
+        {
+          "label": "الهدف",
+          "value": "ترتيب الكتل"
+        }
+      ],
+      "broll": "images/news/2026-06-13-juno-neutrino-result/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-juno-neutrino-result/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Nature",
+      "domain": "nature.com"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "domain": "cas.cn"
+    },
+    {
+      "name": "Science",
+      "domain": "science.org"
+    },
+    {
+      "name": "Scientific American",
+      "domain": "scientificamerican.com"
+    }
+  ],
+  "arabicTicker": [
+    "مرصد جونو الصيني يقيس النيوترينو بأعلى دقة في العالم",
+    "أول نتيجة لجونو تتصدّر غلاف دورية Nature في 10 يونيو",
+    "النيوترينو جسيم شبحي يكاد لا يتفاعل مع أي مادة",
+    "قياس كيفية تحوّل النيوترينو بين أنواعه بأدق صورة عالمياً",
+    "59 يوماً من الرصد تقلّص هامش الخطأ 1.6 مرة عن عقود سابقة",
+    "الكاشف كرة بارتفاع 13 طابقاً على عمق 700 متر في جيانغمن",
+    "هل يكشف جونو أيّ أنواع النيوترينو أثقل وزناً؟"
+  ]
+}

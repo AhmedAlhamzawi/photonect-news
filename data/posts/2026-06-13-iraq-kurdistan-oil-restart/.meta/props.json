@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 13 • 2026",
+  "arabicDateLabel": "13 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "العراق يستأنف صادرات كردستان ويخطط لرفعها",
+    "englishSubhead": "IRAQ | KURDISTAN OIL EXPORTS RESUME, SET TO TRIPLE",
+    "heroMedia": "images/news/2026-06-13-iraq-kurdistan-oil-restart/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بغداد تأمر باستئناف إنتاج كردستان",
+      "arabicBody": "أمر رئيس الوزراء علي الزيدي شركات النفط باستئناف الإنتاج في إقليم كردستان من 4 يونيو، بعد توقف إثر ضربات بطائرات مسيّرة، وفق Reuters.",
+      "bigStat": {
+        "value": "4 يونيو",
+        "label": "Kurdistan output ordered to resume",
+        "arabicLabel": "استئناف الإنتاج"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "4 يونيو"
+        },
+        {
+          "label": "السبب",
+          "value": "ضربات مسيّرة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خطة لرفع الصادرات إلى 770 ألف برميل",
+      "arabicBody": "أقرّ مجلس الوزراء رفع صادرات أنبوب كردستان-تركيا من 220 إلى 770 ألف برميل يومياً خلال شهرين ونصف، والنفط يموّل 90% من إيرادات بغداد، وفق Gulf News.",
+      "bigStat": {
+        "value": "770 ألف",
+        "label": "Target barrels/day via Kurdistan-Turkey pipeline",
+        "arabicLabel": "هدف الصادرات يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "من",
+          "value": "220 ألف"
+        },
+        {
+          "label": "إلى",
+          "value": "770 ألف"
+        },
+        {
+          "label": "حصة النفط",
+          "value": "90%"
+        }
+      ],
+      "broll": "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أنبوب البصرة-حديثة لتنويع المنافذ",
+      "arabicBody": "بدأت وزارة النفط أنبوب البصرة-حديثة بطول 700 كلم وطاقة 2.5 مليون برميل وكلفة 1.5 مليار دولار، للتصدير عبر سوريا وتركيا والأردن بعيداً عن هرمز، وفق OilPrice.",
+      "bigStat": {
+        "value": "700 كلم",
+        "label": "Basra-Haditha pipeline length",
+        "arabicLabel": "طول الأنبوب الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة",
+          "value": "2.5 مليون"
+        },
+        {
+          "label": "الكلفة",
+          "value": "1.5 مليار $"
+        },
+        {
+          "label": "المنافذ",
+          "value": "سوريا·تركيا·الأردن"
+        }
+      ],
+      "broll": "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-13-iraq-kurdistan-oil-restart/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "OilPrice",
+      "domain": "oilprice.com"
+    },
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يستأنف صادرات كردستان ويخطط لرفعها",
+    "الزيدي يأمر باستئناف الإنتاج في الإقليم من 4 يونيو",
+    "خطة لرفع صادرات أنبوب كردستان-تركيا من 220 إلى 770 ألف برميل يومياً",
+    "النفط يموّل نحو 90% من إيرادات الموازنة العراقية",
+    "أنبوب البصرة-حديثة بطول 700 كلم وطاقة 2.5 مليون برميل وكلفة 1.5 مليار دولار",
+    "بغداد تسعى لتنويع المنافذ عبر سوريا وتركيا والأردن بعيداً عن هرمز",
+    "هل تعوّض الصادرات المستأنفة هبوط الإيرادات بعد اضطراب الحرب؟"
+  ]
+}
