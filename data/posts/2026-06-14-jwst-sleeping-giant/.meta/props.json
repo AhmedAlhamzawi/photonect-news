@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم • فضاء",
+    "arabicHeadline": "جيمس ويب يزن وحشاً نائماً في قلب الكون",
+    "englishSubhead": "SCIENCE | WEBB WEIGHS A DORMANT GIANT BLACK HOLE 10 BILLION LIGHT-YEARS AWAY",
+    "heroMedia": "images/news/2026-06-14-jwst-sleeping-giant/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "وحش بكتلة 6 مليارات شمس",
+      "arabicBody": "وزن جيمس ويب ثقباً أسود نائماً يعادل نحو 6 مليارات شمس مجتمعة، في دراسة نُشرت 4 يونيو بمجلة Science، وفق Space.",
+      "bigStat": {
+        "value": "6B×",
+        "label": "Solar masses of the dormant black hole",
+        "arabicLabel": "أضعاف كتلة الشمس"
+      },
+      "supportingStats": [
+        {
+          "label": "الكتلة",
+          "value": "6 مليار شمس"
+        },
+        {
+          "label": "النشر",
+          "value": "4 يونيو"
+        },
+        {
+          "label": "المجلة",
+          "value": "Science"
+        }
+      ],
+      "broll": "images/news/2026-06-14-jwst-sleeping-giant/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-jwst-sleeping-giant/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ما الجديد؟",
+      "arabicHeading": "10 مليارات سنة ضوئية تكسر الرقم",
+      "arabicBody": "الثقب على بُعد 10 مليارات سنة ضوئية، أبعد كتلة تُقاس بحركة النجوم، متجاوزاً الرقم السابق 15 مرة، وفق Space وLive Science.",
+      "bigStat": {
+        "value": "10B",
+        "label": "Light-years distance to the black hole",
+        "arabicLabel": "سنة ضوئية بُعداً"
+      },
+      "supportingStats": [
+        {
+          "label": "البُعد",
+          "value": "10 مليار سنة ضوئية"
+        },
+        {
+          "label": "الرقم",
+          "value": "×15 السابق"
+        },
+        {
+          "label": "الطريقة",
+          "value": "حركة النجوم"
+        }
+      ],
+      "broll": "images/news/2026-06-14-jwst-sleeping-giant/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-jwst-sleeping-giant/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ثقب صامت لا يبتلع المادة",
+      "arabicBody": "قاد ريتشارد إليس فريق جامعة كوليدج لندن، ورصد الثقب صامتاً في مجرة MRG-M0138، ما يكشف كيف كبرت الثقوب الأولى، وفق University College London.",
+      "bigStat": {
+        "value": "MRG-M0138",
+        "label": "Host galaxy of the dormant black hole",
+        "arabicLabel": "المجرة المضيفة"
+      },
+      "supportingStats": [
+        {
+          "label": "الفريق",
+          "value": "UCL"
+        },
+        {
+          "label": "المجرة",
+          "value": "MRG-M0138"
+        },
+        {
+          "label": "الحالة",
+          "value": "خامل"
+        }
+      ],
+      "broll": "images/news/2026-06-14-jwst-sleeping-giant/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-jwst-sleeping-giant/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    },
+    {
+      "name": "Live Science",
+      "domain": "livescience.com"
+    },
+    {
+      "name": "University College London",
+      "domain": "ucl.ac.uk"
+    },
+    {
+      "name": "Science (Journal)",
+      "domain": "science.org"
+    }
+  ],
+  "arabicTicker": [
+    "جيمس ويب يزن وحشاً نائماً في قلب الكون البعيد، وفق Space",
+    "كتلة الثقب نحو 6 مليارات ضعف كتلة الشمس، وفق دراسة في مجلة Science",
+    "الدراسة نُشرت في 4 يونيو 2026، وفق Space",
+    "الثقب على بُعد 10 مليارات سنة ضوئية، الأبعد المقاس بحركة النجوم",
+    "النتيجة تتجاوز الرقم القياسي السابق بنحو 15 مرة، وفق Live Science",
+    "قاد ريتشارد إليس فريق جامعة كوليدج لندن في مجرة MRG-M0138",
+    "كيف كبرت الثقوب السوداء العملاقة بهذه السرعة في فجر الكون؟"
+  ]
+}

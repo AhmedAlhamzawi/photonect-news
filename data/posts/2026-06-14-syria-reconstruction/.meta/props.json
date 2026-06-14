@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سوريا",
+    "arabicHeadline": "سوق إعمار بـ400 مليار يفتح أبواب سوريا",
+    "englishSubhead": "SYRIA | RECONSTRUCTION AND NORMALIZATION GATHER PACE",
+    "heroMedia": "images/news/2026-06-14-syria-reconstruction/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أوروبا تفتح بوابة دمشق بعد 14 عاماً",
+      "arabicBody": "في 11 مايو أعاد المجلس الأوروبي تفعيل اتفاق تعاون موقّع عام 1977 ومعلّق منذ 2011، لتسهيل التعافي الاقتصادي السوري، وفق European Council.",
+      "bigStat": {
+        "value": "11 مايو",
+        "label": "EU reinstates the EU–Syria Cooperation Agreement",
+        "arabicLabel": "إعادة تفعيل الاتفاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاق",
+          "value": "1977"
+        },
+        {
+          "label": "التعليق",
+          "value": "منذ 2011"
+        },
+        {
+          "label": "المصدر",
+          "value": "EU Council"
+        }
+      ],
+      "broll": "images/news/2026-06-14-syria-reconstruction/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-syria-reconstruction/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "400 مليار دولار على طاولة الإعمار",
+      "arabicBody": "تُقدَّر سوق الإعمار بنحو 400 مليار دولار، فيما تتموضع تركيا والخليج لقيادتها عبر مجلس أعلى للتنمية وصناديق سيادية، وفق Security Council Report.",
+      "bigStat": {
+        "value": "$400B",
+        "label": "Estimated Syria reconstruction market",
+        "arabicLabel": "سوق الإعمار"
+      },
+      "supportingStats": [
+        {
+          "label": "السوق",
+          "value": "400 مليار $"
+        },
+        {
+          "label": "القادة",
+          "value": "تركيا والخليج"
+        },
+        {
+          "label": "المصدر",
+          "value": "SC Report"
+        }
+      ],
+      "broll": "images/news/2026-06-14-syria-reconstruction/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-syria-reconstruction/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وراء الأرقام 1.4 مليون نازح ينتظرون",
+      "arabicBody": "مطلع 2026 كان نحو 1.4 مليون نازح يعيشون في المخيمات، فيما تعهّد الرئيس أحمد الشرع بإنهاء خيام النزوح بحلول 2027، وفق UNICEF.",
+      "bigStat": {
+        "value": "1.4M",
+        "label": "Displaced still living in camps in early 2026",
+        "arabicLabel": "نازحون في المخيمات"
+      },
+      "supportingStats": [
+        {
+          "label": "النازحون",
+          "value": "1.4 مليون"
+        },
+        {
+          "label": "الهدف",
+          "value": "2027"
+        },
+        {
+          "label": "المصدر",
+          "value": "UNICEF"
+        }
+      ],
+      "broll": "images/news/2026-06-14-syria-reconstruction/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-syria-reconstruction/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    },
+    {
+      "name": "European Council",
+      "domain": "consilium.europa.eu"
+    },
+    {
+      "name": "Middle East Eye",
+      "domain": "middleeasteye.net"
+    },
+    {
+      "name": "UN OHCHR",
+      "domain": "ohchr.org"
+    }
+  ],
+  "arabicTicker": [
+    "سوق إعمار بـ400 مليار دولار يفتح أبواب سوريا أمام العالم، وفق Security Council Report",
+    "المجلس الأوروبي أعاد في 11 مايو تفعيل اتفاق تعاون موقّع منذ 1977، وفق EU Council",
+    "الاتفاق ظل معلّقاً منذ 2011، والآن يعود لتسهيل التعافي الاقتصادي السوري",
+    "تركيا ودول الخليج تتموضع لقيادة مرحلة الإعمار، وفق Security Council Report",
+    "مجلس أعلى للتنمية وصناديق سيادية على طاولة تمويل إعادة البناء في دمشق",
+    "مطلع 2026 نحو 1.4 مليون نازح ما زالوا في المخيمات، وفق UNICEF",
+    "400 مليار للإعمار، فهل تصل إلى خيام 1.4 مليون نازح بحلول 2027؟"
+  ]
+}

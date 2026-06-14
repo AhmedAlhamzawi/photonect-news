@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "حكومة الزيدي: 14 وزيراً و9 مقاعد شاغرة",
+    "englishSubhead": "IRAQ | AL-ZAIDI GOVERNMENT MOVES TO COMPLETE ITS CABINET",
+    "heroMedia": "images/news/2026-06-14-iraq-government-cabinet/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البرلمان مرّر 14 وزيراً فقط",
+      "arabicBody": "صادق البرلمان في 14 مايو على 14 وزيراً من أصل 23 في حكومة علي الزيدي، وبقيت 9 حقائب بلا أصحاب، وفق The National.",
+      "bigStat": {
+        "value": "14/23",
+        "label": "Ministers confirmed of a 23-seat cabinet",
+        "arabicLabel": "وزراء مصادق عليهم"
+      },
+      "supportingStats": [
+        {
+          "label": "المصادق",
+          "value": "14 وزيراً"
+        },
+        {
+          "label": "الشاغرة",
+          "value": "9 حقائب"
+        },
+        {
+          "label": "التاريخ",
+          "value": "14 مايو"
+        }
+      ],
+      "broll": "images/news/2026-06-14-iraq-government-cabinet/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-iraq-government-cabinet/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الدفاع والداخلية: أخطر مقعدين فارغين",
+      "arabicBody": "بقيت حقيبتا الدفاع والداخلية شاغرتين وسط تنافس الفصائل وضغوط من طهران وواشنطن، فيما يطالب أكثر من 80 نائباً بحصة، وفق Soufan Center.",
+      "bigStat": {
+        "value": "80+",
+        "label": "Legislators from Iran-aligned factions seeking seats",
+        "arabicLabel": "نواب يطالبون بحقائب"
+      },
+      "supportingStats": [
+        {
+          "label": "الدفاع",
+          "value": "شاغرة"
+        },
+        {
+          "label": "الداخلية",
+          "value": "شاغرة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Soufan Center"
+        }
+      ],
+      "broll": "images/news/2026-06-14-iraq-government-cabinet/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-iraq-government-cabinet/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موازنة 2026 رهينة اكتمال الحكومة",
+      "arabicBody": "يشترط البرلمان اكتمال الحكومة قبل إقرار موازنة 2026، فيما هبطت إيرادات النفط إلى نحو مليار دولار في أبريل من 7 مليارات قبل الحرب، وفق Soufan Center.",
+      "bigStat": {
+        "value": "$1B",
+        "label": "April oil revenue, down from ~$7B pre-war",
+        "arabicLabel": "إيرادات النفط في أبريل"
+      },
+      "supportingStats": [
+        {
+          "label": "الموازنة",
+          "value": "معلّقة"
+        },
+        {
+          "label": "الإيراد",
+          "value": "1 مليار $"
+        },
+        {
+          "label": "قبل الحرب",
+          "value": "7 مليار $"
+        }
+      ],
+      "broll": "images/news/2026-06-14-iraq-government-cabinet/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-iraq-government-cabinet/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "The Soufan Center",
+      "domain": "thesoufancenter.org"
+    },
+    {
+      "name": "Amwaj.media",
+      "domain": "amwaj.media"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "حكومة الزيدي: 14 وزيراً مصادقاً عليهم و9 مقاعد شاغرة",
+    "البرلمان صادق في 14 مايو على 14 وزيراً من أصل 23، وفق The National",
+    "9 حقائب ما زالت بلا أصحاب، أبرزها الدفاع والداخلية",
+    "أكثر من 80 نائباً من فصائل قريبة من إيران يطالبون بحصة، وفق Soufan Center",
+    "إقرار موازنة 2026 مشروط باكتمال الحكومة وتقديم برنامجها",
+    "إيرادات النفط هبطت إلى نحو مليار دولار في أبريل من 7 مليارات قبل الحرب",
+    "هل يكمل الزيدي حكومته ويقرّ الموازنة قبل تفاقم الأزمة المالية؟"
+  ]
+}

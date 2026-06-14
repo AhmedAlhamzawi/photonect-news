@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "هوكي الجليد",
+    "arabicHeadline": "فوز واحد يفصل كارولينا عن كأس ستانلي",
+    "englishSubhead": "NHL | HURRICANES ONE WIN FROM THE STANLEY CUP",
+    "heroMedia": "images/news/2026-06-14-nhl-stanley-cup-final/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كارولينا متقدّمة 3-2 وتطارد اللقب",
+      "arabicBody": "كارولينا هوريكينز تتقدّم على فيغاس غولدن نايتس 3-2 في نهائي كأس ستانلي، وتلعب المباراة السادسة الليلة بفيغاس على بُعد فوز من اللقب، وفق NHL.",
+      "bigStat": {
+        "value": "3-2",
+        "label": "Hurricanes lead in the best-of-seven final",
+        "arabicLabel": "تقدّم كارولينا في السلسلة"
+      },
+      "supportingStats": [
+        {
+          "label": "التقدّم",
+          "value": "3-2"
+        },
+        {
+          "label": "المباراة",
+          "value": "السادسة"
+        },
+        {
+          "label": "المكان",
+          "value": "فيغاس"
+        }
+      ],
+      "broll": "images/news/2026-06-14-nhl-stanley-cup-final/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-nhl-stanley-cup-final/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف وصلنا هنا؟",
+      "arabicHeading": "خطوة واحدة... أو مباراة سابعة حاسمة",
+      "arabicBody": "كارولينا حسمت المباراة الخامسة 4-2 وتقدّمت في السلسلة، وإن فازت فيغاس الليلة تُقام مباراة سابعة حاسمة في 17 يونيو بكارولينا، وفق CBS Sports.",
+      "bigStat": {
+        "value": "4-2",
+        "label": "Hurricanes' Game 5 score",
+        "arabicLabel": "نتيجة المباراة الخامسة"
+      },
+      "supportingStats": [
+        {
+          "label": "المباراة 5",
+          "value": "4-2"
+        },
+        {
+          "label": "السابعة",
+          "value": "17 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBS Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-14-nhl-stanley-cup-final/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-nhl-stanley-cup-final/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "فيغاس تقاتل على آخر نَفَس",
+      "arabicBody": "فيغاس تحتاج الفوز الليلة لتفرض مباراة سابعة، فيما تقترب كارولينا من رفع الكأس. لا نتيجة محسومة بعد، وفق NHL وCBS Sports.",
+      "bigStat": {
+        "value": "7",
+        "label": "Max games in the best-of-seven final",
+        "arabicLabel": "حد مباريات النهائي"
+      },
+      "supportingStats": [
+        {
+          "label": "النظام",
+          "value": "أفضل 4 من 7"
+        },
+        {
+          "label": "الحسم",
+          "value": "الليلة أو 17 يونيو"
+        },
+        {
+          "label": "الحالة",
+          "value": "لم يُحسم"
+        }
+      ],
+      "broll": "images/news/2026-06-14-nhl-stanley-cup-final/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-nhl-stanley-cup-final/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NHL",
+      "domain": "nhl.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    }
+  ],
+  "arabicTicker": [
+    "فوز واحد يفصل كارولينا هوريكينز عن لقب كأس ستانلي للهوكي",
+    "كارولينا تتقدّم على فيغاس غولدن نايتس 3-2 في النهائي، وفق NHL",
+    "المباراة السادسة تُقام الليلة 14 يونيو على جليد فيغاس",
+    "كارولينا حسمت المباراة الخامسة 4-2 لتقترب من اللقب، وفق CBS Sports",
+    "إن فازت فيغاس الليلة تُقام مباراة سابعة حاسمة في 17 يونيو بكارولينا",
+    "النهائي يُحسم بأفضل أربع من سبع... ولا نتيجة محسومة بعد",
+    "هل ترفع كارولينا الكأس الليلة أم تفرض فيغاس مباراة سابعة؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة عالمية",
+    "arabicHeadline": "حقنتان في السنة تسدّان الباب أمام الإيدز",
+    "englishSubhead": "HEALTH | SOUTH AFRICA LAUNCHES A TWICE-YEARLY HIV PREVENTION SHOT",
+    "heroMedia": "images/news/2026-06-14-lenacapavir-hiv-shot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رامافوزا يطلق العقار من سيكوندا",
+      "arabicBody": "في 5 يونيو، أطلق الرئيس سيريل رامافوزا حملة ليناكابافير من سيكوندا: حقنتان سنوياً، وفعالية تقارب 100% في الوقاية من الفيروس، وفق NPR.",
+      "bigStat": {
+        "value": "≈100%",
+        "label": "Efficacy in preventing HIV in clinical trials",
+        "arabicLabel": "فعالية الوقاية"
+      },
+      "supportingStats": [
+        {
+          "label": "الجرعة",
+          "value": "مرتين سنوياً"
+        },
+        {
+          "label": "الفعالية",
+          "value": "≈100%"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-14-lenacapavir-hiv-shot/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-lenacapavir-hiv-shot/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ما الحجم؟",
+      "arabicHeading": "360 منشأة و24 منطقة دفعة واحدة",
+      "arabicBody": "جنوب أفريقيا تاسع دولة أفريقية تعتمد العقار. تستهدف الانطلاقة 360 منشأة صحية في 24 منطقة عالية العبء، بأولوية للفتيات والشابات، وفق UNAIDS.",
+      "bigStat": {
+        "value": "360",
+        "label": "Health facilities in the initial rollout",
+        "arabicLabel": "منشأة صحية في الانطلاقة"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "9 أفريقياً"
+        },
+        {
+          "label": "المنشآت",
+          "value": "360"
+        },
+        {
+          "label": "المناطق",
+          "value": "24"
+        }
+      ],
+      "broll": "images/news/2026-06-14-lenacapavir-hiv-shot/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-lenacapavir-hiv-shot/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أكبر عبء إيدز في العالم",
+      "arabicBody": "العقار ينتشر أسرع من أي وسيلة وقاية سابقة، عقب توصية منظمة الصحة في يوليو 2025، في بلد يحمل أكبر عبء للإيدز عالمياً، وفق UNAIDS وUnitaid.",
+      "bigStat": {
+        "value": "2025",
+        "label": "WHO endorsed injectable lenacapavir (July)",
+        "arabicLabel": "توصية منظمة الصحة"
+      },
+      "supportingStats": [
+        {
+          "label": "التوصية",
+          "value": "يوليو 2025"
+        },
+        {
+          "label": "العبء",
+          "value": "الأكبر عالمياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "WHO"
+        }
+      ],
+      "broll": "images/news/2026-06-14-lenacapavir-hiv-shot/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-lenacapavir-hiv-shot/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "UNAIDS",
+      "domain": "unaids.org"
+    },
+    {
+      "name": "Unitaid",
+      "domain": "unitaid.org"
+    },
+    {
+      "name": "CGTN",
+      "domain": "cgtn.com"
+    }
+  ],
+  "arabicTicker": [
+    "حقنتان في السنة تسدّان الباب أمام الإيدز في جنوب أفريقيا",
+    "الرئيس رامافوزا دشّن الحملة في 5 يونيو من سيكوندا، وفق NPR",
+    "حقنة ليناكابافير تُعطى مرتين سنوياً، وفعاليتها تقارب 100% في الوقاية",
+    "جنوب أفريقيا تصبح تاسع دولة أفريقية تعتمد العقار، وفق UNAIDS",
+    "الانطلاقة تستهدف 360 منشأة صحية في 24 منطقة عالية العبء",
+    "أكبر عبء للإيدز في العالم، وتوصية من منظمة الصحة في يوليو 2025، وفق Unitaid",
+    "هل تغيّر هذه الحقنة مسار وباء الإيدز في القارة الأفريقية؟"
+  ]
+}

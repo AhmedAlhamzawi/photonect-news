@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 14 • 2026",
+  "arabicDateLabel": "14 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "تأشيرة واحدة تفتح أبواب 6 دول خليجية",
+    "englishSubhead": "GULF | SCHENGEN-STYLE UNIFIED TOURIST VISA ROLLS OUT IN 2026",
+    "heroMedia": "images/news/2026-06-14-gcc-unified-visa/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "6 دول خليجية بتأشيرة واحدة",
+      "arabicBody": "حسم وزراء سياحة الخليج موعد 2026 لإطلاق تأشيرة موحّدة تجمع الإمارات والسعودية وقطر والبحرين والكويت وعُمان في منصة إلكترونية واحدة، وفق Gulf News.",
+      "bigStat": {
+        "value": "6",
+        "label": "GCC states under one unified tourist visa",
+        "arabicLabel": "دول التأشيرة الموحّدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدول",
+          "value": "6"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "Gulf News"
+        }
+      ],
+      "broll": "images/news/2026-06-14-gcc-unified-visa/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-14-gcc-unified-visa/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف تعمل؟",
+      "arabicHeading": "دخول متعدد يصل إلى 90 يوماً",
+      "arabicBody": "بتأشيرة واحدة تدخل وتخرج حتى 90 يوماً وتتنقل بين الدول الست نحو 30 يوماً بلا حواجز، بعد تجربة بدأت فبراير 2026، وفق VisaHQ.",
+      "bigStat": {
+        "value": "90",
+        "label": "Days of multi-entry access across the bloc",
+        "arabicLabel": "أيام الدخول المتعدد"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "90 يوماً"
+        },
+        {
+          "label": "التنقل",
+          "value": "30 يوماً"
+        },
+        {
+          "label": "التجربة",
+          "value": "فبراير 2026"
+        }
+      ],
+      "broll": "images/news/2026-06-14-gcc-unified-visa/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-14-gcc-unified-visa/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شنغن خليجية تطيل رحلة الزائر",
+      "arabicBody": "على نمط شنغن الأوروبية، رحلة واحدة تجمع دبي والرياض والدوحة ومسقط بإذن واحد، فتهبط الكلفة وتطول إقامة الزائر، وفق Migrate World.",
+      "bigStat": {
+        "value": "1",
+        "label": "Single permit for a multi-country Gulf trip",
+        "arabicLabel": "إذن واحد لكل الخليج"
+      },
+      "supportingStats": [
+        {
+          "label": "النموذج",
+          "value": "شنغن"
+        },
+        {
+          "label": "المدن",
+          "value": "دبي والرياض والدوحة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Migrate World"
+        }
+      ],
+      "broll": "images/news/2026-06-14-gcc-unified-visa/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-14-gcc-unified-visa/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "VisaHQ",
+      "domain": "visahq.com"
+    },
+    {
+      "name": "Migrate World",
+      "domain": "migrateworld.com"
+    },
+    {
+      "name": "Hotel & Catering",
+      "domain": "hotelandcatering.com"
+    }
+  ],
+  "arabicTicker": [
+    "تأشيرة واحدة تفتح أبواب 6 دول خليجية على نمط شنغن في 2026",
+    "التأشيرة تجمع الإمارات والسعودية وقطر والبحرين والكويت وعُمان، وفق Gulf News",
+    "منصة إلكترونية واحدة تقدّم فيها الطلب لكل الدول الست دفعة واحدة",
+    "دخول متعدد حتى 90 يوماً وتنقل حر بين الدول الست نحو 30 يوماً، وفق VisaHQ",
+    "التأشيرة الموحّدة دخلت مرحلتها التجريبية فعلياً في فبراير 2026",
+    "رحلة واحدة تجمع دبي والرياض والدوحة ومسقط بإذن واحد فقط، وفق Migrate World",
+    "هل يتحوّل الخليج بهذه التأشيرة إلى وجهة سياحية واحدة بلا حدود؟"
+  ]
+}
