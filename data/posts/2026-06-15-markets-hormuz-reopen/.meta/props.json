@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "النفط يهبط والأسهم الآسيوية تقفز بعد الاتفاق",
+    "englishSubhead": "MARKETS | OIL SLIDES, ASIAN STOCKS SURGE ON US–IRAN DEAL",
+    "heroMedia": "images/news/2026-06-15-markets-hormuz-reopen/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يهبط 4.7% لأدنى مستوى منذ مارس",
+      "arabicBody": "برنت يسقط 4.7% إلى 83.25 دولار وغرب تكساس 5.1% إلى 80.53 دولار، الأدنى منذ 10 مارس، بعد اتفاق إنهاء الحرب، وفق رويترز.",
+      "bigStat": {
+        "value": "$83.25",
+        "label": "Brent crude after a 4.7% drop",
+        "arabicLabel": "برنت بعد هبوط 4.7%"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "-4.7%"
+        },
+        {
+          "label": "تكساس",
+          "value": "-5.1%"
+        },
+        {
+          "label": "الأدنى منذ",
+          "value": "10 مارس"
+        }
+      ],
+      "broll": "images/news/2026-06-15-markets-hormuz-reopen/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-markets-hormuz-reopen/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف تفاعلت الأسواق؟",
+      "arabicHeading": "نيكي يقفز 5.5% وكوسبي 5.7%",
+      "arabicBody": "نيكي الياباني يقفز 5.5% وكوسبي الكوري 5.7% وتايكس التايواني 2.7% في تداولات الإثنين، مع انحسار علاوة المخاطر الجيوسياسية، وفق الجزيرة.",
+      "bigStat": {
+        "value": "+5.5%",
+        "label": "Japan's Nikkei 225 morning surge",
+        "arabicLabel": "صعود نيكي الياباني"
+      },
+      "supportingStats": [
+        {
+          "label": "نيكي",
+          "value": "+5.5%"
+        },
+        {
+          "label": "كوسبي",
+          "value": "+5.7%"
+        },
+        {
+          "label": "تايكس",
+          "value": "+2.7%"
+        }
+      ],
+      "broll": "images/news/2026-06-15-markets-hormuz-reopen/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-markets-hormuz-reopen/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للمنطقة؟",
+      "arabicHeading": "هرمز يُفتح وصادرات الخليج تتنفّس",
+      "arabicBody": "ترامب: هرمز يُفتح دون رسوم وينتهي الحصار، وعبره يمرّ نحو 20% من نفط العالم، ما يخفّف الضغط على صادرات العراق والخليج، وفق غلف نيوز.",
+      "bigStat": {
+        "value": "~20%",
+        "label": "Share of world oil that transits Hormuz",
+        "arabicLabel": "حصة نفط العالم عبر هرمز"
+      },
+      "supportingStats": [
+        {
+          "label": "هرمز",
+          "value": "يُفتح"
+        },
+        {
+          "label": "الرسوم",
+          "value": "دون رسوم"
+        },
+        {
+          "label": "المستفيد",
+          "value": "العراق والخليج"
+        }
+      ],
+      "broll": "images/news/2026-06-15-markets-hormuz-reopen/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-markets-hormuz-reopen/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام برنت يهبط 4.7% إلى 83.25 دولار بعد الاتفاق الأميركي الإيراني، وفق رويترز",
+    "غرب تكساس الوسيط يهبط 5.1% إلى 80.53 دولار، الأدنى منذ 10 مارس",
+    "مؤشر نيكي الياباني يقفز 5.5% في تداولات الإثنين الصباحية، وفق الجزيرة",
+    "كوسبي الكوري يصعد 5.7% وتايكس التايواني 2.7% مع انحسار علاوة المخاطر",
+    "ترامب: مضيق هرمز سيُفتح دون رسوم وينتهي الحصار البحري",
+    "نحو 20% من نفط العالم يمرّ عبر هرمز، ما يخفّف الضغط على صادرات العراق والخليج، وفق غلف نيوز",
+    "هل يستمر هبوط النفط مع عودة الملاحة الكاملة في هرمز؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "أول دواء للإقلاع عن التدخين منذ 20 عاماً",
+    "englishSubhead": "HEALTH | FIRST NEW QUIT-SMOKING DRUG IN 20 YEARS NEARS APPROVAL",
+    "heroMedia": "images/news/2026-06-15-smoking-drug-cytisinicline/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قرار FDA متوقّع في 20 يونيو",
+      "arabicBody": "من المقرر أن تبتّ FDA في 20 يونيو بدواء سيتيزينيكلين للإقلاع عن التدخين، وسيكون أول دواء جديد لهذا الغرض منذ نحو 20 عاماً، وفق Medical Daily.",
+      "bigStat": {
+        "value": "20 عاماً",
+        "label": "Time since the last new quit-smoking drug",
+        "arabicLabel": "منذ آخر دواء جديد للإقلاع"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "20 يونيو"
+        },
+        {
+          "label": "الجهة",
+          "value": "FDA"
+        },
+        {
+          "label": "الدواء",
+          "value": "سيتيزينيكلين"
+        }
+      ],
+      "broll": "images/news/2026-06-15-smoking-drug-cytisinicline/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-smoking-drug-cytisinicline/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف يعمل؟",
+      "arabicHeading": "مركّب نباتي اختُبر على آلاف المشاركين",
+      "arabicBody": "الدواء مركّب نباتي يرتبط بمستقبلات النيكوتين فيقلّل أعراض الانسحاب، وأظهرت تجارب المرحلة الثالثة على أكثر من 2000 مشارك تفوّقه على الدواء الوهمي، وفق Psychiatric Times.",
+      "bigStat": {
+        "value": "2,000+",
+        "label": "Participants in the phase-3 ORCA trials",
+        "arabicLabel": "مشاركون في تجارب المرحلة الثالثة"
+      },
+      "supportingStats": [
+        {
+          "label": "النوع",
+          "value": "مركّب نباتي"
+        },
+        {
+          "label": "التجارب",
+          "value": "ORCA-2/3"
+        },
+        {
+          "label": "النتيجة",
+          "value": "فاق الوهمي"
+        }
+      ],
+      "broll": "images/news/2026-06-15-smoking-drug-cytisinicline/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-smoking-drug-cytisinicline/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أمل أيضاً ضد إدمان الفيب",
+      "arabicBody": "نال وصف العلاج الاختراقي لعلاج إدمان الفيب حيث لا دواء معتمد بعد، والتدخين سبب رئيسي للوفيات التي يمكن تفاديها عربياً، وفق Pulmonology Advisor.",
+      "bigStat": {
+        "value": "0",
+        "label": "Approved drugs for vaping cessation today",
+        "arabicLabel": "أدوية معتمدة لإدمان الفيب اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "الفيب",
+          "value": "علاج اختراقي"
+        },
+        {
+          "label": "المعتمد حالياً",
+          "value": "لا يوجد"
+        },
+        {
+          "label": "المصدر",
+          "value": "Pulmonology Advisor"
+        }
+      ],
+      "broll": "images/news/2026-06-15-smoking-drug-cytisinicline/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-smoking-drug-cytisinicline/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Medical Daily",
+      "domain": "medicaldaily.com"
+    },
+    {
+      "name": "Psychiatric Times",
+      "domain": "psychiatrictimes.com"
+    },
+    {
+      "name": "Pulmonology Advisor",
+      "domain": "pulmonologyadvisor.com"
+    },
+    {
+      "name": "Drugs.com",
+      "domain": "drugs.com"
+    }
+  ],
+  "arabicTicker": [
+    "FDA تبتّ في 20 يونيو بدواء سيتيزينيكلين للإقلاع عن التدخين، وفق Medical Daily",
+    "سيكون أول دواء جديد للإقلاع عن التدخين منذ نحو 20 عاماً",
+    "الدواء مركّب نباتي يرتبط بمستقبلات النيكوتين ويقلّل أعراض الانسحاب",
+    "تجارب المرحلة الثالثة ORCA على أكثر من 2000 مشارك أظهرت تفوّقه على الوهمي، وفق Psychiatric Times",
+    "نال وصف العلاج الاختراقي لعلاج إدمان السجائر الإلكترونية",
+    "لا يوجد حتى الآن دواء معتمد لعلاج إدمان الفيب",
+    "هل يصبح سيتيزينيكلين سلاحاً جديداً ضد التدخين في العالم العربي؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "احتياطي العراق المائي الأدنى منذ 80 عاماً",
+    "englishSubhead": "IRAQ | WATER RESERVES HIT LOWEST LEVEL IN 80 YEARS",
+    "heroMedia": "images/news/2026-06-15-iraq-water-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خزين منخفض وموجة حر فوق 40 درجة",
+      "arabicBody": "هبط احتياطي العراق المائي إلى نحو 4 مليارات متر مكعب، الأدنى منذ 80 عاماً، فيما تجاوزت الحرارة 40 درجة في 13 محافظة، وفق وزارة الموارد المائية.",
+      "bigStat": {
+        "value": "4 مليار م³",
+        "label": "National water reserves, an 80-year low",
+        "arabicLabel": "احتياطي المياه الوطني"
+      },
+      "supportingStats": [
+        {
+          "label": "الأدنى منذ",
+          "value": "80 عاماً"
+        },
+        {
+          "label": "الحرارة",
+          "value": "+40°"
+        },
+        {
+          "label": "المحافظات",
+          "value": "13"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iraq-water-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iraq-water-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ملوحة البصرة الأعلى منذ 89 عاماً",
+      "arabicBody": "قفزت ملوحة مياه البصرة إلى نحو 29 ألف جزء بالمليون، الأعلى منذ 89 عاماً، وتحوّل أكثر من 70% من الأهوار إلى أرض قاحلة، وفق خالد شمال.",
+      "bigStat": {
+        "value": "29,000",
+        "label": "Basra salinity in ppm — highest in 89 years",
+        "arabicLabel": "ملوحة البصرة (جزء/مليون)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأعلى منذ",
+          "value": "89 عاماً"
+        },
+        {
+          "label": "الأهوار",
+          "value": "+70% جفّت"
+        },
+        {
+          "label": "2024",
+          "value": "2,600 جزء"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iraq-water-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iraq-water-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "8 ملايين مهددون ومحطة تحلية بالبصرة",
+      "arabicBody": "تحذّر الأمم المتحدة من تعرّض 8 ملايين شخص لمخاطر مائية، إذ يتلقى العراق أقل من 35% من حصته بالنهرين، فيما تعد الحكومة بمحطة تحلية بالبصرة.",
+      "bigStat": {
+        "value": "8 ملايين",
+        "label": "People facing water-related risks (UN)",
+        "arabicLabel": "مهددون بمخاطر المياه"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة النهرين",
+          "value": "<35%"
+        },
+        {
+          "label": "محطة تحلية",
+          "value": "1 مليون م³/يوم"
+        },
+        {
+          "label": "المصدر",
+          "value": "UN"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iraq-water-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iraq-water-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "UN Iraq",
+      "domain": "iraq.un.org"
+    }
+  ],
+  "arabicTicker": [
+    "احتياطي العراق المائي الأدنى منذ 80 عاماً، عند نحو 4 مليارات متر مكعب، وفق وزارة الموارد المائية",
+    "الحرارة تتجاوز 40 درجة في 13 محافظة مطلع يونيو، وفق الهيئة العامة للأنواء الجوية",
+    "ملوحة مياه البصرة تبلغ نحو 29 ألف جزء بالمليون، الأعلى منذ 89 عاماً",
+    "أكثر من 70% من أهوار الجنوب تحوّلت إلى أرض قاحلة، وفق وزارة الموارد المائية",
+    "الأمم المتحدة: 8 ملايين شخص يواجهون مخاطر مرتبطة بشحّ المياه",
+    "العراق يتلقى أقل من 35% من حصته في نهري دجلة والفرات بفعل السدود والجفاف",
+    "هل تكفي محطة تحلية البصرة بمليون متر مكعب يومياً لإنقاذ الجنوب؟"
+  ]
+}

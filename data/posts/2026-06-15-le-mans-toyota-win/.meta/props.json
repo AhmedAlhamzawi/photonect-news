@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "11 ثانية تحسم لومان وتُسقط فيراري",
+    "englishSubhead": "TOYOTA WINS LE MANS 24 HOURS, ENDS FERRARI'S STREAK",
+    "heroMedia": "images/news/2026-06-15-le-mans-toyota-win/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "11 ثانية بعد 24 ساعة سباق",
+      "arabicBody": "بعد 24 ساعة متواصلة، خطفت تويوتا رقم 7 خط النهاية بفارق 11 ثانية فقط أمام BMW رقم 20، وحلّت كاديلاك ثالثة، وفق ESPN.",
+      "bigStat": {
+        "value": "11 ثانية",
+        "label": "Winning margin over second-place BMW",
+        "arabicLabel": "فارق الفوز عن BMW"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائز",
+          "value": "تويوتا رقم 7"
+        },
+        {
+          "label": "الثاني",
+          "value": "BMW"
+        },
+        {
+          "label": "الثالث",
+          "value": "كاديلاك"
+        }
+      ],
+      "broll": "images/news/2026-06-15-le-mans-toyota-win/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-le-mans-toyota-win/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تويوتا تكسر عرش فيراري بعد 3 أعوام",
+      "arabicBody": "أنهى الفوز هيمنة فيراري الممتدة 3 أعوام، وهو اللقب السادس لتويوتا في لومان، بعدما سقطت سيارات فيراري الثلاث خارج المنصة، وفق Motor Sport.",
+      "bigStat": {
+        "value": "6",
+        "label": "Toyota's overall Le Mans wins",
+        "arabicLabel": "ألقاب تويوتا في لومان"
+      },
+      "supportingStats": [
+        {
+          "label": "فيراري",
+          "value": "توقفت عند 3"
+        },
+        {
+          "label": "تويوتا",
+          "value": "لقب سادس"
+        },
+        {
+          "label": "المصدر",
+          "value": "Motor Sport"
+        }
+      ],
+      "broll": "images/news/2026-06-15-le-mans-toyota-win/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-le-mans-toyota-win/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "من الأبطال؟",
+      "arabicHeading": "ثلاثة سائقين لا ينامون 24 ساعة",
+      "arabicBody": "تناوب نيك دي فريس وكامي كوباياشي ومايك كونواي على مقود GR010 هايبرد بلا توقف طوال 24 ساعة حتى خط النهاية، وفق Formula1.com.",
+      "bigStat": {
+        "value": "24 ساعة",
+        "label": "Non-stop endurance race distance",
+        "arabicLabel": "زمن سباق التحمّل المتواصل"
+      },
+      "supportingStats": [
+        {
+          "label": "السائقون",
+          "value": "3"
+        },
+        {
+          "label": "السيارة",
+          "value": "GR010 هايبرد"
+        },
+        {
+          "label": "المصدر",
+          "value": "Formula1.com"
+        }
+      ],
+      "broll": "images/news/2026-06-15-le-mans-toyota-win/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-le-mans-toyota-win/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Motor Sport Magazine",
+      "domain": "motorsportmagazine.com"
+    },
+    {
+      "name": "Formula1.com",
+      "domain": "formula1.com"
+    },
+    {
+      "name": "RACER",
+      "domain": "racer.com"
+    }
+  ],
+  "arabicTicker": [
+    "11 ثانية فقط فصلت تويوتا رقم 7 عن BMW في سباق لومان 24 ساعة، وفق ESPN",
+    "الفوز يكسر هيمنة فيراري الممتدة ثلاثة أعوام متتالية على اللقب",
+    "اللقب السادس لتويوتا في تاريخ سباق لومان، وفق Motor Sport",
+    "سيارات فيراري الثلاث سقطت خارج منصة التتويج تماماً",
+    "قاد السيارة الفائزة نيك دي فريس وكامي كوباياشي ومايك كونواي",
+    "كاديلاك تكمل منصة التتويج في المركز الثالث",
+    "هل تبدأ تويوتا حقبة هيمنة جديدة في سباقات التحمّل؟"
+  ]
+}

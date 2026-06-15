@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اتفاق أميركي إيراني لإنهاء الحرب وفتح هرمز",
+    "englishSubhead": "US–IRAN REACH DEAL TO END WAR, REOPEN STRAIT OF HORMUZ",
+    "heroMedia": "images/news/2026-06-15-iran-us-war-deal/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اتفاق مبدئي ينهي حرباً استمرت 3 أشهر",
+      "arabicBody": "أعلنت واشنطن وطهران التوصل إلى اتفاق مبدئي لإنهاء الحرب، على أن توقّع مذكرة تفاهم يوم الجمعة في سويسرا، وفق CNN.",
+      "bigStat": {
+        "value": "~3 أشهر",
+        "label": "Duration of the war the deal ends",
+        "arabicLabel": "مدة الحرب التي ينهيها الاتفاق"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقيع",
+          "value": "الجمعة"
+        },
+        {
+          "label": "المكان",
+          "value": "سويسرا"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNN"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iran-us-war-deal/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iran-us-war-deal/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يتضمن؟",
+      "arabicHeading": "هرمز يُفتح ومحادثات نووية 60 يوماً",
+      "arabicBody": "وفق ترامب، يُفتح هرمز دون رسوم وينتهي الحصار البحري، تتبعه محادثات نووية 60 يوماً، وتذكر وسائل إيرانية 24 مليار دولار أصولاً مجمّدة، وفق Iran International.",
+      "bigStat": {
+        "value": "$24B",
+        "label": "Frozen Iranian assets cited in draft memo",
+        "arabicLabel": "أصول إيرانية مجمّدة في المسودة"
+      },
+      "supportingStats": [
+        {
+          "label": "هرمز",
+          "value": "يُفتح"
+        },
+        {
+          "label": "المحادثات",
+          "value": "60 يوماً"
+        },
+        {
+          "label": "الحصار",
+          "value": "ينتهي"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iran-us-war-deal/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iran-us-war-deal/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ترحيب دولي وأسواق ترتفع",
+      "arabicBody": "رحّب قادة العالم بالاتفاق وأشارت دول أوروبية إلى استعداد لرفع عقوبات مقابل خطوات نووية، فيما هبط النفط وقفزت الأسهم الآسيوية، وفق CNBC.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "Window of nuclear talks after signing",
+        "arabicLabel": "نافذة المحادثات النووية بعد التوقيع"
+      },
+      "supportingStats": [
+        {
+          "label": "أوروبا",
+          "value": "نحو رفع عقوبات"
+        },
+        {
+          "label": "النفط",
+          "value": "هبط"
+        },
+        {
+          "label": "آسيا",
+          "value": "أسهم ترتفع"
+        }
+      ],
+      "broll": "images/news/2026-06-15-iran-us-war-deal/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-iran-us-war-deal/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Iran International",
+      "domain": "iranintl.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "اتفاق أميركي إيراني لإنهاء الحرب وفتح هرمز",
+    "ترامب: مضيق هرمز سيُفتح دون رسوم والحصار البحري على الموانئ الإيرانية ينتهي",
+    "توقيع مذكرة تفاهم الجمعة في سويسرا تتلوها محادثات نووية مدتها 60 يوماً، وفق CNN",
+    "وسائل إعلام إيرانية تتحدث عن مسودة من 14 بنداً تشمل 24 مليار دولار أصولاً مجمّدة، وفق Iran International",
+    "قادة العالم يرحّبون ودول أوروبية تشير إلى استعداد لرفع عقوبات مقابل خطوات نووية",
+    "النفط هبط وقفزت مؤشرات الأسهم الآسيوية مع الإعلان، وفق CNBC",
+    "هل يصمد الاتفاق ويُفتح هرمز فعلاً يوم الجمعة؟"
+  ]
+}

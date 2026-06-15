@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 15 • 2026",
+  "arabicDateLabel": "15 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "قياس دوران عشرات الكواكب يكشف سرّ نشأتها",
+    "englishSubhead": "SCIENCE | SPINS OF DOZENS OF WORLDS REVEAL HOW PLANETS FORM",
+    "heroMedia": "images/news/2026-06-15-keck-planet-spins/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاكتشاف",
+      "arabicHeading": "مرصد كيك يقيس دوران عشرات العوالم",
+      "arabicBody": "بمرصد كيك في هاواي، قاس فلكيون سرعة دوران عشرات الكواكب العملاقة والأقزام البنية حول نجوم بعيدة، في دراسة نُشرت 13 يونيو، وفق ScienceDaily.",
+      "bigStat": {
+        "value": "العشرات",
+        "label": "Giant planets and brown dwarfs measured",
+        "arabicLabel": "كواكب عملاقة وأقزام بنية قيست"
+      },
+      "supportingStats": [
+        {
+          "label": "المرصد",
+          "value": "كيك"
+        },
+        {
+          "label": "الموقع",
+          "value": "هاواي"
+        },
+        {
+          "label": "النشر",
+          "value": "13 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-06-15-keck-planet-spins/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-15-keck-planet-spins/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "المفاجأة",
+      "arabicHeading": "الكواكب الأصغر تدور أسرع من الأثقل",
+      "arabicBody": "وجد الباحثون أن كواكب عملاقة أصغر قد تدور أسرع من أقزام بنية أثقل بكثير، فينقلب التوقّع الذي يربط الكتلة بسرعة الدوران، وفق ScienceDaily.",
+      "bigStat": {
+        "value": "أسرع",
+        "label": "Small giant planets spin faster than heavier dwarfs",
+        "arabicLabel": "دوران الكواكب الأصغر مقارنة بالأثقل"
+      },
+      "supportingStats": [
+        {
+          "label": "العلاقة",
+          "value": "الكتلة/الدوران"
+        },
+        {
+          "label": "النتيجة",
+          "value": "مقلوبة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-15-keck-planet-spins/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-15-keck-planet-spins/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بصمة تكشف كيف تُولد الكواكب",
+      "arabicBody": "نمط الدوران بصمة تكشف كيف تجمّعت الكواكب وامتصّت الغاز، وقد أتاحت هذه الدقة مرآتا كيك التوأمان قطر كل منهما 10 أمتار، وفق Keck Observatory.",
+      "bigStat": {
+        "value": "10 أمتار",
+        "label": "Diameter of each Keck mirror",
+        "arabicLabel": "قطر كل مرآة في كيك"
+      },
+      "supportingStats": [
+        {
+          "label": "المرايا",
+          "value": "2"
+        },
+        {
+          "label": "البصمة",
+          "value": "تجمّع الكواكب"
+        },
+        {
+          "label": "المصدر",
+          "value": "Keck"
+        }
+      ],
+      "broll": "images/news/2026-06-15-keck-planet-spins/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-15-keck-planet-spins/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "W. M. Keck Observatory",
+      "domain": "keckobservatory.org"
+    },
+    {
+      "name": "Universe Today",
+      "domain": "universetoday.com"
+    },
+    {
+      "name": "Nature Astronomy",
+      "domain": "nature.com"
+    }
+  ],
+  "arabicTicker": [
+    "مرصد كيك يقيس سرعة دوران عشرات الكواكب العملاقة والأقزام البنية، وفق ScienceDaily",
+    "الدراسة نُشرت في 13 يونيو وتفتح نافذة على كيفية نشأة العوالم",
+    "كواكب عملاقة أصغر تدور أسرع من أقزام بنية أثقل منها بكثير",
+    "النتيجة تقلب التوقّع الذي يربط الكتلة الأكبر بدوران أسرع",
+    "نمط الدوران بصمة على كيفية تجمّع الكواكب وامتصاصها الغاز",
+    "مرآتا كيك قطر كل منهما 10 أمتار أتاحتا هذه الدقة، وفق Keck Observatory",
+    "هل يعيد هذا الاكتشاف كتابة نظريات تكوّن الكواكب؟"
+  ]
+}
