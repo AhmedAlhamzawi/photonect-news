@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "لغز الآثار",
+    "arabicHeadline": "حجر ستونهنج عبر 700 كم من اسكتلندا",
+    "englishSubhead": "STONEHENGE'S ALTAR STONE TRAVELLED 700 KM FROM SCOTLAND",
+    "heroMedia": "images/news/2026-06-16-stonehenge-altar-stone/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "دراسة تتعقّب رحلة الحجر الغامضة",
+      "arabicBody": "كشفت دراسة من جامعة كيرتن كيف انتقل حجر المذبح في ستونهنج نحو 700 كم من شمال شرق اسكتلندا عبر تضاريس وعرة، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "700 كم",
+        "label": "Distance the Altar Stone was moved",
+        "arabicLabel": "مسافة نقل حجر المذبح"
+      },
+      "supportingStats": [
+        {
+          "label": "المنشأ",
+          "value": "شمال اسكتلندا"
+        },
+        {
+          "label": "الجامعة",
+          "value": "كيرتن"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-16-stonehenge-altar-stone/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-stonehenge-altar-stone/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أيدٍ بشرية حرّكت 6 أطنان",
+      "arabicBody": "استبعد التحليل المعدني دور الأنهار الجليدية، فمجتمع العصر الحجري وحده جرّ كتلة وزنها 6 أطنان بتنظيم يفوق الخيال، وفق ناشيونال جيوغرافيك.",
+      "bigStat": {
+        "value": "6 أطنان",
+        "label": "Weight of the sandstone Altar Stone",
+        "arabicLabel": "وزن حجر المذبح الرملي"
+      },
+      "supportingStats": [
+        {
+          "label": "العصر",
+          "value": "الحجري الحديث"
+        },
+        {
+          "label": "استُبعِد",
+          "value": "الأنهار الجليدية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Nat Geographic"
+        }
+      ],
+      "broll": "images/news/2026-06-16-stonehenge-altar-stone/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-stonehenge-altar-stone/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "اللغز التالي: مصدر الحجر ومساره",
+      "arabicBody": "يطارد الباحثون مصدر الحجر بدقة وطريق نقله براً أو بحراً، في كشف يعيد رسم صورة بريطانيا ما قبل التاريخ، وفق بي بي إس.",
+      "bigStat": {
+        "value": "5000 عام",
+        "label": "Years since the stone's epic journey",
+        "arabicLabel": "منذ رحلة الحجر الملحمية"
+      },
+      "supportingStats": [
+        {
+          "label": "التالي",
+          "value": "تحديد المصدر"
+        },
+        {
+          "label": "طرق النقل",
+          "value": "براً أو بحراً"
+        },
+        {
+          "label": "المصدر",
+          "value": "PBS"
+        }
+      ],
+      "broll": "images/news/2026-06-16-stonehenge-altar-stone/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-stonehenge-altar-stone/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "National Geographic",
+      "domain": "nationalgeographic.com"
+    },
+    {
+      "name": "PBS NewsHour",
+      "domain": "pbs.org"
+    },
+    {
+      "name": "Curtin University",
+      "domain": "curtin.edu.au"
+    }
+  ],
+  "arabicTicker": [
+    "دراسة من جامعة كيرتن تتعقّب رحلة حجر مذبح ستونهنج الغامضة، وفق ساينس ديلي",
+    "الحجر قطع نحو 700 كم من شمال شرق اسكتلندا إلى سهل سالزبري",
+    "التحليل المعدني يستبعد الأنهار الجليدية ويرجّح أن النقل بشري",
+    "كتلة وزنها 6 أطنان جرّها الإنسان قبل نحو 5000 عام",
+    "كشف يفضح قدرات تنظيمية مذهلة لمجتمعات العصر الحجري",
+    "باحثون يطاردون مصدر الحجر بدقة وطريق نقله",
+    "كيف جرّ إنسان ما قبل التاريخ حجراً بهذا الحجم تلك المسافة؟"
+  ]
+}

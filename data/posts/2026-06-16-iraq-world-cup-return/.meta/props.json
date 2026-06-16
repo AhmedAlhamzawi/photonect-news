@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "حلم الرافدين",
+    "arabicHeadline": "بعد 40 عاماً.. العراق يعود لكأس العالم",
+    "englishSubhead": "IRAQ RETURNS TO THE WORLD CUP AFTER 40 YEARS",
+    "heroMedia": "images/news/2026-06-16-iraq-world-cup-return/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "أسود الرافدين على المسرح الأكبر منذ 1986",
+      "arabicBody": "اليوم يدخل العراق ملعب كأس العالم أمام النرويج، أول مباراة منذ 1986، وثاني ظهور فقط لأسود الرافدين في تاريخ البطولة، وفق ESPN.",
+      "bigStat": {
+        "value": "40 عاماً",
+        "label": "Years since Iraq's last World Cup",
+        "arabicLabel": "منذ آخر مشاركة عراقية"
+      },
+      "supportingStats": [
+        {
+          "label": "المنافس اليوم",
+          "value": "النرويج"
+        },
+        {
+          "label": "المجموعة",
+          "value": "التاسعة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-16-iraq-world-cup-return/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-iraq-world-cup-return/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "البصرة حسمت الحلم أمام 62 ألف مشجع",
+      "arabicBody": "40 عاماً من الانتظار عبر الحروب والاضطرابات حسمها فوز 2-1 في البصرة أمام 62 ألف مشجع، بعد 21 مباراة تصفيات، وفق أسوشيتد برس.",
+      "bigStat": {
+        "value": "62 ألف",
+        "label": "Fans at Iraq's qualifying decider in Basra",
+        "arabicLabel": "مشجعون في حسم التأهل بالبصرة"
+      },
+      "supportingStats": [
+        {
+          "label": "نتيجة الحسم",
+          "value": "2-1"
+        },
+        {
+          "label": "مباريات التصفيات",
+          "value": "21"
+        },
+        {
+          "label": "المصدر",
+          "value": "AP"
+        }
+      ],
+      "broll": "images/news/2026-06-16-iraq-world-cup-return/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-iraq-world-cup-return/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "فرنسا والسنغال في انتظار الأسود",
+      "arabicBody": "غراهام أرنولد يقود 26 لاعباً يتقدمهم المهاجم أيمن حسين، في مجموعة نارية مع فرنسا والسنغال. الحلم بدأ، والنتيجة لم تُكتب بعد، وفق Goal.",
+      "bigStat": {
+        "value": "26",
+        "label": "Players in Iraq's World Cup squad",
+        "arabicLabel": "لاعبون في قائمة العراق"
+      },
+      "supportingStats": [
+        {
+          "label": "المدرب",
+          "value": "غراهام أرنولد"
+        },
+        {
+          "label": "نجم الهجوم",
+          "value": "أيمن حسين"
+        },
+        {
+          "label": "المصدر",
+          "value": "Goal"
+        }
+      ],
+      "broll": "images/news/2026-06-16-iraq-world-cup-return/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-iraq-world-cup-return/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "Goal",
+      "domain": "goal.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "اليوم.. العراق يدخل كأس العالم أمام النرويج لأول مرة منذ 1986، وفق ESPN",
+    "ثاني ظهور فقط لأسود الرافدين في تاريخ كأس العالم",
+    "البصرة حسمت الحلم بفوز 2-1 أمام 62 ألف مشجع، وفق أسوشيتد برس",
+    "21 مباراة تصفيات قاسية قبل بلوغ المسرح الأكبر",
+    "الأسترالي غراهام أرنولد يقود 26 لاعباً نحو المغامرة",
+    "العراق في المجموعة التاسعة وجهاً لوجه مع فرنسا والسنغال والنرويج",
+    "هل يصنع العراق المفاجأة في عودته بعد 40 عاماً؟"
+  ]
+}

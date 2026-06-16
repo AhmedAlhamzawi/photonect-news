@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم الأرض",
+    "arabicHeadline": "أول خريطة لعالم الفطريات المخفي تحت أقدامنا",
+    "englishSubhead": "FIRST GLOBAL MAP OF EARTH'S UNDERGROUND FUNGAL NETWORKS",
+    "heroMedia": "images/news/2026-06-16-fungi-underground-map/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "خيوط تمتد مليار مرة بين الأرض والشمس",
+      "arabicBody": "رسم فريق منظمة سبون أول خريطة عالمية لشبكات الفطريات الجذرية في التربة، بطول يعادل نحو مليار ضعف المسافة بين الأرض والشمس، ونُشرت في دورية ساينس.",
+      "bigStat": {
+        "value": "×1 مليار",
+        "label": "Times the Earth–Sun distance: total network length",
+        "arabicLabel": "ضعف المسافة بين الأرض والشمس"
+      },
+      "supportingStats": [
+        {
+          "label": "الدورية",
+          "value": "ساينس"
+        },
+        {
+          "label": "المنظمة",
+          "value": "سبون"
+        },
+        {
+          "label": "نوع الفطريات",
+          "value": "جذرية"
+        }
+      ],
+      "broll": "images/news/2026-06-16-fungi-underground-map/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-fungi-underground-map/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "رئة خفية تبتلع 3.12 مليار طن كربون",
+      "arabicBody": "تتحالف هذه الفطريات مع نحو 70% من أنواع النباتات، وتضخّ سنوياً ما يعادل 3.12 مليار طن من ثاني أكسيد الكربون من النباتات إلى التربة، وفق ساينس.",
+      "bigStat": {
+        "value": "3.12 مليار طن",
+        "label": "CO2-equivalent channeled into soil yearly",
+        "arabicLabel": "كربون يُخزَّن في التربة سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "ارتباط نباتي",
+          "value": "70%"
+        },
+        {
+          "label": "كتلة الكربون",
+          "value": "300 مليون طن"
+        },
+        {
+          "label": "المصدر",
+          "value": "Science"
+        }
+      ],
+      "broll": "images/news/2026-06-16-fungi-underground-map/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-fungi-underground-map/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "سباق لإنقاذ «أمازون باطن الأرض»",
+      "arabicBody": "يحذّر الباحثون من أن الزراعة المكثّفة تمزّق هذه الشبكات، فأطلقت سبون 137 منحة استكشاف لرسم خرائطها محلياً قبل فوات الأوان، وفق يوريك أليرت.",
+      "bigStat": {
+        "value": "137",
+        "label": "Explorer grants to map local fungal networks",
+        "arabicLabel": "منحة لرسم الخرائط محلياً"
+      },
+      "supportingStats": [
+        {
+          "label": "التهديد",
+          "value": "الزراعة المكثّفة"
+        },
+        {
+          "label": "اللقب",
+          "value": "أمازون الأعماق"
+        },
+        {
+          "label": "المصدر",
+          "value": "EurekAlert"
+        }
+      ],
+      "broll": "images/news/2026-06-16-fungi-underground-map/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-fungi-underground-map/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Science",
+      "domain": "science.org"
+    },
+    {
+      "name": "SPUN",
+      "domain": "spun.earth"
+    },
+    {
+      "name": "University of Sheffield",
+      "domain": "sheffield.ac.uk"
+    },
+    {
+      "name": "EurekAlert",
+      "domain": "eurekalert.org"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    }
+  ],
+  "arabicTicker": [
+    "أول خريطة عالمية لعالم الفطريات المخفي تحت أقدامنا تُنشر في ساينس",
+    "خيوطها تمتد نحو مليار ضعف المسافة الفاصلة بين الأرض والشمس",
+    "تضخّ 3.12 مليار طن مكافئ كربون إلى باطن التربة سنوياً، وفق ساينس",
+    "تتحالف مع نحو 70% من أنواع النباتات فوق سطح الأرض",
+    "تختزن نحو 300 مليون طن كربون، أضعاف كتلة البشر مجتمعين",
+    "أطلقت سبون 137 منحة لرسم خرائطها قبل أن تمحوها المحاريث",
+    "هل ننقذ «غابات الأمازون» المخبوءة تحت أقدامنا قبل فوات الأوان؟"
+  ]
+}

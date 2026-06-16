@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "europe",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دبلوماسية دولية",
+    "arabicHeadline": "قمة السبع في إيفيان تبحث أوكرانيا والمنطقة",
+    "englishSubhead": "G7 SUMMIT IN ÉVIAN TACKLES UKRAINE AND THE MIDDLE EAST",
+    "heroMedia": "images/news/2026-06-16-g7-evian-summit/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "السبع يجتمعون وزيلينسكي حاضر بدعوة فرنسية",
+      "arabicBody": "افتتح زعماء مجموعة السبع قمتهم في إيفيان الفرنسية بين 15 و17 يونيو برئاسة الرئيس ماكرون، بحضور الرئيس الأوكراني زيلينسكي بدعوة من فرنسا، وفق NPR.",
+      "bigStat": {
+        "value": "15–17 يونيو",
+        "label": "G7 summit dates at Évian, France",
+        "arabicLabel": "أيام قمة السبع في إيفيان"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيف",
+          "value": "فرنسا"
+        },
+        {
+          "label": "ضيف خاص",
+          "value": "زيلينسكي"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-16-g7-evian-summit/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-g7-evian-summit/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إشادة أوروبية بما وُصف بـ«اختراق دبلوماسي»",
+      "arabicBody": "أصدر قادة فرنسا وألمانيا وإيطاليا وبريطانيا بياناً يهنّئ واشنطن وطهران والوسطاء بما وصفوه بـ«الاختراق الدبلوماسي»، مع التركيز على أمن الطاقة، وفق المجلس الأوروبي.",
+      "bigStat": {
+        "value": "4",
+        "label": "European leaders behind the joint statement",
+        "arabicLabel": "قادة أوروبيون وراء البيان"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف الأبرز",
+          "value": "أمن الطاقة"
+        },
+        {
+          "label": "الوصف",
+          "value": "اختراق دبلوماسي"
+        },
+        {
+          "label": "المصدر",
+          "value": "EU Council"
+        }
+      ],
+      "broll": "images/news/2026-06-16-g7-evian-summit/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-g7-evian-summit/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أوكرانيا وأمن الطاقة على طاولة الختام",
+      "arabicBody": "تتواصل المباحثات حتى 17 يونيو حول إنهاء حرب أوكرانيا وأمن الطاقة العالمي بعد توترات الشرق الأوسط، وسط دعوات إلى تنسيق اقتصادي أوسع، وفق الإليزيه.",
+      "bigStat": {
+        "value": "7",
+        "label": "Member nations of the G7 group",
+        "arabicLabel": "دول مجموعة السبع"
+      },
+      "supportingStats": [
+        {
+          "label": "ملف أوكرانيا",
+          "value": "إنهاء الحرب"
+        },
+        {
+          "label": "ملف الطاقة",
+          "value": "أمن الإمدادات"
+        },
+        {
+          "label": "المصدر",
+          "value": "Élysée"
+        }
+      ],
+      "broll": "images/news/2026-06-16-g7-evian-summit/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-g7-evian-summit/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "European Council",
+      "domain": "consilium.europa.eu"
+    },
+    {
+      "name": "Élysée",
+      "domain": "elysee.fr"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "قمة مجموعة السبع تنعقد في إيفيان الفرنسية بين 15 و17 يونيو، وفق NPR",
+    "الرئيس الأوكراني زيلينسكي يحضر القمة بدعوة من فرنسا المضيفة",
+    "قادة فرنسا وألمانيا وإيطاليا وبريطانيا يشيدون بما وصفوه بـ«اختراق دبلوماسي»",
+    "أمن الطاقة العالمي بند رئيسي على جدول الأعمال، وفق المجلس الأوروبي",
+    "المباحثات تتناول إنهاء حرب أوكرانيا والتنسيق الاقتصادي الأوسع، وفق الإليزيه",
+    "الرئيس ماكرون يترأس القمة الثانية والخمسين للمجموعة",
+    "هل تترجم القمة تصريحاتها إلى خطوات ملموسة على الأرض؟"
+  ]
+}

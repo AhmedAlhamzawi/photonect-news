@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "القطرية تتوسّع لأكثر من 150 وجهة عالمية",
+    "englishSubhead": "QATAR AIRWAYS EXPANDS TO OVER 150 GLOBAL DESTINATIONS",
+    "heroMedia": "images/news/2026-06-16-qatar-air-global-hub/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "شبكة تتجاوز 150 وجهة هذا الصيف",
+      "arabicBody": "أعلنت الخطوط القطرية تشغيل شبكة تتجاوز 150 وجهة حول العالم اعتباراً من 16 يونيو، في أكبر توسّع صيفي بتاريخها، وفق غرفة أخبار القطرية.",
+      "bigStat": {
+        "value": "+150",
+        "label": "Global destinations served from June 16",
+        "arabicLabel": "وجهة عالمية اعتباراً من 16 يونيو"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ التوسّع",
+          "value": "16 يونيو"
+        },
+        {
+          "label": "النطاق",
+          "value": "عالمي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Qatar Airways"
+        }
+      ],
+      "broll": "images/news/2026-06-16-qatar-air-global-hub/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-qatar-air-global-hub/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الخليج يترسّخ مركزاً للطيران العالمي",
+      "arabicBody": "تشمل الخطة استئناف وزيادة رحلات إلى إفريقيا، فيترسّخ الخليج محوراً يربط القارات بعد تعافي أجواء المنطقة من اضطراب الحرب، وفق لويالتي لوبي.",
+      "bigStat": {
+        "value": "إفريقيا",
+        "label": "Region getting resumed and added routes",
+        "arabicLabel": "وجهات مُستأنفة ومُعزَّزة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإضافة",
+          "value": "خطوط إفريقية"
+        },
+        {
+          "label": "الدور",
+          "value": "محور قاري"
+        },
+        {
+          "label": "المصدر",
+          "value": "LoyaltyLobby"
+        }
+      ],
+      "broll": "images/news/2026-06-16-qatar-air-global-hub/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-qatar-air-global-hub/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "منافسة خليجية على سماء العالم",
+      "arabicBody": "يأتي التوسّع وسط منافسة خليجية محتدمة على الربط الجوي العالمي مع طيران الإمارات والاتحاد والسعودية، عشية ذروة سفر صيفية مرتقبة، وفق ترافيل آند تور وورلد.",
+      "bigStat": {
+        "value": "3",
+        "label": "Major Gulf rivals in the connectivity race",
+        "arabicLabel": "منافسون خليجيون كبار"
+      },
+      "supportingStats": [
+        {
+          "label": "المنافسون",
+          "value": "الإمارات والاتحاد"
+        },
+        {
+          "label": "الموسم",
+          "value": "ذروة صيفية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Travel & Tour World"
+        }
+      ],
+      "broll": "images/news/2026-06-16-qatar-air-global-hub/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-qatar-air-global-hub/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Qatar Airways",
+      "domain": "qatarairways.com"
+    },
+    {
+      "name": "LoyaltyLobby",
+      "domain": "loyaltylobby.com"
+    },
+    {
+      "name": "Travel & Tour World",
+      "domain": "travelandtourworld.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "الخطوط القطرية تشغّل شبكة تتجاوز 150 وجهة عالمية من 16 يونيو، وفق القطرية",
+    "الخطة تشمل استئناف وتعزيز رحلات إلى القارة الإفريقية",
+    "الخليج يترسّخ محوراً يربط القارات على خريطة الطيران العالمي",
+    "التوسّع يأتي مع تعافي أجواء المنطقة من اضطراب الحرب",
+    "منافسة محتدمة مع طيران الإمارات والاتحاد والسعودية",
+    "ذروة سفر صيفية مرتقبة عبر مطارات الخليج",
+    "هل يحسم الخليج صدارة الربط الجوي بين الشرق والغرب؟"
+  ]
+}

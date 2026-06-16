@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 16 • 2026",
+  "arabicDateLabel": "16 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة وأمل",
+    "arabicHeadline": "حبة يومية تخسر 10.5% من الوزن لمرضى السكري",
+    "englishSubhead": "DAILY GLP-1 PILL CUTS WEIGHT 10.5% IN DIABETES TRIAL",
+    "heroMedia": "images/news/2026-06-16-glp1-diabetes-pill/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "نتائج واعدة لحبة GLP-1 الفموية",
+      "arabicBody": "كشفت أسترازينيكا في مؤتمر جمعية السكري الأميركية تجربة سريرية لحبتها الفموية إليكوغليبرون، أظهرت خسارة 10.5% من الوزن خلال 26 أسبوعاً، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "10.5%",
+        "label": "Body-weight loss at 26 weeks (phase 2b)",
+        "arabicLabel": "خسارة من وزن الجسم خلال 26 أسبوعاً"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة",
+          "value": "تجربة 2ب"
+        },
+        {
+          "label": "المدة",
+          "value": "26 أسبوعاً"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-16-glp1-diabetes-pill/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-16-glp1-diabetes-pill/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حبة بدل الإبرة في معركة السكري والسمنة",
+      "arabicBody": "خفّضت الحبة سكر الدم التراكمي في كل الجرعات، وتمنح بديلاً سهلاً عن الحقن في الخليج الذي يسجّل من أعلى معدلات السكري عالمياً، وفق ميدسكيب.",
+      "bigStat": {
+        "value": "كل الجرعات",
+        "label": "Doses showing significant A1c reduction",
+        "arabicLabel": "جرعات خفّضت السكر التراكمي"
+      },
+      "supportingStats": [
+        {
+          "label": "الشكل",
+          "value": "فموي"
+        },
+        {
+          "label": "بديل عن",
+          "value": "الحقن"
+        },
+        {
+          "label": "المصدر",
+          "value": "Medscape"
+        }
+      ],
+      "broll": "images/news/2026-06-16-glp1-diabetes-pill/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-16-glp1-diabetes-pill/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "سباق حبوب التنحيف يشتد",
+      "arabicBody": "يحتدم سباق حبوب GLP-1 بعد إقرار حبة أورفورغليبرون من إيلاي ليلي في 1 أبريل؛ وتبقى إليكوغليبرون بانتظار تجارب أوسع قبل أي موافقة، وفق هيلث لاين.",
+      "bigStat": {
+        "value": "1 أبريل",
+        "label": "Date a rival oral GLP-1 won FDA approval",
+        "arabicLabel": "إقرار حبة منافسة من FDA"
+      },
+      "supportingStats": [
+        {
+          "label": "المُقَر سابقاً",
+          "value": "أورفورغليبرون"
+        },
+        {
+          "label": "إليكوغليبرون",
+          "value": "تجارب أوسع"
+        },
+        {
+          "label": "المصدر",
+          "value": "Healthline"
+        }
+      ],
+      "broll": "images/news/2026-06-16-glp1-diabetes-pill/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-16-glp1-diabetes-pill/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Medscape",
+      "domain": "medscape.com"
+    },
+    {
+      "name": "Healthline",
+      "domain": "healthline.com"
+    },
+    {
+      "name": "ADA Scientific Sessions",
+      "domain": "diabetes.org"
+    },
+    {
+      "name": "AstraZeneca",
+      "domain": "astrazeneca.com"
+    }
+  ],
+  "arabicTicker": [
+    "أسترازينيكا تكشف نتائج حبتها الفموية إليكوغليبرون في مؤتمر السكري الأميركي",
+    "خسارة 10.5% من الوزن خلال 26 أسبوعاً في تجربة المرحلة الثانية، وفق ساينس ديلي",
+    "الحبة خفّضت سكر الدم التراكمي في كل الجرعات المُختبَرة",
+    "بديل فموي سهل عن الحقن في معركة السكري والسمنة",
+    "الخليج يسجّل من أعلى معدلات السكري في العالم",
+    "حبة أورفورغليبرون المنافسة نالت إقرار FDA في 1 أبريل 2026",
+    "هل تصبح الحبوب نهاية عصر إبر التنحيف؟"
+  ]
+}
