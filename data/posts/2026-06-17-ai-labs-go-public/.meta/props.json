@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تكنولوجيا",
+    "arabicHeadline": "أنثروبيك وأوبن إيه آي نحو إدراج تاريخي",
+    "englishSubhead": "ANTHROPIC AND OPENAI FILE FOR HISTORIC IPOs",
+    "heroMedia": "images/news/2026-06-17-ai-labs-go-public/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مختبرا الذكاء الاصطناعي يقصدان البورصة",
+      "arabicBody": "قدّمت أنثروبيك طلب إدراج سرّياً في 1 يونيو، تبعتها أوبن إيه آي في 8 يونيو، ضمن خط طروحات تقارب قيمته 3.6 تريليون دولار، وفق فاينانشال تايمز.",
+      "bigStat": {
+        "value": "3.6 تريليون $",
+        "label": "Combined AI + SpaceX IPO pipeline value",
+        "arabicLabel": "قيمة خط الطروحات المجمّعة"
+      },
+      "supportingStats": [
+        {
+          "label": "أنثروبيك قدّمت",
+          "value": "1 يونيو"
+        },
+        {
+          "label": "أوبن إيه آي قدّمت",
+          "value": "8 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "Financial Times"
+        }
+      ],
+      "broll": "images/news/2026-06-17-ai-labs-go-public/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-ai-labs-go-public/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أنثروبيك تتحوّل إلى الربحية",
+      "arabicBody": "قفزت إيرادات أنثروبيك السنوية من 9 مليارات دولار في يناير إلى 47 ملياراً في مايو، وتتوقّع أول ربح تشغيلي يقارب 559 مليون دولار، وفق CNBC.",
+      "bigStat": {
+        "value": "47 مليار $",
+        "label": "Anthropic annualized revenue run-rate, May 2026",
+        "arabicLabel": "إيرادات أنثروبيك السنوية في مايو"
+      },
+      "supportingStats": [
+        {
+          "label": "من (يناير)",
+          "value": "9 مليارات $"
+        },
+        {
+          "label": "أول ربح متوقّع",
+          "value": "559 مليون $"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-06-17-ai-labs-go-public/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-ai-labs-go-public/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أوبن إيه آي تستهدف إدراج سبتمبر",
+      "arabicBody": "تستهدف أوبن إيه آي إدراجاً في سبتمبر بقيمة 730–850 مليار دولار، فيقارن المستثمرون لأول مرة بين مختبرين رائدين بأرقام معلنة، وفق رويترز.",
+      "bigStat": {
+        "value": "730–850 مليار $",
+        "label": "OpenAI's targeted IPO valuation",
+        "arabicLabel": "قيمة إدراج أوبن إيه آي المستهدفة"
+      },
+      "supportingStats": [
+        {
+          "label": "الموعد المستهدف",
+          "value": "سبتمبر 2026"
+        },
+        {
+          "label": "البنوك",
+          "value": "غولدمان ومورغان"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-17-ai-labs-go-public/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-ai-labs-go-public/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Financial Times",
+      "domain": "ft.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Yahoo Finance",
+      "domain": "finance.yahoo.com"
+    }
+  ],
+  "arabicTicker": [
+    "أنثروبيك تقدّم طلب إدراج سرّياً في 1 يونيو وأوبن إيه آي في 8 يونيو، وفق فاينانشال تايمز",
+    "خط طروحات الذكاء الاصطناعي وسبيس إكس يقارب 3.6 تريليون دولار",
+    "إيرادات أنثروبيك تقفز من 9 إلى 47 مليار دولار سنوياً بين يناير ومايو، وفق CNBC",
+    "أنثروبيك تتوقّع أول ربح تشغيلي يقارب 559 مليون دولار",
+    "أوبن إيه آي تستهدف إدراج سبتمبر بقيمة 730–850 مليار دولار، وفق رويترز",
+    "للمرة الأولى: مقارنة مختبرين رائدين بأرقام مالية معلنة",
+    "هل يكون 2026 عام دخول الذكاء الاصطناعي إلى البورصة؟"
+  ]
+}

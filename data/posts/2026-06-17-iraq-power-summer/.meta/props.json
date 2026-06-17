@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "العراق يدخل الصيف بعجز 11 ألف ميغاواط",
+    "englishSubhead": "IRAQ'S GRID BUCKLES AS PEAK SUMMER NEARS",
+    "heroMedia": "images/news/2026-06-17-iraq-power-summer/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الطلب 40 ألفاً والإنتاج 29 ألفاً",
+      "arabicBody": "تتجه ذروة الطلب الصيفي إلى 40 ألف ميغاواط مقابل إنتاج لا يتجاوز 29 ألفاً، أي عجز يقارب 11 ألفاً، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "11 ألف",
+        "label": "Peak summer supply gap (megawatts)",
+        "arabicLabel": "عجز الذروة بالميغاواط"
+      },
+      "supportingStats": [
+        {
+          "label": "الطلب المتوقع",
+          "value": "40 ألف م.و"
+        },
+        {
+          "label": "الإنتاج الحالي",
+          "value": "29 ألف م.و"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-06-17-iraq-power-summer/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-iraq-power-summer/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الغاز الإيراني هبط من 30 إلى 5",
+      "arabicBody": "تراجع الغاز الإيراني من 30 إلى 5 ملايين متر مكعب يومياً، وأطاحت ضربات 28 فبراير بأكثر من 3000 ميغاواط، وفق معهد بيكر.",
+      "bigStat": {
+        "value": "3000+",
+        "label": "Megawatts knocked offline by the Feb 28 strikes",
+        "arabicLabel": "ميغاواط فُقدت بعد ضربات فبراير"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز إيران سابقاً",
+          "value": "30 م.م³/يوم"
+        },
+        {
+          "label": "غاز إيران حالياً",
+          "value": "5 م.م³/يوم"
+        },
+        {
+          "label": "المصدر",
+          "value": "معهد بيكر"
+        }
+      ],
+      "broll": "images/news/2026-06-17-iraq-power-summer/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-iraq-power-summer/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الربط الخليجي يتأخر إلى أواخر 2026",
+      "arabicBody": "تأجّل الربط الكهربائي الخليجي إلى أواخر 2026، وتراهن بغداد على الطاقة الشمسية مع اقتراب الحرارة من 50 درجة، وفق المجلس الأطلسي.",
+      "bigStat": {
+        "value": "50 درجة",
+        "label": "Expected peak summer temperature",
+        "arabicLabel": "ذروة الحرارة المتوقعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الربط الخليجي",
+          "value": "أواخر 2026"
+        },
+        {
+          "label": "شمسي البصرة",
+          "value": "254 ميغاواط"
+        },
+        {
+          "label": "المصدر",
+          "value": "المجلس الأطلسي"
+        }
+      ],
+      "broll": "images/news/2026-06-17-iraq-power-summer/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-iraq-power-summer/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Baker Institute",
+      "domain": "bakerinstitute.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يدخل الصيف بعجز 11 ألف ميغاواط",
+    "الطلب نحو 40 ألف ميغاواط مقابل إنتاج 29 ألفاً، وفق شفق نيوز",
+    "غاز إيران تراجع من 30 إلى 5 ملايين متر مكعب يومياً، وفق معهد بيكر",
+    "ضربات 28 فبراير أطاحت بأكثر من 3000 ميغاواط من التوليد",
+    "الربط الكهربائي الخليجي يتأخر إلى أواخر 2026، وفق المجلس الأطلسي",
+    "بغداد تراهن على الشمس: 254 ميغاواط من مشروع البصرة",
+    "هل يصمد العراق في صيف يلامس 50 درجة؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كأس العالم 2026",
+    "arabicHeadline": "ميسي يسجّل أول هاتريك له في المونديال",
+    "englishSubhead": "MESSI SCORES HIS FIRST-EVER WORLD CUP HAT-TRICK",
+    "heroMedia": "images/news/2026-06-17-worldcup-messi-hattrick/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "حامل اللقب يكتسح الجزائر 3-0",
+      "arabicBody": "افتتح حامل اللقب الأرجنتين مشواره بثلاثية نظيفة على الجزائر في المجموعة العاشرة بملعب كانساس سيتي، حملها ميسي وحده على كتفيه، وفق فيفا.",
+      "bigStat": {
+        "value": "3-0",
+        "label": "Argentina's opening win over Algeria",
+        "arabicLabel": "فوز الأرجنتين الافتتاحي"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعة",
+          "value": "العاشرة"
+        },
+        {
+          "label": "الملعب",
+          "value": "كانساس سيتي"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA"
+        }
+      ],
+      "broll": "images/news/2026-06-17-worldcup-messi-hattrick/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-worldcup-messi-hattrick/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Wikimedia Commons (CC)"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ميسي يلحق برقم كلوزه القياسي",
+      "arabicBody": "وقّع ميسي أهدافه في الدقائق 17 و60 و76 ليبلغ 16 هدفاً مونديالياً، معادلاً رقم كلوزه القياسي، في مباراته 200 مع الأرجنتين، وفق ESPN.",
+      "bigStat": {
+        "value": "16 هدفاً",
+        "label": "Messi's World Cup goals — level with Klose",
+        "arabicLabel": "أهداف ميسي في كأس العالم"
+      },
+      "supportingStats": [
+        {
+          "label": "الدقائق",
+          "value": "17 · 60 · 76"
+        },
+        {
+          "label": "مباراته رقم",
+          "value": "200"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-17-worldcup-messi-hattrick/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-worldcup-messi-hattrick/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أول رجل يلعب في 6 مونديالات",
+      "arabicBody": "صار ميسي أول لاعب في التاريخ يخوض 6 نسخ من كأس العالم، فيما تطارد الأرجنتين نجمتها الرابعة دفاعاً عن لقبها، وفق NBC سبورتس.",
+      "bigStat": {
+        "value": "6 نسخ",
+        "label": "World Cups played — a men's record",
+        "arabicLabel": "نسخ مونديالية لميسي"
+      },
+      "supportingStats": [
+        {
+          "label": "حامل اللقب",
+          "value": "الأرجنتين"
+        },
+        {
+          "label": "الهدف",
+          "value": "النجمة الرابعة"
+        },
+        {
+          "label": "المصدر",
+          "value": "NBC Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-17-worldcup-messi-hattrick/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-worldcup-messi-hattrick/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "NBC Sports",
+      "domain": "nbcsports.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "ميسي يسجّل أول هاتريك له في المونديال وحامل اللقب يتفوّق على الجزائر 3-0، وفق فيفا",
+    "ثلاثية ميسي جاءت في الدقائق 17 و60 و76 بملعب كانساس سيتي",
+    "ميسي يبلغ 16 هدفاً مونديالياً ويلحق برقم كلوزه القياسي، وفق ESPN",
+    "هاتريك التاريخ جاء في مباراة ميسي رقم 200 بقميص الأرجنتين",
+    "ميسي أول رجل في التاريخ يلعب 6 نسخ من كأس العالم، وفق NBC سبورتس",
+    "الأرجنتين تفتح الدفاع عن لقبها وعينها على النجمة الرابعة",
+    "هل يقود ميسي التانغو إلى لقب رابع، أم يقف القطار هنا؟"
+  ]
+}

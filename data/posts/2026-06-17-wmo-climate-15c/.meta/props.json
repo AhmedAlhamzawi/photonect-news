@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "مناخ",
+    "arabicHeadline": "تقرير أممي: العالم يقترب من تجاوز 1.5 درجة",
+    "englishSubhead": "WMO: WORLD NEARS BREACHING THE 1.5°C LIMIT",
+    "heroMedia": "images/news/2026-06-17-wmo-climate-15c/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "احتمال 91% لتجاوز مؤقت لـ1.5 درجة",
+      "arabicBody": "تقدّر المنظمة العالمية للأرصاد احتمالاً 91% أن تتجاوز الحرارة 1.5 درجة في عام واحد على الأقل بين 2026 و2030، وفق WMO.",
+      "bigStat": {
+        "value": "91%",
+        "label": "Chance of temporarily breaching 1.5°C by 2030",
+        "arabicLabel": "احتمال تجاوز 1.5 درجة مؤقتاً"
+      },
+      "supportingStats": [
+        {
+          "label": "تجاوز المتوسط الخماسي",
+          "value": "75%"
+        },
+        {
+          "label": "المدى المتوقع",
+          "value": "1.3–1.9 درجة"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-06-17-wmo-climate-15c/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-wmo-climate-15c/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "86% أن يكسر عام قادم رقم 2024",
+      "arabicBody": "ترجّح هيئة الأرصاد البريطانية باحتمال 86% أن يتجاوز عام قادم رقم 2024 الأحرّ مسجّلاً، حين بلغ الاحترار 1.55 درجة فوق ما قبل الصناعة.",
+      "bigStat": {
+        "value": "1.55 درجة",
+        "label": "2024 warming above pre-industrial — the record",
+        "arabicLabel": "احترار 2024 القياسي"
+      },
+      "supportingStats": [
+        {
+          "label": "احتمال كسر الرقم",
+          "value": "86%"
+        },
+        {
+          "label": "الأسرع احتراراً",
+          "value": "القطب الشمالي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Met Office"
+        }
+      ],
+      "broll": "images/news/2026-06-17-wmo-climate-15c/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-wmo-climate-15c/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "القطب يحترق والعراق نحو 50 درجة",
+      "arabicBody": "يتوقّع التقرير استمرار احترار القطب الشمالي فوق المعدل العالمي وجفافاً في الأمازون، فيما تلامس حرارة العراق هذا الصيف 50 درجة، وفق WMO.",
+      "bigStat": {
+        "value": "2026–2030",
+        "label": "Five years likely at or near record heat",
+        "arabicLabel": "خمس سنوات قرب الأرقام القياسية"
+      },
+      "supportingStats": [
+        {
+          "label": "توقّع جاف",
+          "value": "الأمازون"
+        },
+        {
+          "label": "توقّع رطب",
+          "value": "الساحل وأوروبا الشمالية"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-06-17-wmo-climate-15c/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-wmo-climate-15c/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Meteorological Organization",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "UK Met Office",
+      "domain": "metoffice.gov.uk"
+    },
+    {
+      "name": "United Nations",
+      "domain": "un.org"
+    },
+    {
+      "name": "PreventionWeb",
+      "domain": "preventionweb.net"
+    }
+  ],
+  "arabicTicker": [
+    "تقرير المنظمة العالمية للأرصاد: احتمال 91% لتجاوز 1.5 درجة في عام واحد حتى 2030، وفق WMO",
+    "احتمال 75% أن يتجاوز المتوسط الخماسي 1.5 درجة فوق ما قبل الصناعة",
+    "المدى المتوقع لحرارة 2026–2030 بين 1.3 و1.9 درجة",
+    "احتمال 86% أن يكسر عام قادم رقم 2024 الأحرّ، حين بلغ 1.55 درجة",
+    "القطب الشمالي يبقى الأسرع احتراراً، وجفاف متوقع في الأمازون، وفق هيئة الأرصاد البريطانية",
+    "العراق يلامس 50 درجة هذا الصيف في ظل الموجة العالمية",
+    "هل نكون أمام عقد يكسر كل أرقام الحرارة؟"
+  ]
+}

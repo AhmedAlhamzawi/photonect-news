@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "علوم وصحة",
+    "arabicHeadline": "لقاح تجريبي يوقف جرعات الفنتانيل القاتلة",
+    "englishSubhead": "EXPERIMENTAL VACCINE BLOCKS FATAL FENTANYL OVERDOSE",
+    "heroMedia": "images/news/2026-06-17-fentanyl-overdose-vaccine/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "لقاح يعترض الفنتانيل قبل الدماغ",
+      "arabicBody": "طوّر معهد سكريبس لقاحاً تجريبياً يدرّب المناعة على اعتراض الفنتانيل في دم الفئران قبل بلوغه الدماغ، فبقي تنفّسها شبه طبيعي رغم جرعات قاتلة، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "70%",
+        "label": "Drop in fentanyl reaching the brain in vaccinated mice",
+        "arabicLabel": "تراجع الفنتانيل الواصل للدماغ"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة",
+          "value": "تجارب على الفئران"
+        },
+        {
+          "label": "المختبر",
+          "value": "معهد سكريبس"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أجسام مضادة تميّز أخطر المشتقات",
+      "arabicBody": "ارتبطت الأجسام المضادة بالفنتانيل ومشتقات خطيرة كالكارفنتانيل، وتجاهلت مسكّنات طبية كالمورفين والأوكسيكودون، ما يقلّل التداخل العلاجي، وفق معهد سكريبس.",
+      "bigStat": {
+        "value": "4 مشتقات",
+        "label": "Dangerous fentanyl analogs the antibodies bind",
+        "arabicLabel": "مشتقات خطيرة يعترضها اللقاح"
+      },
+      "supportingStats": [
+        {
+          "label": "يعترض",
+          "value": "كارفنتانيل وغيره"
+        },
+        {
+          "label": "لا يعترض",
+          "value": "مورفين وأوكسيكودون"
+        },
+        {
+          "label": "المصدر",
+          "value": "Scripps"
+        }
+      ],
+      "broll": "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تجارب بشرية قادمة وأزمة عالمية",
+      "arabicBody": "تبقى التجارب البشرية ضرورية قبل الاعتماد، فيما يقدّم اللقاح أملاً ضد وباء الجرعات المفرطة الذي يحصد عشرات الآلاف سنوياً، وفق ميديكال إكسبريس.",
+      "bigStat": {
+        "value": "المرحلة التالية",
+        "label": "Human trials are the next step",
+        "arabicLabel": "الخطوة التالية: تجارب بشرية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تجارب بشرية"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "لقاح متعدّد المخدرات"
+        },
+        {
+          "label": "المصدر",
+          "value": "MedicalXpress"
+        }
+      ],
+      "broll": "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-fentanyl-overdose-vaccine/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Scripps Research",
+      "domain": "scripps.edu"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Medical Xpress",
+      "domain": "medicalxpress.com"
+    },
+    {
+      "name": "Bioengineer",
+      "domain": "bioengineer.org"
+    }
+  ],
+  "arabicTicker": [
+    "معهد سكريبس يطوّر لقاحاً يعترض الفنتانيل في الدم قبل وصوله للدماغ، وفق ساينس ديلي",
+    "تراجع الفنتانيل الواصل لدماغ الفئران الملقّحة بنحو 70%",
+    "تنفّس الفئران بقي شبه طبيعي رغم جرعات تُعدّ قاتلة",
+    "الأجسام المضادة تميّز الكارفنتانيل وأخطر المشتقات، وتتجاهل المورفين والأوكسيكودون",
+    "التجارب لا تزال على الحيوان وتحتاج اختباراً بشرياً، وفق معهد سكريبس",
+    "أمل جديد ضد وباء الجرعات المفرطة الذي يحصد عشرات الآلاف سنوياً",
+    "هل يصبح اللقاح درعاً ضد الإدمان والجرعات القاتلة؟"
+  ]
+}

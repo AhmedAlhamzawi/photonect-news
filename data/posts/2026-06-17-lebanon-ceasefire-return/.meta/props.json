@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 17 • 2026",
+  "arabicDateLabel": "17 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "هدنة لبنان: عودة للجنوب وانتشار إسرائيلي",
+    "englishSubhead": "LEBANON TRUCE HOLDS AS SOUTHERNERS RETURN",
+    "heroMedia": "images/news/2026-06-17-lebanon-ceasefire-return/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "سكان يعودون وسلطات تدعو للتريّث",
+      "arabicBody": "ذكرت الجزيرة أن مسؤولين إيرانيين يقولون إن وقف النار يشمل لبنان، وأن سكاناً بدأوا العودة إلى قرى الجنوب، فيما تدعو السلطات أهالي الحدود إلى الانتظار.",
+      "bigStat": {
+        "value": "منذ 2023",
+        "label": "South Lebanon conflict has run since",
+        "arabicLabel": "حرب الجنوب مستمرة منذ"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "واشنطن"
+        },
+        {
+          "label": "الوضع",
+          "value": "هشّ"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة"
+        }
+      ],
+      "broll": "images/news/2026-06-17-lebanon-ceasefire-return/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-17-lebanon-ceasefire-return/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إسرائيل تتمسّك بـ«مناطق أمنية»",
+      "arabicBody": "نقلت الجزيرة وأسوشيتد برس عن نتنياهو ووزير دفاعه كاتس قولهما إن إسرائيل ستبقى في «مناطق أمنية» داخل لبنان وسوريا وغزة رغم وقف النار.",
+      "bigStat": {
+        "value": "1000 كم²",
+        "label": "Israel's cross-border military footprint",
+        "arabicLabel": "مساحة الانتشار العسكري العابر للحدود"
+      },
+      "supportingStats": [
+        {
+          "label": "تشمل",
+          "value": "لبنان · سوريا · غزة"
+        },
+        {
+          "label": "الموقف الإسرائيلي",
+          "value": "بقاء"
+        },
+        {
+          "label": "المصدر",
+          "value": "AP"
+        }
+      ],
+      "broll": "images/news/2026-06-17-lebanon-ceasefire-return/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-17-lebanon-ceasefire-return/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مصير الهدنة لم يُحسم بعد",
+      "arabicBody": "أفادت رويترز بأن مصير الهدنة معلّق بين عودة النازحين وبقاء القوات الإسرائيلية، وسط دعوات دولية إلى انسحاب كامل، دون نتيجة محسومة حتى الآن.",
+      "bigStat": {
+        "value": "هدنة هشّة",
+        "label": "A fragile, unfinished truce",
+        "arabicLabel": "وقف نار قابل للانهيار"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تثبيت الهدنة"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "انسحاب جزئي"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "تجدّد التوتر"
+        }
+      ],
+      "broll": "images/news/2026-06-17-lebanon-ceasefire-return/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-17-lebanon-ceasefire-return/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "هدنة لبنان: عودة للجنوب وانتشار إسرائيلي",
+    "الجزيرة: مسؤولون إيرانيون يقولون إن وقف النار يشمل لبنان وسكان بدأوا العودة",
+    "الجزيرة: السلطات تدعو أهالي القرى الحدودية إلى الانتظار حتى استقرار الوضع",
+    "AP: نتنياهو وكاتس يقولان إن إسرائيل تبقى في «مناطق أمنية» بلبنان وسوريا وغزة",
+    "AP: انتشار عسكري إسرائيلي عابر للحدود يقارب 1000 كم²",
+    "رويترز: دعوات دولية إلى انسحاب كامل ومصير الهدنة لم يُحسم بعد",
+    "هل تصمد الهدنة أم يتجدّد التصعيد؟"
+  ]
+}
