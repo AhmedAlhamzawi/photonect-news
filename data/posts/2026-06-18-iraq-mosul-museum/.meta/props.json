@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تراث",
+    "arabicHeadline": "متحف الموصل يفتح أبوابه بعد 20 عاماً",
+    "englishSubhead": "MOSUL CULTURAL MUSEUM TO REOPEN IN 2026",
+    "heroMedia": "images/news/2026-06-18-iraq-mosul-museum/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أبواب المتحف تُفتح من جديد خريف 2026",
+      "arabicBody": "تنفض الموصل الغبار عن ثاني أكبر متاحف العراق، ليعود خريف 2026 بعد نحو 20 عاماً من الإغلاق ودمار تنظيم داعش، وفق سميثسونيان.",
+      "bigStat": {
+        "value": "خريف 2026",
+        "label": "Planned reopening of the Mosul Cultural Museum",
+        "arabicLabel": "موعد إعادة الافتتاح المرتقب"
+      },
+      "supportingStats": [
+        {
+          "label": "مغلق منذ",
+          "value": "~20 عاماً"
+        },
+        {
+          "label": "دمار التنظيم",
+          "value": "2015"
+        },
+        {
+          "label": "المصدر",
+          "value": "Smithsonian"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iraq-mosul-museum/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iraq-mosul-museum/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "5 جهات عالمية تعيد الحياة للمتحف",
+      "arabicBody": "تتكاتف 5 جهات عالمية لإحياء المتحف: اللوفر وصندوق آليف وسميثسونيان وصندوق الآثار العالمي، بالشراكة مع هيئة الآثار العراقية، وفق اللوفر.",
+      "bigStat": {
+        "value": "5 شركاء",
+        "label": "International institutions restoring the museum",
+        "arabicLabel": "جهات دولية تشارك في الترميم"
+      },
+      "supportingStats": [
+        {
+          "label": "ترميم القطع",
+          "value": "اللوفر"
+        },
+        {
+          "label": "العمارة",
+          "value": "WMF"
+        },
+        {
+          "label": "التمويل",
+          "value": "ALIPH"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iraq-mosul-museum/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iraq-mosul-museum/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المتحف يصبح رمزاً لتعافي الموصل",
+      "arabicBody": "بعد تحرير المدينة عام 2017، تنهض من تحت الركام قطع آشورية وحَضرية حطّمها التنظيم، ليصبح المتحف رمزاً لعودة الموصل، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "2017",
+        "label": "Year Mosul was liberated from ISIS",
+        "arabicLabel": "عام تحرير الموصل"
+      },
+      "supportingStats": [
+        {
+          "label": "القطع",
+          "value": "آشورية وحَضرية"
+        },
+        {
+          "label": "المدينة",
+          "value": "الموصل"
+        },
+        {
+          "label": "المصدر",
+          "value": "The Art Newspaper"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iraq-mosul-museum/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iraq-mosul-museum/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Smithsonian Magazine",
+      "domain": "smithsonianmag.com"
+    },
+    {
+      "name": "Musée du Louvre",
+      "domain": "louvre.fr"
+    },
+    {
+      "name": "ALIPH Foundation",
+      "domain": "aliph-foundation.org"
+    },
+    {
+      "name": "The Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "The Art Newspaper",
+      "domain": "theartnewspaper.com"
+    }
+  ],
+  "arabicTicker": [
+    "متحف الموصل الثقافي يفتح أبوابه خريف 2026 بعد نحو 20 عاماً من الإغلاق، وفق سميثسونيان",
+    "تنظيم داعش حطّم مقتنيات المتحف عام 2015 وكسّر قطعاً آشورية وحَضرية نادرة",
+    "5 جهات عالمية تقود الإحياء: اللوفر وآليف وسميثسونيان وصندوق الآثار العالمي وهيئة الآثار العراقية",
+    "اللوفر يرمّم القطع المحطّمة وصندوق الآثار العالمي يعيد بناء العمارة، وفق اللوفر",
+    "بعد تحرير الموصل عام 2017 يعود المتحف رمزاً لنهوض المدينة من تحت الركام",
+    "هل يعيد متحف الموصل المدينة إلى خريطة السياحة الثقافية في العراق؟"
+  ]
+}

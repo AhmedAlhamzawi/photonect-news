@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "نحت السطح وحده يطلق التوصيل الفائق",
+    "englishSubhead": "SWEDISH TEAM BOOSTS SUPERCONDUCTIVITY BY SCULPTING THE SUBSTRATE",
+    "heroMedia": "images/news/2026-06-18-superconductor-leap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تشالمرز تنحت القاعدة فيصمد التوصيل أطول",
+      "arabicBody": "أظهر فريق جامعة تشالمرز السويدية أن نحت القاعدة الحاملة لطبقة فائقة الرقّة يبقيها موصِّلة عند حرارة أعلى ومجالات مغناطيسية أقوى، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "Nature Comms",
+        "label": "Journal publishing the study, June 2026",
+        "arabicLabel": "مجلة نشر الدراسة في يونيو 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "الجامعة",
+          "value": "تشالمرز"
+        },
+        {
+          "label": "النشر",
+          "value": "17 يونيو 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-18-superconductor-leap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-superconductor-leap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "طبقة أرقّ من جزء من مليون من شعرة",
+      "arabicBody": "سماكة الطبقة بضعة نانومترات، أي أقل من جزء من مليون من سُمك شعرة الإنسان، والمفتاح هندسة القاعدة بدل ملاحقة مواد جديدة، وفق بايو إنجينير.",
+      "bigStat": {
+        "value": "بضعة نانومترات",
+        "label": "Thickness of the superconducting film",
+        "arabicLabel": "سماكة الطبقة فائقة التوصيل"
+      },
+      "supportingStats": [
+        {
+          "label": "المادة",
+          "value": "YBCO"
+        },
+        {
+          "label": "القاعدة",
+          "value": "أكسيد المغنيسيوم"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bioengineer"
+        }
+      ],
+      "broll": "images/news/2026-06-18-superconductor-leap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-superconductor-leap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "إلكترونيات أوفر طاقة وحوسبة كمومية مقبلة",
+      "arabicBody": "يَعِد النهج بإلكترونيات أوفر للطاقة وتقنيات كمومية، فيما تلتهم تقنيات المعلومات 6 إلى 12% من كهرباء العالم، بقيادة فلوريانا لومباردي، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "6–12%",
+        "label": "Share of global electricity used by ICT",
+        "arabicLabel": "حصة تقنيات المعلومات من كهرباء العالم"
+      },
+      "supportingStats": [
+        {
+          "label": "الباحثة",
+          "value": "فلوريانا لومباردي"
+        },
+        {
+          "label": "التطبيق",
+          "value": "حوسبة كمومية"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-18-superconductor-leap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-superconductor-leap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Chalmers University of Technology",
+      "domain": "chalmers.se"
+    },
+    {
+      "name": "Bioengineer",
+      "domain": "bioengineer.org"
+    },
+    {
+      "name": "EurekAlert",
+      "domain": "eurekalert.org"
+    },
+    {
+      "name": "Nature Communications",
+      "domain": "nature.com"
+    }
+  ],
+  "arabicTicker": [
+    "فريق جامعة تشالمرز السويدية يطلق التوصيل الفائق بنحت القاعدة الحاملة، وفق ساينس ديلي",
+    "الطبقة فائقة التوصيل تصمد عند حرارة أعلى ومجالات مغناطيسية أقوى، وفق ساينس ديلي",
+    "سماكتها بضعة نانومترات فقط، أقل من جزء من مليون من سُمك شعرة الإنسان",
+    "السر هندسة القاعدة YBCO على أكسيد المغنيسيوم بدل ملاحقة مواد جديدة",
+    "الدراسة نُشرت في Nature Communications يوم 17 يونيو 2026",
+    "تقنيات المعلومات تلتهم 6 إلى 12% من كهرباء العالم اليوم",
+    "هل تقرّبنا هندسة السطح من توصيل فائق بحرارة الغرفة؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "التجدّد لم يُفقد لدى الثدييات بل عُطِّل",
+    "englishSubhead": "MAMMAL REGENERATION MAY BE SWITCHED OFF, NOT LOST",
+    "heroMedia": "images/news/2026-06-18-mammal-regeneration/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مفتاح جيني مُعطّل وراء غياب التجدّد",
+      "arabicBody": "كشفت دراستان في مجلة ساينس أن قدرة الثدييات على بناء أنسجة معقّدة مُعطّلة لا مفقودة، بقيادة فريق من جامعة تكساس إيه آند إم، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "2 دراستان",
+        "label": "New studies published in the journal Science",
+        "arabicLabel": "دراستان جديدتان في مجلة ساينس"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "تكساس إيه آند إم"
+        },
+        {
+          "label": "النشر",
+          "value": "مجلة Science"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-18-mammal-regeneration/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-mammal-regeneration/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الأكسجين وفيتامين A يتحكّمان بالتجدّد",
+      "arabicBody": "وجد الباحثون أن استشعار الأكسجين وجين Aldh1a2 المنتج لحمض الريتينويك يكبحان التجدّد لدى الثدييات بينما تحتفظ به البرمائيات، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "Aldh1a2",
+        "label": "Gene mammals fail to fully activate after injury",
+        "arabicLabel": "الجين الذي تعجز الثدييات عن تفعيله"
+      },
+      "supportingStats": [
+        {
+          "label": "المُحفّز",
+          "value": "حمض الريتينويك"
+        },
+        {
+          "label": "المقارنة",
+          "value": "البرمائيات"
+        },
+        {
+          "label": "المصدر",
+          "value": "Science"
+        }
+      ],
+      "broll": "images/news/2026-06-18-mammal-regeneration/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-mammal-regeneration/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "فئران تُعيد بناء أنسجة ثقوب أذنها",
+      "arabicBody": "بعد إعادة تفعيل المفتاح أو حقن حمض الريتينويك، أعادت الفئران بناء أنسجة ثقوب أذنها، وفق ساينس أليرت. النتائج على الفئران فقط وتبقى بحاجة لتجارب بشرية.",
+      "bigStat": {
+        "value": "أنسجة جديدة",
+        "label": "Tissue regrown in mice ear holes",
+        "arabicLabel": "أنسجة أعادت الفئران بناءها"
+      },
+      "supportingStats": [
+        {
+          "label": "التطبيق",
+          "value": "التئام الجروح"
+        },
+        {
+          "label": "المرحلة",
+          "value": "تجارب على الفئران"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceAlert"
+        }
+      ],
+      "broll": "images/news/2026-06-18-mammal-regeneration/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-mammal-regeneration/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Science (AAAS)",
+      "domain": "science.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Texas A&M University",
+      "domain": "tamu.edu"
+    },
+    {
+      "name": "ScienceAlert",
+      "domain": "sciencealert.com"
+    },
+    {
+      "name": "Nature",
+      "domain": "nature.com"
+    }
+  ],
+  "arabicTicker": [
+    "دراستان في مجلة ساينس: التجدّد لدى الثدييات مُعطّل لا مفقود، وفق ساينس ديلي",
+    "فريق من جامعة تكساس إيه آند إم يكشف آليتين تتحكّمان بالتجدّد",
+    "استشعار الأكسجين يكبح تجدّد الأطراف لدى الثدييات بعكس البرمائيات",
+    "جين Aldh1a2 المنتج لحمض الريتينويك لا يُفعّل بالكامل بعد الإصابة",
+    "فئران أعادت بناء أنسجة ثقوب أذنها بعد إعادة تفعيل المفتاح، وفق ساينس أليرت",
+    "النتائج على الفئران فقط ولا تزال بحاجة إلى تجارب بشرية",
+    "هل يتعلّم الإنسان يوماً إعادة بناء أنسجته؟"
+  ]
+}

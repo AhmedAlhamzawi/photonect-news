@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "السعودية تشغّل أكبر مستشفى افتراضي في العالم",
+    "englishSubhead": "SAUDI SEHA VIRTUAL HOSPITAL, WORLD'S LARGEST, EXPANDS",
+    "heroMedia": "images/news/2026-06-18-saudi-seha-hospital/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "منصّة واحدة تربط 242 مستشفى",
+      "arabicBody": "مستشفى صحة الافتراضي، الأكبر عالمياً، يربط 242 مستشفى عبر منصّة طب عن بُعد واحدة، ضمن برنامج تحوّل القطاع الصحي، وفق رؤية 2030.",
+      "bigStat": {
+        "value": "242 مستشفى",
+        "label": "Hospitals linked to Seha Virtual Hospital",
+        "arabicLabel": "عدد المستشفيات المرتبطة بالمنصّة"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "الأكبر عالمياً"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "2022"
+        },
+        {
+          "label": "المصدر",
+          "value": "رؤية 2030"
+        }
+      ],
+      "broll": "images/news/2026-06-18-saudi-seha-hospital/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-saudi-seha-hospital/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "16 مليون موعد في سنة واحدة",
+      "arabicBody": "قدّم المستشفى أكثر من 16 مليون موعد واستشارة افتراضية في 2025، بنموّ 56% عن العام السابق، وتغطية بلغت 97.4% من المملكة، وفق وزارة الصحة.",
+      "bigStat": {
+        "value": "16 مليون+",
+        "label": "Virtual appointments delivered in 2025",
+        "arabicLabel": "المواعيد الافتراضية خلال 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "النموّ",
+          "value": "56%"
+        },
+        {
+          "label": "التغطية",
+          "value": "97.4%"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة الصحة"
+        }
+      ],
+      "broll": "images/news/2026-06-18-saudi-seha-hospital/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-saudi-seha-hospital/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الآن تريد تصدير النموذج للعالم",
+      "arabicBody": "القطاع الصحي يسهم بنحو 5% من الناتج المحلي، والمملكة تتجه لتصدير نموذجها في الصحة الرقمية والذكاء الاصطناعي الطبي، وفق وزير الصحة الجلاجل.",
+      "bigStat": {
+        "value": "~5%",
+        "label": "Healthcare's contribution to Saudi GDP",
+        "arabicLabel": "إسهام القطاع الصحي في الناتج المحلي"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتجاه",
+          "value": "تصدير النموذج"
+        },
+        {
+          "label": "الخدمات",
+          "value": "30+ تخصصاً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arab News"
+        }
+      ],
+      "broll": "images/news/2026-06-18-saudi-seha-hospital/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-saudi-seha-hospital/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Saudi MOH",
+      "domain": "moh.gov.sa"
+    },
+    {
+      "name": "Saudi Vision 2030",
+      "domain": "vision2030.gov.sa"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Fast Company Middle East",
+      "domain": "fastcompanyme.com"
+    },
+    {
+      "name": "ITIJ",
+      "domain": "itij.com"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تشغّل أكبر مستشفى افتراضي في العالم، يربط 242 مستشفى، وفق رؤية 2030",
+    "أكثر من 16 مليون موعد واستشارة افتراضية في 2025، بنموّ 56%، وفق وزارة الصحة",
+    "التغطية الخدمية بلغت 97.4% من المملكة، وفق وزارة الصحة",
+    "القطاع الصحي يسهم بنحو 5% من الناتج المحلي السعودي، وفق وزير الصحة",
+    "المنصّة تقدّم أكثر من 30 تخصصاً طبياً ضمن برنامج تحوّل القطاع الصحي",
+    "المملكة تتجه لتصدير نموذجها في الصحة الرقمية والذكاء الاصطناعي الطبي",
+    "هل يصبح الطب عن بُعد مستقبل الرعاية الصحية في المنطقة؟"
+  ]
+}

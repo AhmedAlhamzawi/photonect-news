@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فضاء",
+    "arabicHeadline": "ويب يضبط كوكباً يشويه نجمه كل اقتراب",
+    "englishSubhead": "WEBB CATCHES AN EXOPLANET ROASTED BY ITS STAR",
+    "heroMedia": "images/news/2026-06-18-jwst-exoplanet-roasted/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ويب يلتقط عملاقاً يشوى كل دورة",
+      "arabicBody": "رصد تلسكوب جيمس ويب الكوكب HD 80606 b، وكتلته 4 أضعاف المشتري، في مدار شديد الاستطالة حول نجم شبيه بالشمس يشويه كل اقتراب، وفق ناسا.",
+      "bigStat": {
+        "value": "×4 المشتري",
+        "label": "Mass of exoplanet HD 80606 b vs Jupiter",
+        "arabicLabel": "كتلة الكوكب مقارنةً بالمشتري"
+      },
+      "supportingStats": [
+        {
+          "label": "الكوكب",
+          "value": "HD 80606 b"
+        },
+        {
+          "label": "النجم",
+          "value": "شبيه بالشمس"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-06-18-jwst-exoplanet-roasted/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-jwst-exoplanet-roasted/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كل 111 يوماً قفزة 1100 درجة",
+      "arabicBody": "كل 111 يوماً يقترب الكوكب من نجمه فتقفز حرارته نحو 1100 درجة فهرنهايت، ما يجعله مختبراً طبيعياً لقراءة غلاف جوي يغلي ويبرد، وفق ناسا.",
+      "bigStat": {
+        "value": "+1100°F",
+        "label": "Temperature surge at closest approach",
+        "arabicLabel": "ارتفاع الحرارة عند أقرب نقطة"
+      },
+      "supportingStats": [
+        {
+          "label": "مدّة المدار",
+          "value": "111 يوماً"
+        },
+        {
+          "label": "الأداة",
+          "value": "MIRI"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-06-18-jwst-exoplanet-roasted/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-jwst-exoplanet-roasted/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ويب يقرأ بصمات الميثان وثاني الأكسيد",
+      "arabicBody": "حلّل فريق مختبر الدفع النفّاث بقيادة تيفاني كاتاريا الطيف، فظهرت بصمتا الميثان وثاني أكسيد الكربون، لتفتح نافذة على كيمياء العوالم الحارّة، وفق ناسا.",
+      "bigStat": {
+        "value": "CH₄ + CO₂",
+        "label": "Chemical signatures Webb detected",
+        "arabicLabel": "البصمات الكيميائية التي رصدها ويب"
+      },
+      "supportingStats": [
+        {
+          "label": "المختبر",
+          "value": "JPL/NASA"
+        },
+        {
+          "label": "القياس",
+          "value": "الطيف الحراري"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-06-18-jwst-exoplanet-roasted/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-jwst-exoplanet-roasted/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "science.nasa.gov"
+    },
+    {
+      "name": "NASA JPL",
+      "domain": "jpl.nasa.gov"
+    },
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    },
+    {
+      "name": "Johns Hopkins APL",
+      "domain": "jhuapl.edu"
+    }
+  ],
+  "arabicTicker": [
+    "تلسكوب ويب يضبط الكوكب HD 80606 b وكتلته 4 أضعاف المشتري وهو يشويه نجمه، وفق ناسا",
+    "الكوكب يندفع في مدار شديد الاستطالة مدّته 111 يوماً حول نجم شبيه بالشمس، وفق ناسا",
+    "عند الاقتراب تقفز حرارة الكوكب نحو 1100 درجة فهرنهايت في ساعات معدودة، وفق ناسا",
+    "أداة MIRI التقطت بصمتي الميثان وثاني أكسيد الكربون في غلافه الجوي الحارّ، وفق ناسا",
+    "فريق مختبر الدفع النفّاث بقيادة تيفاني كاتاريا قاد قراءة الطيف الحراري، وفق ناسا",
+    "ماذا تخبئ العوالم الحارّة البعيدة عنا، وهل يكشف ويب أسرارها قريباً؟"
+  ]
+}

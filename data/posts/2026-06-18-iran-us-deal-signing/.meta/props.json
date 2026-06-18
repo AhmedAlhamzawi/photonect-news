@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 18 • 2026",
+  "arabicDateLabel": "18 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "واشنطن وطهران تعتزمان توقيع اتفاق الجمعة في سويسرا",
+    "englishSubhead": "US AND IRAN TO SIGN INTERIM DEAL FRIDAY IN SWITZERLAND",
+    "heroMedia": "images/news/2026-06-18-iran-us-deal-signing/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "توقيع مذكرة تفاهم الجمعة في سويسرا",
+      "arabicBody": "تعتزم الولايات المتحدة وإيران توقيع مذكرة تفاهم مرحلية الجمعة في سويسرا تفتح الطريق لإنهاء الحرب المندلعة منذ 28 فبراير، وفق بلومبرغ وفرانس 24.",
+      "bigStat": {
+        "value": "الجمعة",
+        "label": "Planned signing of the US-Iran interim memorandum",
+        "arabicLabel": "موعد توقيع المذكرة المرتقب"
+      },
+      "supportingStats": [
+        {
+          "label": "بدء الحرب",
+          "value": "28 فبراير"
+        },
+        {
+          "label": "مكان التوقيع",
+          "value": "سويسرا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bloomberg"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iran-us-deal-signing/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iran-us-deal-signing/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مسار اقتصادي وتجميد للتصعيد",
+      "arabicBody": "يفتح الاتفاق الباب أمام برنامج تنمية اقتصادية بقيمة 300 مليار دولار بعد محادثات السلام، مقابل تعهّد واشنطن بعدم فرض عقوبات جديدة، وفق بلومبرغ.",
+      "bigStat": {
+        "value": "300 مليار $",
+        "label": "Economic development program Iran could access",
+        "arabicLabel": "حجم البرنامج الاقتصادي المتاح"
+      },
+      "supportingStats": [
+        {
+          "label": "عقوبات جديدة",
+          "value": "مُجمّدة"
+        },
+        {
+          "label": "قوات إضافية",
+          "value": "مُجمّدة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bloomberg"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iran-us-deal-signing/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iran-us-deal-signing/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "60 يوماً من المحادثات حول الملف النووي",
+      "arabicBody": "يمنح الاتفاق 60 يوماً من المحادثات لإنهاء الحرب وضبط البرنامج النووي، مع تأكيد طهران عدم سعيها لسلاح نووي وتثبيت وضعه الراهن، وفق فرانس 24.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "Negotiation window to end the war",
+        "arabicLabel": "مهلة المحادثات لإنهاء الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف النووي",
+          "value": "تثبيت الوضع"
+        },
+        {
+          "label": "سلاح نووي",
+          "value": "لا"
+        },
+        {
+          "label": "المصدر",
+          "value": "France 24"
+        }
+      ],
+      "broll": "images/news/2026-06-18-iran-us-deal-signing/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-18-iran-us-deal-signing/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "France 24",
+      "domain": "france24.com"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "domain": "cfr.org"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "واشنطن وطهران تعتزمان توقيع مذكرة تفاهم مرحلية الجمعة في سويسرا، وفق بلومبرغ",
+    "الاتفاق يفتح الطريق لإنهاء الحرب المندلعة منذ 28 فبراير 2026",
+    "برنامج تنمية اقتصادية بقيمة 300 مليار دولار يُتاح لإيران بعد محادثات السلام",
+    "واشنطن تتعهّد بعدم فرض عقوبات جديدة أو نشر قوات إضافية، وفق بلومبرغ",
+    "60 يوماً من المحادثات لإنهاء الحرب وضبط البرنامج النووي، وفق فرانس 24",
+    "طهران تؤكد عدم سعيها لسلاح نووي وتثبيت وضع برنامجها الراهن",
+    "هل يصمد الاتفاق المرحلي حتى سلام دائم؟"
+  ]
+}
