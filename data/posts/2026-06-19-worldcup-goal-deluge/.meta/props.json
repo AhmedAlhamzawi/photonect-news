@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "مونديال 2026 يتجه لتحطيم كل أرقام الأهداف",
+    "englishSubhead": "WORLD CUP 2026 ON PACE FOR A GOALS RECORD",
+    "heroMedia": "images/news/2026-06-19-worldcup-goal-deluge/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "71 هدفاً تنهمر في 23 مباراة",
+      "arabicBody": "مونديال 48 منتخباً يفتح بانفجار تهديفي: نحو 71 هدفاً في 23 مباراة حتى 18 يونيو، بمعدل يفوق 3 أهداف لكل لقاء، وفق ESPN.",
+      "bigStat": {
+        "value": "71 هدفاً",
+        "label": "Goals in the first 23 matches of WC 2026",
+        "arabicLabel": "أهداف في أول 23 مباراة"
+      },
+      "supportingStats": [
+        {
+          "label": "المعدل",
+          "value": "3+ لكل مباراة"
+        },
+        {
+          "label": "المنتخبات",
+          "value": "48"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-19-worldcup-goal-deluge/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-worldcup-goal-deluge/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "رقم قطر 2022 القياسي بات مهدداً",
+      "arabicBody": "النسخة الموسّعة إلى 104 مباريات تزحف نحو رقم قطر 2022 القياسي: 172 هدفاً في بطولة واحدة، وفق فيفا وفوكس سبورتس.",
+      "bigStat": {
+        "value": "172 هدفاً",
+        "label": "Qatar 2022 all-time World Cup goals record",
+        "arabicLabel": "الرقم القياسي في قطر 2022"
+      },
+      "supportingStats": [
+        {
+          "label": "المباريات",
+          "value": "104"
+        },
+        {
+          "label": "النسخة",
+          "value": "الأعلى تهديفاً"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA"
+        }
+      ],
+      "broll": "images/news/2026-06-19-worldcup-goal-deluge/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-worldcup-goal-deluge/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثيات ومفاجآت تشعل دور المجموعات",
+      "arabicBody": "كندا سحقت قطر 6-0 بثلاثية جوناثان ديفيد، والرأس الأخضر كبحت إسبانيا بالتعادل، وميسي بلغ رقم كلوزه التاريخي، وفق ياهو سبورتس.",
+      "bigStat": {
+        "value": "6-0",
+        "label": "Canada's rout of Qatar with a David hat-trick",
+        "arabicLabel": "فوز كندا على قطر بثلاثية ديفيد"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "كندا 6-0 قطر"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "الرأس الأخضر تكبح إسبانيا"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "ميسي يعادل كلوزه"
+        }
+      ],
+      "broll": "images/news/2026-06-19-worldcup-goal-deluge/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-worldcup-goal-deluge/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "FOX Sports",
+      "domain": "foxsports.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "SBS News",
+      "domain": "sbs.com.au"
+    }
+  ],
+  "arabicTicker": [
+    "مونديال 2026 يسجّل نحو 71 هدفاً في أول 23 مباراة بمعدل يفوق 3 لكل لقاء، وفق ESPN",
+    "النسخة الأولى بـ48 منتخباً و104 مباريات تزحف نحو تحطيم رقم الأهداف القياسي",
+    "رقم قطر 2022 القياسي البالغ 172 هدفاً في بطولة واحدة بات في مرمى الخطر، وفق فيفا",
+    "كندا تسحق قطر 6-0 بثلاثية جوناثان ديفيد في أبرز مفاجآت دور المجموعات",
+    "الرأس الأخضر تكبح إسبانيا بالتعادل، وميسي يبلغ رقم كلوزه التاريخي في التهديف",
+    "هل يصبح مونديال 2026 الأعلى تهديفاً في التاريخ؟"
+  ]
+}

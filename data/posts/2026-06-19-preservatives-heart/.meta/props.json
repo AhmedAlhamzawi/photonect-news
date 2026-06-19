@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "دراسة تربط مواد حافظة شائعة بخطر القلب",
+    "englishSubhead": "COMMON FOOD PRESERVATIVES TIED TO HEART RISK",
+    "heroMedia": "images/news/2026-06-19-preservatives-heart/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "دراسة على 112 ألف شخص لثماني سنوات",
+      "arabicBody": "تابعت دراسة فرنسية نحو 112 ألف شخص لقرابة ثماني سنوات وربطت مواد حافظة شائعة بارتفاع ضغط الدم وأمراض القلب، وفق مجلة القلب الأوروبية.",
+      "bigStat": {
+        "value": "112,000",
+        "label": "Adults tracked in the NutriNet-Sante study",
+        "arabicLabel": "بالغ شملتهم دراسة نوتري-نت سانتيه"
+      },
+      "supportingStats": [
+        {
+          "label": "مدة المتابعة",
+          "value": "~8 سنوات"
+        },
+        {
+          "label": "المجلة",
+          "value": "European Heart Journal"
+        },
+        {
+          "label": "المصدر",
+          "value": "INSERM"
+        }
+      ],
+      "broll": "images/news/2026-06-19-preservatives-heart/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-preservatives-heart/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "29% زيادة في خطر ارتفاع الضغط",
+      "arabicBody": "الأكثر استهلاكاً لمواد حافظة غير مضادة للأكسدة واجهوا خطراً أعلى 29% لارتفاع الضغط و16% لأمراض القلب، وفق الجمعية الأوروبية لأمراض القلب.",
+      "bigStat": {
+        "value": "+29%",
+        "label": "Higher hypertension risk at highest intake",
+        "arabicLabel": "زيادة خطر ارتفاع ضغط الدم"
+      },
+      "supportingStats": [
+        {
+          "label": "أمراض القلب",
+          "value": "+16%"
+        },
+        {
+          "label": "مواد محددة",
+          "value": "8"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESC"
+        }
+      ],
+      "broll": "images/news/2026-06-19-preservatives-heart/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-preservatives-heart/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ارتباط لا يثبت السببية بعد",
+      "arabicBody": "يؤكد الباحثون أن النتائج ارتباطية لا تثبت السببية، وتشمل المواد نتريت الصوديوم وسوربات البوتاسيوم، وتدعو لمزيد من الدراسات، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "8 مواد",
+        "label": "Preservatives flagged for further study",
+        "arabicLabel": "مواد حافظة تحت المجهر"
+      },
+      "supportingStats": [
+        {
+          "label": "مادة أولى",
+          "value": "نتريت الصوديوم E250"
+        },
+        {
+          "label": "مادة ثانية",
+          "value": "سوربات البوتاسيوم E202"
+        },
+        {
+          "label": "الخلاصة",
+          "value": "حاجة لدراسات إضافية"
+        }
+      ],
+      "broll": "images/news/2026-06-19-preservatives-heart/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-preservatives-heart/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "European Heart Journal",
+      "domain": "academic.oup.com"
+    },
+    {
+      "name": "European Society of Cardiology",
+      "domain": "escardio.org"
+    },
+    {
+      "name": "INSERM",
+      "domain": "inserm.fr"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    }
+  ],
+  "arabicTicker": [
+    "دراسة فرنسية على نحو 112 ألف شخص تربط مواد حافظة شائعة بأمراض القلب، وفق مجلة القلب الأوروبية",
+    "الأكثر استهلاكاً للمواد غير المضادة للأكسدة: خطر أعلى 29% لارتفاع ضغط الدم",
+    "الخطر يرتفع 16% لأمراض القلب لدى الأكثر استهلاكاً، وفق الجمعية الأوروبية لأمراض القلب",
+    "ثماني مواد حافظة رُصدت بينها نتريت الصوديوم وسوربات البوتاسيوم",
+    "الباحثون: النتائج ارتباطية لا تثبت السببية وتحتاج لمزيد من الدراسات، وفق ساينس ديلي",
+    "هل تعيد هذه الدراسة النظر في سلامة المواد الحافظة الشائعة؟"
+  ]
+}

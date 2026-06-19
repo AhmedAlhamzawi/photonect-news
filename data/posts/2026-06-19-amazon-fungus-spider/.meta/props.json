@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "عنكبوت بالأمازون يتنكّر كفطر طفيلي",
+    "englishSubhead": "NEW AMAZON SPIDER DISGUISES ITSELF AS A FUNGUS",
+    "heroMedia": "images/news/2026-06-19-amazon-fungus-spider/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نوع جديد يقلّد فطراً يفترس العناكب",
+      "arabicBody": "وصف فريق دولي عنكبوتاً جديداً في أمازون الإكوادور يقلّد شكل فطر Gibellula الذي يفترس العناكب، وفق معهد لايبنتس وساينس ديلي.",
+      "bigStat": {
+        "value": "نوع جديد",
+        "label": "First spider known to mimic a parasitic fungus",
+        "arabicLabel": "أول عنكبوت يقلّد فطراً طفيلياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "أمازون الإكوادور"
+        },
+        {
+          "label": "الفطر المُقلَّد",
+          "value": "Gibellula"
+        },
+        {
+          "label": "المصدر",
+          "value": "Leibniz LIB"
+        }
+      ],
+      "broll": "images/news/2026-06-19-amazon-fungus-spider/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-amazon-fungus-spider/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول حالة يُخدع فيها العلماء أنفسهم",
+      "arabicBody": "في رحلة ليلية ظنّه الباحثون فطراً، بفضل زوائد بطنه وسطحه الباهت، في أول توثيق لتنكّر عنكبوت بهيئة فطر، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "أول مرة",
+        "label": "First documented spider-mimics-fungus case",
+        "arabicLabel": "أول توثيق لهذا التنكّر"
+      },
+      "supportingStats": [
+        {
+          "label": "الخداع",
+          "value": "شكل وسلوك"
+        },
+        {
+          "label": "المنطقة",
+          "value": "ممر لانغاناتيس-سانغاي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Phys.org"
+        }
+      ],
+      "broll": "images/news/2026-06-19-amazon-fungus-spider/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-amazon-fungus-spider/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "حيلة بقاء نُشرت في Zootaxa",
+      "arabicBody": "نُشر الاكتشاف في مجلة Zootaxa من أكثر مناطق الأرض تنوعاً حيوياً، ويُرجَّح أن التنكّر يحميه من المفترسات ويسهّل صيده، وفق ساي-تك ديلي.",
+      "bigStat": {
+        "value": "Zootaxa",
+        "label": "Journal that published the discovery",
+        "arabicLabel": "المجلة التي نشرت الدراسة"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تمويه ضد المفترسات"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "اصطياد أسهل للفرائس"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "منطقة شديدة التنوّع"
+        }
+      ],
+      "broll": "images/news/2026-06-19-amazon-fungus-spider/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-amazon-fungus-spider/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Leibniz Institute LIB",
+      "domain": "leibniz-lib.de"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "SciTechDaily",
+      "domain": "scitechdaily.com"
+    },
+    {
+      "name": "CBC",
+      "domain": "cbc.ca"
+    }
+  ],
+  "arabicTicker": [
+    "فريق دولي يصف عنكبوتاً جديداً في أمازون الإكوادور يقلّد فطراً يفترس العناكب، وفق معهد لايبنتس",
+    "العنكبوت Taczanowskia waska يحاكي فطر Gibellula شكلاً وسلوكاً",
+    "ظنّه الباحثون فطراً خلال رحلة ليلية بفضل زوائد بطنه وسطحه الباهت، وفق ساينس ديلي",
+    "أول حالة موثّقة لتنكّر عنكبوت بهيئة فطر طفيلي في العالم",
+    "نُشر الاكتشاف في مجلة Zootaxa من ممر لانغاناتيس-سانغاي شديد التنوّع الحيوي",
+    "هل يكشف الأمازون عن مزيد من حيل التمويه المدهشة؟"
+  ]
+}

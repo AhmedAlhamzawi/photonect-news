@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "العراق نحو 2026 بلا موازنة اتحادية",
+    "englishSubhead": "IRAQ HEADS INTO 2026 WITH NO FEDERAL BUDGET",
+    "heroMedia": "images/news/2026-06-19-iraq-budget-bypass/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اللجنة المالية تستبعد إقرار موازنة 2026",
+      "arabicBody": "اللجنة المالية النيابية تستبعد إقرار موازنة اتحادية لعام 2026، والتركيز ينتقل إلى موازنة 2027، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "بلا موازنة",
+        "label": "Iraq enters 2026 without a federal budget",
+        "arabicLabel": "العراق بلا موازنة اتحادية لعام 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "السنة المستهدفة",
+          "value": "2027"
+        },
+        {
+          "label": "الرواتب",
+          "value": "عبر الاقتراض"
+        },
+        {
+          "label": "المصدر",
+          "value": "Shafaq"
+        }
+      ],
+      "broll": "images/news/2026-06-19-iraq-budget-bypass/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-iraq-budget-bypass/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أزمة سيولة تدفع لطبع 25 تريليون دينار",
+      "arabicBody": "لمواجهة شح السيولة طبعت الدولة نحو 25 تريليون دينار، وتعتمد على الاقتراض والبنك المركزي لتأمين الرواتب، وفق العراق بزنس نيوز.",
+      "bigStat": {
+        "value": "25 تريليون",
+        "label": "Iraqi dinars printed to ease the cash crunch",
+        "arabicLabel": "دينار طُبعت لمواجهة شح السيولة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاعتماد",
+          "value": "الاقتراض"
+        },
+        {
+          "label": "الداعم",
+          "value": "البنك المركزي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Iraqi News"
+        }
+      ],
+      "broll": "images/news/2026-06-19-iraq-budget-bypass/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-iraq-budget-bypass/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الرهان على إيرادات غير نفطية",
+      "arabicBody": "تراهن بغداد على إيرادات غير نفطية عبر تطبيق قانون التعرفة الجمركية ونظام أسيكودا الجمركي الآلي على مستوى البلاد، وفق ذا نيو ريجن.",
+      "bigStat": {
+        "value": "غير نفطية",
+        "label": "Baghdad bets on non-oil revenue streams",
+        "arabicLabel": "رهان بغداد على الإيرادات غير النفطية"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "تفعيل التعرفة الجمركية"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "تعميم نظام أسيكودا"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "استمرار الاقتراض"
+        }
+      ],
+      "broll": "images/news/2026-06-19-iraq-budget-bypass/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-iraq-budget-bypass/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Iraq Business News",
+      "domain": "iraq-businessnews.com"
+    },
+    {
+      "name": "The New Region",
+      "domain": "thenewregion.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    }
+  ],
+  "arabicTicker": [
+    "اللجنة المالية النيابية: إقرار موازنة اتحادية لعام 2026 بات شبه مستحيل، وفق شفق نيوز",
+    "التركيز ينتقل إلى موازنة 2027 مع تأمين الرواتب عبر الاقتراض والبنك المركزي",
+    "الدولة لجأت لطبع نحو 25 تريليون دينار لمواجهة شح السيولة، وفق العراق بزنس نيوز",
+    "بغداد تراهن على إيرادات غير نفطية عبر قانون التعرفة الجمركية ونظام أسيكودا",
+    "العجز يتسع وتجميد للمشاريع مع دخول 2026 بلا موازنة رسمية، وفق ذا نيو ريجن",
+    "هل تنجح الإيرادات غير النفطية في سدّ فجوة موازنة العراق؟"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "سياحة",
+    "arabicHeadline": "السعودية تقترب من هدف السياحة 2030",
+    "englishSubhead": "SAUDI TOURISM NEARS ITS VISION 2030 TARGET",
+    "heroMedia": "images/news/2026-06-19-saudi-tourism-2030/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "122 مليون زائر في 2025",
+      "arabicBody": "استقبلت السعودية نحو 122 مليون زائر في 2025 بنمو 5% سنوياً، بينهم 29.7 مليون زائر دولي، وفق وزارة السياحة وعرب نيوز.",
+      "bigStat": {
+        "value": "122 مليون",
+        "label": "Visitors to Saudi Arabia in 2025",
+        "arabicLabel": "زائر للسعودية في 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "الزوار الدوليون",
+          "value": "29.7 مليون"
+        },
+        {
+          "label": "النمو السنوي",
+          "value": "5%"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arab News"
+        }
+      ],
+      "broll": "images/news/2026-06-19-saudi-tourism-2030/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-saudi-tourism-2030/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إنفاق سياحي بـ300 مليار ريال",
+      "arabicBody": "بلغ الإنفاق السياحي نحو 300 مليار ريال (81 مليار دولار) بارتفاع 6% عن 2024، ليتحول القطاع لركيزة تنويع للاقتصاد، وفق وزارة السياحة.",
+      "bigStat": {
+        "value": "300 مليار ريال",
+        "label": "Tourism spending in Saudi Arabia in 2025",
+        "arabicLabel": "إنفاق سياحي في 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدولار",
+          "value": "81 مليار"
+        },
+        {
+          "label": "النمو",
+          "value": "6%"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة السياحة"
+        }
+      ],
+      "broll": "images/news/2026-06-19-saudi-tourism-2030/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-saudi-tourism-2030/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هدف جديد: 150 مليون زائر 2030",
+      "arabicBody": "بعد تجاوز هدف الـ100 مليون قبل ست سنوات، رفعت المملكة سقفها إلى 150 مليون زائر سنوياً بحلول 2030، مدفوعة بنيوم والعلا والبحر الأحمر، وفق رؤية 2030.",
+      "bigStat": {
+        "value": "150 مليون",
+        "label": "Saudi 2030 annual visitor target",
+        "arabicLabel": "هدف الزوار السنوي بحلول 2030"
+      },
+      "supportingStats": [
+        {
+          "label": "زوار دوليون",
+          "value": "70 مليون زائر دولي"
+        },
+        {
+          "label": "زوار محليون",
+          "value": "80 مليون زائر محلي"
+        },
+        {
+          "label": "المحركات",
+          "value": "نيوم والعلا والبحر الأحمر"
+        }
+      ],
+      "broll": "images/news/2026-06-19-saudi-tourism-2030/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-saudi-tourism-2030/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Saudi Ministry of Tourism",
+      "domain": "mt.gov.sa"
+    },
+    {
+      "name": "Vision 2030",
+      "domain": "vision2030.gov.sa"
+    },
+    {
+      "name": "Hotelier Middle East",
+      "domain": "hoteliermiddleeast.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تستقبل نحو 122 مليون زائر في 2025 بنمو 5% سنوياً، وفق عرب نيوز",
+    "الزوار الدوليون نحو 29.7 مليون بارتفاع 8% خلال 2025، وفق وزارة السياحة",
+    "الإنفاق السياحي يبلغ نحو 300 مليار ريال (81 مليار دولار) بنمو 6%",
+    "المملكة تجاوزت هدف الـ100 مليون زائر قبل ست سنوات من موعده",
+    "هدف جديد: 150 مليون زائر سنوياً بحلول 2030 (70 دولي و80 محلي)، وفق رؤية 2030",
+    "هل تصبح السياحة الركيزة الأبرز لتنويع اقتصاد السعودية بعيداً عن النفط؟"
+  ]
+}

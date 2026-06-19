@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 19 • 2026",
+  "arabicDateLabel": "19 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تقنية",
+    "arabicHeadline": "ستارغيت الإمارات يبدأ التشغيل بـ200 ميغاواط",
+    "englishSubhead": "STARGATE UAE AI DATACENTER GOES LIVE IN 2026",
+    "heroMedia": "images/news/2026-06-19-stargate-uae-ai/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "200 ميغاواط تدخل الخدمة في 2026",
+      "arabicBody": "تبدأ المرحلة الأولى بقدرة 200 ميغاواط في 2026، وتشغّل نحو 100 ألف شريحة إنفيديا من طراز GB300، وفق رويترز وإنفيديا.",
+      "bigStat": {
+        "value": "200 ميغاواط",
+        "label": "First-phase capacity of Stargate UAE in 2026",
+        "arabicLabel": "قدرة المرحلة الأولى في 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرائح",
+          "value": "~100 ألف"
+        },
+        {
+          "label": "الطراز",
+          "value": "Nvidia GB300"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-19-stargate-uae-ai/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-19-stargate-uae-ai/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أبوظبي تبني موقعاً بـ5 غيغاواط",
+      "arabicBody": "يمتد المجمع على نحو 26 كيلومتراً مربعاً، ويصل لاحقاً إلى 5 غيغاواط، تبنيه شركة G42 الإماراتية مع شركاء أميركيين، وفق إنفيديا.",
+      "bigStat": {
+        "value": "5 غيغاواط",
+        "label": "Eventual capacity of the Abu Dhabi AI site",
+        "arabicLabel": "السعة النهائية لموقع أبوظبي"
+      },
+      "supportingStats": [
+        {
+          "label": "المساحة",
+          "value": "~26 كم²"
+        },
+        {
+          "label": "المشغّل",
+          "value": "G42"
+        },
+        {
+          "label": "المصدر",
+          "value": "Nvidia"
+        }
+      ],
+      "broll": "images/news/2026-06-19-stargate-uae-ai/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-19-stargate-uae-ai/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تحالف من 6 شركات يبني المشروع",
+      "arabicBody": "يضم التحالف OpenAI وأوراكل وإنفيديا وسيسكو وسوفت بنك، ويضع الإمارات مركزاً عالمياً للذكاء الاصطناعي، وفق داتا سنتر دايناميكس.",
+      "bigStat": {
+        "value": "6 شركاء",
+        "label": "Global firms building Stargate UAE",
+        "arabicLabel": "شركات عالمية تبني المشروع"
+      },
+      "supportingStats": [
+        {
+          "label": "السيناريو الأول",
+          "value": "OpenAI وأوراكل"
+        },
+        {
+          "label": "السيناريو الثاني",
+          "value": "إنفيديا وسيسكو"
+        },
+        {
+          "label": "السيناريو الثالث",
+          "value": "سوفت بنك الياباني"
+        }
+      ],
+      "broll": "images/news/2026-06-19-stargate-uae-ai/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-19-stargate-uae-ai/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Nvidia",
+      "domain": "nvidianews.nvidia.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Data Center Dynamics",
+      "domain": "datacenterdynamics.com"
+    },
+    {
+      "name": "Yahoo Finance",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "name": "SemiAnalysis",
+      "domain": "semianalysis.com"
+    }
+  ],
+  "arabicTicker": [
+    "ستارغيت الإمارات يبدأ تشغيل مرحلته الأولى بقدرة 200 ميغاواط في 2026، وفق رويترز",
+    "المرحلة الأولى تشغّل نحو 100 ألف شريحة إنفيديا من طراز GB300، وفق إنفيديا",
+    "المجمع يمتد على نحو 26 كيلومتراً مربعاً في أبوظبي ويصل لاحقاً إلى 5 غيغاواط",
+    "شركة G42 الإماراتية تقود البناء مع شركاء أميركيين، وفق إنفيديا",
+    "التحالف يضم OpenAI وأوراكل وإنفيديا وسيسكو وسوفت بنك، وفق داتا سنتر دايناميكس",
+    "هل تتحول الإمارات إلى مركز عالمي للذكاء الاصطناعي؟"
+  ]
+}
