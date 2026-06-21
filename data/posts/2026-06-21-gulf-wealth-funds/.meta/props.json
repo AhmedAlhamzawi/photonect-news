@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد",
+    "arabicHeadline": "صناديق الخليج تضخ 26 مليار دولار بثلاثة أشهر",
+    "englishSubhead": "GULF FUNDS DEPLOY $26BN IN THREE MONTHS",
+    "heroMedia": "images/news/2026-06-21-gulf-wealth-funds/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خمسة صناديق خليجية تسرّع الضخّ",
+      "arabicBody": "ضخّت أكبر خمسة صناديق سيادية خليجية نحو 26 مليار دولار في آذار ونيسان وأيار 2026، معظمها بأسواق متقدمة، وفق فورتشن.",
+      "bigStat": {
+        "value": "$26 مليار",
+        "label": "deployed across March-May 2026",
+        "arabicLabel": "استثمارات في ثلاثة أشهر"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد الصناديق",
+          "value": "5"
+        },
+        {
+          "label": "الوجهة",
+          "value": "أسواق متقدمة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Fortune"
+        }
+      ],
+      "broll": "images/news/2026-06-21-gulf-wealth-funds/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-gulf-wealth-funds/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "رأس المال الخليجي يتمدد رغم الحرب",
+      "arabicBody": "توقّعت عواصم غربية تراجع الاستثمار الخليجي بفعل صراع إيران، فحدث العكس، ما رفع التحدي أمام تنويع العراق المتعثر، وفق فورتشن وصندوق النقد.",
+      "bigStat": {
+        "value": "تسارع",
+        "label": "outflows accelerated against expectations",
+        "arabicLabel": "تدفقات أسرع من ما قبل الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقع الغربي",
+          "value": "تراجع"
+        },
+        {
+          "label": "النتيجة الفعلية",
+          "value": "تسارع"
+        },
+        {
+          "label": "المصدر",
+          "value": "IMF"
+        }
+      ],
+      "broll": "images/news/2026-06-21-gulf-wealth-funds/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-gulf-wealth-funds/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "نمو عربي 3.7% والإمارات في الصدارة",
+      "arabicBody": "يتوقع صندوق النقد نمو الاقتصادات العربية 3.7% في 2026، بقيادة الإمارات 5% والسعودية 4%، وقطاعها غير النفطي يبلغ 80% من الناتج، وفق صندوق النقد الدولي.",
+      "bigStat": {
+        "value": "80%",
+        "label": "UAE non-oil share of GDP",
+        "arabicLabel": "حصة الإمارات غير النفطية من الناتج"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو العرب 2026",
+          "value": "3.7%"
+        },
+        {
+          "label": "الإمارات/السعودية",
+          "value": "5% / 4%"
+        },
+        {
+          "label": "المصدر",
+          "value": "IMF"
+        }
+      ],
+      "broll": "images/news/2026-06-21-gulf-wealth-funds/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-gulf-wealth-funds/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fortune",
+      "domain": "fortune.com"
+    },
+    {
+      "name": "Global Finance",
+      "domain": "gfmag.com"
+    },
+    {
+      "name": "Economy Middle East",
+      "domain": "economymiddleeast.com"
+    },
+    {
+      "name": "Asia House",
+      "domain": "asiahouse.org"
+    },
+    {
+      "name": "IMF",
+      "domain": "imf.org"
+    }
+  ],
+  "arabicTicker": [
+    "أكبر خمسة صناديق سيادية خليجية تضخ نحو 26 مليار دولار في ثلاثة أشهر، وفق فورتشن",
+    "معظم الاستثمارات توجهت إلى أسواق متقدمة بوتيرة أسرع من ما قبل الحرب، وفق فورتشن",
+    "توقعت عواصم غربية تراجع الاستثمار الخليجي بفعل صراع إيران، فحدث العكس",
+    "صندوق النقد يتوقع نمو الاقتصادات العربية 3.7% في 2026، بقيادة الإمارات 5% والسعودية 4%",
+    "القطاع غير النفطي في الإمارات يبلغ 80% من الناتج المحلي، وفق صندوق النقد الدولي",
+    "هل يلحق تنويع العراق المتعثر بركب رأس المال الخليجي؟"
+  ]
+}

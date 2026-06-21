@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "أول حبة لإنقاص الوزن تنال الموافقة",
+    "englishSubhead": "FIRST ORAL WEIGHT-LOSS PILL WINS APPROVAL",
+    "heroMedia": "images/news/2026-06-21-glp1-oral-pill/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "موافقة أمريكية على سيماغلوتيد الفموي",
+      "arabicBody": "وافقت إدارة الغذاء والدواء الأمريكية على سيماغلوتيد الفموي، أول حبة GLP-1 لإنقاص وزن البالغين، تقلل أيضاً مخاطر القلب، وتُطرح في 2026، وفق دروغز.كوم وإيه جيه إم سي.",
+      "bigStat": {
+        "value": "الأولى",
+        "label": "first oral GLP-1 for weight loss",
+        "arabicLabel": "أول حبة فموية من فئة GLP-1"
+      },
+      "supportingStats": [
+        {
+          "label": "الفئة",
+          "value": "GLP-1"
+        },
+        {
+          "label": "ميزة إضافية",
+          "value": "حماية القلب"
+        },
+        {
+          "label": "المصدر",
+          "value": "Drugs.com"
+        }
+      ],
+      "broll": "images/news/2026-06-21-glp1-oral-pill/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-glp1-oral-pill/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حبة بلا إبرة لإقليم تثقله السمنة",
+      "arabicBody": "تزيل الحبة حاجز الإبرة حيث تتجاوز سمنة البالغين 35% خليجياً، وأظهرت التجارب خسارة وزن 16.6% مقابل 2.7% للدواء الوهمي عند 64 أسبوعاً، وفق إيه جيه إم سي.",
+      "bigStat": {
+        "value": "16.6%",
+        "label": "mean weight loss at 64 weeks",
+        "arabicLabel": "متوسط خسارة الوزن عند 64 أسبوعاً"
+      },
+      "supportingStats": [
+        {
+          "label": "الدواء الوهمي",
+          "value": "2.7%"
+        },
+        {
+          "label": "سمنة الخليج",
+          "value": "فوق 35%"
+        },
+        {
+          "label": "المصدر",
+          "value": "AJMC"
+        }
+      ],
+      "broll": "images/news/2026-06-21-glp1-oral-pill/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-glp1-oral-pill/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "سباق أدوية وأسعار يلوح",
+      "arabicBody": "تتوسع الفئة مع وصول 4 أدوية GLP-1 جديدة في 2026، منها ألينيغليبرون بخسارة تصل 16.3% عند 44 أسبوعاً، ما يرجّح منافسة سعرية، وفق إيه جيه إم سي.",
+      "bigStat": {
+        "value": "4 أدوية",
+        "label": "new GLP-1 agents in 2026",
+        "arabicLabel": "أدوية GLP-1 جديدة في 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "ألينيغليبرون",
+          "value": "16.3%"
+        },
+        {
+          "label": "المتوقع",
+          "value": "حرب أسعار"
+        },
+        {
+          "label": "المصدر",
+          "value": "AJMC"
+        }
+      ],
+      "broll": "images/news/2026-06-21-glp1-oral-pill/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-glp1-oral-pill/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Drugs.com",
+      "domain": "drugs.com"
+    },
+    {
+      "name": "AJMC",
+      "domain": "ajmc.com"
+    },
+    {
+      "name": "Applied Clinical Trials",
+      "domain": "appliedclinicaltrialsonline.com"
+    },
+    {
+      "name": "Novo Nordisk",
+      "domain": "novonordisk.com"
+    },
+    {
+      "name": "Structure Therapeutics",
+      "domain": "structuretx.com"
+    }
+  ],
+  "arabicTicker": [
+    "إدارة الغذاء والدواء الأمريكية توافق على سيماغلوتيد الفموي، أول حبة GLP-1 لإنقاص الوزن، وفق دروغز.كوم",
+    "الحبة تقلل أيضاً مخاطر القلب وتُطرح في الولايات المتحدة خلال 2026",
+    "التجارب أظهرت خسارة وزن 16.6% مقابل 2.7% للدواء الوهمي عند 64 أسبوعاً، وفق إيه جيه إم سي",
+    "سمنة البالغين تتجاوز 35% في دول الخليج ما يجعل الحبة الفموية بالغة الأثر إقليمياً",
+    "أربعة أدوية GLP-1 جديدة تصل في 2026 منها ألينيغليبرون بخسارة تصل 16.3%، ما ينذر بحرب أسعار",
+    "هل تنهي الحبة الفموية عصر حقن إنقاص الوزن؟"
+  ]
+}

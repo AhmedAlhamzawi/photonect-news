@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "غولف",
+    "arabicHeadline": "كلارك يتصدر أمريكا المفتوحة بفارق 6 ضربات",
+    "englishSubhead": "CLARK +6 | FINAL ROUND TODAY",
+    "heroMedia": "images/news/2026-06-21-us-open-golf/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كلارك يتصدر بفارق ست ضربات",
+      "arabicBody": "بطل 2023 ويندام كلارك يتصدر أمريكا المفتوحة بفارق 6 ضربات، ويلاحقه شيفلر وثلاثة لاعبين عند -1، وفق غولف تشانل وسي بي إس سبورتس.",
+      "bigStat": {
+        "value": "6 ضربات",
+        "label": "Clark's 54-hole lead",
+        "arabicLabel": "فارق تصدّر كلارك بعد 54 حفرة"
+      },
+      "supportingStats": [
+        {
+          "label": "البطولة",
+          "value": "الـ126"
+        },
+        {
+          "label": "المطاردون",
+          "value": "عند -1"
+        },
+        {
+          "label": "المصدر",
+          "value": "Golf Channel"
+        }
+      ],
+      "broll": "images/news/2026-06-21-us-open-golf/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-us-open-golf/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شيفلر يطارد الغراند سلام في عيده",
+      "arabicBody": "عودة سكوتي شيفلر تعني إكمال الغراند سلام في عيد ميلاده الثلاثين، فيما تجعل رياح شينيكوك هيلز فارق الست ضربات أقل أماناً، وفق سكاي سبورتس.",
+      "bigStat": {
+        "value": "غراند سلام",
+        "label": "Scheffler's career Grand Slam bid",
+        "arabicLabel": "شيفلر يسعى لإكمال الغراند سلام"
+      },
+      "supportingStats": [
+        {
+          "label": "عيد ميلاده",
+          "value": "30"
+        },
+        {
+          "label": "الملعب",
+          "value": "شينيكوك هيلز"
+        },
+        {
+          "label": "المصدر",
+          "value": "Sky Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-21-us-open-golf/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-us-open-golf/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الجولة الحاسمة اليوم في نيويورك",
+      "arabicBody": "كلارك وشيفلر يلعبان معاً في الجولة الأخيرة اليوم على شينيكوك هيلز، ليُحسم لقب ثالث بطولات الرجال الكبرى 2026، وفق غولف دايجست.",
+      "bigStat": {
+        "value": "اليوم",
+        "label": "the final round decides the title today",
+        "arabicLabel": "الجولة الأخيرة تحسم اللقب اليوم"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقيت",
+          "value": "بعد الظهر"
+        },
+        {
+          "label": "المكانة",
+          "value": "البطولة الكبرى الثالثة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Golf Digest"
+        }
+      ],
+      "broll": "images/news/2026-06-21-us-open-golf/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-us-open-golf/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Golf Channel",
+      "domain": "golfchannel.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    },
+    {
+      "name": "Sky Sports",
+      "domain": "skysports.com"
+    },
+    {
+      "name": "PGA Tour",
+      "domain": "pgatour.com"
+    },
+    {
+      "name": "Golf Digest",
+      "domain": "golfdigest.com"
+    }
+  ],
+  "arabicTicker": [
+    "ويندام كلارك يتصدر بطولة أمريكا المفتوحة الـ126 بفارق 6 ضربات قبل الجولة الأخيرة، وفق غولف تشانل",
+    "سكوتي شيفلر وثلاثة لاعبين يتقاسمون المركز الثاني عند -1، وفق سي بي إس سبورتس",
+    "عودة شيفلر تعني إكمال الغراند سلام في عيد ميلاده الثلاثين وعيد الأب، وفق سكاي سبورتس",
+    "رياح شينيكوك هيلز العاتية تجعل فارق الست ضربات أقل أماناً مما يبدو",
+    "كلارك وشيفلر يلعبان معاً في الجولة الأخيرة اليوم، وفق غولف دايجست",
+    "هل يصمد تصدّر كلارك أم يكمل شيفلر الغراند سلام التاريخي؟"
+  ]
+}

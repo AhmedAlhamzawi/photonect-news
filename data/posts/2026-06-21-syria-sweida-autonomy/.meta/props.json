@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سوريا",
+    "arabicHeadline": "السويداء تشكّل إدارة ذاتية بحكم الواقع",
+    "englishSubhead": "SWEIDA FORMS A DE FACTO SELF-RULE BODY",
+    "heroMedia": "images/news/2026-06-21-syria-sweida-autonomy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "فصائل درزية تنشئ سلطة موازية",
+      "arabicBody": "فصائل درزية في السويداء تنشئ سلطة إدارية وعسكرية موازية تشبه الإدارة الكردية، والمئات يتظاهرون مطالبين بتقرير المصير، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "حكم ذاتي",
+        "label": "a parallel self-rule authority in Sweida",
+        "arabicLabel": "سلطة حكم ذاتي موازية في السويداء"
+      },
+      "supportingStats": [
+        {
+          "label": "النموذج",
+          "value": "شمال شرق سوريا"
+        },
+        {
+          "label": "المطلب",
+          "value": "تقرير المصير"
+        },
+        {
+          "label": "المصدر",
+          "value": "Times of Israel"
+        }
+      ],
+      "broll": "images/news/2026-06-21-syria-sweida-autonomy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-syria-sweida-autonomy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "1,500 قتيل واختبار لحكومة الانتقال",
+      "arabicBody": "اشتباكات تموز 2025 خلّفت أكثر من 1,500 قتيل وضربات إسرائيلية على دمشق، ما يختبر تماسك سوريا ويقلق العراق والأردن، وفق معهد دراسات الأمن القومي.",
+      "bigStat": {
+        "value": "1,500+",
+        "label": "killed in the July 2025 Sweida clashes",
+        "arabicLabel": "قتيل في اشتباكات السويداء تموز 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "الضربات",
+          "value": "دمشق"
+        },
+        {
+          "label": "القلق الإقليمي",
+          "value": "العراق والأردن"
+        },
+        {
+          "label": "المصدر",
+          "value": "INSS"
+        }
+      ],
+      "broll": "images/news/2026-06-21-syria-sweida-autonomy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-syria-sweida-autonomy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هدنة هشة ودعوات أممية للإصلاح",
+      "arabicBody": "الهدنة بين دمشق والفصائل الدرزية لا تزال هشة، فيما تدعو الأمم المتحدة إلى العدالة والإصلاح مع تصاعد النزعة الانفصالية، وفق المفوضية السامية لحقوق الإنسان.",
+      "bigStat": {
+        "value": "هدنة هشة",
+        "label": "a fragile ceasefire still holds",
+        "arabicLabel": "هدنة هشة لا تزال صامدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأمم المتحدة",
+          "value": "دعوات إصلاح"
+        },
+        {
+          "label": "الاتجاه",
+          "value": "نزعة انفصالية"
+        },
+        {
+          "label": "المصدر",
+          "value": "OHCHR"
+        }
+      ],
+      "broll": "images/news/2026-06-21-syria-sweida-autonomy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-syria-sweida-autonomy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "INSS",
+      "domain": "inss.org.il"
+    },
+    {
+      "name": "Moshe Dayan Center",
+      "domain": "dayan.org"
+    },
+    {
+      "name": "OHCHR",
+      "domain": "ohchr.org"
+    },
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    }
+  ],
+  "arabicTicker": [
+    "فصائل درزية في السويداء تنشئ سلطة إدارية وعسكرية موازية تشبه الإدارة الكردية، وفق تايمز أوف إسرائيل",
+    "المئات يتظاهرون في السويداء مطالبين بتقرير المصير والمحاسبة",
+    "اشتباكات تموز 2025 خلّفت أكثر من 1,500 قتيل وضربات إسرائيلية على دمشق، وفق معهد دراسات الأمن القومي",
+    "المواجهة تختبر قدرة حكومة الانتقال السورية على تماسك البلاد وتقلق العراق والأردن",
+    "هدنة بين دمشق والفصائل الدرزية لا تزال هشة مع دعوات أممية للإصلاح، وفق المفوضية السامية",
+    "هل تتجه السويداء نحو حكم ذاتي دائم على غرار الشمال الشرقي؟"
+  ]
+}

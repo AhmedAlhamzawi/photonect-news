@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فضاء",
+    "arabicHeadline": "مسبار صيني يلامس كويكباً قرب الأرض",
+    "englishSubhead": "CHINA'S TIANWEN-2 REACHES A NEAR-EARTH ASTEROID",
+    "heroMedia": "images/news/2026-06-21-tianwen2-asteroid/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تيانوين-2 يصل كاموأواليوا",
+      "arabicBody": "وصل مسبار تيانوين-2 الصيني إلى الكويكب كاموأواليوا في 7 يونيو 2026، وسيمسحه أشهراً قبل جمع نحو 100 غرام من سطحه في يوليو، وفق فيز.أورغ.",
+      "bigStat": {
+        "value": "100 غرام",
+        "label": "regolith sample target",
+        "arabicLabel": "هدف عينة الكويكب"
+      },
+      "supportingStats": [
+        {
+          "label": "الوصول",
+          "value": "7 يونيو 2026"
+        },
+        {
+          "label": "جمع العينة",
+          "value": "يوليو 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "phys.org"
+        }
+      ],
+      "broll": "images/news/2026-06-21-tianwen2-asteroid/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-tianwen2-asteroid/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كويكب غامض قد يعيد كتابة العلم",
+      "arabicBody": "كاموأواليوا قمر شبه تابع للأرض بعرض 40 إلى 100 متر وأصله متنازع، وقد تعيد عيناته قراءة الأجرام القريبة حيث تستثمر وكالات خليجية، وفق نيتشر كومينيكيشنز.",
+      "bigStat": {
+        "value": "40–100 م",
+        "label": "the asteroid's width",
+        "arabicLabel": "عرض الكويكب بالمتر"
+      },
+      "supportingStats": [
+        {
+          "label": "النوع",
+          "value": "شبه تابع للأرض"
+        },
+        {
+          "label": "الأصل",
+          "value": "متنازع"
+        },
+        {
+          "label": "المصدر",
+          "value": "Nature Comms"
+        }
+      ],
+      "broll": "images/news/2026-06-21-tianwen2-asteroid/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-tianwen2-asteroid/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كبسولة العودة في 2027",
+      "arabicBody": "تنطلق كبسولة العودة عام 2027 نحو هبوط في منغوليا الداخلية، ثم يواصل المسبار رحلته إلى مذنب، في مهمة مزدوجة الهدف نادرة، وفق ذا ديبريف.",
+      "bigStat": {
+        "value": "2027",
+        "label": "sample capsule return year",
+        "arabicLabel": "عام عودة كبسولة العينة"
+      },
+      "supportingStats": [
+        {
+          "label": "الهبوط",
+          "value": "منغوليا الداخلية"
+        },
+        {
+          "label": "الوجهة التالية",
+          "value": "مذنب"
+        },
+        {
+          "label": "المصدر",
+          "value": "The Debrief"
+        }
+      ],
+      "broll": "images/news/2026-06-21-tianwen2-asteroid/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-tianwen2-asteroid/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "Nature Communications",
+      "domain": "nature.com"
+    },
+    {
+      "name": "Astronomy & Astrophysics",
+      "domain": "aanda.org"
+    },
+    {
+      "name": "The Debrief",
+      "domain": "thedebrief.org"
+    },
+    {
+      "name": "New Space Economy",
+      "domain": "newspaceeconomy.ca"
+    }
+  ],
+  "arabicTicker": [
+    "مسبار تيانوين-2 الصيني يصل الكويكب كاموأواليوا في 7 يونيو 2026، وفق فيز.أورغ",
+    "المسبار سيمضي أشهراً في المسح قبل جمع نحو 100 غرام من سطح الكويكب في يوليو",
+    "كاموأواليوا قمر شبه تابع للأرض بعرض 40 إلى 100 متر وأصله متنازع، وفق نيتشر كومينيكيشنز",
+    "عينات الكويكب قد تعيد قراءة الأجرام القريبة من الأرض",
+    "كبسولة العودة تنطلق في 2027 نحو هبوط في منغوليا الداخلية ثم يتجه المسبار إلى مذنب، وفق ذا ديبريف",
+    "أول مهمة صينية لإعادة عينة من كويكب ومزدوجة الهدف"
+  ]
+}

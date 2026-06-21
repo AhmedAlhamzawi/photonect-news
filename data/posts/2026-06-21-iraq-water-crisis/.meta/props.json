@@ -1,0 +1,144 @@
+{
+  "dateLabel": "JUN 21 • 2026",
+  "arabicDateLabel": "21 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أزمة مياه",
+    "arabicHeadline": "العراق في أعطش سنة منذ 1933",
+    "englishSubhead": "IRAQ • DRIEST YEAR SINCE 1933",
+    "heroMedia": "images/news/2026-06-21-iraq-water-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الخزين المائي سقط إلى 8%",
+      "arabicBody": "خزين السدود انهار إلى 8% من السعة، ودجلة والفرات هبطا حتى 27%، وبرزت جزر طينية في مجرى النهر، وفق الجزيرة وشفق نيوز.",
+      "bigStat": {
+        "value": "8%",
+        "label": "Dam and reservoir reserves vs capacity",
+        "arabicLabel": "خزين السدود والخزانات من السعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسوأ منذ",
+          "value": "1933"
+        },
+        {
+          "label": "تراجع الأنهار",
+          "value": "حتى 27%"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-21-iraq-water-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-21-iraq-water-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حصة بغداد دون 35% والجنوب ينزح",
+      "arabicBody": "العراق يتلقى أقل من 35% من حصته بفعل سدود تركيا وإيران، ونزح نحو 37,000 شخص من الجنوب، وحُظرت زراعة الرز، وفق تشاتام هاوس ويونيسف.",
+      "bigStat": {
+        "value": "37,000",
+        "label": "people displaced from the south over water",
+        "arabicLabel": "نازح من الجنوب بسبب شح المياه"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة العراق المائية",
+          "value": "دون 35%"
+        },
+        {
+          "label": "المحاصيل",
+          "value": "حظر الرز"
+        },
+        {
+          "label": "المصدر",
+          "value": "Chatham House"
+        }
+      ],
+      "broll": "images/news/2026-06-21-iraq-water-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-21-iraq-water-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تركيا تفتح المياه والبصرة تحتج",
+      "arabicBody": "تركيا رفعت التدفق عند فيشخابور فوق 2,500 متر مكعب بالثانية، فاقترب سد الموصل من سعته، لكنه حل مؤقت واحتجاجات الملوحة مستمرة في البصرة، وفق رووداو.",
+      "bigStat": {
+        "value": "2,500",
+        "label": "Turkish release at Fishkhabour, cubic m/sec",
+        "arabicLabel": "متر مكعب/ث إطلاق تركيا عند فيشخابور"
+      },
+      "supportingStats": [
+        {
+          "label": "سد الموصل",
+          "value": "نحو السعة"
+        },
+        {
+          "label": "البصرة",
+          "value": "احتجاجات الملوحة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Rudaw"
+        }
+      ],
+      "broll": "images/news/2026-06-21-iraq-water-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-21-iraq-water-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Chatham House",
+      "domain": "chathamhouse.org"
+    },
+    {
+      "name": "The Washington Institute",
+      "domain": "washingtoninstitute.org"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "UNICEF",
+      "domain": "unicef.org"
+    }
+  ],
+  "arabicTicker": [
+    "خزين السدود والخزانات سقط إلى 8% من السعة، وفق الجزيرة وشفق نيوز",
+    "دجلة والفرات هبطا حتى 27%، وبرزت جزر طينية في مجرى النهر، وفق الجزيرة",
+    "العراق يتلقى أقل من 35% من حصته بفعل سدود تركيا وإيران، وفق تشاتام هاوس",
+    "نحو 37,000 شخص نزحوا من جنوب العراق بسبب شح المياه، وفق يونيسف",
+    "تركيا رفعت التدفق عند فيشخابور فوق 2,500 متر مكعب بالثانية، فاقترب سد الموصل من سعته، وفق رووداو",
+    "هل يصمد سد الموصل حتى ذروة الصيف، أم تتكرر احتجاجات البصرة؟"
+  ]
+}
