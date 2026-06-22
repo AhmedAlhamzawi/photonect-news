@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "بيئة",
+    "arabicHeadline": "خريطة عالمية للشعاب المرجانية الصامدة",
+    "englishSubhead": "SCIENTISTS MAP CLIMATE-RESILIENT CORAL REEFS",
+    "heroMedia": "images/news/2026-06-22-coral-resilient-reefs/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "علماء يرسمون الشعاب الصامدة",
+      "arabicBody": "حدّد باحثون من جمعية حفظ الحياة البرية وجامعة ماكواري شعاباً قادرة على التعافي من الاحترار تمتد على 165,922 كيلومتراً مربعاً في 71 دولة، وفق دراسة جديدة.",
+      "bigStat": {
+        "value": "165,922 كم²",
+        "label": "resilient reef area",
+        "arabicLabel": "مساحة الشعاب الصامدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الدول",
+          "value": "71"
+        },
+        {
+          "label": "التقدير",
+          "value": "3 أضعاف السابق"
+        },
+        {
+          "label": "المصدر",
+          "value": "WCS"
+        }
+      ],
+      "broll": "images/news/2026-06-22-coral-resilient-reefs/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-coral-resilient-reefs/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ابيضاض ضرب 84% من الشعاب",
+      "arabicBody": "بين 2023 و2025 ضرب الإجهاد الحراري نحو 84% من مساحة الشعاب في 83 دولة، في رابع ابيضاض جماعي مسجَّل يجعل الملاذات حاسمة، وفق الدراسة.",
+      "bigStat": {
+        "value": "84%",
+        "label": "reefs hit by bleaching",
+        "arabicLabel": "نسبة الشعاب المتضررة"
+      },
+      "supportingStats": [
+        {
+          "label": "الفترة",
+          "value": "2023–2025"
+        },
+        {
+          "label": "الدول",
+          "value": "83"
+        },
+        {
+          "label": "الترتيب",
+          "value": "رابع ابيضاض"
+        }
+      ],
+      "broll": "images/news/2026-06-22-coral-resilient-reefs/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-coral-resilient-reefs/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ملاذات للحفظ ونينيو يلوح",
+      "arabicBody": "تتركّز 61% من الملاذات الصامدة في خمس دول، وتقترح الدراسة توجيه الحماية إليها مع تطوّر ظاهرة النينيو المتوقع، وفق الإدارة الوطنية للمحيطات.",
+      "bigStat": {
+        "value": "61%",
+        "label": "refuges in five states",
+        "arabicLabel": "تركّز الملاذات بخمس دول"
+      },
+      "supportingStats": [
+        {
+          "label": "الحماية",
+          "value": "موجَّهة"
+        },
+        {
+          "label": "النينيو",
+          "value": "متوقع يشتد"
+        },
+        {
+          "label": "المصدر",
+          "value": "NOAA"
+        }
+      ],
+      "broll": "images/news/2026-06-22-coral-resilient-reefs/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-coral-resilient-reefs/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wildlife Conservation Society",
+      "domain": "wcs.org"
+    },
+    {
+      "name": "Macquarie University",
+      "domain": "mq.edu.au"
+    },
+    {
+      "name": "CBC",
+      "domain": "cbc.ca"
+    },
+    {
+      "name": "NOAA",
+      "domain": "noaa.gov"
+    },
+    {
+      "name": "Earth.org",
+      "domain": "earth.org"
+    }
+  ],
+  "arabicTicker": [
+    "باحثون من جمعية حفظ الحياة البرية وجامعة ماكواري يرسمون خريطة الشعاب المرجانية الصامدة للحرارة، وفق دراسة جديدة",
+    "الشعاب القادرة على التعافي تمتد على 165,922 كيلومتراً مربعاً في 71 دولة، ثلاثة أضعاف التقديرات السابقة",
+    "بين 2023 و2025 ضرب الإجهاد الحراري نحو 84% من مساحة الشعاب في 83 دولة",
+    "هذا رابع ابيضاض جماعي مسجَّل للشعاب المرجانية في العالم",
+    "61% من الملاذات الصامدة تتركّز في خمس دول وتقترح الدراسة توجيه الحماية إليها",
+    "الإدارة الوطنية للمحيطات تتوقع اشتداد ظاهرة النينيو ما يزيد الإجهاد الحراري"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دبلوماسية",
+    "arabicHeadline": "واشنطن وطهران تبحثان إنهاء حرب لبنان",
+    "englishSubhead": "US–IRAN TALKS IN SWITZERLAND TARGET LEBANON WAR",
+    "heroMedia": "images/news/2026-06-22-iran-us-switzerland-talks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مفاوضات سويسرا تحقق تقدماً",
+      "arabicBody": "وصل نائب الرئيس الأمريكي جي دي فانس سويسرا في 21 يونيو، وأعلن وزير خارجية إيران عباس عراقجي «تقدماً كبيراً» نحو إنهاء حرب لبنان، وفق رويترز.",
+      "bigStat": {
+        "value": "21 يونيو",
+        "label": "talks begin",
+        "arabicLabel": "انطلاق محادثات سويسرا"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسطاء",
+          "value": "قطر وباكستان"
+        },
+        {
+          "label": "الملف",
+          "value": "حرب لبنان"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iran-us-switzerland-talks/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iran-us-switzerland-talks/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ما الذي اتُّفق؟",
+      "arabicHeading": "خلية لمنع التصعيد في لبنان",
+      "arabicBody": "اتفق الجانبان على إنشاء «خلية منع تصادم» مع لبنان لوقف العمليات العسكرية، مع رفع حظر صادرات النفط والإفراج عن أصول مجمّدة، وفق وساطة قطر وباكستان.",
+      "bigStat": {
+        "value": "2",
+        "label": "mediator states",
+        "arabicLabel": "عدد الدول الوسيطة"
+      },
+      "supportingStats": [
+        {
+          "label": "الخلية",
+          "value": "منع تصادم"
+        },
+        {
+          "label": "النفط",
+          "value": "رفع الحظر"
+        },
+        {
+          "label": "المصدر",
+          "value": "قطر وباكستان"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iran-us-switzerland-talks/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iran-us-switzerland-talks/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للعراق؟",
+      "arabicHeading": "هدوء إقليمي يطمئن بغداد",
+      "arabicBody": "يقول الرئيس السوري أحمد الشرع إن دمشق لن تقاتل حزب الله لكنها قد تساعد بطرق أخرى، فيما يخفّض الاتفاق مخاطر حرب تهدد استقرار العراق، وفق رويترز.",
+      "bigStat": {
+        "value": "تهدئة",
+        "label": "regional de-escalation",
+        "arabicLabel": "خفض مخاطر الحرب الإقليمية"
+      },
+      "supportingStats": [
+        {
+          "label": "سوريا",
+          "value": "لن تقاتل حزب الله"
+        },
+        {
+          "label": "الأثر",
+          "value": "استقرار العراق"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iran-us-switzerland-talks/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iran-us-switzerland-talks/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Profile News",
+      "domain": "profilenews.com"
+    }
+  ],
+  "arabicTicker": [
+    "نائب الرئيس الأمريكي جي دي فانس يصل سويسرا في 21 يونيو لمحادثات مع إيران، وفق رويترز",
+    "وزير خارجية إيران عباس عراقجي يعلن «تقدماً كبيراً» نحو إنهاء حرب لبنان",
+    "اتفاق على «خلية منع تصادم» مع لبنان لوقف العمليات العسكرية بوساطة قطر وباكستان",
+    "رفع حظر صادرات النفط الإيرانية والإفراج عن بعض الأصول المجمّدة ضمن التفاهمات",
+    "الرئيس السوري أحمد الشرع: دمشق لن تقاتل حزب الله لكنها قد تساعد بطرق أخرى",
+    "تهدئة إقليمية تخفّض مخاطر حرب تهدد استقرار العراق والمنطقة"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مونديال 2026",
+    "arabicHeadline": "العراق يلاقي فرنسا اليوم في المونديال",
+    "englishSubhead": "IRAQ FACES FRANCE — FIRST WORLD CUP SINCE 1986",
+    "heroMedia": "images/news/2026-06-22-iraq-worldcup-france/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أسود الرافدين يعودون بعد 40 عاماً",
+      "arabicBody": "يفتتح منتخب العراق مشواره في مونديال 2026 أمام فرنسا ضمن المجموعة التاسعة، في أول ظهور مونديالي منذ 1986، وفق فيفا.",
+      "bigStat": {
+        "value": "1986",
+        "label": "Iraq's last World Cup",
+        "arabicLabel": "آخر ظهور مونديالي للعراق"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعة",
+          "value": "التاسعة"
+        },
+        {
+          "label": "الخصوم",
+          "value": "فرنسا والسنغال والنرويج"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-worldcup-france/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-worldcup-france/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف تأهل؟",
+      "arabicHeading": "حسم بطاقته من بوليفيا في الملحق",
+      "arabicBody": "انتزع العراق بطاقته بفوزه على بوليفيا في الملحق العالمي بمدينة مونتيري المكسيكية، ليكمل عقد الـ48 منتخباً، وفق إنسايد فيفا.",
+      "bigStat": {
+        "value": "48",
+        "label": "teams at the World Cup",
+        "arabicLabel": "عدد منتخبات المونديال"
+      },
+      "supportingStats": [
+        {
+          "label": "الملحق",
+          "value": "مونتيري، المكسيك"
+        },
+        {
+          "label": "الخصم",
+          "value": "بوليفيا"
+        },
+        {
+          "label": "المصدر",
+          "value": "inside.fifa"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-worldcup-france/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-worldcup-france/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "السنغال والنرويج ثم حلم العبور",
+      "arabicBody": "بعد فرنسا يواجه العراق السنغال والنرويج، وعينه على بلوغ دور الـ32 الذي تتأهل إليه أفضل المنتخبات في النسخة الموسّعة، وفق إسبن.",
+      "bigStat": {
+        "value": "3 مباريات",
+        "label": "group-stage matches",
+        "arabicLabel": "مباريات دور المجموعات"
+      },
+      "supportingStats": [
+        {
+          "label": "المنافسون",
+          "value": "فرنسا/السنغال/النرويج"
+        },
+        {
+          "label": "الهدف",
+          "value": "دور الـ32"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-worldcup-france/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-worldcup-france/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "Inside FIFA",
+      "domain": "inside.fifa.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Tribuna",
+      "domain": "tribuna.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يلاقي فرنسا اليوم في أول ظهور مونديالي منذ غياب 40 عاماً، وفق فيفا",
+    "أسود الرافدين في المجموعة التاسعة إلى جانب فرنسا والسنغال والنرويج، وفق فيفا",
+    "العراق انتزع بطاقته بفوزه على بوليفيا في الملحق العالمي بمدينة مونتيري المكسيكية، وفق إنسايد فيفا",
+    "نسخة 2026 الموسّعة تضم 48 منتخباً وتُقام في كندا والمكسيك والولايات المتحدة، وفق فيفا",
+    "أفضل المنتخبات من المركز الثالث تبلغ دور الـ32 في النظام الجديد، وفق إسبن",
+    "بعد فرنسا يواجه العراق السنغال والنرويج في دور المجموعات، وفق إسبن",
+    "هل يكتب أسود الرافدين مفاجأة العودة أمام بطل العالم اليوم؟"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "دواء فموي يضاعف بقاء مرضى البنكرياس",
+    "englishSubhead": "ORAL RAS DRUG DOUBLES PANCREATIC CANCER SURVIVAL",
+    "heroMedia": "images/news/2026-06-22-pancreas-cancer-pill/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "داراكسونراسيب الفموي يضاعف البقاء",
+      "arabicBody": "أظهرت تجربة «راسوليوت 302» أن داراكسونراسيب الفموي رفع متوسط البقاء إلى 13.2 شهراً مقابل 6.7 للكيميائي، وفق نيو إنغلاند جورنال.",
+      "bigStat": {
+        "value": "13.2 شهراً",
+        "label": "median survival on drug",
+        "arabicLabel": "متوسط البقاء مع الدواء"
+      },
+      "supportingStats": [
+        {
+          "label": "الكيميائي",
+          "value": "6.7 شهراً"
+        },
+        {
+          "label": "نسبة الخطر",
+          "value": "0.40"
+        },
+        {
+          "label": "المصدر",
+          "value": "NEJM"
+        }
+      ],
+      "broll": "images/news/2026-06-22-pancreas-cancer-pill/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-pancreas-cancer-pill/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول مثبّط راس في تجربة كبرى",
+      "arabicBody": "هو أول مثبّط لبروتين «راس» يُختبر في تجربة عشوائية واسعة لسرطان البنكرياس، ويؤخذ حبّة فموية مرة يومياً، وفق معهد دانا-فاربر.",
+      "bigStat": {
+        "value": "p<0.0001",
+        "label": "statistical significance",
+        "arabicLabel": "الدلالة الإحصائية للنتيجة"
+      },
+      "supportingStats": [
+        {
+          "label": "النوع",
+          "value": "غدّي مع طفرة راس"
+        },
+        {
+          "label": "الجرعة",
+          "value": "حبة يومياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Dana-Farber"
+        }
+      ],
+      "broll": "images/news/2026-06-22-pancreas-cancer-pill/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-pancreas-cancer-pill/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أمل جديد لسرطان عصيّ",
+      "arabicBody": "عُرضت النتائج في مؤتمر «آسكو» 31 مايو ونُشرت في نيو إنغلاند جورنال، وتفتح الباب لعلاجات راس الفموية في سرطانات أخرى، وفق ريفولوشن ميديسنز.",
+      "bigStat": {
+        "value": "31 مايو 2026",
+        "label": "ASCO presentation",
+        "arabicLabel": "إعلان نتائج مؤتمر آسكو"
+      },
+      "supportingStats": [
+        {
+          "label": "النشر",
+          "value": "NEJM"
+        },
+        {
+          "label": "الأفق",
+          "value": "سرطانات أخرى"
+        },
+        {
+          "label": "المصدر",
+          "value": "Rev Medicines"
+        }
+      ],
+      "broll": "images/news/2026-06-22-pancreas-cancer-pill/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-pancreas-cancer-pill/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NEJM",
+      "domain": "nejm.org"
+    },
+    {
+      "name": "Dana-Farber",
+      "domain": "dana-farber.org"
+    },
+    {
+      "name": "Revolution Medicines",
+      "domain": "revmed.com"
+    },
+    {
+      "name": "OncLive",
+      "domain": "onclive.com"
+    },
+    {
+      "name": "ASCO",
+      "domain": "asco.org"
+    }
+  ],
+  "arabicTicker": [
+    "تجربة المرحلة الثالثة «راسوليوت 302» تظهر مضاعفة البقاء مع داراكسونراسيب الفموي، وفق نيو إنغلاند جورنال",
+    "متوسط البقاء 13.2 شهراً مع الدواء مقابل 6.7 شهراً للعلاج الكيميائي ونسبة خطر 0.40",
+    "أول مثبّط لبروتين «راس» يُختبر في تجربة عشوائية واسعة لسرطان البنكرياس، وفق دانا-فاربر",
+    "الدواء يؤخذ حبّة فموية مرة واحدة يومياً في سرطان غدّي حامل لطفرة راس",
+    "النتائج عُرضت في مؤتمر آسكو 31 مايو ونُشرت في نيو إنغلاند جورنال",
+    "النتائج تفتح الباب لعلاجات راس الفموية في سرطانات أخرى، وفق ريفولوشن ميديسنز"
+  ]
+}

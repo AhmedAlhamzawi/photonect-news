@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "فصائل عراقية تقبل حصر السلاح بالدولة",
+    "englishSubhead": "IRAQI FACTIONS PLEDGE ARMS TO STATE CONTROL",
+    "heroMedia": "images/news/2026-06-22-iraq-militia-disarmament/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "فصيلان يقبلان تسليم السلاح للدولة",
+      "arabicBody": "في 2 يونيو، أعلنت عصائب أهل الحق وكتائب الإمام علي قبول حصر السلاح بيد الدولة وفك ارتباطها بالحشد، وفق لونغ وور جورنال.",
+      "bigStat": {
+        "value": "2 يونيو",
+        "label": "pledge announced",
+        "arabicLabel": "إعلان قبول حصر السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "الفصائل",
+          "value": "عصائب وكتائب الإمام علي"
+        },
+        {
+          "label": "الإطار",
+          "value": "التنسيقي"
+        },
+        {
+          "label": "المصدر",
+          "value": "LWJ"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-militia-disarmament/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-militia-disarmament/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بغداد تضع مهلة نهاية سبتمبر",
+      "arabicBody": "حدّدت بغداد نهاية سبتمبر موعداً للحصر وسط ضغط أمريكي، والتقى رئيس الوزراء علي الزيدي وفود الفصائل في 3 يونيو، وفق آراب نيوز.",
+      "bigStat": {
+        "value": "سبتمبر",
+        "label": "disarmament deadline",
+        "arabicLabel": "مهلة حصر السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "الضغط",
+          "value": "أمريكي"
+        },
+        {
+          "label": "اللقاء",
+          "value": "3 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arab News"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-militia-disarmament/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-militia-disarmament/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النجباء ترفض والتطبيق غير مؤكد",
+      "arabicBody": "رفضت حركة حزب الله النجباء المبادرة، فيما ربطت بغداد الحصر بانسحاب التحالف الدولي بحلول سبتمبر، ما يبقي التطبيق غير مؤكد، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "رفض",
+        "label": "hardliners refuse",
+        "arabicLabel": "موقف الفصائل المتشددة"
+      },
+      "supportingStats": [
+        {
+          "label": "الرافض",
+          "value": "النجباء"
+        },
+        {
+          "label": "الربط",
+          "value": "انسحاب التحالف"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-22-iraq-militia-disarmament/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-iraq-militia-disarmament/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Long War Journal",
+      "domain": "longwarjournal.org"
+    },
+    {
+      "name": "FDD",
+      "domain": "fdd.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Amwaj",
+      "domain": "amwaj.media"
+    }
+  ],
+  "arabicTicker": [
+    "عصائب أهل الحق وكتائب الإمام علي تعلنان في 2 يونيو قبول حصر السلاح بيد الدولة، وفق لونغ وور جورنال",
+    "الفصائل تعلن فك ارتباطها بالحشد الشعبي وتشكيل لجنة لآليات التنفيذ",
+    "رئيس الوزراء علي الزيدي يلتقي وفود الفصائل في بغداد في 3 يونيو، وفق آراب نيوز",
+    "بغداد تحدد نهاية سبتمبر موعداً نهائياً لحصر السلاح وسط ضغط أمريكي",
+    "حركة حزب الله النجباء ترفض مبادرة حصر السلاح، وفق ذا ناشيونال",
+    "بغداد تربط حصر السلاح بانسحاب التحالف الدولي بحلول سبتمبر",
+    "هل يُسلَّم السلاح بحلول سبتمبر، أم ترجّح كفة الفصائل الرافضة؟"
+  ]
+}

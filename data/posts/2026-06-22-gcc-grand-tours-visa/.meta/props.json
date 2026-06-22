@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 22 • 2026",
+  "arabicDateLabel": "22 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "6 دول خليجية بتأشيرة واحدة قريباً",
+    "englishSubhead": "GULF LAUNCHES SCHENGEN-STYLE UNIFIED VISA",
+    "heroMedia": "images/news/2026-06-22-gcc-grand-tours-visa/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تأشيرة واحدة تفتح 6 دول",
+      "arabicBody": "تطلق دول مجلس التعاون الست تجريبياً «تأشيرة الجولات الكبرى» أواخر 2026، بدخول متعدد ورسم 100 إلى 150 دولاراً، وفق ترافل آند تور وورلد.",
+      "bigStat": {
+        "value": "6",
+        "label": "states in the visa",
+        "arabicLabel": "دول التأشيرة الموحّدة"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسم",
+          "value": "100–150 دولاراً"
+        },
+        {
+          "label": "المدة",
+          "value": "30–90 يوماً"
+        },
+        {
+          "label": "المصدر",
+          "value": "GCC"
+        }
+      ],
+      "broll": "images/news/2026-06-22-gcc-grand-tours-visa/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-22-gcc-grand-tours-visa/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "البنية التحتية",
+      "arabicHeading": "سكة 2117 كم تتجاوز نصفها",
+      "arabicBody": "قطع مشروع سكة الخليج بطول 2117 كيلومتراً نحو نصف المسار، فيما يسيّر قطار الاتحاد الإماراتي ركاباً على 900 كيلومتر، وفق تقارير خليجية.",
+      "bigStat": {
+        "value": "2117 كم",
+        "label": "Gulf railway length",
+        "arabicLabel": "طول سكة حديد الخليج"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنجاز",
+          "value": "نحو 50%"
+        },
+        {
+          "label": "قطار الاتحاد",
+          "value": "900 كم"
+        },
+        {
+          "label": "المصدر",
+          "value": "Etihad Rail"
+        }
+      ],
+      "broll": "images/news/2026-06-22-gcc-grand-tours-visa/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-22-gcc-grand-tours-visa/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تكامل يطلق السياحة البينية",
+      "arabicBody": "استعاد الطيران الخليجي 85 إلى 90% من طاقته بعد الحرب، والتأشيرة والسكة ترفعان التنقل والسياحة بين دول المجلس، وفق تقارير القطاع.",
+      "bigStat": {
+        "value": "85–90%",
+        "label": "aviation recovery",
+        "arabicLabel": "تعافي طاقة الطيران الخليجي"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "سياحة بينية"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "أواخر 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "Gulf News"
+        }
+      ],
+      "broll": "images/news/2026-06-22-gcc-grand-tours-visa/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-22-gcc-grand-tours-visa/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World",
+      "domain": "travelandtourworld.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Etihad Rail",
+      "domain": "etihadrail.ae"
+    },
+    {
+      "name": "Gulf Nashra",
+      "domain": "gulfnashra.com"
+    },
+    {
+      "name": "GCC",
+      "domain": "gcc-sg.org"
+    }
+  ],
+  "arabicTicker": [
+    "6 دول خليجية بتأشيرة واحدة قريباً، عبر «تأشيرة الجولات الكبرى» التجريبية أواخر 2026، وفق ترافل آند تور وورلد",
+    "التأشيرة تتيح دخولاً متعدداً لكل الأعضاء برسم 100 إلى 150 دولاراً ولمدة 30 إلى 90 يوماً",
+    "مشروع سكة حديد الخليج بطول 2117 كيلومتراً يبلغ نحو 50% من الإنجاز",
+    "قطار الاتحاد الإماراتي يدشّن خدمة الركاب على 900 كيلومتر تربط 11 مدينة",
+    "الطيران الخليجي يستعيد نحو 85 إلى 90% من طاقته بعد اضطرابات الحرب",
+    "تأشيرة واحدة وسكة تربط الخليج: هل تصبح دول المجلس وجهة سياحية واحدة؟"
+  ]
+}
