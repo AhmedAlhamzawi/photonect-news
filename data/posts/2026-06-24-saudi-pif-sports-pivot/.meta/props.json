@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "السعودية تعيد توجيه صندوقها نحو الداخل",
+    "englishSubhead": "SAUDI PIF RESETS STRATEGY TOWARD TOURISM AT HOME",
+    "heroMedia": "images/news/2026-06-24-saudi-pif-sports-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "السياحة تتصدّر ست منظومات محلية",
+      "arabicBody": "اعتمد صندوق الاستثمارات العامة استراتيجية 2026–2030، وتتصدّرها السياحة والسفر والترفيه ضمن ست منظومات محلية، برئاسة ولي العهد محمد بن سلمان، وفق بيان الصندوق.",
+      "bigStat": {
+        "value": "6 منظومات",
+        "label": "domestic ecosystems",
+        "arabicLabel": "منظومات محلية"
+      },
+      "supportingStats": [
+        {
+          "label": "الفترة",
+          "value": "2026–2030"
+        },
+        {
+          "label": "الأولوية",
+          "value": "السياحة والترفيه"
+        },
+        {
+          "label": "الجهة",
+          "value": "PIF"
+        }
+      ],
+      "broll": "images/news/2026-06-24-saudi-pif-sports-pivot/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-saudi-pif-sports-pivot/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "مراجعة للصفقات وملف رياضي مؤجّل",
+      "arabicBody": "قال المحافظ ياسر الرميان إن الصندوق يراجع استثماراته وصفقاته ويعيد ترتيب أولوياته، فيما تتحدّث تقارير عن سحب ترشّح المملكة لاستضافة كأس العالم للرغبي 2035.",
+      "bigStat": {
+        "value": "2035",
+        "label": "shelved Rugby WC bid",
+        "arabicLabel": "ملف الرغبي المؤجّل"
+      },
+      "supportingStats": [
+        {
+          "label": "المراجعة",
+          "value": "استثمارات وصفقات"
+        },
+        {
+          "label": "ملف مؤجّل",
+          "value": "رغبي 2035"
+        },
+        {
+          "label": "السبب",
+          "value": "الجدوى الاقتصادية"
+        }
+      ],
+      "broll": "images/news/2026-06-24-saudi-pif-sports-pivot/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-saudi-pif-sports-pivot/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني؟",
+      "arabicHeading": "إنفاق نحو الداخل بدل التوسع الخارجي",
+      "arabicBody": "ربط المحافظ المراجعة بتداعيات الحرب الإقليمية والجدوى الاقتصادية، مع توجيه الإنفاق نحو السياحة والمشاريع الداخلية بدل التوسع الرياضي الخارجي، وفق تصريحاته.",
+      "bigStat": {
+        "value": "تحوّل داخلي",
+        "label": "pivot to home spending",
+        "arabicLabel": "توجيه الإنفاق نحو الداخل"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتجاه",
+          "value": "إنفاق داخلي"
+        },
+        {
+          "label": "القطاع",
+          "value": "سياحة وترفيه"
+        },
+        {
+          "label": "المصدر",
+          "value": "al-Rumayyan"
+        }
+      ],
+      "broll": "images/news/2026-06-24-saudi-pif-sports-pivot/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-saudi-pif-sports-pivot/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Moodie Davitt Report",
+      "domain": "moodiedavittreport.com"
+    },
+    {
+      "name": "GTR Magazine",
+      "domain": "gtrmag.com"
+    },
+    {
+      "name": "PIF",
+      "domain": "pif.gov.sa"
+    }
+  ],
+  "arabicTicker": [
+    "صندوق الاستثمارات العامة السعودي يعتمد استراتيجية 2026–2030 برئاسة ولي العهد محمد بن سلمان",
+    "الاستراتيجية تضع السياحة والسفر والترفيه في صدارة ست منظومات محلية، وفق بيان الصندوق",
+    "المحافظ ياسر الرميان: الصندوق يراجع استثماراته وصفقاته ويعيد ترتيب أولوياته",
+    "تقارير تتحدث عن سحب ترشّح المملكة لاستضافة كأس العالم للرغبي 2035",
+    "الرميان يربط المراجعة بتداعيات الحرب الإقليمية والجدوى الاقتصادية، وفق تصريحاته",
+    "إعادة توجيه الإنفاق نحو السياحة والمشاريع الداخلية بدل التوسع الرياضي الخارجي",
+    "هل يعيد أكبر صندوق سيادي في الخليج رسم خريطة إنفاقه نحو الداخل؟"
+  ]
+}

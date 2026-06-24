@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "حقول الشلب تعود إلى العراق بعد الجفاف",
+    "englishSubhead": "IRAQ'S RICE FIELDS RETURN AS WATER STORAGE REBOUNDS",
+    "heroMedia": "images/news/2026-06-24-iraq-rice-rebound/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المخزون المائي يقفز سبعة أضعاف",
+      "arabicBody": "بعد سنوات جفاف، أعادت وزارة الزراعة فتح حقول الشلب، إذ ارتفع المخزون المائي إلى نحو 30 مليار م³ في 2026 مقابل 4.5 مليار العام الماضي، وفق أرب نيوز.",
+      "bigStat": {
+        "value": "30 مليار م³",
+        "label": "water storage 2026",
+        "arabicLabel": "مخزون المياه في 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "المخزون 2026",
+          "value": "30 مليار م³"
+        },
+        {
+          "label": "العام الماضي",
+          "value": "4.5 مليار م³"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arab News"
+        }
+      ],
+      "broll": "images/news/2026-06-24-iraq-rice-rebound/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-iraq-rice-rebound/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "362,000 دونم.. الأكبر منذ أربع سنوات",
+      "arabicBody": "وافقت وزارة الزراعة على زراعة نحو 362,000 دونم بالشلب، أكبر مساحة منذ أربع سنوات، بعد أمطار غزيرة وزيادة تدفقات دجلة والفرات، وفق أرب نيوز.",
+      "bigStat": {
+        "value": "362,000 دونم",
+        "label": "approved rice area",
+        "arabicLabel": "مساحة الشلب المعتمدة"
+      },
+      "supportingStats": [
+        {
+          "label": "المساحة",
+          "value": "362,000 دونم"
+        },
+        {
+          "label": "قياسية منذ",
+          "value": "4 سنوات"
+        },
+        {
+          "label": "الأنهار",
+          "value": "دجلة والفرات"
+        }
+      ],
+      "broll": "images/news/2026-06-24-iraq-rice-rebound/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-iraq-rice-rebound/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للعراق؟",
+      "arabicHeading": "انفراج موسمي.. لكن المياه تأتي من الجوار",
+      "arabicBody": "الانفراج موسمي، إذ يعتمد العراق على تركيا وإيران في نحو 75% من مياهه العذبة، وتراجعت تدفقات دجلة والفرات 30–40% منذ الثمانينات، وفق منظمة الأغذية والزراعة.",
+      "bigStat": {
+        "value": "75%",
+        "label": "freshwater from upstream",
+        "arabicLabel": "نسبة المياه من دول المنبع"
+      },
+      "supportingStats": [
+        {
+          "label": "الاعتماد الخارجي",
+          "value": "75%"
+        },
+        {
+          "label": "تراجع التدفقات",
+          "value": "30–40%"
+        },
+        {
+          "label": "المصدر",
+          "value": "FAO"
+        }
+      ],
+      "broll": "images/news/2026-06-24-iraq-rice-rebound/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-iraq-rice-rebound/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Iraqi Agriculture Ministry",
+      "domain": "ziraa.gov.iq"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "FAO",
+      "domain": "fao.org"
+    },
+    {
+      "name": "UNICEF",
+      "domain": "unicef.org"
+    }
+  ],
+  "arabicTicker": [
+    "المخزون المائي في العراق يقفز إلى نحو 30 مليار م³ في 2026 مقابل 4.5 مليار العام الماضي، وفق أرب نيوز",
+    "وزارة الزراعة توافق على زراعة نحو 362,000 دونم بالشلب، أكبر مساحة منذ أربع سنوات، وفق أرب نيوز",
+    "أمطار غزيرة وزيادة تدفقات نهري دجلة والفرات تعيد فتح حقول الشلب المعطّلة، وفق وزارة الزراعة",
+    "العراق يعتمد على تركيا وإيران في نحو 75% من مياهه العذبة، وفق منظمة الأغذية والزراعة",
+    "تدفقات دجلة والفرات تراجعت 30–40% منذ ثمانينات القرن الماضي، وفق منظمة الأغذية والزراعة",
+    "الانفراج موسمي يخفّف الضغط، لكن الأمن المائي يبقى رهن التعاون مع دول المنبع، وفق منظمة الأغذية والزراعة",
+    "هل يصمد انتعاش الشلب موسماً واحداً، أم يتحوّل إلى أمن مائي دائم للعراق؟"
+  ]
+}

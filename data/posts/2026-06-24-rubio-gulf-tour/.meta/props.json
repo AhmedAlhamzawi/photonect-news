@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "جولة خليجية",
+    "arabicHeadline": "روبيو يهبط في الخليج بملف إيران وهرمز",
+    "englishSubhead": "RUBIO TOURS THE GULF ON IRAN DEAL AND HORMUZ TRANSIT",
+    "heroMedia": "images/news/2026-06-24-rubio-gulf-tour/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ثلاث عواصم خليجية في ثلاثة أيام",
+      "arabicBody": "روبيو يزور الإمارات والكويت والبحرين بين 23 و25 يونيو، لبحث مذكرة التفاهم مع إيران وأمن الملاحة في هرمز، وفق الخارجية الأمريكية.",
+      "bigStat": {
+        "value": "23–25 يونيو",
+        "label": "Gulf tour dates",
+        "arabicLabel": "تواريخ الجولة الخليجية"
+      },
+      "supportingStats": [
+        {
+          "label": "المحطات",
+          "value": "الإمارات والكويت والبحرين"
+        },
+        {
+          "label": "الملف",
+          "value": "إيران وهرمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "State Dept"
+        }
+      ],
+      "broll": "images/news/2026-06-24-rubio-gulf-tour/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-rubio-gulf-tour/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "واشنطن تقدّر فرص الاتفاق مرتفعة",
+      "arabicBody": "واشنطن تقدّر احتمال اتفاق مع إيران بنحو 80–85%، على أساس قيود نووية ورفع تدريجي للعقوبات وضمانات لأمن هرمز، وفق الجزيرة ورويترز.",
+      "bigStat": {
+        "value": "80–85%",
+        "label": "US estimate of deal odds",
+        "arabicLabel": "تقدير واشنطن لاحتمال الاتفاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الاحتمال",
+          "value": "80–85%"
+        },
+        {
+          "label": "الإطار",
+          "value": "نووي وعقوبات"
+        },
+        {
+          "label": "الضمان",
+          "value": "أمن هرمز"
+        }
+      ],
+      "broll": "images/news/2026-06-24-rubio-gulf-tour/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-rubio-gulf-tour/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للعراق؟",
+      "arabicHeading": "هدوء هرمز يحمي صادرات العراق",
+      "arabicBody": "روبيو يجتمع بمجلس التعاون في المنامة، وأي تهدئة في هرمز تخفّض مخاطر التصعيد على ممرات الخليج الحيوية لصادرات العراق، وفق رويترز.",
+      "bigStat": {
+        "value": "6 دول",
+        "label": "GCC meeting in Manama",
+        "arabicLabel": "اجتماع مجلس التعاون في المنامة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاجتماع",
+          "value": "مجلس التعاون"
+        },
+        {
+          "label": "الأثر",
+          "value": "استقرار الخليج"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-24-rubio-gulf-tour/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-rubio-gulf-tour/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "US State Department",
+      "domain": "state.gov"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "روبيو يهبط في الخليج بملف إيران وهرمز",
+    "روبيو يزور الإمارات والكويت والبحرين بين 23 و25 يونيو، وفق الخارجية الأمريكية",
+    "أجندة الجولة: مذكرة التفاهم مع إيران وأمن الملاحة في مضيق هرمز",
+    "واشنطن تقدّر احتمال التوصل لاتفاق مع إيران بنحو 80–85%، وفق الجزيرة ورويترز",
+    "إطار الاتفاق: قيود نووية ورفع تدريجي للعقوبات وضمانات لأمن هرمز",
+    "روبيو يجتمع بمجلس التعاون الخليجي في المنامة، وهدوء هرمز يحمي صادرات العراق، وفق رويترز",
+    "هل تثمر جولة روبيو اتفاقاً يهدّئ هرمز، أم يبقى الملف مفتوحاً؟"
+  ]
+}

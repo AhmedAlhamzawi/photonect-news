@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "علوم الفضاء",
+    "arabicHeadline": "حجر من الصحراء يكشف كوكباً ضاع منذ فجر المجموعة",
+    "englishSubhead": "SAHARA METEORITE REVEALS A LOST EARLY PLANET",
+    "heroMedia": "images/news/2026-06-24-meteorite-lost-world/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا اكتُشف؟",
+      "arabicHeading": "شظية من عالم تحطّم في فجر المجموعة",
+      "arabicBody": "نيزك نادر عُثر عليه في الصحراء الكبرى يحمل دليلاً على كوكب أوّلي دار حول الشمس الفتية قبل نحو 4.56 مليار سنة ثم تحطّم، وفق دراسة في مجلة Earth and Planetary Science Letters.",
+      "bigStat": {
+        "value": "4.56 مليار سنة",
+        "label": "age of the body",
+        "arabicLabel": "عمر الجرم الكوكبي"
+      },
+      "supportingStats": [
+        {
+          "label": "النيزك",
+          "value": "NWA 12774"
+        },
+        {
+          "label": "المكان",
+          "value": "الصحراء الكبرى"
+        },
+        {
+          "label": "المجلة",
+          "value": "EPSL"
+        }
+      ],
+      "broll": "images/news/2026-06-24-meteorite-lost-world/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-meteorite-lost-world/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#7C4DFF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "بحجم قمر الأرض وربما المريخ",
+      "arabicBody": "يقدّر الباحثون نصف قطر العالم المفقود بين 1,000 و1,800 كيلومتر، أي بحجم قمر الأرض وربما قريباً من حجم المريخ، وفق الدراسة.",
+      "bigStat": {
+        "value": "1,800 كم",
+        "label": "estimated radius",
+        "arabicLabel": "نصف القطر المُقدّر"
+      },
+      "supportingStats": [
+        {
+          "label": "نصف القطر",
+          "value": "1,000–1,800 كم"
+        },
+        {
+          "label": "الحجم",
+          "value": "بحجم القمر"
+        },
+        {
+          "label": "قريب من",
+          "value": "المريخ"
+        }
+      ],
+      "broll": "images/news/2026-06-24-meteorite-lost-world/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-meteorite-lost-world/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "كيف عرفوا؟",
+      "arabicHeading": "ضغط لا يتكوّن إلا داخل كوكب",
+      "arabicBody": "تكوّن معدن الكلينوبيروكسين الغني بالألمنيوم تحت ضغط لا يقل عن 17.5 كيلوبار، وهو ضغط لا ينشأ إلا داخل جرم كوكبي ضخم، يقول الباحث آرون بيل.",
+      "bigStat": {
+        "value": "17.5 كيلوبار",
+        "label": "formation pressure",
+        "arabicLabel": "ضغط التكوّن"
+      },
+      "supportingStats": [
+        {
+          "label": "الضغط",
+          "value": "17.5 كيلوبار"
+        },
+        {
+          "label": "الدليل",
+          "value": "معدن غني بالألمنيوم"
+        },
+        {
+          "label": "الباحث",
+          "value": "جامعة كولورادو"
+        }
+      ],
+      "broll": "images/news/2026-06-24-meteorite-lost-world/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-meteorite-lost-world/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "Sci.News",
+      "domain": "sci.news"
+    },
+    {
+      "name": "SciTechDaily",
+      "domain": "scitechdaily.com"
+    },
+    {
+      "name": "Earth.com",
+      "domain": "earth.com"
+    }
+  ],
+  "arabicTicker": [
+    "نيزك NWA 12774 من الصحراء الكبرى يكشف كوكباً أولياً ضاع من فجر المجموعة الشمسية",
+    "العالم المفقود دار حول الشمس قبل نحو 4.56 مليار سنة ثم تحطّم في تصادم مبكر",
+    "نصف قطر الجرم يُقدّر بين 1,000 و1,800 كيلومتر، أي بحجم قمر الأرض وربما المريخ",
+    "معدن الكلينوبيروكسين الغني بالألمنيوم تكوّن تحت ضغط لا يقل عن 17.5 كيلوبار",
+    "الباحث آرون بيل من جامعة كولورادو بولدر قاد الدراسة المنشورة في مجلة EPSL",
+    "تركيب النيزك يختلف جوهرياً عن الأرض والمريخ، ما يشير إلى مسار تطوّري مستقل",
+    "كم عالماً أوّلياً تحطّم في فجر المجموعة الشمسية قبل أن تستقر الكواكب التي نعرفها؟"
+  ]
+}

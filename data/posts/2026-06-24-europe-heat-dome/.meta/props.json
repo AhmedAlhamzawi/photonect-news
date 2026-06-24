@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "موجة حر",
+    "arabicHeadline": "قبة حرارية تحبس أوروبا عند 45°م",
+    "englishSubhead": "RECORD HEAT DOME GRIPS WESTERN EUROPE",
+    "heroMedia": "images/news/2026-06-24-europe-heat-dome/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نمط أوميغا يقفل الحر فوق أوروبا",
+      "arabicBody": "نمط أوميغا الجوي يحبس الهواء الساخن فوق غرب أوروبا، مع توقعات بـ 43–45°م في وسط وغرب فرنسا، وفق نماذج ECMWF و GFS.",
+      "bigStat": {
+        "value": "45°م",
+        "label": "France peak forecast",
+        "arabicLabel": "ذروة فرنسا"
+      },
+      "supportingStats": [
+        {
+          "label": "فرنسا",
+          "value": "43–45°م"
+        },
+        {
+          "label": "فوق المعدل",
+          "value": "12–18°م"
+        },
+        {
+          "label": "التوقيت",
+          "value": "أواخر يونيو"
+        }
+      ],
+      "broll": "images/news/2026-06-24-europe-heat-dome/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-europe-heat-dome/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF7A1A",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "بريطانيا تقترب من 40°م لأول مرة",
+      "arabicBody": "قد تبلغ بريطانيا 40°م لأول مرة في يونيو، وإسبانيا 42–45°م، مع تحذيرات من حرائق وجفاف وضربات شمس، وفق نماذج الأرصاد الأوروبية.",
+      "bigStat": {
+        "value": "40°م",
+        "label": "UK June record",
+        "arabicLabel": "رقم بريطانيا"
+      },
+      "supportingStats": [
+        {
+          "label": "بريطانيا",
+          "value": "40°م"
+        },
+        {
+          "label": "إسبانيا",
+          "value": "42–45°م"
+        },
+        {
+          "label": "الخطر",
+          "value": "حرائق وجفاف"
+        }
+      ],
+      "broll": "images/news/2026-06-24-europe-heat-dome/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-europe-heat-dome/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني؟",
+      "arabicHeading": "الأمم المتحدة: 5 سنوات قد تكون الأشد",
+      "arabicBody": "السنوات الخمس المقبلة قد تكون الأشد حرارة على الإطلاق، وفق منظمة الأرصاد العالمية، في نمط يلامس صيف منطقتنا الأكثر قسوة عاماً بعد عام.",
+      "bigStat": {
+        "value": "5 سنوات",
+        "label": "hottest-ever warning",
+        "arabicLabel": "تحذير أممي"
+      },
+      "supportingStats": [
+        {
+          "label": "التحذير",
+          "value": "الأشد حرارة"
+        },
+        {
+          "label": "الجهة",
+          "value": "WMO"
+        },
+        {
+          "label": "المنطقة",
+          "value": "صيف أقسى"
+        }
+      ],
+      "broll": "images/news/2026-06-24-europe-heat-dome/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-europe-heat-dome/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Severe Weather Europe",
+      "domain": "severe-weather.eu"
+    },
+    {
+      "name": "WMO (UN)",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "Met Office",
+      "domain": "metoffice.gov.uk"
+    },
+    {
+      "name": "Meteo-France",
+      "domain": "meteofrance.com"
+    },
+    {
+      "name": "PBS",
+      "domain": "pbs.org"
+    }
+  ],
+  "arabicTicker": [
+    "قبة حرارية بنمط أوميغا تحبس الحر فوق غرب أوروبا حتى مطلع يوليو",
+    "توقعات بـ 43–45°م في وسط وغرب فرنسا، وفق نماذج ECMWF و GFS",
+    "بريطانيا قد تسجّل 40°م لأول مرة في يونيو، وفق مكتب الأرصاد البريطاني",
+    "الحرارة أعلى من المعدل الموسمي بنحو 12–18°م، وفق نماذج الأرصاد الأوروبية",
+    "تحذيرات من حرائق وجفاف ومستشفيات تستعد لاستقبال حالات ضربات الشمس",
+    "منظمة الأرصاد العالمية: السنوات الخمس المقبلة قد تكون الأشد حرارة على الإطلاق",
+    "وهل صيف منطقتنا ماضٍ إلى الطريق نفسه عاماً بعد عام؟"
+  ]
+}

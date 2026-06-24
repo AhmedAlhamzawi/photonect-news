@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUN 24 • 2026",
+  "arabicDateLabel": "24 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تقنية طبية",
+    "arabicHeadline": "نماذج ذكاء عامة تتفوق على أدوات طبية معتمدة",
+    "englishSubhead": "GENERAL LLMs BEAT FDA-CLEARED CLINICAL AI TOOLS",
+    "heroMedia": "images/news/2026-06-24-clinical-ai-benchmark/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ثلاثة نماذج عامة تسبق أدوات الترخيص",
+      "arabicBody": "في 23 يونيو، نشرت Nature Medicine دراسة وجدت أن نماذج ذكاء عامة تفوّقت على أداتين معتمدتين من إدارة الغذاء والدواء في كل اختبار، وفق المجلة.",
+      "bigStat": {
+        "value": "3 نماذج",
+        "label": "general models tested",
+        "arabicLabel": "نماذج ذكاء عامة جرى اختبارها"
+      },
+      "supportingStats": [
+        {
+          "label": "النماذج",
+          "value": "GPT-5.2 وGemini وClaude"
+        },
+        {
+          "label": "الأدوات",
+          "value": "OpenEvidence وUpToDate"
+        },
+        {
+          "label": "المجلة",
+          "value": "Nature Medicine"
+        }
+      ],
+      "broll": "images/news/2026-06-24-clinical-ai-benchmark/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-24-clinical-ai-benchmark/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EA6FF",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "1,800 تقييم مُعمّى خلف الحُكم",
+      "arabicBody": "شملت الدراسة 500 سؤال MedQA و500 من HealthBench و100 استفسار سريري حقيقي، قيّمها 12 طبيباً عبر 1,800 تقييم مُعمّى وعشوائي، وفق الدراسة.",
+      "bigStat": {
+        "value": "1,800",
+        "label": "blinded annotations",
+        "arabicLabel": "تقييم طبي مُعمّى"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسئلة",
+          "value": "1,100 سؤال"
+        },
+        {
+          "label": "الأطباء",
+          "value": "12 طبيباً"
+        },
+        {
+          "label": "التقييمات",
+          "value": "1,800"
+        }
+      ],
+      "broll": "images/news/2026-06-24-clinical-ai-benchmark/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-24-clinical-ai-benchmark/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للمنطقة؟",
+      "arabicHeading": "الأقوى أداءً ليس الأداة المرخّصة",
+      "arabicBody": "يكشف التفوّق فجوة بين الأداء والترخيص، وملفاً يهمّ أنظمة الصحة الخليجية المتبنّية للذكاء الاصطناعي، إذ الأقوى أداءً ليس بالضرورة الأداة المعتمدة، وفق الباحثين.",
+      "bigStat": {
+        "value": "2 معتمدة",
+        "label": "FDA-cleared tools beaten",
+        "arabicLabel": "أداتان معتمدتان جرى تجاوزهما"
+      },
+      "supportingStats": [
+        {
+          "label": "المتجاوَز",
+          "value": "أداتان معتمدتان"
+        },
+        {
+          "label": "النطاق",
+          "value": "كل اختبار"
+        },
+        {
+          "label": "المنطقة",
+          "value": "صحة الخليج"
+        }
+      ],
+      "broll": "images/news/2026-06-24-clinical-ai-benchmark/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-24-clinical-ai-benchmark/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#7C4DFF",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Nature Medicine",
+      "domain": "nature.com"
+    },
+    {
+      "name": "Clinical Trial Vanguard",
+      "domain": "clinicaltrialvanguard.com"
+    },
+    {
+      "name": "Digg",
+      "domain": "digg.com"
+    },
+    {
+      "name": "Science",
+      "domain": "science.org"
+    },
+    {
+      "name": "npj Digital Medicine",
+      "domain": "nature.com"
+    }
+  ],
+  "arabicTicker": [
+    "نماذج ذكاء عامة تتفوق على أدوات طبية معتمدة في كل اختبار وفق Nature Medicine",
+    "GPT-5.2 وGemini 3.1 Pro وClaude Opus 4.6 تسبق OpenEvidence وUpToDate في الدراسة",
+    "الدراسة شملت 500 سؤال MedQA و500 من HealthBench و100 استفسار سريري حقيقي في 23 يونيو",
+    "12 طبيباً أجروا 1,800 تقييم مُعمّى وعشوائي لمخرجات النماذج وفق الدراسة",
+    "النتائج تكشف فجوة بين أداء النماذج العامة وآلية ترخيص الأدوات الطبية المعتمدة",
+    "هل يجب أن تتبنّى أنظمة الصحة الخليجية الأقوى أداءً أم الأداة المرخّصة فقط؟"
+  ]
+}
