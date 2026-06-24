@@ -7,7 +7,7 @@
   "variant": "B",
   "breaking": {
     "arabicKicker": "علوم الفضاء",
-    "arabicHeadline": "حجر من الصحراء يكشف كوكباً ضاع منذ فجر المجموعة",
+    "arabicHeadline": "حجر من الصحراء يكشف كوكباً ضاع منذ النشأة",
     "englishSubhead": "SAHARA METEORITE REVEALS A LOST EARLY PLANET",
     "heroMedia": "images/news/2026-06-24-meteorite-lost-world/hero.jpg",
     "heroMediaType": "image"
@@ -16,7 +16,7 @@
     {
       "label": "ماذا اكتُشف؟",
       "arabicHeading": "شظية من عالم تحطّم في فجر المجموعة",
-      "arabicBody": "نيزك نادر عُثر عليه في الصحراء الكبرى يحمل دليلاً على كوكب أوّلي دار حول الشمس الفتية قبل نحو 4.56 مليار سنة ثم تحطّم، وفق دراسة في مجلة Earth and Planetary Science Letters.",
+      "arabicBody": "نيزك نادر من الصحراء الكبرى يحمل دليلاً على كوكب أوّلي دار حول الشمس قبل نحو 4.56 مليار سنة ثم تحطّم، وفق دراسة في مجلة EPSL.",
       "bigStat": {
         "value": "4.56 مليار سنة",
         "label": "age of the body",
