@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "الخليج ينمو بعيداً عن النفط",
+    "englishSubhead": "GULF ECONOMIES ACCELERATE ON NON-OIL GROWTH",
+    "heroMedia": "images/news/2026-06-25-gulf-nonoil-growth/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "السعودية تنمو 3% بقيادة غير النفط",
+      "arabicBody": "نما الاقتصاد السعودي 3% في الربع الأول 2026، بقيادة الأنشطة غير النفطية، مع توقع ببلوغ النمو 4.5% بحلول 2027، وفق أرب نيوز.",
+      "bigStat": {
+        "value": "3%",
+        "label": "Saudi Q1 2026 GDP growth",
+        "arabicLabel": "نمو الناتج السعودي ربعياً"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو الربع الأول",
+          "value": "3%"
+        },
+        {
+          "label": "توقع 2027",
+          "value": "4.5%"
+        },
+        {
+          "label": "القائد",
+          "value": "غير النفطي"
+        }
+      ],
+      "broll": "images/news/2026-06-25-gulf-nonoil-growth/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-gulf-nonoil-growth/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإمارات تتوقع نمواً 5.6% في 2026",
+      "arabicBody": "يتوقع المصرف المركزي الإماراتي نمو الاقتصاد 5.6% في 2026 مدفوعاً بالقطاعات غير النفطية والتجارة القوية، وفق تقرير المصرف المركزي.",
+      "bigStat": {
+        "value": "5.6%",
+        "label": "UAE 2026 growth forecast",
+        "arabicLabel": "نمو الإمارات المتوقع 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو الإمارات",
+          "value": "5.6%"
+        },
+        {
+          "label": "المحرّك",
+          "value": "غير النفطي"
+        },
+        {
+          "label": "المصدر",
+          "value": "UAE Central Bank"
+        }
+      ],
+      "broll": "images/news/2026-06-25-gulf-nonoil-growth/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-gulf-nonoil-growth/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "نمو خليجي نحو 4.3% بحلول 2027",
+      "arabicBody": "تتوقع هيئة الإحصاء الخليجية تسارع نمو دول المجلس إلى 4.3% بحلول 2027، مع اقتراب الناتج السعودي من 1.1 تريليون دولار، وفق أرب نيوز.",
+      "bigStat": {
+        "value": "4.3%",
+        "label": "GCC growth by 2027",
+        "arabicLabel": "نمو الخليج بحلول 2027"
+      },
+      "supportingStats": [
+        {
+          "label": "نمو الخليج 2027",
+          "value": "4.3%"
+        },
+        {
+          "label": "الناتج السعودي",
+          "value": "1.1 تريليون دولار"
+        },
+        {
+          "label": "المصدر",
+          "value": "GCC-Stat"
+        }
+      ],
+      "broll": "images/news/2026-06-25-gulf-nonoil-growth/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-gulf-nonoil-growth/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "GCC-Stat",
+      "domain": "gccstat.org"
+    },
+    {
+      "name": "UAE Central Bank",
+      "domain": "centralbank.ae"
+    },
+    {
+      "name": "Zawya",
+      "domain": "zawya.com"
+    },
+    {
+      "name": "IMF",
+      "domain": "imf.org"
+    }
+  ],
+  "arabicTicker": [
+    "الاقتصاد السعودي ينمو 3% في الربع الأول من 2026 بقيادة الأنشطة غير النفطية، وفق أرب نيوز",
+    "توقعات ببلوغ النمو السعودي 4.5% بحلول 2027 مع تسارع التنويع الاقتصادي، وفق أرب نيوز",
+    "المصرف المركزي الإماراتي يتوقع نمو الاقتصاد 5.6% في 2026 مدفوعاً بغير النفط، وفق المصرف",
+    "هيئة الإحصاء الخليجية تتوقع تسارع نمو دول المجلس إلى 4.3% بحلول 2027، وفق الهيئة",
+    "الناتج المحلي السعودي يقترب من 1.1 تريليون دولار مع توسّع القطاعات غير النفطية، وفق أرب نيوز",
+    "التجارة والسياحة والصناعة تقود النمو الخليجي بعيداً عن عائدات النفط، وفق أرب نيوز",
+    "هل ينجح الخليج في فك ارتباط نموه بأسعار النفط خلال هذا العقد؟"
+  ]
+}

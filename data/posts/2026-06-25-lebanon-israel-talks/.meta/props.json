@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "لبنان",
+    "arabicHeadline": "جولة خامسة بين لبنان وإسرائيل، وحصيلة تثقل الطاولة",
+    "englishSubhead": "5TH ROUND | 4,211 DEAD",
+    "heroMedia": "images/news/2026-06-25-lebanon-israel-talks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الجولة الخامسة تنعقد على مسارين متوازيين",
+      "arabicBody": "انعقدت الجولة الخامسة بين 23 و25 يونيو على مسارين سياسي وعسكري، بعد أن أرست جولة واشنطن مناطق تجريبية للانسحاب، وفق الجزيرة.",
+      "bigStat": {
+        "value": "5",
+        "label": "round of talks",
+        "arabicLabel": "الجولة من المحادثات"
+      },
+      "supportingStats": [
+        {
+          "label": "الجولة",
+          "value": "الخامسة"
+        },
+        {
+          "label": "التواريخ",
+          "value": "23–25 يونيو"
+        },
+        {
+          "label": "المساران",
+          "value": "سياسي وعسكري"
+        }
+      ],
+      "broll": "images/news/2026-06-25-lebanon-israel-talks/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-lebanon-israel-talks/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "وساطة ثلاثية تعلن هدنة، والحزب اشترط انسحاباً",
+      "arabicBody": "قال مسؤول أمريكي في 19 يونيو إن إسرائيل وحزب الله اتفقا على هدنة برعاية واشنطن وقطر وإيران، فيما طالب الحزب سابقاً بانسحاب كامل، وفق رويترز.",
+      "bigStat": {
+        "value": "3 وسطاء",
+        "label": "mediating states",
+        "arabicLabel": "دول الوساطة"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسطاء",
+          "value": "أمريكا وقطر وإيران"
+        },
+        {
+          "label": "مطلب الحزب",
+          "value": "انسحاب كامل"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-25-lebanon-israel-talks/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-lebanon-israel-talks/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "حصيلة بشرية ثقيلة تظلّل طاولة التفاوض",
+      "arabicBody": "تعلن وزارة الصحة اللبنانية 4,211 قتيلاً و12,173 جريحاً منذ الثاني من مارس، ما يرفع الضغط نحو تثبيت وقف دائم لإطلاق النار، وفق الوزارة.",
+      "bigStat": {
+        "value": "4,211",
+        "label": "deaths since March 2",
+        "arabicLabel": "قتلى منذ 2 مارس"
+      },
+      "supportingStats": [
+        {
+          "label": "القتلى",
+          "value": "4,211"
+        },
+        {
+          "label": "الجرحى",
+          "value": "12,173"
+        },
+        {
+          "label": "منذ",
+          "value": "2 مارس"
+        }
+      ],
+      "broll": "images/news/2026-06-25-lebanon-israel-talks/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-lebanon-israel-talks/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "AP",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "جولة خامسة بين لبنان وإسرائيل بين 23 و25 يونيو على مسارين سياسي وعسكري، وفق الجزيرة",
+    "جولة واشنطن الرابعة أرست مناطق تجريبية للانسحاب وتسلّم الجيش اللبناني، وفق الجزيرة",
+    "مسؤول أمريكي: إسرائيل وحزب الله اتفقا في 19 يونيو على هدنة برعاية أمريكا وقطر وإيران، وفق رويترز",
+    "حزب الله طالب سابقاً بانسحاب إسرائيلي كامل من جنوب لبنان، وفق رويترز",
+    "وزارة الصحة اللبنانية تعلن 4,211 قتيلاً و12,173 جريحاً منذ 2 مارس، وفق الوزارة",
+    "الضغط يتصاعد نحو تثبيت وقف دائم لإطلاق النار بعد خمس جولات، وفق الجزيرة",
+    "هل تثبّت الجولة الخامسة الهدنة، أم تتعثر كما الجولات السابقة؟"
+  ]
+}

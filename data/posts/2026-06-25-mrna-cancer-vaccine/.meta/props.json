@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "لقاحات mRNA تفتح عصراً جديداً للسرطان",
+    "englishSubhead": "mRNA CANCER VACCINES ENTER A NEW CLINICAL ERA",
+    "heroMedia": "images/news/2026-06-25-mrna-cancer-vaccine/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "لقاح مخصّص يقلّص خطر عودة الميلانوما",
+      "arabicBody": "لقاح mRNA مخصّص مع دواء مناعي خفض خطر عودة الميلانوما أو الوفاة 49%، وخطر الانتشار البعيد 62% مقابل العلاج المناعي وحده، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "49%",
+        "label": "lower recurrence risk",
+        "arabicLabel": "انخفاض خطر العودة"
+      },
+      "supportingStats": [
+        {
+          "label": "خطر العودة",
+          "value": "‑49%"
+        },
+        {
+          "label": "الانتشار البعيد",
+          "value": "‑62%"
+        },
+        {
+          "label": "المرض",
+          "value": "ميلانوما"
+        }
+      ],
+      "broll": "images/news/2026-06-25-mrna-cancer-vaccine/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-mrna-cancer-vaccine/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "لقاحات تستهدف طفرات السرطان مباشرة",
+      "arabicBody": "لقاحات mRNA تستهدف طفرة KRAS في سرطاني البنكرياس والقولون تدخل المرحلة الثانية، ونتائجها متوقعة خلال 2026، وفق سلون كيترينغ.",
+      "bigStat": {
+        "value": "2026",
+        "label": "phase-2 data expected",
+        "arabicLabel": "نتائج المرحلة الثانية"
+      },
+      "supportingStats": [
+        {
+          "label": "الطفرة المستهدفة",
+          "value": "KRAS"
+        },
+        {
+          "label": "السرطانات",
+          "value": "بنكرياس وقولون"
+        },
+        {
+          "label": "المرحلة",
+          "value": "الثانية"
+        }
+      ],
+      "broll": "images/news/2026-06-25-mrna-cancer-vaccine/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-mrna-cancer-vaccine/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للمنطقة؟",
+      "arabicHeading": "بقاء طويل وأمل لأنظمة الخليج الصحية",
+      "arabicBody": "نحو 90% ممن استجابت مناعتهم للقاح بنكرياس بقوا أحياء حتى 6 سنوات، أملٌ لأنظمة الخليج الصحية المثقلة بالسرطان، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "90%",
+        "label": "responders alive at 6 years",
+        "arabicLabel": "بقاء المستجيبين بعد 6 سنوات"
+      },
+      "supportingStats": [
+        {
+          "label": "نسبة البقاء",
+          "value": "نحو 90%"
+        },
+        {
+          "label": "المدة",
+          "value": "حتى 6 سنوات"
+        },
+        {
+          "label": "المصدر",
+          "value": "ScienceDaily"
+        }
+      ],
+      "broll": "images/news/2026-06-25-mrna-cancer-vaccine/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-mrna-cancer-vaccine/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Nature Medicine",
+      "domain": "nature.com"
+    },
+    {
+      "name": "Memorial Sloan Kettering",
+      "domain": "mskcc.org"
+    },
+    {
+      "name": "Cancer Research Institute",
+      "domain": "cancerresearch.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Science",
+      "domain": "science.org"
+    }
+  ],
+  "arabicTicker": [
+    "لقاح mRNA مخصّص مع علاج مناعي خفض خطر عودة الميلانوما أو الوفاة 49%، وفق ساينس ديلي",
+    "اللقاح نفسه خفض خطر الانتشار البعيد أو الوفاة 62% مقارنة بالعلاج المناعي وحده، وفق ساينس ديلي",
+    "لقاحات mRNA تستهدف طفرة KRAS في سرطاني البنكرياس والقولون تدخل المرحلة الثانية، وفق سلون كيترينغ",
+    "نتائج تجارب لقاحات السرطان المستهدفة متوقعة خلال 2026، وفق ساينس ديلي",
+    "نحو 90% ممن استجابت مناعتهم للقاح البنكرياس بقوا أحياء حتى ست سنوات، وفق ساينس ديلي",
+    "تقدّم لقاحات mRNA يفتح أملاً لأنظمة الخليج الصحية المثقلة بأعباء السرطان، وفق ساينس ديلي",
+    "هل تتحول لقاحات mRNA إلى علاج عام جاهز ضد عدة أنواع من السرطان؟"
+  ]
+}

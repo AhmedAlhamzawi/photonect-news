@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق",
+    "arabicHeadline": "فجوة 11 غيغاواط في كهرباء العراق صيفاً",
+    "englishSubhead": "IRAQ'S POWER GRID BUCKLES AS SUMMER PEAK NEARS",
+    "heroMedia": "images/news/2026-06-25-iraq-power-grid-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "فجوة 11 غيغاواط قبل ذروة الصيف",
+      "arabicBody": "يبلغ الطلب نحو 40 غيغاواط صيفاً مقابل إنتاج نحو 29 غيغاواط، أي فجوة 11 غيغاواط، مع اقتراب الحرارة من 50 مئوية، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "40 غيغاواط",
+        "label": "summer peak demand",
+        "arabicLabel": "ذروة الطلب صيفاً"
+      },
+      "supportingStats": [
+        {
+          "label": "الطلب صيفاً",
+          "value": "40 غيغاواط"
+        },
+        {
+          "label": "الإنتاج الحالي",
+          "value": "29 غيغاواط"
+        },
+        {
+          "label": "المصدر",
+          "value": "Shafaq News"
+        }
+      ],
+      "broll": "images/news/2026-06-25-iraq-power-grid-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-iraq-power-grid-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الغاز سُدس الحاجة وواشنطن توقف الإعفاء",
+      "arabicBody": "يبلغ استيراد الغاز نحو 5 ملايين م³ يومياً مقابل 30 مليوناً مطلوبة، بعد توقف الإعفاء الأمريكي لاستيراد الكهرباء من إيران، وفق المجلس الأطلسي.",
+      "bigStat": {
+        "value": "5 ملايين م³",
+        "label": "daily gas imports",
+        "arabicLabel": "استيراد الغاز يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "استيراد الغاز",
+          "value": "5 ملايين م³"
+        },
+        {
+          "label": "الحاجة الفعلية",
+          "value": "30 مليون م³"
+        },
+        {
+          "label": "الإعفاء الأمريكي",
+          "value": "أُوقف"
+        }
+      ],
+      "broll": "images/news/2026-06-25-iraq-power-grid-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-iraq-power-grid-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "احتجاجات الديوانية وبغداد تبحث التمويل",
+      "arabicBody": "خرجت احتجاجات في الديوانية مع تزايد الانقطاعات، وتسعى بغداد لتأمين منشآت النفط واستئناف الصادرات لتمويل إصلاح الشبكة، وفق شفق نيوز ورويترز.",
+      "bigStat": {
+        "value": "نحو 50°م",
+        "label": "summer temperatures",
+        "arabicLabel": "حرارة الصيف"
+      },
+      "supportingStats": [
+        {
+          "label": "الاحتجاجات",
+          "value": "الديوانية"
+        },
+        {
+          "label": "الحرارة",
+          "value": "نحو 50°م"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-25-iraq-power-grid-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-iraq-power-grid-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    },
+    {
+      "name": "Baker Institute",
+      "domain": "bakerinstitute.org"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "EPIC",
+      "domain": "enablingpeace.org"
+    }
+  ],
+  "arabicTicker": [
+    "الطلب على الكهرباء في العراق يقترب من 40 غيغاواط صيفاً مقابل إنتاج نحو 29 غيغاواط، وفق شفق نيوز",
+    "استيراد الغاز يبلغ نحو 5 ملايين م³ يومياً مقابل 30 مليوناً مطلوبة لتشغيل المحطات، وفق شفق نيوز",
+    "واشنطن أوقفت إعفاء استيراد الكهرباء من إيران، ما يضغط على الشبكة العراقية، وفق المجلس الأطلسي",
+    "احتجاجات في الديوانية مع تفاقم انقطاعات الكهرباء واقتراب الحرارة من 50 مئوية، وفق شفق نيوز",
+    "بغداد تسعى لتأمين منشآت النفط واستئناف الصادرات لتمويل إصلاح قطاع الكهرباء، وفق رويترز",
+    "إصلاح الشبكة يبقى رهن حل أزمة الغاز وتنويع مصادر الطاقة، وفق معهد بيكر",
+    "هل يصمد العراق أمام ذروة صيف 2026 أم يتكرر سيناريو الانقطاعات الواسعة؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "يانيس إلى ميامي في صفقة تاريخية",
+    "englishSubhead": "ANTETOKOUNMPO TRADED TO MIAMI HEAT IN BLOCKBUSTER DEAL",
+    "heroMedia": "images/news/2026-06-25-giannis-heat-trade/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "ميلووكي تتخلى عن نجمها يانيس",
+      "arabicBody": "انتقل يانيس أنتيتوكونمبو من ميلووكي باكس إلى ميامي هيت في 23 يونيو، في واحدة من أكبر صفقات تاريخ الدوري الأمريكي، وفق ESPN.",
+      "bigStat": {
+        "value": "MVP ×2",
+        "label": "two-time MVP",
+        "arabicLabel": "أفضل لاعب مرتين"
+      },
+      "supportingStats": [
+        {
+          "label": "اللاعب",
+          "value": "يانيس، 31"
+        },
+        {
+          "label": "من",
+          "value": "ميلووكي"
+        },
+        {
+          "label": "إلى",
+          "value": "ميامي"
+        }
+      ],
+      "broll": "images/news/2026-06-25-giannis-heat-trade/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-giannis-heat-trade/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "تفاصيل الصفقة",
+      "arabicHeading": "لاعبون واختيارات أولى مقابل النجم",
+      "arabicBody": "أرسلت ميامي تايلر هيرو وكيليل وير وخاكيز مع اختياري الجولة الأولى 2031 و2033 دون حماية، ونالت ميلووكي الاختيار 13 لدرافت 2026، وفق ESPN.",
+      "bigStat": {
+        "value": "2031 و2033",
+        "label": "unprotected first-round picks",
+        "arabicLabel": "اختيارات أولى دون حماية"
+      },
+      "supportingStats": [
+        {
+          "label": "إلى ميلووكي",
+          "value": "3 لاعبين"
+        },
+        {
+          "label": "اختيارات أولى",
+          "value": "2031 و2033"
+        },
+        {
+          "label": "اختيار الدرافت",
+          "value": "13"
+        }
+      ],
+      "broll": "images/news/2026-06-25-giannis-heat-trade/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-giannis-heat-trade/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نهاية حقبة في ميلووكي",
+      "arabicBody": "بعد موسم بسجل 32 فوزاً و50 خسارة، ولعب يانيس 36 مباراة فقط للإصابة، تطوي ميلووكي صفحة بطل 2021، وتبني ميامي مشروعها، وفق واشنطن بوست.",
+      "bigStat": {
+        "value": "32–50",
+        "label": "Bucks 2025-26 record",
+        "arabicLabel": "سجل ميلووكي هذا الموسم"
+      },
+      "supportingStats": [
+        {
+          "label": "سجل الموسم",
+          "value": "32–50"
+        },
+        {
+          "label": "مباريات يانيس",
+          "value": "36"
+        },
+        {
+          "label": "لقب باكس",
+          "value": "2021"
+        }
+      ],
+      "broll": "images/news/2026-06-25-giannis-heat-trade/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-giannis-heat-trade/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "NBA",
+      "domain": "nba.com"
+    },
+    {
+      "name": "Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "NBC Miami",
+      "domain": "nbcmiami.com"
+    }
+  ],
+  "arabicTicker": [
+    "يانيس أنتيتوكونمبو ينتقل من ميلووكي باكس إلى ميامي هيت في 23 يونيو، وفق ESPN",
+    "الصفقة من أكبر صفقات تاريخ الدوري الأمريكي لكرة السلة، وفق ESPN",
+    "ميامي ترسل تايلر هيرو وكيليل وير وخاكيز واختياري 2031 و2033 دون حماية، وفق ESPN",
+    "ميلووكي تنال الاختيار 13 في درافت 2026 ضمن الصفقة، وفق ESPN",
+    "يانيس أفضل لاعب مرتين وبطل وأفضل لاعب في نهائي 2021 مع باكس، وفق NBA",
+    "ميلووكي أنهت موسم 2025-2026 بسجل 32 فوزاً مقابل 50 خسارة، وفق واشنطن بوست",
+    "هل يقود يانيس ميامي إلى اللقب، أم تبدأ ميلووكي إعادة بناء طويلة؟"
+  ]
+}

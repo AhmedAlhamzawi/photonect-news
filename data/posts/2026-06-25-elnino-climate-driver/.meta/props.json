@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 25 • 2026",
+  "arabicDateLabel": "25 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مناخ",
+    "arabicHeadline": "النينيو تعود.. والعالم يستعد لشتاء متقلّب",
+    "englishSubhead": "NOAA | EL NIÑO FORMED | STRENGTHENING BY FALL",
+    "heroMedia": "images/news/2026-06-25-elnino-climate-driver/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "NOAA تعلن تشكّل ظاهرة النينيو",
+      "arabicBody": "أعلنت NOAA تشكّل ظاهرة النينيو في المحيط الهادئ الاستوائي، وأصدرت تنبيهاً رسمياً بها، وفق الإدارة الأمريكية للمحيطات والغلاف الجوي.",
+      "bigStat": {
+        "value": "النينيو",
+        "label": "El Niño advisory issued",
+        "arabicLabel": "تنبيه النينيو الرسمي"
+      },
+      "supportingStats": [
+        {
+          "label": "الظاهرة",
+          "value": "النينيو"
+        },
+        {
+          "label": "الموقع",
+          "value": "المحيط الهادئ"
+        },
+        {
+          "label": "المصدر",
+          "value": "NOAA"
+        }
+      ],
+      "broll": "images/news/2026-06-25-elnino-climate-driver/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-25-elnino-climate-driver/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "توقّعات باشتدادها إلى مستوى قوي خريفاً",
+      "arabicBody": "يتوقّع خبراء NOAA اشتداد النينيو إلى مستوى متوسط أو قوي بحلول خريف 2026، ما قد يعيد رسم خرائط الأمطار والحرارة عالمياً.",
+      "bigStat": {
+        "value": "خريف 2026",
+        "label": "expected to strengthen",
+        "arabicLabel": "موعد الاشتداد المتوقع"
+      },
+      "supportingStats": [
+        {
+          "label": "قوة الظاهرة",
+          "value": "متوسطة–قوية"
+        },
+        {
+          "label": "الموعد",
+          "value": "خريف 2026"
+        },
+        {
+          "label": "التأثير",
+          "value": "أمطار وحرارة"
+        }
+      ],
+      "broll": "images/news/2026-06-25-elnino-climate-driver/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-25-elnino-climate-driver/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا يعني للمنطقة؟",
+      "arabicHeading": "أمطار محتملة ومخاطر للعراق والخليج",
+      "arabicBody": "قد يغيّر النينيو أمطار الشرق الأوسط شتاءً، بين انفراج للجفاف وخطر فيضانات؛ وتدعو المنظمة العالمية للأرصاد إلى الاستعداد المبكر.",
+      "bigStat": {
+        "value": "شتاء 2026",
+        "label": "regional impact season",
+        "arabicLabel": "موسم التأثير على المنطقة"
+      },
+      "supportingStats": [
+        {
+          "label": "المنطقة",
+          "value": "الشرق الأوسط"
+        },
+        {
+          "label": "بين",
+          "value": "انفراج وفيضان"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-06-25-elnino-climate-driver/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-25-elnino-climate-driver/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#5B8FF9",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NOAA",
+      "domain": "noaa.gov"
+    },
+    {
+      "name": "Climate Prediction Center",
+      "domain": "cpc.ncep.noaa.gov"
+    },
+    {
+      "name": "WMO",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "IRI Columbia",
+      "domain": "iri.columbia.edu"
+    },
+    {
+      "name": "GFDL",
+      "domain": "gfdl.noaa.gov"
+    }
+  ],
+  "arabicTicker": [
+    "NOAA تعلن تشكّل ظاهرة النينيو في المحيط الهادئ الاستوائي وتصدر تنبيهاً رسمياً، وفق NOAA",
+    "خبراء NOAA يتوقعون اشتداد النينيو إلى مستوى متوسط أو قوي بحلول خريف 2026، وفق NOAA",
+    "النينيو قد يعيد رسم خرائط الأمطار والحرارة حول العالم خلال الأشهر المقبلة، وفق NOAA",
+    "المنظمة العالمية للأرصاد تدعو حكومات العالم إلى الاستعداد المبكر لتأثيرات النينيو، وفق المنظمة",
+    "النينيو قد يغيّر أمطار الشرق الأوسط شتاءً بين انفراج للجفاف وخطر فيضانات، وفق المنظمة",
+    "العراق والخليج يراقبان موسم الأمطار المقبل بعد سنوات جفاف طويلة، وفق المنظمة العالمية للأرصاد",
+    "هل يجلب النينيو انفراجاً مائياً للعراق والخليج أم موجة فيضانات جديدة؟"
+  ]
+}
