@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 26 • 2026",
+  "arabicDateLabel": "26 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "كهف عمره 300 ألف عام يكشف ماضي الإنسان",
+    "englishSubhead": "300,000-YEAR-OLD CARMEL CAVE OPENS A WINDOW ON EARLY HUMANS",
+    "heroMedia": "images/news/2026-06-26-carmel-cave-prehistory/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كهف مغلق منذ 300 ألف عام",
+      "arabicBody": "كشف علماء كهفاً في جبل الكرمل قرب حيفا حفظه سقف منهار نحو 300 ألف عام، يحوي أدوات حجرية وعظام حيوانات وآثار نار، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "300 ألف",
+        "label": "years old",
+        "arabicLabel": "عمر الموقع بالسنوات"
+      },
+      "supportingStats": [
+        {
+          "label": "العمر",
+          "value": "300 ألف عام"
+        },
+        {
+          "label": "الموقع",
+          "value": "جبل الكرمل"
+        },
+        {
+          "label": "المحتوى",
+          "value": "أدوات ونار"
+        }
+      ],
+      "broll": "images/news/2026-06-26-carmel-cave-prehistory/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-26-carmel-cave-prehistory/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "80 ألف بقية حيوانية و100 مكشطة",
+      "arabicBody": "فحص الباحثون أكثر من 80 ألف بقية حيوانية وقرابة 100 مكشطة وفؤوس يدوية دقيقة، تشير إلى جماعات منظمة تصطاد وتستخدم النار، وفق واي نت.",
+      "bigStat": {
+        "value": "80 ألف",
+        "label": "animal remains",
+        "arabicLabel": "بقايا حيوانية"
+      },
+      "supportingStats": [
+        {
+          "label": "البقايا",
+          "value": "80 ألف"
+        },
+        {
+          "label": "الأدوات",
+          "value": "100 مكشطة"
+        },
+        {
+          "label": "الدلالة",
+          "value": "استخدام النار"
+        }
+      ],
+      "broll": "images/news/2026-06-26-carmel-cave-prehistory/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-26-carmel-cave-prehistory/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موقع نادر يضيء حقبة غامضة",
+      "arabicBody": "ينتمي الموقع إلى الحقبة الأشولية-اليبرودية النادرة، وهو الوحيد من نوعه في جبل الكرمل، ما يضيء فصلاً مجهولاً من تطور الإنسان، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "10 مواقع",
+        "label": "in the Near East",
+        "arabicLabel": "مواقع في الشرق الأدنى"
+      },
+      "supportingStats": [
+        {
+          "label": "الحقبة",
+          "value": "أشولية-يبرودية"
+        },
+        {
+          "label": "الندرة",
+          "value": "نحو 10 مواقع"
+        },
+        {
+          "label": "التفرّد",
+          "value": "الوحيد بالكرمل"
+        }
+      ],
+      "broll": "images/news/2026-06-26-carmel-cave-prehistory/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-26-carmel-cave-prehistory/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "Ynetnews",
+      "domain": "ynetnews.com"
+    },
+    {
+      "name": "NaturalNews",
+      "domain": "naturalnews.com"
+    },
+    {
+      "name": "Archaeology Magazine",
+      "domain": "archaeology.org"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    }
+  ],
+  "arabicTicker": [
+    "كهف عمره 300 ألف عام يكشف ماضي الإنسان",
+    "سقف منهار حوّل الموقع إلى كبسولة زمنية محكمة",
+    "أكثر من 80 ألف بقية حيوانية تحت الدراسة الآن",
+    "قرابة 100 مكشطة وفؤوس يدوية دقيقة الصنع",
+    "أدلة على الصيد المنظّم واستخدام النار قبل 300 ألف عام",
+    "موقع وحيد من حقبة أشولية-يبرودية نادرة في الكرمل",
+    "ماذا يخبئ الكهف بعد عن فجر الإنسان؟"
+  ]
+}

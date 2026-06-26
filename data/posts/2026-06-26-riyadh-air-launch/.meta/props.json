@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 26 • 2026",
+  "arabicDateLabel": "26 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "طيران الرياض يقلع نحو لندن قبل موعده",
+    "englishSubhead": "RIYADH AIR LAUNCHES — SAUDI ARABIA'S NEW NATIONAL CARRIER TAKES OFF",
+    "heroMedia": "images/news/2026-06-26-riyadh-air-launch/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طيران الرياض يقلع نحو لندن",
+      "arabicBody": "أقلعت طيران الرياض السعودية في أولى رحلاتها التجارية من الرياض إلى لندن هيثرو يوم 10 يونيو، متقدّمةً على موعدها ثلاثة أسابيع، وفق إيرو روتس.",
+      "bigStat": {
+        "value": "10 يونيو",
+        "label": "first flight",
+        "arabicLabel": "أولى الرحلات"
+      },
+      "supportingStats": [
+        {
+          "label": "الإقلاع",
+          "value": "10 يونيو"
+        },
+        {
+          "label": "الوجهة",
+          "value": "لندن هيثرو"
+        },
+        {
+          "label": "الناقل",
+          "value": "طيران الرياض"
+        }
+      ],
+      "broll": "images/news/2026-06-26-riyadh-air-launch/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-26-riyadh-air-launch/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ست وجهات على طائرات 787 دريملاينر",
+      "arabicBody": "تشغّل الناقلة ست وجهات إطلاق على طائرات بوينغ 787-9 دريملاينر، تشمل جدة ودبي والقاهرة، بعد تسلّم أولى طائراتها في 5 يونيو، وفق ويغو.",
+      "bigStat": {
+        "value": "6 وجهات",
+        "label": "launch routes",
+        "arabicLabel": "وجهات الإطلاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الوجهات",
+          "value": "6 مدن"
+        },
+        {
+          "label": "الأسطول",
+          "value": "بوينغ 787-9"
+        },
+        {
+          "label": "تشمل",
+          "value": "جدة ودبي والقاهرة"
+        }
+      ],
+      "broll": "images/news/2026-06-26-riyadh-air-launch/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-26-riyadh-air-launch/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ذراع رؤية 2030 لمركز طيران عالمي",
+      "arabicBody": "الناقلة المملوكة لصندوق الاستثمارات العامة ركيزة في رؤية 2030 لتحويل الرياض إلى مركز طيران عالمي، مع توسّع مرتقب نحو مدريد ومانشستر، وفق إكزكتيف ترافيلر.",
+      "bigStat": {
+        "value": "2030",
+        "label": "Vision hub goal",
+        "arabicLabel": "هدف رؤية المملكة"
+      },
+      "supportingStats": [
+        {
+          "label": "المالك",
+          "value": "صندوق الاستثمارات"
+        },
+        {
+          "label": "الهدف",
+          "value": "مركز طيران عالمي"
+        },
+        {
+          "label": "التوسّع",
+          "value": "مدريد ومانشستر"
+        }
+      ],
+      "broll": "images/news/2026-06-26-riyadh-air-launch/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-26-riyadh-air-launch/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Riyadh Air",
+      "domain": "riyadhair.com"
+    },
+    {
+      "name": "AeroRoutes",
+      "domain": "aeroroutes.com"
+    },
+    {
+      "name": "Wego",
+      "domain": "wego.com"
+    },
+    {
+      "name": "Executive Traveller",
+      "domain": "executivetraveller.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "طيران الرياض يقلع نحو لندن قبل موعده",
+    "الإطلاق قُدِّم ثلاثة أسابيع إلى 10 يونيو",
+    "ست وجهات إطلاق بطائرات بوينغ 787-9 دريملاينر",
+    "تشمل الوجهات جدة ودبي والقاهرة",
+    "الناقلة مملوكة لصندوق الاستثمارات العامة",
+    "ركيزة في رؤية 2030 لمركز طيران عالمي",
+    "هل تنتزع الرياض عرش مراكز الطيران الخليجية؟"
+  ]
+}

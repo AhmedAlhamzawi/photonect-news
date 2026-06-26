@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 26 • 2026",
+  "arabicDateLabel": "26 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "8 منتخبات عربية تكتب تاريخ المونديال",
+    "englishSubhead": "EIGHT ARAB TEAMS MAKE HISTORY AT THE 2026 WORLD CUP",
+    "heroMedia": "images/news/2026-06-26-worldcup-arab-teams/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رقم قياسي: 8 منتخبات عربية تحت الأضواء",
+      "arabicBody": "8 منتخبات عربية تقتحم مونديال 2026 برقم قياسي: الجزائر ومصر والعراق والأردن والمغرب وقطر والسعودية وتونس، وفق الجزيرة.",
+      "bigStat": {
+        "value": "8 منتخبات",
+        "label": "Arab teams",
+        "arabicLabel": "منتخبات عربية"
+      },
+      "supportingStats": [
+        {
+          "label": "العدد",
+          "value": "8 منتخبات"
+        },
+        {
+          "label": "الحدث",
+          "value": "مونديال 2026"
+        },
+        {
+          "label": "الوصف",
+          "value": "رقم قياسي"
+        }
+      ],
+      "broll": "images/news/2026-06-26-worldcup-arab-teams/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-26-worldcup-arab-teams/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المغرب يضرب أولاً ويبلغ دور الـ32",
+      "arabicBody": "المغرب يكتسح هايتي 4-2 ويقتحم دور الـ32 كأقوى العرب، ومصر على بُعد خطوة من اللحاق به، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "4-2",
+        "label": "Morocco beat Haiti",
+        "arabicLabel": "المغرب يهزم هايتي"
+      },
+      "supportingStats": [
+        {
+          "label": "المغرب",
+          "value": "دور الـ32"
+        },
+        {
+          "label": "النتيجة",
+          "value": "4-2 هايتي"
+        },
+        {
+          "label": "مصر",
+          "value": "تقترب"
+        }
+      ],
+      "broll": "images/news/2026-06-26-worldcup-arab-teams/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-26-worldcup-arab-teams/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الجزائر والسعودية تطاردان بطاقة العبور",
+      "arabicBody": "الجزائر تقترب بقوة من التأهل، والسعودية تتمسك بأمل أخير أمام الرأس الأخضر بعد سقوطها أمام إسبانيا 4-0، وفق غلف نيوز.",
+      "bigStat": {
+        "value": "4-0",
+        "label": "Saudi lost to Spain",
+        "arabicLabel": "السعودية تخسر أمام إسبانيا"
+      },
+      "supportingStats": [
+        {
+          "label": "الجزائر",
+          "value": "فرصة كبيرة"
+        },
+        {
+          "label": "السعودية",
+          "value": "أمل أخير"
+        },
+        {
+          "label": "المنافس",
+          "value": "الرأس الأخضر"
+        }
+      ],
+      "broll": "images/news/2026-06-26-worldcup-arab-teams/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-26-worldcup-arab-teams/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    }
+  ],
+  "arabicTicker": [
+    "8 منتخبات عربية تكتب تاريخ المونديال",
+    "المغرب يكتسح هايتي 4-2 ويبلغ دور الـ32",
+    "مصر على بُعد خطوة من الأدوار الإقصائية",
+    "الجزائر تقترب بقوة من بطاقة التأهل",
+    "السعودية تتمسك بالأمل بعد سقوطها أمام إسبانيا 4-0",
+    "العراق والأردن وقطر وتونس ضمن المشهد العربي",
+    "أي منتخب عربي يرفع راية العرب أبعد في البطولة؟"
+  ]
+}

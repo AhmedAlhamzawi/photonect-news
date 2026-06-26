@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 26 • 2026",
+  "arabicDateLabel": "26 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الشرق الأوسط",
+    "arabicHeadline": "غروسي: تفتيش مواقع إيران سيحدث وطهران تشترط",
+    "englishSubhead": "IAEA CHIEF SAYS IRAN INSPECTIONS WILL HAPPEN; TEHRAN SETS CONDITIONS",
+    "heroMedia": "images/news/2026-06-26-iran-iaea-inspections/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "غروسي يقول إن التفتيش سيحدث",
+      "arabicBody": "قال مدير الوكالة الدولية للطاقة الذرية رافائيل غروسي إن تفتيش مواقع إيران النووية «سيحدث»، استناداً إلى مذكرة تفاهم وُقّعت مع واشنطن، وفق الجزيرة.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "US-Iran talks window",
+        "arabicLabel": "نافذة المحادثات"
+      },
+      "supportingStats": [
+        {
+          "label": "الوكالة",
+          "value": "تصرّ على التفتيش"
+        },
+        {
+          "label": "الأساس",
+          "value": "مذكرة تفاهم"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-26-iran-iaea-inspections/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-26-iran-iaea-inspections/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "طهران تربط التفتيش باتفاق نهائي",
+      "arabicBody": "قال نائب وزير الخارجية الإيراني كاظم غريب آبادي إن وصول المفتشين مرهون باتفاق نهائي مع واشنطن ورفع جميع العقوبات، وفق إن بي آر.",
+      "bigStat": {
+        "value": "العقوبات",
+        "label": "Iran's condition",
+        "arabicLabel": "شرط طهران"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرط",
+          "value": "رفع العقوبات"
+        },
+        {
+          "label": "المرجعية",
+          "value": "اتفاق نهائي"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-26-iran-iaea-inspections/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-26-iran-iaea-inspections/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "خلاف على المواعيد والمواقع",
+      "arabicBody": "تتواصل مناقشة مواعيد التفتيش ومواقعه بالتنسيق مع الحكومة الإيرانية، فيما تنفي طهران وجود اتفاق نهائي حتى الآن، وفق يورونيوز.",
+      "bigStat": {
+        "value": "قيد النقاش",
+        "label": "dates & sites",
+        "arabicLabel": "المواعيد والمواقع"
+      },
+      "supportingStats": [
+        {
+          "label": "المواعيد",
+          "value": "قيد النقاش"
+        },
+        {
+          "label": "الموقف",
+          "value": "طهران تنفي اتفاقاً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Euronews"
+        }
+      ],
+      "broll": "images/news/2026-06-26-iran-iaea-inspections/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-26-iran-iaea-inspections/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "Euronews",
+      "domain": "euronews.com"
+    },
+    {
+      "name": "IAEA",
+      "domain": "iaea.org"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "غروسي: تفتيش مواقع إيران النووية «سيحدث»",
+    "مذكرة تفاهم مع واشنطن تمهّد لمحادثات 60 يوماً",
+    "طهران: التفتيش مرهون باتفاق نهائي ورفع العقوبات",
+    "نائب الخارجية الإيراني كاظم غريب آبادي يضع شروطاً",
+    "مناقشة مواعيد ومواقع التفتيش بالتنسيق مع طهران",
+    "إيران تنفي وجود اتفاق نهائي حتى الآن",
+    "الملف النووي على طاولة المفاوضات الأمريكية الإيرانية"
+  ]
+}

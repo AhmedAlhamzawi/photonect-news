@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 26 • 2026",
+  "arabicDateLabel": "26 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طب وتقنية",
+    "arabicHeadline": "جراح في ووهان يستأصل ورماً في أثينا",
+    "englishSubhead": "SURGEON IN CHINA REMOVES TUMOR IN ATHENS, 8,000 KM AWAY",
+    "heroMedia": "images/news/2026-06-26-telesurgery-athens-wuhan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "جراح يتحكم بروبوت من قارة أخرى",
+      "arabicBody": "أجرى البروفيسور إيفانجيلوس لياتسيكوس استئصال بروستات لمريض في أثينا، فيما هو في ووهان الصينية على بُعد 8,000 كيلومتر، وفق غريك ريبورتر.",
+      "bigStat": {
+        "value": "8,000 كم",
+        "label": "operating distance",
+        "arabicLabel": "مسافة العملية"
+      },
+      "supportingStats": [
+        {
+          "label": "المسافة",
+          "value": "8,000 كم"
+        },
+        {
+          "label": "المريض",
+          "value": "أثينا"
+        },
+        {
+          "label": "الجراح",
+          "value": "ووهان"
+        }
+      ],
+      "broll": "images/news/2026-06-26-telesurgery-athens-wuhan/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-26-telesurgery-athens-wuhan/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "زمن تأخير شبه معدوم يحسم النتيجة",
+      "arabicBody": "اعتمدت العملية على ألياف ضوئية فائقة السرعة بزمن استجابة شبه معدوم، فتحوّل التطبيب عن بُعد من تشخيص إلى علاج فعلي، وفق نيوس كوزموس.",
+      "bigStat": {
+        "value": "صفر",
+        "label": "transmission latency",
+        "arabicLabel": "زمن التأخير"
+      },
+      "supportingStats": [
+        {
+          "label": "التأخير",
+          "value": "صفر"
+        },
+        {
+          "label": "التقنية",
+          "value": "ألياف ضوئية"
+        },
+        {
+          "label": "النوع",
+          "value": "روبوتي"
+        }
+      ],
+      "broll": "images/news/2026-06-26-telesurgery-athens-wuhan/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-26-telesurgery-athens-wuhan/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الخبرة الجراحية تصل المناطق النائية",
+      "arabicBody": "تتيح الجراحة الوصول لمرضى في مناطق نائية تفتقر للخبرة الجراحية، وهي الأولى العابرة للقارات في اليونان، وفق أثينا تايمز.",
+      "bigStat": {
+        "value": "الأولى",
+        "label": "intercontinental in Greece",
+        "arabicLabel": "الأولى في اليونان"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنجاز",
+          "value": "الأول باليونان"
+        },
+        {
+          "label": "المجال",
+          "value": "المسالك البولية"
+        },
+        {
+          "label": "الأثر",
+          "value": "مناطق نائية"
+        }
+      ],
+      "broll": "images/news/2026-06-26-telesurgery-athens-wuhan/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-26-telesurgery-athens-wuhan/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GreekReporter",
+      "domain": "greekreporter.com"
+    },
+    {
+      "name": "Neos Kosmos",
+      "domain": "neoskosmos.com"
+    },
+    {
+      "name": "Athens Times",
+      "domain": "athens-times.com"
+    },
+    {
+      "name": "The AI Chronicle",
+      "domain": "theaicronicle.com"
+    },
+    {
+      "name": "University of Patras",
+      "domain": "upatras.gr"
+    }
+  ],
+  "arabicTicker": [
+    "جراح في ووهان يستأصل ورماً لمريض في أثينا",
+    "مسافة 8,000 كيلومتر بزمن تأخير شبه معدوم",
+    "استئصال بروستات روبوتي عن بُعد بين قارتين",
+    "الجراح إيفانجيلوس لياتسيكوس يتحكم من ووهان الصينية",
+    "أول جراحة عابرة للقارات تُجرى في اليونان",
+    "ألياف ضوئية فائقة السرعة تنقل كل حركة فوراً",
+    "هل يصل الطب الجراحي إلى كل منطقة نائية قريباً؟"
+  ]
+}
