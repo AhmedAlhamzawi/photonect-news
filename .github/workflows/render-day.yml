@@ -17,6 +17,11 @@ on:
         required: false
         type: string
         default: ''
+      auto_post:
+        description: 'Auto-post the slate to Instagram + TikTok via upload-post (only fires if UPLOAD_POST_API_KEY secret is set). Uncheck to render+Drive only.'
+        required: false
+        type: boolean
+        default: true
 
 permissions:
   contents: read
@@ -25,6 +30,10 @@ jobs:
   render:
     runs-on: ubuntu-latest
     timeout-minutes: 350
+    env:
+      # Promoted to job level so the auto-post step's `if:` can read it.
+      # Empty when the secret isn't set → the post step is skipped (safe).
+      UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
 
     steps:
       - name: Check out repo
@@ -120,6 +129,20 @@ jobs:
             ARGS+=(--trial-label "$TRIAL_LABEL")
           fi
           python3 automation/scripts/upload-to-drive.py "${ARGS[@]}"
+
+      - name: Auto-post the slate to Instagram + TikTok
+        # Fires only when the API key secret exists AND auto_post wasn't unchecked.
+        # No key → env is empty → step skipped → workflow stays green.
+        if: ${{ env.UPLOAD_POST_API_KEY != '' && inputs.auto_post }}
+        env:
+          UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
+          UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
+          DATE_ARG: ${{ steps.date.outputs.value }}
+        run: |
+          python3 automation/scripts/post-to-uploadpost.py \
+            --date "$DATE_ARG" \
+            --user "$UPLOAD_POST_USER" \
+            --platforms instagram,tiktok
 
       - name: Upload QA artefacts to workflow run
         if: always()
