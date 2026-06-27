@@ -33,7 +33,7 @@ jobs:
     env:
       # Promoted to job level so the auto-post step's `if:` can read it.
       # Empty when the secret isn't set → the post step is skipped (safe).
-      UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
+      UPLOAD_POST_API_KEY: ${{ secrets.PHOTONECT_NEWS_AUTO_POSTER }}
 
     steps:
       - name: Check out repo
@@ -135,7 +135,7 @@ jobs:
         # No key → env is empty → step skipped → workflow stays green.
         if: ${{ env.UPLOAD_POST_API_KEY != '' && inputs.auto_post }}
         env:
-          UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
+          UPLOAD_POST_API_KEY: ${{ secrets.PHOTONECT_NEWS_AUTO_POSTER }}
           UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
           DATE_ARG: ${{ steps.date.outputs.value }}
         run: |
