@@ -90,6 +90,10 @@ def submit(video: Path, caption: str, user: str, platforms: list[str]) -> str:
         ("privacy_level", "PUBLIC_TO_EVERYONE"),
         ("is_aigc", "true"),              # AI-generated-content disclosure
         ("async_upload", "true"),         # background processing → request_id
+        # Grid cover: use the Breaking frame at 3.0s (headline fully on screen)
+        # instead of frame 0 (bare backdrop). IG uses thumb_offset, TikTok cover_timestamp.
+        ("thumb_offset", "3000"),         # Instagram Reels cover frame (ms)
+        ("cover_timestamp", "3000"),      # TikTok cover frame (ms)
     ]
     body, content_type = _encode_multipart(fields, "video", video)
     req = urllib.request.Request(
