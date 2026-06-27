@@ -142,7 +142,7 @@ jobs:
           python3 automation/scripts/post-to-uploadpost.py \
             --date "$DATE_ARG" \
             --user "$UPLOAD_POST_USER" \
-            --platforms instagram,tiktok
+            --platforms instagram,tiktok,x
 
       - name: Upload QA artefacts to workflow run
         if: always()

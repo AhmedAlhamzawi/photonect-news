@@ -66,10 +66,23 @@ def _encode_multipart(fields: list[tuple[str, str]], file_field: str, file_path:
     return bytes(out), f"multipart/form-data; boundary={boundary}"
 
 
+def _x_caption(caption: str) -> str:
+    """Short single-tweet caption for X: headline + a few hashtags, <280 chars
+    (so X posts one clean tweet instead of auto-threading the full caption)."""
+    lines = [l.strip() for l in caption.splitlines() if l.strip()]
+    headline = lines[0] if lines else ""
+    tags = next((l for l in lines if l.startswith("#")), "")
+    tag_str = " ".join(tags.split()[:4])
+    out = headline + (("\n\n" + tag_str) if tag_str else "")
+    return out[:275]
+
+
 def submit(video: Path, caption: str, user: str, platforms: list[str]) -> str:
     fields = [("user", user), ("title", caption)]
     for p in platforms:
         fields.append(("platform[]", p))
+    if "x" in platforms:
+        fields.append(("x_title", _x_caption(caption)))   # clean single tweet, not a thread
     fields += [
         ("media_type", "REELS"),          # IG → Reel
         ("share_to_feed", "true"),        # also show in grid
