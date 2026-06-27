@@ -1,0 +1,210 @@
+{
+  "title_ar": "طريق التنمية: نهضة أم دَيْن؟ — أرقامٌ تُقرّر",
+  "total_seconds": 122,
+  "hook_ar": "من الفاو إلى تركيا، أَلْفٌ ومِئتا كيلو... شريانٌ على الورق، فهل يَنبض بالفِعل أم بالدَّيْن نَكتوي؟",
+  "segments": [
+    {
+      "beat_role": "hook",
+      "arabic_vo": "ميناءُ الفاوِ ينادي، والحديدُ يَمتدُّ شِمالا / أَلْفٌ ومِئتا كيلو، حُلمٌ يُقاسُ مَجالا / سبعةَ عشرَ ملياراً، رقمٌ على الطاولةِ مَكتوب / نهضةٌ يُبَشِّرُ بها الخَطيب، أم على الدَّيْنِ مَركوب؟ / لا حُكمَ هُنا، بل أرقامٌ تَنطقُ بلا خُطوب / دَعِ المصادرَ تَشهَد، والميزانُ هو المَطلوب",
+      "english_gloss": "The Grand Faw Port calls, and the steel stretches north — 1,200 km, a dream measured by scale. Seventeen billion, a figure written on the table: a renaissance the speaker heralds, or riding on debt? No verdict here, only numbers that speak without rhetoric. Let the sources testify, and the balance is what we seek.",
+      "broll_prompt": "Cinematic aerial dawn shot, slow push-in over a vast Persian Gulf port under construction: a colossal stone breakwater curving into calm turquoise water, towering gantry cranes silhouetted against a pale gold sunrise, a single dark rail line stretching from the quay inland toward distant desert haze. Drifting morning mist, gulls crossing frame, water rippling with reflected light. Muted teal-and-amber color grade, anamorphic flares, deliberate and weighty pacing. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "$17B",
+          "label_ar": "كلفة المشروع (الرقم الرسمي الأكثر تداولاً)",
+          "source": "Reuters / The National (نقلاً عن الحكومة العراقية)",
+          "as_of": "Apr 2024",
+          "unit": "USD"
+        },
+        {
+          "value": "~1,200",
+          "label_ar": "طول الممر (سكة + طريق)",
+          "source": "Reuters / The National / الحكومة العراقية",
+          "as_of": "Apr 2024",
+          "unit": "km"
+        },
+        {
+          "value": "May 2023",
+          "label_ar": "إطلاق المشروع — مؤتمر بغداد للتعاون الإقليمي",
+          "source": "حكومة السوداني (مصادر متعددة)",
+          "as_of": "May 2023",
+          "unit": "date"
+        }
+      ],
+      "eq_tone": "amber",
+      "approx_seconds": 17
+    },
+    {
+      "beat_role": "steelman",
+      "arabic_vo": "حُجّةُ النهضةِ تبدأُ بجُغرافيا لا تُجامِل / يتجاوزُ هُرمزَ والبحرَ الأحمر، ثلاثُ مَعابرَ يُزايِل / في نيسانَ تعطّلَ هُرمز: خَمسُ سُفُنٍ بعدَ مِئةٍ وأربعين / والسويسُ خَسِرَ واحداً وستينَ بالمِئة، رقمٌ رَصين / عشرةُ أيامٍ يَختصِرُ البَرُّ، شَحنةٌ ساروها يَقين / بولندا إلى الإمارات: ثمانٍ وخمسونَ بالمئة تَوفير مَتين",
+      "english_gloss": "The renaissance case begins with geography that doesn't flatter: it bypasses Hormuz and the Red Sea — three chokepoints at once. In April, Hormuz stalled: five vessels after a 130–140 average. Suez lost 61%, a solid figure. The land route saves ~10 days — a shipment they actually ran: Poland to the UAE, a solid 58% reduction.",
+      "broll_prompt": "Cinematic wide shot of a long-haul freight truck convoy gliding along a brand-new highway cutting straight across open desert at golden hour, low sun raking long shadows, heat shimmer on the asphalt, distant mountains. Cut to a fast top-down drone move tracking a single freight train threading a green-fringed river valley. Crisp clean light, cool cyan shadows, optimistic forward momentum, smooth steady camera. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "5 vs 130–140",
+          "label_ar": "سُفن هُرمز يومياً أثناء إغلاق نيسان مقابل المتوسط",
+          "source": "Fox News (نقلاً عن مهند سلوم، مجلس الشرق الأوسط)",
+          "as_of": "Apr 2026",
+          "unit": "vessels/day"
+        },
+        {
+          "value": "-61%",
+          "label_ar": "هبوط إيرادات قناة السويس إلى ~$4B في 2024",
+          "source": "هيئة قناة السويس (عبر Yemen Online / Atlas Institute)",
+          "as_of": "2024–25",
+          "unit": "% drop"
+        },
+        {
+          "value": "10 vs 24 days",
+          "label_ar": "شحنة بولندا→الإمارات بَرّاً مقابل بَحراً (-58%)",
+          "source": "أومبرتو دي بريتو، أمين عام الاتحاد الدولي للنقل البري (IRU)",
+          "as_of": "26 Jun 2025",
+          "unit": "days"
+        }
+      ],
+      "eq_tone": "cyan",
+      "approx_seconds": 19
+    },
+    {
+      "beat_role": "turn",
+      "arabic_vo": "لكنَّ الجُغرافيا وَحدَها لا تُديرُ المَحرِّك / والوعدُ بأربعةِ مليارَ... مَن في الدفعِ يُشارِك؟ / مذكّرةُ تفاهمٍ رُباعيّةٌ في نيسان: عراقٌ، تركيا، قطرٌ، إماراتٌ تَشترك / لكنّها تفاهمٌ، لا تمويلٌ مُوَزَّع، الحِصصُ لم تُذكَر ولم تُدرَك / فمَن يَدفعُ السبعةَ عشرَ ملياراً إذا الورقُ تَفكّك؟ / السؤالُ لا يُلغي الحُلمَ، بل يَسألُ: مَن في الحِملِ يُشارِك؟",
+      "english_gloss": "But geography alone doesn't run the engine. And the promise of $4 billion — who takes part in the payment? An April quadrilateral MOU: Iraq, Turkey, Qatar, the UAE take part — yet it's a memorandum, not distributed financing; the shares were never stated, never known. So who pays the seventeen billion if the paper comes apart? The question doesn't cancel the dream — it asks: who shares the burden?",
+      "broll_prompt": "Cinematic medium shot inside a dim, empty conference hall after a summit has ended: four flags on poles standing in soft window light, a long polished table reflecting overhead glow, one chair slightly pulled out, dust motes drifting in a shaft of late-afternoon sun. Slow dolly along the table toward a window overlooking a hazy city skyline. Reflective, transitional mood, neutral cool grade shifting warm at the window. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "$4B/yr",
+          "label_ar": "الإيراد السنوي المُتوقَّع (تقدير حكومي، لا دراسة مستقلة)",
+          "source": "The National / Wikipedia (مسؤول حكومي عراقي)",
+          "as_of": "Apr 2024",
+          "unit": "USD/yr (projected)"
+        },
+        {
+          "value": "MOU 4 دول",
+          "label_ar": "اتفاق نيسان الرباعي = مذكّرة تفاهم، الحِصص غير مُعلَنة",
+          "source": "Reuters / Türkiye Today / Al Bawaba",
+          "as_of": "22 Apr 2024",
+          "unit": "framework"
+        }
+      ],
+      "eq_tone": "amber",
+      "approx_seconds": 18
+    },
+    {
+      "beat_role": "critique",
+      "arabic_vo": "الميزانيّةُ رهينةُ النفط، ثلاثٌ وتسعونَ بالمِئة دَخْل / والتعادُلُ أربعةٌ وثمانون دولاراً... والسوقُ سبعةٌ وستّون، فَأينَ الفَصْل؟ / الكلفةُ تَنزلِقُ نحوَ أربعةٍ وعشرينَ ملياراً تَنمو / والفسادُ: مِئةٌ واثنانِ وستّون من مِئةٍ وثمانين، رُتبةٌ تَرنو / مَمرّاتٌ تُنافِس: ممرٌّ هنديٌّ أوروبيّ، وإيرانُ تُكَهرِبُ خَطّاً يَسمو / فهل الطلبُ مَوجود؟ الأرقامُ مُتوقَّعةٌ لا مَحجوزة، والحِملُ يَربو",
+      "english_gloss": "The budget is hostage to oil — 93% of income. The breakeven is $84, and the market is $67; so where's the margin? The cost slips upward toward $24 billion, growing. Corruption: 162 of 180 — a rank to behold. Rival corridors: an India–Europe corridor, and Iran electrifying a rising line. So is the demand there? The figures are projected, not booked — and the load grows.",
+      "broll_prompt": "Cinematic somber shot of an oil pumpjack rocking slowly against a bruised dusk sky, distant gas flare flickering on the horizon, a half-finished concrete bridge pier standing isolated in a dry riverbed with exposed rebar and idle scaffolding. Slow handheld drift, wind-blown dust, fading orange light bleeding into deep blue. Heavy, cautionary atmosphere, desaturated with a smoldering red-amber horizon. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "93% / $84 vs $67",
+          "label_ar": "حصة النفط من الإيراد الحكومي؛ تعادل مالي مقابل سعر السوق",
+          "source": "محمد حسين، معهد واشنطن",
+          "as_of": "2025",
+          "unit": "% & USD/bbl"
+        },
+        {
+          "value": "$17B → ~$24B",
+          "label_ar": "انزلاق الكلفة المُعلَنة",
+          "source": "بوراك يلدريم، مركز ويلسون / Shafaq",
+          "as_of": "2026",
+          "unit": "USD"
+        },
+        {
+          "value": "162/180",
+          "label_ar": "رتبة العراق في مؤشر مدركات الفساد",
+          "source": "Transparency International (عبر GAN Integrity)",
+          "as_of": "2024",
+          "unit": "rank"
+        }
+      ],
+      "eq_tone": "red",
+      "approx_seconds": 19
+    },
+    {
+      "beat_role": "concession",
+      "arabic_vo": "لكنَّ الإنصافَ يَقتضي: بعضُ ما بُنيَ صار حَقيقة / ميناءُ الفاوِ أربعةٌ وتسعةُ مليارَ، خمسُ أرصفةٍ على وَثيقة / ثمانيةٌ وستّونَ بالمِئةِ أنجزَتها، بعدَ تسعةَ عشرَ... قِفزةٌ عَريقة / والبنكُ الدوليُّ تسعُ مئةٍ وثلاثونَ مليوناً للسكّة... جِهةٌ ثالثةٌ وَثيقة / ثلاثٌ وثمانونَ بالمِئة تصميمٌ مُكتمِل، والنفقُ ثمانون نِسبةٌ عَميقة / فالأساسُ يَتقدّم، لا وَهمٌ كلُّه، الشواهدُ هنا دَقيقة",
+      "english_gloss": "But fairness demands: some of what's built has become real. The Grand Faw Port — $4.9 billion, five berths on the record — 68% completed, up from 19%... a substantial leap. The World Bank: $930 million for the railway — a credible third party. 83% of detailed design done, the tunnel a deep 80%. The foundation advances; it's not all illusion — the evidence here is precise.",
+      "broll_prompt": "Cinematic ground-level shot of an active, real construction site at midday: workers in hi-vis moving with purpose, a massive immersed tunnel segment being lowered by crane into water, fresh concrete berths lined along a working quay, sparks from welding catching light. Steady tripod composition, tangible sense of genuine progress, clean neutral daylight with cool blue water and warm safety-vest accents. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "$4.9B / 5 berths",
+          "label_ar": "كلفة ميناء الفاو وأرصفة المرحلة الأولى (قيد الإنجاز)",
+          "source": "Shafaq News (وزارة النقل العراقية)",
+          "as_of": "Dec 2025",
+          "unit": "USD / berths"
+        },
+        {
+          "value": "68% (من 19%)",
+          "label_ar": "نسبة إنجاز الأرصفة الخمسة خلال ثلاث سنوات",
+          "source": "Maritime Executive (وزير النقل)",
+          "as_of": "2023→2025",
+          "unit": "% complete"
+        },
+        {
+          "value": "$930M",
+          "label_ar": "قرض البنك الدولي لتطوير السكك الحديدية",
+          "source": "البنك الدولي (بيان صحفي)",
+          "as_of": "25 Jun 2025",
+          "unit": "USD loan"
+        }
+      ],
+      "eq_tone": "cyan",
+      "approx_seconds": 20
+    },
+    {
+      "beat_role": "reframe",
+      "arabic_vo": "إذنْ ليسَ السؤالُ نهضةً أم دَيناً بشكلٍ مُطلَق / بل سؤالانِ مَلموسانِ: هل الطلبُ على البَرِّ مُتحقِّق؟ / وهل القُدرةُ على التنفيذِ والتمويلِ بالفِعلِ تُطبَّق؟ / السويسُ لن يُستبدَل كُلّيّاً، والمنافسونَ يَنضجونَ بِأَنسَق / والكلفةُ والفسادُ والأمنُ على الخطّ التركيّ تُؤرِّق / فضَعِ المُنجَزَ في كفّةٍ، والمُتوقَّعَ في أُخرى... ودَعِ العقلَ يُحقِّق",
+      "english_gloss": "So the question isn't renaissance-or-debt in absolute terms — it's two concrete questions: Is the demand on land actually real? And is the capacity to execute and to finance truly applied? Suez won't be fully replaced, and rivals are maturing in sync. Cost, corruption, and security on the Turkish leg trouble it. So place the built on one pan, the projected on the other — and let reason investigate.",
+      "broll_prompt": "Cinematic symbolic slow-motion shot of an old brass balance scale on a weathered stone surface, soft directional window light, fine dust settling, the two empty pans gently rocking toward equilibrium, shallow depth of field with a blurred warm background. Contemplative, balanced, neutral-to-amber grade, very slow deliberate motion, no hands in frame. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "14M + 20M tons",
+          "label_ar": "شحن دولي + إقليمي مُتوقَّع جذبه بحلول 2040 (تقدير)",
+          "source": "Wikipedia (نقلاً عن البنك الدولي)",
+          "as_of": "Jun 2026",
+          "unit": "tons/yr (projected)"
+        },
+        {
+          "value": "1.6M jobs / $150B",
+          "label_ar": "تقدير دراسة Oliver Wyman لكامل البناء (طموح)",
+          "source": "محمد النجار، صندوق التنمية العراقي (Iraqi News)",
+          "as_of": "3 Oct 2025",
+          "unit": "jobs / USD (projected)"
+        }
+      ],
+      "eq_tone": "amber",
+      "approx_seconds": 16
+    },
+    {
+      "beat_role": "resolve",
+      "arabic_vo": "المُثبَتُ اليومَ: ميناءٌ، خمسةُ أرصفةٍ، تصميمٌ، وقرضٌ يَسير / والمُتوقَّعُ: أربعةُ مليارَ، مئةُ ألفِ وظيفة، ومئةُ رصيفٍ كبير / المشروعُ — كما قالَ الوزير — مشروعُ دولةٍ، لا رهنُ تغييرٍ وتَدوير / فلا نَحكُمُ، بل نَعرِض: كفّةُ البِناءِ، وكفّةُ الوَعدِ المُنير / حينَ يَنتقلُ المُتوقَّعُ إلى المُنجَز، يُجابُ السؤالُ بلا تَزوير / حتّى ذاكَ الحين: نهضةٌ مُمكِنة، ودَيْنٌ مُحتمَل... والأرقامُ هي الضَّمير",
+      "english_gloss": "Proven today: a port, five berths, design, and a loan moving. Projected: $4 billion, 100,000 jobs, and a hundred grand berths. The project — as the minister said — is a state project, not hostage to government change and reshuffling. So we don't judge; we present: the pan of the built, and the pan of the bright promise. When the projected crosses into the achieved, the question is answered without falsification. Until then: a possible renaissance, a probable debt — and the numbers are the conscience.",
+      "broll_prompt": "Cinematic closing wide shot at blue-hour: the completed section of the port glows with working lights reflecting on still water while, beyond it, dark unfinished cranes and bare foundations fade into dusk — built and unbuilt sharing one frame. Very slow gentle aerial pull-back rising upward, calm water, first stars appearing, a single rail line catching the last light as it runs toward the horizon. Serene, measured, balanced cool-blue grade with warm port lights. No text, no signage, no logos, no UI, 9:16.",
+      "counters": [
+        {
+          "value": "100 berths (projection)",
+          "label_ar": "البناء النهائي ~2045 (هدف مخطّط، ليس مُنجَزاً)",
+          "source": "Wikipedia / Global Construction Review",
+          "as_of": "2024–2026",
+          "unit": "berths (projected)"
+        },
+        {
+          "value": "State project",
+          "label_ar": "\"مشروع دولة لا يرتبط بتغيّر الحكومات\"",
+          "source": "وزير النقل العراقي (Anadolu Agency)",
+          "as_of": "2026",
+          "unit": "statement"
+        },
+        {
+          "value": "83% design",
+          "label_ar": "نسبة إنجاز التصميم التفصيلي التراكمي",
+          "source": "Shafaq News (وزارة النقل)",
+          "as_of": "Dec 2025",
+          "unit": "% complete"
+        }
+      ],
+      "eq_tone": "amber",
+      "approx_seconds": 13
+    }
+  ]
+}

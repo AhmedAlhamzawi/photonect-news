@@ -16,6 +16,9 @@ import { Hekaya } from "./compositions/Hekaya/Hekaya";
 import { HekayaSchema, computeHekayaDurationInFrames } from "./compositions/Hekaya/schema";
 import { Hekaya2 } from "./compositions/Hekaya2/Hekaya2";
 import { Hekaya2Schema, HEKAYA2_TOTAL_FRAMES } from "./compositions/Hekaya2/schema";
+import { Essay } from "./compositions/Essay/Essay";
+import { essaySchema, computeEssayDuration } from "./compositions/Essay/schema";
+import { essayDefaultProps } from "./compositions/Essay/defaultProps";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -389,6 +392,19 @@ export const RemotionRoot: React.FC = () => {
             { name: "Wikipedia", domain: "wikipedia.org" },
           ],
         }}
+      />
+      {/* ESSAY — cinematic AI video-essay track (neutral analysis). Variable
+          length like Hekaya2: duration derived from per-beat durationFrames.
+          First piece: Iraq Development Road "نهضة أم دَيْن؟". */}
+      <Composition
+        id="Essay"
+        component={Essay}
+        durationInFrames={computeEssayDuration(essayDefaultProps.segments)}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={essaySchema}
+        defaultProps={essayDefaultProps}
       />
     </>
   );
