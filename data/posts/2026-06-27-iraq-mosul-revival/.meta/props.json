@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "روح الموصل",
+    "arabicHeadline": "الموصل تنهض من الركام ومتحفها يفتح هذا الخريف",
+    "englishSubhead": "MOSUL RISES | 3 LANDMARKS RESTORED | MUSEUM REOPENS AUTUMN 2026",
+    "heroMedia": "images/news/2026-06-27-iraq-mosul-revival/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الموصل تستعيد قلبها التاريخي",
+      "arabicBody": "أعادت اليونسكو ضمن مبادرة إحياء روح الموصل بناء جامع النوري وكنيسة الطاهرة ودير الساعة، وافتتحها رئيس الوزراء السوداني، وفق اليونسكو.",
+      "bigStat": {
+        "value": "3",
+        "label": "landmarks restored",
+        "arabicLabel": "معالم مُرمّمة"
+      },
+      "supportingStats": [
+        {
+          "label": "المبادرة",
+          "value": "إحياء روح الموصل"
+        },
+        {
+          "label": "المعالم",
+          "value": "3 مُرمّمة"
+        },
+        {
+          "label": "المصدر",
+          "value": "UNESCO"
+        }
+      ],
+      "broll": "images/news/2026-06-27-iraq-mosul-revival/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-iraq-mosul-revival/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "متحف الموصل يعود بعد سنوات إغلاق",
+      "arabicBody": "بـ15.8 مليون دولار وشراكة اللوفر وسميثسونيان وصندوق الآثار العالمي، يُعاد تأهيل متحف الموصل ليفتح أبوابه خريف 2026، وفق آرت نيوزبيبر.",
+      "bigStat": {
+        "value": "15.8 مليون$",
+        "label": "museum project",
+        "arabicLabel": "كلفة تأهيل المتحف"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة",
+          "value": "15.8 مليون$"
+        },
+        {
+          "label": "الافتتاح",
+          "value": "خريف 2026"
+        },
+        {
+          "label": "الشركاء",
+          "value": "اللوفر وسميثسونيان"
+        }
+      ],
+      "broll": "images/news/2026-06-27-iraq-mosul-revival/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-iraq-mosul-revival/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد عاصمة الثقافة وبعثات تنقيب جديدة",
+      "arabicBody": "اختيرت بغداد عاصمةً للثقافة الإسلامية 2026، وتوقّع هيئة الآثار اتفاقيات تنقيب جديدة مع بعثات دولية في عدة محافظات، وفق العراق نيوز.",
+      "bigStat": {
+        "value": "2026",
+        "label": "Capital of Islamic Culture",
+        "arabicLabel": "عاصمة الثقافة الإسلامية"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد",
+          "value": "عاصمة ثقافية"
+        },
+        {
+          "label": "البعثات",
+          "value": "دولية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Iraqi News"
+        }
+      ],
+      "broll": "images/news/2026-06-27-iraq-mosul-revival/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-iraq-mosul-revival/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UNESCO",
+      "domain": "unesco.org"
+    },
+    {
+      "name": "The Art Newspaper",
+      "domain": "theartnewspaper.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "ArchDaily",
+      "domain": "archdaily.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "الموصل تنهض من الركام ومتحفها يفتح هذا الخريف",
+    "اليونسكو تُتمّ بناء جامع النوري وكنيسة الطاهرة ودير الساعة",
+    "السوداني يفتتح ثلاثة من أبرز معالم المدينة القديمة",
+    "متحف الموصل يُعاد تأهيله بـ15.8 مليون دولار مع اللوفر وسميثسونيان",
+    "المتحف يفتح أبوابه خريف 2026 بعد سنوات من الإغلاق والدمار",
+    "بغداد عاصمة للثقافة الإسلامية 2026 وبعثات تنقيب دولية جديدة",
+    "هل تعيد روح الموصل المدينة إلى خارطة السياحة العالمية؟"
+  ]
+}

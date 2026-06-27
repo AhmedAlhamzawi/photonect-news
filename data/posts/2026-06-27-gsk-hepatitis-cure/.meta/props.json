@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "جي إس كي تقترب من شفاء وظيفي لالتهاب الكبد بي",
+    "englishSubhead": "GSK REPORTS A FUNCTIONAL-CURE BREAKTHROUGH FOR CHRONIC HEPATITIS B IN POOLED TRIAL RESULTS",
+    "heroMedia": "images/news/2026-06-27-gsk-hepatitis-cure/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "شفاء وظيفي لدى 19% من المرضى",
+      "arabicBody": "نتائج مجمّعة من جي إس كي تكشف شفاءً وظيفياً من التهاب الكبد المزمن بي لدى 19% من المرضى، وفق بايوفارما دايف.",
+      "bigStat": {
+        "value": "19%",
+        "label": "functional cure rate",
+        "arabicLabel": "نسبة الشفاء الوظيفي"
+      },
+      "supportingStats": [
+        {
+          "label": "الشفاء الوظيفي",
+          "value": "19%"
+        },
+        {
+          "label": "الشركة",
+          "value": "GSK"
+        },
+        {
+          "label": "المصدر",
+          "value": "BioPharma Dive"
+        }
+      ],
+      "broll": "images/news/2026-06-27-gsk-hepatitis-cure/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-gsk-hepatitis-cure/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "النسبة ترتفع إلى 26% بحمل فيروسي منخفض",
+      "arabicBody": "النسبة تقفز إلى 26% لدى مرضى الحمل الفيروسي المنخفض، ما يقرّب حلم علاج لا يحتاج دواءً دائماً، وفق لايف ساينس ديلي.",
+      "bigStat": {
+        "value": "26%",
+        "label": "cure in lower viral load",
+        "arabicLabel": "شفاء بحمل فيروسي منخفض"
+      },
+      "supportingStats": [
+        {
+          "label": "النسبة",
+          "value": "26%"
+        },
+        {
+          "label": "الفئة",
+          "value": "حمل فيروسي منخفض"
+        },
+        {
+          "label": "المعنى",
+          "value": "دون دواء دائم"
+        }
+      ],
+      "broll": "images/news/2026-06-27-gsk-hepatitis-cure/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-gsk-hepatitis-cure/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مرض يصيب 254 مليون شخص",
+      "arabicBody": "يحمل المرض المزمن نحو 254 مليون إنسان حول العالم، وأي شفاء وظيفي واسع يرفع عبئاً ثقيلاً عن الشرق الأوسط وأفريقيا، وفق منظمة الصحة العالمية.",
+      "bigStat": {
+        "value": "254 مليون",
+        "label": "people with chronic HBV",
+        "arabicLabel": "مصاب بالمرض عالمياً"
+      },
+      "supportingStats": [
+        {
+          "label": "المصابون",
+          "value": "254 مليون"
+        },
+        {
+          "label": "الأثر",
+          "value": "الشرق الأوسط وأفريقيا"
+        },
+        {
+          "label": "المصدر",
+          "value": "WHO"
+        }
+      ],
+      "broll": "images/news/2026-06-27-gsk-hepatitis-cure/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-gsk-hepatitis-cure/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BioPharma Dive",
+      "domain": "biopharmadive.com"
+    },
+    {
+      "name": "Life Science Daily",
+      "domain": "lifesciencedaily.news"
+    },
+    {
+      "name": "GSK",
+      "domain": "gsk.com"
+    },
+    {
+      "name": "World Health Organization",
+      "domain": "who.int"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    }
+  ],
+  "arabicTicker": [
+    "جي إس كي تقترب من شفاء وظيفي لالتهاب الكبد بي",
+    "شفاء وظيفي لدى 19% من المرضى في النتائج المجمّعة",
+    "النسبة تقفز إلى 26% لدى مرضى الحمل الفيروسي المنخفض",
+    "الشفاء الوظيفي يعني السيطرة على المرض دون دواء دائم",
+    "نحو 254 مليون إنسان يحملون التهاب الكبد بي حول العالم",
+    "عبء صحي ثقيل يجثم على الشرق الأوسط وأفريقيا",
+    "هل يصبح التهاب الكبد بي أول وباء مزمن نهزمه بالشفاء الوظيفي؟"
+  ]
+}

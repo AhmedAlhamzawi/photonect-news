@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "عودة الأسطورة",
+    "arabicHeadline": "سيرينا ويليامز تعود إلى ويمبلدون بعد غياب 4 سنوات",
+    "englishSubhead": "SERENA RETURNS | WILD CARD | SINCE 2022",
+    "heroMedia": "images/news/2026-06-27-wimbledon-serena-return/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "سيرينا تعود ببطاقة دعوة",
+      "arabicBody": "تعود سيرينا ويليامز إلى عشب ويمبلدون لأول مرة منذ 2022 ببطاقة دعوة، وتخوض فردي وزوجي السيدات معاً، وفق رابطة محترفات التنس WTA.",
+      "bigStat": {
+        "value": "2022",
+        "label": "her last Wimbledon",
+        "arabicLabel": "آخر مشاركة لها"
+      },
+      "supportingStats": [
+        {
+          "label": "العودة",
+          "value": "ببطاقة دعوة"
+        },
+        {
+          "label": "المشاركة",
+          "value": "فردي وزوجي"
+        },
+        {
+          "label": "المصدر",
+          "value": "WTA"
+        }
+      ],
+      "broll": "images/news/2026-06-27-wimbledon-serena-return/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-wimbledon-serena-return/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "البطولة تنطلق 29 يونيو",
+      "arabicBody": "تنطلق ويمبلدون 2026 في 29 يونيو وتستمر حتى 12 يوليو، وتدافع البولندية شفيونتيك عن لقبها بمواجهة سينر ودجوكوفيتش، وفق الموقع الرسمي للبطولة.",
+      "bigStat": {
+        "value": "29 يونيو",
+        "label": "tournament starts",
+        "arabicLabel": "انطلاق البطولة"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "29 يونيو–12 يوليو"
+        },
+        {
+          "label": "حاملة اللقب",
+          "value": "شفيونتيك"
+        },
+        {
+          "label": "النجوم",
+          "value": "سينر ودجوكوفيتش"
+        }
+      ],
+      "broll": "images/news/2026-06-27-wimbledon-serena-return/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-wimbledon-serena-return/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مراجعة فيديو لأول مرة بتاريخها",
+      "arabicBody": "تعتمد ويمبلدون أول مراجعة فيديو في تاريخها لمساعدة الحكام، بعدما تنافس أكثر من 250 لاعباً في التصفيات على مقاعد البطولة، وفق رابطة محترفي التنس ATP.",
+      "bigStat": {
+        "value": "250+",
+        "label": "players in qualifying",
+        "arabicLabel": "لاعبو التصفيات"
+      },
+      "supportingStats": [
+        {
+          "label": "جديد",
+          "value": "مراجعة فيديو"
+        },
+        {
+          "label": "التصفيات",
+          "value": "250+ لاعباً"
+        },
+        {
+          "label": "المصدر",
+          "value": "ATP"
+        }
+      ],
+      "broll": "images/news/2026-06-27-wimbledon-serena-return/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-wimbledon-serena-return/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WTA",
+      "domain": "wtatennis.com"
+    },
+    {
+      "name": "ATP Tour",
+      "domain": "atptour.com"
+    },
+    {
+      "name": "Wimbledon",
+      "domain": "wimbledon.com"
+    },
+    {
+      "name": "Olympics.com",
+      "domain": "olympics.com"
+    },
+    {
+      "name": "Sky Sports",
+      "domain": "skysports.com"
+    }
+  ],
+  "arabicTicker": [
+    "سيرينا ويليامز تعود إلى ويمبلدون بعد غياب 4 سنوات",
+    "أسطورة التنس تشارك ببطاقة دعوة في فردي وزوجي السيدات",
+    "البطولة تنطلق 29 يونيو وتستمر حتى 12 يوليو 2026",
+    "البولندية شفيونتيك تدافع عن لقبها في نسخة هذا العام",
+    "سينر ودجوكوفيتش وزفيريف أبرز نجوم منافسات الرجال",
+    "ويمبلدون تعتمد مراجعة الفيديو للتحكيم لأول مرة في تاريخها",
+    "هل تصنع سيرينا المعجزة، أم يحسمها الجيل الجديد؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سوريا الانتقالية",
+    "arabicHeadline": "الشرع يضمّ 4 طوائف للحكومة وأقليات تطالب بتوسيع التمثيل",
+    "englishSubhead": "SYRIA TRANSITION | 4 GROUPS | 11 SEATS",
+    "heroMedia": "images/news/2026-06-27-syria-minority-cabinet/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تعديل 9 مايو يضمّ وزراء من 4 طوائف",
+      "arabicBody": "في 9 مايو، أجرى الرئيس الانتقالي أحمد الشرع تعديلاً ضمّ وزراء من العلويين والدروز والمسيحيين والكرد، وسط انتقادات لآلية الاختيار، وفق مكتبة مجلس العموم البريطاني.",
+      "bigStat": {
+        "value": "4",
+        "label": "minority groups in cabinet",
+        "arabicLabel": "طوائف ممثّلة بالحكومة"
+      },
+      "supportingStats": [
+        {
+          "label": "التعديل",
+          "value": "9 مايو"
+        },
+        {
+          "label": "الأقليات",
+          "value": "4 طوائف"
+        },
+        {
+          "label": "المصدر",
+          "value": "House of Commons"
+        }
+      ],
+      "broll": "images/news/2026-06-27-syria-minority-cabinet/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-syria-minority-cabinet/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "انتخابات 24 مايو تملأ 11 مقعداً شاغراً",
+      "arabicBody": "جرت في 24 مايو انتخابات ملأت 11 مقعداً شاغراً في الحسكة وعين العرب، وتتواصل توترات مع قوات سوريا الديمقراطية، وفق ويكيبيديا والمعهد الإسرائيلي للأمن القومي.",
+      "bigStat": {
+        "value": "11",
+        "label": "vacant seats filled",
+        "arabicLabel": "مقاعد شاغرة مُلئت"
+      },
+      "supportingStats": [
+        {
+          "label": "المقاعد",
+          "value": "11"
+        },
+        {
+          "label": "المناطق",
+          "value": "الحسكة وكوباني"
+        },
+        {
+          "label": "التوتر",
+          "value": "مع قسد"
+        }
+      ],
+      "broll": "images/news/2026-06-27-syria-minority-cabinet/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-syria-minority-cabinet/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مجلس الأمن يتابع المسار في يونيو 2026",
+      "arabicBody": "يتابع مجلس الأمن الدولي في تقريره لشهر يونيو 2026 مسار المرحلة الانتقالية، مع دعوات لتوسيع التحالف الحاكم تفادياً لانقسام طائفي، وفق تقرير مجلس الأمن.",
+      "bigStat": {
+        "value": "يونيو 2026",
+        "label": "UN review window",
+        "arabicLabel": "متابعة مجلس الأمن"
+      },
+      "supportingStats": [
+        {
+          "label": "المتابعة",
+          "value": "مجلس الأمن"
+        },
+        {
+          "label": "المطلوب",
+          "value": "توسيع التحالف"
+        },
+        {
+          "label": "الخطر",
+          "value": "انقسام طائفي"
+        }
+      ],
+      "broll": "images/news/2026-06-27-syria-minority-cabinet/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-syria-minority-cabinet/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "House of Commons Library",
+      "domain": "commonslibrary.parliament.uk"
+    },
+    {
+      "name": "Security Council Report",
+      "domain": "securitycouncilreport.org"
+    },
+    {
+      "name": "INSS",
+      "domain": "inss.org.il"
+    },
+    {
+      "name": "Wikipedia",
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "name": "Brookings",
+      "domain": "brookings.edu"
+    }
+  ],
+  "arabicTicker": [
+    "تعديل حكومي في سوريا يضمّ وزراء من 4 طوائف وفق مكتبة مجلس العموم",
+    "الشرع يجري التعديل في 9 مايو وسط انتقادات لآلية الاختيار وفق مكتبة مجلس العموم",
+    "انتخابات 24 مايو في الحسكة وعين العرب تملأ 11 مقعداً شاغراً وفق ويكيبيديا",
+    "توترات متواصلة مع قوات سوريا الديمقراطية وفق المعهد الإسرائيلي للأمن القومي",
+    "أقليات تطالب بتوسيع التمثيل وشفافية تشكيل الحكومة وفق مكتبة مجلس العموم",
+    "مجلس الأمن يتابع المرحلة الانتقالية في تقرير يونيو 2026 وفق تقرير مجلس الأمن",
+    "هل يتسع التحالف الحاكم في سوريا أم ينزلق المسار إلى انقسام طائفي؟"
+  ]
+}

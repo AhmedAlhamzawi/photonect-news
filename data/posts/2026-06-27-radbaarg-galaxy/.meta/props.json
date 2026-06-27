@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "فلك",
+    "arabicHeadline": "مجرّة نادرة تحرث قوساً كونياً بعرض 1.8 مليون سنة ضوئية",
+    "englishSubhead": "ASTRONOMERS FIND RAD-BAARG, A GALAXY PLOUGHING A 1.8-MILLION-LIGHT-YEAR BOW SHOCK SHAPED LIKE A BOW",
+    "heroMedia": "images/news/2026-06-27-radbaarg-galaxy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مجرّة تسقط بسرعة تفوق الصوت في عنقود",
+      "arabicBody": "رصد فلكيون مجرّة تُدعى راد-بارغ تسقط بسرعة تفوق الصوت داخل عنقود بعيد، فتحرث قوساً متوهّجاً من البلازما الراديوية بعرض 1.8 مليون سنة ضوئية، وفق لايف ساينس.",
+      "bigStat": {
+        "value": "1.8 مليون",
+        "label": "light-years wide",
+        "arabicLabel": "سنة ضوئية عرض القوس"
+      },
+      "supportingStats": [
+        {
+          "label": "العرض",
+          "value": "1.8 مليون سنة ضوئية"
+        },
+        {
+          "label": "الشكل",
+          "value": "قوس وسهم"
+        },
+        {
+          "label": "المصدر",
+          "value": "Live Science"
+        }
+      ],
+      "broll": "images/news/2026-06-27-radbaarg-galaxy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-radbaarg-galaxy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أوضح رصد لموجة صدمية أمامية كونية",
+      "arabicBody": "بعد 25 عاماً يدرس فيها هذه الأجسام، قال قائد الفريق إنه لم يرَ لها مثيلاً، فالاكتشاف يقدّم أوضح رصد لموجة صدمية أمامية، وفق ساينس ديلي.",
+      "bigStat": {
+        "value": "25 عاماً",
+        "label": "expert's study span",
+        "arabicLabel": "سنوات خبرة الباحث"
+      },
+      "supportingStats": [
+        {
+          "label": "الخبير",
+          "value": "25 عاماً"
+        },
+        {
+          "label": "الوصف",
+          "value": "لا مثيل له"
+        },
+        {
+          "label": "المعنى",
+          "value": "أوضح رصد"
+        }
+      ],
+      "broll": "images/news/2026-06-27-radbaarg-galaxy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-radbaarg-galaxy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "طالب من تلّة في الهيمالايا رصدها أولاً",
+      "arabicBody": "أول من لمح المجرّة لم يكن محترفاً، بل طالب يفحص بيانات تلسكوب من تلّة في جبال الهيمالايا، ما يبرز دور علم الفلك التشاركي، وفق ساي نيوز.",
+      "bigStat": {
+        "value": "طالب",
+        "label": "amateur first-spotter",
+        "arabicLabel": "أول من رصد المجرّة"
+      },
+      "supportingStats": [
+        {
+          "label": "الراصد",
+          "value": "طالب"
+        },
+        {
+          "label": "الموقع",
+          "value": "جبال الهيمالايا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Sci.News"
+        }
+      ],
+      "broll": "images/news/2026-06-27-radbaarg-galaxy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-radbaarg-galaxy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Live Science",
+      "domain": "livescience.com"
+    },
+    {
+      "name": "Universe Today",
+      "domain": "universetoday.com"
+    },
+    {
+      "name": "Sci.News",
+      "domain": "sci.news"
+    },
+    {
+      "name": "ScienceDaily",
+      "domain": "sciencedaily.com"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    }
+  ],
+  "arabicTicker": [
+    "مجرّة راد-بارغ تسقط بسرعة تفوق الصوت داخل عنقود مجرّات بعيد",
+    "تحرث قوساً من البلازما الراديوية بعرض 1.8 مليون سنة ضوئية",
+    "القوس المتوهّج يشبه القوس والسهم في شكله المرسوم بالسماء",
+    "أوضح رصد حتى الآن لموجة صدمية أمامية طالما تنبّأ بها العلماء",
+    "قائد الفريق بخبرة 25 عاماً يقول إنه لم يرَ لها مثيلاً",
+    "أول من رصدها كان طالباً يفحص بيانات تلسكوب من تلّة في الهيمالايا",
+    "هل يكشف علم الفلك التشاركي عجائب أكبر ما زالت مختبئة في البيانات؟"
+  ]
+}

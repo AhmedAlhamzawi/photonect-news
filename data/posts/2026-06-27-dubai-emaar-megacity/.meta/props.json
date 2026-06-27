@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 27 • 2026",
+  "arabicDateLabel": "27 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دبي",
+    "arabicHeadline": "إعمار تطلق مدينة بـ54 مليار دولار لـ150 ألف ساكن",
+    "englishSubhead": "EMAAR · $54B MEGACITY · 150,000 RESIDENTS",
+    "heroMedia": "images/news/2026-06-27-dubai-emaar-megacity/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "54 مليار دولار لمدينة جديدة في دبي",
+      "arabicBody": "إعمار تطلق مشروعاً عملاقاً في دبي بقيمة 54 مليار دولار، مصمّماً ليحتضن 150 ألف ساكن في مدينة كاملة، وفق غلف بزنس.",
+      "bigStat": {
+        "value": "54 مليار$",
+        "label": "project value",
+        "arabicLabel": "قيمة المشروع"
+      },
+      "supportingStats": [
+        {
+          "label": "القيمة",
+          "value": "54 مليار$"
+        },
+        {
+          "label": "السعة",
+          "value": "150 ألف ساكن"
+        },
+        {
+          "label": "المصدر",
+          "value": "Gulf Business"
+        }
+      ],
+      "broll": "images/news/2026-06-27-dubai-emaar-megacity/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-27-dubai-emaar-megacity/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أبراج وممرات مائية لـ150 ألف ساكن",
+      "arabicBody": "أبراج سكنية ومساحات خضراء وممرات مائية تشكّل مدينة كاملة، تدفع توسّع دبي العمراني بعيداً عن النفط نحو 150 ألف ساكن، وفق غلف بزنس.",
+      "bigStat": {
+        "value": "150 ألف",
+        "label": "planned residents",
+        "arabicLabel": "عدد السكان المخطط"
+      },
+      "supportingStats": [
+        {
+          "label": "السكان",
+          "value": "150 ألف"
+        },
+        {
+          "label": "المكوّنات",
+          "value": "أبراج ومسطحات خضراء"
+        },
+        {
+          "label": "الهدف",
+          "value": "تنويع عمراني"
+        }
+      ],
+      "broll": "images/news/2026-06-27-dubai-emaar-megacity/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-27-dubai-emaar-megacity/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "من بنى برج خليفة يبني المدينة",
+      "arabicBody": "إعمار رفعت برج خليفة 828 متراً وصنعت وسط دبي، وهذا السجلّ يمنح المدينة الجديدة ثقلاً وسط إعادة ضبط لمشاريع الخليج العملاقة، وفق غلف بزنس.",
+      "bigStat": {
+        "value": "828 م",
+        "label": "Burj Khalifa height",
+        "arabicLabel": "ارتفاع برج خليفة"
+      },
+      "supportingStats": [
+        {
+          "label": "المطوّر",
+          "value": "إعمار"
+        },
+        {
+          "label": "سجلّها",
+          "value": "برج خليفة ووسط دبي"
+        },
+        {
+          "label": "السياق",
+          "value": "ضبط مشاريع الخليج"
+        }
+      ],
+      "broll": "images/news/2026-06-27-dubai-emaar-megacity/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-27-dubai-emaar-megacity/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Gulf Business",
+      "domain": "gulfbusiness.com"
+    },
+    {
+      "name": "Emaar",
+      "domain": "emaar.com"
+    },
+    {
+      "name": "Gulf International Forum",
+      "domain": "gulfif.org"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Arabian Business",
+      "domain": "arabianbusiness.com"
+    }
+  ],
+  "arabicTicker": [
+    "إعمار تطلق مدينة بـ54 مليار دولار لـ150 ألف ساكن",
+    "مشروع عملاق في دبي مصمّم ليحتضن 150 ألف ساكن في مدينة كاملة",
+    "أبراج سكنية ومساحات خضراء وممرات مائية في قلب المدينة الجديدة",
+    "دبي تدفع توسّعها العمراني بعيداً عن النفط نحو اقتصاد متنوّع",
+    "إعمار رفعت برج خليفة 828 متراً وصنعت وسط دبي من قبل",
+    "الإعلان يأتي وسط إعادة ضبط واسعة لمشاريع الخليج العملاقة",
+    "من يربح سباق رأس المال والسكان في الخليج: دبي أم الرياض؟"
+  ]
+}
