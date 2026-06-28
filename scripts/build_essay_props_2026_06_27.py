@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Assemble Essay props from the approved script + generated assets.
 
-- Stages b-roll clips + the rap track into my-video/public/essay/faw-road/
-- Computes per-beat durationFrames from approx_seconds (30fps)
-- Writes data/essay-faw-road/essay-props.json  (for --props render)
-- Writes my-video/src/compositions/Essay/defaultProps.ts  (for Studio preview)
+- Stages b-roll clips, a music bed, and (when present) per-beat rap clips into
+  my-video/public/essay/faw-road/
+- PER-BEAT RAP MODE (when data/essay-faw-road/rap/beat_<i>_<role>_1.mp3 exist for
+  all 7 beats): each beat plays its own clip; segment duration = clip duration so
+  captions sync to the actual rap. Needs KIE credits to generate the clips.
+- FALLBACK MODE (no per-beat raps): duration from approx_seconds, music bed only.
+- Writes data/essay-faw-road/essay-props.json + Essay/defaultProps.ts
 """
 from __future__ import annotations
-import json, shutil
+import json, shutil, subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,11 +18,18 @@ SLUG = "faw-road"
 SRC = ROOT / "data" / "essay-faw-road"
 SCRIPT = SRC / "script.json"
 BROLL = SRC / "broll"
-AUDIO_SRC = SRC / "audio" / "rap_1.mp3"   # take 1 (swap to rap_2 if preferred)
+RAP = SRC / "rap"
+AUDIO_FALLBACK = SRC / "audio" / "rap_1.mp3"     # legacy single track (fallback bed)
+MUSIC_BED = ROOT / "my-video" / "public" / "audio" / "music_06.mp3"  # cinematic bed
 PUB = ROOT / "my-video" / "public" / "essay" / SLUG
 FPS = 30
 
-ROLE_ORDER = ["hook", "steelman", "turn", "critique", "concession", "reframe", "resolve"]
+
+def probe_dur(p: Path) -> float:
+    out = subprocess.run(
+        ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(p)],
+        capture_output=True, text=True).stdout.strip()
+    return float(out) if out else 0.0
 
 
 def main():
@@ -27,9 +37,28 @@ def main():
     segs_in = data["segments"]
     PUB.mkdir(parents=True, exist_ok=True)
 
-    # stage audio
-    shutil.copy2(AUDIO_SRC, PUB / "audio.mp3")
-    print(f"staged audio → public/essay/{SLUG}/audio.mp3")
+    # music bed (continuous; loops under everything, drives EQ)
+    bed_rel = ""
+    if MUSIC_BED.is_file():
+        shutil.copy2(MUSIC_BED, PUB / "bed.mp3")
+        bed_rel = f"essay/{SLUG}/bed.mp3"
+        print(f"staged music bed → {bed_rel}")
+
+    # detect per-beat rap mode
+    def rap_clip(i, role):
+        for t in (1, 2):
+            c = RAP / f"beat_{i}_{role}_{t}.mp3"
+            if c.is_file() and c.stat().st_size > 150_000:
+                return c
+        return None
+    per_beat = all(rap_clip(i, s["beat_role"]) for i, s in enumerate(segs_in, 1))
+    print(f"per-beat rap mode: {'ON' if per_beat else 'OFF (fallback — generate raps after KIE top-up)'}")
+
+    # legacy/fallback bed: if no music bed, fall back to the old single rap track
+    audio_rel = bed_rel
+    if not audio_rel and AUDIO_FALLBACK.is_file():
+        shutil.copy2(AUDIO_FALLBACK, PUB / "audio.mp3")
+        audio_rel = f"essay/{SLUG}/audio.mp3"
 
     segments = []
     for i, s in enumerate(segs_in, 1):
@@ -37,52 +66,48 @@ def main():
         clip = BROLL / f"clip_{i}_{role}.mp4"
         if not clip.is_file():
             raise SystemExit(f"missing b-roll: {clip}")
-        dst_name = f"clip_{i}_{role}.mp4"
-        shutil.copy2(clip, PUB / dst_name)
-        dur_frames = round(float(s.get("approx_seconds", 16)) * FPS)
+        dst = f"clip_{i}_{role}.mp4"
+        shutil.copy2(clip, PUB / dst)
+
+        vo_rel, lead_in = "", 0.0
+        if per_beat:
+            rc = rap_clip(i, role)
+            vo_name = f"vo_{i}_{role}.mp3"
+            shutil.copy2(rc, PUB / vo_name)
+            vo_rel = f"essay/{SLUG}/{vo_name}"
+            dur_frames = round(probe_dur(rc) * FPS)   # segment = the rap clip length
+        else:
+            dur_frames = round(float(s.get("approx_seconds", 16)) * FPS)
+
         counters = [
-            {
-                "value": c.get("value", ""),
-                "label_ar": c.get("label_ar", ""),
-                "source": c.get("source", ""),
-                "as_of": c.get("as_of", ""),
-                "unit": c.get("unit", ""),
-            }
+            {"value": c.get("value", ""), "label_ar": c.get("label_ar", ""),
+             "source": c.get("source", ""), "as_of": c.get("as_of", ""), "unit": c.get("unit", "")}
             for c in s.get("counters", [])
         ]
         segments.append({
-            "beat_role": role,
-            "arabic_vo": s["arabic_vo"],
-            "broll": f"essay/{SLUG}/{dst_name}",
-            "brollSeconds": 8,
-            "eq_tone": s.get("eq_tone", "cyan"),
-            "durationFrames": dur_frames,
-            "counters": counters,
+            "beat_role": role, "arabic_vo": s["arabic_vo"],
+            "broll": f"essay/{SLUG}/{dst}", "brollSeconds": 8,
+            "eq_tone": s.get("eq_tone", "cyan"), "durationFrames": dur_frames,
+            "counters": counters, "vo": vo_rel, "voLeadIn": lead_in,
         })
 
     props = {
-        "titleArabic": data.get("title_ar", ""),
-        "kicker": "تحليل",
-        "handle": "@photonect.news",
-        "dateLabel": "JUN 27 · 2026",
-        "audio": f"essay/{SLUG}/audio.mp3",
-        "audioFadeOutFrames": 45,
+        "titleArabic": data.get("title_ar", ""), "kicker": "تحليل",
+        "handle": "@photonect.news", "dateLabel": "JUN 27 · 2026",
+        "audio": audio_rel or f"essay/{SLUG}/audio.mp3",
+        "musicBed": bed_rel, "musicBedVolume": 0.28, "audioFadeOutFrames": 45,
         "segments": segments,
     }
 
-    out_json = SRC / "essay-props.json"
-    out_json.write_text(json.dumps(props, ensure_ascii=False, indent=2))
-    print(f"wrote {out_json}")
-
+    (SRC / "essay-props.json").write_text(json.dumps(props, ensure_ascii=False, indent=2))
     ts = ROOT / "my-video" / "src" / "compositions" / "Essay" / "defaultProps.ts"
     ts.write_text(
         "// AUTO-GENERATED by scripts/build_essay_props_2026_06_27.py — do not edit by hand.\n"
         "import type { EssayProps } from \"./schema\";\n\n"
-        "export const essayDefaultProps: EssayProps = " + json.dumps(props, ensure_ascii=False, indent=2) + ";\n"
-    )
-    print(f"wrote {ts}")
+        "export const essayDefaultProps: EssayProps = "
+        + json.dumps(props, ensure_ascii=False, indent=2) + ";\n")
     total = sum(s["durationFrames"] for s in segments)
-    print(f"segments={len(segments)} totalFrames={total} (~{total/FPS:.0f}s before dissolves)")
+    print(f"wrote props + defaultProps. segments={len(segments)} totalFrames={total} (~{total/FPS:.0f}s)")
 
 
 if __name__ == "__main__":

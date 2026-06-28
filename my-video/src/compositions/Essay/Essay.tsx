@@ -259,9 +259,18 @@ const SegmentLayer: React.FC<{ seg: EssaySegment; isFirst: boolean; isLast: bool
   const scale = interpolate(frame, [0, seg.durationFrames], [1.04, 1.13], { extrapolateRight: "clamp" });
   // stretch the source clip to fill the beat (slow-mo hides AI seams)
   const playbackRate = Math.max(0.2, (seg.brollSeconds * fps) / seg.durationFrames);
+  // Duck the per-beat vocal at the cross-dissolve seams so neighbours don't double up.
+  const voVol = (f: number) => {
+    const fi = isFirst ? 1 : interpolate(f, [0, T], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+    const fo = isLast ? 1 : interpolate(f, [seg.durationFrames - T, seg.durationFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+    return Math.max(0, fi * fo);
+  };
 
   return (
     <AbsoluteFill style={{ opacity, backgroundColor: C.ink }}>
+      {seg.vo ? (
+        <Audio src={staticFile(seg.vo)} startFrom={Math.round(seg.voLeadIn * fps)} volume={voVol} />
+      ) : null}
       <AbsoluteFill style={{ transform: `scale(${scale})` }}>
         <OffthreadVideo
           src={staticFile(seg.broll)}
@@ -318,18 +327,24 @@ const EqLayer: React.FC<{ audioSrc: string; segs: EssaySegment[] }> = ({ audioSr
 
 export const Essay: React.FC<EssayProps> = (props) => {
   const { durationInFrames } = useVideoConfig();
-  const { segments, audio, audioFadeOutFrames } = props;
+  const { segments, audio, musicBed, musicBedVolume, audioFadeOutFrames } = props;
   const starts = segmentStarts(segments);
+  const bedSrc = musicBed || audio;
+  // Bed sits low under the per-beat vocals; if it's the ONLY track (no per-beat vo
+  // yet), play it full so the render isn't near-silent.
+  const hasVo = segments.some((s) => s.vo);
+  const bedVol = hasVo ? musicBedVolume : 1;
 
   return (
     <AbsoluteFill style={{ backgroundColor: C.ink }}>
       <Audio
-        src={staticFile(audio)}
+        src={staticFile(bedSrc)}
+        loop
         volume={(f) =>
           interpolate(
             f,
             [0, 20, durationInFrames - audioFadeOutFrames, durationInFrames],
-            [0, 1, 1, 0],
+            [0, bedVol, bedVol, 0],
             { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
           )
         }
@@ -341,7 +356,7 @@ export const Essay: React.FC<EssayProps> = (props) => {
         </Sequence>
       ))}
 
-      <EqLayer audioSrc={audio} segs={segments} />
+      <EqLayer audioSrc={bedSrc} segs={segments} />
 
       <TopStrip kicker={props.kicker} titleArabic={props.titleArabic} dateLabel={props.dateLabel} />
 

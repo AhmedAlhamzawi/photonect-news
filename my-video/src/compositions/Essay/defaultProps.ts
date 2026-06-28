@@ -6,7 +6,9 @@ export const essayDefaultProps: EssayProps = {
   "kicker": "تحليل",
   "handle": "@photonect.news",
   "dateLabel": "JUN 27 · 2026",
-  "audio": "essay/faw-road/audio.mp3",
+  "audio": "essay/faw-road/bed.mp3",
+  "musicBed": "essay/faw-road/bed.mp3",
+  "musicBedVolume": 0.28,
   "audioFadeOutFrames": 45,
   "segments": [
     {
@@ -38,7 +40,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "May 2023",
           "unit": "date"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "steelman",
@@ -69,7 +73,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "26 Jun 2025",
           "unit": "days"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "turn",
@@ -93,7 +99,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "22 Apr 2024",
           "unit": "framework"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "critique",
@@ -124,7 +132,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "2024",
           "unit": "rank"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "concession",
@@ -155,7 +165,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "25 Jun 2025",
           "unit": "USD loan"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "reframe",
@@ -179,7 +191,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "3 Oct 2025",
           "unit": "jobs / USD (projected)"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     },
     {
       "beat_role": "resolve",
@@ -210,7 +224,9 @@ export const essayDefaultProps: EssayProps = {
           "as_of": "Dec 2025",
           "unit": "% complete"
         }
-      ]
+      ],
+      "vo": "",
+      "voLeadIn": 0.0
     }
   ]
 };

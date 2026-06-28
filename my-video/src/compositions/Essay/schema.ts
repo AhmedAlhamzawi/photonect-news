@@ -22,6 +22,10 @@ export const essaySegmentSchema = z.object({
   eq_tone: z.enum(["cyan", "amber", "red"]).default("cyan"),
   durationFrames: z.number(),
   counters: z.array(essayCounterSchema).default([]),
+  // Per-beat rap audio (the intelligibility + sync fix): each beat plays its own
+  // clip so the right verse is always on the right audio. Empty = no per-beat VO.
+  vo: z.string().optional().default(""), // staticFile-relative beat rap clip
+  voLeadIn: z.number().default(0), // seconds of clip head to skip (instrumental intro)
 });
 
 export const essaySchema = z.object({
@@ -29,7 +33,9 @@ export const essaySchema = z.object({
   kicker: z.string().default("تحليل"), // top-strip label
   handle: z.string().default("@photonect.news"),
   dateLabel: z.string().default(""),
-  audio: z.string(), // staticFile-relative MSA-rap track
+  audio: z.string(), // staticFile-relative MSA-rap track (legacy single track; fallback bed)
+  musicBed: z.string().optional().default(""), // continuous low bed (smooths per-beat seams + drives EQ)
+  musicBedVolume: z.number().default(0.28),
   audioFadeOutFrames: z.number().default(45),
   segments: z.array(essaySegmentSchema).min(1),
 });
