@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "كوكبان أخفّ من حلوى القطن",
+    "englishSubhead": "TWO 'SUPER-PUFF' WORLDS | LIGHTER THAN COTTON CANDY | TESS FIND",
+    "heroMedia": "images/news/2026-06-28-exoplanets-superpuff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا اكتُشف؟",
+      "arabicHeading": "عالَمان منتفخان حول نجم سحيق",
+      "arabicBody": "رصد فريق دولي، بقمر تيس ومتطوّعين، الكوكبين TOI-791 b وc حول نجم قزم على بُعد نحو 1,110 سنة ضوئية، وفق سبيس دوت كوم.",
+      "bigStat": {
+        "value": "1,110",
+        "label": "light-years away",
+        "arabicLabel": "سنة ضوئية (البُعد)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرصد",
+          "value": "قمر تيس"
+        },
+        {
+          "label": "الكوكبان",
+          "value": "بحجم المشتري"
+        },
+        {
+          "label": "المصدر",
+          "value": "Space.com"
+        }
+      ],
+      "broll": "images/news/2026-06-28-exoplanets-superpuff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-exoplanets-superpuff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خفّة تتحدّى نماذج تكوّن الكواكب",
+      "arabicBody": "بحجم المشتري لكن أقل كثافة بـ28 إلى 35 مرة، فهما من بين الأخفّ على الإطلاق، ما يربك نماذج التكوّن، وفق الفريق ومجلة MNRAS.",
+      "bigStat": {
+        "value": "28–35×",
+        "label": "less dense than Jupiter",
+        "arabicLabel": "أقل كثافة من المشتري"
+      },
+      "supportingStats": [
+        {
+          "label": "الحجم",
+          "value": "كالمشتري"
+        },
+        {
+          "label": "الكثافة",
+          "value": "28–35× أقل"
+        },
+        {
+          "label": "النشر",
+          "value": "MNRAS"
+        }
+      ],
+      "broll": "images/news/2026-06-28-exoplanets-superpuff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-exoplanets-superpuff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رقصة نادرة وهدف للتلسكوبات",
+      "arabicBody": "يتراقص الكوكبان برنين 5:3 نادر، ويصبحان هدفاً مفضّلاً لهابل وجيمس ويب لسبر أغلفتهما المنتفخة، وفق سبيس دوت كوم وأوكسفورد.",
+      "bigStat": {
+        "value": "5:3",
+        "label": "orbital resonance",
+        "arabicLabel": "رنين مداري نادر"
+      },
+      "supportingStats": [
+        {
+          "label": "المدار",
+          "value": "رنين 5:3"
+        },
+        {
+          "label": "المتابعة",
+          "value": "هابل وويب"
+        },
+        {
+          "label": "المصدر",
+          "value": "Oxford"
+        }
+      ],
+      "broll": "images/news/2026-06-28-exoplanets-superpuff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-exoplanets-superpuff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    },
+    {
+      "name": "EurekAlert",
+      "domain": "eurekalert.org"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    },
+    {
+      "name": "Discover Magazine",
+      "domain": "discovermagazine.com"
+    },
+    {
+      "name": "Royal Astronomical Society (MNRAS)",
+      "domain": "academic.oup.com"
+    }
+  ],
+  "arabicTicker": [
+    "كوكبان عملاقان أخفّ من حلوى القطن",
+    "TOI-791 b وc حول نجم قزم على بُعد نحو 1,110 سنة ضوئية",
+    "بحجم المشتري لكن أقل كثافة بـ28 إلى 35 مرة",
+    "متطوّعو مشروع صيّادي الكواكب رصدوهما عبر قمر تيس",
+    "رقصة مدارية نادرة برنين 5:3 بين الكوكبين",
+    "هدف مقبل لهابل وجيمس ويب لسبر الأغلفة المنتفخة",
+    "كيف تحافظ هذه الكواكب على انتفاخها دون أن تتبدّد؟"
+  ]
+}

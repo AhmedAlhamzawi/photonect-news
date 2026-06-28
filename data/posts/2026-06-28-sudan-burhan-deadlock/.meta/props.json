@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السودان",
+    "arabicHeadline": "البرهان: لا تفاوض قبل نزع سلاح الدعم السريع",
+    "englishSubhead": "SUDAN DEADLOCK | BURHAN REJECTS TALKS | QUAD TRUCE PUSH STALLS",
+    "heroMedia": "images/news/2026-06-28-sudan-burhan-deadlock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "البرهان يغلق باب التفاوض",
+      "arabicBody": "قال قائد الجيش عبد الفتاح البرهان في 26 يونيو إنه لن يفاوض إلا على حلّ قوات الدعم السريع وتسليم سلاحها، وفق سودان تربيون.",
+      "bigStat": {
+        "value": "26 يونيو",
+        "label": "Burhan rejects talks",
+        "arabicLabel": "تاريخ رفض التفاوض"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقف",
+          "value": "رفض التفاوض"
+        },
+        {
+          "label": "الشرط",
+          "value": "نزع السلاح"
+        },
+        {
+          "label": "المصدر",
+          "value": "Sudan Tribune"
+        }
+      ],
+      "broll": "images/news/2026-06-28-sudan-burhan-deadlock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-sudan-burhan-deadlock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الموقف بعد دفعة أميركية لوقف النار",
+      "arabicBody": "صدر الموقف بعد يومين من دفعة وزير الخارجية الأميركي ماركو روبيو عبر الرباعية لوقف إنساني للنار، وافق عليها الدعم السريع سابقاً، وفق الأناضول.",
+      "bigStat": {
+        "value": "4",
+        "label": "Quad mediators",
+        "arabicLabel": "دول الرباعية الوسيطة"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "الرباعية"
+        },
+        {
+          "label": "ضغط روبيو",
+          "value": "24 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "Anadolu"
+        }
+      ],
+      "broll": "images/news/2026-06-28-sudan-burhan-deadlock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-sudan-burhan-deadlock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "جمود يطيل أزمة نزوح وجوع",
+      "arabicBody": "مع الجمود تدخل الحرب عامها الرابع، إذ نزح نحو 14 مليون شخص ويواجه 28.9 مليون نقصاً غذائياً حاداً، وفق الأمم المتحدة وبرنامج الأغذية العالمي.",
+      "bigStat": {
+        "value": "14 مليون",
+        "label": "displaced since 2023",
+        "arabicLabel": "نازحون منذ 2023"
+      },
+      "supportingStats": [
+        {
+          "label": "النزوح",
+          "value": "14 مليون"
+        },
+        {
+          "label": "الجوع",
+          "value": "28.9 مليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "UN / WFP"
+        }
+      ],
+      "broll": "images/news/2026-06-28-sudan-burhan-deadlock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-sudan-burhan-deadlock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sudan Tribune",
+      "domain": "sudantribune.com"
+    },
+    {
+      "name": "Anadolu Agency",
+      "domain": "aa.com.tr"
+    },
+    {
+      "name": "NBC News",
+      "domain": "nbcnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "UN News",
+      "domain": "news.un.org"
+    }
+  ],
+  "arabicTicker": [
+    "البرهان: لا تفاوض قبل حلّ الدعم السريع وتسليم سلاحه",
+    "الموقف صدر في 26 يونيو، وفق سودان تربيون",
+    "بعد يومين من دفعة روبيو عبر الرباعية لوقف إنساني للنار",
+    "الدعم السريع وافق سابقاً على مقترح أميركي، وفق الأناضول",
+    "الحرب تدخل عامها الرابع وسط جمود عسكري",
+    "الأمم المتحدة: نحو 14 مليون نازح و28.9 مليون يواجهون الجوع",
+    "هل يكسر الضغط الدولي الجمود أم تطول الحرب أكثر؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "فيزيف يسحق توريس بالقاضية أمام جمهور باكو",
+    "englishSubhead": "UFC BAKU | FIZIEV KO IN ROUND 2 | 2-0 ON HOME SOIL",
+    "heroMedia": "images/news/2026-06-28-ufc-baku-fiziev/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "فيزيف يحسمها مع انطلاق الجولة الثانية",
+      "arabicBody": "ركلة دوّارة، وانطفأ توريس بالقاضية عند الثانية 15 من الجولة الثانية في صدارة يو إف سي باكو، يحسمها فيزيف بثوانٍ، وفق UFC.",
+      "bigStat": {
+        "value": "0:15 ج2",
+        "label": "KO time, Round 2",
+        "arabicLabel": "زمن الحسم (الجولة 2)"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "ضربة قاضية"
+        },
+        {
+          "label": "الجولة",
+          "value": "الثانية"
+        },
+        {
+          "label": "المصدر",
+          "value": "UFC"
+        }
+      ],
+      "broll": "images/news/2026-06-28-ufc-baku-fiziev/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-ufc-baku-fiziev/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "على أرضه لا يُقهر.. رصيده 2-0",
+      "arabicBody": "ثاني حدث ليو إف سي في أذربيجان، وفيزيف يبقى 2-0 على أرضه، يُشعل قاعة الجمباز الوطنية في باكو أمام جمهوره، وفق ESPN.",
+      "bigStat": {
+        "value": "2-0",
+        "label": "Fiziev at home",
+        "arabicLabel": "سجلّه على أرضه"
+      },
+      "supportingStats": [
+        {
+          "label": "الحدث",
+          "value": "الثاني في باكو"
+        },
+        {
+          "label": "السجل",
+          "value": "2-0 بالديار"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-28-ufc-baku-fiziev/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-ufc-baku-fiziev/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ماغوميدوف يخطف القرار وليلة حسم صاعق",
+      "arabicBody": "في المشارك، أسكت ماغوميدوف بيريرا بإجماع الحكام 29-28، وليلة باكو تشتعل: 3 من أول 5 نزالات سقطت قبل نهاية وقتها، وفق Sherdog.",
+      "bigStat": {
+        "value": "29-28",
+        "label": "co-main decision",
+        "arabicLabel": "نتيجة النزال المشارك"
+      },
+      "supportingStats": [
+        {
+          "label": "المشارك",
+          "value": "ماغوميدوف"
+        },
+        {
+          "label": "الحسم المبكر",
+          "value": "3 من 5"
+        },
+        {
+          "label": "المصدر",
+          "value": "Sherdog"
+        }
+      ],
+      "broll": "images/news/2026-06-28-ufc-baku-fiziev/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-ufc-baku-fiziev/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UFC",
+      "domain": "ufc.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "Sherdog",
+      "domain": "sherdog.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    }
+  ],
+  "arabicTicker": [
+    "فيزيف يسحق توريس بالقاضية في صدارة يو إف سي باكو",
+    "ركلة دوّارة تطفئ توريس عند الثانية 15 من الجولة الثانية",
+    "على أرضه لا يُقهر: فيزيف 2-0 وثاني حدث ليو إف سي بأذربيجان",
+    "قاعة الجمباز الوطنية في باكو تشتعل أمام جمهور فيزيف",
+    "ماغوميدوف يُسكت بيريرا بإجماع الحكام 29-28 في المشارك",
+    "ليلة حسم صاعقة: 3 من أول 5 نزالات سقطت قبل نهاية وقتها",
+    "هل يقترب فيزيف من فرصة لقب في وزن الخفيف؟"
+  ]
+}

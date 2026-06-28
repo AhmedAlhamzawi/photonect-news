@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الإمارات",
+    "arabicHeadline": "الإمارات تدشّن أول قطار ركّاب بين مدنها",
+    "englishSubhead": "ETIHAD RAIL | FIRST INTERCITY TRAIN JUN 30 | 900 KM NETWORK",
+    "heroMedia": "images/news/2026-06-28-uae-etihad-rail/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "30 يونيو: أول رحلة ركّاب أبوظبي–الفجيرة",
+      "arabicBody": "ينطلق الاتحاد للقطارات في 30 يونيو بـ13 قطاراً بين أبوظبي والفجيرة، بسرعة تصل إلى 200 كم/س وتذكرة من 55 درهماً، وفق الناشيونال.",
+      "bigStat": {
+        "value": "30 يونيو",
+        "label": "first passenger service",
+        "arabicLabel": "انطلاق أول خدمة ركّاب"
+      },
+      "supportingStats": [
+        {
+          "label": "القطارات",
+          "value": "13"
+        },
+        {
+          "label": "السرعة",
+          "value": "200 كم/س"
+        },
+        {
+          "label": "التذكرة",
+          "value": "من 55 درهماً"
+        }
+      ],
+      "broll": "images/news/2026-06-28-uae-etihad-rail/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-uae-etihad-rail/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول شبكة ركّاب بطول 900 كيلومتر",
+      "arabicBody": "هي أول شبكة قطارات ركّاب بين المدن في تاريخ الإمارات، بطول 900 كم، ويُتوقّع أن تنقل 36 مليون راكب سنوياً بحلول 2030، وفق خليج تايمز.",
+      "bigStat": {
+        "value": "900 كم",
+        "label": "national network",
+        "arabicLabel": "طول الشبكة الوطنية"
+      },
+      "supportingStats": [
+        {
+          "label": "الطول",
+          "value": "900 كم"
+        },
+        {
+          "label": "الركّاب",
+          "value": "36 مليون/سنة بـ2030"
+        },
+        {
+          "label": "المصدر",
+          "value": "Khaleej Times"
+        }
+      ],
+      "broll": "images/news/2026-06-28-uae-etihad-rail/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-uae-etihad-rail/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "محطات جديدة تباعاً حتى 2027",
+      "arabicBody": "يلي ذلك افتتاح محطات دبي والذيد في 30 سبتمبر، ثم الظفرة في ديسمبر، ومدينة الجامعة بالشارقة في مارس 2027، لتربط 11 مدينة ومنطقة، وفق غلف نيوز.",
+      "bigStat": {
+        "value": "11",
+        "label": "cities & regions linked",
+        "arabicLabel": "مدن ومناطق مرتبطة"
+      },
+      "supportingStats": [
+        {
+          "label": "دبي والذيد",
+          "value": "30 سبتمبر"
+        },
+        {
+          "label": "الشارقة",
+          "value": "مارس 2027"
+        },
+        {
+          "label": "المصدر",
+          "value": "Gulf News"
+        }
+      ],
+      "broll": "images/news/2026-06-28-uae-etihad-rail/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-uae-etihad-rail/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Khaleej Times",
+      "domain": "khaleejtimes.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Arabian Business",
+      "domain": "arabianbusiness.com"
+    },
+    {
+      "name": "MEED",
+      "domain": "meed.com"
+    }
+  ],
+  "arabicTicker": [
+    "الإمارات تدشّن أول قطار ركّاب بين مدنها في 30 يونيو",
+    "13 قطاراً بين أبوظبي والفجيرة بسرعة تصل 200 كم/س",
+    "التذكرة تبدأ من 55 درهماً والرحلة نحو ساعة و45 دقيقة",
+    "أول شبكة قطارات ركّاب في تاريخ الإمارات بطول 900 كم",
+    "توقّعات بنقل 36 مليون راكب سنوياً بحلول 2030",
+    "محطات دبي والذيد في سبتمبر والشارقة في مارس 2027",
+    "هل يغيّر القطار شكل التنقّل بين إمارات الدولة؟"
+  ]
+}

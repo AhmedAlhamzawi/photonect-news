@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "مكافحة الإرهاب توقف نواباً داخل المنطقة الخضراء",
+    "englishSubhead": "GREEN ZONE RAID | MPs & OFFICIALS HELD | AL-ZAIDI ANTI-GRAFT DRIVE",
+    "heroMedia": "images/news/2026-06-28-iraq-greenzone-arrests/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طوق أمني ليلي حول المنطقة الخضراء",
+      "arabicBody": "طوّقت قوات مكافحة الإرهاب المنطقة الخضراء ليل السبت، وأوقفت نحو 7 نواب ومسؤولين رُفعت حصاناتهم على خلفية قضايا فساد، وفق أسوشيتد برس.",
+      "bigStat": {
+        "value": "7",
+        "label": "officials & MPs held",
+        "arabicLabel": "موقوفون (أسوشيتد برس)"
+      },
+      "supportingStats": [
+        {
+          "label": "القوة",
+          "value": "مكافحة الإرهاب"
+        },
+        {
+          "label": "الحصانة",
+          "value": "رُفعت"
+        },
+        {
+          "label": "المصدر",
+          "value": "AP"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-greenzone-arrests/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-greenzone-arrests/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "اعترافات موقوف تقود إلى نافذين",
+      "arabicBody": "استندت التوقيفات إلى اعترافات نائب وزير النفط الموقوف عدنان الجميلي، وتزامنت مع ضبط نحو 86 مليون دولار نقداً هذا الشهر، وفق الجزيرة.",
+      "bigStat": {
+        "value": "86 مليون$",
+        "label": "cash seized this month",
+        "arabicLabel": "نقد مضبوط هذا الشهر"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "اعترافات الجميلي"
+        },
+        {
+          "label": "المضبوط",
+          "value": "86 مليون$"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-greenzone-arrests/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-greenzone-arrests/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "لا تهم رسمية حتى الآن",
+      "arabicBody": "تولّى علي الزيدي رئاسة الوزراء في 16 مايو، ولم تصدر الحكومة ولا مجلس القضاء الأعلى بياناً رسمياً بالتهم حتى الآن، وفق الناشيونال ورويترز.",
+      "bigStat": {
+        "value": "16 مايو",
+        "label": "Al-Zaidi took office",
+        "arabicLabel": "تولّي الزيدي رئاسة الحكومة"
+      },
+      "supportingStats": [
+        {
+          "label": "رئيس الوزراء",
+          "value": "علي الزيدي"
+        },
+        {
+          "label": "منذ",
+          "value": "16 مايو"
+        },
+        {
+          "label": "التهم",
+          "value": "لم تُعلن رسمياً"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-greenzone-arrests/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-greenzone-arrests/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مكافحة الإرهاب توقف نواباً داخل المنطقة الخضراء",
+    "أسوشيتد برس: نحو 7 موقوفين بينهم نواب رُفعت حصاناتهم",
+    "التوقيفات استناداً إلى اعترافات نائب وزير النفط عدنان الجميلي",
+    "الجزيرة: ضبط نحو 86 مليون دولار نقداً في القضية هذا الشهر",
+    "علي الزيدي تولّى رئاسة الوزراء في 16 مايو ضمن ملف الفساد",
+    "الحكومة ومجلس القضاء الأعلى لم يصدرا بياناً رسمياً بالتهم بعد",
+    "هل تصل حملة مكافحة الفساد إلى كبار السياسيين فعلاً؟"
+  ]
+}

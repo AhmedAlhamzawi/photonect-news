@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "سينما",
+    "arabicHeadline": "توي ستوري 5 يكتسح شباك 2026",
+    "englishSubhead": "TOY STORY 5 | BIGGEST 2026 OPENING | $300M+ IN TWO WEEKENDS",
+    "heroMedia": "images/news/2026-06-28-toystory5-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "افتتاح يكسر كل أرقام السلسلة",
+      "arabicBody": "انطلق توي ستوري 5 بـ160 مليون دولار في عطلة 19–21 يونيو، أكبر افتتاح في 2026 وفي تاريخ السلسلة، ودفن الجزء الرابع، وفق فاراييتي.",
+      "bigStat": {
+        "value": "160 مليون$",
+        "label": "domestic opening",
+        "arabicLabel": "الافتتاح المحلي"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتتاح",
+          "value": "160 مليون$"
+        },
+        {
+          "label": "الرقم القياسي",
+          "value": "الأكبر بـ2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "Variety"
+        }
+      ],
+      "broll": "images/news/2026-06-28-toystory5-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-toystory5-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ثاني أقوى افتتاح لفيلم رسوم في التاريخ",
+      "arabicBody": "اجتاح الفيلم 312 مليون دولار عالمياً في أول عطلة، ثاني أقوى افتتاح لفيلم رسوم، ودفع ديزني فوق 3 مليارات دولار عالمياً في 2026، وفق ديدلاين.",
+      "bigStat": {
+        "value": "312 مليون$",
+        "label": "global opening",
+        "arabicLabel": "الافتتاح العالمي"
+      },
+      "supportingStats": [
+        {
+          "label": "عالمياً",
+          "value": "312 مليون$"
+        },
+        {
+          "label": "ديزني 2026",
+          "value": "+3 مليارات$"
+        },
+        {
+          "label": "المصدر",
+          "value": "Deadline"
+        }
+      ],
+      "broll": "images/news/2026-06-28-toystory5-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-toystory5-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "300 مليون محلياً في أسبوعين والمليار قادم",
+      "arabicBody": "في عطلته الثانية 26–28 يونيو، تصدّر بـ72 مليون دولار بتراجع صحي 55%، فعبر 300 مليون محلياً ويركض نحو المليار عالمياً، وفق فاراييتي ووورلد أوف ريل.",
+      "bigStat": {
+        "value": "300 مليون$+",
+        "label": "domestic cume",
+        "arabicLabel": "الإجمالي المحلي بأسبوعين"
+      },
+      "supportingStats": [
+        {
+          "label": "العطلة 2",
+          "value": "72 مليون$"
+        },
+        {
+          "label": "التراجع",
+          "value": "55%"
+        },
+        {
+          "label": "المصدر",
+          "value": "World of Reel"
+        }
+      ],
+      "broll": "images/news/2026-06-28-toystory5-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-toystory5-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Variety",
+      "domain": "variety.com"
+    },
+    {
+      "name": "Deadline",
+      "domain": "deadline.com"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "domain": "hollywoodreporter.com"
+    },
+    {
+      "name": "Rotten Tomatoes",
+      "domain": "rottentomatoes.com"
+    },
+    {
+      "name": "World of Reel",
+      "domain": "worldofreel.com"
+    }
+  ],
+  "arabicTicker": [
+    "توي ستوري 5 يكتسح شباك 2026",
+    "160 مليون دولار في عطلته الأولى ويدفن رقم الجزء الرابع",
+    "312 مليون دولار عالمياً ثاني أقوى افتتاح لفيلم رسوم",
+    "الفيلم يدفع ديزني فوق 3 مليارات دولار عالمياً في 2026",
+    "72 مليون دولار في العطلة الثانية بتراجع صحي 55%",
+    "يعبر 300 مليون محلياً ويركض نحو نادي المليار",
+    "هل يصل توي ستوري 5 إلى نادي المليار دولار؟"
+  ]
+}
