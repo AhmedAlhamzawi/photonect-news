@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "مونديال 2026",
+    "arabicHeadline": "في الدقيقة 95 أوستاكيو يطعن جنوب أفريقيا ويعبر بكندا",
+    "englishSubhead": "WORLD CUP R32 | 95' WINNER | CANADA 1-0",
+    "heroMedia": "images/news/2026-06-29-worldcup-canada-r16/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "ركلة في الوقت القاتل تحسم كل شيء",
+      "arabicBody": "في الدقيقة 95، صكّ ستيفن أوستاكيو الكرة في الشباك ليمنح كندا فوزًا 1-0 على جنوب أفريقيا في دور الـ32 بلوس أنجلوس، وفق سي بي سي.",
+      "bigStat": {
+        "value": "95'",
+        "label": "winning goal minute",
+        "arabicLabel": "دقيقة هدف الفوز"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "1-0"
+        },
+        {
+          "label": "المسجّل",
+          "value": "أوستاكيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBC"
+        }
+      ],
+      "broll": "images/news/2026-06-29-worldcup-canada-r16/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-worldcup-canada-r16/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المضيفة تسبق العالم إلى الدور الـ16",
+      "arabicBody": "كندا المستضيفة تصبح أول منتخب يحجز مقعده في دور الـ16، ونجمها ألفونسو ديفيز يخوض أولى دقائقه في المونديال بديلًا في الدقيقة 75، وفق NBC.",
+      "bigStat": {
+        "value": "16",
+        "label": "round reached",
+        "arabicLabel": "بلغت دور الـ16"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "أول المتأهلين"
+        },
+        {
+          "label": "ديفيز",
+          "value": "بديلًا د.75"
+        },
+        {
+          "label": "المصدر",
+          "value": "NBC"
+        }
+      ],
+      "broll": "images/news/2026-06-29-worldcup-canada-r16/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-worldcup-canada-r16/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ملكت الكرة 42% وصنعت الفرص كلها",
+      "arabicBody": "بكرة لم تحملها سوى 42% من الوقت، سحقت كندا الخصم بالأهداف المتوقّعة 1.32 مقابل 0.13، وبانتظارها المغرب أو هولندا في هيوستن يوم 4 يوليو، وفق ESPN.",
+      "bigStat": {
+        "value": "1.32",
+        "label": "expected goals (xG)",
+        "arabicLabel": "الأهداف المتوقّعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستحواذ",
+          "value": "42%"
+        },
+        {
+          "label": "الخصم",
+          "value": "0.13 متوقّع"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-29-worldcup-canada-r16/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-worldcup-canada-r16/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBC",
+      "domain": "cbc.ca"
+    },
+    {
+      "name": "NBC",
+      "domain": "nbclosangeles.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "Bleacher Report",
+      "domain": "bleacherreport.com"
+    }
+  ],
+  "arabicTicker": [
+    "في الدقيقة 95 أوستاكيو يطعن جنوب أفريقيا ويعبر بكندا",
+    "ركلة في الوقت القاتل تمنح كندا فوزًا 1-0 على جنوب أفريقيا",
+    "كندا المستضيفة أول منتخب على وجه الأرض يبلغ دور الـ16",
+    "ألفونسو ديفيز يخوض أولى دقائقه في المونديال بديلًا في الدقيقة 75",
+    "بكرة لم تحملها سوى 42% من الوقت كندا تصنع الفرص كلها",
+    "تفوّق ساحق بالأهداف المتوقّعة 1.32 مقابل 0.13 لجنوب أفريقيا",
+    "المغرب أم هولندا في هيوستن يوم 4 يوليو، من يوقف كندا؟"
+  ]
+}

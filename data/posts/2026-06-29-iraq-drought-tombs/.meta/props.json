@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "جفاف العراق",
+    "arabicHeadline": "العراق يجفّ كما لم يحدث منذ 1933 ونهراه ينحسران",
+    "englishSubhead": "IRAQ DROUGHT | RESERVES 8%",
+    "heroMedia": "images/news/2026-06-29-iraq-drought-tombs/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "الخزين الاستراتيجي يهبط إلى 8%",
+      "arabicBody": "دجلة والفرات نزلا نحو 27%، والخزين الاستراتيجي بقي عند 8% فقط، في أسوأ جفاف يضرب العراق منذ 1933، وفق آسيا نيوز.",
+      "bigStat": {
+        "value": "8%",
+        "label": "water reserves left",
+        "arabicLabel": "ما تبقّى من الخزين"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسوأ منذ",
+          "value": "1933"
+        },
+        {
+          "label": "تراجع المناسيب",
+          "value": "27%"
+        },
+        {
+          "label": "المصدر",
+          "value": "AsiaNews"
+        }
+      ],
+      "broll": "images/news/2026-06-29-iraq-drought-tombs/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-iraq-drought-tombs/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "180,000 نازح ونصف الحصة المائية يضيع",
+      "arabicBody": "سدود تركيا وإيران تقلّص التدفّق، فلا يصل العراق سوى أقل من 35% من حصته، وشحّ المياه شرّد نحو 180,000 شخص، وفق المنظمة الدولية للهجرة.",
+      "bigStat": {
+        "value": "180,000",
+        "label": "displaced by water scarcity",
+        "arabicLabel": "نازح بسبب شحّ المياه"
+      },
+      "supportingStats": [
+        {
+          "label": "من الحصة",
+          "value": "أقل من 35%"
+        },
+        {
+          "label": "السبب",
+          "value": "سدود الجوار"
+        },
+        {
+          "label": "المصدر",
+          "value": "IOM"
+        }
+      ],
+      "broll": "images/news/2026-06-29-iraq-drought-tombs/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-iraq-drought-tombs/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الجفاف يكشف 40 مقبرة عمرها 2,300 عام",
+      "arabicBody": "قرب سد الموصل، أخرج انحسار المياه نحو 40 مقبرة من العصر الهلنستي، يفوق عمرها 2,300 عام، وفق سي بي إس وسميثسونيان.",
+      "bigStat": {
+        "value": "40",
+        "label": "ancient tombs exposed",
+        "arabicLabel": "مقبرة كشفها الجفاف"
+      },
+      "supportingStats": [
+        {
+          "label": "عمرها",
+          "value": "2,300+ سنة"
+        },
+        {
+          "label": "الموقع",
+          "value": "سد الموصل"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBS · Smithsonian"
+        }
+      ],
+      "broll": "images/news/2026-06-29-iraq-drought-tombs/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-iraq-drought-tombs/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AsiaNews",
+      "domain": "asianews.it"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    },
+    {
+      "name": "Smithsonian",
+      "domain": "smithsonianmag.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "IOM",
+      "domain": "iom.int"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يجفّ كما لم يحدث منذ 1933 ونهراه ينحسران وفق آسيا نيوز",
+    "دجلة والفرات هبطا نحو 27% والخزين الاستراتيجي بقي عند 8% فقط",
+    "سدود تركيا وإيران تقلّص التدفّق ولا يصل العراق سوى أقل من 35% من حصته",
+    "شحّ المياه شرّد نحو 180,000 شخص داخل العراق وفق المنظمة الدولية للهجرة",
+    "قرب سد الموصل أخرج انحسار المياه نحو 40 مقبرة من العصر الهلنستي",
+    "المقابر يفوق عمرها 2,300 عام وفق سي بي إس وسميثسونيان",
+    "إذا استمر الجفاف بهذه الوتيرة، فمن يعيد لنهري العراق حصتهما؟"
+  ]
+}

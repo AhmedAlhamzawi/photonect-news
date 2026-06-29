@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فورمولا 1",
+    "arabicHeadline": "راسل ينطلق أولًا ويُنهي النمسا أولًا وفيرستابن خلفه",
+    "englishSubhead": "AUSTRIAN GP | LIGHTS-TO-FLAG | +1.611s",
+    "heroMedia": "images/news/2026-06-29-f1-austria-russell/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "محرّك يزأر من الضوء الأخضر للنهاية",
+      "arabicBody": "انطلق راسل أولًا ولم يترك الصدارة، فأنهى سباق النمسا متقدّمًا على فيرستابن بفارق 1.611 ثانية وأنتونيلي ثالثًا، وفق فورمولا 1.",
+      "bigStat": {
+        "value": "1.611s",
+        "label": "gap over Verstappen",
+        "arabicLabel": "الفارق على فيرستابن"
+      },
+      "supportingStats": [
+        {
+          "label": "الانطلاق",
+          "value": "المركز الأول"
+        },
+        {
+          "label": "الثاني",
+          "value": "فيرستابن"
+        },
+        {
+          "label": "المصدر",
+          "value": "Formula 1"
+        }
+      ],
+      "broll": "images/news/2026-06-29-f1-austria-russell/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-f1-austria-russell/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wikimedia Commons"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "انتظر منذ مارس وكسر الصمت اليوم",
+      "arabicBody": "هذا فوز راسل الثاني في موسم 2026 والسابع في مسيرته، وأول انتصار له منذ أستراليا في مارس، يعيد مرسيدس إلى الواجهة، وفق ESPN.",
+      "bigStat": {
+        "value": "2",
+        "label": "wins in 2026",
+        "arabicLabel": "فوزه الثاني هذا الموسم"
+      },
+      "supportingStats": [
+        {
+          "label": "بمسيرته",
+          "value": "7 انتصارات"
+        },
+        {
+          "label": "آخر فوز",
+          "value": "مارس بأستراليا"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-29-f1-austria-russell/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-f1-austria-russell/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفارق يذوب وسباق اللقب يشتعل",
+      "arabicBody": "قلّص راسل الفارق إلى 40 نقطة خلف المتصدّر أنتونيلي بعدما كان 50، فبقي صراع اللقب مفتوحًا على مصراعيه، وفق Yahoo Sports.",
+      "bigStat": {
+        "value": "40",
+        "label": "points behind leader",
+        "arabicLabel": "نقطة خلف المتصدّر"
+      },
+      "supportingStats": [
+        {
+          "label": "المتصدّر",
+          "value": "أنتونيلي"
+        },
+        {
+          "label": "كان الفارق",
+          "value": "50 نقطة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Yahoo Sports"
+        }
+      ],
+      "broll": "images/news/2026-06-29-f1-austria-russell/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-f1-austria-russell/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Formula 1",
+      "domain": "formula1.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "Crash.net",
+      "domain": "crash.net"
+    },
+    {
+      "name": "RacingNews365",
+      "domain": "racingnews365.com"
+    }
+  ],
+  "arabicTicker": [
+    "راسل ينطلق أولًا ويُنهي النمسا أولًا وفيرستابن خلفه",
+    "راسل يتقدّم على فيرستابن بفارق 1.611 ثانية وأنتونيلي ثالثًا في النمسا",
+    "الفوز الثاني لراسل هذا الموسم والسابع في مسيرته مع مرسيدس",
+    "أول انتصار لراسل منذ سباق أستراليا في مارس الماضي",
+    "راسل يقلّص الفارق إلى 40 نقطة خلف المتصدّر أنتونيلي بعد أن كان 50",
+    "مرسيدس تعيد فرض حضورها على حلبة ريد بُل رينغ في النمسا",
+    "هل يلحق راسل بأنتونيلي على اللقب أم يهرب المتصدّر؟"
+  ]
+}

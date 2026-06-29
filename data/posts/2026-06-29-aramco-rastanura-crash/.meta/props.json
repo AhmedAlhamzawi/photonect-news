@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "مروحية تابعة لأرامكو تتحطّم في رأس تنورة ومقتل 14",
+    "englishSubhead": "ARAMCO | RAS TANURA | 14 KILLED",
+    "heroMedia": "images/news/2026-06-29-aramco-rastanura-crash/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "تحطّم مروحية فجر الأحد",
+      "arabicBody": "تحطّمت مروحية تابعة لأرامكو في رأس تنورة عند نحو السادسة فجر الأحد، وقُتل جميع من كانوا على متنها وعددهم 14، وفق واس.",
+      "bigStat": {
+        "value": "14",
+        "label": "people killed",
+        "arabicLabel": "قتيلًا على متنها"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "رأس تنورة"
+        },
+        {
+          "label": "التوقيت",
+          "value": "فجر الأحد"
+        },
+        {
+          "label": "المصدر",
+          "value": "واس"
+        }
+      ],
+      "broll": "images/news/2026-06-29-aramco-rastanura-crash/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-aramco-rastanura-crash/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ضحايا سعوديون قرب مرفأ نفطي رئيسي",
+      "arabicBody": "أكّدت وزارة الطاقة أنّ الضحايا الـ14 جميعهم سعوديون، والحادث وقع قرب رأس تنورة، أحد أبرز مرافئ تصدير النفط شرق المملكة، وفق بلومبرغ.",
+      "bigStat": {
+        "value": "6:00 ص",
+        "label": "time of crash",
+        "arabicLabel": "توقيت الحادث"
+      },
+      "supportingStats": [
+        {
+          "label": "الضحايا",
+          "value": "سعوديون"
+        },
+        {
+          "label": "الموقع",
+          "value": "مرفأ نفطي رئيسي"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bloomberg"
+        }
+      ],
+      "broll": "images/news/2026-06-29-aramco-rastanura-crash/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-aramco-rastanura-crash/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تحقيق مفتوح في أسباب التحطّم",
+      "arabicBody": "فتحت الجهات المختصة تحقيقًا شاملًا لمعرفة سبب التحطّم، فيما لم تُعلَن الأسباب بعد، وتوالت التعازي الرسمية وتضامن الإمارات، وفق الجزيرة وغلف نيوز.",
+      "bigStat": {
+        "value": "تحقيق",
+        "label": "investigation opened",
+        "arabicLabel": "تحقيق في الأسباب"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالة",
+          "value": "لجنة مختصة"
+        },
+        {
+          "label": "الأسباب",
+          "value": "غير معلنة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-29-aramco-rastanura-crash/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-aramco-rastanura-crash/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Saudi Press Agency",
+      "domain": "spa.gov.sa"
+    },
+    {
+      "name": "Saudi Ministry of Energy",
+      "domain": "moenergy.gov.sa"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "تحطّم مروحية تابعة لأرامكو في رأس تنورة فجر الأحد",
+    "مقتل جميع من كانوا على متن المروحية وعددهم 14",
+    "وزارة الطاقة: الضحايا الـ14 جميعهم سعوديون",
+    "الحادث وقع قرب أحد أهم مرافئ تصدير النفط شرق المملكة",
+    "الجهات المختصة تفتح تحقيقًا شاملًا في أسباب التحطّم",
+    "لم تُعلَن أسباب الحادث حتى الآن",
+    "تعازٍ رسمية وتضامن إماراتي مع السعودية"
+  ]
+}

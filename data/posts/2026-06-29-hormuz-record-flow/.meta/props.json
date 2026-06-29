@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "20 مليون برميل تعبر مضيق هرمز في 24 ساعة",
+    "englishSubhead": "HORMUZ | 20M BARRELS | 24H RECORD",
+    "heroMedia": "images/news/2026-06-29-hormuz-record-flow/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "رقم قياسي يتجاوز مستويات ما قبل الحرب",
+      "arabicBody": "قال وزير الطاقة الأميركي كريس رايت إن نحو 20 مليون برميل خرجت عبر مضيق هرمز في 24 ساعة، وهو رقم قياسي، وفق CNBC.",
+      "bigStat": {
+        "value": "20 مليون",
+        "label": "barrels in 24h",
+        "arabicLabel": "برميل خلال 24 ساعة"
+      },
+      "supportingStats": [
+        {
+          "label": "السجلّ",
+          "value": "رقم قياسي"
+        },
+        {
+          "label": "مقارنة",
+          "value": "يتجاوز ما قبل الحرب"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-06-29-hormuz-record-flow/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-hormuz-record-flow/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ممر موسّع، لكن السفن ثلث ما كانت",
+      "arabicBody": "في 27 يونيو وسّع مركز المعلومات البحرية ممرًّا قرب عُمان لحركة باتجاهين، لكن عدد السفن ما زال نحو ثلث ما قبل الحرب، وفق NPR.",
+      "bigStat": {
+        "value": "1/3",
+        "label": "vessel count vs pre-war",
+        "arabicLabel": "عدد السفن مقابل ما قبل الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "27 يونيو"
+        },
+        {
+          "label": "الممر",
+          "value": "باتجاهين قرب عُمان"
+        },
+        {
+          "label": "المصدر",
+          "value": "NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-29-hormuz-record-flow/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-hormuz-record-flow/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "60 يومًا بلا رسوم… ثم ماذا؟",
+      "arabicBody": "وفق CNBC وNPR، يسمح اتفاق بمرور السفن التجارية بلا رسوم 60 يومًا، تُحدَّد بعدها الرسوم مع عُمان وأطراف أخرى.",
+      "bigStat": {
+        "value": "60 يومًا",
+        "label": "no-charge transit window",
+        "arabicLabel": "مرور بلا رسوم"
+      },
+      "supportingStats": [
+        {
+          "label": "بعدها",
+          "value": "تُحدَّد الرسوم"
+        },
+        {
+          "label": "الأطراف",
+          "value": "إيران وعُمان"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC · NPR"
+        }
+      ],
+      "broll": "images/news/2026-06-29-hormuz-record-flow/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-hormuz-record-flow/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "US Dept. of Energy",
+      "domain": "energy.gov"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "JMIC",
+      "domain": "jmic.gov"
+    }
+  ],
+  "arabicTicker": [
+    "20 مليون برميل تعبر مضيق هرمز في 24 ساعة",
+    "وزير الطاقة الأميركي كريس رايت: رقم قياسي يتجاوز مستويات ما قبل الحرب، وفق CNBC",
+    "في 27 يونيو، مركز المعلومات البحرية يوسّع ممرًّا قرب عُمان لحركة باتجاهين",
+    "رغم توسيع الممر، عدد السفن العابرة ما زال نحو ثلث ما قبل الحرب",
+    "اتفاق يسمح بمرور السفن التجارية عبر المضيق بلا رسوم لمدة 60 يومًا",
+    "بعد 60 يومًا، تُحدَّد رسوم المرور مع عُمان وأطراف أخرى، وفق NPR",
+    "هل يصمد تعافي التدفّق، أم يعود التصعيد إلى مضيق هرمز؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 29 • 2026",
+  "arabicDateLabel": "29 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "دفاع كوكبي",
+    "arabicHeadline": "صخرة بطول كيلومتر تمرّ قرب الأرض… ورادار ناسا يلاحقها",
+    "englishSubhead": "1997 NC1 | 1 KM | RADAR-TRACKED",
+    "heroMedia": "images/news/2026-06-29-asteroid-flyby-1997nc1/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "صخرة بطول كيلومتر تعبر بأمان",
+      "arabicBody": "صخرة فضائية بطول نحو كيلومتر، من نوع آتن العابر لمدار الأرض، مرّت قربنا بأمان تامّ يوم 27 يونيو، وفق EarthSky.",
+      "bigStat": {
+        "value": "1 كم",
+        "label": "asteroid diameter",
+        "arabicLabel": "قطر الكويكب"
+      },
+      "supportingStats": [
+        {
+          "label": "المرور",
+          "value": "آمن"
+        },
+        {
+          "label": "التاريخ",
+          "value": "27 يونيو"
+        },
+        {
+          "label": "المصدر",
+          "value": "EarthSky"
+        }
+      ],
+      "broll": "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "محسوب خطِرًا… بلا خطر فعلي",
+      "arabicBody": "حجمه وقربه أدرجاه ضمن «الكويكبات الخطِرة محتملًا» منذ اكتشافه عام 1997، لكنّه لم يشكّل أي تهديد فعلي على الأرض، وفق Space.com.",
+      "bigStat": {
+        "value": "1997",
+        "label": "year discovered",
+        "arabicLabel": "سنة اكتشافه"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "خطِر محتمل"
+        },
+        {
+          "label": "الخطر الفعلي",
+          "value": "لا يوجد"
+        },
+        {
+          "label": "المصدر",
+          "value": "Space.com"
+        }
+      ],
+      "broll": "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AI generated · Photonect"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رادار ناسا يصوّره لأول مرة",
+      "arabicBody": "وجّهت ناسا هوائيي غولدستون بقطر 34 مترًا لتصويره راداريًا لأول مرة، فدقّقت مداره ودعمت أبحاث الدفاع الكوكبي، وفق مختبر الدفع النفّاث.",
+      "bigStat": {
+        "value": "34 م",
+        "label": "Goldstone antenna size",
+        "arabicLabel": "قطر هوائي غولدستون"
+      },
+      "supportingStats": [
+        {
+          "label": "الرصد",
+          "value": "أول مرة راداريًا"
+        },
+        {
+          "label": "الهدف",
+          "value": "الدفاع الكوكبي"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA JPL"
+        }
+      ],
+      "broll": "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-29-asteroid-flyby-1997nc1/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AI generated · Photonect"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA JPL",
+      "domain": "jpl.nasa.gov"
+    },
+    {
+      "name": "EarthSky",
+      "domain": "earthsky.org"
+    },
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    },
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    }
+  ],
+  "arabicTicker": [
+    "صخرة بطول كيلومتر تمرّ قرب الأرض… ورادار ناسا يلاحقها",
+    "المرور الآمن تمّ يوم 27 يونيو دون أي خطر فعلي وفق EarthSky",
+    "الكويكب 1997 NC1 من نوع آتن العابر لمدار كوكبنا",
+    "مدرَج ضمن الكويكبات الخطِرة محتملًا منذ اكتشافه عام 1997 وفق Space.com",
+    "هوائيا غولدستون بقطر 34 مترًا يصوّرانه راداريًا لأول مرة",
+    "البيانات تدقّق مداره وتدعم أبحاث الدفاع الكوكبي وفق ناسا",
+    "كم صخرة قريبة ما زالت مجهولة المسار حتى الآن؟"
+  ]
+}
