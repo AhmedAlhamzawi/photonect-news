@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_hamasi.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "اعترافات منسوبة لنائب وزير النفط تفجّر ملف فساد",
+    "englishSubhead": "AL-JUMAILI CASE | $86M EQUIV. SEIZED | ALLEGED GRAFT NETWORK | CHARGES UNCONFIRMED",
+    "heroMedia": "images/news/2026-06-28-iraq-special-graft/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قضية عدنان الجميلي نقطة الانطلاق",
+      "arabicBody": "تعود السلسلة إلى قضية نائب وزير النفط عدنان الجميلي الموقوف أواخر مايو، وتتمحور حول عقود مصافٍ ومزاعم رشى واختلاس، وفق الناشيونال.",
+      "bigStat": {
+        "value": "أواخر مايو",
+        "label": "al-Jumaili arrest — the trigger",
+        "arabicLabel": "توقيف الجميلي — نقطة الانطلاق"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوف",
+          "value": "نائب وزير النفط"
+        },
+        {
+          "label": "الملف",
+          "value": "عقود مصافٍ"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-graft/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-graft/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نحو 86 مليون دولار وأموال مدفونة",
+      "arabicBody": "ضُبط نحو 98 مليار دينار و11 مليون دولار، منها 67 ملياراً مدفونة على عمق 4 أمتار، وفق مجلس القضاء الأعلى عبر عرب نيوز.",
+      "bigStat": {
+        "value": "67 مليار دينار",
+        "label": "buried 4m underground",
+        "arabicLabel": "مدفونة على عمق 4 أمتار (مجلس القضاء)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجمالي المضبوط",
+          "value": "98 مليار دينار + 11 مليون$"
+        },
+        {
+          "label": "مدفونة",
+          "value": "67 مليار دينار"
+        },
+        {
+          "label": "المصدر",
+          "value": "Arab News"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-graft/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-graft/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "اعترافات قادت إلى شبكة مزعومة",
+      "arabicBody": "تقول وكالة الأنباء العراقية إن اعترافات الجميلي وملفات مضبوطة كشفت شبكة مزعومة وقادت إلى توقيفات إضافية، فيما لم تُعلن التهم رسمياً بعد، وفق الجزيرة.",
+      "bigStat": {
+        "value": "شبكة مزعومة",
+        "label": "alleged network exposed",
+        "arabicLabel": "شبكة مزعومة (INA)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأساس",
+          "value": "اعترافات + ملفات"
+        },
+        {
+          "label": "المصدر",
+          "value": "وكالة الأنباء العراقية"
+        },
+        {
+          "label": "التهم",
+          "value": "لم تُعلن رسمياً"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-graft/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-graft/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "اعترافات منسوبة لنائب وزير النفط تفجّر ملف فساد",
+    "الناشيونال: قضية الجميلي تتمحور حول عقود مصافٍ ومزاعم رشى واختلاس",
+    "عرب نيوز: ضبط نحو 98 مليار دينار و11 مليون دولار في القضية",
+    "مجلس القضاء الأعلى: 67 مليار دينار وُجدت مدفونة على عمق 4 أمتار",
+    "وكالة الأنباء العراقية: الاعترافات كشفت شبكة مزعومة قادت إلى توقيفات",
+    "الجزيرة: لم تصدر التهم رسمياً بعد بحق الموقوفين",
+    "هل تكشف القضية كامل شبكة الفساد المزعومة؟"
+  ]
+}

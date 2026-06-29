@@ -22,6 +22,11 @@ on:
         required: false
         type: boolean
         default: true
+      slug_filter:
+        description: 'Optional substring — only render + post slugs whose name contains it (e.g. "iraq-special"). Blank = all slugs for the date.'
+        required: false
+        type: string
+        default: ''
 
 permissions:
   contents: read
@@ -107,6 +112,7 @@ jobs:
         env:
           MYVIDEO: ${{ github.workspace }}/my-video
           DATE_ARG: ${{ steps.date.outputs.value }}
+          SLUG_FILTER: ${{ inputs.slug_filter }}
         run: bash generate-daily.sh "$DATE_ARG"
 
       - name: Write Drive OAuth credentials to disk

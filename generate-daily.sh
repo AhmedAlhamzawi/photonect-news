@@ -34,10 +34,15 @@ if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
 fi
 
 # Discover all slugs for this date.
+# Optional SLUG_FILTER env (default empty) → only include slugs whose name contains it.
+# Lets a one-off subset run (e.g. a special-coverage drop) reuse this pipeline without
+# changing normal daily behaviour: empty filter = all slugs, exactly as before.
 SLUGS=()
 for d in "$POSTS/$DATE"-*; do
   [ -d "$d" ] || continue
-  SLUGS+=("$(basename "$d")")
+  slug="$(basename "$d")"
+  if [ -n "${SLUG_FILTER:-}" ] && [[ "$slug" != *"$SLUG_FILTER"* ]]; then continue; fi
+  SLUGS+=("$slug")
 done
 
 if [ ${#SLUGS[@]} -eq 0 ]; then

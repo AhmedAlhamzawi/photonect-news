@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_hamasi.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "حملة الزيدي ضد الفساد تبلغ المنطقة الخضراء",
+    "englishSubhead": "THE STAKES | AL-ZAIDI ANTI-GRAFT DRIVE | IMMUNITY LIFTED | NO FORMAL CHARGES YET",
+    "heroMedia": "images/news/2026-06-28-iraq-special-stakes/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "حملة بدأت منذ 16 مايو تطال نواباً",
+      "arabicBody": "أطلق علي الزيدي منذ توليه في 16 مايو حملة ضد الفساد، ورُفعت الحصانة عن النواب بموافقة رئيس البرلمان هيبت الحلبوسي خلال العطلة التشريعية، وفق الناشيونال.",
+      "bigStat": {
+        "value": "16 مايو",
+        "label": "Al-Zaidi took office",
+        "arabicLabel": "تولّي الزيدي رئاسة الحكومة"
+      },
+      "supportingStats": [
+        {
+          "label": "رئيس الوزراء",
+          "value": "علي الزيدي"
+        },
+        {
+          "label": "الحصانة",
+          "value": "رُفعت بموافقة الحلبوسي"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-stakes/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-stakes/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ردود فعل سياسية متباينة ومنسوبة",
+      "arabicBody": "هيئة النزاهة قالت إن الإجراءات تمت بدقة ووفق القانون، وهنّأ رئيس الوزراء السابق نوري المالكي الزيدي، فيما عدّها المحلل حمزة مصطفى تطوراً غير مسبوق، وفق الجزيرة.",
+      "bigStat": {
+        "value": "غير مسبوق",
+        "label": "analyst Hamza Mustafa",
+        "arabicLabel": "وصف المحلل حمزة مصطفى"
+      },
+      "supportingStats": [
+        {
+          "label": "هيئة النزاهة",
+          "value": "وفق القانون وبدقة"
+        },
+        {
+          "label": "المالكي",
+          "value": "هنّأ الزيدي عبر إكس"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-stakes/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-stakes/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "العملية مستمرة ولا تهم رسمية بعد",
+      "arabicBody": "تستند التوقيفات إلى مذكرات قضائية، ولم تُعلن تهم محددة؛ ولم تصدر الحكومة بياناً رسمياً، وامتنع مجلس القضاء الأعلى عن التعليق على عددها، وفق الناشيونال وأسوشيتد برس.",
+      "bigStat": {
+        "value": "مذكرات قضائية",
+        "label": "judicial warrants, no charges confirmed",
+        "arabicLabel": "أساس التوقيفات (الناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "التهم",
+          "value": "لم تُعلن رسمياً"
+        },
+        {
+          "label": "مجلس القضاء",
+          "value": "امتنع عن التعليق"
+        },
+        {
+          "label": "العملية",
+          "value": "مستمرة (المتحدث العبودي)"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-stakes/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-stakes/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    }
+  ],
+  "arabicTicker": [
+    "حملة الزيدي ضد الفساد تبلغ المنطقة الخضراء",
+    "الناشيونال: رفع الحصانة عن النواب بموافقة رئيس البرلمان هيبت الحلبوسي",
+    "هيئة النزاهة الاتحادية: الإجراءات تمت بدقة ووفق القانون",
+    "المالكي يهنّئ الزيدي عبر إكس على إطلاق العملية",
+    "المحلل حمزة مصطفى للجزيرة: تطور غير مسبوق",
+    "التوقيفات تستند إلى مذكرات قضائية ولم تُعلن تهم رسمية بعد",
+    "لا تهم رسمية ولا بيان حكومي حتى الآن: ماذا يقول القضاء تالياً؟"
+  ]
+}

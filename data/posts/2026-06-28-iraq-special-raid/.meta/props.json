@@ -1,0 +1,156 @@
+{
+  "dateLabel": "JUN 28 • 2026",
+  "arabicDateLabel": "28 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_hamasi.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تغطية خاصة",
+    "arabicHeadline": "مكافحة الإرهاب تُطوّق المنطقة الخضراء وتداهم منازل نواب",
+    "englishSubhead": "GREEN ZONE SEALED | CTS RAID | MPs DETAINED",
+    "heroMedia": "images/news/2026-06-28-iraq-special-raid/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طوق ليلي وأبواب مغلقة",
+      "arabicBody": "ليل السبت أغلقت قوات مكافحة الإرهاب مداخل المنطقة الخضراء وداهمت منازل، بأمر مباشر من رئيس الوزراء علي الزيدي، وفق أسوشيتد برس والشرق الأوسط.",
+      "bigStat": {
+        "value": "1",
+        "label": "Green Zone sealed",
+        "arabicLabel": "المنطقة الخضراء مطوّقة"
+      },
+      "supportingStats": [
+        {
+          "label": "القوة",
+          "value": "مكافحة الإرهاب"
+        },
+        {
+          "label": "الأمر",
+          "value": "علي الزيدي"
+        },
+        {
+          "label": "المصدر",
+          "value": "AP"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-raid/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-raid/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AP · BAGHDAD",
+      "subtitlePhrases": [
+        "ليل السبت تُطوَّق المنطقة الخضراء",
+        "مكافحة الإرهاب تُغلق المداخل وتداهم منازل",
+        "بأمر مباشر من رئيس الوزراء علي الزيدي"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أوامر قضائية ونواب رُفعت حصاناتهم",
+      "arabicBody": "نُفّذت أوامر توقيف قضائية بحق نواب ومسؤولين رُفعت حصاناتهم بموافقة رئيس البرلمان، وقدّرت أسوشيتد برس العدد الأولي بنحو 7 بينهم 5 نواب، وفق الناشيونال.",
+      "bigStat": {
+        "value": "7",
+        "label": "initial detainees (AP)",
+        "arabicLabel": "موقوفون أولياً (أسوشيتد برس)"
+      },
+      "supportingStats": [
+        {
+          "label": "نواب",
+          "value": "5 (AP)"
+        },
+        {
+          "label": "الحصانة",
+          "value": "رُفعت"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-raid/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-raid/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "THE NATIONAL · JUN 28",
+      "subtitlePhrases": [
+        "أوامر توقيف قضائية بحق نواب ومسؤولين",
+        "نحو 7 موقوفين أولياً بينهم 5 نواب",
+        "رفع الحصانة بموافقة رئيس البرلمان"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "لا تهم رسمية معلنة حتى الآن",
+      "arabicBody": "أعلنت الوكالة العراقية للأنباء توقيف 47 شخصاً ونشرت 15 اسماً، فيما لم تُصدر الحكومة ولا مجلس القضاء الأعلى أي تهم رسمية حتى الآن، وفق الناشيونال والجزيرة.",
+      "bigStat": {
+        "value": "47",
+        "label": "detained (INA, 15 named)",
+        "arabicLabel": "موقوفون (الوكالة العراقية)"
+      },
+      "supportingStats": [
+        {
+          "label": "أسماء مُعلنة",
+          "value": "15"
+        },
+        {
+          "label": "التهم الرسمية",
+          "value": "لم تُعلن"
+        },
+        {
+          "label": "المصدر",
+          "value": "INA · AJ"
+        }
+      ],
+      "broll": "images/news/2026-06-28-iraq-special-raid/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-28-iraq-special-raid/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AL JAZEERA · JUN 28",
+      "subtitlePhrases": [
+        "الوكالة العراقية: توقيف 47 شخصاً",
+        "ونشر 15 اسماً من الموقوفين",
+        "لا تهم رسمية من الحكومة أو القضاء حتى الآن"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    }
+  ],
+  "arabicTicker": [
+    "مكافحة الإرهاب تُطوّق المنطقة الخضراء وتداهم منازل نواب",
+    "أسوشيتد برس: العملية بأمر مباشر من رئيس الوزراء علي الزيدي",
+    "أسوشيتد برس: نحو 7 موقوفين أولياً بينهم 5 نواب رُفعت حصاناتهم",
+    "الناشيونال: رفع الحصانة جرى بموافقة رئيس البرلمان والبرلمان في عطلة",
+    "الوكالة العراقية للأنباء: توقيف 47 شخصاً ونشر 15 اسماً علناً",
+    "الناشيونال والجزيرة: لا تهم رسمية من الحكومة أو القضاء حتى الآن",
+    "هل تتحول الأوامر القضائية إلى تهم رسمية مُعلنة؟"
+  ]
+}
