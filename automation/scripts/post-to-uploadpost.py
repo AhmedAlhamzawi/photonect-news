@@ -24,6 +24,7 @@ import mimetypes
 import os
 import sys
 import time
+import ssl
 import urllib.request
 import urllib.error
 import uuid
@@ -101,8 +102,18 @@ def submit(video: Path, caption: str, user: str, platforms: list[str]) -> str:
         headers={"Authorization": f"Apikey {api_key()}", "Content-Type": content_type,
                  "Accept": "application/json"},
     )
-    with urllib.request.urlopen(req, timeout=180) as r:
-        resp = json.loads(r.read().decode("utf-8"))
+    last_err = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                resp = json.loads(r.read().decode("utf-8"))
+            break
+        except (urllib.error.URLError, ssl.SSLError, OSError) as e:
+            last_err = e
+            print(f"    upload attempt {attempt+1} failed ({e}); retrying...", flush=True)
+            time.sleep(5 * (attempt + 1))
+    else:
+        raise RuntimeError(f"upload failed after 3 attempts: {last_err}")
     rid = resp.get("request_id") or (resp.get("data") or {}).get("request_id")
     if not rid:
         raise RuntimeError(f"no request_id in response: {str(resp)[:300]}")
