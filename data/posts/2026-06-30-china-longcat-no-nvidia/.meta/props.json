@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "نموذج صيني بترليون معامل دون أي شريحة إنفيديا",
+    "englishSubhead": "LONGCAT-2.0 | ALL-CHINESE CHIPS | NO NVIDIA",
+    "heroMedia": "images/news/2026-06-30-china-longcat-no-nvidia/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ميتوان تدرّب النموذج بالكامل على شرائح محلية",
+      "arabicBody": "أطلقت ميتوان نموذج LongCat-2.0 بنحو 1.6 ترليون معامل، و48 مليار نشطة لكل رمز، ونافذة مليون رمز، مدرّباً كلياً على شرائح صينية، وفق VentureBeat.",
+      "bigStat": {
+        "value": "1.6 ترليون",
+        "label": "MoE parameters",
+        "arabicLabel": "معاملات النموذج (VentureBeat)"
+      },
+      "supportingStats": [
+        {
+          "label": "النشطة",
+          "value": "48 مليار"
+        },
+        {
+          "label": "النافذة",
+          "value": "مليون رمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "VentureBeat"
+        }
+      ],
+      "broll": "images/news/2026-06-30-china-longcat-no-nvidia/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-china-longcat-no-nvidia/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تدريب كامل على 50 ألف شريحة هواوي",
+      "arabicBody": "جرى التدريب بالكامل على عنقود محلي بـ50 ألف شريحة عبر مكتبة هواوي HCCL، كأول نموذج بترليون معامل يكتمل دون إنفيديا أو AMD، وفق رويترز.",
+      "bigStat": {
+        "value": "50 ألف",
+        "label": "domestic chips in cluster",
+        "arabicLabel": "شرائح في العنقود المحلي"
+      },
+      "supportingStats": [
+        {
+          "label": "المكتبة",
+          "value": "هواوي HCCL"
+        },
+        {
+          "label": "إنفيديا",
+          "value": "صفر"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-06-30-china-longcat-no-nvidia/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-china-longcat-no-nvidia/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مسار بلا إنفيديا يعيد حساب الخليج",
+      "arabicBody": "تفوّق النموذج على Gemini 3.1 Pro في اختباري Terminal-Bench وSWE-Bench، ومسار دون إنفيديا قد يخفّف اعتماد G42 وHUMAIN على موافقات أمريكية، وفق Yahoo Tech.",
+      "bigStat": {
+        "value": "2",
+        "label": "benchmarks topped vs Gemini 3.1 Pro",
+        "arabicLabel": "اختباران تفوّق فيهما"
+      },
+      "supportingStats": [
+        {
+          "label": "المعيار",
+          "value": "Terminal-Bench"
+        },
+        {
+          "label": "المعيار",
+          "value": "SWE-Bench"
+        },
+        {
+          "label": "المصدر",
+          "value": "Yahoo Tech"
+        }
+      ],
+      "broll": "images/news/2026-06-30-china-longcat-no-nvidia/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-china-longcat-no-nvidia/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VentureBeat",
+      "domain": "venturebeat.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The Edge Malaysia",
+      "domain": "theedgemalaysia.com"
+    },
+    {
+      "name": "Yahoo Tech",
+      "domain": "tech.yahoo.com"
+    },
+    {
+      "name": "SiliconANGLE",
+      "domain": "siliconangle.com"
+    }
+  ],
+  "arabicTicker": [
+    "نموذج صيني بترليون معامل دون أي شريحة إنفيديا",
+    "VentureBeat: LongCat-2.0 بنحو 1.6 ترليون معامل و48 مليار نشطة",
+    "نافذة سياق تصل إلى مليون رمز في النموذج المفتوح المصدر",
+    "رويترز: تدريب كامل على عنقود محلي بـ50 ألف شريحة هواوي",
+    "أول نموذج بترليون معامل يكتمل تدريباً دون إنفيديا أو AMD",
+    "Yahoo Tech: تفوّق على Gemini 3.1 Pro في اختباري الترميز",
+    "هل يفتح هذا المسار بديلاً غير إنفيديا أمام مراكز الخليج؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "السعودية تُفعّل توطين 30% من مهن الهندسة اليوم",
+    "englishSubhead": "ENGINEERING SAUDIZATION | 30% QUOTA LIVE",
+    "heroMedia": "images/news/2026-06-30-saudi-engineering-saudization/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نسبة التوطين ترتفع إلى 30%",
+      "arabicBody": "رفعت وزارة الموارد البشرية نسبة توطين الهندسة من 25% إلى 30% للمنشآت التي تضم 5 مهندسين معتمدين فأكثر، وتشمل 46 مهنة، وفق عرب نيوز.",
+      "bigStat": {
+        "value": "30%",
+        "label": "engineering Saudization quota",
+        "arabicLabel": "نسبة توطين الهندسة (عرب نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "النسبة السابقة",
+          "value": "25%"
+        },
+        {
+          "label": "المهن المشمولة",
+          "value": "46 مهنة"
+        },
+        {
+          "label": "حد المنشأة",
+          "value": "5 مهندسين"
+        }
+      ],
+      "broll": "images/news/2026-06-30-saudi-engineering-saudization/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-saudi-engineering-saudization/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أجر أدنى وتوثيق على قوى",
+      "arabicBody": "لا يُحتسب المهندس إلا براتب لا يقل عن 8000 ريال شهرياً، نحو 2130 دولاراً، وبعقد موثّق على منصة قوى، وفق بي إن إي إنتلي نيوز.",
+      "bigStat": {
+        "value": "8000 ريال",
+        "label": "salary floor to count",
+        "arabicLabel": "حد الراتب للاحتساب (~2130$)"
+      },
+      "supportingStats": [
+        {
+          "label": "الراتب السابق",
+          "value": "7000 ريال"
+        },
+        {
+          "label": "التوثيق",
+          "value": "منصة قوى"
+        },
+        {
+          "label": "الاعتماد",
+          "value": "هيئة المهندسين"
+        }
+      ],
+      "broll": "images/news/2026-06-30-saudi-engineering-saudization/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-saudi-engineering-saudization/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Photonect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "عقوبات على المنشآت غير الملتزمة",
+      "arabicBody": "المنشآت غير الملتزمة تواجه تجميد تصاريح العمل والاستبعاد من المناقصات الحكومية، في سوق يعتمد على عمالة عراقية ومصرية وأردنية، وفق وزارة الموارد البشرية وأرقام.",
+      "bigStat": {
+        "value": "46",
+        "label": "engineering roles covered",
+        "arabicLabel": "مهنة هندسية مشمولة"
+      },
+      "supportingStats": [
+        {
+          "label": "المخالفة",
+          "value": "تجميد التصاريح"
+        },
+        {
+          "label": "كذلك",
+          "value": "استبعاد المناقصات"
+        },
+        {
+          "label": "التفعيل",
+          "value": "30 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-06-30-saudi-engineering-saudization/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-saudi-engineering-saudization/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Photonect · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Saudi MHRSD",
+      "domain": "hrsd.gov.sa"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "bne IntelliNews",
+      "domain": "intellinews.com"
+    },
+    {
+      "name": "Argaam",
+      "domain": "argaam.com"
+    }
+  ],
+  "arabicTicker": [
+    "السعودية تُفعّل توطين 30% من مهن الهندسة اليوم",
+    "عرب نيوز: رفع النسبة من 25% إلى 30% للمنشآت بـ5 مهندسين فأكثر",
+    "القرار يشمل 46 مهنة هندسية تتطلب اعتماد هيئة المهندسين",
+    "أرقام: لا احتساب للمهندس إلا براتب 8000 ريال شهرياً فأكثر",
+    "توثيق عقد المهندس على منصة قوى شرط لاحتسابه ضمن النسبة",
+    "المنشآت غير الملتزمة تواجه تجميد التصاريح واستبعاد المناقصات",
+    "كيف سيتكيّف المهندسون العراقيون والمصريون والأردنيون مع القرار؟"
+  ]
+}

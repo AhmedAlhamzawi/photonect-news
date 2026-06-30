@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "واشنطن وطهران في الدوحة دون لقاء مباشر",
+    "englishSubhead": "DOHA TALKS | NO DIRECT MEETING | $6B FROZEN",
+    "heroMedia": "images/news/2026-06-30-iran-doha-frozen-assets/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ويتكوف وكوشنر يلتقيان الوسطاء القطريين فقط",
+      "arabicBody": "وصل المبعوثان ستيف ويتكوف وجاريد كوشنر إلى الدوحة لاجتماعات مع الوسطاء القطريين، فيما أرسلت إيران وفداً تقنياً يرفض أي تفاوض مباشر، وفق سي إن إن.",
+      "bigStat": {
+        "value": "0",
+        "label": "direct US-Iran meetings",
+        "arabicLabel": "لقاءات مباشرة (سي إن إن)"
+      },
+      "supportingStats": [
+        {
+          "label": "المبعوثان",
+          "value": "ويتكوف وكوشنر"
+        },
+        {
+          "label": "الوفد الإيراني",
+          "value": "تقني"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNN"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iran-doha-frozen-assets/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iran-doha-frozen-assets/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNN · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "6 مليارات دولار مجمدة لم تُحوّل بعد",
+      "arabicBody": "من أصل 12 مليار دولار إيرانية مجمدة في قطر، خُصّص نحو 6 مليارات لإفراج مرحلي مرتبط بتقدم المفاوضات، ولم يُحوّل أي مبلغ، وفق وول ستريت جورنال.",
+      "bigStat": {
+        "value": "6 مليار$",
+        "label": "frozen funds for staged release",
+        "arabicLabel": "أموال مجمدة لإفراج مرحلي"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجمالي المجمد",
+          "value": "12 مليار$"
+        },
+        {
+          "label": "المُحوّل",
+          "value": "صفر"
+        },
+        {
+          "label": "المصدر",
+          "value": "WSJ"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iran-doha-frozen-assets/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iran-doha-frozen-assets/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "WSJ · 20 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ساعة 60 يوماً تنتهي منتصف أغسطس",
+      "arabicBody": "تنص مذكرة التفاهم الموقّعة في 17 يونيو على مهلة 60 يوماً تنتهي منتصف أغسطس، وقال المتحدث إسماعيل بقائي إنه لا مفاوضات على أي مستوى، وفق الجزيرة.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "MoU clock to mid-August",
+        "arabicLabel": "مهلة المذكرة حتى منتصف أغسطس"
+      },
+      "supportingStats": [
+        {
+          "label": "توقيع المذكرة",
+          "value": "17 يونيو"
+        },
+        {
+          "label": "نهاية المهلة",
+          "value": "منتصف أغسطس"
+        },
+        {
+          "label": "الموقف الإيراني",
+          "value": "لا مفاوضات"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iran-doha-frozen-assets/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iran-doha-frozen-assets/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Jazeera · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "name": "The Times of Israel",
+      "domain": "timesofisrael.com"
+    }
+  ],
+  "arabicTicker": [
+    "واشنطن وطهران في الدوحة دون لقاء مباشر",
+    "سي إن إن: ويتكوف وكوشنر يجتمعان بالوسطاء القطريين فقط",
+    "إيران أرسلت وفداً تقنياً ورفضت أي تفاوض مباشر مع واشنطن",
+    "وول ستريت جورنال: 6 مليارات دولار مجمدة في قطر لم تُحوّل بعد",
+    "مذكرة التفاهم وُقّعت في 17 يونيو بمهلة 60 يوماً حتى منتصف أغسطس",
+    "بقائي: لا اجتماعات تفاوضية على أي مستوى مع الجانب الأميركي",
+    "هل ينهار المسار ويُعيد فتح مخاطر التصعيد على بغداد؟"
+  ]
+}

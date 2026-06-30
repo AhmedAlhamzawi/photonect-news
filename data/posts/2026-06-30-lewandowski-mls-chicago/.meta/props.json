@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "ليفاندوفسكي يتجاهل الدوري السعودي ويوقّع لشيكاغو فاير",
+    "englishSubhead": "LEWANDOWSKI | SNUBS SAUDI | JOINS MLS",
+    "heroMedia": "images/news/2026-06-30-lewandowski-mls-chicago/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صفقة حرة لعامين مع شيكاغو فاير",
+      "arabicBody": "أعلن نادي شيكاغو فاير توقيع ليفاندوفسكي صفقةً حرة لعامين حتى موسم 2028 كلاعب مُصنّف، رافضاً عروض الدوري السعودي، وفق بيان النادي وموقع MLSSoccer.",
+      "bigStat": {
+        "value": "2",
+        "label": "year deal through 2028",
+        "arabicLabel": "عقد حتى 2028 (شيكاغو فاير)"
+      },
+      "supportingStats": [
+        {
+          "label": "الانتقال",
+          "value": "صفقة حرة"
+        },
+        {
+          "label": "الصفة",
+          "value": "لاعب مُصنّف"
+        },
+        {
+          "label": "المصدر",
+          "value": "MLSSoccer"
+        }
+      ],
+      "broll": "images/news/2026-06-30-lewandowski-mls-chicago/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-lewandowski-mls-chicago/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Chicago Fire FC · 29 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "اختار أمريكا رغم عروض السعودية وأوروبا",
+      "arabicBody": "فضّل ليفاندوفسكي الدوري الأمريكي رغم اهتمام قوي من السعودية وأوروبا، وفي رصيده 629 هدفاً و159 تمريرة حاسمة و33 لقباً، وفق إي.إس.بي.إن.",
+      "bigStat": {
+        "value": "629",
+        "label": "career goals",
+        "arabicLabel": "أهداف المسيرة (ESPN)"
+      },
+      "supportingStats": [
+        {
+          "label": "التمريرات",
+          "value": "159"
+        },
+        {
+          "label": "الألقاب",
+          "value": "33"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-06-30-lewandowski-mls-chicago/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-lewandowski-mls-chicago/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "ESPN · 29 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أول ظهور في 16 يوليو",
+      "arabicBody": "يستهدف شيكاغو فاير إشراك ليفاندوفسكي البالغ 37 عاماً في 16 يوليو، فيما أكد المدرب غريغ بيرهالتر أن اللاعب فضّل أمريكا على الخليج، وفق جول.كوم.",
+      "bigStat": {
+        "value": "16 يوليو",
+        "label": "targeted MLS debut",
+        "arabicLabel": "أول ظهور مستهدف (Goal.com)"
+      },
+      "supportingStats": [
+        {
+          "label": "العمر",
+          "value": "37 عاماً"
+        },
+        {
+          "label": "المدرب",
+          "value": "غريغ بيرهالتر"
+        },
+        {
+          "label": "المصدر",
+          "value": "Goal.com"
+        }
+      ],
+      "broll": "images/news/2026-06-30-lewandowski-mls-chicago/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-lewandowski-mls-chicago/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Goal.com · 29 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Chicago Fire FC",
+      "domain": "chicagofirefc.com"
+    },
+    {
+      "name": "MLSSoccer",
+      "domain": "mlssoccer.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Goal.com",
+      "domain": "goal.com"
+    }
+  ],
+  "arabicTicker": [
+    "ليفاندوفسكي يتجاهل الدوري السعودي ويوقّع لشيكاغو فاير",
+    "شيكاغو فاير: صفقة حرة لعامين حتى موسم 2028 كلاعب مُصنّف",
+    "ESPN: اهتمام قوي من السعودية وأوروبا قبل اختيار أمريكا",
+    "في رصيده 629 هدفاً و159 تمريرة حاسمة و33 لقباً في مسيرته",
+    "المدرب غريغ بيرهالتر يؤكد تفضيل اللاعب الدوري الأمريكي",
+    "أول ظهور مستهدف للاعب البالغ 37 عاماً في 16 يوليو",
+    "هل يكسر هذا الانتقال هيمنة الإنفاق الخليجي على نجوم الكرة؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "culture",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "سينما",
+    "arabicHeadline": "\"الست\" تصل صالات أمريكا الشمالية أواخر 2026",
+    "englishSubhead": "EL SETT | NORTH AMERICA | LATE 2026",
+    "heroMedia": "images/news/2026-06-30-umm-kulthum-biopic-us/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ووترميلون تنتزع حقوق توزيع \"الست\"",
+      "arabicBody": "ووترميلون بيكتشرز تشتري حقوق توزيع فيلم أم كلثوم \"الست\" في أمريكا الشمالية، والعرض في الصالات أواخر 2026، وفق ديدلاين.",
+      "bigStat": {
+        "value": "الست",
+        "label": "Umm Kulthum biopic",
+        "arabicLabel": "فيلم سيرة أم كلثوم (ديدلاين)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموزّع",
+          "value": "ووترميلون"
+        },
+        {
+          "label": "السوق",
+          "value": "أمريكا الشمالية"
+        },
+        {
+          "label": "المصدر",
+          "value": "Deadline"
+        }
+      ],
+      "broll": "images/news/2026-06-30-umm-kulthum-biopic-us/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-umm-kulthum-biopic-us/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Deadline · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "منى زكي بطلة وإخراج مروان حامد",
+      "arabicBody": "منى زكي تؤدي دور أم كلثوم، والإخراج لمروان حامد والموسيقى لهشام نزيه، ومدة الفيلم نحو 155 دقيقة، وفق ديدلاين و IMDb.",
+      "bigStat": {
+        "value": "155",
+        "label": "minutes runtime",
+        "arabicLabel": "مدة الفيلم بالدقائق (IMDb)"
+      },
+      "supportingStats": [
+        {
+          "label": "البطولة",
+          "value": "منى زكي"
+        },
+        {
+          "label": "الإخراج",
+          "value": "مروان حامد"
+        },
+        {
+          "label": "الموسيقى",
+          "value": "هشام نزيه"
+        }
+      ],
+      "broll": "images/news/2026-06-30-umm-kulthum-biopic-us/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-umm-kulthum-biopic-us/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "IMDb · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "من مراكش إلى صالات أمريكا الشمالية",
+      "arabicBody": "افتُتح عالمياً في مهرجان مراكش ديسمبر 2025، ثم عُرض في روتردام 2026، وينتظر طرحاً تجارياً بأمريكا الشمالية أواخر 2026، وفق ديدلاين وفيلم كلينك.",
+      "bigStat": {
+        "value": "2025",
+        "label": "Marrakech world premiere",
+        "arabicLabel": "العرض العالمي الأول في مراكش"
+      },
+      "supportingStats": [
+        {
+          "label": "العرض الأول",
+          "value": "مراكش 2025"
+        },
+        {
+          "label": "ثم",
+          "value": "روتردام 2026"
+        },
+        {
+          "label": "الطرح التجاري",
+          "value": "أواخر 2026"
+        }
+      ],
+      "broll": "images/news/2026-06-30-umm-kulthum-biopic-us/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-umm-kulthum-biopic-us/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Film Clinic · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deadline",
+      "domain": "deadline.com"
+    },
+    {
+      "name": "Watermelon Pictures",
+      "domain": "watermelonpictures.com"
+    },
+    {
+      "name": "Film Clinic",
+      "domain": "filmclinic.com"
+    },
+    {
+      "name": "Screen Daily",
+      "domain": "screendaily.com"
+    },
+    {
+      "name": "IMDb",
+      "domain": "imdb.com"
+    }
+  ],
+  "arabicTicker": [
+    "\"الست\" تصل صالات أمريكا الشمالية أواخر 2026",
+    "ديدلاين: ووترميلون بيكتشرز تشتري حقوق توزيع \"الست\" في أمريكا الشمالية",
+    "منى زكي تؤدي دور أم كلثوم في فيلم من إخراج مروان حامد",
+    "موسيقى الفيلم لهشام نزيه ومدته نحو 155 دقيقة وفق قاعدة IMDb",
+    "افتُتح عالمياً في مهرجان مراكش ديسمبر 2025 ثم عُرض في روتردام 2026",
+    "محمد حفظي وفيلم كلينك ضمن المنتجين المشاركين في العمل وفق ديدلاين",
+    "هل يفتح طرح \"الست\" أبواب الصالات الأمريكية أمام أفلام عربية أخرى؟"
+  ]
+}

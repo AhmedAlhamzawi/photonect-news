@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUN 30 • 2026",
+  "arabicDateLabel": "30 يونيو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "الشبكة العراقية تغطّي نصف الطلب في ذروة الصيف",
+    "englishSubhead": "IRAQ GRID | ~28K MW VS ~50K | PEAK SUMMER GAP",
+    "heroMedia": "images/news/2026-06-30-iraq-grid-summer-deficit/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "توليد 28 ألف ميغاواط مقابل طلب 50",
+      "arabicBody": "في ذروة الصيف، تولّد الشبكة نحو 28 ألف ميغاواط مقابل طلب 50 ألفاً يصعد إلى 55، أي عجز 22 إلى 27 ألفاً، وفق إيكو ووزارة الكهرباء.",
+      "bigStat": {
+        "value": "27,000",
+        "label": "MW peak deficit",
+        "arabicLabel": "ذروة العجز ميغاواط (إيكو)"
+      },
+      "supportingStats": [
+        {
+          "label": "القدرة",
+          "value": "28,000 م.و"
+        },
+        {
+          "label": "الطلب",
+          "value": "50,000 م.و"
+        },
+        {
+          "label": "المصدر",
+          "value": "ECO / وزارة الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iraq-grid-summer-deficit/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iraq-grid-summer-deficit/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Reuters · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إنفاق 600 مليار شهرياً وتحصيل 1٪",
+      "arabicBody": "تنفق الوزارة نحو 600 مليار دينار شهرياً (397 مليون دولار)، لكنها تحصّل قرابة مليار دينار، أي نحو 1٪ من الكلفة، وفق إيكو عبر شفق وكردستان 24.",
+      "bigStat": {
+        "value": "1٪",
+        "label": "of cost collected",
+        "arabicLabel": "نسبة التحصيل من الكلفة (إيكو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنفاق",
+          "value": "600 مليار دينار/شهر"
+        },
+        {
+          "label": "بالدولار",
+          "value": "397 مليون$"
+        },
+        {
+          "label": "المصدر",
+          "value": "Shafaq / Kurdistan24"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iraq-grid-summer-deficit/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iraq-grid-summer-deficit/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الغاز الإيراني عند 18 مليون متر مكعب",
+      "arabicBody": "تراجعت واردات الغاز الإيراني إلى 18 مليون متر مكعب يومياً مقابل 50 مطلوبة، وأطاحت ضربات حقل بارس الجنوبي بنحو 3,100 ميغاواط، وفق إيكو وشفق.",
+      "bigStat": {
+        "value": "3,100",
+        "label": "MW knocked offline",
+        "arabicLabel": "ميغاواط خرجت عن الخدمة (إيكو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوارد",
+          "value": "18 مليون م³/يوم"
+        },
+        {
+          "label": "المطلوب",
+          "value": "50 مليون م³/يوم"
+        },
+        {
+          "label": "المصدر",
+          "value": "ECO / Shafaq"
+        }
+      ],
+      "broll": "images/news/2026-06-30-iraq-grid-summer-deficit/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-06-30-iraq-grid-summer-deficit/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ECO Iraq Observatory",
+      "domain": "eco-iraq.org"
+    },
+    {
+      "name": "Iraqi Electricity Ministry",
+      "domain": "moelc.gov.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الشبكة العراقية تغطي نصف الطلب في ذروة الصيف",
+    "إيكو: قدرة توليد 28 ألف ميغاواط مقابل طلب يبلغ 50 ألفاً",
+    "العجز في الذروة بين 22 و27 ألف ميغاواط مع صعود الطلب إلى 55 ألفاً",
+    "الكهرباء تنفق 600 مليار دينار شهرياً وتحصّل نحو 1٪ فقط من الكلفة",
+    "واردات الغاز الإيراني تتراجع إلى 18 مليون متر مكعب مقابل 50 مطلوبة",
+    "ضربات حقل بارس الجنوبي أطاحت بنحو 3,100 ميغاواط عن الشبكة",
+    "هل تسدّ مشاريع الغاز والربط الخليجي فجوة الصيف القادمة؟"
+  ]
+}
