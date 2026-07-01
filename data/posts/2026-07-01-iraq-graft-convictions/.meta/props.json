@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "حملة الفجر تدخل المحكمة: أول حكم إدانة",
+    "englishSubhead": "IRAQ ANTI-GRAFT | FIRST CONVICTION | RECOVERY FUND",
+    "heroMedia": "images/news/2026-07-01-iraq-graft-convictions/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول حكم: مدير الضرائب السابق تحت الغرامة",
+      "arabicBody": "في 30 يونيو، غرّمت محكمة الجنايات المركزية مدير هيئة الضرائب السابق أسامة حسام جودت 32.496 مليار دينار وحجزت 22 عقاراً، وفق الشرق الأوسط.",
+      "bigStat": {
+        "value": "32.496 مليار د.ع",
+        "label": "fine on ex-tax chief",
+        "arabicLabel": "غرامة على مدير الضرائب السابق (الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "ما يعادل",
+          "value": "~25 مليون$"
+        },
+        {
+          "label": "عقارات محجوزة",
+          "value": "22"
+        },
+        {
+          "label": "المصدر",
+          "value": "الشرق الأوسط"
+        }
+      ],
+      "broll": "images/news/2026-07-01-iraq-graft-convictions/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-iraq-graft-convictions/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "الشرق الأوسط · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "قضية الجميلي: المضبوطات تبلغ 86 مليون دولار",
+      "arabicBody": "مضبوطات قضية نائب وزير النفط الأسبق عدنان الجميلي بلغت نحو 86 مليون دولار، إلى جانب 70 عقاراً و21 مركبة ونحو 3 كيلوغرامات ذهب، وفق الجزيرة.",
+      "bigStat": {
+        "value": "86 مليون$",
+        "label": "seized in Jumaili case",
+        "arabicLabel": "مضبوطات قضية الجميلي (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "عقارات",
+          "value": "70"
+        },
+        {
+          "label": "مركبات",
+          "value": "21"
+        },
+        {
+          "label": "ذهب",
+          "value": "~3 كغم"
+        }
+      ],
+      "broll": "images/news/2026-07-01-iraq-graft-convictions/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-iraq-graft-convictions/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "الجزيرة · 30 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "حساب لاسترداد الأموال والحملة تتّسع",
+      "arabicBody": "أمر رئيس الوزراء بفتح حساب حكومي للأموال المستردة، وتقول مصادر إن الحملة المستمرة ستة أشهر قد تطال أكثر من 200 مسؤول، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "200+",
+        "label": "targets in the campaign",
+        "arabicLabel": "مسؤولون قد تطالهم الحملة (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون (شفق)",
+          "value": "88"
+        },
+        {
+          "label": "مدة الحملة",
+          "value": "6 أشهر"
+        },
+        {
+          "label": "حساب الاسترداد",
+          "value": "جديد"
+        }
+      ],
+      "broll": "images/news/2026-07-01-iraq-graft-convictions/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-iraq-graft-convictions/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "شفق نيوز · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "حملة الفجر تدخل المحكمة: أول حكم إدانة",
+    "الشرق الأوسط: غرامة 32.496 مليار دينار على مدير الضرائب السابق",
+    "أول حكم في القضية يقترن بحجز 22 عقاراً",
+    "الجزيرة: مضبوطات قضية الجميلي بلغت نحو 86 مليون دولار",
+    "70 عقاراً و21 مركبة ونحو 3 كيلوغرامات ذهب ضمن المضبوطات",
+    "رئيس الوزراء يأمر بفتح حساب حكومي للأموال المستردة",
+    "شفق: هل تطال الحملة أكثر من 200 مسؤول خلال ستة أشهر؟"
+  ]
+}

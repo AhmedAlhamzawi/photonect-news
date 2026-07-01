@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "مؤهّل ترتيبه 140 يطيح بشيلتون من ويمبلدون",
+    "englishSubhead": "WIMBLEDON | No.4 SEED OUT | QUALIFIER STUNS SHELTON",
+    "heroMedia": "images/news/2026-07-01-wimbledon-shelton-upset/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مؤهّل ترتيبه 140 يطيح بالمصنّف الرابع",
+      "arabicBody": "الفنلندي فيرتانن، مؤهّل مصنّف نحو 140 عالمياً، يُسقط شيلتون المصنّف الرابع في الدور الأول بويمبلدون، وفق CBS Sports.",
+      "bigStat": {
+        "value": "140",
+        "label": "Virtanen world ranking",
+        "arabicLabel": "ترتيب فيرتانن العالمي (CBS Sports)"
+      },
+      "supportingStats": [
+        {
+          "label": "تصنيف شيلتون",
+          "value": "4"
+        },
+        {
+          "label": "شيلتون عالمياً",
+          "value": "5"
+        },
+        {
+          "label": "فيرتانن",
+          "value": "مؤهّل"
+        }
+      ],
+      "broll": "images/news/2026-07-01-wimbledon-shelton-upset/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-wimbledon-shelton-upset/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CBS Sports · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "4 ساعات و21 دقيقة وإنقاذ نقطة مباراة",
+      "arabicBody": "حرب استمرّت 4 ساعات و21 دقيقة: فيرتانن أنقذ نقطة مباراة ثم حسم الشوط الفاصل 11-9، وفق أوتلوك إنديا.",
+      "bigStat": {
+        "value": "11-9",
+        "label": "deciding tiebreak",
+        "arabicLabel": "الشوط الفاصل الحاسم (Outlook India)"
+      },
+      "supportingStats": [
+        {
+          "label": "زمن المباراة",
+          "value": "4:21"
+        },
+        {
+          "label": "نقطة مباراة",
+          "value": "أُنقذت"
+        },
+        {
+          "label": "عدد المجموعات",
+          "value": "5"
+        }
+      ],
+      "broll": "images/news/2026-07-01-wimbledon-shelton-upset/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-wimbledon-shelton-upset/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Outlook India · 30 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أخطاء أقل لشيلتون لكنه انهار في الحاسمة",
+      "arabicBody": "أخطاء شيلتون أقل، 41 مقابل 49، لكنه انهار في اللحظات الحاسمة: ثاني خروج مبكّر له من بطولة كبرى في 2026، وفق CBS Sports.",
+      "bigStat": {
+        "value": "41",
+        "label": "Shelton unforced errors",
+        "arabicLabel": "أخطاء شيلتون غير القسرية مقابل 49 (CBS)"
+      },
+      "supportingStats": [
+        {
+          "label": "أخطاء فيرتانن",
+          "value": "49"
+        },
+        {
+          "label": "خروج مبكّر",
+          "value": "الثاني 2026"
+        },
+        {
+          "label": "اليوم الثاني",
+          "value": "30 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-07-01-wimbledon-shelton-upset/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-wimbledon-shelton-upset/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CBS Sports · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    },
+    {
+      "name": "Outlook India",
+      "domain": "outlookindia.com"
+    },
+    {
+      "name": "TennisUpToDate",
+      "domain": "tennisuptodate.com"
+    },
+    {
+      "name": "News24",
+      "domain": "news24.com"
+    }
+  ],
+  "arabicTicker": [
+    "مؤهّل ترتيبه 140 يطيح بشيلتون من ويمبلدون",
+    "الفنلندي فيرتانن يُسقط المصنّف الرابع في خمس مجموعات بالدور الأول",
+    "فيرتانن مصنّف نحو 140 عالمياً وشيلتون الخامس عالمياً، وفق CBS Sports",
+    "أوتلوك إنديا: المباراة اشتعلت 4 ساعات و21 دقيقة على العشب",
+    "فيرتانن أنقذ نقطة مباراة ثم حسم الشوط الفاصل 11-9",
+    "شيلتون أخطأ أقل، 41 مقابل 49، لكنه انهار في الحاسمة",
+    "ثاني خروج مبكّر لشيلتون في 2026 — من يوقف الانهيار؟"
+  ]
+}

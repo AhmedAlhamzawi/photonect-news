@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "europe",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مناخ",
+    "arabicHeadline": "موجة حر قياسية بأوروبا: أكثر من 1300 وفاة",
+    "englishSubhead": "EUROPE HEATWAVE | 1,300+ DEATHS | RECORD HIGHS",
+    "heroMedia": "images/news/2026-07-01-europe-heatwave-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "1300 وفاة زائدة منذ 21 يونيو",
+      "arabicBody": "منذ 21 يونيو، سجّلت الموجة أكثر من 1300 وفاة زائدة في أوروبا، نحو 1000 منها في فرنسا وحدها، وفق منظمة الصحة العالمية.",
+      "bigStat": {
+        "value": "1300+",
+        "label": "excess deaths since Jun 21",
+        "arabicLabel": "وفيات زائدة منذ 21 يونيو (WHO)"
+      },
+      "supportingStats": [
+        {
+          "label": "فرنسا",
+          "value": "~1000"
+        },
+        {
+          "label": "إسبانيا",
+          "value": "400+"
+        },
+        {
+          "label": "البداية",
+          "value": "21 يونيو"
+        }
+      ],
+      "broll": "images/news/2026-07-01-europe-heatwave-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-europe-heatwave-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "WHO · 28 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فرنسا تكسر رقمها بذروة 43.8 درجة",
+      "arabicBody": "فرنسا عاشت أحرّ يوم في تاريخها بمعدل 30.0 وذروة 43.8، وبريطانيا 35.7 وألمانيا 41.7، أرقام غير مسبوقة، وفق CNN.",
+      "bigStat": {
+        "value": "43.8°",
+        "label": "France peak temperature",
+        "arabicLabel": "ذروة الحرارة في فرنسا (CNN)"
+      },
+      "supportingStats": [
+        {
+          "label": "معدل فرنسا",
+          "value": "30.0°"
+        },
+        {
+          "label": "بريطانيا",
+          "value": "35.7°"
+        },
+        {
+          "label": "ألمانيا",
+          "value": "41.7°"
+        }
+      ],
+      "broll": "images/news/2026-07-01-europe-heatwave-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-europe-heatwave-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CNN · 28 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الاحترار ضاعف الاحتمال 200 مرة",
+      "arabicBody": "علماء الإسناد المناخي يقولون إن الاحترار جعل الموجة أرجح 200 مرة، وإن 191 مليوناً مهدّدون بحرارة تتجاوز 35 درجة، وفق كاربون بريف.",
+      "bigStat": {
+        "value": "200×",
+        "label": "more likely due to warming",
+        "arabicLabel": "أرجح بفعل الاحترار (Carbon Brief)"
+      },
+      "supportingStats": [
+        {
+          "label": "أسخن بـ",
+          "value": "2-4°"
+        },
+        {
+          "label": "مهدّدون",
+          "value": "191 مليون"
+        },
+        {
+          "label": "مقارنة بـ",
+          "value": "1976"
+        }
+      ],
+      "broll": "images/news/2026-07-01-europe-heatwave-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-europe-heatwave-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Carbon Brief · 28 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO",
+      "domain": "who.int"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Carbon Brief",
+      "domain": "carbonbrief.org"
+    },
+    {
+      "name": "WMO",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "موجة حر قياسية بأوروبا: أكثر من 1300 وفاة",
+    "منظمة الصحة: أكثر من 1300 وفاة زائدة منذ 21 يونيو",
+    "نحو 1000 وفاة في فرنسا وأكثر من 400 في إسبانيا",
+    "CNN: فرنسا تعيش أحرّ يوم في تاريخها بذروة 43.8 درجة",
+    "بريطانيا 35.7 وألمانيا 41.7 في أرقام غير مسبوقة",
+    "كاربون بريف: الاحترار جعل الموجة أرجح 200 مرة، و191 مليوناً مهدّدون",
+    "بعد صيف كهذا، من يحمي المكشوفين للحرّ في القادم؟"
+  ]
+}

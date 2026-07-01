@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تحليل",
+    "arabicHeadline": "طهران وواشنطن وبيروت تشكّل لجنة لإنهاء الحرب",
+    "englishSubhead": "LEBANON WAR | TRILATERAL COMMITTEE | 60-DAY CLOCK",
+    "heroMedia": "images/news/2026-07-01-lebanon-war-committee/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خلية منع تصادم تشرف على وقف الحرب",
+      "arabicBody": "أعلنت طهران في 30 يونيو اتفاق إيران وأميركا ولبنان على لجنة للإشراف على إنهاء الحرب، مع استثناء إسرائيل، وفق NPR وCNBC.",
+      "bigStat": {
+        "value": "3",
+        "label": "parties to the committee",
+        "arabicLabel": "أطراف اللجنة: إيران وأميركا ولبنان (NPR)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإعلان",
+          "value": "30 يونيو"
+        },
+        {
+          "label": "الصيغة",
+          "value": "خلية منع تصادم"
+        },
+        {
+          "label": "تستثني",
+          "value": "إسرائيل"
+        }
+      ],
+      "broll": "images/news/2026-07-01-lebanon-war-committee/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-lebanon-war-committee/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NPR / CNBC · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أول اختبار لمذكرة 17 يونيو ومهلة 60 يوماً",
+      "arabicBody": "تبني اللجنة على مذكرة تفاهم وُقّعت في 17 يونيو تستهدف اتفاقاً نهائياً خلال 60 يوماً، ووصفها عراقجي بالاختبار الأول، وفق CBS.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "clock to a final deal",
+        "arabicLabel": "مهلة الاتفاق النهائي (CNBC)"
+      },
+      "supportingStats": [
+        {
+          "label": "توقيع المذكرة",
+          "value": "17 يونيو"
+        },
+        {
+          "label": "محادثات سويسرا",
+          "value": "22 يونيو"
+        },
+        {
+          "label": "عراقجي",
+          "value": "الاختبار الأول"
+        }
+      ],
+      "broll": "images/news/2026-07-01-lebanon-war-committee/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-lebanon-war-committee/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CBS News · 30 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الإطار يربط الانسحاب بنزع سلاح حزب الله",
+      "arabicBody": "أعلن روبيو في 26 يونيو إطاراً يربط الانسحاب الإسرائيلي بنزع سلاح حزب الله موثّقاً، وهو ما يرفضه الحزب حتى الآن، وفق NPR والجزيرة.",
+      "bigStat": {
+        "value": "26 يونيو",
+        "label": "Rubio framework announced",
+        "arabicLabel": "إطار روبيو للانسحاب مقابل نزع السلاح"
+      },
+      "supportingStats": [
+        {
+          "label": "شرط الانسحاب",
+          "value": "نزع السلاح"
+        },
+        {
+          "label": "موقف حزب الله",
+          "value": "رفض"
+        },
+        {
+          "label": "الوسيط",
+          "value": "واشنطن"
+        }
+      ],
+      "broll": "images/news/2026-07-01-lebanon-war-committee/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-lebanon-war-committee/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "NPR / Al Jazeera · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "domain": "npr.org"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "طهران وواشنطن وبيروت تشكّل لجنة لإنهاء الحرب",
+    "الإعلان صدر في 30 يونيو مع استثناء إسرائيل من الخلية",
+    "اللجنة أول اختبار عملي لمذكرة التفاهم الموقّعة في 17 يونيو",
+    "CNBC: المذكرة تستهدف اتفاقاً نهائياً خلال 60 يوماً",
+    "عراقجي يصف خلية منع التصادم بالاختبار الحقيقي الأول",
+    "إطار روبيو في 26 يونيو يربط الانسحاب بنزع سلاح حزب الله",
+    "حزب الله يرفض نزع سلاحه الموثّق: هل تصمد اللجنة أم نعود للتصعيد؟"
+  ]
+}

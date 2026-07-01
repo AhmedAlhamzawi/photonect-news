@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة",
+    "arabicHeadline": "لأول مرة: علاج بالخلايا المناعية لمرضى زرع النخاع",
+    "englishSubhead": "FDA FIRST | TREG-CELL THERAPY | TRANSPLANT GVHD",
+    "heroMedia": "images/news/2026-07-01-tregzi-fda-cancer/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول علاج بالخلايا التنظيمية يعبر البوابة",
+      "arabicBody": "في 30 يونيو، أجازت الغذاء والدواء الأميركية علاج تريغزي، أول علاج بالخلايا التائية التنظيمية لمرضى زرع النخاع الخيفي، وفق FDA.",
+      "bigStat": {
+        "value": "30 يونيو",
+        "label": "FDA approval date",
+        "arabicLabel": "تاريخ الإجازة (FDA)"
+      },
+      "supportingStats": [
+        {
+          "label": "النوع",
+          "value": "أول من نوعه"
+        },
+        {
+          "label": "الشركة",
+          "value": "Orca Bio"
+        },
+        {
+          "label": "الاستخدام",
+          "value": "زرع النخاع"
+        }
+      ],
+      "broll": "images/news/2026-07-01-tregzi-fda-cancer/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-tregzi-fda-cancer/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FDA · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الناجون تضاعفوا: 78% مقابل 38%",
+      "arabicBody": "على 187 مريضاً في تجربة بريسيجن-تي، بلغ البقاء بلا داء الطعم المزمن سنةً 78% مقابل 38% للعلاج التقليدي، وفق CGTLive.",
+      "bigStat": {
+        "value": "78% مقابل 38%",
+        "label": "1-yr cGVHD-free survival",
+        "arabicLabel": "بقاء بلا المرض المزمن سنةً (CGTLive)"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد المرضى",
+          "value": "187"
+        },
+        {
+          "label": "متوسط العمر",
+          "value": "43.5"
+        },
+        {
+          "label": "مزمن حاد",
+          "value": "13% مقابل 44%"
+        }
+      ],
+      "broll": "images/news/2026-07-01-tregzi-fda-cancer/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-tregzi-fda-cancer/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CGTLive · 30 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الموت لغير الانتكاس هبط: 3% مقابل 13%",
+      "arabicBody": "البقاء العام سنةً بلغ 94% مقابل 83%، ووفيات غير الانتكاس هبطت إلى 3% مقابل 13%، فتراجعت مضاعفات الزرع، وفق تارغتد أونكولوجي.",
+      "bigStat": {
+        "value": "3% مقابل 13%",
+        "label": "non-relapse mortality",
+        "arabicLabel": "وفيات غير الانتكاس سنةً (Targeted Oncology)"
+      },
+      "supportingStats": [
+        {
+          "label": "البقاء العام",
+          "value": "94% مقابل 83%"
+        },
+        {
+          "label": "الشركة",
+          "value": "Orca Bio"
+        },
+        {
+          "label": "أول منتج",
+          "value": "مُجاز"
+        }
+      ],
+      "broll": "images/news/2026-07-01-tregzi-fda-cancer/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-tregzi-fda-cancer/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Targeted Oncology · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FDA",
+      "domain": "fda.gov"
+    },
+    {
+      "name": "Orca Bio",
+      "domain": "businesswire.com"
+    },
+    {
+      "name": "CGTLive",
+      "domain": "cgtlive.com"
+    },
+    {
+      "name": "Fierce Pharma",
+      "domain": "fiercepharma.com"
+    },
+    {
+      "name": "Targeted Oncology",
+      "domain": "targetedonc.com"
+    }
+  ],
+  "arabicTicker": [
+    "لأول مرة: علاج بالخلايا المناعية لمرضى زرع النخاع",
+    "علاج تريغزي من Orca Bio أُجيز في 30 يونيو لمرضى زرع النخاع",
+    "CGTLive: تجربة بريسيجن-تي شملت 187 مريضاً بمتوسط عمر 43.5",
+    "البقاء بلا داء الطعم المزمن سنةً 78% مقابل 38% للعلاج التقليدي",
+    "المرض المزمن الحاد انخفض إلى 13% مقابل 44%",
+    "البقاء العام سنةً بلغ 94% مقابل 83%، ووفيات غير الانتكاس 3% مقابل 13%",
+    "هل يفتح هذا الباب لعلاجات خلوية تنهي مأساة زرع النخاع؟"
+  ]
+}

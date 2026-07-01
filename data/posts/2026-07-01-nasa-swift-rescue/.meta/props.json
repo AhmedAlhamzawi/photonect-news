@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 1 • 2026",
+  "arabicDateLabel": "1 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم",
+    "arabicHeadline": "ناسا ترسل روبوتاً لإنقاذ تلسكوب قبل سقوطه",
+    "englishSubhead": "NASA SWIFT | FIRST SATELLITE RESCUE | REBOOST",
+    "heroMedia": "images/news/2026-07-01-nasa-swift-rescue/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "روبوت يلتقط تلسكوب سويفت ويرفع مداره",
+      "arabicBody": "لأول مرة، تطلق ناسا مركبة روبوتية تمسك بتلسكوب سويفت الهابط مداره وترفعه، بدل تركه يسقط، وفق سبيس.كوم وناسا.",
+      "bigStat": {
+        "value": "2004",
+        "label": "Swift launch year",
+        "arabicLabel": "سنة إطلاق تلسكوب سويفت (ناسا)"
+      },
+      "supportingStats": [
+        {
+          "label": "انفجارات غاما",
+          "value": "~100/سنة"
+        },
+        {
+          "label": "كلفة سويفت",
+          "value": "500 مليون$"
+        },
+        {
+          "label": "المصدر",
+          "value": "NASA"
+        }
+      ],
+      "broll": "images/news/2026-07-01-nasa-swift-rescue/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-01-nasa-swift-rescue/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "NASA / Space.com · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مداره سقط إلى 400 كم والخطر 90%",
+      "arabicBody": "انخفض مدار سويفت من 600 إلى 400 كيلومتر، وبلا تدخّل يبلغ احتمال سقوطه غير المنضبط قبل نهاية 2026 نحو 90%، وفق أسترونومي.",
+      "bigStat": {
+        "value": "90%",
+        "label": "uncontrolled reentry risk",
+        "arabicLabel": "احتمال السقوط قبل نهاية 2026 (Astronomy)"
+      },
+      "supportingStats": [
+        {
+          "label": "المدار الآن",
+          "value": "400 كم"
+        },
+        {
+          "label": "حد الالتحام",
+          "value": "300 كم"
+        },
+        {
+          "label": "الهدف",
+          "value": "600 كم"
+        }
+      ],
+      "broll": "images/news/2026-07-01-nasa-swift-rescue/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-01-nasa-swift-rescue/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Astronomy · 30 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "لينك تمدّ عمر سويفت عشر سنوات",
+      "arabicBody": "مركبة لينك بثلاث أذرع ومحركات أيونية تنطلق على صاروخ بيغاسوس في رحلته الأخيرة، لتمدّ عمر سويفت عشر سنوات على الأقل، وفق سبيس.كوم.",
+      "bigStat": {
+        "value": "10 سنوات",
+        "label": "life extension",
+        "arabicLabel": "تمديد عمر التلسكوب على الأقل (Space.com)"
+      },
+      "supportingStats": [
+        {
+          "label": "كتلة لينك",
+          "value": "425 كغم"
+        },
+        {
+          "label": "قيمة العقد",
+          "value": "30 مليون$"
+        },
+        {
+          "label": "أذرع روبوتية",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-07-01-nasa-swift-rescue/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-01-nasa-swift-rescue/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Space.com · 30 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA",
+      "domain": "nasa.gov"
+    },
+    {
+      "name": "Space.com",
+      "domain": "space.com"
+    },
+    {
+      "name": "Astronomy",
+      "domain": "astronomy.com"
+    },
+    {
+      "name": "Northrop Grumman",
+      "domain": "northropgrumman.com"
+    }
+  ],
+  "arabicTicker": [
+    "ناسا ترسل روبوتاً لإنقاذ تلسكوب قبل سقوطه",
+    "مركبة لينك تلتقط تلسكوب سويفت في المدار وترفعه للأعلى",
+    "سويفت أُطلق عام 2004 ويرصد نحو 100 انفجار غاما سنوياً",
+    "أسترونومي: المدار هبط إلى 400 كم واحتمال السقوط 90%",
+    "دون حدّ الالتحام عند 300 كم يصبح الإنقاذ مستحيلاً",
+    "لينك بثلاث أذرع ومحركات أيونية وعقد 30 مليون دولار",
+    "هل ينجح أول إنقاذ روبوتي لقمر عامل في المدار؟"
+  ]
+}
