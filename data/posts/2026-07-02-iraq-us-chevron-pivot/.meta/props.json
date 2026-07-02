@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · نفط",
+    "arabicHeadline": "بغداد تسلّم أضخم حقولها لشيفرون الأميركية",
+    "englishSubhead": "IRAQ–US ENERGY PIVOT | CHEVRON | WEST QURNA 2",
+    "heroMedia": "images/news/2026-07-02-iraq-us-chevron-pivot/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البصرة توقّع اتفاق سرية مع شيفرون",
+      "arabicBody": "وقّعت شركة نفط البصرة اتفاق سرية مع شيفرون لتقييم حقل غرب القرنة 2 العملاق، بديلاً عن لوك أويل الروسية المنسحبة، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "14 مليار",
+        "label": "West Qurna 2 recoverable barrels",
+        "arabicLabel": "برميل قابل للاستخراج في غرب القرنة 2 (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج السابق",
+          "value": "460 ألف ب/ي"
+        },
+        {
+          "label": "من إنتاج العراق",
+          "value": "~9%"
+        },
+        {
+          "label": "المصدر",
+          "value": "The National"
+        }
+      ],
+      "broll": "images/news/2026-07-02-iraq-us-chevron-pivot/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-iraq-us-chevron-pivot/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · 1 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الزيدي يمنح الأميركيين حقّ الأولوية",
+      "arabicBody": "بعد انسحاب لوك أويل الروسية، يمنح رئيس الوزراء علي الزيدي الشركات الأميركية أولوية في الطاقة قبل زيارته واشنطن هذا الشهر، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "500 ألف ب/ي",
+        "label": "barrels/day funding the US fund",
+        "arabicLabel": "برميل يومياً يموّل صندوق التنمية العراقي-الأميركي (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "انسحبت",
+          "value": "لوك أويل 2025"
+        },
+        {
+          "label": "مفاوضات منذ",
+          "value": "فبراير 2026"
+        },
+        {
+          "label": "زيارة واشنطن",
+          "value": "هذا الشهر"
+        }
+      ],
+      "broll": "images/news/2026-07-02-iraq-us-chevron-pivot/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-iraq-us-chevron-pivot/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National / Iraqi News · 1 يوليو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الصفقة تتمدّد إلى حقول أخرى",
+      "arabicBody": "لا يتوقف الأمر عند غرب القرنة؛ اتفاقات تمهيدية تشمل الناصرية وبلد و4 رقع استكشاف في ذي قار، توسّع البصمة الأميركية في نفط الجنوب، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "4",
+        "label": "Dhi Qar exploration blocks",
+        "arabicLabel": "رقع استكشاف في ذي قار ضمن اتفاقات شيفرون التمهيدية (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "حقول إضافية",
+          "value": "الناصرية · بلد"
+        },
+        {
+          "label": "المحافظة",
+          "value": "ذي قار"
+        },
+        {
+          "label": "المصدر",
+          "value": "Basra Oil Co."
+        }
+      ],
+      "broll": "images/news/2026-07-02-iraq-us-chevron-pivot/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-iraq-us-chevron-pivot/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Basra Oil Company · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Basra Oil Company",
+      "domain": "boc.oil.gov.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بغداد تسلّم أضخم حقولها لشيفرون الأميركية",
+    "شركة نفط البصرة توقّع اتفاق سرية مع شيفرون لتقييم غرب القرنة 2",
+    "غرب القرنة 2 يضم نحو 14 مليار برميل ونحو 9% من إنتاج العراق",
+    "الزيدي يمنح الشركات الأميركية الأولوية قبل زيارة واشنطن هذا الشهر",
+    "صندوق تنمية عراقي-أميركي يموّله ما يعادل 500 ألف برميل يومياً",
+    "اتفاقات تمهيدية تشمل الناصرية وبلد و4 رقع في ذي قار",
+    "هل يعيد النفط رسم علاقة بغداد بواشنطن؟"
+  ]
+}

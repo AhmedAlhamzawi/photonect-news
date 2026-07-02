@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mideast",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الشرق الأوسط",
+    "arabicHeadline": "12 دولة تجتمع بالبحرين لتأمين هرمز",
+    "englishSubhead": "CENTCOM | 12 NATIONS | BAHRAIN SECURITY DIALOGUE",
+    "heroMedia": "images/news/2026-07-02-centcom-bahrain-summit/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "القيادة المركزية تجمع قادة 12 دولة",
+      "arabicBody": "البحرين تستضيف حواراً أمنياً قادته القيادة المركزية الأميركية، بحضور قادة دفاع 12 دولة لبحث أمن المنطقة، وفق سنتكوم.",
+      "bigStat": {
+        "value": "12",
+        "label": "nations at the dialogue",
+        "arabicLabel": "دولة شاركت في الحوار الأمني بالبحرين (سنتكوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيف",
+          "value": "البحرين"
+        },
+        {
+          "label": "القيادة",
+          "value": "الأدميرال كوبر"
+        },
+        {
+          "label": "المصدر",
+          "value": "CENTCOM"
+        }
+      ],
+      "broll": "images/news/2026-07-02-centcom-bahrain-summit/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-centcom-bahrain-summit/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CENTCOM · 1 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سوريا ولبنان تشاركان لأول مرة",
+      "arabicBody": "للمرة الأولى، قادة عسكريون من سوريا ولبنان يجلسون في مؤتمر دفاعي تقوده واشنطن، في مؤشر على إعادة رسم التحالفات، وفق وكالة أ ن ي.",
+      "bigStat": {
+        "value": "2",
+        "label": "first-time participants",
+        "arabicLabel": "دولتان جديدتان (سوريا ولبنان) تنضمان للمؤتمر لأول مرة (ANI)"
+      },
+      "supportingStats": [
+        {
+          "label": "جديد",
+          "value": "سوريا · لبنان"
+        },
+        {
+          "label": "بقيادة",
+          "value": "واشنطن"
+        },
+        {
+          "label": "المصدر",
+          "value": "ANI"
+        }
+      ],
+      "broll": "images/news/2026-07-02-centcom-bahrain-summit/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-centcom-bahrain-summit/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "ANI / The Tribune · 2 يوليو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تأمين مضيق هرمز يتصدّر الطاولة",
+      "arabicBody": "حماية حرية الملاحة التجارية عبر مضيق هرمز تتصدّر جدول الأعمال، مع التزام مشترك بتأمين هذا الممر الحيوي للطاقة العالمية، وفق ذا تريبيون.",
+      "bigStat": {
+        "value": "~20%",
+        "label": "of world oil via Hormuz",
+        "arabicLabel": "من إمدادات النفط العالمية تمرّ عبر مضيق هرمز (تقديرات)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف",
+          "value": "أمن الملاحة"
+        },
+        {
+          "label": "الممر",
+          "value": "مضيق هرمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "The Tribune"
+        }
+      ],
+      "broll": "images/news/2026-07-02-centcom-bahrain-summit/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-centcom-bahrain-summit/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The Tribune · 2 يوليو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CENTCOM",
+      "domain": "centcom.mil"
+    },
+    {
+      "name": "ANI",
+      "domain": "aninews.in"
+    },
+    {
+      "name": "The Tribune",
+      "domain": "tribuneindia.com"
+    },
+    {
+      "name": "JNS",
+      "domain": "jns.org"
+    }
+  ],
+  "arabicTicker": [
+    "12 دولة تجتمع بالبحرين لتأمين هرمز",
+    "القيادة المركزية الأميركية تجمع قادة دفاع 12 دولة، وفق سنتكوم",
+    "سوريا ولبنان تشاركان لأول مرة في مؤتمر دفاعي تقوده واشنطن، وفق أ ن ي",
+    "الأدميرال براد كوبر يقود الحوار الأمني في المنامة، وفق سنتكوم",
+    "تأمين حرية الملاحة عبر مضيق هرمز يتصدّر جدول النقاش",
+    "المؤتمر يركّز على تأمين حرية الملاحة عبر مضيق هرمز",
+    "هل نشهد ولادة تحالف دفاعي إقليمي جديد؟"
+  ]
+}

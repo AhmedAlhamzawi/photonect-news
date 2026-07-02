@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "science",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فضاء",
+    "arabicHeadline": "مسبار صيني يلاحق «قمر» الأرض السري",
+    "englishSubhead": "TIANWEN-2 | KAMOʻOALEWA | ASTEROID SAMPLE RETURN",
+    "heroMedia": "images/news/2026-07-02-tianwen2-quasimoon/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تيانوين-2 يفتح لقاءه في 4 يوليو",
+      "arabicBody": "في 4 يوليو يبدأ المسبار الصيني تيانوين-2 التحامه القريب مع الكويكب كامو أوليوا، شبه قمر للأرض، مقترباً حتى 20 كيلومتراً فقط، وفق سبيس نيوز.",
+      "bigStat": {
+        "value": "20 كم",
+        "label": "closest approach distance",
+        "arabicLabel": "أقرب مسافة يقترب بها المسبار من الكويكب (سبيس نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكويكب",
+          "value": "كامو أوليوا"
+        },
+        {
+          "label": "يبدأ",
+          "value": "4 يوليو"
+        },
+        {
+          "label": "المصدر",
+          "value": "SpaceNews"
+        }
+      ],
+      "broll": "images/news/2026-07-02-tianwen2-quasimoon/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-tianwen2-quasimoon/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "SpaceNews · يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ربما شظية طارت من قمرنا",
+      "arabicBody": "كامو أوليوا بحجم مبنى سكني، يرافق الأرض كشبه قمر، وقد يكون شظية اقتُلعت من القمر نفسه، فتصبح عيّنته كنزاً علمياً نادراً، وفق نيتشر.",
+      "bigStat": {
+        "value": "2025",
+        "label": "China's first asteroid-sample launch",
+        "arabicLabel": "سنة إطلاق أول مهمة صينية لجلب عيّنة من كويكب (نيتشر)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحجم",
+          "value": "~مبنى سكني"
+        },
+        {
+          "label": "النوع",
+          "value": "شبه قمر"
+        },
+        {
+          "label": "المصدر",
+          "value": "Nature"
+        }
+      ],
+      "broll": "images/news/2026-07-02-tianwen2-quasimoon/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-tianwen2-quasimoon/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Nature Communications · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الكبسولة تهبط في الأرض 2027",
+      "arabicBody": "يخطف المسبار 200 إلى 1000 غرام بأسلوبي اللمس والالتصاق، ثم تسقط الكبسولة قرب جيوكوان في نوفمبر 2027 حاملةً أول عيّنة صينية، وفق فيزيكس ورلد.",
+      "bigStat": {
+        "value": "1000 غم",
+        "label": "max sample target",
+        "arabicLabel": "أقصى وزن للعيّنة المستهدفة (200–1000 غرام) (phys.org)"
+      },
+      "supportingStats": [
+        {
+          "label": "العودة",
+          "value": "نوفمبر 2027"
+        },
+        {
+          "label": "الأسلوب",
+          "value": "لمس · التصاق"
+        },
+        {
+          "label": "المصدر",
+          "value": "phys.org"
+        }
+      ],
+      "broll": "images/news/2026-07-02-tianwen2-quasimoon/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-tianwen2-quasimoon/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "phys.org · يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SpaceNews",
+      "domain": "spacenews.com"
+    },
+    {
+      "name": "Nature",
+      "domain": "nature.com"
+    },
+    {
+      "name": "phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "CNSA",
+      "domain": "cnsa.gov.cn"
+    }
+  ],
+  "arabicTicker": [
+    "مسبار صيني يلاحق «قمر» الأرض السري",
+    "تيانوين-2 يفتح التحامه القريب مع الكويكب كامو أوليوا في 4 يوليو",
+    "يقترب حتى 20 كيلومتراً فقط من كويكب بحجم مبنى سكني",
+    "كامو أوليوا شبه قمر، وربما شظية اقتُلعت من قمر الأرض",
+    "أول مهمة صينية لجلب عيّنة من كويكب أُطلقت 2025، وفق نيتشر",
+    "يخطف 200 إلى 1000 غرام بأسلوبي اللمس والالتصاق، وفق فيزيكس ورلد",
+    "هل تحمل هذه الحفنة من الغبار دليل ولادة قمرنا؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سينما",
+    "arabicHeadline": "فيلم مايكل جاكسون يكتب رقماً غير مسبوق",
+    "englishSubhead": "MICHAEL | HIGHEST-GROSSING BIOPIC EVER | LIONSGATE",
+    "heroMedia": "images/news/2026-07-02-michael-biopic-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "«مايكل» يزيح أوبنهايمر عن العرش",
+      "arabicBody": "«مايكل» عن نجم البوب مايكل جاكسون قفز فوق 977.4 مليون دولار عالمياً، فصار أعلى فيلم سيرة إيراداً في التاريخ متخطياً أوبنهايمر، وفق فارايتي.",
+      "bigStat": {
+        "value": "977.4 مليون$",
+        "label": "global gross — record biopic",
+        "arabicLabel": "إجمالي إيرادات «مايكل» عالمياً — الأعلى لفيلم سيرة (فارايتي)"
+      },
+      "supportingStats": [
+        {
+          "label": "تخطّى",
+          "value": "أوبنهايمر"
+        },
+        {
+          "label": "الاستوديو",
+          "value": "Lionsgate"
+        },
+        {
+          "label": "المصدر",
+          "value": "Variety"
+        }
+      ],
+      "broll": "images/news/2026-07-02-michael-biopic-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-michael-biopic-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Variety · يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "افتتاح يكسر كل أرقام السير الموسيقية",
+      "arabicBody": "انطلق بـ97 مليون دولار محلياً و217 مليوناً عالمياً، فسحق رقم «سترايت أوتا كومبتون»، وجمع 39.5 مليون في يومه الأول متجاوزاً أوبنهايمر، وفق ديدلاين.",
+      "bigStat": {
+        "value": "39.5 مليون$",
+        "label": "biggest biopic opening day",
+        "arabicLabel": "إيرادات اليوم الأول — الأعلى لفيلم سيرة على الإطلاق (ديدلاين)"
+      },
+      "supportingStats": [
+        {
+          "label": "افتتاح محلي",
+          "value": "97 مليون$"
+        },
+        {
+          "label": "افتتاح عالمي",
+          "value": "217 مليون$"
+        },
+        {
+          "label": "الرقم السابق",
+          "value": "60 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-07-02-michael-biopic-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-michael-biopic-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Deadline · يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ابن الشقيق يصنع أضخم فيلم لليونزغيت",
+      "arabicBody": "صار «مايكل» أعلى أفلام ليونزغيت إيراداً على الإطلاق. أخرجه أنطوان فوكوا، وحمل بطولته جعفر جاكسون ابن شقيق النجم الراحل في أول ظهور تمثيلي، وفق بيلبورد.",
+      "bigStat": {
+        "value": "911.9 مليون$",
+        "label": "passed Bohemian Rhapsody",
+        "arabicLabel": "تخطّى «بوهيميان رابسودي» كأعلى فيلم سيرة موسيقية (بيلبورد)"
+      },
+      "supportingStats": [
+        {
+          "label": "المخرج",
+          "value": "أنطوان فوكوا"
+        },
+        {
+          "label": "البطل",
+          "value": "جعفر جاكسون"
+        },
+        {
+          "label": "المصدر",
+          "value": "Billboard"
+        }
+      ],
+      "broll": "images/news/2026-07-02-michael-biopic-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-michael-biopic-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Billboard · يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Variety",
+      "domain": "variety.com"
+    },
+    {
+      "name": "Deadline",
+      "domain": "deadline.com"
+    },
+    {
+      "name": "Billboard",
+      "domain": "billboard.com"
+    },
+    {
+      "name": "The Numbers",
+      "domain": "the-numbers.com"
+    }
+  ],
+  "arabicTicker": [
+    "فيلم مايكل جاكسون «مايكل» يكتب رقماً غير مسبوق",
+    "977.4 مليون دولار — أعلى فيلم سيرة إيراداً في التاريخ، وفق فارايتي",
+    "أزاح أوبنهايمر عن العرش، وتخطّى بوهيميان رابسودي في أفلام الموسيقى",
+    "افتتاح ساحق: 97 مليون محلياً و217 مليوناً عالمياً، وفق ديدلاين",
+    "39.5 مليون دولار في يومه الأول — رقم قياسي لأفلام السيرة",
+    "أخرجه أنطوان فوكوا، وحمل بطولته جعفر جاكسون ابن شقيق النجم الراحل",
+    "أضخم فيلم في تاريخ ليونزغيت — فهل يبقى الرقم صامداً؟"
+  ]
+}

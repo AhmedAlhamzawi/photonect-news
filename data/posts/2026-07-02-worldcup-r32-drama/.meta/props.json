@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "sport",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كأس العالم",
+    "arabicHeadline": "بلجيكا تُسقط السنغال وتُنهي حلم أفريقيا",
+    "englishSubhead": "WORLD CUP 2026 | ROUND OF 32 | KNOCKOUT DRAMA",
+    "heroMedia": "images/news/2026-07-02-worldcup-r32-drama/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحدث الأبرز",
+      "arabicHeading": "بلجيكا تحسمها 3-2 في الوقت الإضافي",
+      "arabicBody": "في مباراة مجنونة، خطفت بلجيكا التأهل من السنغال 3-2 بعد الوقت الإضافي، وأخرجت آخر منتخب أفريقي من البطولة، وفق فيفا وإسبن.",
+      "bigStat": {
+        "value": "3-2",
+        "label": "Belgium beat Senegal (AET)",
+        "arabicLabel": "فوز بلجيكا على السنغال بعد الوقت الإضافي (فيفا · إسبن)"
+      },
+      "supportingStats": [
+        {
+          "label": "حُسمت في",
+          "value": "وقت إضافي"
+        },
+        {
+          "label": "وداع",
+          "value": "آخر منتخب أفريقي"
+        },
+        {
+          "label": "المصدر",
+          "value": "FIFA · ESPN"
+        }
+      ],
+      "broll": "images/news/2026-07-02-worldcup-r32-drama/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-worldcup-r32-drama/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FIFA / ESPN · 1 يوليو 2026"
+    },
+    {
+      "label": "المضيف يتأهل",
+      "arabicHeading": "المضيف يعبر البوسنة 2-0 رغم الطرد",
+      "arabicBody": "بعشرة لاعبين بعد طرد فولارين بالوغن، أسقط المضيف الأميركي البوسنة 2-0 وبلغ ثمن النهائي، وينتظره موعد مع بلجيكا، وفق ياهو سبورتس.",
+      "bigStat": {
+        "value": "2-0",
+        "label": "USA beat Bosnia",
+        "arabicLabel": "فوز أميركا المضيفة على البوسنة والهرسك (ياهو سبورتس)"
+      },
+      "supportingStats": [
+        {
+          "label": "طرد",
+          "value": "بالوغن"
+        },
+        {
+          "label": "التالي",
+          "value": "ضد بلجيكا"
+        },
+        {
+          "label": "الدور",
+          "value": "ثمن النهائي"
+        }
+      ],
+      "broll": "images/news/2026-07-02-worldcup-r32-drama/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-worldcup-r32-drama/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Yahoo Sports · 1 يوليو 2026"
+    },
+    {
+      "label": "بقية النتائج",
+      "arabicHeading": "إنجلترا تعبر... وقمم ثمن النهائي تتحدد",
+      "arabicBody": "أسقطت إنجلترا الكونغو الديمقراطية 2-1، وينتظرها في ثمن النهائي صدام مع المكسيك، فيما يواجه المغرب كندا، وفق سي بي إس سبورتس.",
+      "bigStat": {
+        "value": "2-1",
+        "label": "England beat DR Congo",
+        "arabicLabel": "فوز إنجلترا على الكونغو الديمقراطية (سي بي إس)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكسيك",
+          "value": "ضد إنجلترا"
+        },
+        {
+          "label": "كندا",
+          "value": "ضد المغرب"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBS Sports"
+        }
+      ],
+      "broll": "images/news/2026-07-02-worldcup-r32-drama/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-worldcup-r32-drama/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CBS Sports · 1 يوليو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Yahoo Sports",
+      "domain": "sports.yahoo.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    }
+  ],
+  "arabicTicker": [
+    "بلجيكا تُسقط السنغال وتُنهي حلم أفريقيا",
+    "بلجيكا تخطف التأهل 3-2 في الوقت الإضافي أمام السنغال",
+    "السنغال آخر منتخب أفريقي يودّع مونديال 2026",
+    "المضيف الأميركي يعبر البوسنة 2-0 رغم طرد بالوغن مبكراً",
+    "أميركا تضرب موعداً مع بلجيكا في ثمن النهائي",
+    "إنجلترا تُسقط الكونغو الديمقراطية 2-1 وتنتظرها المكسيك",
+    "من يخطف بطاقة ربع النهائي في مونديال أميركا؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 2 • 2026",
+  "arabicDateLabel": "2 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تكنولوجيا",
+    "arabicHeadline": "كوريا الجنوبية تراهن 880 ملياراً على الرقائق",
+    "englishSubhead": "SOUTH KOREA | $880B | CHIPS · AI · DATA CENTRES",
+    "heroMedia": "images/news/2026-07-02-skorea-chip-megaplan/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كوريا تضع 880 ملياراً على الطاولة",
+      "arabicBody": "كشف الرئيس لي جيه-ميونغ خطة بـ1350 تريليون وون (880 مليار دولار) لأشباه الموصلات والذكاء الاصطناعي، بحضور رئيسي سامسونغ وإس كيه هاينكس، وفق بلومبرغ.",
+      "bigStat": {
+        "value": "880 مليار$",
+        "label": "total national tech plan",
+        "arabicLabel": "إجمالي خطة كوريا الجنوبية للتقنية على سنوات (بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "بالوون",
+          "value": "1350 تريليون"
+        },
+        {
+          "label": "الرئيس",
+          "value": "لي جيه-ميونغ"
+        },
+        {
+          "label": "المصدر",
+          "value": "Bloomberg"
+        }
+      ],
+      "broll": "images/news/2026-07-02-skorea-chip-megaplan/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-02-skorea-chip-megaplan/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Bloomberg · 30 يونيو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سامسونغ وإس كيه تبنيان مصانع جديدة",
+      "arabicBody": "تضخّ سامسونغ وإس كيه هاينكس، أكبر منتجَي ذاكرة عالمياً، 800 تريليون وون (518 مليار دولار) لبناء مصنعَي رقائق لكلٍّ منهما جنوب غرب البلاد، وفق الجزيرة.",
+      "bigStat": {
+        "value": "518 مليار$",
+        "label": "Samsung + SK Hynix fabs",
+        "arabicLabel": "استثمار سامسونغ وإس كيه هاينكس في مصانع الرقائق (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "مصانع جديدة",
+          "value": "2 لكل شركة"
+        },
+        {
+          "label": "الموقع",
+          "value": "جنوب غرب كوريا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Al Jazeera"
+        }
+      ],
+      "broll": "images/news/2026-07-02-skorea-chip-megaplan/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-02-skorea-chip-megaplan/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · 29 يونيو 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "محور ثلاثي و«قفزة كبرى» حتى 2029",
+      "arabicBody": "سمّاها لي «القفزة الكبرى»: رقائق وذكاء اصطناعي فيزيائي ومراكز بيانات، مع بناء 8.4 غيغاواط من قدرة الذكاء الاصطناعي بحلول 2029، وفق رويترز.",
+      "bigStat": {
+        "value": "8.4 غيغاواط",
+        "label": "AI data-centre capacity by 2029",
+        "arabicLabel": "قدرة مراكز الذكاء الاصطناعي المستهدفة بحلول 2029 (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بحلول",
+          "value": "2029"
+        },
+        {
+          "label": "الرؤية",
+          "value": "القفزة الكبرى"
+        },
+        {
+          "label": "المصدر",
+          "value": "Reuters"
+        }
+      ],
+      "broll": "images/news/2026-07-02-skorea-chip-megaplan/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-02-skorea-chip-megaplan/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Reuters · 29 يونيو 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    }
+  ],
+  "arabicTicker": [
+    "كوريا الجنوبية تراهن 880 ملياراً على الرقائق",
+    "خطة بـ1350 تريليون وون يقودها الرئيس لي جيه-ميونغ",
+    "سامسونغ وإس كيه هاينكس تستثمران 518 مليار دولار في مصانع جديدة",
+    "مصنعا رقائق جديدان لكل شركة جنوب غرب البلاد",
+    "محور ثلاثي: الرقائق والذكاء الاصطناعي الفيزيائي ومراكز البيانات",
+    "بناء 8.4 غيغاواط من قدرة الذكاء الاصطناعي بحلول 2029",
+    "هل تحسم كوريا سباق عتاد الذكاء الاصطناعي؟"
+  ]
+}
