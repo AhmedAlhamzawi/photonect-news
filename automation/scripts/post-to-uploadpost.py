@@ -161,11 +161,14 @@ def per_platform_results(status: dict) -> dict:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--date", required=True, help="YYYY-MM-DD")
+    ap.add_argument("--date", help="YYYY-MM-DD (posts every slug of the date)")
+    ap.add_argument("--slugs", help="comma-separated FULL slug names — posts exactly these, ignores --date")
     ap.add_argument("--user", required=True, help="upload-post profile handle holding the connected accounts")
     ap.add_argument("--platforms", default="instagram,tiktok")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    if not args.date and not args.slugs:
+        ap.error("need --date or --slugs")
 
     platforms = [p.strip() for p in args.platforms.split(",") if p.strip()]
 
@@ -173,9 +176,16 @@ def main() -> int:
         print("UPLOAD_POST_API_KEY unset — skipping auto-post (no-op).")
         return 0
 
-    slugs = sorted(d for d in POSTS.glob(f"{args.date}-*") if d.is_dir())
+    if args.slugs:
+        slugs = [POSTS / s.strip() for s in args.slugs.split(",") if s.strip()]
+        missing = [str(d) for d in slugs if not d.is_dir()]
+        if missing:
+            print(f"missing slug folder(s): {missing}", file=sys.stderr)
+            return 1
+    else:
+        slugs = sorted(d for d in POSTS.glob(f"{args.date}-*") if d.is_dir())
     if not slugs:
-        print(f"no post folders under {POSTS}/{args.date}-*", file=sys.stderr)
+        print(f"no post folders selected", file=sys.stderr)
         return 1
 
     posted = skipped = failed = 0
@@ -198,7 +208,7 @@ def main() -> int:
             status = poll(rid)
             results = per_platform_results(status)
             marker.write_text(json.dumps(
-                {"request_id": rid, "results": results, "date": args.date}, ensure_ascii=False, indent=2))
+                {"request_id": rid, "results": results, "date": args.date or name[:10]}, ensure_ascii=False, indent=2))
             ok = [p for p, v in results.items() if v]
             bad = [p for p, v in results.items() if not v]
             print(f"  ✓ {name}: posted={ok or '?'}" + (f"  FAILED={bad}" if bad else ""), flush=True)

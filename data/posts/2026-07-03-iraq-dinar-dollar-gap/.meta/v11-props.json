@@ -8,7 +8,7 @@
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/hero.jpg",
    "startF": 0,
-   "durationF": 102,
+   "durationF": 86,
    "fromScale": 1.06,
    "toScale": 1.24,
    "fromX": 0.0,
@@ -18,8 +18,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_1.jpg",
-   "startF": 102,
-   "durationF": 94,
+   "startF": 86,
+   "durationF": 99,
    "fromScale": 1.28,
    "toScale": 1.1,
    "fromX": -0.4,
@@ -29,7 +29,7 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_2.jpg",
-   "startF": 196,
+   "startF": 185,
    "durationF": 91,
    "fromScale": 1.1,
    "toScale": 1.3,
@@ -40,8 +40,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_3.jpg",
-   "startF": 287,
-   "durationF": 93,
+   "startF": 276,
+   "durationF": 98,
    "fromScale": 1.32,
    "toScale": 1.12,
    "fromX": 0.0,
@@ -51,8 +51,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_4.jpg",
-   "startF": 380,
-   "durationF": 96,
+   "startF": 374,
+   "durationF": 93,
    "fromScale": 1.08,
    "toScale": 1.26,
    "fromX": -0.3,
@@ -62,8 +62,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/hero.jpg",
-   "startF": 476,
-   "durationF": 107,
+   "startF": 467,
+   "durationF": 96,
    "fromScale": 1.26,
    "toScale": 1.08,
    "fromX": 0.3,
@@ -73,8 +73,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_1.jpg",
-   "startF": 583,
-   "durationF": 101,
+   "startF": 563,
+   "durationF": 87,
    "fromScale": 1.06,
    "toScale": 1.24,
    "fromX": 0.0,
@@ -84,8 +84,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_2.jpg",
-   "startF": 684,
-   "durationF": 95,
+   "startF": 650,
+   "durationF": 100,
    "fromScale": 1.28,
    "toScale": 1.1,
    "fromX": -0.4,
@@ -95,7 +95,7 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_3.jpg",
-   "startF": 779,
+   "startF": 750,
    "durationF": 100,
    "fromScale": 1.1,
    "toScale": 1.3,
@@ -106,8 +106,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_4.jpg",
-   "startF": 879,
-   "durationF": 93,
+   "startF": 850,
+   "durationF": 86,
    "fromScale": 1.32,
    "toScale": 1.12,
    "fromX": 0.0,
@@ -117,8 +117,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/hero.jpg",
-   "startF": 972,
-   "durationF": 88,
+   "startF": 936,
+   "durationF": 93,
    "fromScale": 1.08,
    "toScale": 1.26,
    "fromX": -0.3,
@@ -128,8 +128,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_1.jpg",
-   "startF": 1060,
-   "durationF": 98,
+   "startF": 1029,
+   "durationF": 89,
    "fromScale": 1.26,
    "toScale": 1.08,
    "fromX": 0.3,
@@ -139,8 +139,8 @@
   },
   {
    "img": "images/news/2026-07-03-iraq-dinar-dollar-gap/broll_2.jpg",
-   "startF": 1158,
-   "durationF": 176,
+   "startF": 1118,
+   "durationF": 177,
    "fromScale": 1.06,
    "toScale": 1.24,
    "fromX": 0.0,
@@ -158,13 +158,13 @@
      "endF": 20
     },
     {
-     "word": "أحد",
+     "word": "خمسة",
      "startF": 20,
-     "endF": 29
+     "endF": 30
     },
     {
      "word": "عشر",
-     "startF": 29,
+     "startF": 31,
      "endF": 40
     },
     {
@@ -174,7 +174,7 @@
     },
     {
      "word": "المئة",
-     "startF": 42,
+     "startF": 43,
      "endF": 56
     }
    ],
@@ -190,18 +190,18 @@
     },
     {
      "word": "سعر",
-     "startF": 66,
-     "endF": 74
+     "startF": 65,
+     "endF": 73
     },
     {
      "word": "الدولار",
-     "startF": 74,
-     "endF": 86
+     "startF": 73,
+     "endF": 85
     },
     {
      "word": "الرسمي",
      "startF": 86,
-     "endF": 102
+     "endF": 101
     },
     {
      "word": "والسوق",
@@ -217,428 +217,402 @@
     {
      "word": "الموازية",
      "startF": 114,
-     "endF": 136
+     "endF": 137
     },
     {
      "word": "في",
-     "startF": 136,
-     "endF": 138
+     "startF": 137,
+     "endF": 139
     },
     {
      "word": "العراق",
-     "startF": 138,
-     "endF": 158
-    },
-    {
-     "word": "هي",
-     "startF": 165,
-     "endF": 170
-    },
-    {
-     "word": "الأوسع",
-     "startF": 170,
-     "endF": 187
+     "startF": 140,
+     "endF": 160
     }
    ],
    "startF": 114,
-   "endF": 187
-  },
-  {
-   "words": [
-    {
-     "word": "منذ",
-     "startF": 187,
-     "endF": 196
-    },
-    {
-     "word": "عامين",
-     "startF": 196,
-     "endF": 213
-    }
-   ],
-   "startF": 187,
-   "endF": 213
+   "endF": 160
   },
   {
    "words": [
     {
      "word": "السعر",
-     "startF": 239,
-     "endF": 251
+     "startF": 185,
+     "endF": 198
     },
     {
      "word": "الرسمي",
-     "startF": 251,
-     "endF": 266
+     "startF": 198,
+     "endF": 213
     },
     {
      "word": "حسب",
-     "startF": 267,
-     "endF": 276
+     "startF": 214,
+     "endF": 225
     },
     {
-     "word": "البنك",
-     "startF": 277,
-     "endF": 287
+     "word": "موازنة",
+     "startF": 225,
+     "endF": 242
     },
     {
-     "word": "المركزي",
-     "startF": 287,
-     "endF": 306
+     "word": "ألفين",
+     "startF": 243,
+     "endF": 259
     }
    ],
-   "startF": 239,
-   "endF": 306
+   "startF": 185,
+   "endF": 259
   },
   {
    "words": [
     {
-     "word": "ثابت",
-     "startF": 307,
-     "endF": 321
-    },
-    {
-     "word": "عند",
-     "startF": 322,
-     "endF": 329
-    },
-    {
-     "word": "ألف",
-     "startF": 329,
-     "endF": 339
-    },
-    {
-     "word": "وثلاثمئة",
-     "startF": 340,
-     "endF": 362
+     "word": "وستة",
+     "startF": 259,
+     "endF": 275
     },
     {
      "word": "وعشرين",
-     "startF": 362,
-     "endF": 380
+     "startF": 276,
+     "endF": 293
+    },
+    {
+     "word": "ثابت",
+     "startF": 293,
+     "endF": 308
+    },
+    {
+     "word": "عند",
+     "startF": 308,
+     "endF": 316
+    },
+    {
+     "word": "ألف",
+     "startF": 316,
+     "endF": 327
     }
    ],
-   "startF": 307,
-   "endF": 380
+   "startF": 259,
+   "endF": 327
   },
   {
    "words": [
     {
-     "word": "ديناراً",
-     "startF": 380,
-     "endF": 394
+     "word": "وثلاثمئة",
+     "startF": 327,
+     "endF": 354
+    },
+    {
+     "word": "وعشرة",
+     "startF": 354,
+     "endF": 374
+    },
+    {
+     "word": "دنانير",
+     "startF": 374,
+     "endF": 391
     },
     {
      "word": "للدولار",
-     "startF": 394,
-     "endF": 415
+     "startF": 391,
+     "endF": 413
     },
     {
      "word": "بينما",
-     "startF": 423,
-     "endF": 436
-    },
-    {
-     "word": "تجاوز",
-     "startF": 436,
-     "endF": 451
-    },
-    {
-     "word": "السعر",
-     "startF": 451,
-     "endF": 463
+     "startF": 417,
+     "endF": 432
     }
    ],
-   "startF": 380,
-   "endF": 463
+   "startF": 327,
+   "endF": 432
   },
   {
    "words": [
     {
+     "word": "يتداول",
+     "startF": 432,
+     "endF": 448
+    },
+    {
+     "word": "الدولار",
+     "startF": 448,
+     "endF": 462
+    },
+    {
      "word": "في",
-     "startF": 464,
+     "startF": 462,
      "endF": 466
     },
     {
-     "word": "السوق",
-     "startF": 466,
-     "endF": 476
+     "word": "بورصات",
+     "startF": 467,
+     "endF": 482
     },
     {
-     "word": "الموازية",
-     "startF": 476,
-     "endF": 496
-    },
-    {
-     "word": "ألفاً",
-     "startF": 496,
-     "endF": 509
-    },
-    {
-     "word": "وأربعمئة",
-     "startF": 509,
-     "endF": 535
+     "word": "بغداد",
+     "startF": 482,
+     "endF": 498
     }
    ],
-   "startF": 464,
-   "endF": 535
+   "startF": 432,
+   "endF": 498
   },
   {
    "words": [
     {
-     "word": "وسبعين",
-     "startF": 535,
-     "endF": 554
+     "word": "قرب",
+     "startF": 498,
+     "endF": 508
     },
     {
-     "word": "ديناراً",
-     "startF": 554,
-     "endF": 571
+     "word": "ألف",
+     "startF": 508,
+     "endF": 519
+    },
+    {
+     "word": "وخمسمئة",
+     "startF": 519,
+     "endF": 543
+    },
+    {
+     "word": "دينار",
+     "startF": 544,
+     "endF": 562
     },
     {
      "word": "حسب",
-     "startF": 572,
-     "endF": 583
-    },
-    {
-     "word": "الصيرفيين",
-     "startF": 583,
-     "endF": 613
+     "startF": 563,
+     "endF": 574
     }
    ],
-   "startF": 535,
-   "endF": 613
+   "startF": 498,
+   "endF": 574
+  },
+  {
+   "words": [
+    {
+     "word": "أسعار",
+     "startF": 574,
+     "endF": 586
+    },
+    {
+     "word": "الصرافة",
+     "startF": 587,
+     "endF": 603
+    },
+    {
+     "word": "المعلنة",
+     "startF": 603,
+     "endF": 625
+    }
+   ],
+   "startF": 574,
+   "endF": 625
   },
   {
    "words": [
     {
      "word": "السبب",
-     "startF": 639,
-     "endF": 653
+     "startF": 650,
+     "endF": 664
     },
     {
-     "word": "المعلن",
-     "startF": 654,
-     "endF": 669
+     "word": "الأبرز",
+     "startF": 664,
+     "endF": 680
     },
     {
      "word": "قيود",
-     "startF": 669,
-     "endF": 684
+     "startF": 680,
+     "endF": 695
     },
     {
      "word": "على",
-     "startF": 684,
-     "endF": 689
+     "startF": 696,
+     "endF": 701
     },
     {
      "word": "التحويلات",
-     "startF": 690,
-     "endF": 708
+     "startF": 701,
+     "endF": 719
     }
    ],
-   "startF": 639,
-   "endF": 708
+   "startF": 650,
+   "endF": 719
   },
   {
    "words": [
     {
      "word": "الدولارية",
-     "startF": 708,
-     "endF": 732
+     "startF": 720,
+     "endF": 743
     },
     {
      "word": "فيما",
-     "startF": 738,
-     "endF": 749
+     "startF": 750,
+     "endF": 761
     },
     {
      "word": "تعد",
-     "startF": 749,
-     "endF": 760
+     "startF": 761,
+     "endF": 772
     },
     {
      "word": "الحكومة",
-     "startF": 760,
-     "endF": 778
+     "startF": 772,
+     "endF": 792
     },
     {
      "word": "بمعالجات",
-     "startF": 779,
-     "endF": 805
+     "startF": 793,
+     "endF": 825
     }
    ],
-   "startF": 708,
-   "endF": 805
-  },
-  {
-   "words": [
-    {
-     "word": "خلال",
-     "startF": 806,
-     "endF": 817
-    },
-    {
-     "word": "أسابيع",
-     "startF": 817,
-     "endF": 838
-    }
-   ],
-   "startF": 806,
-   "endF": 838
+   "startF": 720,
+   "endF": 825
   },
   {
    "words": [
     {
      "word": "وحتى",
-     "startF": 864,
-     "endF": 878
+     "startF": 850,
+     "endF": 865
     },
     {
      "word": "ذلك",
-     "startF": 879,
-     "endF": 888
+     "startF": 865,
+     "endF": 875
     },
     {
      "word": "الحين",
-     "startF": 889,
-     "endF": 906
+     "startF": 875,
+     "endF": 892
     },
     {
      "word": "يقول",
-     "startF": 912,
-     "endF": 925
+     "startF": 898,
+     "endF": 910
     },
     {
      "word": "تجار",
-     "startF": 925,
-     "endF": 942
+     "startF": 911,
+     "endF": 928
     }
    ],
-   "startF": 864,
-   "endF": 942
+   "startF": 850,
+   "endF": 928
   },
   {
    "words": [
     {
      "word": "إن",
-     "startF": 942,
-     "endF": 949
+     "startF": 928,
+     "endF": 935
     },
     {
-     "word": "أسعار",
-     "startF": 949,
-     "endF": 961
+     "word": "كلفة",
+     "startF": 936,
+     "endF": 947
     },
     {
-     "word": "السلع",
-     "startF": 961,
-     "endF": 971
-    },
-    {
-     "word": "المستوردة",
-     "startF": 972,
-     "endF": 997
+     "word": "الاستيراد",
+     "startF": 947,
+     "endF": 967
     },
     {
      "word": "ترتفع",
-     "startF": 997,
-     "endF": 1016
+     "startF": 967,
+     "endF": 986
+    },
+    {
+     "word": "بينما",
+     "startF": 986,
+     "endF": 1000
     }
    ],
-   "startF": 942,
-   "endF": 1016
+   "startF": 928,
+   "endF": 1000
   },
   {
    "words": [
     {
-     "word": "بينما",
-     "startF": 1016,
-     "endF": 1030
-    },
-    {
      "word": "تبقى",
-     "startF": 1030,
-     "endF": 1039
+     "startF": 1001,
+     "endF": 1010
     },
     {
      "word": "الرواتب",
-     "startF": 1040,
-     "endF": 1059
+     "startF": 1010,
+     "endF": 1029
     },
     {
      "word": "بالدينار",
-     "startF": 1060,
-     "endF": 1082
+     "startF": 1029,
+     "endF": 1051
     }
    ],
-   "startF": 1016,
-   "endF": 1082
+   "startF": 1001,
+   "endF": 1051
   },
   {
    "words": [
     {
      "word": "فهل",
-     "startF": 1107,
-     "endF": 1118
+     "startF": 1076,
+     "endF": 1088
     },
     {
      "word": "تُغلق",
-     "startF": 1118,
-     "endF": 1130
+     "startF": 1088,
+     "endF": 1100
     },
     {
      "word": "الفجوة",
-     "startF": 1130,
-     "endF": 1147
+     "startF": 1101,
+     "endF": 1118
     },
     {
-     "word": "خلال",
-     "startF": 1147,
-     "endF": 1158
-    },
-    {
-     "word": "أسابيع",
-     "startF": 1158,
-     "endF": 1178
+     "word": "قريباً",
+     "startF": 1118,
+     "endF": 1139
     }
    ],
-   "startF": 1107,
-   "endF": 1178
+   "startF": 1076,
+   "endF": 1139
   },
   {
    "words": [
     {
      "word": "أم",
-     "startF": 1204,
-     "endF": 1210
+     "startF": 1164,
+     "endF": 1170
     },
     {
      "word": "تتسع",
-     "startF": 1210,
-     "endF": 1234
+     "startF": 1171,
+     "endF": 1194
     }
    ],
-   "startF": 1204,
-   "endF": 1234
+   "startF": 1164,
+   "endF": 1194
   }
  ],
  "statPops": [
   {
-   "value": "11%",
-   "labelArabic": "فجوة بين السعرين — الأوسع منذ عامين",
-   "atFrame": 40,
+   "value": "15%",
+   "labelArabic": "الفجوة بين السعرين",
+   "atFrame": 41,
    "holdFrames": 75
   },
   {
-   "value": "1470",
+   "value": "~1500",
    "labelArabic": "سعر السوق الموازية (دينار/دولار)",
-   "atFrame": 533,
+   "atFrame": 517,
    "holdFrames": 75
   }
  ],
- "endQuestion": "هل تُغلق الفجوة خلال أسابيع… أم تتسع؟",
+ "endQuestion": "هل تُغلق الفجوة قريباً… أم تتسع؟",
  "handle": "@photonect.news",
- "sourcesLine": "المصادر: البنك المركزي العراقي · الصيرفيون · تصريحات حكومية",
- "totalFrames": 1334
+ "sourcesLine": "المصادر: البنك المركزي العراقي · العربية · بورصة الكفاح",
+ "totalFrames": 1295
 }

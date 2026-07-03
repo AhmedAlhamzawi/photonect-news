@@ -1,0 +1,45 @@
+name: Post media
+
+# Publish ALREADY-RENDERED, committed videos (data/posts/<slug>/video.mp4 +
+# caption.txt) to Instagram/TikTok/X via upload-post — no rendering.
+# Used for V11 specials and any reel produced outside the render-day path.
+# Scoped by explicit slug list: NEVER re-posts a whole date, so it cannot
+# double-post a daily slate.
+# Security: dispatch inputs are consumed ONLY via env vars with shell quoting
+# (never interpolated into run: directly).
+
+on:
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: 'Comma-separated FULL slug names under data/posts/ (e.g. 2026-07-03-iraq-dinar-dollar-gap)'
+        required: true
+        type: string
+      platforms:
+        description: 'Platforms'
+        required: false
+        type: string
+        default: 'instagram,tiktok,x'
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repo (with committed videos)
+        uses: actions/checkout@v4
+
+      - name: Post the slugs
+        env:
+          UPLOAD_POST_API_KEY: ${{ secrets.PHOTONECT_NEWS_AUTO_POSTER }}
+          UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
+          SLUGS: ${{ inputs.slugs }}
+          PLATFORMS: ${{ inputs.platforms }}
+        run: |
+          python3 automation/scripts/post-to-uploadpost.py \
+            --slugs "$SLUGS" \
+            --user "$UPLOAD_POST_USER" \
+            --platforms "$PLATFORMS"
