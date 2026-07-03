@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مناخ · حرائق",
+    "arabicHeadline": "150 مليون هكتار احترقت في 4 أشهر",
+    "englishSubhead": "RECORD GLOBAL WILDFIRES 2026 | 150M HECTARES BURNED | EL NIÑO WARNING",
+    "heroMedia": "images/news/2026-07-03-global-wildfire-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أعلى مساحة محترقة تُسجَّل لهذه الفترة",
+      "arabicBody": "احترق أكثر من 150 مليون هكتار حول العالم بين يناير وأبريل 2026، أعلى رقم مسجّل لهذه الفترة، وفق مبادرة World Weather Attribution.",
+      "bigStat": {
+        "value": "150 مليون",
+        "label": "hectares burned Jan–Apr 2026",
+        "arabicLabel": "هكتار احترقت عالمياً بين يناير وأبريل 2026 وهو رقم قياسي (World Weather Attribution)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفترة",
+          "value": "يناير–أبريل 2026"
+        },
+        {
+          "label": "الأكثر تضرّراً",
+          "value": "إفريقيا"
+        },
+        {
+          "label": "المصدر",
+          "value": "WWA"
+        }
+      ],
+      "broll": "images/news/2026-07-03-global-wildfire-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-global-wildfire-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "World Weather Attribution · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "آسيا تتجاوز رقمها القياسي بنحو 38%",
+      "arabicBody": "في آسيا وحدها احترق نحو 44 مليون هكتار في أربعة أشهر، مقابل رقم قياسي سابق بلغ 32 مليوناً عام 2014، بزيادة نحو 38%، وفق التقرير.",
+      "bigStat": {
+        "value": "44 مليون",
+        "label": "hectares burned in Asia",
+        "arabicLabel": "هكتار احترقت في آسيا خلال أربعة أشهر بزيادة نحو 38% عن قياسي 2014 (WWA)"
+      },
+      "supportingStats": [
+        {
+          "label": "قياسي 2014",
+          "value": "32 مليون"
+        },
+        {
+          "label": "الزيادة",
+          "value": "~+38%"
+        },
+        {
+          "label": "دول متضرّرة",
+          "value": "الهند · الصين · تايلاند"
+        }
+      ],
+      "broll": "images/news/2026-07-03-global-wildfire-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-global-wildfire-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "World Weather Attribution · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النينيو ينذر بموسم أسوأ",
+      "arabicBody": "يحذّر علماء المنظمة العالمية للأرصاد الجوية من أن تصاعد ظاهرة النينيو وجفاف حوض الأمازون قد يفاقمان الحرائق ومخاطرها الصحية، وفق WMO.",
+      "bigStat": {
+        "value": "الأمازون",
+        "label": "at risk of becoming a carbon source",
+        "arabicLabel": "حوض الأمازون مهدّد بالتحوّل من ماصّ للكربون إلى مصدر له (WMO)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحرّك",
+          "value": "النينيو"
+        },
+        {
+          "label": "الخطر",
+          "value": "جفاف الأمازون"
+        },
+        {
+          "label": "المصدر",
+          "value": "WMO"
+        }
+      ],
+      "broll": "images/news/2026-07-03-global-wildfire-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-global-wildfire-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "منظمة الأرصاد العالمية WMO · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Weather Attribution",
+      "domain": "worldweatherattribution.org"
+    },
+    {
+      "name": "WMO",
+      "domain": "wmo.int"
+    },
+    {
+      "name": "Down To Earth",
+      "domain": "downtoearth.org.in"
+    },
+    {
+      "name": "UNEP",
+      "domain": "unep.org"
+    }
+  ],
+  "arabicTicker": [
+    "150 مليون هكتار احترقت في 4 أشهر",
+    "أكثر من 150 مليون هكتار احترقت بين يناير وأبريل 2026، أعلى رقم مسجّل",
+    "إفريقيا سجّلت أكبر مساحة محترقة في العالم خلال الفترة نفسها",
+    "آسيا: 44 مليون هكتار بزيادة نحو 38% عن الرقم القياسي لعام 2014",
+    "الهند والصين وتايلاند من أبرز الدول المتضرّرة من الحرائق",
+    "منظمة الأرصاد العالمية تحذّر من تفاقم الحرائق مع تصاعد النينيو",
+    "هل يتحوّل حوض الأمازون من ماصّ للكربون إلى مصدر له؟"
+  ]
+}

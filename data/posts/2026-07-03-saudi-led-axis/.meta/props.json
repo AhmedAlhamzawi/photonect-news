@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_orchestral.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الشرق الأوسط · تحالفات",
+    "arabicHeadline": "محور بقيادة السعودية يتشكّل خارج الخليج",
+    "englishSubhead": "NEW SAUDI-LED AXIS | QATAR TURKEY PAKISTAN EGYPT | UAE OUTSIDE",
+    "heroMedia": "images/news/2026-07-03-saudi-led-axis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خمس دول تصطفّ خارج مجلس التعاون",
+      "arabicBody": "تجمّع جديد يتشكّل خارج مجلس التعاون الخليجي يضمّ السعودية وقطر ومعها مصر وباكستان وتركيا، وفق مجلة Foreign Policy.",
+      "bigStat": {
+        "value": "5",
+        "label": "states in the new bloc",
+        "arabicLabel": "خمس دول (Foreign Policy)"
+      },
+      "supportingStats": [
+        {
+          "label": "من الخليج",
+          "value": "السعودية · قطر"
+        },
+        {
+          "label": "ومعها",
+          "value": "مصر · باكستان · تركيا"
+        },
+        {
+          "label": "المصدر",
+          "value": "Foreign Policy"
+        }
+      ],
+      "broll": "images/news/2026-07-03-saudi-led-axis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-saudi-led-axis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Foreign Policy · 1 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هدفان: احتواء إيران وضبط إسرائيل",
+      "arabicBody": "هدفان يحرّكان التكتّل: احتواء النفوذ الإيراني واستعادة الموطئ في سوريا ولبنان، وضبط حدود التحرّك العسكري الإسرائيلي، وفق Foreign Policy.",
+      "bigStat": {
+        "value": "2",
+        "label": "core goals of the bloc",
+        "arabicLabel": "هدفان محوريان (Foreign Policy)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف الأول",
+          "value": "احتواء إيران"
+        },
+        {
+          "label": "الهدف الثاني",
+          "value": "ضبط إسرائيل"
+        },
+        {
+          "label": "الساحتان",
+          "value": "سوريا · لبنان"
+        }
+      ],
+      "broll": "images/news/2026-07-03-saudi-led-axis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-saudi-led-axis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Foreign Policy · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الغائب الأبرز: الإمارات",
+      "arabicBody": "تغيب الإمارات عن التكتّل بعد فتور العلاقة بين وليّي العهد السعودي والإماراتي حول ملفّي اليمن والسودان، وفق Foreign Policy.",
+      "bigStat": {
+        "value": "اليمن · السودان",
+        "label": "files behind the Saudi–UAE rift",
+        "arabicLabel": "ملفّا الخلاف (Foreign Policy)"
+      },
+      "supportingStats": [
+        {
+          "label": "الغائب الأبرز",
+          "value": "الإمارات"
+        },
+        {
+          "label": "محور الخلاف",
+          "value": "اليمن · السودان"
+        },
+        {
+          "label": "المصدر",
+          "value": "Foreign Policy"
+        }
+      ],
+      "broll": "images/news/2026-07-03-saudi-led-axis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-saudi-led-axis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Foreign Policy · The Soufan Center · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Foreign Policy",
+      "domain": "foreignpolicy.com"
+    },
+    {
+      "name": "The Soufan Center",
+      "domain": "thesoufancenter.org"
+    },
+    {
+      "name": "Al Majalla",
+      "domain": "en.majalla.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "محور بقيادة السعودية يتشكّل خارج الخليج",
+    "التكتّل يضمّ السعودية وقطر ومصر وباكستان وتركيا، وفق Foreign Policy",
+    "هدفان للتكتّل وفق Foreign Policy: احتواء النفوذ الإيراني وضبط التحرّك العسكري الإسرائيلي",
+    "استعادة الموطئ في سوريا ولبنان بين أولويات المحور",
+    "غياب لافت للإمارات عن التكتّل الجديد، وفق Foreign Policy",
+    "فتور في العلاقة السعودية-الإماراتية حول ملفّي اليمن والسودان، وفق Foreign Policy",
+    "هل نشهد إعادة رسم لخريطة التحالفات في المنطقة؟"
+  ]
+}

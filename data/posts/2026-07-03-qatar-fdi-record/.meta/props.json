@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج · استثمار",
+    "arabicHeadline": "الإمارات تتصدّر مستثمري قطر متجاوزةً أميركا",
+    "englishSubhead": "QATAR FDI RECORD 2025 | UAE OVERTAKES US & UK | $3.4B INFLOWS",
+    "heroMedia": "images/news/2026-07-03-qatar-fdi-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قطر تجذب 3.4 مليار دولار استثمارات",
+      "arabicBody": "جذبت قطر 3.4 مليار دولار استثماراً أجنبياً مباشراً عبر 373 مشروعاً في 2025، بارتفاع 52% في عدد المشاريع، وفق تقرير Invest Qatar.",
+      "bigStat": {
+        "value": "3.4 مليار",
+        "label": "FDI into Qatar in 2025 (USD)",
+        "arabicLabel": "دولار استثمار أجنبي مباشر دخل قطر في 2025 عبر 373 مشروعاً (Invest Qatar)"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد المشاريع",
+          "value": "373"
+        },
+        {
+          "label": "نمو المشاريع",
+          "value": "+52%"
+        },
+        {
+          "label": "وظائف",
+          "value": "15,051"
+        }
+      ],
+      "broll": "images/news/2026-07-03-qatar-fdi-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-qatar-fdi-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Invest Qatar · AGBI · 2 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإمارات تتخطّى أميركا وبريطانيا",
+      "arabicBody": "ضخّت الإمارات 814 مليون دولار في 73 مشروعاً قطرياً، لتتصدّر قائمة المستثمرين متجاوزةً الولايات المتحدة وبريطانيا، وفق AGBI.",
+      "bigStat": {
+        "value": "814 مليون",
+        "label": "UAE investment into Qatar (USD)",
+        "arabicLabel": "دولار ضختها الإمارات في 73 مشروعاً قطرياً لتتصدّر المستثمرين (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "مشاريع إماراتية",
+          "value": "73"
+        },
+        {
+          "label": "تجاوزت",
+          "value": "أميركا · بريطانيا"
+        },
+        {
+          "label": "الترتيب",
+          "value": "المستثمر الأول"
+        }
+      ],
+      "broll": "images/news/2026-07-03-qatar-fdi-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-qatar-fdi-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AGBI · Arab News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رأس المال الخليجي يعيد التموضع",
+      "arabicBody": "استحوذت الإمارات والسعودية مجتمعتين على 1.1 مليار دولار، نحو ثلث الاستثمارات، مع صعود قطر 21 مرتبة إلى المركز 12 عالمياً، وفق Invest Qatar.",
+      "bigStat": {
+        "value": "1.1 مليار",
+        "label": "combined UAE + Saudi FDI (USD)",
+        "arabicLabel": "دولار استثمارات الإمارات والسعودية مجتمعتين نحو ثلث الإجمالي (Invest Qatar)"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة المصدرين",
+          "value": "~ثلث الإجمالي"
+        },
+        {
+          "label": "ترتيب قطر",
+          "value": "12 عالمياً"
+        },
+        {
+          "label": "القفزة",
+          "value": "+21 مرتبة"
+        }
+      ],
+      "broll": "images/news/2026-07-03-qatar-fdi-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-qatar-fdi-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Invest Qatar · Gulf Times · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Invest Qatar",
+      "domain": "investqatar.qa"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Gulf Times",
+      "domain": "gulf-times.com"
+    }
+  ],
+  "arabicTicker": [
+    "الإمارات تتصدّر مستثمري قطر متجاوزةً أميركا وبريطانيا",
+    "قطر تجذب 3.4 مليار دولار استثماراً أجنبياً مباشراً في 2025",
+    "373 مشروعاً بارتفاع 52% ووفّرت 15,051 وظيفة",
+    "الإمارات ضخّت 814 مليون دولار في 73 مشروعاً قطرياً",
+    "الإمارات والسعودية معاً 1.1 مليار دولار نحو ثلث الإجمالي",
+    "قطر تصعد 21 مرتبة إلى المركز 12 عالمياً في جذب الاستثمار",
+    "هل يعيد رأس المال الخليجي رسم خريطة الاستثمار في المنطقة؟"
+  ]
+}

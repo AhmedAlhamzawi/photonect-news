@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "sport",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة · NBA",
+    "arabicHeadline": "زلزال انتقالات يضرب دوري السلة الأميركي",
+    "englishSubhead": "NBA FREE AGENCY 2026 | LEBRON LEAVES LA | BLOCKBUSTER TRADES",
+    "heroMedia": "images/news/2026-07-03-nba-free-agency-quake/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ليبرون جيمس يترك ليكرز بعد حقبة",
+      "arabicBody": "ليبرون جيمس أبلغ ليكرز أنه سيلعب لفريق آخر الموسم المقبل، منهياً حقبة بدأت 2018، والوجهة لم تُعلن بعد، وفق ESPN.",
+      "bigStat": {
+        "value": "2026",
+        "label": "LeBron exits the Lakers",
+        "arabicLabel": "ليبرون جيمس يعلن رحيله عن ليكرز في صيف 2026 (ESPN)"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        },
+        {
+          "label": "مع ليكرز منذ",
+          "value": "2018"
+        },
+        {
+          "label": "الوجهة",
+          "value": "لم تُعلن"
+        }
+      ],
+      "broll": "images/news/2026-07-03-nba-free-agency-quake/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-nba-free-agency-quake/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ESPN / Sports Illustrated · 2 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صفقات كبرى تعيد رسم خريطة الدوري",
+      "arabicBody": "بوسطن أرسلت جايلن براون إلى فيلادلفيا مقابل بول جورج وخيارات درافت، وتورنتو استعادت كواهي لينارد من كليبرز، وفق Sports Illustrated.",
+      "bigStat": {
+        "value": "3",
+        "label": "blockbuster trades in days",
+        "arabicLabel": "ثلاث صفقات كبرى خلال أيام تعيد تشكيل الفرق (Sports Illustrated)"
+      },
+      "supportingStats": [
+        {
+          "label": "براون إلى",
+          "value": "فيلادلفيا"
+        },
+        {
+          "label": "جورج إلى",
+          "value": "بوسطن"
+        },
+        {
+          "label": "كواهي إلى",
+          "value": "تورنتو"
+        }
+      ],
+      "broll": "images/news/2026-07-03-nba-free-agency-quake/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-nba-free-agency-quake/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Sports Illustrated · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "يانيس ينتقل إلى ميامي هيت",
+      "arabicBody": "يانيس أنتيتوكونمبو ترك ميلووكي إلى ميامي فقلب موازين المنطقة الشرقية، والسوق يفتح رسمياً في السادس من يوليو، وفق CBS Sports.",
+      "bigStat": {
+        "value": "6 يوليو",
+        "label": "free agency officially opens",
+        "arabicLabel": "السادس من يوليو موعد الفتح الرسمي لسوق الانتقالات (CBS Sports)"
+      },
+      "supportingStats": [
+        {
+          "label": "يانيس إلى",
+          "value": "ميامي"
+        },
+        {
+          "label": "كيسلر إلى",
+          "value": "ليكرز"
+        },
+        {
+          "label": "المصدر",
+          "value": "CBS Sports"
+        }
+      ],
+      "broll": "images/news/2026-07-03-nba-free-agency-quake/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-nba-free-agency-quake/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CBS Sports · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "Sports Illustrated",
+      "domain": "si.com"
+    },
+    {
+      "name": "CBS Sports",
+      "domain": "cbssports.com"
+    },
+    {
+      "name": "NBA",
+      "domain": "nba.com"
+    }
+  ],
+  "arabicTicker": [
+    "زلزال انتقالات يضرب دوري السلة الأميركي NBA",
+    "ليبرون جيمس يبلغ ليكرز أنه سيلعب لفريق آخر الموسم المقبل",
+    "بوسطن تبادل جايلن براون مع فيلادلفيا مقابل بول جورج وخيارات درافت",
+    "تورنتو تستعيد كواهي لينارد من كليبرز في صفقة كبرى",
+    "يانيس أنتيتوكونمبو ينتقل إلى ميامي هيت ويقلب المنطقة الشرقية",
+    "سوق الانتقالات يفتح رسمياً في السادس من يوليو",
+    "هل يبدأ الدوري حقبة جديدة بلا ثلاثيّات القوة القديمة؟"
+  ]
+}

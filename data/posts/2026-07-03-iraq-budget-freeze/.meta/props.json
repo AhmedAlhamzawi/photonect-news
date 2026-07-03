@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · موازنة",
+    "arabicHeadline": "2026 يبدأ والعراق بلا موازنة عامة",
+    "englishSubhead": "IRAQ ENTERS 2026 WITH NO BUDGET | 1/12 RULE | PROJECTS FROZEN",
+    "heroMedia": "images/news/2026-07-03-iraq-budget-freeze/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الوزارات تنفق بقاعدة الواحد من اثني عشر",
+      "arabicBody": "بلا موازنة 2026 مُقرّة، تعمل الوزارات بقاعدة 1/12 التي تتيح حدّاً أدنى من الإنفاق وتجمّد الالتزامات الاستثمارية الجديدة، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "1/12",
+        "label": "monthly minimum spending rule",
+        "arabicLabel": "قاعدة 1/12 تحصر الإنفاق الشهري في حدّه الأدنى وتجمّد المشاريع (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "السند القانوني",
+          "value": "الإدارة المالية 6/2019"
+        },
+        {
+          "label": "مشاريع جديدة",
+          "value": "مجمّدة"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-07-03-iraq-budget-freeze/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-iraq-budget-freeze/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "شفق نيوز · مرصد إيكو العراق · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "العجز يتجاوز 17 تريليون دينار",
+      "arabicBody": "بلغ العجز المالي 17.7 تريليون دينار (13.5 مليار دولار) حتى أيلول 2025، نحو 19.4% من الإيرادات، وفق مرصد إيكو العراق.",
+      "bigStat": {
+        "value": "17.7 تريليون",
+        "label": "dinar deficit through Sept 2025",
+        "arabicLabel": "دينار عجز مالي حتى أيلول 2025 نحو 13.5 مليار دولار (مرصد إيكو العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "من الإيرادات",
+          "value": "~19.4%"
+        },
+        {
+          "label": "سعر النفط المفترض",
+          "value": "70 دولاراً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Eco Iraq"
+        }
+      ],
+      "broll": "images/news/2026-07-03-iraq-budget-freeze/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-iraq-budget-freeze/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "مرصد إيكو العراق · شفق نيوز · 2025"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تأخّر الموازنة يجمّد الدفعات ويثبّط الاستثمار",
+      "arabicBody": "يحذّر برلمانيون من أن تأخّر الموازنة يؤجّل دفعات المقاولين والشركات النفطية ويثبّط الاستثمار، مع موازنة 2026 المتوقعة نحو 150 تريليون دينار، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "150 تريليون",
+        "label": "expected 2026 budget (dinar)",
+        "arabicLabel": "دينار حجم موازنة 2026 المتوقعة نحو 114 مليار دولار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "موازنة 2025",
+          "value": "211 تريليون"
+        },
+        {
+          "label": "المتوقع 2026",
+          "value": "~150 تريليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-07-03-iraq-budget-freeze/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-iraq-budget-freeze/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "شفق نيوز · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Eco Iraq Observatory",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    }
+  ],
+  "arabicTicker": [
+    "2026 يبدأ والعراق بلا موازنة عامة مُقرّة",
+    "الوزارات تنفق بقاعدة 1/12 التي تجمّد المشاريع الجديدة",
+    "العجز المالي يبلغ 17.7 تريليون دينار حتى أيلول 2025",
+    "العجز يعادل نحو 19.4% من إجمالي الإيرادات وفق مرصد إيكو العراق",
+    "موازنة 2026 المتوقعة نحو 150 تريليون دينار مقابل 211 لعام 2025",
+    "برلمانيون: التأخير يؤجّل دفعات المقاولين ويثبّط الاستثمار",
+    "متى تُقرّ الموازنة وتُستأنف المشاريع المتوقفة؟"
+  ]
+}

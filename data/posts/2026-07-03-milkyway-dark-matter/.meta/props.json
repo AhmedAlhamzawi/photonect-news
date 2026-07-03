@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 3 • 2026",
+  "arabicDateLabel": "3 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "science",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم · فلك",
+    "arabicHeadline": "توهّج غامض في قلب مجرّتنا يحيّر الفيزيائيين",
+    "englishSubhead": "MILKY WAY GALACTIC CENTER | GAMMA-RAY EXCESS | DARK MATTER NOT RULED OUT",
+    "heroMedia": "images/news/2026-07-03-milkyway-dark-matter/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "توهّج غامض في قلب المجرّة",
+      "arabicBody": "توهّج خافت من أشعة غاما يشعّ من قلب درب التبانة، سمّاه العلماء \"فائض مركز المجرّة\"، وحيّرهم أكثر من عقد، وفق Physical Review Letters.",
+      "bigStat": {
+        "value": "10+ أعوام",
+        "label": "the GeV excess debated",
+        "arabicLabel": "أكثر من عشرة أعوام من الجدل حول فائض مركز المجرّة (Physical Review Letters)"
+      },
+      "supportingStats": [
+        {
+          "label": "الظاهرة",
+          "value": "فائض مركز المجرّة"
+        },
+        {
+          "label": "الإشعاع",
+          "value": "أشعة غاما"
+        },
+        {
+          "label": "المصدر",
+          "value": "Phys. Rev. Lett."
+        }
+      ],
+      "broll": "images/news/2026-07-03-milkyway-dark-matter/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-03-milkyway-dark-matter/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Physical Review Letters · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تعلّم آلي يعيد فحص الإشارة",
+      "arabicBody": "فريق من جامعة فيينا ومختبر بيركلي درّب نموذج تعلّم آلي على أكثر من مليون محاكاة لأشعة غاما، لأول مرة بطاقات الفوتونات، وفق phys.org.",
+      "bigStat": {
+        "value": "1,000,000+",
+        "label": "simulated gamma-ray observations",
+        "arabicLabel": "أكثر من مليون محاكاة لأشعة غاما درّبت النموذج (جامعة فيينا ومختبر بيركلي)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهات",
+          "value": "فيينا · بيركلي"
+        },
+        {
+          "label": "الأداة",
+          "value": "تعلّم آلي"
+        },
+        {
+          "label": "النشر",
+          "value": "Phys. Rev. Lett."
+        }
+      ],
+      "broll": "images/news/2026-07-03-milkyway-dark-matter/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-03-milkyway-dark-matter/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4EA8DE",
+      "brollSource": "phys.org · University of Vienna · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المادة المظلمة تبقى تفسيراً محتملاً",
+      "arabicBody": "النتيجة: لا يمكن استبعاد المادة المظلمة كتفسير؛ فالبديل يتطلب أكثر من 35 ألف نجم نابض محتشد في قلب المجرّة، وفق جامعة فيينا.",
+      "bigStat": {
+        "value": "35,000+",
+        "label": "pulsars needed for the alternative",
+        "arabicLabel": "أكثر من 35 ألف نجم نابض يتطلبها التفسير البديل للتوهّج (جامعة فيينا)"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "لا يمكن استبعادها"
+        },
+        {
+          "label": "التفسير البديل",
+          "value": "نجوم نابضة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Univ. Vienna"
+        }
+      ],
+      "broll": "images/news/2026-07-03-milkyway-dark-matter/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-03-milkyway-dark-matter/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#B388FF",
+      "brollSource": "University of Vienna · Berkeley Lab · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Physical Review Letters",
+      "domain": "journals.aps.org"
+    },
+    {
+      "name": "University of Vienna",
+      "domain": "univie.ac.at"
+    },
+    {
+      "name": "Phys.org",
+      "domain": "phys.org"
+    },
+    {
+      "name": "Berkeley Lab",
+      "domain": "lbl.gov"
+    }
+  ],
+  "arabicTicker": [
+    "توهّج غامض في قلب مجرّتنا يحيّر الفيزيائيين",
+    "فائض مركز المجرّة توهّج غاما حيّر الفيزيائيين أكثر من عقد",
+    "جامعة فيينا ومختبر بيركلي يفحصان الإشارة عبر التعلّم الآلي",
+    "النموذج تدرّب على أكثر من مليون محاكاة لأشعة غاما",
+    "النتيجة: لا يمكن استبعاد المادة المظلمة كتفسير",
+    "التفسير البديل يتطلب أكثر من 35 ألف نجم نابض",
+    "هل نقترب من أول دليل غير مباشر على المادة المظلمة؟"
+  ]
+}
