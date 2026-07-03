@@ -12,6 +12,12 @@ import { AINewsDailySchema, AINewsDailyProps } from "./compositions/AINewsDaily/
 import { NewsReel } from "./compositions/NewsReel/NewsReel";
 import { NewsReelSchema, computeNewsReelDurationInFrames } from "./compositions/NewsReel/schema";
 import { HORMUZ_WEEK2_PROPS } from "./compositions/NewsReel/props";
+import { BrandTravelReel } from "./compositions/BrandTravelReel/BrandTravelReel";
+import { BrandTravelReelSchema, computeTravelDuration } from "./compositions/BrandTravelReel/schema";
+import { SINDIBAD_TRAVEL_PROPS } from "./compositions/BrandTravelReel/sindibad.props";
+import { TravelReelMotion } from "./compositions/TravelReelMotion/TravelReelMotion";
+import { TravelReelMotionSchema, computeMotionDuration } from "./compositions/TravelReelMotion/schema";
+import { SINDIBAD_MOTION_PROPS } from "./compositions/TravelReelMotion/sindibad.props";
 import { Hekaya } from "./compositions/Hekaya/Hekaya";
 import { HekayaSchema, computeHekayaDurationInFrames } from "./compositions/Hekaya/schema";
 import { Hekaya2 } from "./compositions/Hekaya2/Hekaya2";
@@ -19,6 +25,9 @@ import { Hekaya2Schema, HEKAYA2_TOTAL_FRAMES } from "./compositions/Hekaya2/sche
 import { Essay } from "./compositions/Essay/Essay";
 import { essaySchema, computeEssayDuration } from "./compositions/Essay/schema";
 import { essayDefaultProps } from "./compositions/Essay/defaultProps";
+import { NewsReelV11 } from "./compositions/NewsReelV11/NewsReelV11";
+import { newsReelV11Schema, computeV11Duration } from "./compositions/NewsReelV11/schema";
+import { v11DefaultProps } from "./compositions/NewsReelV11/defaultProps";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -256,6 +265,38 @@ export const RemotionRoot: React.FC = () => {
         schema={NewsReelSchema}
         defaultProps={HORMUZ_WEEK2_PROPS}
       />
+
+      {/* BRAND TRAVEL REEL — parametrized client reel (Sindibad first).
+          Crimson brand, Cairo, cinematic Ken Burns + kinetic Arabic.
+          One composition → N clients via props. */}
+      <Composition
+        id="BrandTravelReel"
+        component={BrandTravelReel}
+        durationInFrames={computeTravelDuration(SINDIBAD_TRAVEL_PROPS.destinations.length)}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={BrandTravelReelSchema}
+        defaultProps={SINDIBAD_TRAVEL_PROPS}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: computeTravelDuration(props.destinations.length),
+        })}
+      />
+
+      {/* TRAVEL REEL MOTION — v2: real Veo video b-roll, vibrant, fast cuts. */}
+      <Composition
+        id="TravelReelMotion"
+        component={TravelReelMotion}
+        durationInFrames={computeMotionDuration(SINDIBAD_MOTION_PROPS.scenes.length)}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={TravelReelMotionSchema}
+        defaultProps={SINDIBAD_MOTION_PROPS}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: computeMotionDuration(props.scenes.length),
+        })}
+      />
       {/* HEKAYA — slow-storytelling sister track. Same channel, opposite rhythm.
           75-second reels, bespoke Suno tracks per story, warm dusk palette.
           Default props are a placeholder: render-hekaya.yml passes per-slug
@@ -392,6 +433,19 @@ export const RemotionRoot: React.FC = () => {
             { name: "Wikipedia", domain: "wikipedia.org" },
           ],
         }}
+      />
+      {/* NEWSREEL V11 — the VO-spine reel (2026-07-03 growth overhaul).
+          Narrator drives every cut; karaoke captions; cold open; question
+          end-card. Duration = VO frames + end card, from props. */}
+      <Composition
+        id="NewsReelV11"
+        component={NewsReelV11}
+        durationInFrames={computeV11Duration(v11DefaultProps)}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={newsReelV11Schema}
+        defaultProps={v11DefaultProps}
       />
       {/* ESSAY — cinematic AI video-essay track (neutral analysis). Variable
           length like Hekaya2: duration derived from per-beat durationFrames.

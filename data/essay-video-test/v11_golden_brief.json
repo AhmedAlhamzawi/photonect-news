@@ -1,0 +1,19 @@
+{
+  "slug": "2026-07-03-v11-golden-iraq-grid",
+  "kicker": "عاجل",
+  "hookHeadline": "نص الكهرباء بس... وين الباقي؟",
+  "voText": "نصف الكهرباء فقط. هذا ما تستطيع الشبكة العراقية توليده هذا الصيف. الطلب يتجاوز خمسين ألف ميغاواط، والتوليد لا يتعدى ثمانية وعشرين ألفاً. والأغرب؟ الوزارة تصرف ستمئة مليار دينار شهرياً، لكنها لا تحصّل سوى واحد بالمئة من قيمة الكهرباء التي تبيعها. وواردات الغاز الإيراني انخفضت إلى أقل من نصف الحاجة بعد ضربات حقل بارس. فمن يدفع ثمن هذا العجز؟ وهل يمر صيف بغداد بسلام؟",
+  "endQuestion": "هل يمر صيف بغداد بسلام؟",
+  "sourcesLine": "المصادر: مرصد إيكو عراق · شفق نيوز · كردستان 24",
+  "images": [
+    "images/news/2026-06-30-iraq-grid-summer-deficit/hero.jpg",
+    "images/news/2026-06-30-iraq-grid-summer-deficit/broll_1.jpg",
+    "images/news/2026-06-30-iraq-grid-summer-deficit/broll_2.jpg",
+    "images/news/2026-06-30-iraq-grid-summer-deficit/broll_3.jpg"
+  ],
+  "audioBed": "audio/mood_newsroom.mp3",
+  "statPops": [
+    { "value": "50,000", "label": "ميغاواط — ذروة الطلب", "matchWord": "خمسين" },
+    { "value": "1%", "label": "نسبة تحصيل فواتير الكهرباء", "matchWord": "واحد" }
+  ]
+}
