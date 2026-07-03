@@ -1,0 +1,691 @@
+{
+ "kicker": "تقرير",
+ "hookHeadline": "١٧ مليار دولار… شكد راح يتغير العراق؟",
+ "vo": "vo/2026-07-03-iraq-faw-development-road/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/hero.jpg",
+   "startF": 0,
+   "durationF": 95,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_1.jpg",
+   "startF": 95,
+   "durationF": 90,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_2.jpg",
+   "startF": 185,
+   "durationF": 125,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_3.jpg",
+   "startF": 310,
+   "durationF": 93,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_4.jpg",
+   "startF": 403,
+   "durationF": 102,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/hero.jpg",
+   "startF": 505,
+   "durationF": 114,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_1.jpg",
+   "startF": 619,
+   "durationF": 92,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_2.jpg",
+   "startF": 711,
+   "durationF": 103,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_3.jpg",
+   "startF": 814,
+   "durationF": 96,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_4.jpg",
+   "startF": 910,
+   "durationF": 106,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/hero.jpg",
+   "startF": 1016,
+   "durationF": 98,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_1.jpg",
+   "startF": 1114,
+   "durationF": 96,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_2.jpg",
+   "startF": 1210,
+   "durationF": 109,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-03-iraq-faw-development-road/broll_3.jpg",
+   "startF": 1319,
+   "durationF": 177,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "سبعة",
+     "startF": 3,
+     "endF": 18
+    },
+    {
+     "word": "عشر",
+     "startF": 19,
+     "endF": 30
+    },
+    {
+     "word": "مليار",
+     "startF": 30,
+     "endF": 44
+    },
+    {
+     "word": "دولار",
+     "startF": 45,
+     "endF": 62
+    },
+    {
+     "word": "كلفة",
+     "startF": 69,
+     "endF": 82
+    }
+   ],
+   "startF": 3,
+   "endF": 82
+  },
+  {
+   "words": [
+    {
+     "word": "أضخم",
+     "startF": 82,
+     "endF": 95
+    },
+    {
+     "word": "مشروع",
+     "startF": 95,
+     "endF": 111
+    },
+    {
+     "word": "في",
+     "startF": 111,
+     "endF": 115
+    },
+    {
+     "word": "تاريخ",
+     "startF": 116,
+     "endF": 126
+    },
+    {
+     "word": "العراق",
+     "startF": 126,
+     "endF": 146
+    }
+   ],
+   "startF": 82,
+   "endF": 146
+  },
+  {
+   "words": [
+    {
+     "word": "بحسب",
+     "startF": 153,
+     "endF": 169
+    },
+    {
+     "word": "الحكومة",
+     "startF": 169,
+     "endF": 185
+    },
+    {
+     "word": "العراقية",
+     "startF": 185,
+     "endF": 211
+    }
+   ],
+   "startF": 153,
+   "endF": 211
+  },
+  {
+   "words": [
+    {
+     "word": "طريق",
+     "startF": 237,
+     "endF": 248
+    },
+    {
+     "word": "التنمية",
+     "startF": 248,
+     "endF": 268
+    },
+    {
+     "word": "سكة",
+     "startF": 274,
+     "endF": 291
+    },
+    {
+     "word": "وطريق",
+     "startF": 291,
+     "endF": 309
+    },
+    {
+     "word": "بطول",
+     "startF": 310,
+     "endF": 321
+    }
+   ],
+   "startF": 237,
+   "endF": 321
+  },
+  {
+   "words": [
+    {
+     "word": "ألف",
+     "startF": 321,
+     "endF": 333
+    },
+    {
+     "word": "ومئتي",
+     "startF": 333,
+     "endF": 351
+    },
+    {
+     "word": "كيلومتر",
+     "startF": 351,
+     "endF": 370
+    },
+    {
+     "word": "من",
+     "startF": 371,
+     "endF": 376
+    },
+    {
+     "word": "ميناء",
+     "startF": 376,
+     "endF": 389
+    }
+   ],
+   "startF": 321,
+   "endF": 389
+  },
+  {
+   "words": [
+    {
+     "word": "الفاو",
+     "startF": 389,
+     "endF": 403
+    },
+    {
+     "word": "حتى",
+     "startF": 403,
+     "endF": 412
+    },
+    {
+     "word": "الحدود",
+     "startF": 412,
+     "endF": 424
+    },
+    {
+     "word": "التركية",
+     "startF": 425,
+     "endF": 447
+    }
+   ],
+   "startF": 389,
+   "endF": 447
+  },
+  {
+   "words": [
+    {
+     "word": "الميناء",
+     "startF": 473,
+     "endF": 491
+    },
+    {
+     "word": "وحده",
+     "startF": 491,
+     "endF": 504
+    },
+    {
+     "word": "بكلفة",
+     "startF": 505,
+     "endF": 520
+    },
+    {
+     "word": "أربعة",
+     "startF": 521,
+     "endF": 538
+    },
+    {
+     "word": "مليارات",
+     "startF": 538,
+     "endF": 558
+    }
+   ],
+   "startF": 473,
+   "endF": 558
+  },
+  {
+   "words": [
+    {
+     "word": "وتسعمئة",
+     "startF": 558,
+     "endF": 581
+    },
+    {
+     "word": "مليون",
+     "startF": 581,
+     "endF": 594
+    },
+    {
+     "word": "دولار",
+     "startF": 595,
+     "endF": 613
+    },
+    {
+     "word": "وأنجزت",
+     "startF": 619,
+     "endF": 637
+    },
+    {
+     "word": "أرصفته",
+     "startF": 638,
+     "endF": 656
+    }
+   ],
+   "startF": 558,
+   "endF": 656
+  },
+  {
+   "words": [
+    {
+     "word": "الخمسة",
+     "startF": 657,
+     "endF": 674
+    },
+    {
+     "word": "ثمانية",
+     "startF": 674,
+     "endF": 694
+    },
+    {
+     "word": "وستين",
+     "startF": 694,
+     "endF": 711
+    },
+    {
+     "word": "بالمئة",
+     "startF": 711,
+     "endF": 728
+    },
+    {
+     "word": "بعدما",
+     "startF": 728,
+     "endF": 742
+    }
+   ],
+   "startF": 657,
+   "endF": 742
+  },
+  {
+   "words": [
+    {
+     "word": "كانت",
+     "startF": 743,
+     "endF": 753
+    },
+    {
+     "word": "تسعة",
+     "startF": 754,
+     "endF": 762
+    },
+    {
+     "word": "عشر",
+     "startF": 763,
+     "endF": 774
+    },
+    {
+     "word": "بالمئة",
+     "startF": 774,
+     "endF": 791
+    },
+    {
+     "word": "قبل",
+     "startF": 792,
+     "endF": 801
+    }
+   ],
+   "startF": 743,
+   "endF": 801
+  },
+  {
+   "words": [
+    {
+     "word": "ثلاث",
+     "startF": 801,
+     "endF": 813
+    },
+    {
+     "word": "سنوات",
+     "startF": 814,
+     "endF": 836
+    },
+    {
+     "word": "وفق",
+     "startF": 842,
+     "endF": 853
+    },
+    {
+     "word": "وزارة",
+     "startF": 853,
+     "endF": 867
+    },
+    {
+     "word": "النقل",
+     "startF": 868,
+     "endF": 884
+    }
+   ],
+   "startF": 801,
+   "endF": 884
+  },
+  {
+   "words": [
+    {
+     "word": "الحكومة",
+     "startF": 910,
+     "endF": 932
+    },
+    {
+     "word": "تتوقع",
+     "startF": 932,
+     "endF": 951
+    },
+    {
+     "word": "أربعة",
+     "startF": 951,
+     "endF": 967
+    },
+    {
+     "word": "مليارات",
+     "startF": 967,
+     "endF": 984
+    },
+    {
+     "word": "دولار",
+     "startF": 985,
+     "endF": 998
+    }
+   ],
+   "startF": 910,
+   "endF": 998
+  },
+  {
+   "words": [
+    {
+     "word": "عائدات",
+     "startF": 998,
+     "endF": 1016
+    },
+    {
+     "word": "سنوية",
+     "startF": 1016,
+     "endF": 1037
+    },
+    {
+     "word": "ومئة",
+     "startF": 1037,
+     "endF": 1052
+    },
+    {
+     "word": "ألف",
+     "startF": 1052,
+     "endF": 1062
+    },
+    {
+     "word": "وظيفة",
+     "startF": 1062,
+     "endF": 1081
+    }
+   ],
+   "startF": 998,
+   "endF": 1081
+  },
+  {
+   "words": [
+    {
+     "word": "بلا",
+     "startF": 1088,
+     "endF": 1097
+    },
+    {
+     "word": "تدقيق",
+     "startF": 1097,
+     "endF": 1114
+    },
+    {
+     "word": "مستقل",
+     "startF": 1114,
+     "endF": 1137
+    },
+    {
+     "word": "فيما",
+     "startF": 1143,
+     "endF": 1153
+    },
+    {
+     "word": "أقرض",
+     "startF": 1153,
+     "endF": 1165
+    }
+   ],
+   "startF": 1088,
+   "endF": 1165
+  },
+  {
+   "words": [
+    {
+     "word": "البنك",
+     "startF": 1165,
+     "endF": 1177
+    },
+    {
+     "word": "الدولي",
+     "startF": 1177,
+     "endF": 1192
+    },
+    {
+     "word": "تسعمئة",
+     "startF": 1193,
+     "endF": 1209
+    },
+    {
+     "word": "وثلاثين",
+     "startF": 1210,
+     "endF": 1230
+    },
+    {
+     "word": "مليون",
+     "startF": 1230,
+     "endF": 1244
+    }
+   ],
+   "startF": 1165,
+   "endF": 1244
+  },
+  {
+   "words": [
+    {
+     "word": "دولار",
+     "startF": 1245,
+     "endF": 1257
+    },
+    {
+     "word": "للسكك",
+     "startF": 1257,
+     "endF": 1275
+    }
+   ],
+   "startF": 1245,
+   "endF": 1275
+  },
+  {
+   "words": [
+    {
+     "word": "فهل",
+     "startF": 1301,
+     "endF": 1312
+    },
+    {
+     "word": "هي",
+     "startF": 1312,
+     "endF": 1319
+    },
+    {
+     "word": "نهضة",
+     "startF": 1319,
+     "endF": 1336
+    }
+   ],
+   "startF": 1301,
+   "endF": 1336
+  },
+  {
+   "words": [
+    {
+     "word": "أم",
+     "startF": 1361,
+     "endF": 1367
+    },
+    {
+     "word": "دين",
+     "startF": 1368,
+     "endF": 1378
+    },
+    {
+     "word": "جديد",
+     "startF": 1378,
+     "endF": 1396
+    }
+   ],
+   "startF": 1361,
+   "endF": 1396
+  }
+ ],
+ "statPops": [
+  {
+   "value": "١٧ مليار دولار",
+   "labelArabic": "كلفة طريق التنمية",
+   "atFrame": 1,
+   "holdFrames": 75
+  },
+  {
+   "value": "٦٨٪",
+   "labelArabic": "إنجاز أرصفة الفاو الخمسة",
+   "atFrame": 692,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "فهل هي نهضة… أم دين جديد؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: رويترز · ذا ناشيونال · وزارة النقل العراقية عبر شفق نيوز · البنك الدولي",
+ "totalFrames": 1496
+}

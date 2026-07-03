@@ -28,6 +28,9 @@ import { essayDefaultProps } from "./compositions/Essay/defaultProps";
 import { NewsReelV11 } from "./compositions/NewsReelV11/NewsReelV11";
 import { newsReelV11Schema, computeV11Duration } from "./compositions/NewsReelV11/schema";
 import { v11DefaultProps } from "./compositions/NewsReelV11/defaultProps";
+import { ProductAd } from "./compositions/ProductAd/ProductAd";
+import { productAdSchema } from "./compositions/ProductAd/schema";
+import { productAdDefaultProps, PRODUCT_AD_TOTAL_FRAMES } from "./compositions/ProductAd/defaultProps";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -446,6 +449,9 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         schema={newsReelV11Schema}
         defaultProps={v11DefaultProps}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: computeV11Duration(props),
+        })}
       />
       {/* ESSAY — cinematic AI video-essay track (neutral analysis). Variable
           length like Hekaya2: duration derived from per-beat durationFrames.
@@ -459,6 +465,18 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         schema={essaySchema}
         defaultProps={essayDefaultProps}
+      />
+      {/* PRODUCT AD — Life is Hard Store. One comp → N products via --props.
+          Real Fedshi footage + brand kinetic Arabic captions + logo bug. */}
+      <Composition
+        id="ProductAd"
+        component={ProductAd}
+        durationInFrames={PRODUCT_AD_TOTAL_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={productAdSchema}
+        defaultProps={productAdDefaultProps}
       />
     </>
   );
