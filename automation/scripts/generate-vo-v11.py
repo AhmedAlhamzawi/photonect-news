@@ -32,8 +32,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 
-# Broadcast MSA default. ar-IQ-BasselNeural = Iraqi-flavored MSA (identity without dialect-TTS risk).
-EDGE_VOICE = os.environ.get("V11_EDGE_VOICE", "ar-IQ-BasselNeural")
+# Broadcast MSA default. ar-AE-FatimaNeural = Gulf female — Ahmed's pick (2026-07-03 bake-off
+# vs Iraqi Rana / Lebanese Layla / Saudi Zariyah). Reads MSA newscast with warm Gulf timbre.
+EDGE_VOICE = os.environ.get("V11_EDGE_VOICE", "ar-AE-FatimaNeural")
 EDGE_RATE = os.environ.get("V11_EDGE_RATE", "+8%")   # newscast pace, slightly brisk
 ELEVEN_VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "")  # set after voice selection
 ELEVEN_MODEL = os.environ.get("ELEVENLABS_MODEL", "eleven_multilingual_v2")
