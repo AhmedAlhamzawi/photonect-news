@@ -1,0 +1,677 @@
+{
+ "kicker": "الملف 5/7",
+ "hookHeadline": "من هو علي الزيدي؟",
+ "vo": "vo/2026-07-04-almalaf-ep5-the-man/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/hero.jpg",
+   "startF": 0,
+   "durationF": 101,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_1.jpg",
+   "startF": 101,
+   "durationF": 97,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_2.jpg",
+   "startF": 198,
+   "durationF": 102,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_3.jpg",
+   "startF": 300,
+   "durationF": 102,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/hero.jpg",
+   "startF": 402,
+   "durationF": 103,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_1.jpg",
+   "startF": 505,
+   "durationF": 97,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_2.jpg",
+   "startF": 602,
+   "durationF": 116,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_3.jpg",
+   "startF": 718,
+   "durationF": 95,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/hero.jpg",
+   "startF": 813,
+   "durationF": 88,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_1.jpg",
+   "startF": 901,
+   "durationF": 109,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_2.jpg",
+   "startF": 1010,
+   "durationF": 103,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_3.jpg",
+   "startF": 1113,
+   "durationF": 109,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/hero.jpg",
+   "startF": 1222,
+   "durationF": 95,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep5-the-man/broll_1.jpg",
+   "startF": 1317,
+   "durationF": 168,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "أصغر",
+     "startF": 3,
+     "endF": 18
+    },
+    {
+     "word": "رئيس",
+     "startF": 18,
+     "endF": 30
+    },
+    {
+     "word": "وزراء",
+     "startF": 30,
+     "endF": 44
+    },
+    {
+     "word": "في",
+     "startF": 44,
+     "endF": 48
+    },
+    {
+     "word": "تاريخ",
+     "startF": 49,
+     "endF": 59
+    }
+   ],
+   "startF": 3,
+   "endF": 59
+  },
+  {
+   "words": [
+    {
+     "word": "العراق",
+     "startF": 59,
+     "endF": 78
+    },
+    {
+     "word": "بلا",
+     "startF": 84,
+     "endF": 93
+    },
+    {
+     "word": "أي",
+     "startF": 93,
+     "endF": 100
+    },
+    {
+     "word": "منصب",
+     "startF": 101,
+     "endF": 115
+    },
+    {
+     "word": "حكومي",
+     "startF": 115,
+     "endF": 133
+    }
+   ],
+   "startF": 59,
+   "endF": 133
+  },
+  {
+   "words": [
+    {
+     "word": "سابق",
+     "startF": 134,
+     "endF": 152
+    }
+   ],
+   "startF": 134,
+   "endF": 152
+  },
+  {
+   "words": [
+    {
+     "word": "علي",
+     "startF": 178,
+     "endF": 188
+    },
+    {
+     "word": "فالح",
+     "startF": 188,
+     "endF": 198
+    },
+    {
+     "word": "الزيدي",
+     "startF": 198,
+     "endF": 218
+    },
+    {
+     "word": "مواليد",
+     "startF": 223,
+     "endF": 240
+    },
+    {
+     "word": "عام",
+     "startF": 241,
+     "endF": 249
+    }
+   ],
+   "startF": 178,
+   "endF": 249
+  },
+  {
+   "words": [
+    {
+     "word": "ألف",
+     "startF": 249,
+     "endF": 260
+    },
+    {
+     "word": "وتسعمئة",
+     "startF": 260,
+     "endF": 281
+    },
+    {
+     "word": "وخمسة",
+     "startF": 282,
+     "endF": 300
+    },
+    {
+     "word": "وثمانين",
+     "startF": 300,
+     "endF": 326
+    },
+    {
+     "word": "من",
+     "startF": 333,
+     "endF": 338
+    }
+   ],
+   "startF": 249,
+   "endF": 338
+  },
+  {
+   "words": [
+    {
+     "word": "عائلة",
+     "startF": 338,
+     "endF": 357
+    },
+    {
+     "word": "تعود",
+     "startF": 357,
+     "endF": 369
+    },
+    {
+     "word": "جذورها",
+     "startF": 370,
+     "endF": 387
+    },
+    {
+     "word": "إلى",
+     "startF": 388,
+     "endF": 397
+    },
+    {
+     "word": "ذي",
+     "startF": 397,
+     "endF": 402
+    }
+   ],
+   "startF": 338,
+   "endF": 402
+  },
+  {
+   "words": [
+    {
+     "word": "قار",
+     "startF": 402,
+     "endF": 418
+    }
+   ],
+   "startF": 402,
+   "endF": 418
+  },
+  {
+   "words": [
+    {
+     "word": "مصرفي",
+     "startF": 443,
+     "endF": 466
+    },
+    {
+     "word": "ورجل",
+     "startF": 467,
+     "endF": 481
+    },
+    {
+     "word": "أعمال",
+     "startF": 481,
+     "endF": 500
+    },
+    {
+     "word": "يرأس",
+     "startF": 505,
+     "endF": 521
+    },
+    {
+     "word": "مجموعة",
+     "startF": 521,
+     "endF": 537
+    }
+   ],
+   "startF": 443,
+   "endF": 537
+  },
+  {
+   "words": [
+    {
+     "word": "الوطنية",
+     "startF": 537,
+     "endF": 555
+    },
+    {
+     "word": "القابضة",
+     "startF": 555,
+     "endF": 578
+    },
+    {
+     "word": "ويملك",
+     "startF": 584,
+     "endF": 602
+    },
+    {
+     "word": "قناة",
+     "startF": 602,
+     "endF": 617
+    },
+    {
+     "word": "دجلة",
+     "startF": 617,
+     "endF": 629
+    }
+   ],
+   "startF": 537,
+   "endF": 629
+  },
+  {
+   "words": [
+    {
+     "word": "الفضائية",
+     "startF": 629,
+     "endF": 654
+    },
+    {
+     "word": "وفق",
+     "startF": 659,
+     "endF": 669
+    },
+    {
+     "word": "الجزيرة",
+     "startF": 670,
+     "endF": 692
+    }
+   ],
+   "startF": 629,
+   "endF": 692
+  },
+  {
+   "words": [
+    {
+     "word": "اختاره",
+     "startF": 718,
+     "endF": 734
+    },
+    {
+     "word": "الإطار",
+     "startF": 734,
+     "endF": 746
+    },
+    {
+     "word": "التنسيقي",
+     "startF": 746,
+     "endF": 768
+    },
+    {
+     "word": "مرشح",
+     "startF": 768,
+     "endF": 783
+    },
+    {
+     "word": "توافق",
+     "startF": 784,
+     "endF": 804
+    }
+   ],
+   "startF": 718,
+   "endF": 804
+  },
+  {
+   "words": [
+    {
+     "word": "ومنحه",
+     "startF": 813,
+     "endF": 831
+    },
+    {
+     "word": "البرلمان",
+     "startF": 831,
+     "endF": 849
+    },
+    {
+     "word": "الثقة",
+     "startF": 849,
+     "endF": 868
+    },
+    {
+     "word": "في",
+     "startF": 868,
+     "endF": 871
+    },
+    {
+     "word": "الرابع",
+     "startF": 871,
+     "endF": 884
+    }
+   ],
+   "startF": 813,
+   "endF": 884
+  },
+  {
+   "words": [
+    {
+     "word": "عشر",
+     "startF": 884,
+     "endF": 895
+    },
+    {
+     "word": "من",
+     "startF": 896,
+     "endF": 900
+    },
+    {
+     "word": "أيار",
+     "startF": 901,
+     "endF": 918
+    }
+   ],
+   "startF": 884,
+   "endF": 918
+  },
+  {
+   "words": [
+    {
+     "word": "بعد",
+     "startF": 943,
+     "endF": 952
+    },
+    {
+     "word": "الغارة",
+     "startF": 952,
+     "endF": 967
+    },
+    {
+     "word": "قال",
+     "startF": 967,
+     "endF": 983
+    },
+    {
+     "word": "السكوت",
+     "startF": 990,
+     "endF": 1010
+    },
+    {
+     "word": "لم",
+     "startF": 1010,
+     "endF": 1016
+    }
+   ],
+   "startF": 943,
+   "endF": 1016
+  },
+  {
+   "words": [
+    {
+     "word": "يعد",
+     "startF": 1016,
+     "endF": 1026
+    },
+    {
+     "word": "ممكناً",
+     "startF": 1026,
+     "endF": 1048
+    }
+   ],
+   "startF": 1016,
+   "endF": 1048
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 1073,
+     "endF": 1086
+    },
+    {
+     "word": "في",
+     "startF": 1086,
+     "endF": 1088
+    },
+    {
+     "word": "الملف",
+     "startF": 1088,
+     "endF": 1106
+    },
+    {
+     "word": "المؤيدون",
+     "startF": 1113,
+     "endF": 1139
+    },
+    {
+     "word": "والمشككون",
+     "startF": 1139,
+     "endF": 1167
+    }
+   ],
+   "startF": 1073,
+   "endF": 1167
+  },
+  {
+   "words": [
+    {
+     "word": "يتكلمون",
+     "startF": 1167,
+     "endF": 1197
+    }
+   ],
+   "startF": 1167,
+   "endF": 1197
+  },
+  {
+   "words": [
+    {
+     "word": "رجل",
+     "startF": 1222,
+     "endF": 1235
+    },
+    {
+     "word": "أعمال",
+     "startF": 1236,
+     "endF": 1252
+    },
+    {
+     "word": "على",
+     "startF": 1253,
+     "endF": 1261
+    },
+    {
+     "word": "رأس",
+     "startF": 1261,
+     "endF": 1269
+    },
+    {
+     "word": "الحكومة",
+     "startF": 1269,
+     "endF": 1292
+    }
+   ],
+   "startF": 1222,
+   "endF": 1292
+  },
+  {
+   "words": [
+    {
+     "word": "هل",
+     "startF": 1317,
+     "endF": 1324
+    },
+    {
+     "word": "يغيّر",
+     "startF": 1324,
+     "endF": 1338
+    },
+    {
+     "word": "ذلك",
+     "startF": 1339,
+     "endF": 1351
+    },
+    {
+     "word": "قواعد",
+     "startF": 1351,
+     "endF": 1366
+    },
+    {
+     "word": "اللعبة",
+     "startF": 1366,
+     "endF": 1384
+    }
+   ],
+   "startF": 1317,
+   "endF": 1384
+  }
+ ],
+ "statPops": [
+  {
+   "value": "1985",
+   "labelArabic": "مواليد — أصغر رئيس وزراء",
+   "atFrame": 298,
+   "holdFrames": 75
+  },
+  {
+   "value": "14 أيار",
+   "labelArabic": "منحه البرلمان الثقة",
+   "atFrame": 899,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "رجل أعمال على رأس الحكومة... هل يغيّر ذلك قواعد اللعبة؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: الجزيرة · CNN بالعربية",
+ "totalFrames": 1485
+}

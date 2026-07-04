@@ -1,0 +1,687 @@
+{
+ "kicker": "الملف 3/7",
+ "hookHeadline": "أموال مدفونة على عمق أربعة أمتار",
+ "vo": "vo/2026-07-04-almalaf-ep3-buried-money/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/hero.jpg",
+   "startF": 0,
+   "durationF": 103,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_1.jpg",
+   "startF": 103,
+   "durationF": 87,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_2.jpg",
+   "startF": 190,
+   "durationF": 99,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_3.jpg",
+   "startF": 289,
+   "durationF": 122,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/hero.jpg",
+   "startF": 411,
+   "durationF": 82,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_1.jpg",
+   "startF": 493,
+   "durationF": 93,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_2.jpg",
+   "startF": 586,
+   "durationF": 110,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_3.jpg",
+   "startF": 696,
+   "durationF": 94,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/hero.jpg",
+   "startF": 790,
+   "durationF": 94,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_1.jpg",
+   "startF": 884,
+   "durationF": 77,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_2.jpg",
+   "startF": 961,
+   "durationF": 102,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_3.jpg",
+   "startF": 1063,
+   "durationF": 114,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/hero.jpg",
+   "startF": 1177,
+   "durationF": 100,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep3-buried-money/broll_1.jpg",
+   "startF": 1277,
+   "durationF": 175,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "سبعة",
+     "startF": 3,
+     "endF": 19
+    },
+    {
+     "word": "وستون",
+     "startF": 19,
+     "endF": 35
+    },
+    {
+     "word": "مليار",
+     "startF": 36,
+     "endF": 50
+    },
+    {
+     "word": "دينار",
+     "startF": 50,
+     "endF": 68
+    },
+    {
+     "word": "وُجد",
+     "startF": 75,
+     "endF": 90
+    }
+   ],
+   "startF": 3,
+   "endF": 90
+  },
+  {
+   "words": [
+    {
+     "word": "قسم",
+     "startF": 90,
+     "endF": 103
+    },
+    {
+     "word": "منها",
+     "startF": 103,
+     "endF": 113
+    },
+    {
+     "word": "مدفوناً",
+     "startF": 114,
+     "endF": 131
+    },
+    {
+     "word": "على",
+     "startF": 131,
+     "endF": 138
+    },
+    {
+     "word": "عمق",
+     "startF": 139,
+     "endF": 148
+    }
+   ],
+   "startF": 90,
+   "endF": 148
+  },
+  {
+   "words": [
+    {
+     "word": "أربعة",
+     "startF": 148,
+     "endF": 163
+    },
+    {
+     "word": "أمتار",
+     "startF": 164,
+     "endF": 182
+    },
+    {
+     "word": "تحت",
+     "startF": 182,
+     "endF": 190
+    },
+    {
+     "word": "الأرض",
+     "startF": 190,
+     "endF": 206
+    }
+   ],
+   "startF": 148,
+   "endF": 206
+  },
+  {
+   "words": [
+    {
+     "word": "هذا",
+     "startF": 231,
+     "endF": 243
+    },
+    {
+     "word": "ما",
+     "startF": 243,
+     "endF": 247
+    },
+    {
+     "word": "أعلنه",
+     "startF": 247,
+     "endF": 263
+    },
+    {
+     "word": "مجلس",
+     "startF": 264,
+     "endF": 275
+    },
+    {
+     "word": "القضاء",
+     "startF": 276,
+     "endF": 289
+    }
+   ],
+   "startF": 231,
+   "endF": 289
+  },
+  {
+   "words": [
+    {
+     "word": "الأعلى",
+     "startF": 289,
+     "endF": 303
+    },
+    {
+     "word": "في",
+     "startF": 303,
+     "endF": 307
+    },
+    {
+     "word": "قضية",
+     "startF": 308,
+     "endF": 323
+    },
+    {
+     "word": "وكيل",
+     "startF": 323,
+     "endF": 335
+    },
+    {
+     "word": "وزارة",
+     "startF": 336,
+     "endF": 349
+    }
+   ],
+   "startF": 289,
+   "endF": 349
+  },
+  {
+   "words": [
+    {
+     "word": "النفط",
+     "startF": 350,
+     "endF": 360
+    },
+    {
+     "word": "الموقوف",
+     "startF": 360,
+     "endF": 386
+    }
+   ],
+   "startF": 350,
+   "endF": 386
+  },
+  {
+   "words": [
+    {
+     "word": "الحصيلة",
+     "startF": 411,
+     "endF": 432
+    },
+    {
+     "word": "التراكمية",
+     "startF": 432,
+     "endF": 458
+    },
+    {
+     "word": "وفق",
+     "startF": 458,
+     "endF": 467
+    },
+    {
+     "word": "المجلس",
+     "startF": 467,
+     "endF": 488
+    },
+    {
+     "word": "ثمانية",
+     "startF": 493,
+     "endF": 514
+    }
+   ],
+   "startF": 411,
+   "endF": 514
+  },
+  {
+   "words": [
+    {
+     "word": "وتسعون",
+     "startF": 515,
+     "endF": 532
+    },
+    {
+     "word": "مليار",
+     "startF": 533,
+     "endF": 546
+    },
+    {
+     "word": "دينار",
+     "startF": 547,
+     "endF": 565
+    },
+    {
+     "word": "وأحد",
+     "startF": 573,
+     "endF": 586
+    },
+    {
+     "word": "عشر",
+     "startF": 586,
+     "endF": 598
+    }
+   ],
+   "startF": 515,
+   "endF": 598
+  },
+  {
+   "words": [
+    {
+     "word": "مليون",
+     "startF": 599,
+     "endF": 611
+    },
+    {
+     "word": "دولار",
+     "startF": 611,
+     "endF": 626
+    },
+    {
+     "word": "نقداً",
+     "startF": 627,
+     "endF": 644
+    },
+    {
+     "word": "وسبعون",
+     "startF": 650,
+     "endF": 668
+    },
+    {
+     "word": "عقاراً",
+     "startF": 669,
+     "endF": 690
+    }
+   ],
+   "startF": 599,
+   "endF": 690
+  },
+  {
+   "words": [
+    {
+     "word": "وواحد",
+     "startF": 696,
+     "endF": 715
+    },
+    {
+     "word": "وعشرون",
+     "startF": 715,
+     "endF": 732
+    },
+    {
+     "word": "مركبة",
+     "startF": 732,
+     "endF": 754
+    },
+    {
+     "word": "ونحو",
+     "startF": 760,
+     "endF": 773
+    },
+    {
+     "word": "ثلاثة",
+     "startF": 774,
+     "endF": 789
+    }
+   ],
+   "startF": 696,
+   "endF": 789
+  },
+  {
+   "words": [
+    {
+     "word": "كيلوغرامات",
+     "startF": 790,
+     "endF": 817
+    },
+    {
+     "word": "من",
+     "startF": 817,
+     "endF": 822
+    },
+    {
+     "word": "الذهب",
+     "startF": 822,
+     "endF": 841
+    }
+   ],
+   "startF": 790,
+   "endF": 841
+  },
+  {
+   "words": [
+    {
+     "word": "وأمرت",
+     "startF": 867,
+     "endF": 883
+    },
+    {
+     "word": "الحكومة",
+     "startF": 884,
+     "endF": 903
+    },
+    {
+     "word": "بفتح",
+     "startF": 904,
+     "endF": 916
+    },
+    {
+     "word": "حساب",
+     "startF": 916,
+     "endF": 931
+    },
+    {
+     "word": "خاص",
+     "startF": 931,
+     "endF": 943
+    }
+   ],
+   "startF": 867,
+   "endF": 943
+  },
+  {
+   "words": [
+    {
+     "word": "للأموال",
+     "startF": 943,
+     "endF": 961
+    },
+    {
+     "word": "المستردة",
+     "startF": 961,
+     "endF": 986
+    }
+   ],
+   "startF": 943,
+   "endF": 986
+  },
+  {
+   "words": [
+    {
+     "word": "كل",
+     "startF": 1012,
+     "endF": 1020
+    },
+    {
+     "word": "ذلك",
+     "startF": 1020,
+     "endF": 1033
+    },
+    {
+     "word": "قبل",
+     "startF": 1033,
+     "endF": 1042
+    },
+    {
+     "word": "صدور",
+     "startF": 1042,
+     "endF": 1054
+    },
+    {
+     "word": "أي",
+     "startF": 1055,
+     "endF": 1062
+    }
+   ],
+   "startF": 1012,
+   "endF": 1062
+  },
+  {
+   "words": [
+    {
+     "word": "إدانة",
+     "startF": 1063,
+     "endF": 1082
+    }
+   ],
+   "startF": 1063,
+   "endF": 1082
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 1107,
+     "endF": 1120
+    },
+    {
+     "word": "في",
+     "startF": 1120,
+     "endF": 1122
+    },
+    {
+     "word": "الملف",
+     "startF": 1122,
+     "endF": 1141
+    },
+    {
+     "word": "سقوط",
+     "startF": 1147,
+     "endF": 1162
+    },
+    {
+     "word": "حصانة",
+     "startF": 1162,
+     "endF": 1177
+    }
+   ],
+   "startF": 1107,
+   "endF": 1177
+  },
+  {
+   "words": [
+    {
+     "word": "النواب",
+     "startF": 1177,
+     "endF": 1192
+    },
+    {
+     "word": "في",
+     "startF": 1192,
+     "endF": 1197
+    },
+    {
+     "word": "ليلة",
+     "startF": 1198,
+     "endF": 1212
+    },
+    {
+     "word": "واحدة",
+     "startF": 1212,
+     "endF": 1232
+    }
+   ],
+   "startF": 1177,
+   "endF": 1232
+  },
+  {
+   "words": [
+    {
+     "word": "أين",
+     "startF": 1257,
+     "endF": 1266
+    },
+    {
+     "word": "كانت",
+     "startF": 1267,
+     "endF": 1276
+    },
+    {
+     "word": "هذه",
+     "startF": 1277,
+     "endF": 1285
+    },
+    {
+     "word": "الأموال",
+     "startF": 1285,
+     "endF": 1301
+    },
+    {
+     "word": "طوال",
+     "startF": 1301,
+     "endF": 1312
+    }
+   ],
+   "startF": 1257,
+   "endF": 1312
+  },
+  {
+   "words": [
+    {
+     "word": "السنوات",
+     "startF": 1312,
+     "endF": 1329
+    },
+    {
+     "word": "الماضية",
+     "startF": 1329,
+     "endF": 1352
+    }
+   ],
+   "startF": 1312,
+   "endF": 1352
+  }
+ ],
+ "statPops": [
+  {
+   "value": "67 مليار دينار",
+   "labelArabic": "قسم منها مدفون تحت الأرض",
+   "atFrame": 17,
+   "holdFrames": 75
+  },
+  {
+   "value": "4 أمتار",
+   "labelArabic": "عمق الدفن — مجلس القضاء",
+   "atFrame": 162,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "أين كانت هذه الأموال طوال السنوات الماضية؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: مجلس القضاء الأعلى عبر الجزيرة · غلف نيوز",
+ "totalFrames": 1452
+}

@@ -1,0 +1,614 @@
+{
+ "kicker": "الملف 4/7",
+ "hookHeadline": "حصانة النواب سقطت في ليلة",
+ "vo": "vo/2026-07-04-almalaf-ep4-immunity/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/hero.jpg",
+   "startF": 0,
+   "durationF": 93,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_1.jpg",
+   "startF": 93,
+   "durationF": 107,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_2.jpg",
+   "startF": 200,
+   "durationF": 97,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_3.jpg",
+   "startF": 297,
+   "durationF": 97,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/hero.jpg",
+   "startF": 394,
+   "durationF": 95,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_1.jpg",
+   "startF": 489,
+   "durationF": 107,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_2.jpg",
+   "startF": 596,
+   "durationF": 96,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_3.jpg",
+   "startF": 692,
+   "durationF": 88,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/hero.jpg",
+   "startF": 780,
+   "durationF": 93,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_1.jpg",
+   "startF": 873,
+   "durationF": 106,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_2.jpg",
+   "startF": 979,
+   "durationF": 86,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/broll_3.jpg",
+   "startF": 1065,
+   "durationF": 104,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep4-immunity/hero.jpg",
+   "startF": 1169,
+   "durationF": 174,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "في",
+     "startF": 3,
+     "endF": 10
+    },
+    {
+     "word": "ليلة",
+     "startF": 10,
+     "endF": 24
+    },
+    {
+     "word": "واحدة",
+     "startF": 24,
+     "endF": 43
+    },
+    {
+     "word": "سقطت",
+     "startF": 50,
+     "endF": 65
+    },
+    {
+     "word": "الحصانة",
+     "startF": 65,
+     "endF": 86
+    }
+   ],
+   "startF": 3,
+   "endF": 86
+  },
+  {
+   "words": [
+    {
+     "word": "عن",
+     "startF": 86,
+     "endF": 92
+    },
+    {
+     "word": "اثني",
+     "startF": 93,
+     "endF": 102
+    },
+    {
+     "word": "عشر",
+     "startF": 103,
+     "endF": 114
+    },
+    {
+     "word": "نائباً",
+     "startF": 115,
+     "endF": 135
+    }
+   ],
+   "startF": 86,
+   "endF": 135
+  },
+  {
+   "words": [
+    {
+     "word": "وفق",
+     "startF": 160,
+     "endF": 170
+    },
+    {
+     "word": "الجزيرة",
+     "startF": 170,
+     "endF": 193
+    },
+    {
+     "word": "جرى",
+     "startF": 200,
+     "endF": 211
+    },
+    {
+     "word": "رفع",
+     "startF": 211,
+     "endF": 219
+    },
+    {
+     "word": "الحصانة",
+     "startF": 219,
+     "endF": 239
+    }
+   ],
+   "startF": 160,
+   "endF": 239
+  },
+  {
+   "words": [
+    {
+     "word": "عبر",
+     "startF": 240,
+     "endF": 250
+    },
+    {
+     "word": "رئاسة",
+     "startF": 250,
+     "endF": 268
+    },
+    {
+     "word": "مجلس",
+     "startF": 268,
+     "endF": 280
+    },
+    {
+     "word": "النواب",
+     "startF": 280,
+     "endF": 296
+    },
+    {
+     "word": "خلال",
+     "startF": 297,
+     "endF": 308
+    }
+   ],
+   "startF": 240,
+   "endF": 308
+  },
+  {
+   "words": [
+    {
+     "word": "العطلة",
+     "startF": 308,
+     "endF": 323
+    },
+    {
+     "word": "التشريعية",
+     "startF": 323,
+     "endF": 354
+    }
+   ],
+   "startF": 308,
+   "endF": 354
+  },
+  {
+   "words": [
+    {
+     "word": "وبعد",
+     "startF": 379,
+     "endF": 394
+    },
+    {
+     "word": "يومين",
+     "startF": 394,
+     "endF": 412
+    },
+    {
+     "word": "رفعت",
+     "startF": 418,
+     "endF": 432
+    },
+    {
+     "word": "المحاكم",
+     "startF": 432,
+     "endF": 449
+    },
+    {
+     "word": "الحصانة",
+     "startF": 449,
+     "endF": 468
+    }
+   ],
+   "startF": 379,
+   "endF": 468
+  },
+  {
+   "words": [
+    {
+     "word": "عن",
+     "startF": 468,
+     "endF": 473
+    },
+    {
+     "word": "ثلاثة",
+     "startF": 473,
+     "endF": 489
+    },
+    {
+     "word": "نواب",
+     "startF": 489,
+     "endF": 504
+    },
+    {
+     "word": "آخرين",
+     "startF": 504,
+     "endF": 522
+    },
+    {
+     "word": "بحسب",
+     "startF": 523,
+     "endF": 540
+    }
+   ],
+   "startF": 468,
+   "endF": 540
+  },
+  {
+   "words": [
+    {
+     "word": "شفق",
+     "startF": 540,
+     "endF": 551
+    },
+    {
+     "word": "نيوز",
+     "startF": 551,
+     "endF": 571
+    }
+   ],
+   "startF": 540,
+   "endF": 571
+  },
+  {
+   "words": [
+    {
+     "word": "لكن",
+     "startF": 596,
+     "endF": 609
+    },
+    {
+     "word": "دستورية",
+     "startF": 609,
+     "endF": 630
+    },
+    {
+     "word": "هذه",
+     "startF": 630,
+     "endF": 639
+    },
+    {
+     "word": "الآلية",
+     "startF": 640,
+     "endF": 658
+    },
+    {
+     "word": "محل",
+     "startF": 658,
+     "endF": 670
+    }
+   ],
+   "startF": 596,
+   "endF": 670
+  },
+  {
+   "words": [
+    {
+     "word": "جدل",
+     "startF": 671,
+     "endF": 685
+    },
+    {
+     "word": "تحالف",
+     "startF": 692,
+     "endF": 709
+    },
+    {
+     "word": "عزم",
+     "startF": 709,
+     "endF": 723
+    },
+    {
+     "word": "الذي",
+     "startF": 729,
+     "endF": 741
+    },
+    {
+     "word": "أُوقف",
+     "startF": 741,
+     "endF": 756
+    }
+   ],
+   "startF": 671,
+   "endF": 756
+  },
+  {
+   "words": [
+    {
+     "word": "زعيمه",
+     "startF": 757,
+     "endF": 774
+    },
+    {
+     "word": "يطالب",
+     "startF": 780,
+     "endF": 797
+    },
+    {
+     "word": "بضمانات",
+     "startF": 797,
+     "endF": 819
+    },
+    {
+     "word": "دستورية",
+     "startF": 820,
+     "endF": 844
+    },
+    {
+     "word": "ومحاكمة",
+     "startF": 844,
+     "endF": 872
+    }
+   ],
+   "startF": 757,
+   "endF": 872
+  },
+  {
+   "words": [
+    {
+     "word": "عادلة",
+     "startF": 873,
+     "endF": 892
+    }
+   ],
+   "startF": 873,
+   "endF": 892
+  },
+  {
+   "words": [
+    {
+     "word": "والموقوفون",
+     "startF": 917,
+     "endF": 944
+    },
+    {
+     "word": "جميعاً",
+     "startF": 944,
+     "endF": 959
+    },
+    {
+     "word": "على",
+     "startF": 960,
+     "endF": 968
+    },
+    {
+     "word": "ذمة",
+     "startF": 968,
+     "endF": 978
+    },
+    {
+     "word": "التحقيق",
+     "startF": 979,
+     "endF": 1001
+    }
+   ],
+   "startF": 917,
+   "endF": 1001
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 1027,
+     "endF": 1040
+    },
+    {
+     "word": "في",
+     "startF": 1040,
+     "endF": 1042
+    },
+    {
+     "word": "الملف",
+     "startF": 1042,
+     "endF": 1060
+    },
+    {
+     "word": "الرجل",
+     "startF": 1065,
+     "endF": 1081
+    },
+    {
+     "word": "الذي",
+     "startF": 1081,
+     "endF": 1091
+    }
+   ],
+   "startF": 1027,
+   "endF": 1091
+  },
+  {
+   "words": [
+    {
+     "word": "وقف",
+     "startF": 1091,
+     "endF": 1106
+    },
+    {
+     "word": "خلف",
+     "startF": 1106,
+     "endF": 1115
+    },
+    {
+     "word": "القرار",
+     "startF": 1115,
+     "endF": 1136
+    }
+   ],
+   "startF": 1091,
+   "endF": 1136
+  },
+  {
+   "words": [
+    {
+     "word": "هل",
+     "startF": 1162,
+     "endF": 1169
+    },
+    {
+     "word": "تصمد",
+     "startF": 1169,
+     "endF": 1183
+    },
+    {
+     "word": "هذه",
+     "startF": 1184,
+     "endF": 1194
+    },
+    {
+     "word": "الآلية",
+     "startF": 1194,
+     "endF": 1212
+    },
+    {
+     "word": "أمام",
+     "startF": 1212,
+     "endF": 1222
+    }
+   ],
+   "startF": 1162,
+   "endF": 1222
+  },
+  {
+   "words": [
+    {
+     "word": "الطعون",
+     "startF": 1222,
+     "endF": 1242
+    }
+   ],
+   "startF": 1222,
+   "endF": 1242
+  }
+ ],
+ "statPops": [
+  {
+   "value": "12",
+   "labelArabic": "نائباً رفعت حصانتهم ليلة الغارة",
+   "atFrame": 113,
+   "holdFrames": 75
+  },
+  {
+   "value": "+3",
+   "labelArabic": "نواب آخرون — 30 حزيران",
+   "atFrame": 471,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "هل تصمد هذه الآلية أمام الطعون؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: الجزيرة · شفق نيوز",
+ "totalFrames": 1343
+}

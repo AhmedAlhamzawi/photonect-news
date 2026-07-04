@@ -1,0 +1,708 @@
+{
+ "kicker": "الملف 7/7",
+ "hookHeadline": "هل تنتهي مثل كل مرة؟",
+ "vo": "vo/2026-07-04-almalaf-ep7-what-next/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/hero.jpg",
+   "startF": 0,
+   "durationF": 127,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_1.jpg",
+   "startF": 127,
+   "durationF": 97,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_2.jpg",
+   "startF": 224,
+   "durationF": 103,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_3.jpg",
+   "startF": 327,
+   "durationF": 110,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/hero.jpg",
+   "startF": 437,
+   "durationF": 116,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_1.jpg",
+   "startF": 553,
+   "durationF": 103,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_2.jpg",
+   "startF": 656,
+   "durationF": 98,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_3.jpg",
+   "startF": 754,
+   "durationF": 126,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/hero.jpg",
+   "startF": 880,
+   "durationF": 111,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_1.jpg",
+   "startF": 991,
+   "durationF": 100,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_2.jpg",
+   "startF": 1091,
+   "durationF": 106,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_3.jpg",
+   "startF": 1197,
+   "durationF": 120,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/hero.jpg",
+   "startF": 1317,
+   "durationF": 115,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep7-what-next/broll_1.jpg",
+   "startF": 1432,
+   "durationF": 168,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "كل",
+     "startF": 3,
+     "endF": 11
+    },
+    {
+     "word": "حملة",
+     "startF": 12,
+     "endF": 26
+    },
+    {
+     "word": "سابقة",
+     "startF": 26,
+     "endF": 47
+    },
+    {
+     "word": "توقفت",
+     "startF": 47,
+     "endF": 65
+    },
+    {
+     "word": "قبل",
+     "startF": 65,
+     "endF": 74
+    }
+   ],
+   "startF": 3,
+   "endF": 74
+  },
+  {
+   "words": [
+    {
+     "word": "نهايتها",
+     "startF": 75,
+     "endF": 101
+    }
+   ],
+   "startF": 75,
+   "endF": 101
+  },
+  {
+   "words": [
+    {
+     "word": "لجنة",
+     "startF": 127,
+     "endF": 142
+    },
+    {
+     "word": "الكاظمي",
+     "startF": 142,
+     "endF": 161
+    },
+    {
+     "word": "لمكافحة",
+     "startF": 161,
+     "endF": 183
+    },
+    {
+     "word": "الفساد",
+     "startF": 183,
+     "endF": 199
+    },
+    {
+     "word": "عام",
+     "startF": 199,
+     "endF": 207
+    }
+   ],
+   "startF": 127,
+   "endF": 207
+  },
+  {
+   "words": [
+    {
+     "word": "ألفين",
+     "startF": 208,
+     "endF": 223
+    },
+    {
+     "word": "وعشرين",
+     "startF": 224,
+     "endF": 242
+    },
+    {
+     "word": "حلّتها",
+     "startF": 242,
+     "endF": 254
+    },
+    {
+     "word": "المحكمة",
+     "startF": 254,
+     "endF": 273
+    },
+    {
+     "word": "الاتحادية",
+     "startF": 273,
+     "endF": 299
+    }
+   ],
+   "startF": 208,
+   "endF": 299
+  },
+  {
+   "words": [
+    {
+     "word": "لمخالفات",
+     "startF": 300,
+     "endF": 327
+    },
+    {
+     "word": "دستورية",
+     "startF": 327,
+     "endF": 352
+    },
+    {
+     "word": "بعد",
+     "startF": 352,
+     "endF": 360
+    },
+    {
+     "word": "أقل",
+     "startF": 360,
+     "endF": 374
+    },
+    {
+     "word": "من",
+     "startF": 374,
+     "endF": 379
+    }
+   ],
+   "startF": 300,
+   "endF": 379
+  },
+  {
+   "words": [
+    {
+     "word": "عامين",
+     "startF": 379,
+     "endF": 397
+    }
+   ],
+   "startF": 379,
+   "endF": 397
+  },
+  {
+   "words": [
+    {
+     "word": "وفي",
+     "startF": 422,
+     "endF": 433
+    },
+    {
+     "word": "سرقة",
+     "startF": 437,
+     "endF": 453
+    },
+    {
+     "word": "القرن",
+     "startF": 454,
+     "endF": 471
+    },
+    {
+     "word": "اختفى",
+     "startF": 478,
+     "endF": 493
+    },
+    {
+     "word": "مليارا",
+     "startF": 493,
+     "endF": 508
+    }
+   ],
+   "startF": 422,
+   "endF": 508
+  },
+  {
+   "words": [
+    {
+     "word": "دولار",
+     "startF": 509,
+     "endF": 523
+    },
+    {
+     "word": "ونصف",
+     "startF": 524,
+     "endF": 535
+    },
+    {
+     "word": "المليار",
+     "startF": 535,
+     "endF": 553
+    },
+    {
+     "word": "من",
+     "startF": 553,
+     "endF": 557
+    },
+    {
+     "word": "أمانات",
+     "startF": 558,
+     "endF": 572
+    }
+   ],
+   "startF": 509,
+   "endF": 572
+  },
+  {
+   "words": [
+    {
+     "word": "الضرائب",
+     "startF": 572,
+     "endF": 594
+    },
+    {
+     "word": "ولم",
+     "startF": 602,
+     "endF": 612
+    },
+    {
+     "word": "يُسترد",
+     "startF": 612,
+     "endF": 626
+    },
+    {
+     "word": "منها",
+     "startF": 627,
+     "endF": 636
+    },
+    {
+     "word": "إلا",
+     "startF": 636,
+     "endF": 645
+    }
+   ],
+   "startF": 572,
+   "endF": 645
+  },
+  {
+   "words": [
+    {
+     "word": "نحو",
+     "startF": 645,
+     "endF": 656
+    },
+    {
+     "word": "مئة",
+     "startF": 656,
+     "endF": 668
+    },
+    {
+     "word": "وخمسة",
+     "startF": 668,
+     "endF": 688
+    },
+    {
+     "word": "وعشرين",
+     "startF": 688,
+     "endF": 706
+    },
+    {
+     "word": "مليوناً",
+     "startF": 707,
+     "endF": 729
+    }
+   ],
+   "startF": 645,
+   "endF": 729
+  },
+  {
+   "words": [
+    {
+     "word": "اليوم",
+     "startF": 754,
+     "endF": 774
+    },
+    {
+     "word": "لا",
+     "startF": 781,
+     "endF": 788
+    },
+    {
+     "word": "لوائح",
+     "startF": 789,
+     "endF": 802
+    },
+    {
+     "word": "اتهام",
+     "startF": 802,
+     "endF": 817
+    },
+    {
+     "word": "معلنة",
+     "startF": 817,
+     "endF": 836
+    }
+   ],
+   "startF": 754,
+   "endF": 836
+  },
+  {
+   "words": [
+    {
+     "word": "بعد",
+     "startF": 836,
+     "endF": 849
+    },
+    {
+     "word": "والعملية",
+     "startF": 856,
+     "endF": 880
+    },
+    {
+     "word": "محددة",
+     "startF": 880,
+     "endF": 902
+    },
+    {
+     "word": "بستة",
+     "startF": 902,
+     "endF": 917
+    },
+    {
+     "word": "أشهر",
+     "startF": 917,
+     "endF": 935
+    }
+   ],
+   "startF": 836,
+   "endF": 935
+  },
+  {
+   "words": [
+    {
+     "word": "وفي",
+     "startF": 941,
+     "endF": 951
+    },
+    {
+     "word": "مسار",
+     "startF": 951,
+     "endF": 966
+    },
+    {
+     "word": "موازٍ",
+     "startF": 966,
+     "endF": 984
+    },
+    {
+     "word": "حددت",
+     "startF": 991,
+     "endF": 1005
+    },
+    {
+     "word": "الحكومة",
+     "startF": 1006,
+     "endF": 1023
+    }
+   ],
+   "startF": 941,
+   "endF": 1023
+  },
+  {
+   "words": [
+    {
+     "word": "الثلاثين",
+     "startF": 1023,
+     "endF": 1042
+    },
+    {
+     "word": "من",
+     "startF": 1042,
+     "endF": 1047
+    },
+    {
+     "word": "أيلول",
+     "startF": 1047,
+     "endF": 1061
+    },
+    {
+     "word": "موعداً",
+     "startF": 1062,
+     "endF": 1077
+    },
+    {
+     "word": "لحصر",
+     "startF": 1077,
+     "endF": 1091
+    }
+   ],
+   "startF": 1023,
+   "endF": 1091
+  },
+  {
+   "words": [
+    {
+     "word": "السلاح",
+     "startF": 1091,
+     "endF": 1110
+    }
+   ],
+   "startF": 1091,
+   "endF": 1110
+  },
+  {
+   "words": [
+    {
+     "word": "سجل",
+     "startF": 1136,
+     "endF": 1148
+    },
+    {
+     "word": "الحملات",
+     "startF": 1148,
+     "endF": 1164
+    },
+    {
+     "word": "السابقة",
+     "startF": 1164,
+     "endF": 1185
+    },
+    {
+     "word": "قليل",
+     "startF": 1185,
+     "endF": 1197
+    },
+    {
+     "word": "الإدانات",
+     "startF": 1197,
+     "endF": 1213
+    }
+   ],
+   "startF": 1136,
+   "endF": 1213
+  },
+  {
+   "words": [
+    {
+     "word": "الكبرى",
+     "startF": 1213,
+     "endF": 1232
+    },
+    {
+     "word": "بحسب",
+     "startF": 1238,
+     "endF": 1256
+    },
+    {
+     "word": "تشاتام",
+     "startF": 1256,
+     "endF": 1275
+    },
+    {
+     "word": "هاوس",
+     "startF": 1275,
+     "endF": 1292
+    }
+   ],
+   "startF": 1213,
+   "endF": 1292
+  },
+  {
+   "words": [
+    {
+     "word": "هذا",
+     "startF": 1317,
+     "endF": 1329
+    },
+    {
+     "word": "كان",
+     "startF": 1329,
+     "endF": 1337
+    },
+    {
+     "word": "الملف",
+     "startF": 1337,
+     "endF": 1356
+    }
+   ],
+   "startF": 1317,
+   "endF": 1356
+  },
+  {
+   "words": [
+    {
+     "word": "تابعونا",
+     "startF": 1382,
+     "endF": 1407
+    }
+   ],
+   "startF": 1382,
+   "endF": 1407
+  },
+  {
+   "words": [
+    {
+     "word": "هل",
+     "startF": 1432,
+     "endF": 1439
+    },
+    {
+     "word": "تكسر",
+     "startF": 1439,
+     "endF": 1452
+    },
+    {
+     "word": "هذه",
+     "startF": 1452,
+     "endF": 1462
+    },
+    {
+     "word": "الحملة",
+     "startF": 1462,
+     "endF": 1477
+    },
+    {
+     "word": "القاعدة",
+     "startF": 1477,
+     "endF": 1499
+    }
+   ],
+   "startF": 1432,
+   "endF": 1499
+  }
+ ],
+ "statPops": [
+  {
+   "value": "$2.5 مليار",
+   "labelArabic": "سرقة القرن — 2022",
+   "atFrame": 491,
+   "holdFrames": 75
+  },
+  {
+   "value": "$125 مليون",
+   "labelArabic": "المبلغ المسترد فقط",
+   "atFrame": 705,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "هل تكسر هذه الحملة القاعدة؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: سجلات المحكمة الاتحادية 2022 · تشاتام هاوس · OCCRP",
+ "totalFrames": 1600
+}

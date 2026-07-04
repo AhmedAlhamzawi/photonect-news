@@ -1,0 +1,645 @@
+{
+ "kicker": "الملف 1/7",
+ "hookHeadline": "خمس ساعات هزّت المنطقة الخضراء",
+ "vo": "vo/2026-07-04-almalaf-ep1-raid/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/hero.jpg",
+   "startF": 0,
+   "durationF": 98,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_1.jpg",
+   "startF": 98,
+   "durationF": 92,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_2.jpg",
+   "startF": 190,
+   "durationF": 93,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_3.jpg",
+   "startF": 283,
+   "durationF": 87,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/hero.jpg",
+   "startF": 370,
+   "durationF": 107,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_1.jpg",
+   "startF": 477,
+   "durationF": 88,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_2.jpg",
+   "startF": 565,
+   "durationF": 94,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_3.jpg",
+   "startF": 659,
+   "durationF": 84,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/hero.jpg",
+   "startF": 743,
+   "durationF": 85,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_1.jpg",
+   "startF": 828,
+   "durationF": 104,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_2.jpg",
+   "startF": 932,
+   "durationF": 94,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_3.jpg",
+   "startF": 1026,
+   "durationF": 98,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/hero.jpg",
+   "startF": 1124,
+   "durationF": 102,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep1-raid/broll_1.jpg",
+   "startF": 1226,
+   "durationF": 151,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "قبل",
+     "startF": 3,
+     "endF": 11
+    },
+    {
+     "word": "الفجر",
+     "startF": 12,
+     "endF": 28
+    },
+    {
+     "word": "دخل",
+     "startF": 34,
+     "endF": 48
+    },
+    {
+     "word": "جهاز",
+     "startF": 48,
+     "endF": 61
+    },
+    {
+     "word": "مكافحة",
+     "startF": 62,
+     "endF": 81
+    }
+   ],
+   "startF": 3,
+   "endF": 81
+  },
+  {
+   "words": [
+    {
+     "word": "الإرهاب",
+     "startF": 81,
+     "endF": 98
+    },
+    {
+     "word": "قلبَ",
+     "startF": 98,
+     "endF": 106
+    },
+    {
+     "word": "المنطقة",
+     "startF": 107,
+     "endF": 123
+    },
+    {
+     "word": "الخضراء",
+     "startF": 124,
+     "endF": 140
+    },
+    {
+     "word": "في",
+     "startF": 141,
+     "endF": 145
+    }
+   ],
+   "startF": 81,
+   "endF": 145
+  },
+  {
+   "words": [
+    {
+     "word": "بغداد",
+     "startF": 146,
+     "endF": 165
+    }
+   ],
+   "startF": 146,
+   "endF": 165
+  },
+  {
+   "words": [
+    {
+     "word": "خمس",
+     "startF": 190,
+     "endF": 201
+    },
+    {
+     "word": "ساعات",
+     "startF": 201,
+     "endF": 217
+    },
+    {
+     "word": "من",
+     "startF": 218,
+     "endF": 222
+    },
+    {
+     "word": "المداهمات",
+     "startF": 223,
+     "endF": 246
+    },
+    {
+     "word": "في",
+     "startF": 246,
+     "endF": 248
+    }
+   ],
+   "startF": 190,
+   "endF": 248
+  },
+  {
+   "words": [
+    {
+     "word": "الثامن",
+     "startF": 249,
+     "endF": 263
+    },
+    {
+     "word": "والعشرين",
+     "startF": 264,
+     "endF": 283
+    },
+    {
+     "word": "من",
+     "startF": 283,
+     "endF": 287
+    },
+    {
+     "word": "حزيران",
+     "startF": 288,
+     "endF": 311
+    },
+    {
+     "word": "بمذكرات",
+     "startF": 318,
+     "endF": 345
+    }
+   ],
+   "startF": 249,
+   "endF": 345
+  },
+  {
+   "words": [
+    {
+     "word": "من",
+     "startF": 346,
+     "endF": 350
+    },
+    {
+     "word": "المحكمة",
+     "startF": 351,
+     "endF": 369
+    },
+    {
+     "word": "الجنائية",
+     "startF": 370,
+     "endF": 389
+    },
+    {
+     "word": "المركزية",
+     "startF": 389,
+     "endF": 414
+    },
+    {
+     "word": "لقضايا",
+     "startF": 414,
+     "endF": 431
+    }
+   ],
+   "startF": 346,
+   "endF": 431
+  },
+  {
+   "words": [
+    {
+     "word": "الفساد",
+     "startF": 431,
+     "endF": 451
+    }
+   ],
+   "startF": 431,
+   "endF": 451
+  },
+  {
+   "words": [
+    {
+     "word": "النتيجة",
+     "startF": 477,
+     "endF": 497
+    },
+    {
+     "word": "وفق",
+     "startF": 498,
+     "endF": 508
+    },
+    {
+     "word": "وكالة",
+     "startF": 508,
+     "endF": 522
+    },
+    {
+     "word": "الأنباء",
+     "startF": 522,
+     "endF": 534
+    },
+    {
+     "word": "العراقية",
+     "startF": 535,
+     "endF": 559
+    }
+   ],
+   "startF": 477,
+   "endF": 559
+  },
+  {
+   "words": [
+    {
+     "word": "سبعة",
+     "startF": 565,
+     "endF": 577
+    },
+    {
+     "word": "وأربعون",
+     "startF": 577,
+     "endF": 596
+    },
+    {
+     "word": "موقوفاً",
+     "startF": 596,
+     "endF": 613
+    },
+    {
+     "word": "على",
+     "startF": 614,
+     "endF": 622
+    },
+    {
+     "word": "ذمة",
+     "startF": 622,
+     "endF": 632
+    }
+   ],
+   "startF": 565,
+   "endF": 632
+  },
+  {
+   "words": [
+    {
+     "word": "التحقيق",
+     "startF": 632,
+     "endF": 653
+    },
+    {
+     "word": "بينهم",
+     "startF": 659,
+     "endF": 675
+    },
+    {
+     "word": "اثنا",
+     "startF": 675,
+     "endF": 685
+    },
+    {
+     "word": "عشر",
+     "startF": 686,
+     "endF": 698
+    },
+    {
+     "word": "نائباً",
+     "startF": 698,
+     "endF": 718
+    }
+   ],
+   "startF": 632,
+   "endF": 718
+  },
+  {
+   "words": [
+    {
+     "word": "الحكومة",
+     "startF": 743,
+     "endF": 766
+    },
+    {
+     "word": "سمّتها",
+     "startF": 766,
+     "endF": 787
+    },
+    {
+     "word": "صولة",
+     "startF": 791,
+     "endF": 805
+    },
+    {
+     "word": "الفجر",
+     "startF": 805,
+     "endF": 823
+    },
+    {
+     "word": "وقالت",
+     "startF": 828,
+     "endF": 845
+    }
+   ],
+   "startF": 743,
+   "endF": 845
+  },
+  {
+   "words": [
+    {
+     "word": "إنها",
+     "startF": 846,
+     "endF": 856
+    },
+    {
+     "word": "المرحلة",
+     "startF": 856,
+     "endF": 874
+    },
+    {
+     "word": "الأولى",
+     "startF": 874,
+     "endF": 887
+    },
+    {
+     "word": "من",
+     "startF": 887,
+     "endF": 891
+    },
+    {
+     "word": "عملية",
+     "startF": 892,
+     "endF": 913
+    }
+   ],
+   "startF": 846,
+   "endF": 913
+  },
+  {
+   "words": [
+    {
+     "word": "تستمر",
+     "startF": 913,
+     "endF": 931
+    },
+    {
+     "word": "ستة",
+     "startF": 932,
+     "endF": 944
+    },
+    {
+     "word": "أشهر",
+     "startF": 944,
+     "endF": 962
+    }
+   ],
+   "startF": 913,
+   "endF": 962
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 988,
+     "endF": 1000
+    },
+    {
+     "word": "في",
+     "startF": 1001,
+     "endF": 1003
+    },
+    {
+     "word": "الملف",
+     "startF": 1003,
+     "endF": 1020
+    },
+    {
+     "word": "الاعتراف",
+     "startF": 1026,
+     "endF": 1047
+    },
+    {
+     "word": "الذي",
+     "startF": 1048,
+     "endF": 1058
+    }
+   ],
+   "startF": 988,
+   "endF": 1058
+  },
+  {
+   "words": [
+    {
+     "word": "فتح",
+     "startF": 1058,
+     "endF": 1070
+    },
+    {
+     "word": "كل",
+     "startF": 1071,
+     "endF": 1077
+    },
+    {
+     "word": "الأبواب",
+     "startF": 1077,
+     "endF": 1098
+    }
+   ],
+   "startF": 1058,
+   "endF": 1098
+  },
+  {
+   "words": [
+    {
+     "word": "سبعة",
+     "startF": 1124,
+     "endF": 1140
+    },
+    {
+     "word": "وأربعون",
+     "startF": 1141,
+     "endF": 1161
+    },
+    {
+     "word": "في",
+     "startF": 1161,
+     "endF": 1166
+    },
+    {
+     "word": "ليلة",
+     "startF": 1166,
+     "endF": 1180
+    },
+    {
+     "word": "واحدة",
+     "startF": 1181,
+     "endF": 1201
+    }
+   ],
+   "startF": 1124,
+   "endF": 1201
+  },
+  {
+   "words": [
+    {
+     "word": "هل",
+     "startF": 1226,
+     "endF": 1232
+    },
+    {
+     "word": "هذه",
+     "startF": 1232,
+     "endF": 1241
+    },
+    {
+     "word": "البداية",
+     "startF": 1242,
+     "endF": 1259
+    },
+    {
+     "word": "فقط",
+     "startF": 1259,
+     "endF": 1277
+    }
+   ],
+   "startF": 1226,
+   "endF": 1277
+  }
+ ],
+ "statPops": [
+  {
+   "value": "47",
+   "labelArabic": "موقوفاً وفق الإعلام الرسمي",
+   "atFrame": 594,
+   "holdFrames": 75
+  },
+  {
+   "value": "12",
+   "labelArabic": "نائباً بين الموقوفين",
+   "atFrame": 696,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "سبعة وأربعون في ليلة واحدة... هل هذه البداية فقط؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: وكالة الأنباء العراقية · الجزيرة · شفق نيوز",
+ "totalFrames": 1377
+}

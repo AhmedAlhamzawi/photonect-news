@@ -1,0 +1,646 @@
+{
+ "kicker": "الملف 6/7",
+ "hookHeadline": "الكل يؤيد... والأسئلة تبدأ",
+ "vo": "vo/2026-07-04-almalaf-ep6-echoes/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/hero.jpg",
+   "startF": 0,
+   "durationF": 107,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_1.jpg",
+   "startF": 107,
+   "durationF": 93,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_2.jpg",
+   "startF": 200,
+   "durationF": 125,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_3.jpg",
+   "startF": 325,
+   "durationF": 88,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/hero.jpg",
+   "startF": 413,
+   "durationF": 100,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_1.jpg",
+   "startF": 513,
+   "durationF": 109,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_2.jpg",
+   "startF": 622,
+   "durationF": 84,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_3.jpg",
+   "startF": 706,
+   "durationF": 110,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/hero.jpg",
+   "startF": 816,
+   "durationF": 94,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_1.jpg",
+   "startF": 910,
+   "durationF": 114,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_2.jpg",
+   "startF": 1024,
+   "durationF": 100,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_3.jpg",
+   "startF": 1124,
+   "durationF": 101,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/hero.jpg",
+   "startF": 1225,
+   "durationF": 102,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep6-echoes/broll_1.jpg",
+   "startF": 1327,
+   "durationF": 178,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "الجميع",
+     "startF": 3,
+     "endF": 23
+    },
+    {
+     "word": "أيّد",
+     "startF": 23,
+     "endF": 33
+    },
+    {
+     "word": "الحملة",
+     "startF": 33,
+     "endF": 49
+    },
+    {
+     "word": "علناً",
+     "startF": 50,
+     "endF": 67
+    },
+    {
+     "word": "لكن",
+     "startF": 73,
+     "endF": 86
+    }
+   ],
+   "startF": 3,
+   "endF": 86
+  },
+  {
+   "words": [
+    {
+     "word": "بلهجات",
+     "startF": 86,
+     "endF": 107
+    },
+    {
+     "word": "مختلفة",
+     "startF": 107,
+     "endF": 132
+    }
+   ],
+   "startF": 86,
+   "endF": 132
+  },
+  {
+   "words": [
+    {
+     "word": "المالكي",
+     "startF": 158,
+     "endF": 179
+    },
+    {
+     "word": "قال",
+     "startF": 180,
+     "endF": 195
+    },
+    {
+     "word": "امضوا",
+     "startF": 200,
+     "endF": 213
+    },
+    {
+     "word": "حتى",
+     "startF": 213,
+     "endF": 221
+    },
+    {
+     "word": "النهاية",
+     "startF": 221,
+     "endF": 242
+    }
+   ],
+   "startF": 158,
+   "endF": 242
+  },
+  {
+   "words": [
+    {
+     "word": "بحسب",
+     "startF": 249,
+     "endF": 268
+    },
+    {
+     "word": "شفق",
+     "startF": 268,
+     "endF": 279
+    },
+    {
+     "word": "نيوز",
+     "startF": 280,
+     "endF": 300
+    }
+   ],
+   "startF": 249,
+   "endF": 300
+  },
+  {
+   "words": [
+    {
+     "word": "والصدر",
+     "startF": 325,
+     "endF": 342
+    },
+    {
+     "word": "وصفها",
+     "startF": 342,
+     "endF": 360
+    },
+    {
+     "word": "بالبطولية",
+     "startF": 361,
+     "endF": 388
+    }
+   ],
+   "startF": 325,
+   "endF": 388
+  },
+  {
+   "words": [
+    {
+     "word": "ائتلاف",
+     "startF": 413,
+     "endF": 429
+    },
+    {
+     "word": "السوداني",
+     "startF": 429,
+     "endF": 448
+    },
+    {
+     "word": "أعلن",
+     "startF": 449,
+     "endF": 462
+    },
+    {
+     "word": "دعمه",
+     "startF": 462,
+     "endF": 476
+    },
+    {
+     "word": "لكنه",
+     "startF": 482,
+     "endF": 499
+    }
+   ],
+   "startF": 413,
+   "endF": 499
+  },
+  {
+   "words": [
+    {
+     "word": "حذّر",
+     "startF": 500,
+     "endF": 512
+    },
+    {
+     "word": "من",
+     "startF": 513,
+     "endF": 519
+    },
+    {
+     "word": "التسييس",
+     "startF": 523,
+     "endF": 548
+    },
+    {
+     "word": "فيما",
+     "startF": 555,
+     "endF": 566
+    },
+    {
+     "word": "طالت",
+     "startF": 566,
+     "endF": 576
+    }
+   ],
+   "startF": 500,
+   "endF": 576
+  },
+  {
+   "words": [
+    {
+     "word": "التوقيفات",
+     "startF": 577,
+     "endF": 599
+    },
+    {
+     "word": "شخصيات",
+     "startF": 600,
+     "endF": 622
+    },
+    {
+     "word": "محسوبة",
+     "startF": 622,
+     "endF": 642
+    },
+    {
+     "word": "عليه",
+     "startF": 643,
+     "endF": 659
+    }
+   ],
+   "startF": 577,
+   "endF": 659
+  },
+  {
+   "words": [
+    {
+     "word": "وتحالف",
+     "startF": 685,
+     "endF": 706
+    },
+    {
+     "word": "عزم",
+     "startF": 706,
+     "endF": 721
+    },
+    {
+     "word": "الموقوف",
+     "startF": 728,
+     "endF": 749
+    },
+    {
+     "word": "زعيمه",
+     "startF": 750,
+     "endF": 769
+    },
+    {
+     "word": "يطالب",
+     "startF": 773,
+     "endF": 792
+    }
+   ],
+   "startF": 685,
+   "endF": 792
+  },
+  {
+   "words": [
+    {
+     "word": "بضمانات",
+     "startF": 792,
+     "endF": 815
+    },
+    {
+     "word": "دستورية",
+     "startF": 816,
+     "endF": 840
+    }
+   ],
+   "startF": 792,
+   "endF": 840
+  },
+  {
+   "words": [
+    {
+     "word": "أما",
+     "startF": 865,
+     "endF": 874
+    },
+    {
+     "word": "محللو",
+     "startF": 875,
+     "endF": 890
+    },
+    {
+     "word": "الجزيرة",
+     "startF": 890,
+     "endF": 910
+    },
+    {
+     "word": "فيرصدون",
+     "startF": 910,
+     "endF": 932
+    },
+    {
+     "word": "سؤال",
+     "startF": 933,
+     "endF": 944
+    }
+   ],
+   "startF": 865,
+   "endF": 944
+  },
+  {
+   "words": [
+    {
+     "word": "الانتقائية",
+     "startF": 944,
+     "endF": 973
+    },
+    {
+     "word": "من",
+     "startF": 979,
+     "endF": 986
+    },
+    {
+     "word": "يُستهدف",
+     "startF": 987,
+     "endF": 1009
+    },
+    {
+     "word": "ومن",
+     "startF": 1012,
+     "endF": 1024
+    },
+    {
+     "word": "لا",
+     "startF": 1024,
+     "endF": 1027
+    }
+   ],
+   "startF": 944,
+   "endF": 1027
+  },
+  {
+   "words": [
+    {
+     "word": "يُستهدف",
+     "startF": 1028,
+     "endF": 1050
+    }
+   ],
+   "startF": 1028,
+   "endF": 1050
+  },
+  {
+   "words": [
+    {
+     "word": "كل",
+     "startF": 1076,
+     "endF": 1083
+    },
+    {
+     "word": "الموقوفين",
+     "startF": 1083,
+     "endF": 1105
+    },
+    {
+     "word": "على",
+     "startF": 1105,
+     "endF": 1113
+    },
+    {
+     "word": "ذمة",
+     "startF": 1113,
+     "endF": 1124
+    },
+    {
+     "word": "التحقيق",
+     "startF": 1124,
+     "endF": 1147
+    }
+   ],
+   "startF": 1076,
+   "endF": 1147
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 1172,
+     "endF": 1184
+    },
+    {
+     "word": "في",
+     "startF": 1184,
+     "endF": 1186
+    },
+    {
+     "word": "الملف",
+     "startF": 1186,
+     "endF": 1204
+    },
+    {
+     "word": "مصير",
+     "startF": 1211,
+     "endF": 1225
+    },
+    {
+     "word": "كل",
+     "startF": 1225,
+     "endF": 1231
+    }
+   ],
+   "startF": 1172,
+   "endF": 1231
+  },
+  {
+   "words": [
+    {
+     "word": "الحملات",
+     "startF": 1232,
+     "endF": 1248
+    },
+    {
+     "word": "السابقة",
+     "startF": 1248,
+     "endF": 1273
+    }
+   ],
+   "startF": 1232,
+   "endF": 1273
+  },
+  {
+   "words": [
+    {
+     "word": "هل",
+     "startF": 1299,
+     "endF": 1306
+    },
+    {
+     "word": "يصمد",
+     "startF": 1306,
+     "endF": 1320
+    },
+    {
+     "word": "هذا",
+     "startF": 1320,
+     "endF": 1326
+    },
+    {
+     "word": "الإجماع",
+     "startF": 1327,
+     "endF": 1343
+    },
+    {
+     "word": "إذا",
+     "startF": 1344,
+     "endF": 1349
+    }
+   ],
+   "startF": 1299,
+   "endF": 1349
+  },
+  {
+   "words": [
+    {
+     "word": "اقترب",
+     "startF": 1350,
+     "endF": 1361
+    },
+    {
+     "word": "التحقيق",
+     "startF": 1362,
+     "endF": 1380
+    },
+    {
+     "word": "من",
+     "startF": 1380,
+     "endF": 1386
+    },
+    {
+     "word": "الجميع",
+     "startF": 1386,
+     "endF": 1405
+    }
+   ],
+   "startF": 1350,
+   "endF": 1405
+  }
+ ],
+ "statPops": [
+  {
+   "value": "«امضوا حتى النهاية»",
+   "labelArabic": "المالكي — شفق نيوز",
+   "atFrame": 198,
+   "holdFrames": 75
+  },
+  {
+   "value": "«التسييس»",
+   "labelArabic": "تحذير ائتلاف السوداني",
+   "atFrame": 521,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "هل يصمد هذا الإجماع إذا اقترب التحقيق من الجميع؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: شفق نيوز · الجزيرة · ألترا عراق",
+ "totalFrames": 1505
+}

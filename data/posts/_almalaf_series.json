@@ -1,0 +1,211 @@
+{
+ "episodes": [
+  {
+   "ep": 1,
+   "slug": "almalaf-ep1-raid",
+   "titleArabic": "الملف ١/٧ — الغارة",
+   "hookHeadline": "خمس ساعات هزّت المنطقة الخضراء",
+   "voText": "قبل الفجر، دخل جهاز مكافحة الإرهاب قلبَ المنطقة الخضراء في بغداد. خمس ساعات من المداهمات في الثامن والعشرين من حزيران، بمذكرات من المحكمة الجنائية المركزية لقضايا الفساد. النتيجة وفق وكالة الأنباء العراقية: سبعة وأربعون موقوفاً على ذمة التحقيق، بينهم اثنا عشر نائباً. الحكومة سمّتها \"صولة الفجر\"، وقالت إنها المرحلة الأولى من عملية تستمر ستة أشهر. غداً في الملف: الاعتراف الذي فتح كل الأبواب. سبعة وأربعون في ليلة واحدة... هل هذه البداية فقط؟",
+   "endQuestion": "سبعة وأربعون في ليلة واحدة... هل هذه البداية فقط؟",
+   "cliffhanger": "غداً في الملف: الاعتراف الذي فتح كل الأبواب.",
+   "sourcesLine": "المصادر: وكالة الأنباء العراقية · الجزيرة · شفق نيوز",
+   "statPops": [
+    {
+     "value": "47",
+     "label": "موقوفاً وفق الإعلام الرسمي",
+     "matchWord": "موقوفاً"
+    },
+    {
+     "value": "12",
+     "label": "نائباً بين الموقوفين",
+     "matchWord": "نائباً"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, pre-dawn blue hour over Baghdad: the Tigris river reflecting scattered sodium streetlights, silhouetted palm trees and distant minarets, thin haze over the water, moody cinematic 35mm film look, natural grain, vertical 9:16 composition. No text, no letters, no logos, no watermarks, no UI elements, no screens, no recognizable faces.",
+    "Photorealistic documentary still, column of dark armored SUVs with headlights cutting through an empty Baghdad boulevard at night, tall concrete blast walls lining the road, dust drifting through the light beams, long-lens compression, cinematic night exposure, vertical 9:16. No license plates, no insignia, no text, no logos, no watermarks, no UI, no recognizable faces.",
+    "Photorealistic documentary still, anonymous special-forces soldiers seen strictly from behind walking in single file past tall concrete T-walls under orange sodium practical light at night, plain tactical gear without any insignia, hard cinematic shadows, film grain, vertical 9:16. No faces visible, no text, no letters, no logos, no watermarks, no UI, no screens.",
+    "Photorealistic documentary still, empty marble corridor of a grand government palace at first light, tall gilded doors ajar, a single shaft of dawn sunlight with floating dust, chandeliers switched off, the silence after commotion, cinematic 35mm, vertical 9:16. No text, no logos, no watermarks, no UI, no screens, no people, no recognizable faces."
+   ],
+   "caption": "47 موقوفاً في 5 ساعات: ليلة صولة الفجر في المنطقة الخضراء\nالحلقة ١: القصة الموثقة لليلة الغارة — من المذكرات القضائية إلى الأسماء.\nهل هذه البداية فقط؟\nالمصادر: وكالة الأنباء العراقية، الجزيرة، شفق نيوز\n@photonect.news | الملف ١/٧\n#العراق #بغداد #المنطقة_الخضراء #مكافحة_الفساد #صولة_الفجر",
+   "useZaidiPortrait": false
+  },
+  {
+   "ep": 2,
+   "slug": "almalaf-ep2-confessions",
+   "titleArabic": "الملف ٢/٧ — الاعترافات",
+   "hookHeadline": "هل فتح رجل واحد كل الملفات؟",
+   "voText": "قبل الغارة بأسابيع، في الثلاثين من أيار، أُوقف وكيل وزارة النفط عدنان الجميلي بهدوء تام. وفق مجلس القضاء الأعلى، قاد التحقيق معه إلى ملفات عمولات في عقود المصافي. اعترافات منسوبة إليه، بحسب تقارير الجزيرة، رسمت شبكة أوسع من الأسماء والحسابات. وبعد أقل من شهر، تحوّلت تلك الأقوال إلى مذكرات توقيف طالت مسؤولين ونواباً. هو موقوف على ذمة التحقيق، ولم تصدر بحقه إدانة. غداً في الملف: أموال مدفونة تحت الأرض. اعتراف واحد... فماذا لو تكلم الجميع؟",
+   "endQuestion": "اعتراف واحد... فماذا لو تكلم الجميع؟",
+   "cliffhanger": "غداً في الملف: أموال مدفونة تحت الأرض.",
+   "sourcesLine": "المصادر: مجلس القضاء الأعلى · الجزيرة · شفق نيوز",
+   "statPops": [
+    {
+     "value": "30 أيار",
+     "label": "تاريخ توقيف الجميلي",
+     "matchWord": "الثلاثين"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, a single empty metal chair under one hanging practical bulb in a dim bare concrete room, cinematic chiaroscuro, subtle haze in the light cone, cold institutional atmosphere, 35mm film grain, vertical 9:16 composition. No text, no letters, no logos, no watermarks, no UI, no screens, no people, no recognizable faces.",
+    "Photorealistic documentary still, southern Iraqi oil refinery at golden hour, a flare stack burning against an amber hazy sky, pipes and cooling towers in dark silhouette, heat shimmer, long-lens documentary frame, cinematic color grade, vertical 9:16. No text, no logos, no signage, no watermarks, no UI, no recognizable faces.",
+    "Photorealistic documentary still, tall stack of completely blank unlabeled manila case folders tied with string on a dark wooden desk, warm desk-lamp practical light, deep shadows around, shallow depth of field, cinematic macro documentary feel, vertical 9:16. Folders entirely blank — no text, no letters, no logos, no watermarks, no UI, no screens, no faces.",
+    "Photorealistic documentary still, a lone man in a dark suit seen only from behind descending broad stone courthouse steps at dawn, long shadow stretching down the steps, warm golden rim light, anonymous figure, cinematic 35mm, vertical 9:16. Face fully unseen, no text, no logos, no watermarks, no UI, no screens."
+   ],
+   "caption": "اعترافات منسوبة إلى وكيل وزارة النفط: الشرارة التي سبقت الغارة بشهر\nالحلقة ٢: من توقيف هادئ في أيار إلى شبكة مذكرات طالت مسؤولين ونواباً.\nفماذا لو تكلم الجميع؟\nالمصادر: مجلس القضاء الأعلى، الجزيرة، شفق نيوز\n@photonect.news | الملف ٢/٧\n#العراق #وزارة_النفط #مكافحة_الفساد #بغداد #صولة_الفجر",
+   "useZaidiPortrait": false
+  },
+  {
+   "ep": 3,
+   "slug": "almalaf-ep3-buried-money",
+   "titleArabic": "الملف ٣/٧ — المال المدفون",
+   "hookHeadline": "أموال مدفونة على عمق أربعة أمتار",
+   "voText": "سبعة وستون مليار دينار، وُجد قسم منها مدفوناً على عمق أربعة أمتار تحت الأرض. هذا ما أعلنه مجلس القضاء الأعلى في قضية وكيل وزارة النفط الموقوف. الحصيلة التراكمية وفق المجلس: ثمانية وتسعون مليار دينار، وأحد عشر مليون دولار نقداً، وسبعون عقاراً، وواحد وعشرون مركبة، ونحو ثلاثة كيلوغرامات من الذهب. وأمرت الحكومة بفتح حساب خاص للأموال المستردة. كل ذلك قبل صدور أي إدانة. غداً في الملف: سقوط حصانة النواب في ليلة واحدة. أين كانت هذه الأموال طوال السنوات الماضية؟",
+   "endQuestion": "أين كانت هذه الأموال طوال السنوات الماضية؟",
+   "cliffhanger": "غداً في الملف: سقوط حصانة النواب في ليلة واحدة.",
+   "sourcesLine": "المصادر: مجلس القضاء الأعلى عبر الجزيرة · غلف نيوز",
+   "statPops": [
+    {
+     "value": "67 مليار دينار",
+     "label": "قسم منها مدفون تحت الأرض",
+     "matchWord": "وستون"
+    },
+    {
+     "value": "4 أمتار",
+     "label": "عمق الدفن — مجلس القضاء",
+     "matchWord": "أمتار"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, a deep freshly dug pit in dry ochre earth at golden hour, a shovel and a mound of excavated soil beside it, hard raking sunlight falling into the dark hole, forensic documentary atmosphere, dust in the air, 35mm grain, vertical 9:16. No text, no logos, no watermarks, no UI, no screens, no people, no recognizable faces.",
+    "Photorealistic documentary still, an opened dusty metal trunk in a dim storage room filled with tightly shrink-wrapped plain unmarked paper bundles, a single work-light practical casting high contrast shadows, evidence-room realism, cinematic 35mm, vertical 9:16. Bundles completely unmarked — no currency detail, no text, no letters, no numbers, no logos, no watermarks, no UI, no faces.",
+    "Photorealistic documentary still, a small pile of unmarked smooth gold ingots on dark cloth beside an old brass balance scale, warm tungsten practical light, deep black background, macro shallow depth of field, cinematic documentary still, vertical 9:16. Ingots without stamps — no text, no letters, no numbers, no logos, no watermarks, no UI, no faces.",
+    "Photorealistic documentary still, a row of luxury SUVs covered in grey tarps inside a dusty walled impound lot at golden hour, long shadows across cracked concrete, haze, quiet aftermath mood, long-lens documentary frame, vertical 9:16. No badges, no license plates, no text, no logos, no watermarks, no UI, no recognizable faces."
+   ],
+   "caption": "67 مليار دينار... قسم منها مدفون على عمق 4 أمتار تحت الأرض\nالحلقة ٣: جرد المضبوطات وفق مجلس القضاء الأعلى — نقد وذهب وعقارات ومركبات.\nأين كانت هذه الأموال طوال السنوات الماضية؟\nالمصادر: مجلس القضاء الأعلى عبر الجزيرة، غلف نيوز\n@photonect.news | الملف ٣/٧\n#العراق #المال_المدفون #مكافحة_الفساد #بغداد #الدينار_العراقي",
+   "useZaidiPortrait": false
+  },
+  {
+   "ep": 4,
+   "slug": "almalaf-ep4-immunity",
+   "titleArabic": "الملف ٤/٧ — الحصانة",
+   "hookHeadline": "حصانة النواب سقطت في ليلة",
+   "voText": "في ليلة واحدة، سقطت الحصانة عن اثني عشر نائباً. وفق الجزيرة، جرى رفع الحصانة عبر رئاسة مجلس النواب خلال العطلة التشريعية. وبعد يومين، رفعت المحاكم الحصانة عن ثلاثة نواب آخرين بحسب شفق نيوز. لكن دستورية هذه الآلية محل جدل: تحالف عزم، الذي أُوقف زعيمه، يطالب بضمانات دستورية ومحاكمة عادلة. والموقوفون جميعاً على ذمة التحقيق. غداً في الملف: الرجل الذي وقف خلف القرار. هل تصمد هذه الآلية أمام الطعون؟",
+   "endQuestion": "هل تصمد هذه الآلية أمام الطعون؟",
+   "cliffhanger": "غداً في الملف: الرجل الذي وقف خلف القرار.",
+   "sourcesLine": "المصادر: الجزيرة · شفق نيوز",
+   "statPops": [
+    {
+     "value": "12",
+     "label": "نائباً رفعت حصانتهم ليلة الغارة",
+     "matchWord": "نائباً"
+    },
+    {
+     "value": "+3",
+     "label": "نواب آخرون — 30 حزيران",
+     "matchWord": "ثلاثة"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, a vast empty parliamentary assembly hall, curved rows of dark leather seats, high ceiling with shafts of late-afternoon light falling through tall windows, dust motes in the beams, wide-angle view from the podium, cinematic 35mm, vertical 9:16. No text, no letters, no logos, no flags with writing, no watermarks, no UI, no screens, no people.",
+    "Photorealistic documentary still, a wooden judge's gavel resting on a dark bench beside brass scales of justice, a single warm practical lamp, deep shadows swallowing the background, macro shallow depth of field, solemn documentary mood, vertical 9:16. No text, no letters, no logos, no watermarks, no UI, no screens, no faces.",
+    "Photorealistic documentary still, a completely blank formal document with a red wax seal and ribbon lying on a green leather desktop, a fountain pen beside it, warm lamplight, cinematic macro documentary framing, vertical 9:16. Paper entirely blank — no text, no letters, no numbers, no logos, no watermarks, no UI, no faces.",
+    "Photorealistic documentary still, a monumental sand-colored courthouse colonnade exterior at golden hour, massive stone columns casting long shadows, one anonymous guard silhouetted far in the distance seen from behind, warm low sun, haze, documentary long lens, vertical 9:16. No text, no logos, no signage, no watermarks, no UI, no recognizable faces."
+   ],
+   "caption": "كيف سقطت حصانة 12 نائباً في ليلة واحدة؟\nالحلقة ٤: آلية رفع الحصانة خلال العطلة التشريعية... والجدل الدستوري الذي أثارته.\nهل تصمد هذه الآلية أمام الطعون؟\nالمصادر: الجزيرة، شفق نيوز\n@photonect.news | الملف ٤/٧\n#العراق #البرلمان_العراقي #الحصانة #مكافحة_الفساد #بغداد",
+   "useZaidiPortrait": false
+  },
+  {
+   "ep": 5,
+   "slug": "almalaf-ep5-the-man",
+   "titleArabic": "الملف ٥/٧ — الرجل",
+   "hookHeadline": "من هو علي الزيدي؟",
+   "voText": "أصغر رئيس وزراء في تاريخ العراق، بلا أي منصب حكومي سابق. علي فالح الزيدي، مواليد عام ألف وتسعمئة وخمسة وثمانين، من عائلة تعود جذورها إلى ذي قار. مصرفي ورجل أعمال: يرأس مجموعة الوطنية القابضة، ويملك قناة دجلة الفضائية، وفق الجزيرة. اختاره الإطار التنسيقي مرشح توافق، ومنحه البرلمان الثقة في الرابع عشر من أيار. بعد الغارة قال: \"السكوت لم يعد ممكناً\". غداً في الملف: المؤيدون والمشككون يتكلمون. رجل أعمال على رأس الحكومة... هل يغيّر ذلك قواعد اللعبة؟",
+   "endQuestion": "رجل أعمال على رأس الحكومة... هل يغيّر ذلك قواعد اللعبة؟",
+   "cliffhanger": "غداً في الملف: المؤيدون والمشككون يتكلمون.",
+   "sourcesLine": "المصادر: الجزيرة · CNN بالعربية",
+   "statPops": [
+    {
+     "value": "1985",
+     "label": "مواليد — أصغر رئيس وزراء",
+     "matchWord": "وثمانين"
+    },
+    {
+     "value": "14 أيار",
+     "label": "منحه البرلمان الثقة",
+     "matchWord": "أيار"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, silhouette of a man in a tailored suit standing at a floor-to-ceiling office window at dusk, overlooking Baghdad rooftops and the Tigris as city lights begin to glow, face fully unseen, cinematic rim light, contemplative mood, 35mm grain, vertical 9:16. No text, no logos, no watermarks, no UI, no screens, no recognizable faces.",
+    "Photorealistic documentary still, modern glass bank towers in a Middle Eastern business district at golden hour, facades reflecting amber sun, light traffic streaks on the road below, long-lens compression, documentary realism, vertical 9:16. No signage, no text, no letters, no logos, no watermarks, no UI, no recognizable faces.",
+    "Photorealistic documentary still, an empty television news studio behind the scenes, dark anchor desk, studio softboxes and practical lights glowing warm, all monitors switched off showing pure black screens, cables across the floor, cinematic documentary feel, vertical 9:16. All screens off and blank — no text, no logos, no watermarks, no UI, no faces.",
+    "Photorealistic documentary still, the marshes of southern Iraq at golden hour, a narrow wooden mashoof canoe crossing still water between tall reeds, a lone paddler silhouetted from behind, low mist, amber light, documentary long lens, vertical 9:16. No text, no logos, no watermarks, no UI, no recognizable faces."
+   ],
+   "caption": "من هو علي الزيدي؟ أصغر رئيس وزراء في تاريخ العراق\nالحلقة ٥: مصرفي بلا منصب سياسي سابق، يملك قناة تلفزيونية، وأمر بحملة أوقفت 47 مسؤولاً في ليلة واحدة وفق الإعلام الرسمي.\nهل يغيّر رجل الأعمال قواعد اللعبة؟\nالمصادر: الجزيرة، CNN بالعربية\n@photonect.news | الملف ٥/٧\n#العراق #علي_الزيدي #رئيس_الوزراء #بغداد #مكافحة_الفساد",
+   "useZaidiPortrait": true
+  },
+  {
+   "ep": 6,
+   "slug": "almalaf-ep6-echoes",
+   "titleArabic": "الملف ٦/٧ — الأصداء",
+   "hookHeadline": "الكل يؤيد... والأسئلة تبدأ",
+   "voText": "الجميع أيّد الحملة علناً، لكن بلهجات مختلفة. المالكي قال: \"امضوا حتى النهاية\"، بحسب شفق نيوز. والصدر وصفها بالبطولية. ائتلاف السوداني أعلن دعمه، لكنه حذّر من \"التسييس\"، فيما طالت التوقيفات شخصيات محسوبة عليه. وتحالف عزم، الموقوف زعيمه، يطالب بضمانات دستورية. أما محللو الجزيرة فيرصدون سؤال الانتقائية: من يُستهدف، ومن لا يُستهدف؟ كل الموقوفين على ذمة التحقيق. غداً في الملف: مصير كل الحملات السابقة. هل يصمد هذا الإجماع إذا اقترب التحقيق من الجميع؟",
+   "endQuestion": "هل يصمد هذا الإجماع إذا اقترب التحقيق من الجميع؟",
+   "cliffhanger": "غداً في الملف: مصير كل الحملات السابقة.",
+   "sourcesLine": "المصادر: شفق نيوز · الجزيرة · ألترا عراق",
+   "statPops": [
+    {
+     "value": "«امضوا حتى النهاية»",
+     "label": "المالكي — شفق نيوز",
+     "matchWord": "امضوا"
+    },
+    {
+     "value": "«التسييس»",
+     "label": "تحذير ائتلاف السوداني",
+     "matchWord": "التسييس"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, a traditional Baghdad teahouse interior, older men seen strictly from behind sitting on worn wooden benches, steam rising from small glasses of amber tea, warm tungsten practical lamps, aged plaster walls, heavy film grain, vertical 9:16. No faces visible, no text, no logos, no posters with writing, no watermarks, no UI, no screens.",
+    "Photorealistic documentary still, a dense crowd of anonymous human silhouettes on a Baghdad street at dusk, backlit by golden haze and car headlights, figures indistinct and unrecognizable, long-lens documentary compression, cinematic grade, vertical 9:16. No recognizable faces, no text, no logos, no signage, no watermarks, no UI, no screens.",
+    "Photorealistic documentary still, two empty wooden chairs facing each other in a dark room, a single overhead practical light splitting the space between light and shadow, symbolic confrontation staging, cinematic minimalism, 35mm grain, vertical 9:16. No text, no logos, no watermarks, no UI, no screens, no people.",
+    "Photorealistic documentary still, an empty radio broadcast studio, vintage unbranded microphones on booms above a felt-covered table, one warm practical lamp, dust hanging in the air, nostalgic documentary mood, vertical 9:16. All equipment unbranded — no text, no letters, no logos, no watermarks, no UI, no screens, no faces."
+   ],
+   "caption": "المالكي: امضوا حتى النهاية... وائتلاف السوداني يحذر من «التسييس»\nالحلقة ٦: خريطة المواقف كاملة — المؤيدون، والمتحفظون، وسؤال الانتقائية الذي يطرحه المحللون.\nهل يصمد الإجماع إذا اقترب التحقيق من الجميع؟\nالمصادر: شفق نيوز، الجزيرة، ألترا عراق\n@photonect.news | الملف ٦/٧\n#العراق #السياسة_العراقية #مكافحة_الفساد #بغداد #صولة_الفجر",
+   "useZaidiPortrait": false
+  },
+  {
+   "ep": 7,
+   "slug": "almalaf-ep7-what-next",
+   "titleArabic": "الملف ٧/٧ — وماذا بعد؟",
+   "hookHeadline": "هل تنتهي مثل كل مرة؟",
+   "voText": "كل حملة سابقة توقفت قبل نهايتها. لجنة الكاظمي لمكافحة الفساد عام ألفين وعشرين حلّتها المحكمة الاتحادية لمخالفات دستورية بعد أقل من عامين. وفي \"سرقة القرن\"، اختفى مليارا دولار ونصف المليار من أمانات الضرائب، ولم يُسترد منها إلا نحو مئة وخمسة وعشرين مليوناً. اليوم، لا لوائح اتهام معلنة بعد، والعملية محددة بستة أشهر، وفي مسار موازٍ، حددت الحكومة الثلاثين من أيلول موعداً لحصر السلاح. سجل الحملات السابقة قليل الإدانات الكبرى، بحسب تشاتام هاوس. هذا كان الملف... تابعونا. هل تكسر هذه الحملة القاعدة؟",
+   "endQuestion": "هل تكسر هذه الحملة القاعدة؟",
+   "cliffhanger": "هذا كان الملف... تابعونا.",
+   "sourcesLine": "المصادر: سجلات المحكمة الاتحادية 2022 · تشاتام هاوس · OCCRP",
+   "statPops": [
+    {
+     "value": "$2.5 مليار",
+     "label": "سرقة القرن — 2022",
+     "matchWord": "مليارا"
+    },
+    {
+     "value": "$125 مليون",
+     "label": "المبلغ المسترد فقط",
+     "matchWord": "مليوناً"
+    }
+   ],
+   "scenePrompts": [
+    "Photorealistic documentary still, a long straight empty desert highway at dawn in southern Iraq, heat haze softening the horizon, faded cracked asphalt, telephone poles receding into the distance, cool-to-warm gradient sky, contemplative documentary frame, vertical 9:16. No text, no signage, no logos, no watermarks, no UI, no screens, no recognizable faces.",
+    "Photorealistic documentary still, an antique brass hourglass with sand actively falling, standing on a dark polished government desk, warm practical lamp light, deep shadow background, macro shallow depth of field, cinematic tension, vertical 9:16. No text, no letters, no logos, no watermarks, no UI, no screens, no faces.",
+    "Photorealistic documentary still, a dusty abandoned office storage room stacked with old completely blank file boxes and a broken chair, thin blades of light cutting through closed shutters, decay and forgotten-archive atmosphere, documentary realism, vertical 9:16. Boxes entirely unlabeled — no text, no letters, no logos, no watermarks, no UI, no faces.",
+    "Photorealistic documentary still, sunrise breaking over Baghdad rooftops, flocks of pigeons wheeling through golden haze above satellite dishes and palm crowns, warm open hopeful frame, cinematic 35mm grain, vertical 9:16 composition. No text, no logos, no watermarks, no UI, no screens, no recognizable faces."
+   ],
+   "caption": "سرقة القرن: 2.5 مليار دولار اختفت واستُرد 125 مليوناً فقط\nالحلقة الأخيرة: سجل الحملات السابقة — لجنة حلّتها المحكمة لمخالفات دستورية ووثّقت واشنطن بوست انتزاع اعترافات فيها — والمواعيد التي ستحسم مصير هذه الحملة.\nهل تكسر هذه الحملة القاعدة؟\nالمصادر: تشاتام هاوس، OCCRP، سجلات المحكمة الاتحادية 2022\n@photonect.news | الملف ٧/٧\n#العراق #سرقة_القرن #مكافحة_الفساد #بغداد #الملف",
+   "useZaidiPortrait": false
+  }
+ ],
+ "seriesLogic": "7-episode daily appointment series, one reel at 9PM Baghdad, July 4-10, so the finale lands just before the mid-July Washington/Trump visit beat (re-verify detainee counts and any new charges before each night's render — quiet period Jul 2-4 makes the set evergreen-safe as written). Arc: night of facts (ep1 raid) → cause (ep2 al-Jumaili confessions, presumption-of-innocence phrasing) → spectacle with discipline (ep3 SJC seizure ladder only, never mixed with campaign-wide totals) → mechanism (ep4 immunity, constitutionality attributed as debated) → the man (ep5 strictly factual bio incl. Dijlah TV ownership, real Commons portrait slot) → balance (ep6 supporters AND skeptics, selective-targeting question via AJ analysts) → sober history (ep7 Committee 29 dissolution, heist-of-the-century recovery gap, Sept 30 weapons deadline as the forward hook, تابعونا close). FBI claim deliberately excluded (unconfirmed); $86M retired; 47 always attributed to state media; every detainee framed as موقوف على ذمة التحقيق. Each voText: cold-open shock line, 70-77 words, cliffhanger line then spoken endQuestion. No Persian ی/ک anywhere. Captions carry numbered branding الملف N/٧ for collection-building.",
+ "seriesTitle": "الملف — صولة الفجر في سبع حلقات"
+}

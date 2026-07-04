@@ -1,0 +1,660 @@
+{
+ "kicker": "الملف 2/7",
+ "hookHeadline": "هل فتح رجل واحد كل الملفات؟",
+ "vo": "vo/2026-07-04-almalaf-ep2-confessions/vo.mp3",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "bedVolume": 0.16,
+ "shots": [
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/hero.jpg",
+   "startF": 0,
+   "durationF": 107,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_1.jpg",
+   "startF": 107,
+   "durationF": 89,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_2.jpg",
+   "startF": 196,
+   "durationF": 96,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_3.jpg",
+   "startF": 292,
+   "durationF": 107,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/hero.jpg",
+   "startF": 399,
+   "durationF": 90,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_1.jpg",
+   "startF": 489,
+   "durationF": 101,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_2.jpg",
+   "startF": 590,
+   "durationF": 70,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_3.jpg",
+   "startF": 660,
+   "durationF": 123,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/hero.jpg",
+   "startF": 783,
+   "durationF": 102,
+   "fromScale": 1.1,
+   "toScale": 1.3,
+   "fromX": 0.35,
+   "fromY": -0.2,
+   "toX": -0.3,
+   "toY": 0.15
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_1.jpg",
+   "startF": 885,
+   "durationF": 86,
+   "fromScale": 1.32,
+   "toScale": 1.12,
+   "fromX": 0.0,
+   "fromY": -0.4,
+   "toX": 0.0,
+   "toY": 0.3
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_2.jpg",
+   "startF": 971,
+   "durationF": 123,
+   "fromScale": 1.08,
+   "toScale": 1.26,
+   "fromX": -0.3,
+   "fromY": -0.25,
+   "toX": 0.35,
+   "toY": 0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_3.jpg",
+   "startF": 1094,
+   "durationF": 77,
+   "fromScale": 1.26,
+   "toScale": 1.08,
+   "fromX": 0.3,
+   "fromY": 0.3,
+   "toX": -0.25,
+   "toY": -0.2
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/hero.jpg",
+   "startF": 1171,
+   "durationF": 114,
+   "fromScale": 1.06,
+   "toScale": 1.24,
+   "fromX": 0.0,
+   "fromY": 0.0,
+   "toX": 0.0,
+   "toY": -0.35
+  },
+  {
+   "img": "images/news/2026-07-04-almalaf-ep2-confessions/broll_1.jpg",
+   "startF": 1285,
+   "durationF": 157,
+   "fromScale": 1.28,
+   "toScale": 1.1,
+   "fromX": -0.4,
+   "fromY": 0.2,
+   "toX": 0.3,
+   "toY": 0.0
+  }
+ ],
+ "lines": [
+  {
+   "words": [
+    {
+     "word": "قبل",
+     "startF": 3,
+     "endF": 11
+    },
+    {
+     "word": "الغارة",
+     "startF": 11,
+     "endF": 26
+    },
+    {
+     "word": "بأسابيع",
+     "startF": 26,
+     "endF": 49
+    },
+    {
+     "word": "في",
+     "startF": 55,
+     "endF": 58
+    },
+    {
+     "word": "الثلاثين",
+     "startF": 59,
+     "endF": 77
+    }
+   ],
+   "startF": 3,
+   "endF": 77
+  },
+  {
+   "words": [
+    {
+     "word": "من",
+     "startF": 78,
+     "endF": 82
+    },
+    {
+     "word": "أيار",
+     "startF": 82,
+     "endF": 100
+    },
+    {
+     "word": "أُوقف",
+     "startF": 107,
+     "endF": 122
+    },
+    {
+     "word": "وكيل",
+     "startF": 123,
+     "endF": 134
+    },
+    {
+     "word": "وزارة",
+     "startF": 135,
+     "endF": 147
+    }
+   ],
+   "startF": 78,
+   "endF": 147
+  },
+  {
+   "words": [
+    {
+     "word": "النفط",
+     "startF": 147,
+     "endF": 159
+    },
+    {
+     "word": "عدنان",
+     "startF": 159,
+     "endF": 173
+    },
+    {
+     "word": "الجميلي",
+     "startF": 174,
+     "endF": 196
+    },
+    {
+     "word": "بهدوء",
+     "startF": 196,
+     "endF": 213
+    },
+    {
+     "word": "تام",
+     "startF": 213,
+     "endF": 230
+    }
+   ],
+   "startF": 147,
+   "endF": 230
+  },
+  {
+   "words": [
+    {
+     "word": "وفق",
+     "startF": 255,
+     "endF": 266
+    },
+    {
+     "word": "مجلس",
+     "startF": 267,
+     "endF": 279
+    },
+    {
+     "word": "القضاء",
+     "startF": 279,
+     "endF": 292
+    },
+    {
+     "word": "الأعلى",
+     "startF": 292,
+     "endF": 310
+    },
+    {
+     "word": "قاد",
+     "startF": 316,
+     "endF": 324
+    }
+   ],
+   "startF": 255,
+   "endF": 324
+  },
+  {
+   "words": [
+    {
+     "word": "التحقيق",
+     "startF": 324,
+     "endF": 343
+    },
+    {
+     "word": "معه",
+     "startF": 343,
+     "endF": 354
+    },
+    {
+     "word": "إلى",
+     "startF": 354,
+     "endF": 362
+    },
+    {
+     "word": "ملفات",
+     "startF": 363,
+     "endF": 379
+    },
+    {
+     "word": "عمولات",
+     "startF": 379,
+     "endF": 399
+    }
+   ],
+   "startF": 324,
+   "endF": 399
+  },
+  {
+   "words": [
+    {
+     "word": "في",
+     "startF": 399,
+     "endF": 404
+    },
+    {
+     "word": "عقود",
+     "startF": 404,
+     "endF": 415
+    },
+    {
+     "word": "المصافي",
+     "startF": 416,
+     "endF": 439
+    }
+   ],
+   "startF": 399,
+   "endF": 439
+  },
+  {
+   "words": [
+    {
+     "word": "اعترافات",
+     "startF": 464,
+     "endF": 489
+    },
+    {
+     "word": "منسوبة",
+     "startF": 489,
+     "endF": 507
+    },
+    {
+     "word": "إليه",
+     "startF": 507,
+     "endF": 522
+    },
+    {
+     "word": "بحسب",
+     "startF": 528,
+     "endF": 546
+    },
+    {
+     "word": "تقارير",
+     "startF": 546,
+     "endF": 561
+    }
+   ],
+   "startF": 464,
+   "endF": 561
+  },
+  {
+   "words": [
+    {
+     "word": "الجزيرة",
+     "startF": 562,
+     "endF": 583
+    },
+    {
+     "word": "رسمت",
+     "startF": 590,
+     "endF": 605
+    },
+    {
+     "word": "شبكة",
+     "startF": 605,
+     "endF": 623
+    },
+    {
+     "word": "أوسع",
+     "startF": 623,
+     "endF": 638
+    },
+    {
+     "word": "من",
+     "startF": 638,
+     "endF": 644
+    }
+   ],
+   "startF": 562,
+   "endF": 644
+  },
+  {
+   "words": [
+    {
+     "word": "الأسماء",
+     "startF": 644,
+     "endF": 660
+    },
+    {
+     "word": "والحسابات",
+     "startF": 660,
+     "endF": 690
+    }
+   ],
+   "startF": 644,
+   "endF": 690
+  },
+  {
+   "words": [
+    {
+     "word": "وبعد",
+     "startF": 715,
+     "endF": 728
+    },
+    {
+     "word": "أقل",
+     "startF": 728,
+     "endF": 741
+    },
+    {
+     "word": "من",
+     "startF": 741,
+     "endF": 746
+    },
+    {
+     "word": "شهر",
+     "startF": 746,
+     "endF": 760
+    },
+    {
+     "word": "تحوّلت",
+     "startF": 765,
+     "endF": 783
+    }
+   ],
+   "startF": 715,
+   "endF": 783
+  },
+  {
+   "words": [
+    {
+     "word": "تلك",
+     "startF": 783,
+     "endF": 789
+    },
+    {
+     "word": "الأقوال",
+     "startF": 790,
+     "endF": 805
+    },
+    {
+     "word": "إلى",
+     "startF": 805,
+     "endF": 812
+    },
+    {
+     "word": "مذكرات",
+     "startF": 812,
+     "endF": 834
+    },
+    {
+     "word": "توقيف",
+     "startF": 834,
+     "endF": 852
+    }
+   ],
+   "startF": 783,
+   "endF": 852
+  },
+  {
+   "words": [
+    {
+     "word": "طالت",
+     "startF": 853,
+     "endF": 864
+    },
+    {
+     "word": "مسؤولين",
+     "startF": 864,
+     "endF": 884
+    },
+    {
+     "word": "ونواباً",
+     "startF": 885,
+     "endF": 910
+    }
+   ],
+   "startF": 853,
+   "endF": 910
+  },
+  {
+   "words": [
+    {
+     "word": "هو",
+     "startF": 936,
+     "endF": 943
+    },
+    {
+     "word": "موقوف",
+     "startF": 944,
+     "endF": 962
+    },
+    {
+     "word": "على",
+     "startF": 962,
+     "endF": 970
+    },
+    {
+     "word": "ذمة",
+     "startF": 971,
+     "endF": 981
+    },
+    {
+     "word": "التحقيق",
+     "startF": 981,
+     "endF": 1003
+    }
+   ],
+   "startF": 936,
+   "endF": 1003
+  },
+  {
+   "words": [
+    {
+     "word": "ولم",
+     "startF": 1008,
+     "endF": 1018
+    },
+    {
+     "word": "تصدر",
+     "startF": 1019,
+     "endF": 1031
+    },
+    {
+     "word": "بحقه",
+     "startF": 1032,
+     "endF": 1049
+    },
+    {
+     "word": "إدانة",
+     "startF": 1049,
+     "endF": 1069
+    }
+   ],
+   "startF": 1008,
+   "endF": 1069
+  },
+  {
+   "words": [
+    {
+     "word": "غداً",
+     "startF": 1094,
+     "endF": 1106
+    },
+    {
+     "word": "في",
+     "startF": 1106,
+     "endF": 1108
+    },
+    {
+     "word": "الملف",
+     "startF": 1109,
+     "endF": 1128
+    },
+    {
+     "word": "أموال",
+     "startF": 1134,
+     "endF": 1150
+    },
+    {
+     "word": "مدفونة",
+     "startF": 1150,
+     "endF": 1171
+    }
+   ],
+   "startF": 1094,
+   "endF": 1171
+  },
+  {
+   "words": [
+    {
+     "word": "تحت",
+     "startF": 1171,
+     "endF": 1179
+    },
+    {
+     "word": "الأرض",
+     "startF": 1179,
+     "endF": 1195
+    }
+   ],
+   "startF": 1171,
+   "endF": 1195
+  },
+  {
+   "words": [
+    {
+     "word": "اعتراف",
+     "startF": 1221,
+     "endF": 1242
+    },
+    {
+     "word": "واحد",
+     "startF": 1242,
+     "endF": 1259
+    }
+   ],
+   "startF": 1221,
+   "endF": 1259
+  },
+  {
+   "words": [
+    {
+     "word": "فماذا",
+     "startF": 1285,
+     "endF": 1302
+    },
+    {
+     "word": "لو",
+     "startF": 1303,
+     "endF": 1308
+    },
+    {
+     "word": "تكلم",
+     "startF": 1308,
+     "endF": 1322
+    },
+    {
+     "word": "الجميع",
+     "startF": 1322,
+     "endF": 1342
+    }
+   ],
+   "startF": 1285,
+   "endF": 1342
+  }
+ ],
+ "statPops": [
+  {
+   "value": "30 أيار",
+   "labelArabic": "تاريخ توقيف الجميلي",
+   "atFrame": 57,
+   "holdFrames": 75
+  }
+ ],
+ "endQuestion": "اعتراف واحد... فماذا لو تكلم الجميع؟",
+ "handle": "@photonect.news",
+ "sourcesLine": "المصادر: مجلس القضاء الأعلى · الجزيرة · شفق نيوز",
+ "totalFrames": 1442
+}
