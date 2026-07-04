@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 4 • 2026",
+  "arabicDateLabel": "4 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_08.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · رواتب",
+    "arabicHeadline": "راتبك شيصير بيه؟ فاتورة رواتب العراق الشهرية تحت الضغط",
+    "englishSubhead": "IRAQ PAYROLL | ~8TN IQD/MONTH | BANK LIQUIDITY THIN",
+    "heroMedia": "images/news/2026-07-04-iraq-salary-payment-risk/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "8 تريليونات دينار مطلوبة كل شهر",
+      "arabicBody": "تحتاج وزارة المالية نحو 8 تريليونات دينار شهرياً للرواتب والتقاعد والحماية الاجتماعية، وسط ضغط متزايد على الموارد، وفق تقارير عراقية.",
+      "bigStat": {
+        "value": "8 تريليون",
+        "label": "IQD/month payroll bill",
+        "arabicLabel": "دينار شهرياً للرواتب"
+      },
+      "supportingStats": [
+        {
+          "label": "يشمل",
+          "value": "رواتب وتقاعد"
+        },
+        {
+          "label": "الدورية",
+          "value": "شهرياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "Iraq Business News"
+        }
+      ],
+      "broll": "images/news/2026-07-04-iraq-salary-payment-risk/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-04-iraq-salary-payment-risk/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraq Business News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سيولة المصارف الحكومية استُنزفت",
+      "arabicBody": "تشير مصادر محلية إلى استنزاف كبير في سيولة المصارف الحكومية واحتمال تأخّر الدفعات، فيما تعتمد الإيرادات على النفط بأكثر من 90%.",
+      "bigStat": {
+        "value": "+90%",
+        "label": "of gov income from oil",
+        "arabicLabel": "من الدخل نفط"
+      },
+      "supportingStats": [
+        {
+          "label": "السيولة",
+          "value": "مستنزفة"
+        },
+        {
+          "label": "الخطر",
+          "value": "تأخّر الدفعات"
+        },
+        {
+          "label": "المصدر",
+          "value": "مصادر محلية"
+        }
+      ],
+      "broll": "images/news/2026-07-04-iraq-salary-payment-risk/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-04-iraq-salary-payment-risk/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "مصادر محلية · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "القطاع العام يبتلع الجزء الأكبر من الإنفاق",
+      "arabicBody": "يعمل أكثر من 40% من قوة العمل في القطاع العام والشركات الحكومية، وابتلعت الأجور 59% من الإنفاق الاتحادي في النصف الأول 2025، وفق صندوق النقد.",
+      "bigStat": {
+        "value": "59%",
+        "label": "of H1-2025 federal spending",
+        "arabicLabel": "من الإنفاق أجور"
+      },
+      "supportingStats": [
+        {
+          "label": "القطاع العام",
+          "value": "+40% من العمل"
+        },
+        {
+          "label": "الأجور",
+          "value": "59% من الإنفاق"
+        },
+        {
+          "label": "المصدر",
+          "value": "IMF"
+        }
+      ],
+      "broll": "images/news/2026-07-04-iraq-salary-payment-risk/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-04-iraq-salary-payment-risk/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صندوق النقد الدولي · 2025"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraq Business News",
+      "domain": "iraq-businessnews.com"
+    },
+    {
+      "name": "IMF",
+      "domain": "imf.org"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "راتبك شيصير بيه؟ فاتورة رواتب العراق الشهرية تحت الضغط",
+    "نحو 8 تريليونات دينار مطلوبة شهرياً للرواتب والتقاعد (تقارير عراقية)",
+    "مصادر محلية: سيولة المصارف الحكومية استُنزفت واحتمال تأخّر الدفعات",
+    "الإيرادات تعتمد على النفط بأكثر من 90% وسط تراجع الأسعار (صندوق النقد)",
+    "أكثر من 40% من قوة العمل في القطاع العام والشركات الحكومية (صندوق النقد)",
+    "الأجور ابتلعت 59% من الإنفاق الاتحادي في النصف الأول 2025 (صندوق النقد)",
+    "كيف تؤمّن بغداد الرواتب دون تأخير؟"
+  ]
+}

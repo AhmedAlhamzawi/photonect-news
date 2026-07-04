@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 4 • 2026",
+  "arabicDateLabel": "4 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "العراق · تراث",
+    "arabicHeadline": "مدينة الإسكندر المفقودة تظهر من رمال جنوب العراق",
+    "englishSubhead": "ALEXANDRIA-ON-TIGRIS | NEAR BASRA | 2,300 YEARS",
+    "heroMedia": "images/news/2026-07-04-tigris-lost-city/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "تحديد «الإسكندرية على دجلة» قرب البصرة",
+      "arabicBody": "حدّد باحثون موقع «الإسكندرية على دجلة» عند جبل خيابر قرب البصرة، مدينة ميناء أُسّست أواخر القرن الرابع قبل الميلاد زمن حملات الإسكندر، وفق مجلة الآثار.",
+      "bigStat": {
+        "value": "القرن 4 ق.م",
+        "label": "founded in Alexander's era",
+        "arabicLabel": "أُسّست في أواخر القرن الرابع قبل الميلاد زمن الإسكندر (مجلة الآثار)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "جبل خيابر"
+        },
+        {
+          "label": "قرب",
+          "value": "البصرة"
+        },
+        {
+          "label": "المصدر",
+          "value": "Archaeology Mag."
+        }
+      ],
+      "broll": "images/news/2026-07-04-tigris-lost-city/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-04-tigris-lost-city/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Archaeology Magazine · 2026"
+    },
+    {
+      "label": "ماذا وجدوا؟",
+      "arabicHeading": "سور يتجاوز كيلومتراً وارتفاع حتى 8 أمتار",
+      "arabicBody": "كشفت المسوحات سوراً يتجاوز كيلومتراً بأجزاء ترتفع 8 أمتار، مع شبكة شوارع ومعابد وورش وأحواض مرفأ، لمدينة مخطّطة كبرى، وفق مجلة الآثار.",
+      "bigStat": {
+        "value": "8 أمتار",
+        "label": "wall height; >1 km long",
+        "arabicLabel": "أمتار ارتفاع أجزاء من سور يمتد أكثر من كيلومتر (مجلة الآثار)"
+      },
+      "supportingStats": [
+        {
+          "label": "طول السور",
+          "value": "+1 كم"
+        },
+        {
+          "label": "المعالم",
+          "value": "معابد ومرفأ"
+        },
+        {
+          "label": "المصدر",
+          "value": "Archaeology Mag."
+        }
+      ],
+      "broll": "images/news/2026-07-04-tigris-lost-city/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-04-tigris-lost-city/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Archaeology Magazine · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مركز تجارة ربط بلاد الرافدين بالهند",
+      "arabicBody": "ازدهرت نحو 300 ق.م–300 م كمركز يربط الرافدين بالخليج والهند وآسيا الوسطى، ثم هجرها السكان بعد انزياح مجرى دجلة، وفق جامعة كونستانس.",
+      "bigStat": {
+        "value": "300 ق.م",
+        "label": "trade-hub peak begins",
+        "arabicLabel": "ق.م بدء ازدهارها كمركز تجارة ربط الرافدين بالهند (جامعة كونستانس)"
+      },
+      "supportingStats": [
+        {
+          "label": "الازدهار",
+          "value": "300ق.م–300م"
+        },
+        {
+          "label": "السبب بالأفول",
+          "value": "انزياح دجلة"
+        },
+        {
+          "label": "المصدر",
+          "value": "U. Konstanz"
+        }
+      ],
+      "broll": "images/news/2026-07-04-tigris-lost-city/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-04-tigris-lost-city/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "جامعة كونستانس · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Archaeology Magazine",
+      "domain": "archaeology.org"
+    },
+    {
+      "name": "The Art Newspaper",
+      "domain": "theartnewspaper.com"
+    },
+    {
+      "name": "University of Konstanz",
+      "domain": "uni-konstanz.de"
+    }
+  ],
+  "arabicTicker": [
+    "مدينة الإسكندر المفقودة تظهر من رمال جنوب العراق",
+    "تحديد «الإسكندرية على دجلة» عند جبل خيابر قرب البصرة (مجلة الآثار)",
+    "المدينة أُسّست في أواخر القرن الرابع قبل الميلاد زمن الإسكندر",
+    "سور يمتد أكثر من كيلومتر وأجزاء يصل ارتفاعها إلى 8 أمتار",
+    "شبكة شوارع ومعابد وورش وأحواض مرفأ لمدينة مخطّطة كبرى",
+    "ازدهرت 300ق.م–300م كمركز تجارة ربط الرافدين بالهند وآسيا الوسطى",
+    "متى يبدأ التنقيب في كنز البصرة المؤجَّل بسبب الحرب؟"
+  ]
+}

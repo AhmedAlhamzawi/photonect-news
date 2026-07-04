@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 4 • 2026",
+  "arabicDateLabel": "4 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_06.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج · ذكاء اصطناعي",
+    "arabicHeadline": "لماذا يضخّ الخليج عشرات المليارات في الذكاء الاصطناعي الآن؟",
+    "englishSubhead": "GULF SWFs GO ALL-IN ON AI | MGX $49B FUND | QATAR QAI $20B | SAUDI HUMAIN",
+    "heroMedia": "images/news/2026-07-04-gulf-ai-sovereign-funds/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أبوظبي تغلق أكبر صندوق ذكاء اصطناعي خليجي",
+      "arabicBody": "أغلق صندوق MGX في أبوظبي تمويلاً للذكاء الاصطناعي بـ49 مليار دولار، يستثمر عبر مختبرات ومراكز بيانات، وفق فوربس في 3 يوليو 2026.",
+      "bigStat": {
+        "value": "$49 مليار",
+        "label": "MGX AI fund closed",
+        "arabicLabel": "صندوق MGX"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "MGX · أبوظبي"
+        },
+        {
+          "label": "المجال",
+          "value": "مختبرات وبيانات"
+        },
+        {
+          "label": "المصدر",
+          "value": "Forbes"
+        }
+      ],
+      "broll": "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Forbes · 3 يوليو 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "قطر والسعودية تدخلان السباق بأدوات سيادية",
+      "arabicBody": "شكّل صندوق قطر «Qai» مشروعاً بـ20 مليار دولار مع بروكفيلد لبنية الذكاء الاصطناعي، فيما تبني السعودية قدراتها عبر «هيومين»، وفق معهد الشرق الأوسط.",
+      "bigStat": {
+        "value": "$20 مليار",
+        "label": "Qatar Qai–Brookfield JV",
+        "arabicLabel": "مشروع قطر Qai"
+      },
+      "supportingStats": [
+        {
+          "label": "قطر",
+          "value": "Qai + بروكفيلد"
+        },
+        {
+          "label": "السعودية",
+          "value": "هيومين"
+        },
+        {
+          "label": "المصدر",
+          "value": "MEI"
+        }
+      ],
+      "broll": "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "معهد الشرق الأوسط · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رغم حرب إيران، رأس المال الخليجي يتوسّع",
+      "arabicBody": "رفعت الصناديق السيادية الخليجية وتيرة صفقاتها خلال الأشهر الثلاثة الماضية رغم حرب إيران، في تموضع نحو البنية التحتية للذكاء الاصطناعي، وفق فورتشن.",
+      "bigStat": {
+        "value": "3 أشهر",
+        "label": "of accelerated dealmaking",
+        "arabicLabel": "تسارع الصفقات"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتجاه",
+          "value": "بنية تحتية AI"
+        },
+        {
+          "label": "رغم",
+          "value": "حرب إيران"
+        },
+        {
+          "label": "المصدر",
+          "value": "Fortune"
+        }
+      ],
+      "broll": "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-04-gulf-ai-sovereign-funds/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Fortune · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Forbes",
+      "domain": "forbes.com"
+    },
+    {
+      "name": "Middle East Institute",
+      "domain": "mei.edu"
+    },
+    {
+      "name": "Fortune",
+      "domain": "fortune.com"
+    }
+  ],
+  "arabicTicker": [
+    "لماذا يضخّ الخليج عشرات المليارات في الذكاء الاصطناعي الآن؟",
+    "أبوظبي: صندوق MGX يغلق تمويلاً بـ49 مليار دولار (فوربس، 3 يوليو)",
+    "قطر: صندوق Qai يشكّل مشروعاً بـ20 مليار دولار مع بروكفيلد",
+    "السعودية تبني قدراتها عبر «هيومين» محلياً (معهد الشرق الأوسط)",
+    "الصناديق السيادية ترفع صفقاتها خلال 3 أشهر رغم حرب إيران (فورتشن)",
+    "السباق الخليجي يتموضع نحو البنية التحتية للذكاء الاصطناعي",
+    "من يقود سباق الخليج على الذكاء الاصطناعي؟"
+  ]
+}

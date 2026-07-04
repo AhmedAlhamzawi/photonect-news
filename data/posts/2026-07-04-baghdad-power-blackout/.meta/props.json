@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 4 • 2026",
+  "arabicDateLabel": "4 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_mideast.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · كهرباء",
+    "arabicHeadline": "شنو يصير بالكهرباء هالصيف والطلب ضعف الإنتاج؟",
+    "englishSubhead": "IRAQ ENTERS PEAK SUMMER | ~40GW DEMAND VS ~29GW SUPPLY | IRANIAN GAS DOWN",
+    "heroMedia": "images/news/2026-07-04-baghdad-power-blackout/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الطلب نحو 40 جيجاواط والإنتاج عند 29",
+      "arabicBody": "مع الحرارة نحو 50 مئوية يقفز الطلب نحو 40 جيجاواط، بينما يقف الإنتاج عند نحو 29، وفق كردستان24 وشفق نيوز.",
+      "bigStat": {
+        "value": "40 جيجا",
+        "label": "peak demand vs ~29GW supply",
+        "arabicLabel": "جيجاواط الطلب المتوقع مقابل نحو 29 للإنتاج (كردستان24)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج الحالي",
+          "value": "~29 جيجا"
+        },
+        {
+          "label": "الحرارة",
+          "value": "نحو 50°"
+        },
+        {
+          "label": "المصدر",
+          "value": "كردستان24"
+        }
+      ],
+      "broll": "images/news/2026-07-04-baghdad-power-blackout/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-04-baghdad-power-blackout/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "كردستان24 · شفق نيوز · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الغاز الإيراني 15–20 مقابل 50 مطلوبة",
+      "arabicBody": "الغاز الإيراني هبط منذ أوائل أيار إلى 15–20 مليون م³ مقابل نحو 50، والشبكة فقدت +3,000 ميجاواط بعد ضربات شباط، وفق MEES ومعهد بيكر.",
+      "bigStat": {
+        "value": "15–20",
+        "label": "mcm/day Iranian gas vs ~50 needed",
+        "arabicLabel": "مليون م³ يومياً غاز إيراني مقابل نحو 50 يحتاجها العراق (MEES)"
+      },
+      "supportingStats": [
+        {
+          "label": "المفقود من الشبكة",
+          "value": "+3,000 ميجا"
+        },
+        {
+          "label": "المطلوب",
+          "value": "~50 م³"
+        },
+        {
+          "label": "المصدر",
+          "value": "MEES"
+        }
+      ],
+      "broll": "images/news/2026-07-04-baghdad-power-blackout/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-04-baghdad-power-blackout/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "MEES · معهد بيكر · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تأخّر منصة الغاز العائم يهدد الذروة",
+      "arabicBody": "منصة الغاز المسال العائم (إكسيليريت) تأخّرت عن هدف حزيران، فتدخل الذروة بلا بديل كافٍ: ساعات تجهيز أقل ومولّدات أكثر، وفق وزارة الكهرباء.",
+      "bigStat": {
+        "value": "حزيران",
+        "label": "floating-LNG target slipped",
+        "arabicLabel": "تأخّر منصة الغاز العائم عن هدف حزيران نحو الذروة (وزارة الكهرباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "البديل",
+          "value": "مولّدات أهلية"
+        },
+        {
+          "label": "الأثر",
+          "value": "ساعات أقل"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-07-04-baghdad-power-blackout/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-04-baghdad-power-blackout/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "وزارة الكهرباء · MEES · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "MEES",
+      "domain": "mees.com"
+    },
+    {
+      "name": "Baker Institute",
+      "domain": "bakerinstitute.org"
+    }
+  ],
+  "arabicTicker": [
+    "شنو يصير بالكهرباء هالصيف والطلب ضعف الإنتاج؟",
+    "الطلب المتوقع نحو 40 جيجاواط مقابل إنتاج نحو 29 (كردستان24)",
+    "الغاز الإيراني 15–20 مليون م³ يومياً مقابل نحو 50 يحتاجها العراق (MEES)",
+    "الشبكة فقدت أكثر من 3,000 ميجاواط بعد ضربات شباط على منشآت الغاز (MEES ومعهد بيكر)",
+    "تأخّر منصة الغاز العائم عن هدف حزيران يفاقم الذروة (وزارة الكهرباء)",
+    "اعتماد أوسع على المولّدات الأهلية مع الحرارة نحو 50 مئوية",
+    "هل تصمد المنظومة في أصعب صيف كهربائي منذ سنوات؟"
+  ]
+}

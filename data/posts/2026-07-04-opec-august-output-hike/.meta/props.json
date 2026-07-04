@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 4 • 2026",
+  "arabicDateLabel": "4 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_10.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أوبك+ · نفط",
+    "arabicHeadline": "أوبك+ ترفع الإنتاج مجدداً لشهر آب والعراق في القلب",
+    "englishSubhead": "OPEC+ RAISES AUGUST OUTPUT | ~188K BPD | 4TH MONTHLY HIKE | IRAQ AMONG 7",
+    "heroMedia": "images/news/2026-07-04-opec-august-output-hike/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "زيادة نحو 188 ألف برميل يومياً لشهر آب",
+      "arabicBody": "تتجه سبع دول في أوبك+ بينها العراق لرفع الإنتاج نحو 188 ألف برميل يومياً في آب، في رابع زيادة شهرية على التوالي، وفق AGBI وCNBC.",
+      "bigStat": {
+        "value": "188 ألف",
+        "label": "bpd added for August",
+        "arabicLabel": "برميل يومياً زيادة إنتاج آب لسبع دول بينها العراق (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "عدد الدول",
+          "value": "7 بينها العراق"
+        },
+        {
+          "label": "التسلسل",
+          "value": "الرابعة توالياً"
+        },
+        {
+          "label": "المصدر",
+          "value": "AGBI"
+        }
+      ],
+      "broll": "images/news/2026-07-04-opec-august-output-hike/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-04-opec-august-output-hike/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AGBI · CNBC · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تفكيك تدريجي لخفض 1.65 مليون برميل",
+      "arabicBody": "تأتي الزيادة ضمن التفكيك التدريجي لخفض طوعي بـ1.65 مليون برميل يومياً مُتّفق عليه في 2023، بالتوازي مع تعافي حركة المرور في مضيق هرمز، وفق CNBC.",
+      "bigStat": {
+        "value": "1.65 مليون",
+        "label": "bpd cut being unwound",
+        "arabicLabel": "برميل يومياً خفض طوعي 2023 يُفكَّك تدريجياً (CNBC)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاق",
+          "value": "خفض 2023"
+        },
+        {
+          "label": "هرمز",
+          "value": "حركة تتعافى"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-07-04-opec-august-output-hike/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-04-opec-august-output-hike/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CNBC · رويترز · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الأسعار عند أدنى مستوى منذ بدء حرب إيران",
+      "arabicBody": "تراجعت الأسعار إلى أدنى مستوى منذ بدء حرب إيران في 28 شباط، ما يضع العراق المعتمد على النفط أمام معادلة الكمية مقابل السعر، وفق AGBI.",
+      "bigStat": {
+        "value": "28 شباط",
+        "label": "war start; prices at lows",
+        "arabicLabel": "منذ 28 شباط بدء حرب إيران والأسعار عند أدنى مستوياتها (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسعار",
+          "value": "أدنى مستوى"
+        },
+        {
+          "label": "المعادلة",
+          "value": "كمية مقابل سعر"
+        },
+        {
+          "label": "المصدر",
+          "value": "AGBI"
+        }
+      ],
+      "broll": "images/news/2026-07-04-opec-august-output-hike/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-04-opec-august-output-hike/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوبك+ ترفع الإنتاج مجدداً لشهر آب والعراق في القلب",
+    "سبع دول بينها العراق ترفع الإنتاج نحو 188 ألف برميل يومياً (AGBI)",
+    "رابع زيادة شهرية على التوالي بعد حزيران وتموز",
+    "الزيادة ضمن تفكيك خفض طوعي بـ1.65 مليون برميل يومياً (2023)",
+    "الأسعار عند أدنى مستوى منذ بدء حرب إيران في 28 شباط",
+    "حركة المرور في مضيق هرمز تتعافى تدريجياً (CNBC)",
+    "كمية أكبر أم سعر أعلى — أيّهما أفضل لموازنة العراق؟"
+  ]
+}

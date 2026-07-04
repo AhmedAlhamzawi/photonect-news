@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-04",
+  "pillar_mix": "2 P1 Iraq money/power · 2 P2 MENA/Gulf · 1 P3 region-hook",
+  "posting_order_alpha": ["baghdad-power-blackout(P1/A)","gulf-ai-sovereign-funds(P2/B)","iraq-salary-payment-risk(P1/A)","opec-august-output-hike(P2/B)","tigris-lost-city(P3/C)"],
+  "stories": [
+    {"slug":"2026-07-04-baghdad-power-blackout","pillar":"P1","bucket":"iraq_domestic","variant":"A",
+     "facts":["Peak summer demand ~40 GW vs supply ~29 GW (Kurdistan24/Shafaq); some forecasts higher","Iranian gas 15-20 mcm/day since early May vs ~50 mcm needed","3,000+ MW lost overnight after Feb 28 strikes hit South Pars-linked gas infra","Excelerate floating-LNG hedge delayed past June target (Ministry of Electricity, April)"],
+     "sources":["Kurdistan24","Shafaq News","MEES","Baker Institute"]},
+    {"slug":"2026-07-04-gulf-ai-sovereign-funds","pillar":"P2","bucket":"gulf_regional","variant":"B",
+     "facts":["Abu Dhabi MGX closed a $49B AI fund (Forbes, Jul 3 2026)","Qatar Qai formed $20B JV with Brookfield (Dec) for AI infrastructure","Saudi PIF's HUMAIN building AI at home","Gulf SWF dealmaking rose over last 3 months despite Iran war"],
+     "sources":["Forbes","Middle East Institute","Fortune"]},
+    {"slug":"2026-07-04-iraq-salary-payment-risk","pillar":"P1","bucket":"iraq_domestic","variant":"A",
+     "facts":["MoF must secure ~8 trillion IQD/month for salaries+pensions+social protection","State banks' liquidity significantly depleted; payment delays increasingly likely (local sources)","40%+ of workforce in public sector/SOEs","Public wages consumed 59% of federal spending in H1 2025; oil >90% of gov income"],
+     "sources":["Iraq Business News","local outlets","IMF"]},
+    {"slug":"2026-07-04-opec-august-output-hike","pillar":"P2","bucket":"global_economy","variant":"B",
+     "facts":["7 OPEC+ nations (incl Iraq) set to add ~188,000 bpd for August — 4th monthly hike","Matches June and July increases","Unwinding 1.65 million bpd of 2023 voluntary cuts","Oil at lowest since Iran war began Feb 28; Hormuz traffic recovering"],
+     "sources":["AGBI","CNBC","Reuters"]},
+    {"slug":"2026-07-04-tigris-lost-city","pillar":"P3","bucket":"wildcard","variant":"C","note":"FEATURE (announced Jan/Feb 2026, not <24h) — heritage/pride register-breaker",
+     "facts":["Alexandria on the Tigris identified at Jebel Khayyaber near Basra","City wall >1 km long, sections up to 8 m high","Founded late 4th century BCE during Alexander's campaigns","Trade hub linking Mesopotamia-Gulf-India-Central Asia ~300 BCE-300 CE","Led by Univ. of Konstanz, Prof. Stefan Hauser; excavation postponed due to war (Art Newspaper)"],
+     "sources":["Archaeology Magazine","The Art Newspaper","University of Konstanz"]}
+  ]
+}
