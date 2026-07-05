@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 5 • 2026",
+  "arabicDateLabel": "5 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "علوم · صحة",
+    "arabicHeadline": "علاج جيني للأنيميا المنجلية... أمل لعوائل المنطقة",
+    "englishSubhead": "SAUDI KFSHRC TREATS SICKLE-CELL WITH GENE THERAPY | A DISEASE COMMON ACROSS IRAQ & THE GULF | FEATURE",
+    "heroMedia": "images/news/2026-07-05-sickle-cell-cure/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "الرياض تعالج مريض منجلية بالعلاج الجيني",
+      "arabicBody": "عالج مركز الملك فيصل التخصصي في الرياض مريضاً بالأنيميا المنجلية عبر العلاج الجيني، ضمن تجربة سريرية لمن لا يناسبهم زرع الخلايا الجذعية، وفق هيلث كير الشرق الأوسط.",
+      "bigStat": {
+        "value": "علاج جيني",
+        "label": "gene therapy for sickle-cell",
+        "arabicLabel": "علاج الأنيميا المنجلية بالعلاج الجيني في مركز الملك فيصل التخصصي (هيلث كير الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "الملك فيصل التخصصي"
+        },
+        {
+          "label": "الإطار",
+          "value": "تجربة سريرية"
+        },
+        {
+          "label": "المصدر",
+          "value": "هيلث كير الشرق الأوسط"
+        }
+      ],
+      "broll": "images/news/2026-07-05-sickle-cell-cure/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-05-sickle-cell-cure/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "هيلث كير الشرق الأوسط · KFSHRC · 2026"
+    },
+    {
+      "label": "كيف يعمل؟",
+      "arabicHeading": "تعديل خلايا المريض ثم إعادتها",
+      "arabicBody": "يعدّل الفريق خلايا المريض الجذعية لتصحيح الخلل الوراثي ثم يعيدها لجسمه، فتقلّ نوبات الألم الحادة ويخفّ الاعتماد على نقل الدم، وفق مركز الملك فيصل التخصصي.",
+      "bigStat": {
+        "value": "خلايا المريض",
+        "label": "patient's own edited stem cells",
+        "arabicLabel": "تعديل الخلايا الجذعية للمريض لتصحيح الخلل الوراثي ثم إعادتها (KFSHRC)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأثر",
+          "value": "ألم أقل"
+        },
+        {
+          "label": "نقل الدم",
+          "value": "اعتماد أقل"
+        },
+        {
+          "label": "المصدر",
+          "value": "KFSHRC"
+        }
+      ],
+      "broll": "images/news/2026-07-05-sickle-cell-cure/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-05-sickle-cell-cure/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "KFSHRC · 2026"
+    },
+    {
+      "label": "لماذا يهمّنا؟",
+      "arabicHeading": "مرض شائع في العراق والخليج",
+      "arabicBody": "المنجلية والثلاسيميا من أكثر أمراض الدم الوراثية انتشاراً في العراق والخليج، ووصول علاج متقدّم إلى المنطقة يفتح باب الأمل لآلاف العوائل، وفق تقارير طبية.",
+      "bigStat": {
+        "value": "المنطقة",
+        "label": "common blood disease in Iraq & Gulf",
+        "arabicLabel": "الأنيميا المنجلية من أكثر أمراض الدم الوراثية انتشاراً في العراق والخليج (تقارير طبية)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرض",
+          "value": "وراثي شائع"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "آلاف العوائل"
+        },
+        {
+          "label": "المصدر",
+          "value": "تقارير طبية"
+        }
+      ],
+      "broll": "images/news/2026-07-05-sickle-cell-cure/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-05-sickle-cell-cure/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "تقارير طبية · KFSHRC · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "KFSHRC",
+      "domain": "kfshrc.edu.sa"
+    },
+    {
+      "name": "HealthCare MEA",
+      "domain": "healthcaremea.com"
+    },
+    {
+      "name": "Al Riyadh Daily",
+      "domain": "alriyadhdaily.com"
+    }
+  ],
+  "arabicTicker": [
+    "علاج جيني للأنيميا المنجلية... أمل لعوائل المنطقة",
+    "مركز الملك فيصل التخصصي في الرياض يعالج مريضاً بالعلاج الجيني (هيلث كير الشرق الأوسط)",
+    "يعدّل الفريق خلايا المريض الجذعية لتصحيح الخلل الوراثي ثم يعيدها لجسمه",
+    "العلاج يقلّل نوبات الألم الحادة ويخفّض الاعتماد على نقل الدم",
+    "المنجلية والثلاسيميا من أكثر أمراض الدم الوراثية انتشاراً في العراق والخليج",
+    "وصول علاج متقدّم إلى المنطقة يفتح باب الأمل لآلاف العوائل",
+    "هل يصل هذا العلاج يوماً إلى مرضى العراق والخليج؟"
+  ]
+}

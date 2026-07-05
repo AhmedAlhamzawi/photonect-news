@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 5 • 2026",
+  "arabicDateLabel": "5 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الخليج · اقتصاد",
+    "arabicHeadline": "حتى السعودية تشدّ الحزام... والنفط ما عاد يغطي الفاتورة",
+    "englishSubhead": "SAUDI 2026 DEFICIT ~$44B | PIF SPENDING −20%+ | BREAKEVEN ~$80–85/BBL",
+    "heroMedia": "images/news/2026-07-05-saudi-pif-squeeze/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "عجز موازنة 2026 نحو 44 مليار دولار",
+      "arabicBody": "تتوقّع وزارة المالية السعودية عجزاً في موازنة 2026 نحو 44 مليار دولار (3.3% من الناتج)، مع بلوغ عجز الربع الأول نحو 33 مليار دولار، وفق معهد دول الخليج.",
+      "bigStat": {
+        "value": "~44 مليار$",
+        "label": "Saudi 2026 budget deficit",
+        "arabicLabel": "العجز المتوقّع لموازنة السعودية 2026 نحو 3.3% من الناتج (وزارة المالية)"
+      },
+      "supportingStats": [
+        {
+          "label": "عجز الربع الأول",
+          "value": "~33 مليار$"
+        },
+        {
+          "label": "نسبة العجز",
+          "value": "3.3%"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة المالية · AGSI"
+        }
+      ],
+      "broll": "images/news/2026-07-05-saudi-pif-squeeze/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-05-saudi-pif-squeeze/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AGSI · AGBI · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صندوق الاستثمارات يخفض الإنفاق 20%+",
+      "arabicBody": "صندوق الاستثمارات العامة خفض الإنفاق 20% على الأقل عبر أكثر من 100 شركة، وبعض المشاريع قُلّصت حتى 60% أو أُوقفت، بعد خفض توزيعات أرامكو نحو الثلث، وفق ميدل إيست بريفينغ.",
+      "bigStat": {
+        "value": "20%+",
+        "label": "PIF spending cut",
+        "arabicLabel": "خفض صندوق الاستثمارات العامة للإنفاق عبر أكثر من 100 شركة (ميدل إيست بريفينغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "بعض المشاريع",
+          "value": "-60%"
+        },
+        {
+          "label": "توزيعات أرامكو",
+          "value": "نحو -الثلث"
+        },
+        {
+          "label": "المصدر",
+          "value": "ميدل إيست بريفينغ"
+        }
+      ],
+      "broll": "images/news/2026-07-05-saudi-pif-squeeze/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-05-saudi-pif-squeeze/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "ميدل إيست بريفينغ · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "سعر التعادل نحو 80–85 والنفط دونه",
+      "arabicBody": "سعر تعادل موازنة السعودية نحو 80–85 دولاراً للبرميل، والنفط يتداول دون 65، ما يضغط على المشاريع الكبرى وفرص العمل الإقليمية بما فيها العمالة العراقية، وفق تقديرات معهد دول الخليج.",
+      "bigStat": {
+        "value": "80–85$",
+        "label": "fiscal breakeven vs <$65 oil",
+        "arabicLabel": "سعر تعادل الموازنة للبرميل مقابل تداول النفط دون 65 دولاراً (تقديرات)"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر النفط",
+          "value": "<65$"
+        },
+        {
+          "label": "الأثر",
+          "value": "ضغط على المشاريع"
+        },
+        {
+          "label": "المصدر",
+          "value": "معهد دول الخليج"
+        }
+      ],
+      "broll": "images/news/2026-07-05-saudi-pif-squeeze/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-05-saudi-pif-squeeze/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "تقديرات · AGSI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Saudi Ministry of Finance",
+      "domain": "mof.gov.sa"
+    },
+    {
+      "name": "AGSI",
+      "domain": "agsi.org"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Middle East Briefing",
+      "domain": "middleeastbriefing.com"
+    }
+  ],
+  "arabicTicker": [
+    "حتى السعودية تشدّ الحزام... والنفط ما عاد يغطي الفاتورة",
+    "عجز موازنة السعودية 2026 نحو 44 مليار دولار أي 3.3% من الناتج (وزارة المالية)",
+    "عجز الربع الأول بلغ نحو 33 مليار دولار مع تراجع إيرادات النفط (AGSI)",
+    "صندوق الاستثمارات العامة خفض الإنفاق 20%+ عبر أكثر من 100 شركة (ميدل إيست بريفينغ)",
+    "بعض المشاريع الكبرى قُلّصت حتى 60% أو أُوقفت، بعد خفض توزيعات أرامكو نحو الثلث",
+    "سعر تعادل الموازنة نحو 80–85 دولاراً والنفط يتداول دون 65 (تقديرات)",
+    "إذا كان النفط لا يغطي فاتورة الخليج، من يدفع ثمن الانكماش في المنطقة؟"
+  ]
+}

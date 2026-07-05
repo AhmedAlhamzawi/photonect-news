@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 5 • 2026",
+  "arabicDateLabel": "5 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · نفط",
+    "arabicHeadline": "قبل 27 تموز... ما مصير منفذ نفط العراق للشمال؟",
+    "englishSubhead": "IRAQ-TURKEY PIPELINE PACT EXPIRES JUL 27 | ~200K+ BPD VIA CEYHAN AT RISK | OIL ~90% OF BUDGET",
+    "heroMedia": "images/news/2026-07-05-ceyhan-oil-deadline/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اتفاق الأنبوب مع تركيا ينتهي 27 تموز",
+      "arabicBody": "اتفاقية أنبوب النفط بين العراق وتركيا الموقّعة عام 1973 تنتهي في 27 تموز، ووفد عراقي زار أنقرة هذا الأسبوع للتفاوض، وفق رويترز.",
+      "bigStat": {
+        "value": "27 تموز",
+        "label": "1973 pipeline pact expiry",
+        "arabicLabel": "موعد انتهاء اتفاقية أنبوب النفط لعام 1973 مع تركيا (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتفاقية",
+          "value": "منذ 1973"
+        },
+        {
+          "label": "عبر جيهان",
+          "value": "+200 ألف ب/ي"
+        },
+        {
+          "label": "المصدر",
+          "value": "رويترز"
+        }
+      ],
+      "broll": "images/news/2026-07-05-ceyhan-oil-deadline/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-05-ceyhan-oil-deadline/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "رويترز · ترك مينت · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "النفط نحو 90% من موازنة العراق",
+      "arabicBody": "عبر جيهان يمر أكثر من 200 ألف برميل يومياً من خام الشمال، والنفط يموّل نحو 90% من الموازنة، فأي انقطاع يمسّ الإيرادات، وفق منتدى الشرق الأوسط.",
+      "bigStat": {
+        "value": "~90%",
+        "label": "oil share of federal budget",
+        "arabicLabel": "حصة النفط من الموازنة الاتحادية للعراق (تقديرات)"
+      },
+      "supportingStats": [
+        {
+          "label": "عبر جيهان",
+          "value": "+200 ألف ب/ي"
+        },
+        {
+          "label": "حصة النفط",
+          "value": "~90%"
+        },
+        {
+          "label": "المصدر",
+          "value": "منتدى الشرق الأوسط"
+        }
+      ],
+      "broll": "images/news/2026-07-05-ceyhan-oil-deadline/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-05-ceyhan-oil-deadline/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "منتدى الشرق الأوسط · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بروتوكول مؤقت لسنة لإبقاء الضخ",
+      "arabicBody": "الجانبان يتّجهان لتوقيع بروتوكول تنفيذي مؤقت لمدة سنة يبقي الصادرات مستمرة بعد 27 تموز، مع استمرار العمل الفني والقانوني، وفق ترك مينت.",
+      "bigStat": {
+        "value": "سنة",
+        "label": "temporary one-year protocol",
+        "arabicLabel": "بروتوكول تنفيذي مؤقت لسنة يبقي الصادرات مستمرة (ترك مينت)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحل المؤقت",
+          "value": "بروتوكول سنة"
+        },
+        {
+          "label": "الخلفية",
+          "value": "تحكيم 2023"
+        },
+        {
+          "label": "المصدر",
+          "value": "ترك مينت"
+        }
+      ],
+      "broll": "images/news/2026-07-05-ceyhan-oil-deadline/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-05-ceyhan-oil-deadline/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ترك مينت · رويترز · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Turkish Minute",
+      "domain": "turkishminute.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Middle East Forum",
+      "domain": "meforum.org"
+    }
+  ],
+  "arabicTicker": [
+    "قبل 27 تموز... ما مصير منفذ نفط العراق للشمال؟",
+    "اتفاقية أنبوب النفط مع تركيا الموقّعة عام 1973 تنتهي في 27 تموز (رويترز)",
+    "وفد عراقي من وزارتي النفط والخارجية زار أنقرة هذا الأسبوع للتفاوض (ترك مينت)",
+    "عبر جيهان يمر أكثر من 200 ألف برميل يومياً من خام الشمال (منتدى الشرق الأوسط)",
+    "النفط يموّل نحو 90% من الموازنة الاتحادية، وأي انقطاع يمسّ الإيرادات (منتدى الشرق الأوسط)",
+    "الجانبان يتّجهان لبروتوكول تنفيذي مؤقت لمدة سنة يبقي الضخ (ترك مينت)",
+    "هل يُوقَّع الاتفاق قبل الموعد أم ينقطع منفذ الشمال؟"
+  ]
+}

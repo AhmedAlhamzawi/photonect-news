@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 5 • 2026",
+  "arabicDateLabel": "5 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "المنطقة · هرمز",
+    "arabicHeadline": "رسوم عبور هرمز... من يدفع فاتورة نفط الخليج؟",
+    "englishSubhead": "IRAN VOWS HORMUZ PASSAGE FEES AFTER 60-DAY FREE WINDOW | ~$1.5–2M/VESSEL | ~20% OF WORLD OIL TRANSITS HERE",
+    "heroMedia": "images/news/2026-07-05-hormuz-transit-fees/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "إيران: سنفرض حتماً رسوم خدمة على العبور",
+      "arabicBody": "قال سفير إيران في بكين إن بلاده «ستفرض حتماً رسوم خدمة» على السفن العابرة لهرمز، مع «معاملة خاصة» للدول الصديقة وتنسيق مع عُمان، وفق تايمز أوف إسرائيل.",
+      "bigStat": {
+        "value": "رسوم",
+        "label": "Iran vows Hormuz service fees",
+        "arabicLabel": "إيران تعلن فرض رسوم خدمة على عبور مضيق هرمز (تايمز أوف إسرائيل)"
+      },
+      "supportingStats": [
+        {
+          "label": "التصريح",
+          "value": "من بكين"
+        },
+        {
+          "label": "الدول الصديقة",
+          "value": "معاملة خاصة"
+        },
+        {
+          "label": "المصدر",
+          "value": "تايمز أوف إسرائيل"
+        }
+      ],
+      "broll": "images/news/2026-07-05-hormuz-transit-fees/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-05-hormuz-transit-fees/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "تايمز أوف إسرائيل · غلف نيوز · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نحو 20% من نفط العالم يمر من هنا",
+      "arabicBody": "عبر هرمز يمر نحو 20% من نفط العالم، ومنه صادرات البصرة، والرسوم المتداولة نحو 1.5–2 مليون دولار للسفينة، ما يرفع كلفة تصدير نفط العراق والخليج، وفق إن بي سي.",
+      "bigStat": {
+        "value": "1.5–2 م$",
+        "label": "reported fee per vessel",
+        "arabicLabel": "الرسوم المتداولة لكل سفينة عابرة لمضيق هرمز (إن بي سي)"
+      },
+      "supportingStats": [
+        {
+          "label": "من نفط العالم",
+          "value": "~20%"
+        },
+        {
+          "label": "صادرات البصرة",
+          "value": "عبر هرمز"
+        },
+        {
+          "label": "المصدر",
+          "value": "إن بي سي · كردستان24"
+        }
+      ],
+      "broll": "images/news/2026-07-05-hormuz-transit-fees/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-05-hormuz-transit-fees/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "إن بي سي · كردستان24 · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "نافذة الـ60 يوماً المجانية تقترب من نهايتها",
+      "arabicBody": "مذكرة 17 حزيران تتيح مروراً مجانياً 60 يوماً تنتهي منتصف آب، فيما تعدّ واشنطن الرسوم مخالفة للقانون الدولي، والغموض يخيّم على كلفة الشحن، وفق رويترز.",
+      "bigStat": {
+        "value": "60 يوماً",
+        "label": "free-transit window ending",
+        "arabicLabel": "نافذة المرور المجاني البالغة 60 يوماً تنتهي منتصف آب (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المذكرة",
+          "value": "17 حزيران"
+        },
+        {
+          "label": "موقف واشنطن",
+          "value": "مخالف للقانون"
+        },
+        {
+          "label": "المصدر",
+          "value": "رويترز"
+        }
+      ],
+      "broll": "images/news/2026-07-05-hormuz-transit-fees/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-05-hormuz-transit-fees/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "رويترز · تايمز أوف إسرائيل · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times of Israel",
+      "domain": "timesofisrael.com"
+    },
+    {
+      "name": "NBC News",
+      "domain": "nbcnews.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "رسوم عبور هرمز... من يدفع فاتورة نفط الخليج؟",
+    "سفير إيران في بكين: سنفرض حتماً رسوم خدمة على عبور هرمز (تايمز أوف إسرائيل)",
+    "معاملة خاصة للدول الصديقة وتنسيق مع عُمان حول ترتيبات جديدة (تايمز أوف إسرائيل)",
+    "نحو 20% من نفط العالم يمر عبر هرمز ومنه صادرات البصرة",
+    "الرسوم المتداولة نحو 1.5–2 مليون دولار للسفينة (إن بي سي)",
+    "واشنطن تعدّ فرض الرسوم مخالفاً للقانون الدولي، فيما تؤكد طهران حقها (رويترز)",
+    "مذكرة 17 حزيران تتيح مروراً مجانياً 60 يوماً تنتهي منتصف آب... فمن يدفع بعدها؟"
+  ]
+}

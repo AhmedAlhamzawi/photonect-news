@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 5 • 2026",
+  "arabicDateLabel": "5 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · مياه",
+    "arabicHeadline": "مخزون العراق المائي عند أدنى مستوى بـ80 سنة",
+    "englishSubhead": "IRAQ WATER RESERVES AT ~10 BCM VS ~70 BCM AVG | LOWEST IN 80 YEARS | BASRA UNDER SALT & HEAT",
+    "heroMedia": "images/news/2026-07-05-iraq-water-emergency/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المخزون نحو 10 مليارات م³ مقابل 70",
+      "arabicBody": "المخزون هبط إلى نحو 10 مليارات م³ مقابل معدّل تاريخي نحو 70، الأدنى منذ 80 عاماً، مع استهلاك خزين الشتاء بالكامل، وفق وزارة الموارد المائية.",
+      "bigStat": {
+        "value": "~10 مليار",
+        "label": "m³ reserves vs ~70 avg",
+        "arabicLabel": "المخزون المائي بالمتر المكعب مقابل معدّل نحو 70 ملياراً (وزارة الموارد المائية)"
+      },
+      "supportingStats": [
+        {
+          "label": "المعدّل التاريخي",
+          "value": "~70 مليار م³"
+        },
+        {
+          "label": "الأدنى منذ",
+          "value": "80 عاماً"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة الموارد المائية"
+        }
+      ],
+      "broll": "images/news/2026-07-05-iraq-water-emergency/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-05-iraq-water-emergency/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "وزارة الموارد المائية · كردستان24 · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "حصة العراق أقل من 40% من النهرين",
+      "arabicBody": "يصل العراق أقل من 40% من حصته في دجلة والفرات، ويعزو ذلك إلى سدود دول المنبع، فتراجعت الأراضي الزراعية 40% ونزح نحو 130 ألفاً، وفق وزارة الموارد المائية.",
+      "bigStat": {
+        "value": "<40%",
+        "label": "of Iraq's river-water share",
+        "arabicLabel": "ما يصل العراق من حصته في دجلة والفرات (وزارة الموارد المائية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأراضي الزراعية",
+          "value": "-40%"
+        },
+        {
+          "label": "النازحون",
+          "value": "~130 ألف"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة الموارد المائية"
+        }
+      ],
+      "broll": "images/news/2026-07-05-iraq-water-emergency/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-05-iraq-water-emergency/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "وزارة الموارد المائية · تشاتام هاوس · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البصرة تشرب بالصهاريج والحرارة نحو 50°",
+      "arabicBody": "في البصرة (3.5 مليون نسمة) يشرب السكان من الصهاريج مع ارتفاع الملوحة والحرارة نحو 50°، وخطة طوارئ تؤمّن الشرب وتوقف الاستخدام المخالف، وفق الجزيرة ووزارة الموارد المائية.",
+      "bigStat": {
+        "value": "3.5 مليون",
+        "label": "Basra residents on trucked water",
+        "arabicLabel": "سكان البصرة المعتمدون على مياه الصهاريج مع الملوحة والحرارة (وزارة الموارد المائية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحرارة",
+          "value": "نحو 50°"
+        },
+        {
+          "label": "الإجراء",
+          "value": "خطة طوارئ"
+        },
+        {
+          "label": "المصدر",
+          "value": "الجزيرة · الموارد المائية"
+        }
+      ],
+      "broll": "images/news/2026-07-05-iraq-water-emergency/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-05-iraq-water-emergency/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "عرب نيوز · الجزيرة · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraq Water Resources Ministry",
+      "domain": "mowr.gov.iq"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Chatham House",
+      "domain": "chathamhouse.org"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "مخزون العراق المائي عند أدنى مستوى بـ80 سنة",
+    "المخزون نحو 10 مليارات م³ مقابل معدّل تاريخي نحو 70 (وزارة الموارد المائية)",
+    "خزين الشتاء البالغ نحو 21 مليار م³ استُهلك بالكامل قبل الذروة",
+    "العراق يصل أقل من 40% من حصته في دجلة والفرات ويعزوه إلى سدود دول المنبع (وزارة الموارد المائية)",
+    "تراجع الأراضي الزراعية نحو 40% ونزوح قرابة 130 ألف شخص",
+    "البصرة تعتمد على الصهاريج مع الملوحة والحرارة نحو 50 مئوية",
+    "هل تكفي خطة الطوارئ لتأمين مياه الشرب هذا الصيف؟"
+  ]
+}
