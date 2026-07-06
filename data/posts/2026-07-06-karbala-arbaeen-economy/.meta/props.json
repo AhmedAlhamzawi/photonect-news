@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 6 • 2026",
+  "arabicDateLabel": "6 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "العراق · الأربعين",
+    "arabicHeadline": "أكبر مسيرة بشرية في العالم تتحرّك نحو كربلاء",
+    "englishSubhead": "IRAQ GEARS UP FOR ARBAEEN AUG 4 | 22.3M PILGRIMS IN 2025 | KARBALA SWELLS 2M → 21.5M",
+    "heroMedia": "images/news/2026-07-06-karbala-arbaeen-economy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "في 4 آب يمشي الملايين إلى كربلاء",
+      "arabicBody": "في 4 آب يبدأ الملايين مسيرة الأربعين، أكبر تجمّع بشري سنوي في العالم، سيراً على نحو 80 كم من النجف إلى كربلاء، وفق مركز الإعلام الديني.",
+      "bigStat": {
+        "value": "4 آب",
+        "label": "Arbaeen 2026 date",
+        "arabicLabel": "موعد زيارة الأربعين (20 صفر 1448) لعام 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "المسافة",
+          "value": "~80 كم"
+        },
+        {
+          "label": "المسار",
+          "value": "النجف–كربلاء"
+        },
+        {
+          "label": "الحدث",
+          "value": "الأكبر عالمياً"
+        }
+      ],
+      "broll": "images/news/2026-07-06-karbala-arbaeen-economy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-06-karbala-arbaeen-economy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "مركز الإعلام الديني · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "22.3 مليون زائر تستقبلهم مدينة واحدة",
+      "arabicBody": "شارك أكثر من 22.3 مليون في أربعين 2025، فتنتقل كربلاء من نحو 2 مليون إلى نحو 21.5 مليون، وتتحرّك معها الضيافة والنقل، وفق هيئة العتبات و964.",
+      "bigStat": {
+        "value": "22.35 مليون",
+        "label": "Arbaeen 2025 turnout",
+        "arabicLabel": "عدد المشاركين في أربعين 2025 وفق هيئة العتبات في كربلاء (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "كربلاء عادةً",
+          "value": "~2 مليون"
+        },
+        {
+          "label": "خلال الزيارة",
+          "value": "~21.5 مليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "هيئة العتبات"
+        }
+      ],
+      "broll": "images/news/2026-07-06-karbala-arbaeen-economy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-06-karbala-arbaeen-economy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "964 · هيئة العتبات · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد تنظر للزيارة كمورد خارج النفط",
+      "arabicBody": "مع دخول 3.4 مليون زائر أجنبي في 2024، تنظر بغداد إلى السياحة الدينية كمورد غير نفطي وسط ضغط إيرادات النفط، وفق كربلاء إنتل.",
+      "bigStat": {
+        "value": "3.4 مليون",
+        "label": "foreign pilgrims 2024",
+        "arabicLabel": "عدد الزوار الأجانب الذين دخلوا العراق للأربعين في 2024 (كربلاء إنتل)"
+      },
+      "supportingStats": [
+        {
+          "label": "زوار أجانب 2024",
+          "value": "3.4 مليون"
+        },
+        {
+          "label": "المورد",
+          "value": "غير نفطي"
+        },
+        {
+          "label": "الرهان",
+          "value": "السياحة الدينية"
+        }
+      ],
+      "broll": "images/news/2026-07-06-karbala-arbaeen-economy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-06-karbala-arbaeen-economy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "كربلاء إنتل · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Religion Media Centre",
+      "domain": "religionmediacentre.org.uk"
+    },
+    {
+      "name": "Karbala Intel",
+      "domain": "karbala-intel.net"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    }
+  ],
+  "arabicTicker": [
+    "أكبر مسيرة بشرية في العالم تتحرّك نحو كربلاء",
+    "في 4 آب يبدأ الملايين مسيرة الأربعين، أكبر تجمّع بشري سنوي في العالم (مركز الإعلام الديني)",
+    "الملايين يسيرون نحو 80 كم من النجف إلى كربلاء (مركز الإعلام الديني)",
+    "شارك أكثر من 22.3 مليون في أربعين 2025 وفق هيئة العتبات (964)",
+    "كربلاء تنتقل من نحو 2 مليون إلى نحو 21.5 مليون خلال الزيارة (964)",
+    "3.4 مليون زائر أجنبي دخلوا للأربعين في 2024، ومورد غير نفطي تنظر إليه بغداد (كربلاء إنتل)",
+    "هل تتحوّل السياحة الدينية إلى مورد يخفّف اعتماد العراق على النفط؟"
+  ]
+}

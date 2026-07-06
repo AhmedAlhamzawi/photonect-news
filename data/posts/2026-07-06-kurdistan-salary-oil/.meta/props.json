@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 6 • 2026",
+  "arabicDateLabel": "6 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كردستان · رواتب",
+    "arabicHeadline": "رواتب كردستان معلّقة... والنفط شرط الصفقة",
+    "englishSubhead": "KRG JUNE+JULY SALARIES PENDING | BAGHDAD WITHHOLDING SINCE MAY | 41% OF DUES PAID | 230K BPD DEAL",
+    "heroMedia": "images/news/2026-07-06-kurdistan-salary-oil/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رواتب حزيران وتموز عالقة منذ أيار",
+      "arabicBody": "رواتب موظفي إقليم كردستان لحزيران وتموز ما تزال عالقة، وبغداد أوقفت التمويل منذ أيار، والإقليم يتحدث عن «تمييز»، وفق العرب ويكلي.",
+      "bigStat": {
+        "value": "حزيران+تموز",
+        "label": "salaries pending",
+        "arabicLabel": "رواتب موظفي كردستان المعلّقة حتى الآن (العرب ويكلي)"
+      },
+      "supportingStats": [
+        {
+          "label": "متوقفة منذ",
+          "value": "أيار"
+        },
+        {
+          "label": "المعلّق",
+          "value": "حزيران+تموز"
+        },
+        {
+          "label": "الإقليم",
+          "value": "«تمييز»"
+        }
+      ],
+      "broll": "images/news/2026-07-06-kurdistan-salary-oil/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-06-kurdistan-salary-oil/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "العرب ويكلي · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "41% فقط... وضغط على الصحة والتعليم",
+      "arabicBody": "الإقليم يقول إن بغداد سدّدت 41% فقط من مستحقاته، وتأخّر الرواتب يضغط على الخدمات الأساسية كالصحة والتعليم، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "41%",
+        "label": "share of dues paid",
+        "arabicLabel": "نسبة المستحقات التي سدّدتها بغداد للإقليم وفق الإقليم (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "سُدّد",
+          "value": "41% فقط"
+        },
+        {
+          "label": "يتأثّر",
+          "value": "الصحة والتعليم"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-07-06-kurdistan-salary-oil/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-06-kurdistan-salary-oil/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "شفق نيوز · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "230 ألف برميل ثمن فكّ الرواتب",
+      "arabicBody": "منتصف تموز، اتفق الطرفان على تسليم 230 ألف برميل يومياً لسومو مقابل صرف الرواتب، لكن مفاوضات سابقة تعثّرت دون حل نهائي، وفق العربي الجديد.",
+      "bigStat": {
+        "value": "230 ألف ب/ي",
+        "label": "oil-for-salaries deal",
+        "arabicLabel": "كمية النفط المتفق على تسليمها لسومو مقابل الرواتب (العربي الجديد)"
+      },
+      "supportingStats": [
+        {
+          "label": "إلى سومو",
+          "value": "230 ألف ب/ي"
+        },
+        {
+          "label": "المقابل",
+          "value": "صرف الرواتب"
+        },
+        {
+          "label": "المصدر",
+          "value": "العربي الجديد"
+        }
+      ],
+      "broll": "images/news/2026-07-06-kurdistan-salary-oil/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-06-kurdistan-salary-oil/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "العربي الجديد · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "رواتب كردستان معلّقة... والنفط شرط الصفقة",
+    "رواتب موظفي إقليم كردستان لحزيران وتموز ما تزال عالقة، وبغداد أوقفت التمويل منذ أيار (العرب ويكلي)",
+    "الإقليم يتحدث عن «تمييز» في صرف الرواتب (العرب ويكلي)",
+    "الإقليم يقول إن بغداد سدّدت 41% فقط من مستحقاته (شفق نيوز)",
+    "تأخّر الرواتب يضغط على الخدمات الأساسية كالصحة والتعليم (شفق نيوز)",
+    "منتصف تموز، اتفاق على تسليم 230 ألف برميل يومياً لسومو مقابل صرف الرواتب (العربي الجديد)",
+    "هل يصمد اتفاق النفط مقابل الرواتب هذه المرة؟"
+  ]
+}

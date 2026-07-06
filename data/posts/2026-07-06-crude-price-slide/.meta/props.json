@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 6 • 2026",
+  "arabicDateLabel": "6 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · موازنة",
+    "arabicHeadline": "برنت يهبط... من يدفع فاتورة موازنة العراق؟",
+    "englishSubhead": "OPEC+ HIKES AGAIN JUL 5 | US WAIVER FREES ~67M IRAN BARRELS | BRENT ~$77.7 | IRAQ 90% OIL-FUNDED",
+    "heroMedia": "images/news/2026-07-06-crude-price-slide/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أوبك+ تضخّ أكثر ونفط إيران يعود",
+      "arabicBody": "أوبك+ أقرّت في 5 تموز زيادة 188 ألف برميل يومياً من آب مع تعافي صادرات هرمز، وواشنطن رفعت عقوبات نفط إيران حتى 21 آب، وفق CNBC.",
+      "bigStat": {
+        "value": "188 ألف ب/ي",
+        "label": "OPEC+ Aug quota hike",
+        "arabicLabel": "زيادة حصص أوبك+ لشهر آب المقرّة في 5 تموز (CNBC)"
+      },
+      "supportingStats": [
+        {
+          "label": "أوبك+",
+          "value": "+188 ألف ب/ي"
+        },
+        {
+          "label": "إعفاء إيران",
+          "value": "حتى 21 آب"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-07-06-crude-price-slide/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-06-crude-price-slide/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNBC · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "برنت عند 77.7$ والعراق نفطي 90%",
+      "arabicBody": "برنت نزل نحو 77.7$ بعد إعفاء يُحرّر نحو 67 مليون برميل مخزّن، والنفط يموّل نحو 90% من موازنة العراق، فكل هبوط يقلّص الإيرادات، وفق الجزيرة ورويترز.",
+      "bigStat": {
+        "value": "~77.7$",
+        "label": "Brent after Iran waiver",
+        "arabicLabel": "سعر خام برنت بعد إعفاء نفط إيران (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "~77.7$"
+        },
+        {
+          "label": "نفط إيران محرَّر",
+          "value": "~67 مليون برميل"
+        },
+        {
+          "label": "حصة النفط",
+          "value": "~90%"
+        }
+      ],
+      "broll": "images/news/2026-07-06-crude-price-slide/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-06-crude-price-slide/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "الجزيرة · رويترز · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "عجز 5 مليارات$ والرواتب أكثر من النصف",
+      "arabicBody": "العراق سجّل عجزاً نحو 5 مليارات دولار في أول 4 أشهر من 2026 مع تراجع الصادرات، ورواتب الموظفين وحدها تتجاوز نصف الموازنة، وفق AGBI.",
+      "bigStat": {
+        "value": "~5 مليار$",
+        "label": "Jan–Apr 2026 deficit",
+        "arabicLabel": "عجز موازنة العراق في أول أربعة أشهر من 2026 (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "العجز",
+          "value": "~5 مليار$"
+        },
+        {
+          "label": "الرواتب",
+          "value": ">نصف الموازنة"
+        },
+        {
+          "label": "المصدر",
+          "value": "AGBI"
+        }
+      ],
+      "broll": "images/news/2026-07-06-crude-price-slide/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-06-crude-price-slide/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت يهبط... من يدفع فاتورة موازنة العراق؟",
+    "أوبك+ أقرّت في 5 تموز زيادة إنتاج 188 ألف برميل يومياً من آب مع تعافي صادرات هرمز (CNBC)",
+    "واشنطن رفعت عقوبات نفط إيران حتى 21 آب، ما يُحرّر نحو 67 مليون برميل مخزّن (الجزيرة)",
+    "برنت تراجع نحو 77.7 دولار بعد الإعفاء (الجزيرة)",
+    "النفط يموّل نحو 90% من موازنة العراق، فكل هبوط يقلّص الإيرادات (رويترز)",
+    "العراق سجّل عجزاً نحو 5 مليارات دولار في أول أربعة أشهر من 2026 (AGBI)",
+    "هل يصمد الإنفاق العام إذا استمر النفط بالهبوط؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 6 • 2026",
+  "arabicDateLabel": "6 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · فساد",
+    "arabicHeadline": "تريليونا دولار من جيب العراق... وين راحوا؟",
+    "englishSubhead": "IRAQ ADVISER: $2T+ STOLEN SINCE 2003 | 'DAWN' GRAFT CRACKDOWN | PUBLIC TELEVISED TRIALS",
+    "heroMedia": "images/news/2026-07-06-baghdad-graft-2trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مستشار الحكومة يعلن رقماً «يفوق العقل»",
+      "arabicBody": "قال مستشار رئيس الوزراء القانوني منير حداد إن أكثر من تريليوني دولار سُرقت من المال العام منذ 2003، ووصفه بأنه «يفوق العقل»، وفق ميدل إيست مونيتور.",
+      "bigStat": {
+        "value": "+2 تريليون$",
+        "label": "$2T+ stolen since 2003",
+        "arabicLabel": "تقدير المستشار القانوني منير حداد لحجم الأموال العامة المنهوبة منذ 2003 (ميدل إيست مونيتور)"
+      },
+      "supportingStats": [
+        {
+          "label": "منذ",
+          "value": "2003"
+        },
+        {
+          "label": "الوصف",
+          "value": "«يفوق العقل»"
+        },
+        {
+          "label": "المصدر",
+          "value": "ميدل إيست مونيتور"
+        }
+      ],
+      "broll": "images/news/2026-07-06-baghdad-graft-2trillion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-06-baghdad-graft-2trillion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ميدل إيست مونيتور · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "«صولة الفجر» تصل إلى النواب والكبار",
+      "arabicBody": "بأمر رئيس الوزراء علي الزيدي، حملة «صولة الفجر» أوقفت نواباً ومسؤولين كباراً واستردّت أموالاً وذهباً وعقارات، وبعض المتهمين يملكون أكثر من 50 عقاراً، وفق كردستان24.",
+      "bigStat": {
+        "value": "50+ عقاراً",
+        "label": "50+ properties per suspect",
+        "arabicLabel": "عدد العقارات المسجّلة باسم بعض المتهمين أو عوائلهم وفق القضاء (كردستان24)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحملة",
+          "value": "«صولة الفجر»"
+        },
+        {
+          "label": "عقار لأحدهم",
+          "value": "5 ملايين$"
+        },
+        {
+          "label": "بأمر",
+          "value": "رئيس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-07-06-baghdad-graft-2trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-06-baghdad-graft-2trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "كردستان24 · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "محاكمات علنية تُبثّ مباشرة على الهواء",
+      "arabicBody": "القضاء يستعد لمحاكمات علنية تُنقل بالبث المباشر، وتشمل قائمة المتهمين مسؤولين حاليين وسابقين ونواباً وكباراً في الدولة، وفق كردستان24 وميدل إيست مونيتور.",
+      "bigStat": {
+        "value": "بث مباشر",
+        "label": "public televised trials",
+        "arabicLabel": "محاكمات الفساد ستُجرى علناً عبر البث المباشر وفق القضاء (كردستان24)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحاكمات",
+          "value": "علنية"
+        },
+        {
+          "label": "تشمل",
+          "value": "نواباً ومسؤولين"
+        },
+        {
+          "label": "المصدر",
+          "value": "كردستان24"
+        }
+      ],
+      "broll": "images/news/2026-07-06-baghdad-graft-2trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-06-baghdad-graft-2trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "كردستان24 · ميدل إيست مونيتور · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Middle East Monitor",
+      "domain": "middleeastmonitor.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Al Bawaba",
+      "domain": "albawaba.com"
+    }
+  ],
+  "arabicTicker": [
+    "تريليونا دولار من جيب العراق... وين راحوا؟",
+    "مستشار رئيس الوزراء القانوني منير حداد: أكثر من تريليوني دولار سُرقت من المال العام منذ 2003 (ميدل إيست مونيتور)",
+    "حملة «صولة الفجر» بأمر رئيس الوزراء علي الزيدي أوقفت نواباً ومسؤولين كباراً (كردستان24)",
+    "استُردّت أموال وذهب وعقارات، وبعض المتهمين يملكون أكثر من 50 عقاراً (كردستان24)",
+    "زوجة أحد المتهمين اشترت عقاراً بخمسة ملايين دولار (كردستان24)",
+    "القضاء يستعد لمحاكمات علنية تُبثّ مباشرة وتشمل مسؤولين حاليين وسابقين (ميدل إيست مونيتور)",
+    "هل تسترجع الدولة ما نُهب، أم تبقى الأرقام مجرد عناوين؟"
+  ]
+}

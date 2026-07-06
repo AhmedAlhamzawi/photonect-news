@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 6 • 2026",
+  "arabicDateLabel": "6 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق · تشريع",
+    "arabicHeadline": "قانون الجرائم المعلوماتية... منشورك يودّيك السجن؟",
+    "englishSubhead": "IRAQ REVIVES CYBERCRIME BILL | LIFE TERMS + 25–50M IQD FINES | RIGHTS GROUPS WARN ON SPEECH",
+    "heroMedia": "images/news/2026-07-06-iraq-cyber-law/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البرلمان يعيد قانون الجرائم المعلوماتية",
+      "arabicBody": "مع عودة البرلمان لدورته الجديدة، عاد مشروع قانون الجرائم المعلوماتية المثير للجدل إلى الطاولة بعد سنوات من التأجيل، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "على الطاولة",
+        "label": "cybercrime bill revived",
+        "arabicLabel": "عودة مشروع قانون الجرائم المعلوماتية إلى البرلمان بعد تأجيلات (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوضع",
+          "value": "معلّق منذ سنوات"
+        },
+        {
+          "label": "الآن",
+          "value": "على الطاولة"
+        },
+        {
+          "label": "المصدر",
+          "value": "ذا ناشيونال"
+        }
+      ],
+      "broll": "images/news/2026-07-06-iraq-cyber-law/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-06-iraq-cyber-law/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ذا ناشيونال · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المؤبد وغرامات حتى 50 مليون دينار",
+      "arabicBody": "المسودة تنصّ على المؤبد وغرامات 25–50 مليون دينار لأفعال «تمسّ الأمن أو النظام العام»، وسنة سجن على الأقل لمخالفة «القيم»، وفق مينا رايتس.",
+      "bigStat": {
+        "value": "المؤبد",
+        "label": "life imprisonment (max)",
+        "arabicLabel": "أقصى عقوبة في المسودة لأفعال تمسّ الأمن عبر الشبكة (MENA Rights Group)"
+      },
+      "supportingStats": [
+        {
+          "label": "الغرامة",
+          "value": "25–50 مليون دينار"
+        },
+        {
+          "label": "«القيم»",
+          "value": "≥سنة سجن"
+        },
+        {
+          "label": "الخصوصية",
+          "value": "حتى 10 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-07-06-iraq-cyber-law/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-06-iraq-cyber-law/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "MENA Rights Group · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "منظمات حقوقية تحذّر من كبح التعبير",
+      "arabicBody": "منظمات مثل هيومن رايتس ووتش وسمكس تحذّر من أن صياغة فضفاضة قد تُجرّم منشورات الرأي، بينما يقول مؤيدون إنه يردع الابتزاز والاحتيال، وفق سمكس.",
+      "bigStat": {
+        "value": "جدل مفتوح",
+        "label": "free-speech dispute",
+        "arabicLabel": "خلاف بين مخاوف حرية التعبير ومبرّرات ردع الجرائم الإلكترونية (SMEX)"
+      },
+      "supportingStats": [
+        {
+          "label": "يحذّر",
+          "value": "HRW · سمكس"
+        },
+        {
+          "label": "يؤيد",
+          "value": "ردع الابتزاز"
+        },
+        {
+          "label": "المصدر",
+          "value": "سمكس"
+        }
+      ],
+      "broll": "images/news/2026-07-06-iraq-cyber-law/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-06-iraq-cyber-law/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "SMEX · HRW · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "MENA Rights Group",
+      "domain": "menarights.org"
+    },
+    {
+      "name": "SMEX",
+      "domain": "smex.org"
+    },
+    {
+      "name": "Human Rights Watch",
+      "domain": "hrw.org"
+    }
+  ],
+  "arabicTicker": [
+    "قانون الجرائم المعلوماتية... منشورك يودّيك السجن؟",
+    "مع عودة البرلمان لدورته الجديدة، عاد مشروع قانون الجرائم المعلوماتية إلى الطاولة (ذا ناشيونال)",
+    "المسودة تنصّ على السجن المؤبد وغرامات 25–50 مليون دينار لأفعال تمسّ الأمن عبر الشبكة (MENA Rights Group)",
+    "سنة سجن على الأقل لمخالفة «القيم»، وحتى 10 سنوات لانتهاك الخصوصية (MENA Rights Group)",
+    "هيومن رايتس ووتش وسمكس تحذّران من أن الصياغة الفضفاضة قد تُجرّم منشورات الرأي (سمكس)",
+    "مؤيدون يقولون إن القانون يردع الابتزاز والاحتيال الإلكتروني (سمكس)",
+    "أين يقف الخط بين حماية الناس وكبح حرية التعبير؟"
+  ]
+}
