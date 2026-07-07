@@ -1,0 +1,71 @@
+name: Air series
+
+# Airs ONE episode of a committed series per day, in order, from the cloud —
+# so it cannot miss a night when Ahmed's Mac is closed (the failure mode that
+# stalled the series after ep1). Finds the first episode with no committed
+# .posted-live.json marker, posts it, marks it, and commits the marker so the
+# next run advances by exactly one. Idempotent and self-terminating.
+# Security note: the only dispatch input (prefix) is read via an env var and
+# quoted in shell; no run: step interpolates untrusted expressions.
+
+on:
+  schedule:
+    - cron: '3 18 * * *'   # ~21:03 Asia/Baghdad (UTC+3)
+  workflow_dispatch:
+    inputs:
+      prefix:
+        description: 'Series slug prefix under data/posts/'
+        required: false
+        type: string
+        default: '2026-07-04-almalaf-ep'
+
+permissions:
+  contents: write
+
+jobs:
+  air:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PREFIX: ${{ inputs.prefix || '2026-07-04-almalaf-ep' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find next un-aired episode
+        id: next
+        run: |
+          NEXT=$(python3 - <<'PY'
+          import os, glob
+          prefix = os.environ["PREFIX"]
+          for d in sorted(glob.glob(f"data/posts/{prefix}*")):
+              if (os.path.isdir(d)
+                      and os.path.exists(os.path.join(d, "video.mp4"))
+                      and not os.path.exists(os.path.join(d, ".posted-live.json"))):
+                  print(os.path.basename(d)); break
+          PY
+          )
+          echo "slug=$NEXT" >> "$GITHUB_OUTPUT"
+          echo "next episode: ${NEXT:-<none — series complete>}"
+
+      - name: Post it to Instagram + TikTok + X
+        if: steps.next.outputs.slug != ''
+        env:
+          UPLOAD_POST_API_KEY: ${{ secrets.PHOTONECT_NEWS_AUTO_POSTER }}
+          UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
+          SLUG: ${{ steps.next.outputs.slug }}
+        run: |
+          python3 automation/scripts/post-to-uploadpost.py \
+            --slugs "$SLUG" --user "$UPLOAD_POST_USER" --platforms instagram,tiktok,x
+
+      - name: Mark aired + commit the marker
+        if: steps.next.outputs.slug != '' && success()
+        env:
+          SLUG: ${{ steps.next.outputs.slug }}
+        run: |
+          STAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          printf '{"aired":"%s","via":"air-series.yml"}\n' "$STAMP" > "data/posts/$SLUG/.posted-live.json"
+          git config user.name "photonect-bot"
+          git config user.email "noreply@anthropic.com"
+          git add -f "data/posts/$SLUG/.posted-live.json"
+          git commit -m "chore(series): $SLUG aired via cloud cron"
+          git push
