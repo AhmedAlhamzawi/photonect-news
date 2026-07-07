@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 7 • 2026",
+  "arabicDateLabel": "7 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "موازنة · رواتب",
+    "arabicHeadline": "راتبك من مطبعة؟ دخل الدولة نصف مصروفها",
+    "englishSubhead": "IRAQ MONTHLY REVENUE ≤4T IQD VS ~8T EXPENDITURE | STATE PRINTED ~25T IQD | ~80% OF BUDGET IS SALARIES",
+    "heroMedia": "images/news/2026-07-07-payroll-printing/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الدخل 4 تريليون والمصروف 8 تريليون",
+      "arabicBody": "مظهر صالح، مستشار رئيس الوزراء: الإيراد الشهري قد لا يتجاوز 4 تريليون دينار (~2.61 مليار$)، مقابل مصروف نحو 8 تريليون للرواتب والتقاعد، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "4 مقابل 8",
+        "label": "Revenue vs spend (T IQD/mo)",
+        "arabicLabel": "الإيراد الشهري مقابل المصروف بالتريليون دينار (مظهر صالح)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإيراد الشهري",
+          "value": "≤4 تريليون د"
+        },
+        {
+          "label": "المصروف الشهري",
+          "value": "~8 تريليون د"
+        },
+        {
+          "label": "المصدر",
+          "value": "مظهر صالح"
+        }
+      ],
+      "broll": "images/news/2026-07-07-payroll-printing/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-07-payroll-printing/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "شفق نيوز · 2026"
+    },
+    {
+      "label": "ليش صار؟",
+      "arabicHeading": "الدولة تطبع النقد لسدّ الفجوة",
+      "arabicBody": "لمواجهة شحّ السيولة لجأت الدولة إلى طباعة نحو 25 تريليون دينار، ويحذّر خبراء من أن يغذّي ذلك التضخم إذا لم يقابله نموّ حقيقي، وفق أخبار العراق.",
+      "bigStat": {
+        "value": "~25 تريليون د",
+        "label": "Currency printed",
+        "arabicLabel": "حجم النقد المطبوع لسدّ شحّ السيولة (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "النقد المطبوع",
+          "value": "~25 تريليون د"
+        },
+        {
+          "label": "السبب",
+          "value": "شحّ السيولة"
+        },
+        {
+          "label": "التحذير",
+          "value": "خطر التضخم"
+        }
+      ],
+      "broll": "images/news/2026-07-07-payroll-printing/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-07-payroll-printing/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraqi News · 2026"
+    },
+    {
+      "label": "شنو بعد؟",
+      "arabicHeading": "80% رواتب وموازنة 2026 مؤجلة",
+      "arabicBody": "نحو 80% من الموازنة التشغيلية تذهب لرواتب 7 ملايين+ موظف ومتقاعد، ولجنة المالية تتّجه لتجاوز موازنة 2026 نحو 2027 بالاقتراض ودعم البنك المركزي، وفق شفق.",
+      "bigStat": {
+        "value": "~80%",
+        "label": "Salaries share of budget",
+        "arabicLabel": "حصة الرواتب من الموازنة التشغيلية (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرواتب",
+          "value": "~80% من التشغيلي"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "7+ ملايين"
+        },
+        {
+          "label": "موازنة 2026",
+          "value": "مؤجلة لـ2027"
+        }
+      ],
+      "broll": "images/news/2026-07-07-payroll-printing/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-07-payroll-printing/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "شفق نيوز · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "راتبك من مطبعة؟ دخل الدولة نصف مصروفها",
+    "المستشار مظهر صالح: الإيراد الشهري قد لا يتجاوز 4 تريليون دينار مقابل مصروف نحو 8 تريليون (شفق)",
+    "لسدّ شحّ السيولة لجأت الدولة إلى طباعة نحو 25 تريليون دينار (Iraqi News)",
+    "خبراء يحذّرون من أن التوسّع النقدي بلا نموّ حقيقي قد يغذّي التضخم (Iraqi News)",
+    "نحو 80% من الموازنة التشغيلية تذهب لرواتب أكثر من 7 ملايين موظف ومتقاعد (شفق)",
+    "لجنة المالية تتّجه لتجاوز موازنة 2026 نحو 2027 مع الاقتراض ودعم البنك المركزي (شفق)",
+    "هل تصمد الرواتب إذا استمر النفط بالهبوط؟"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 7 • 2026",
+  "arabicDateLabel": "7 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · الخليج",
+    "arabicHeadline": "كهرباء الخليج تدخل العراق... تنطفي المولّدة؟",
+    "englishSubhead": "GCC GRID FEEDS BASRA UP TO 500MW | SAUDI–IRAQ LINK 1,000MW | CUTS RELIANCE ON IRANIAN GAS (~40% OF SUPPLY)",
+    "heroMedia": "images/news/2026-07-07-iraq-power-gulf-link/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الخليج يغذّي البصرة بالكهرباء",
+      "arabicBody": "هيئة الربط الخليجي تزوّد جنوب العراق بنحو 500 ميغاواط عبر خط 295 كم من الكويت إلى الفاو بكلفة 240 مليون دولار، وفق AGBI.",
+      "bigStat": {
+        "value": "حتى 500 ميغاواط",
+        "label": "GCC feed to Basra",
+        "arabicLabel": "الطاقة التي يغذّيها الربط الخليجي لجنوب العراق (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "للبصرة",
+          "value": "حتى 500 ميغاواط"
+        },
+        {
+          "label": "طول الخط",
+          "value": "295 كم"
+        },
+        {
+          "label": "الكلفة",
+          "value": "240 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-power-gulf-link/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-power-gulf-link/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AGBI · GCCIA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خط سعودي بـ1,000 ميغاواط",
+      "arabicBody": "بالتوازي، يربط خط سعودي–عراقي مدينة عرعر بيوسفية قرب بغداد بقدرة 1,000 ميغاواط وطول 435 كم، ما يوسّع مصادر الطاقة، وفق PUKmedia.",
+      "bigStat": {
+        "value": "1,000 ميغاواط",
+        "label": "Saudi–Iraq link",
+        "arabicLabel": "قدرة الخط الكهربائي السعودي–العراقي عرعر–يوسفية (PUKmedia)"
+      },
+      "supportingStats": [
+        {
+          "label": "القدرة",
+          "value": "1,000 ميغاواط"
+        },
+        {
+          "label": "طول الخط",
+          "value": "435 كم"
+        },
+        {
+          "label": "المسار",
+          "value": "عرعر–يوسفية"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-power-gulf-link/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-power-gulf-link/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "PUKmedia · Saudipedia · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تقليل الاعتماد على غاز إيران",
+      "arabicBody": "الغاز الإيراني يشكّل نحو 40% من إمداد الكهرباء في العراق، وتنويع المصادر الخليجية يخفّض خطر انقطاعات الصيف، وفق معهد واشنطن.",
+      "bigStat": {
+        "value": "~40%",
+        "label": "Iranian gas share",
+        "arabicLabel": "حصة الغاز الإيراني من إمداد الكهرباء العراقية (معهد واشنطن)"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز إيران",
+          "value": "~40% من الإمداد"
+        },
+        {
+          "label": "الهدف",
+          "value": "تنويع المصادر"
+        },
+        {
+          "label": "المصدر",
+          "value": "معهد واشنطن"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-power-gulf-link/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-power-gulf-link/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Washington Institute · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "GCCIA",
+      "domain": "gccia.com.sa"
+    },
+    {
+      "name": "Economy Middle East",
+      "domain": "economymiddleeast.com"
+    },
+    {
+      "name": "Washington Institute",
+      "domain": "washingtoninstitute.org"
+    }
+  ],
+  "arabicTicker": [
+    "كهرباء الخليج تدخل العراق... تنطفي المولّدة؟",
+    "هيئة الربط الخليجي تزوّد جنوب العراق بنحو 500 ميغاواط عبر خط من الكويت إلى الفاو (AGBI)",
+    "الخط يمتد 295 كم بكلفة 240 مليون دولار وهو أول ربط خليجي خارج دول الخليج (AGBI)",
+    "خط سعودي–عراقي يربط عرعر بيوسفية بقدرة 1,000 ميغاواط وطول 435 كم (PUKmedia)",
+    "الغاز الإيراني يشكّل نحو 40% من إمداد الكهرباء في العراق (معهد واشنطن)",
+    "هل ينهي الربط الخليجي أزمة الكهرباء في الصيف؟"
+  ]
+}

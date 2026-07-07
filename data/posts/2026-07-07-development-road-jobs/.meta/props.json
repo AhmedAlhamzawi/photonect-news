@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 7 • 2026",
+  "arabicDateLabel": "7 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "طريق التنمية · وظائف",
+    "arabicHeadline": "مشروع بـ17 مليار$... شكد وظيفة راح يعطي العراقي؟",
+    "englishSubhead": "DEVELOPMENT ROAD: RAIL 87% • HIGHWAY 73% • FAW PORT NEARLY DONE • ~100K DIRECT JOBS",
+    "heroMedia": "images/news/2026-07-07-development-road-jobs/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طريق التنمية يقترب من الإنجاز",
+      "arabicBody": "أعلنت وزارة النقل أن سكة حديد طريق التنمية اكتملت 87% والطريق السريع 73%، ضمن ممر يربط الخليج بأوروبا عبر تركيا، وفق The New Region.",
+      "bigStat": {
+        "value": "87%",
+        "label": "Railway completion",
+        "arabicLabel": "نسبة إنجاز سكة حديد طريق التنمية (وزارة النقل)"
+      },
+      "supportingStats": [
+        {
+          "label": "سكة الحديد",
+          "value": "87%"
+        },
+        {
+          "label": "الطريق السريع",
+          "value": "73%"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة النقل"
+        }
+      ],
+      "broll": "images/news/2026-07-07-development-road-jobs/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-07-development-road-jobs/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The New Region · وزارة النقل · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ميناء الفاو ونحو 100 ألف وظيفة",
+      "arabicBody": "ميناء الفاو أنجز 3 من 5 أرصفة، النفق المغمور 80% وساحة الحاويات 97%، ووفّر نحو 100 ألف وظيفة مباشرة و1.6 مليون غير مباشرة، وفق أخبار العراق.",
+      "bigStat": {
+        "value": "~100 ألف",
+        "label": "Direct jobs",
+        "arabicLabel": "عدد الوظائف المباشرة التي وفّرها المشروع (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "وظائف مباشرة",
+          "value": "~100 ألف"
+        },
+        {
+          "label": "غير مباشرة",
+          "value": "~1.6 مليون"
+        },
+        {
+          "label": "ساحة الحاويات",
+          "value": "97%"
+        }
+      ],
+      "broll": "images/news/2026-07-07-development-road-jobs/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-07-development-road-jobs/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraqi News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "1,200 كم تربط البصرة بأوروبا",
+      "arabicBody": "بكلفة تقارب 17–20 مليار دولار، يمتد الممر نحو 1,200 كيلومتر من ميناء الفاو عبر تركيا إلى أوروبا مع مدن صناعية على طول المسار، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "1,200 كم",
+        "label": "Corridor length",
+        "arabicLabel": "طول ممر طريق التنمية من الفاو إلى أوروبا (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "طول الممر",
+          "value": "1,200 كم"
+        },
+        {
+          "label": "الكلفة",
+          "value": "~17–20 مليار$"
+        },
+        {
+          "label": "الوجهة",
+          "value": "أوروبا عبر تركيا"
+        }
+      ],
+      "broll": "images/news/2026-07-07-development-road-jobs/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-07-development-road-jobs/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "شفق نيوز · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The New Region",
+      "domain": "thenewregion.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al Faw Port",
+      "domain": "alfawport.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مشروع بـ17 مليار$... شكد وظيفة راح يعطي العراقي؟",
+    "سكة حديد طريق التنمية اكتملت 87% والطريق السريع 73% (وزارة النقل)",
+    "ميناء الفاو أنجز 3 من 5 أرصفة والنفق المغمور 80% وساحة الحاويات 97% (Iraqi News)",
+    "المشروع وفّر نحو 100 ألف وظيفة مباشرة و1.6 مليون غير مباشرة (Iraqi News)",
+    "الممر يمتد 1,200 كم من الفاو عبر تركيا إلى أوروبا بكلفة 17–20 مليار$ (شفق)",
+    "هل يغيّر طريق التنمية اقتصاد العراق فعلاً؟"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 7 • 2026",
+  "arabicDateLabel": "7 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة · كأس العالم",
+    "arabicHeadline": "بعد 40 سنة... العراق يرجع لكأس العالم",
+    "englishSubhead": "IRAQ AT THE WORLD CUP FIRST TIME SINCE 1986 | BEAT BOLIVIA 2–1 IN PLAYOFF | GROUP I WITH FRANCE, NORWAY, SENEGAL",
+    "heroMedia": "images/news/2026-07-07-iraq-worldcup-return/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "فوز تاريخي على بوليفيا 2-1",
+      "arabicBody": "تأهّل العراق إلى كأس العالم للمرة الأولى منذ 1986 بعد فوزه على بوليفيا 2-1 في الملحق الفاصل، بهدف حاسم لأيمن حسين، وفق فيفا.",
+      "bigStat": {
+        "value": "40 سنة",
+        "label": "Years since last WC",
+        "arabicLabel": "سنوات غياب العراق عن كأس العالم قبل عودته (فيفا)"
+      },
+      "supportingStats": [
+        {
+          "label": "آخر ظهور",
+          "value": "1986"
+        },
+        {
+          "label": "الملحق",
+          "value": "بوليفيا 2-1"
+        },
+        {
+          "label": "المصدر",
+          "value": "فيفا"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-worldcup-return/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-worldcup-return/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "FIFA · 2026"
+    },
+    {
+      "label": "مين واجه؟",
+      "arabicHeading": "مجموعة صعبة: فرنسا والنرويج والسنغال",
+      "arabicBody": "وقع العراق في المجموعة I إلى جانب فرنسا والنرويج والسنغال، تحت قيادة المدرب الأسترالي غراهام أرنولد، وفق فيفا ووكالة أنباء العراق.",
+      "bigStat": {
+        "value": "المجموعة I",
+        "label": "Group draw",
+        "arabicLabel": "مجموعة العراق في كأس العالم 2026 (فيفا)"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعة",
+          "value": "I"
+        },
+        {
+          "label": "المدرب",
+          "value": "غراهام أرنولد"
+        },
+        {
+          "label": "المصدر",
+          "value": "فيفا"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-worldcup-return/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-worldcup-return/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "FIFA · IINA · 2026"
+    },
+    {
+      "label": "وشصار؟",
+      "arabicHeading": "وداع بالدور الأول ودروس للمستقبل",
+      "arabicBody": "خرج العراق من الدور الأول بعد خسارة مبارياته الثلاث، لكن جيلاً جديداً عاد للعالمية، وعلي الحمادي أول عراقي يلعب في الدوري الإنجليزي الممتاز، وفق ESPN.",
+      "bigStat": {
+        "value": "3 خسائر",
+        "label": "Group-stage results",
+        "arabicLabel": "خسائر العراق في الدور الأول قبل الوداع (ESPN)"
+      },
+      "supportingStats": [
+        {
+          "label": "النتيجة",
+          "value": "خروج بالدور الأول"
+        },
+        {
+          "label": "الحمادي",
+          "value": "أول عراقي بالبريميرليغ"
+        },
+        {
+          "label": "المصدر",
+          "value": "ESPN"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-worldcup-return/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-worldcup-return/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "ESPN · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA",
+      "domain": "fifa.com"
+    },
+    {
+      "name": "IINA",
+      "domain": "iina.news"
+    },
+    {
+      "name": "ESPN",
+      "domain": "espn.com"
+    },
+    {
+      "name": "beIN Sports",
+      "domain": "beinsports.com"
+    }
+  ],
+  "arabicTicker": [
+    "بعد 40 سنة... العراق يرجع لكأس العالم",
+    "العراق تأهّل لكأس العالم لأول مرة منذ 1986 بفوزه على بوليفيا 2-1 في الملحق (فيفا)",
+    "أيمن حسين سجّل الهدف الحاسم أمام بوليفيا (فيفا)",
+    "العراق وقع في المجموعة I مع فرنسا والنرويج والسنغال بقيادة غراهام أرنولد (فيفا)",
+    "خرج العراق من الدور الأول بعد خسارة مبارياته الثلاث (ESPN)",
+    "علي الحمادي أول عراقي يلعب في الدوري الإنجليزي الممتاز (ESPN)",
+    "هل تكون هذه العودة بداية جيل عراقي جديد؟"
+  ]
+}

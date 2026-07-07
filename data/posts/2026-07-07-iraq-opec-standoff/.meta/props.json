@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 7 • 2026",
+  "arabicDateLabel": "7 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · أوبك",
+    "arabicHeadline": "العراق يلوّح بمغادرة أوبك... لماذا الآن؟",
+    "englishSubhead": "IRAQ PRESSES OPEC | QUOTA 4.378M B/D | HORMUZ 96–97%",
+    "heroMedia": "images/news/2026-07-07-iraq-opec-standoff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق يضغط على أوبك بعد خروج الإمارات",
+      "arabicBody": "العراق، ثاني أكبر مصدّر في أوبك، يطالب بحصة إنتاج أعلى ويلوّح بمغادرة المجموعة إن لم تُلبَّ مطالبه، بعد خروج الإمارات، وفق CNBC.",
+      "bigStat": {
+        "value": "4.378 مليون ب/ي",
+        "label": "Iraq July quota",
+        "arabicLabel": "حصة إنتاج العراق المقرّرة لشهر تموز 2026 (CNBC)"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة تموز",
+          "value": "4.378 مليون ب/ي"
+        },
+        {
+          "label": "الترتيب",
+          "value": "ثاني أكبر مصدّر"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-opec-standoff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-opec-standoff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "CNBC · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإنتاج تراجع بفعل هرمز",
+      "arabicBody": "فعلياً هبط إنتاج العراق نحو 1.48 مليون برميل يومياً في أيار مع أزمة مضيق هرمز، فيما يمرّ 96–97% من صادراته النفطية عبر المضيق، وفق CNBC.",
+      "bigStat": {
+        "value": "~1.48 مليون ب/ي",
+        "label": "Actual May output",
+        "arabicLabel": "إنتاج العراق الفعلي في أيار خلال أزمة هرمز (CNBC)"
+      },
+      "supportingStats": [
+        {
+          "label": "إنتاج أيار",
+          "value": "~1.48 مليون ب/ي"
+        },
+        {
+          "label": "عبر هرمز",
+          "value": "96–97%"
+        },
+        {
+          "label": "المصدر",
+          "value": "CNBC"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-opec-standoff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-opec-standoff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CNBC · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "زيادة رمزية والعراق يريد أكثر",
+      "arabicBody": "أوبك+ أقرّت زيادة رمزية 188 ألف برميل يومياً لتموز، لكن العراق يرى حصته غير كافية لتمويل موازنة نفطية بنسبة 90%، وفق Energy Connects.",
+      "bigStat": {
+        "value": "+188 ألف ب/ي",
+        "label": "OPEC+ July hike",
+        "arabicLabel": "الزيادة الرمزية التي أقرّتها أوبك+ لتموز (Energy Connects)"
+      },
+      "supportingStats": [
+        {
+          "label": "زيادة أوبك+",
+          "value": "+188 ألف ب/ي"
+        },
+        {
+          "label": "حصة النفط بالموازنة",
+          "value": "~90%"
+        },
+        {
+          "label": "المصدر",
+          "value": "Energy Connects"
+        }
+      ],
+      "broll": "images/news/2026-07-07-iraq-opec-standoff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-07-iraq-opec-standoff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Energy Connects · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "OPEC",
+      "domain": "opec.org"
+    },
+    {
+      "name": "Energy Connects",
+      "domain": "energyconnects.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يلوّح بمغادرة أوبك... لماذا الآن؟",
+    "العراق ثاني أكبر مصدّر في أوبك يطالب بحصة أعلى ويلوّح بالمغادرة بعد خروج الإمارات (CNBC)",
+    "حصة العراق المقرّرة لتموز 4.378 مليون برميل يومياً (CNBC)",
+    "الإنتاج الفعلي هبط نحو 1.48 مليون ب/ي في أيار بفعل أزمة هرمز (CNBC)",
+    "96–97% من صادرات العراق النفطية تمرّ عبر مضيق هرمز (CNBC)",
+    "أوبك+ أقرّت زيادة رمزية 188 ألف ب/ي لتموز (Energy Connects)",
+    "هل تكفي حصة العراق لتمويل موازنة تعتمد 90% على النفط؟"
+  ]
+}
