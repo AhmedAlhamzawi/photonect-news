@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUL 8 • 2026",
+  "arabicDateLabel": "8 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "إرث · اقتصاد",
+    "arabicHeadline": "150 ألف موقع أثري... و556 سائحاً فقط",
+    "englishSubhead": "150,000 SITES, JUST 556 FOREIGN TOURISTS • TOURISM INCOME +25% TO $5.7B • BAGHDAD = 2026 ARAB TOURISM CAPITAL",
+    "heroMedia": "images/news/2026-07-08-iraq-heritage-economy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كنز أثري شبه معطّل",
+      "arabicBody": "يملك العراق نحو 150 ألف موقع أثري، لكن مؤشر السياح الأجانب توقّف عند 556، فجوة يفسّرها الاعتماد على النفط، وفق شفق.",
+      "bigStat": {
+        "value": "150 ألف",
+        "label": "Archaeological sites",
+        "arabicLabel": "عدد المواقع الأثرية في العراق (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "مواقع أثرية",
+          "value": "150 ألف"
+        },
+        {
+          "label": "سياح أجانب",
+          "value": "556"
+        },
+        {
+          "label": "السبب",
+          "value": "اقتصاد النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-heritage-economy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-heritage-economy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "دخل السياحة يقفز 25%",
+      "arabicBody": "ارتفع دخل السياحة 25% إلى 5.7 مليار دولار في 2024 من 4.6 مليار، معظمه ديني ومورد غير نفطي يخلق وظائف، وفق تقارير القطاع.",
+      "bigStat": {
+        "value": "5.7 مليار$",
+        "label": "Tourism income 2024",
+        "arabicLabel": "دخل السياحة عام 2024 بارتفاع نحو 25% (تقارير القطاع)"
+      },
+      "supportingStats": [
+        {
+          "label": "دخل 2024",
+          "value": "5.7 مليار$"
+        },
+        {
+          "label": "النمو",
+          "value": "~25%"
+        },
+        {
+          "label": "المورد",
+          "value": "غير نفطي"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-heritage-economy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-heritage-economy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Travel And Tour World · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد عاصمة للسياحة 2026",
+      "arabicBody": "اختيرت بغداد عاصمة للسياحة العربية وعاصمة للثقافة الإسلامية 2026، وأعلنت الحكومة خطة لترميم نحو 32 موقعاً تشمل بابل وأور والحضر وآشور، وفق إيراقي نيوز.",
+      "bigStat": {
+        "value": "32 موقعاً",
+        "label": "Sites to restore",
+        "arabicLabel": "عدد المواقع في خطة الترميم الحكومية (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "ترميم",
+          "value": "32 موقعاً"
+        },
+        {
+          "label": "منها",
+          "value": "بابل وأور"
+        },
+        {
+          "label": "بغداد",
+          "value": "عاصمة سياحة"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-heritage-economy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-heritage-economy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Iraqi News · وزارة الثقافة · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Travel And Tour World",
+      "domain": "travelandtourworld.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Iraqi Embassy US",
+      "domain": "iraqiembassy.us"
+    }
+  ],
+  "arabicTicker": [
+    "150 ألف موقع أثري... و556 سائحاً فقط",
+    "العراق يملك نحو 150 ألف موقع أثري بمؤشر سياحة أجنبية 556 فقط (شفق)",
+    "دخل السياحة ارتفع نحو 25% إلى 5.7 مليار دولار في 2024 (تقارير القطاع)",
+    "بغداد عاصمة للسياحة العربية وللثقافة الإسلامية 2026 (إيراقي نيوز)",
+    "خطة لترميم نحو 32 موقعاً تشمل بابل وأور والحضر وآشور (إيراقي نيوز)",
+    "هل يتحوّل إرث العراق إلى مورد غير نفطي؟"
+  ]
+}

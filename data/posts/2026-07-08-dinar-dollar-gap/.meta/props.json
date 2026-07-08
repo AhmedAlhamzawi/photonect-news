@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUL 8 • 2026",
+  "arabicDateLabel": "8 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدينار · الدولار",
+    "arabicHeadline": "الرسمي 1,300 والسوق 1,470... شكد تدفع فعلاً؟",
+    "englishSubhead": "OFFICIAL 1,300 IQD/$ • MARKET ~1,310 • STREET ~1,470 — THE GAP YOU ACTUALLY PAY",
+    "heroMedia": "images/news/2026-07-08-dinar-dollar-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "سعران للدولار في يوم واحد",
+      "arabicBody": "البنك المركزي يثبّت الرسمي عند 1,300 دينار، لكن السوق الموازية قاربت 1,470 في اليوم نفسه، وفق US First Exchange.",
+      "bigStat": {
+        "value": "~1,470",
+        "label": "Street rate IQD/$",
+        "arabicLabel": "سعر الدولار الموازي في السوق (US First Exchange)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "1,300"
+        },
+        {
+          "label": "سعر السوق",
+          "value": "~1,310"
+        },
+        {
+          "label": "الموازي",
+          "value": "~1,470"
+        }
+      ],
+      "broll": "images/news/2026-07-08-dinar-dollar-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-08-dinar-dollar-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "US First Exchange · Trading Economics · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الفجوة تنتقل إلى فاتورتك",
+      "arabicBody": "المستورد يُسعّر على الموازي لا الرسمي، فالفجوة نحو 170 ديناراً ترفع كلفة الغذاء والوقود مع تعثّر شحنات الدولار، وفق تحليل FDD.",
+      "bigStat": {
+        "value": "~170 دينار",
+        "label": "Gap per dollar",
+        "arabicLabel": "الفارق بين السعر الرسمي والموازي لكل دولار (~13%)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفارق",
+          "value": "~170 دينار"
+        },
+        {
+          "label": "نسبته",
+          "value": "~13%"
+        },
+        {
+          "label": "الأثر",
+          "value": "غذاء ووقود"
+        }
+      ],
+      "broll": "images/news/2026-07-08-dinar-dollar-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-08-dinar-dollar-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "FDD · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المركزي: 1,300 سعر محاسبي",
+      "arabicBody": "المركزي يؤكد أن 1,300 سعر محاسبي للموازنة لا رفعٌ للدينار، وكلفة نافذة الدولار هي ما يوسّع الفجوة، وفق EBC.",
+      "bigStat": {
+        "value": "منذ 2023",
+        "label": "Rate held",
+        "arabicLabel": "ثبات السعر الرسمي 1,300 دينار منذ مطلع 2023 (المركزي)"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر الرسمي",
+          "value": "1,300"
+        },
+        {
+          "label": "ثابت منذ",
+          "value": "2023"
+        },
+        {
+          "label": "لا",
+          "value": "رفع للقيمة"
+        }
+      ],
+      "broll": "images/news/2026-07-08-dinar-dollar-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-08-dinar-dollar-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "US First Exchange · EBC · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Central Bank of Iraq",
+      "domain": "cbiraq.org"
+    },
+    {
+      "name": "US First Exchange",
+      "domain": "usfirstexchange.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "FDD",
+      "domain": "fdd.org"
+    },
+    {
+      "name": "EBC Financial Group",
+      "domain": "ebc.com"
+    }
+  ],
+  "arabicTicker": [
+    "الرسمي 1,300 والسوق 1,470... شكد تدفع فعلاً؟",
+    "البنك المركزي يثبّت السعر الرسمي عند 1,300 دينار للدولار (المركزي)",
+    "السعر الموازي قارب 1,470 ديناراً في السوق (US First Exchange)",
+    "الفجوة نحو 170 ديناراً للدولار ترفع كلفة الغذاء والوقود (FDD)",
+    "المركزي: 1,300 سعر محاسبي وليس رفعاً لقيمة الدينار (EBC)",
+    "أي سعر يحكم مشترياتك اليومية فعلاً؟"
+  ]
+}

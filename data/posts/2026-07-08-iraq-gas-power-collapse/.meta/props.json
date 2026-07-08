@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUL 8 • 2026",
+  "arabicDateLabel": "8 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "غاز إيران · كهرباء",
+    "arabicHeadline": "غاز إيران ينهار لسُدسه... مكيّفك يطفّي؟",
+    "englishSubhead": "IRANIAN GAS TO IRAQ DOWN TO ~1/6 OF NEED • GRID ~29GW VS SUMMER DEMAND UP TO 55GW • 45°C+",
+    "heroMedia": "images/news/2026-07-08-iraq-gas-power-collapse/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الغاز الإيراني إلى سُدس الحاجة",
+      "arabicBody": "هبط الغاز الإيراني إلى نحو 5 ملايين م³ يومياً، سُدس ما يحتاجه العراق (~30)، بعد ضربات إسرائيلية على منشآت الطاقة، وفق شفق.",
+      "bigStat": {
+        "value": "~5 م³ م",
+        "label": "Gas flow vs ~30 needed",
+        "arabicLabel": "الغاز الإيراني الواصل يومياً مقابل نحو 30 مليوناً يحتاجها العراق (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الواصل",
+          "value": "~5 ملايين م³"
+        },
+        {
+          "label": "الحاجة",
+          "value": "~30 مليون م³"
+        },
+        {
+          "label": "النسبة",
+          "value": "السُدس"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-gas-power-collapse/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-gas-power-collapse/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "29 غيغاواط أمام طلب 55",
+      "arabicBody": "ينتج العراق نحو 29 غيغاواط، لكن الطلب الصيفي يقفز إلى 55 مع حرارة تتجاوز 45 مئوية، فتطول ساعات القطع، وفق شفق.",
+      "bigStat": {
+        "value": "55 غيغاواط",
+        "label": "Peak summer demand",
+        "arabicLabel": "ذروة الطلب الصيفي مقابل إنتاج نحو 29 غيغاواط (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج",
+          "value": "~29 غيغاواط"
+        },
+        {
+          "label": "الطلب",
+          "value": "حتى 55"
+        },
+        {
+          "label": "الحرارة",
+          "value": "45°+"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-gas-power-collapse/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-gas-power-collapse/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · قطاع الكهرباء · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد تشتري من تركيا وكردستان",
+      "arabicBody": "شكّلت وزارة الكهرباء غرفة طوارئ لصيف 2026، وبدأت الحكومة شراء الكهرباء من تركيا وإقليم كردستان لسدّ العجز في عدة محافظات، وفق أرب نيوز والعربية.",
+      "bigStat": {
+        "value": "تركيا + كردستان",
+        "label": "Emergency imports",
+        "arabicLabel": "مصادر الكهرباء البديلة التي لجأت إليها بغداد (Arab News)"
+      },
+      "supportingStats": [
+        {
+          "label": "غرفة طوارئ",
+          "value": "صيف 2026"
+        },
+        {
+          "label": "شراء من",
+          "value": "تركيا/كردستان"
+        },
+        {
+          "label": "الهدف",
+          "value": "سدّ العجز"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-gas-power-collapse/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-gas-power-collapse/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Arab News · Al Arabiya · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Washington Institute",
+      "domain": "washingtoninstitute.org"
+    },
+    {
+      "name": "Clingendael",
+      "domain": "clingendael.org"
+    }
+  ],
+  "arabicTicker": [
+    "غاز إيران ينهار لسُدسه... مكيّفك يطفّي؟",
+    "الغاز الإيراني الواصل ~5 ملايين م³ مقابل ~30 مليوناً تحتاجها البلاد (شفق)",
+    "الهبوط جاء بعد ضربات إسرائيلية طالت منشآت الطاقة (شفق)",
+    "إنتاج ~29 غيغاواط أمام طلب صيفي يبلغ 55 مع حرارة 45°+ (شفق)",
+    "بغداد تشتري الكهرباء من تركيا وإقليم كردستان لسدّ العجز (Arab News)",
+    "هل يصمد صيفك أمام انهيار الغاز؟"
+  ]
+}

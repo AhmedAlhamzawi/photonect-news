@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUL 8 • 2026",
+  "arabicDateLabel": "8 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط إيران · العراق",
+    "arabicHeadline": "نفط إيران يعود للسوق... ورواتب العراق على المحك؟",
+    "englishSubhead": "US 60-DAY WAIVER LETS IRAN OIL FLOW • SNAPBACK LOOMS IN SEPT • IRAQ'S 90%-OIL BUDGET EXPOSED",
+    "heroMedia": "images/news/2026-07-08-iran-oil-snapback-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "واشنطن ترفع جزءاً من عقوبات النفط",
+      "arabicBody": "بعد مذكرة تفاهم في 17 حزيران، أصدرت الخزانة الأميركية إعفاءً 60 يوماً، فصدّرت إيران أكثر من 40 مليون برميل مقابل صفر قبل أسبوع، وفق الجزيرة.",
+      "bigStat": {
+        "value": "40 مليون+",
+        "label": "Iranian barrels exported",
+        "arabicLabel": "براميل صدّرتها إيران بعد الإعفاء الأميركي (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإعفاء",
+          "value": "60 يوماً"
+        },
+        {
+          "label": "صادرات إيران",
+          "value": "40 مليون+ برميل"
+        },
+        {
+          "label": "قبل أسبوع",
+          "value": "صفر"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iran-oil-snapback-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iran-oil-snapback-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · US Treasury · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "برميل أرخص يضغط موازنة بغداد",
+      "arabicBody": "النفط يشكّل نحو 90% من إيرادات العراق، وعودة براميل إيران تزيد المعروض وتضغط الأسعار، ما يهدد رواتب أكثر من 7 ملايين موظف ومتقاعد، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "~90%",
+        "label": "Oil share of Iraq budget",
+        "arabicLabel": "حصة النفط من إيرادات موازنة العراق (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "النفط",
+          "value": "~90% من الإيراد"
+        },
+        {
+          "label": "على المحك",
+          "value": "الرواتب"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "7 ملايين+"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iran-oil-snapback-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iran-oil-snapback-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "آلية أيلول تعيد عقوبات الأمم",
+      "arabicBody": "بريطانيا وفرنسا وألمانيا فعّلت «سناب باك» لإعادة عقوبات الأمم المتحدة نهاية أيلول، ومحادثات الدوحة متعثّرة، ما يهدد غاز إيران المغذّي لكهرباء العراق، وفق مكتبة العموم البريطانية.",
+      "bigStat": {
+        "value": "نهاية أيلول",
+        "label": "Snapback deadline",
+        "arabicLabel": "موعد عودة عقوبات الأمم المتحدة عبر آلية سناب باك (Commons Library)"
+      },
+      "supportingStats": [
+        {
+          "label": "سناب باك",
+          "value": "نهاية أيلول"
+        },
+        {
+          "label": "الدوحة",
+          "value": "محادثات متعثّرة"
+        },
+        {
+          "label": "الخطر",
+          "value": "غاز الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iran-oil-snapback-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iran-oil-snapback-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "UK Commons Library · CNN · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "UK Commons Library",
+      "domain": "commonslibrary.parliament.uk"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Britannica",
+      "domain": "britannica.com"
+    }
+  ],
+  "arabicTicker": [
+    "نفط إيران يعود للسوق... ورواتب العراق على المحك؟",
+    "الخزانة الأميركية تصدر إعفاءً 60 يوماً من عقوبات نفط إيران (الجزيرة)",
+    "إيران صدّرت 40 مليون+ برميل بعد أن كانت صفراً قبل أسبوع (الجزيرة)",
+    "النفط نحو 90% من إيرادات العراق ورواتب 7 ملايين+ على المحك (شفق)",
+    "آلية سناب باك تعيد عقوبات الأمم المتحدة نهاية أيلول (Commons Library)",
+    "هل يصمد إيراد العراق أمام برميل أرخص؟"
+  ]
+}

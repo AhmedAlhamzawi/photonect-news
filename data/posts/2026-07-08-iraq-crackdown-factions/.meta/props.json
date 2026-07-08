@@ -1,0 +1,140 @@
+{
+  "dateLabel": "JUL 8 • 2026",
+  "arabicDateLabel": "8 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "صولة الفجر · محاسبة",
+    "arabicHeadline": "بعد النواب... الحملة تتّجه إلى الفصائل المسلحة",
+    "englishSubhead": "AFTER 47 OFFICIALS & $100M+ SEIZED, AL-ZAIDI TURNS TO ARMED FACTIONS — BLOCS PUSH BACK, SADR BACKS HIM",
+    "heroMedia": "images/news/2026-07-08-iraq-crackdown-factions/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "من 47 مسؤولاً إلى الفصائل",
+      "arabicBody": "بعد توقيف 47 نائباً ومسؤولاً وضبط أصول تتجاوز 100 مليون دولار (الجزيرة)، يوجّه علي الزيدي «صولة الفجر» نحو فصائل مسلحة يُشتبه بتورطها، وفق إيراقي نيوز.",
+      "bigStat": {
+        "value": "47",
+        "label": "Officials arrested",
+        "arabicLabel": "عدد النواب والمسؤولين الموقوفين في صولة الفجر (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون",
+          "value": "47 مسؤولاً"
+        },
+        {
+          "label": "أصول مضبوطة",
+          "value": "100 مليون$+"
+        },
+        {
+          "label": "الهدف الآن",
+          "value": "الفصائل"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-crackdown-factions/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-crackdown-factions/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · Asharq Al-Awsat · Al Jazeera · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإطار التنسيقي يعترض",
+      "arabicBody": "عقد قادة الإطار التنسيقي اجتماعاً مغلقاً واعتبروا أن العمل «المنفرد» قد يصدّع التحالف، وطلبوا آلية تمنع أي اضطراب أمني قبل بلوغ قيادات الفصائل، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "اجتماع مغلق",
+        "label": "Coalition pushback",
+        "arabicLabel": "اجتماع قادة الإطار التنسيقي حول الحملة (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاعتراض",
+          "value": "عمل منفرد"
+        },
+        {
+          "label": "الخوف",
+          "value": "تصدّع التحالف"
+        },
+        {
+          "label": "المطلب",
+          "value": "آلية أمنية"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-crackdown-factions/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-crackdown-factions/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الصدر يصفها بـ«إصلاح بطولي»",
+      "arabicBody": "رغم الاعتراضات، وصف مقتدى الصدر الحملة بـ«الإصلاح البطولي الذي نأمل أن يستمر» (العربي الجديد). والسؤال: هل تصل المحاسبة إلى الأقوياء أم تتوقف؟",
+      "bigStat": {
+        "value": "إصلاح بطولي",
+        "label": "Sadr's backing",
+        "arabicLabel": "وصف مقتدى الصدر للحملة (The New Arab)"
+      },
+      "supportingStats": [
+        {
+          "label": "الصدر",
+          "value": "مؤيد"
+        },
+        {
+          "label": "الوصف",
+          "value": "إصلاح بطولي"
+        },
+        {
+          "label": "السؤال",
+          "value": "تصل للأقوياء؟"
+        }
+      ],
+      "broll": "images/news/2026-07-08-iraq-crackdown-factions/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-08-iraq-crackdown-factions/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The New Arab · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    }
+  ],
+  "arabicTicker": [
+    "بعد النواب... الحملة تتّجه إلى الفصائل المسلحة",
+    "صولة الفجر: 47 نائباً ومسؤولاً وأصول تتجاوز 100 مليون دولار (الجزيرة)",
+    "الزيدي يوجّه الحملة نحو فصائل مسلحة يُشتبه بتورطها (إيراقي نيوز/الشرق الأوسط)",
+    "الإطار التنسيقي يعترض ويحذّر من تصدّع التحالف (The National)",
+    "الصدر يصف الحملة بـ«الإصلاح البطولي» (العربي الجديد)",
+    "هل تصل المحاسبة إلى الأقوياء أم تتوقف؟"
+  ]
+}
