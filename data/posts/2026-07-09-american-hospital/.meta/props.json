@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 9 • 2026",
+  "arabicDateLabel": "9 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة · فلوس",
+    "arabicHeadline": "تدفع لعلاجك برّه العراق؟",
+    "englishSubhead": "200,000+ TREATED ABROAD • UP TO $1B/YR • A U.S.-BACKED FIX?",
+    "heroMedia": "images/news/2026-07-09-american-hospital/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مستشفى أمريكي داخل العراق",
+      "arabicBody": "وزارة التجارة تبحث مع شركة American Medical Services نموذج استثمار لبناء مستشفى أمريكي متطور داخل العراق، وفق العراق نيوز.",
+      "bigStat": {
+        "value": "200,000+",
+        "label": "Iraqis treated abroad / yr",
+        "arabicLabel": "عراقي يسافر للعلاج خارج البلد سنوياً (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "يغادرون سنوياً",
+          "value": "200 ألف+"
+        },
+        {
+          "label": "الوجهة الأولى",
+          "value": "الهند"
+        },
+        {
+          "label": "الكلفة",
+          "value": "~مليار$"
+        }
+      ],
+      "broll": "images/news/2026-07-09-american-hospital/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-09-american-hospital/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · Shafaq · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مليار دولار يخرج للعلاج",
+      "arabicBody": "لجنة الصحة النيابية تقدّر إنفاق العراقيين على العلاج بالخارج بين 750 مليوناً ومليار دولار سنوياً، تذهب للهند والأردن وتركيا، وفق المونيتور.",
+      "bigStat": {
+        "value": "$750م–1مليار",
+        "label": "Spent on medical travel / yr",
+        "arabicLabel": "ما ينفقه العراقيون سنوياً على العلاج خارج البلد (لجنة الصحة النيابية)"
+      },
+      "supportingStats": [
+        {
+          "label": "سنوياً",
+          "value": "750م–1مليار$"
+        },
+        {
+          "label": "الأردن",
+          "value": "10,000$ للركبة"
+        },
+        {
+          "label": "الثقة",
+          "value": "متدنية"
+        }
+      ],
+      "broll": "images/news/2026-07-09-american-hospital/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-09-american-hospital/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al-Monitor · لجنة الصحة النيابية · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هل يعود المال إلى الداخل؟",
+      "arabicBody": "الحكومة تدفع لإنهاء رحلات العلاج بالخارج عبر استثمار أجنبي ومستشفيات متقدمة توفّر المال وتخلق وظائف طبية، وفق شفق.",
+      "bigStat": {
+        "value": "الهدف",
+        "label": "Keep spend + jobs home",
+        "arabicLabel": "إبقاء إنفاق العلاج داخل العراق وخلق وظائف طبية (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستثمار",
+          "value": "أمريكي"
+        },
+        {
+          "label": "المستشفى",
+          "value": "متطور"
+        },
+        {
+          "label": "المكسب",
+          "value": "مال ووظائف"
+        }
+      ],
+      "broll": "images/news/2026-07-09-american-hospital/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-09-american-hospital/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq · Iraqi News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Al-Monitor",
+      "domain": "al-monitor.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Parliament Health Committee",
+      "domain": "parliament.iq"
+    }
+  ],
+  "arabicTicker": [
+    "تدفع لعلاجك برّه العراق؟",
+    "أكثر من 200 ألف عراقي يسافرون للعلاج خارج البلد سنوياً (شفق)",
+    "إنفاق العراقيين على العلاج بالخارج 750 مليوناً إلى مليار دولار (لجنة الصحة النيابية)",
+    "وزارة التجارة تبحث استثماراً أمريكياً لبناء مستشفى متطور داخل العراق (العراق نيوز)",
+    "الحكومة تسعى لإنهاء رحلات العلاج بالخارج وإبقاء المال داخل البلد (شفق)",
+    "هل يكفي مستشفى واحد لإعادة الثقة بالطب العراقي؟"
+  ]
+}

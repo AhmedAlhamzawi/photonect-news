@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 9 • 2026",
+  "arabicDateLabel": "9 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "العراق · واشنطن",
+    "arabicHeadline": "الزيدي عند ترامب... فلوس ووظائف؟",
+    "englishSubhead": "FIRST U.S. TRIP • ENERGY + INFRA INVESTMENT • $10B PRIVATE-SECTOR FUND • WEAPONS UNDER STATE CONTROL",
+    "heroMedia": "images/news/2026-07-09-washington-dollar/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول زيارة رسمية لواشنطن",
+      "arabicBody": "رئيس الوزراء علي الزيدي يزور واشنطن في تموز يرافقه وفد أعمال عراقي، سعياً لاستثمار أمريكي في الطاقة والبنى التحتية، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "أول",
+        "label": "High-level U.S. visit",
+        "arabicLabel": "أول زيارة رفيعة لرئيس وزراء عراقي إلى واشنطن (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفد",
+          "value": "رجال أعمال"
+        },
+        {
+          "label": "الهدف",
+          "value": "استثمار"
+        },
+        {
+          "label": "القطاع",
+          "value": "طاقة وبنى تحتية"
+        }
+      ],
+      "broll": "images/news/2026-07-09-washington-dollar/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-09-washington-dollar/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "10 مليارات لصندوق القطاع الخاص",
+      "arabicBody": "التركيز على التعاون الاقتصادي، وصندوق تنمية للقطاع الخاص يضخّ فيه البنك المركزي 10 مليارات دولار لخلق وظائف وتقليل الاعتماد على النفط، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "10 مليار$",
+        "label": "CBI private-sector fund",
+        "arabicLabel": "مساهمة البنك المركزي في صندوق تنمية القطاع الخاص (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "البنك المركزي"
+        },
+        {
+          "label": "الهدف",
+          "value": "وظائف"
+        },
+        {
+          "label": "يقلّل",
+          "value": "الاعتماد على النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-09-washington-dollar/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-09-washington-dollar/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · Jerusalem Post · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "السلاح بيد الدولة على الطاولة",
+      "arabicBody": "ملف حصر السلاح بيد الدولة على طاولة البيت الأبيض، والزيدي يستكمل حكومته قبل القمة ثم يزور تركيا وإيران والسعودية، وفق الأسبوع العربي.",
+      "bigStat": {
+        "value": "حصر السلاح",
+        "label": "On the White House table",
+        "arabicLabel": "حصر السلاح بيد الدولة أحد ملفّي قمة البيت الأبيض (الأسبوع العربي)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف الثاني",
+          "value": "اقتصاد"
+        },
+        {
+          "label": "بعدها",
+          "value": "تركيا/إيران/السعودية"
+        },
+        {
+          "label": "قبل القمة",
+          "value": "استكمال الحكومة"
+        }
+      ],
+      "broll": "images/news/2026-07-09-washington-dollar/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-09-washington-dollar/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The Arab Weekly · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Jerusalem Post",
+      "domain": "jpost.com"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الزيدي عند ترامب... فلوس ووظائف؟",
+    "أول زيارة رفيعة لرئيس وزراء عراقي إلى واشنطن مع وفد أعمال (ذا ناشيونال)",
+    "صندوق تنمية للقطاع الخاص يضخّ فيه البنك المركزي 10 مليارات دولار (ذا ناشيونال)",
+    "التركيز على استثمار أمريكي في الطاقة والبنى التحتية وخلق وظائف (ذا ناشيونال)",
+    "حصر السلاح بيد الدولة أحد ملفّي قمة البيت الأبيض (الأسبوع العربي)",
+    "هل تتحوّل الزيارة إلى وظائف واستثمار على الأرض؟"
+  ]
+}

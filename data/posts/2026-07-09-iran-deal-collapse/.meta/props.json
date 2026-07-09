@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 9 • 2026",
+  "arabicDateLabel": "9 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · مضيق هرمز",
+    "arabicHeadline": "«انتهى»... ورواتب العراق تمرّ عبر هرمز",
+    "englishSubhead": "TRUCE OVER | OIL WAIVER REVOKED | HORMUZ UNDER FIRE | IRAQ'S PAYCHECK",
+    "heroMedia": "images/news/2026-07-09-iran-deal-collapse/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ترامب يعلن انتهاء الاتفاق",
+      "arabicBody": "بعد ضربات متبادلة، أعلن ترامب أن الاتفاق المؤقت مع إيران «انتهى»، وألغت واشنطن إعفاءً كان يسمح ببيع النفط الإيراني اعتباراً من 7 تموز، وفق ذا هيل.",
+      "bigStat": {
+        "value": "«انتهى»",
+        "label": "Trump on the truce",
+        "arabicLabel": "ترامب: الاتفاق المؤقت مع إيران انتهى بعد الضربات (ذا هيل)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإعفاء",
+          "value": "أُلغي"
+        },
+        {
+          "label": "بعد",
+          "value": "7 تموز"
+        },
+        {
+          "label": "الضربات",
+          "value": "متبادلة"
+        }
+      ],
+      "broll": "images/news/2026-07-09-iran-deal-collapse/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-09-iran-deal-collapse/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The Hill · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هرمز تحت النار",
+      "arabicBody": "طهران متّهمة بمهاجمة ثلاث سفن تجارية قرب مضيق هرمز، ونحو 6,000 بحّار عالقون في الخليج، والمنظمة البحرية الدولية تدين، وفق الجزيرة.",
+      "bigStat": {
+        "value": "~6,000",
+        "label": "Seafarers stranded",
+        "arabicLabel": "بحّار عالقون في الخليج مع تصاعد الهجمات على السفن (الجزيرة · IMO)"
+      },
+      "supportingStats": [
+        {
+          "label": "السفن",
+          "value": "3 تجارية"
+        },
+        {
+          "label": "هرمز",
+          "value": "مهدَّد"
+        },
+        {
+          "label": "IMO",
+          "value": "يدين"
+        }
+      ],
+      "broll": "images/news/2026-07-09-iran-deal-collapse/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-09-iran-deal-collapse/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · IMO · 2026"
+    },
+    {
+      "label": "لماذا يهم العراق؟",
+      "arabicHeading": "90% من إيرادك عبر البصرة",
+      "arabicBody": "نحو 90% من إيراد العراق نفط يخرج غالبه من البصرة قرب هرمز، فأي تعطّل شحن يهدد الرواتب، ويبقى خطّا جيهان وسوريا بديلاً، وفق بلومبرغ.",
+      "bigStat": {
+        "value": "~90%",
+        "label": "Iraq revenue from oil",
+        "arabicLabel": "حصة النفط من إيراد الدولة العراقية المعرّض لممر هرمز (بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "المنفذ",
+          "value": "البصرة"
+        },
+        {
+          "label": "البديل",
+          "value": "جيهان/سوريا"
+        },
+        {
+          "label": "الخطر",
+          "value": "الرواتب"
+        }
+      ],
+      "broll": "images/news/2026-07-09-iran-deal-collapse/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-09-iran-deal-collapse/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Bloomberg · CNN · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Hill",
+      "domain": "thehill.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    }
+  ],
+  "arabicTicker": [
+    "«انتهى»... ورواتب العراق تمرّ عبر هرمز",
+    "ترامب يعلن أن الاتفاق المؤقت مع إيران انتهى بعد ضربات متبادلة (ذا هيل)",
+    "واشنطن تلغي إعفاءً كان يسمح ببيع النفط الإيراني اعتباراً من 7 تموز (ذا هيل)",
+    "نحو 6,000 بحّار عالقون مع هجمات على السفن قرب مضيق هرمز (الجزيرة · IMO)",
+    "نحو 90% من إيراد العراق نفط يخرج غالبه عبر البصرة قرب هرمز (بلومبرغ)",
+    "هل يصمد ممر نفطك إذا اشتعل مضيق هرمز؟"
+  ]
+}

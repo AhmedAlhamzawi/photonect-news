@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 9 • 2026",
+  "arabicDateLabel": "9 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سكن · أراضٍ",
+    "arabicHeadline": "مليون قطعة أرض... حصتك وين؟",
+    "englishSubhead": "1M SERVICED PLOTS NATIONWIDE • SHARED BY POPULATION + POVERTY • KURDISTAN EXCLUDED",
+    "heroMedia": "images/news/2026-07-09-land-plots-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مليون قطعة أرض سكنية",
+      "arabicBody": "مجلس الوزراء يقرّ مشروع مليون قطعة أرض مخدومة بالبنى التحتية توزَّع على المحافظات عدا الإقليم للمواطنين المستحقين، وفق العراق نيوز.",
+      "bigStat": {
+        "value": "1,000,000",
+        "label": "Serviced plots",
+        "arabicLabel": "قطعة أرض سكنية مخدومة ضمن المشروع الوطني (العراق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "مخدومة",
+          "value": "ببنى تحتية"
+        },
+        {
+          "label": "تشمل",
+          "value": "كل المحافظات"
+        },
+        {
+          "label": "تستثني",
+          "value": "الإقليم"
+        }
+      ],
+      "broll": "images/news/2026-07-09-land-plots-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-09-land-plots-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "التوزيع بالسكان والفقر",
+      "arabicBody": "الزيدي يقرّ 11 قراراً في جلسة 6 تموز، والتوزيع يُحدَّد بحجم السكان ونسب الفقر لضمان أوسع استفادة ممكنة، وفق وكالة الأنباء العراقية.",
+      "bigStat": {
+        "value": "11",
+        "label": "Decrees approved",
+        "arabicLabel": "قراراً تنموياً أقرّها الزيدي في جلسة التنسيق بين المحافظات (INA)"
+      },
+      "supportingStats": [
+        {
+          "label": "المعيار",
+          "value": "عدد السكان"
+        },
+        {
+          "label": "ثم",
+          "value": "نسب الفقر"
+        },
+        {
+          "label": "التاريخ",
+          "value": "6 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-09-land-plots-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-09-land-plots-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "INA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الأولوية للسجناء السياسيين",
+      "arabicBody": "الجلسة خصّصت أراضيَ لمشمولي مؤسسة السجناء السياسيين وربما نازحين إيزيديين، وسط جدل حول عدالة التوزيع، وفق شفق.",
+      "bigStat": {
+        "value": "الأولوية",
+        "label": "Political-prisoner families",
+        "arabicLabel": "تخصيص أراضٍ لمشمولي مؤسسة السجناء السياسيين ضمن الأولويات (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "مشمولون",
+          "value": "السجناء السياسيون"
+        },
+        {
+          "label": "وربما",
+          "value": "نازحون إيزيديون"
+        },
+        {
+          "label": "المطلب",
+          "value": "عدالة التوزيع"
+        }
+      ],
+      "broll": "images/news/2026-07-09-land-plots-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-09-land-plots-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Council of Ministers",
+      "domain": "cabinet.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مليون قطعة أرض... حصتك وين؟",
+    "مجلس الوزراء يقرّ مشروع مليون قطعة أرض سكنية مخدومة (العراق نيوز)",
+    "التوزيع بين المحافظات بحجم السكان ونسب الفقر عدا الإقليم (INA)",
+    "الزيدي يقرّ 11 قراراً تنموياً في جلسة 6 تموز (وكالة الأنباء العراقية)",
+    "أولوية أراضٍ لمشمولي مؤسسة السجناء السياسيين وربما نازحين إيزيديين (شفق)",
+    "هل تصل الأرض لمن يستحقها فعلاً؟"
+  ]
+}

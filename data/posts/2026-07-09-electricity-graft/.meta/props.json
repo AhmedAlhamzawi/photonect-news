@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 9 • 2026",
+  "arabicDateLabel": "9 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء · فساد",
+    "arabicHeadline": "كهرباؤك تنطفي وفلوسها تروح؟",
+    "englishSubhead": "28 ELECTRICITY OFFICIALS DISMISSED • ~19B DINAR GAP IN COLLECTIONS • DAWN CRACKDOWN HITS THE GRID",
+    "heroMedia": "images/news/2026-07-09-electricity-graft/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "إقالة 28 مسؤولاً بالكهرباء",
+      "arabicBody": "الحكومة تقيل 28 مسؤولاً كبيراً في وزارة الكهرباء بينهم مدراء عامون في البصرة وذي قار على خلفية شبهات فساد، وفق شفق.",
+      "bigStat": {
+        "value": "28",
+        "label": "Officials dismissed",
+        "arabicLabel": "مسؤولاً كبيراً أُقيلوا من وزارة الكهرباء (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظات",
+          "value": "البصرة وذي قار"
+        },
+        {
+          "label": "الرتب",
+          "value": "مدراء عامون"
+        },
+        {
+          "label": "الحملة",
+          "value": "صولة الفجر"
+        }
+      ],
+      "broll": "images/news/2026-07-09-electricity-graft/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-09-electricity-graft/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq · Middle East Online · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فجوة 19 ملياراً في الجباية",
+      "arabicBody": "لجان تحقيق كشفت جباية كهرباء تفوق 67 مليار دينار وفجوة نحو 19 ملياراً بين الإيراد المسجّل والمُحصّل فعلاً، وفق شفق.",
+      "bigStat": {
+        "value": "~19 مليار",
+        "label": "Collection gap",
+        "arabicLabel": "فجوة بين الإيراد المسجّل والمُحصّل في جباية الكهرباء (شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجباية",
+          "value": "67 مليار+ دينار"
+        },
+        {
+          "label": "الفجوة",
+          "value": "~19 مليار"
+        },
+        {
+          "label": "القطاع",
+          "value": "جنوب العراق"
+        }
+      ],
+      "broll": "images/news/2026-07-09-electricity-graft/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-09-electricity-graft/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "صولة الفجر تصل للشبكة",
+      "arabicBody": "منذ 28 حزيران أوقفت الحملة عشرات المسؤولين ويُتوقع أن تطال أكثر من 200 شخصية، والطاقة بين القطاعات ذات الأولوية للتحقيق، وفق الجزيرة.",
+      "bigStat": {
+        "value": "200+",
+        "label": "Figures targeted",
+        "arabicLabel": "شخصية يُتوقع أن تطالها حملة صولة الفجر (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "انطلقت",
+          "value": "28 حزيران"
+        },
+        {
+          "label": "أُوقِف",
+          "value": "عشرات"
+        },
+        {
+          "label": "الأولوية",
+          "value": "الطاقة"
+        }
+      ],
+      "broll": "images/news/2026-07-09-electricity-graft/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-09-electricity-graft/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Jazeera · Shafaq · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Middle East Online",
+      "domain": "middle-east-online.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Government of Iraq",
+      "domain": "pmo.iq"
+    }
+  ],
+  "arabicTicker": [
+    "كهرباؤك تنطفي وفلوسها تروح؟",
+    "إقالة 28 مسؤولاً كبيراً في وزارة الكهرباء على خلفية شبهات فساد (شفق)",
+    "فجوة نحو 19 مليار دينار بين الإيراد المسجّل والمُحصّل في جباية الكهرباء (شفق)",
+    "حملة صولة الفجر انطلقت في 28 حزيران وتطال قطاع الطاقة (الجزيرة)",
+    "يُتوقع أن تصل الحملة إلى أكثر من 200 شخصية في الدولة (الجزيرة)",
+    "هل يصلح ملاحقة الفساد ساعات الكهرباء في بيتك؟"
+  ]
+}
