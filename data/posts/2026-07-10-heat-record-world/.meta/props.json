@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 10 • 2026",
+  "arabicDateLabel": "10 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "حرّ · مناخ",
+    "arabicHeadline": "52 درجة وإجازة إجبارية... شتسوّي؟",
+    "englishSubhead": "SOUTHERN PROVINCES DECLARE HEAT HOLIDAY ABOVE 52°C • WATER RESERVES ~8% (DRIEST SINCE 1933) • GRID UNDER STRAIN",
+    "heroMedia": "images/news/2026-07-10-heat-record-world/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "محافظات تعلن عطلة بسبب الحرّ",
+      "arabicBody": "محافظات جنوبية بينها البصرة وذي قار وميسان أعلنت تعطيل الدوام مع تجاوز الحرارة 52 درجة، باستثناء الصحة والكهرباء والبلديات، بحسب 964 ميديا وغلف نيوز.",
+      "bigStat": {
+        "value": "52°+",
+        "label": "Heat holiday",
+        "arabicLabel": "درجة مئوية دفعت محافظات لتعطيل الدوام الرسمي (964 ميديا/غلف نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظات",
+          "value": "البصرة وذي قار وميسان+"
+        },
+        {
+          "label": "المستثنى",
+          "value": "صحة وكهرباء"
+        },
+        {
+          "label": "أخرى",
+          "value": "تقليل ساعات الدوام"
+        }
+      ],
+      "broll": "images/news/2026-07-10-heat-record-world/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-10-heat-record-world/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "964 Media · Gulf News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الخزين المائي عند 8% فقط",
+      "arabicBody": "وزارة الموارد المائية تقول إن هذا من أكثر الأعوام جفافاً منذ 1933، وإن الخزين المائي تراجع إلى نحو 8% من طاقته الكاملة، ما يهدد الزراعة والشرب.",
+      "bigStat": {
+        "value": "~8%",
+        "label": "Water reserves",
+        "arabicLabel": "نسبة الخزين المائي المتبقّي، والأجفّ منذ 1933 (وزارة الموارد المائية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأجف منذ",
+          "value": "1933"
+        },
+        {
+          "label": "الأثر",
+          "value": "زراعة وشرب"
+        },
+        {
+          "label": "الأكثر تضرراً",
+          "value": "الجنوب"
+        }
+      ],
+      "broll": "images/news/2026-07-10-heat-record-world/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-10-heat-record-world/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Ministry of Water Resources · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الشبكة تحت ضغط الذروة",
+      "arabicBody": "الطلب على الكهرباء يقفز مع الذروة الصيفية وتُسجَّل مدن عراقية بين الأعلى حرارة عالمياً، ما يزيد الضغط على شبكة متهالكة ويطيل ساعات الانقطاع، بحسب أراب نيوز.",
+      "bigStat": {
+        "value": "الأعلى عالمياً",
+        "label": "Among hottest",
+        "arabicLabel": "مدن عراقية تُصنَّف بين الأعلى حرارة في العالم هذا الصيف (تقارير)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطلب",
+          "value": "يقفز صيفاً"
+        },
+        {
+          "label": "الشبكة",
+          "value": "متهالكة"
+        },
+        {
+          "label": "النتيجة",
+          "value": "انقطاعات أطول"
+        }
+      ],
+      "broll": "images/news/2026-07-10-heat-record-world/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-10-heat-record-world/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Arab News · Iraqi News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964 Media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Gulf News",
+      "domain": "gulfnews.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "domain": "mowr.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "52 درجة وإجازة إجبارية... شتسوّي؟",
+    "محافظات جنوبية تعلن تعطيل الدوام مع تجاوز الحرارة 52 درجة (964 ميديا)",
+    "استثناء الصحة والكهرباء والبلديات من العطلة (غلف نيوز)",
+    "الخزين المائي عند نحو 8% والأجفّ منذ 1933 (وزارة الموارد المائية)",
+    "مدن عراقية بين الأعلى حرارة في العالم هذا الصيف (تقارير)",
+    "كيف تتدبّر يومك مع 52 درجة وكهرباء متقطّعة؟"
+  ]
+}

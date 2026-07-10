@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 10 • 2026",
+  "arabicDateLabel": "10 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "موازنة · رواتب",
+    "arabicHeadline": "سنتان بلا موازنة... راتبك مضمون؟",
+    "englishSubhead": "NO APPROVED BUDGET FOR A 2ND YEAR • ~8 TRILLION DINAR/MONTH IN SALARIES • 2027 DRAFT DUE BY SEPTEMBER",
+    "heroMedia": "images/news/2026-07-10-budget-salary-clock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الموازنة تُكتب بعد سنتين غياب",
+      "arabicBody": "وزارة المالية بدأت إعداد مسودة موازنة 2027 على أن تكتمل في أيلول، بعد سنتين بلا موازنة معتمدة (2025 و2026) وإنفاق بنظام 1/12، وفق شفق.",
+      "bigStat": {
+        "value": "سنتان",
+        "label": "Years without a budget",
+        "arabicLabel": "سنتان (2025 و2026) بلا موازنة معتمدة والدولة تنفق بنظام 1/12 (شفق/قناة 8)"
+      },
+      "supportingStats": [
+        {
+          "label": "المسودة",
+          "value": "موازنة 2027"
+        },
+        {
+          "label": "الإنجاز",
+          "value": "أيلول 2026"
+        },
+        {
+          "label": "الإنفاق الحالي",
+          "value": "نظام 1/12"
+        }
+      ],
+      "broll": "images/news/2026-07-10-budget-salary-clock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-10-budget-salary-clock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq · Channel 8 · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "8 تريليون دينار رواتب كل شهر",
+      "arabicBody": "التزامات الرواتب والرعاية تناهز 8 تريليون دينار شهرياً، يدفعها اقتصاد يعتمد على النفط بنحو 90% من الإيراد، بحسب مستشار مالي حكومي.",
+      "bigStat": {
+        "value": "~8 تريليون",
+        "label": "Monthly salaries",
+        "arabicLabel": "دينار التزامات رواتب ورعاية شهرية تدفعها الدولة (مستشار مالي حكومي)"
+      },
+      "supportingStats": [
+        {
+          "label": "مصدر الإيراد",
+          "value": "النفط ~90%"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "7 مليون+ موظف ومتقاعد"
+        },
+        {
+          "label": "الوضع",
+          "value": "إنفاق مؤقت"
+        }
+      ],
+      "broll": "images/news/2026-07-10-budget-salary-clock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-10-budget-salary-clock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq · Rudaw · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موازنة بالأداء لأول مرة",
+      "arabicBody": "الحكومة تتبنّى الموازنة القائمة على الأداء والبرامج من 2027 لحماية الإنفاق الاجتماعي وتقليل الاعتماد على النفط، قبل عرضها على مجلس الوزراء والبرلمان، وفق وزارة المالية.",
+      "bigStat": {
+        "value": "أيلول",
+        "label": "Draft deadline",
+        "arabicLabel": "الموعد المتوقع لاكتمال مسودة موازنة 2027 قبل إقرارها (وزارة المالية)"
+      },
+      "supportingStats": [
+        {
+          "label": "النظام الجديد",
+          "value": "أداء وبرامج"
+        },
+        {
+          "label": "الهدف",
+          "value": "تنويع الإيراد"
+        },
+        {
+          "label": "المسار",
+          "value": "وزراء ثم برلمان"
+        }
+      ],
+      "broll": "images/news/2026-07-10-budget-salary-clock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-10-budget-salary-clock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Iraqi News · Ministry of Finance · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Channel 8",
+      "domain": "channel8.com"
+    },
+    {
+      "name": "Ministry of Finance",
+      "domain": "mof.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "سنتان بلا موازنة... راتبك مضمون؟",
+    "وزارة المالية تُعدّ مسودة موازنة 2027 لتكتمل في أيلول (شفق)",
+    "سنتان (2025 و2026) بلا موازنة معتمدة وإنفاق بنظام 1/12 (قناة 8)",
+    "التزامات الرواتب والرعاية نحو 8 تريليون دينار شهرياً (مستشار مالي حكومي)",
+    "تحوّل إلى موازنة الأداء والبرامج من 2027 لتقليل الاعتماد على النفط (المالية)",
+    "من أين يأتي راتبك إذا بقيت الموازنة معلّقة؟"
+  ]
+}

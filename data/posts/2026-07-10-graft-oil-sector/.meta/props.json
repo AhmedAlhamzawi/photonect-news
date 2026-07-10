@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 10 • 2026",
+  "arabicDateLabel": "10 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "250 مليون دولار محجوزة... إلى أين تصل المحاسبة؟",
+    "englishSubhead": "OPERATION DAWN: $250M+ SEIZED • 47 OFFICIALS & MPs DETAINED • PARLIAMENT NAMES 7 GRAFT FILES",
+    "heroMedia": "images/news/2026-07-10-graft-oil-sector/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صولة الفجر تحجز 250 مليوناً",
+      "arabicBody": "منذ 28 حزيران، حجزت صولة الفجر أكثر من 250 مليون دولار وأوقفت 47 مسؤولاً ونائباً بشبهات فساد، ومضبوطات نقد وذهب وسلاح، وفق الحرة والجزيرة.",
+      "bigStat": {
+        "value": "250 مليون$+",
+        "label": "Seized",
+        "arabicLabel": "دولار وأكثر حُجزت في حملة صولة الفجر منذ 28 حزيران (الحرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "47 مسؤولاً ونائباً"
+        },
+        {
+          "label": "الانطلاق",
+          "value": "28 حزيران"
+        },
+        {
+          "label": "المضبوطات",
+          "value": "نقد وذهب وسلاح"
+        }
+      ],
+      "broll": "images/news/2026-07-10-graft-oil-sector/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-10-graft-oil-sector/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Alhurra · Al Jazeera · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحملة تقترب من قطاع النفط",
+      "arabicBody": "البرلمان دعا الحكومة لملاحقة 7 ملفات فساد تشمل الطاقة، وتقارير تقول إن إفادات نائب وزير النفط لشؤون التصفية قادت إلى توقيفات جديدة، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "7",
+        "label": "Graft files",
+        "arabicLabel": "ملفات فساد كبرى دعا البرلمان الحكومة لملاحقتها (كردستان 24/شفق)"
+      },
+      "supportingStats": [
+        {
+          "label": "القطاعات",
+          "value": "طاقة ونفط"
+        },
+        {
+          "label": "المصدر",
+          "value": "إفادات مسؤول"
+        },
+        {
+          "label": "الجهة",
+          "value": "مجلس النواب"
+        }
+      ],
+      "broll": "images/news/2026-07-10-graft-oil-sector/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-10-graft-oil-sector/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · Kurdistan 24 · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "2 تريليون دولار خسائر منذ 2003",
+      "arabicBody": "مستشار قضائي قدّر خسائر العراق من الفساد بنحو 2 تريليون دولار منذ 2003، ومراقبون يسألون هل تطال الحملة كبار المتنفذين لا الصغار وحدهم، وفق الجزيرة.",
+      "bigStat": {
+        "value": "~2 تريليون$",
+        "label": "Lost since 2003",
+        "arabicLabel": "دولار تقديرات خسائر العراق من الفساد منذ 2003 (القاضي منير حداد)"
+      },
+      "supportingStats": [
+        {
+          "label": "ما يعادل",
+          "value": "~15 سنة إنفاق"
+        },
+        {
+          "label": "السؤال",
+          "value": "هل تطال الكبار؟"
+        },
+        {
+          "label": "الحملة",
+          "value": "مستمرة"
+        }
+      ],
+      "broll": "images/news/2026-07-10-graft-oil-sector/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-10-graft-oil-sector/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Jazeera · Foreign Policy · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alhurra",
+      "domain": "alhurra.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Kurdistan 24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "250 مليون دولار محجوزة... إلى أين تصل المحاسبة؟",
+    "صولة الفجر تحجز أكثر من 250 مليون دولار منذ 28 حزيران (الحرة)",
+    "توقيف 47 مسؤولاً ونائباً بشبهات فساد مع مضبوطات نقد وذهب وسلاح (الجزيرة)",
+    "البرلمان يدعو لملاحقة 7 ملفات فساد كبرى تشمل الطاقة (كردستان 24)",
+    "مستشار قضائي: خسائر الفساد نحو 2 تريليون دولار منذ 2003 (الجزيرة)",
+    "هل تصل المحاسبة إلى كبار المتنفذين هذه المرة؟"
+  ]
+}

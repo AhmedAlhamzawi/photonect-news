@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 10 • 2026",
+  "arabicDateLabel": "10 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · تركيا",
+    "arabicHeadline": "27 تموز... هل ينتهي أنبوب نفط العراق الشمالي؟",
+    "englishSubhead": "1973 IRAQ-TURKEY PIPELINE TREATY EXPIRES JULY 27 • 1-YEAR STOPGAP PROTOCOL IN TALKS • 200,000+ BPD AT STAKE",
+    "heroMedia": "images/news/2026-07-10-crude-pipeline-clock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اتفاق أنبوب 1973 ينتهي هذا الشهر",
+      "arabicBody": "اتفاقية أنبوب النفط العراقي-التركي الموقّعة عام 1973 تنتهي في 27 تموز، وأنقرة أبلغت رغبتها بإنهاء المعاهدة بعد 52 عاماً، وفق تركش مينيت.",
+      "bigStat": {
+        "value": "27 تموز",
+        "label": "Treaty expiry",
+        "arabicLabel": "تاريخ انتهاء اتفاقية أنبوب النفط العراقي-التركي لعام 1973 (تركش مينيت)"
+      },
+      "supportingStats": [
+        {
+          "label": "العمر",
+          "value": "52 عاماً"
+        },
+        {
+          "label": "التوقيع",
+          "value": "1973"
+        },
+        {
+          "label": "الموقف",
+          "value": "أنقرة تريد الإنهاء"
+        }
+      ],
+      "broll": "images/news/2026-07-10-crude-pipeline-clock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-10-crude-pipeline-clock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Turkish Minute · AGBI · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "200 ألف برميل يومياً على المحك",
+      "arabicBody": "بغداد وأنقرة تعدّان بروتوكولاً مؤقتاً لعام واحد يُبقي أكثر من 200 ألف برميل يومياً عبر ميناء جيهان على المتوسط، بحسب آي جي بي آي.",
+      "bigStat": {
+        "value": "200 ألف+",
+        "label": "Barrels/day",
+        "arabicLabel": "برميل يومياً قد يُبقيها البروتوكول المؤقت عبر جيهان (تركش مينيت/آي جي بي آي)"
+      },
+      "supportingStats": [
+        {
+          "label": "المسار",
+          "value": "البحر المتوسط"
+        },
+        {
+          "label": "البروتوكول",
+          "value": "سنة واحدة"
+        },
+        {
+          "label": "الميناء",
+          "value": "جيهان"
+        }
+      ],
+      "broll": "images/news/2026-07-10-crude-pipeline-clock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-10-crude-pipeline-clock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AGBI · PGJ · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الأنبوب مغلق منذ 2023",
+      "arabicBody": "الأنبوب متوقف منذ آذار 2023 إثر قرار تحكيم دولي ألزم تركيا بدفع 1.5 مليار دولار للعراق عن صادرات غير مصرّح بها، بحسب رويترز.",
+      "bigStat": {
+        "value": "1.5 مليار$",
+        "label": "Arbitration award",
+        "arabicLabel": "دولار ألزم التحكيم الدولي تركيا بدفعها للعراق عن صادرات 2014-2018 (تقارير)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقف",
+          "value": "آذار 2023"
+        },
+        {
+          "label": "السبب",
+          "value": "تحكيم دولي"
+        },
+        {
+          "label": "التالي",
+          "value": "اتفاق جديد"
+        }
+      ],
+      "broll": "images/news/2026-07-10-crude-pipeline-clock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-10-crude-pipeline-clock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Iraq Oil Report · Reuters · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Turkish Minute",
+      "domain": "turkishminute.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Iraq Oil Report",
+      "domain": "iraqoilreport.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "27 تموز... هل ينتهي أنبوب نفط العراق الشمالي؟",
+    "اتفاقية أنبوب النفط العراقي-التركي لعام 1973 تنتهي في 27 تموز (تركش مينيت)",
+    "أنقرة أبلغت رغبتها بإنهاء المعاهدة بعد 52 عاماً (آي جي بي آي)",
+    "بروتوكول مؤقت لعام يُبقي 200 ألف+ برميل يومياً عبر جيهان (تقارير)",
+    "الأنبوب متوقف منذ آذار 2023 بعد قرار تحكيم بـ1.5 مليار دولار للعراق (تقارير)",
+    "إذا لم يُوقّع اتفاق جديد... أين يذهب نفط الشمال؟"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 10 • 2026",
+  "arabicDateLabel": "10 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "استثمار · وظائف",
+    "arabicHeadline": "مليارات الخليج تدخل العراق... شغل لك؟",
+    "englishSubhead": "QATAR QIA EYES $5B • SAUDI-IRAQI FUND ~$3B • 84 TRILLION DINAR PRIVATE-INVESTMENT PLAN • JOBLESSNESS 16.5%→13%",
+    "heroMedia": "images/news/2026-07-10-gulf-billions-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قطر والسعودية تستهدفان العراق",
+      "arabicBody": "جهاز قطر للاستثمار يعتزم ضخ نحو 5 مليارات دولار في قطاعات عراقية، والشركة السعودية-العراقية للاستثمار برأسمال نحو 3 مليارات دولار، وفق تقارير اقتصادية.",
+      "bigStat": {
+        "value": "5 مليار$",
+        "label": "Qatar QIA plan",
+        "arabicLabel": "دولار يعتزم جهاز قطر للاستثمار ضخّها في قطاعات عراقية (تقارير)"
+      },
+      "supportingStats": [
+        {
+          "label": "السعودية-العراقية",
+          "value": "~3 مليار$"
+        },
+        {
+          "label": "القطاعات",
+          "value": "صناعة وبنى تحتية"
+        },
+        {
+          "label": "الجهات",
+          "value": "صناديق سيادية"
+        }
+      ],
+      "broll": "images/news/2026-07-10-gulf-billions-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-10-gulf-billions-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "84 تريليون دينار للقطاع الخاص",
+      "arabicBody": "وزارة التخطيط تستهدف نحو 84 تريليون دينار استثمارات للقطاع الخاص لنقل ضغط التوظيف عن الدولة، أي نحو 35% من إجمالي الاستثمار المخطط، وفق الوزارة.",
+      "bigStat": {
+        "value": "84 تريليون",
+        "label": "Private investment",
+        "arabicLabel": "دينار مستهدفة كاستثمارات للقطاع الخاص لخلق وظائف (وزارة التخطيط)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحصة",
+          "value": "~35% من الإجمالي"
+        },
+        {
+          "label": "الهدف",
+          "value": "تقليل التوظيف الحكومي"
+        },
+        {
+          "label": "فرص بغداد",
+          "value": "450 مليار$"
+        }
+      ],
+      "broll": "images/news/2026-07-10-gulf-billions-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-10-gulf-billions-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraqi News · Ministry of Planning · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البطالة تنزل إلى 13%",
+      "arabicBody": "مستشار رئيس الوزراء مضر صالح: البطالة تراجعت من 16.5% إلى 13% مع توسّع برامج التشغيل، فيما يبقى الاستثمار غير النفطي محدوداً، وفق وكالة الأنباء العراقية.",
+      "bigStat": {
+        "value": "13%",
+        "label": "Unemployment",
+        "arabicLabel": "معدل البطالة بعد تراجعه من 16.5% خلال العام الماضي (مضر صالح)"
+      },
+      "supportingStats": [
+        {
+          "label": "كان",
+          "value": "16.5%"
+        },
+        {
+          "label": "المحرك",
+          "value": "برامج تشغيل"
+        },
+        {
+          "label": "التحدي",
+          "value": "استثمار غير نفطي محدود"
+        }
+      ],
+      "broll": "images/news/2026-07-10-gulf-billions-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-10-gulf-billions-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "INA · World Bank · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Ministry of Planning",
+      "domain": "mop.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مليارات الخليج تدخل العراق... شغل لك؟",
+    "جهاز قطر للاستثمار يعتزم ضخ نحو 5 مليارات دولار في العراق (تقارير)",
+    "الشركة السعودية-العراقية للاستثمار برأسمال نحو 3 مليارات دولار (تقارير)",
+    "التخطيط تستهدف 84 تريليون دينار للقطاع الخاص لخلق وظائف (الوزارة)",
+    "مستشار حكومي: البطالة تراجعت من 16.5% إلى 13% (وكالة الأنباء العراقية)",
+    "هل تصل هذه المليارات إلى وظيفة حقيقية لك؟"
+  ]
+}
