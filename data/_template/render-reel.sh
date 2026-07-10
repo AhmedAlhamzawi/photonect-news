@@ -30,6 +30,33 @@ case "$VARIANT" in
   *) echo "invalid variant: $VARIANT (use v1|v2|v3)" >&2; exit 2 ;;
 esac
 
+# ── V11 A/B: voiced VO-spine format ──────────────────────────────────────────
+# If this slug carries a .meta/v11-brief.json, render the NewsReelV11 format
+# (Fatima narrator drives every cut, karaoke captions, kinetic multi-crop,
+# question end-card) instead of the silent V10 NewsReel. The daily task writes
+# a v11-brief.json for ~2 of 5 slugs so we A/B format→views. Fully isolated:
+# no brief = the exact V10 path below, unchanged.
+V11_BRIEF="$ROOT/data/posts/$SLUG/.meta/v11-brief.json"
+if [ -f "$V11_BRIEF" ]; then
+  echo "rendering $SLUG as V11 (voiced) → $OUT"
+  MEDIA_DIR="$MYVIDEO/public/images/news/$SLUG"
+  [ -d "$MEDIA_DIR" ] && find "$MEDIA_DIR" -name '* 2.*' -type f -delete 2>/dev/null || true
+  # A V11 hiccup (Edge-TTS network blip, bad timing json) must NEVER cost a reel —
+  # catch failure and fall through to the V10 render below.
+  set +e
+  ( python3 "$ROOT/scripts/build_v11_props.py" "$V11_BRIEF" --engine "${V11_ENGINE:-edge}" \
+      && cd "$MYVIDEO" \
+      && npx remotion render NewsReelV11 "$OUT" --props="$ROOT/data/posts/$SLUG/.meta/v11-props.json" )
+  V11_RC=$?
+  set -e
+  if [ $V11_RC -eq 0 ] && [ -f "$OUT" ]; then
+    bash "$ROOT/data/_template/extract-thumbnail.sh" "$SLUG" 2>/dev/null || true
+    exit 0
+  fi
+  echo "warning: V11 render failed (rc=$V11_RC) for $SLUG — falling back to V10.1" >&2
+  cd "$ROOT"
+fi
+
 if [ ! -f "$PROPS" ]; then
   echo "error: $PROPS not found" >&2
   exit 1
