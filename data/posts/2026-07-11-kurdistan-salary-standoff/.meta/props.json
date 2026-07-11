@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 11 • 2026",
+  "arabicDateLabel": "11 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب · نفط",
+    "arabicHeadline": "رواتب كردستان معلّقة... منو يدفع؟",
+    "englishSubhead": "NO DEAL | SALARIES ON HOLD | KRG GOT ~41%",
+    "heroMedia": "images/news/2026-07-11-kurdistan-salary-standoff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مفاوضات تنتهي بلا اتفاق",
+      "arabicBody": "مفاوضات جديدة بين بغداد وأربيل انتهت دون اتفاق نهائي على ملفين: استئناف تصدير النفط عبر جيهان، ورواتب موظفي إقليم كردستان، بحسب رووداو والعربي الجديد.",
+      "bigStat": {
+        "value": "بلا اتفاق",
+        "label": "Latest round",
+        "arabicLabel": "نتيجة آخر جولة مفاوضات بين بغداد وأربيل حول الرواتب والنفط (رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "العالق",
+          "value": "رواتب ونفط"
+        },
+        {
+          "label": "المنفذ",
+          "value": "جيهان معطّل"
+        },
+        {
+          "label": "الطرفان",
+          "value": "بغداد وأربيل"
+        }
+      ],
+      "broll": "images/news/2026-07-11-kurdistan-salary-standoff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-11-kurdistan-salary-standoff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Rudaw · The New Arab · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإقليم استلم 41% فقط",
+      "arabicBody": "بحسب أرقام الإقليم، خُصّص لكردستان 58.3 تريليون دينار ضمن إطار موازنة 2023-2025 لكنه استلم 24.3 تريليون فقط، وبغداد تربط التحويلات بتسليم النفط والإيرادات، وفق الأسبوع العربي.",
+      "bigStat": {
+        "value": "24.3 / 58.3",
+        "label": "Trillion dinars",
+        "arabicLabel": "تريليون دينار استلمها الإقليم من أصل 58.3 مخصصة له 2023-2025 (The Arab Weekly)"
+      },
+      "supportingStats": [
+        {
+          "label": "النسبة",
+          "value": "~41% فقط"
+        },
+        {
+          "label": "الوصف",
+          "value": "سلف مؤقتة"
+        },
+        {
+          "label": "الشرط",
+          "value": "تسليم النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-11-kurdistan-salary-standoff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-11-kurdistan-salary-standoff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The Arab Weekly · Basnews · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "واشنطن تدعو لحل النزاع",
+      "arabicBody": "الخارجية الأمريكية دعت في 1 تموز جميع الأطراف لحل نزاع الأنابيب، وتبقى رواتب مئات آلاف الموظفين رهينة اتفاق لم يُبرم بعد، بحسب رووداو.",
+      "bigStat": {
+        "value": "1 تموز",
+        "label": "US urges deal",
+        "arabicLabel": "تاريخ دعوة الخارجية الأمريكية جميع الأطراف لحل نزاع الأنابيب والرواتب (رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "الخارجية الأمريكية"
+        },
+        {
+          "label": "المطلب",
+          "value": "حل النزاع"
+        },
+        {
+          "label": "الرهان",
+          "value": "رواتب الموظفين"
+        }
+      ],
+      "broll": "images/news/2026-07-11-kurdistan-salary-standoff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-11-kurdistan-salary-standoff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Rudaw · U.S. State Dept · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Basnews",
+      "domain": "basnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "رواتب كردستان معلّقة... منو يدفع؟",
+    "مفاوضات بغداد وأربيل تنتهي دون اتفاق على الرواتب والنفط (رووداو)",
+    "تصدير نفط الإقليم عبر جيهان ما يزال معطّلاً (العربي الجديد)",
+    "الإقليم استلم 24.3 من أصل 58.3 تريليون دينار مخصصة له (الأسبوع العربي)",
+    "بغداد تصف التحويلات بأنها سلف مؤقتة مربوطة بتسليم النفط (الأسبوع العربي)",
+    "الخارجية الأمريكية في 1 تموز تدعو لحل نزاع الأنابيب والرواتب (رووداو)",
+    "رواتب مئات آلاف الموظفين معلّقة... من يدفعها حتى يُبرم الاتفاق؟"
+  ]
+}

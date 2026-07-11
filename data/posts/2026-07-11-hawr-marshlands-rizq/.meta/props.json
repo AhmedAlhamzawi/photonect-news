@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 11 • 2026",
+  "arabicDateLabel": "11 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "أهوار · رزق",
+    "arabicHeadline": "أهوار العراق تجفّ... رزق الجنوب يذوب؟",
+    "englishSubhead": "UNESCO MARSHES DRY | 45% DAM-HELD | LIVELIHOODS AT RISK",
+    "heroMedia": "images/news/2026-07-11-hawr-marshlands-rizq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بيوت القصب تذوي مع الماء",
+      "arabicBody": "على مياه الأهوار عاش الصيادون والرعاة قروناً. اليوم نحو 3000 كيلومتر مربع من تراث يونسكو تتقلص بشح المياه، وفق مركز ويلسون وريليف ويب.",
+      "bigStat": {
+        "value": "~3000 كم²",
+        "label": "Marshland area",
+        "arabicLabel": "كيلومتر مربع مساحة أهوار العراق المهددة المسجّلة تراثاً عالمياً (Wilson Center)"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "تراث يونسكو"
+        },
+        {
+          "label": "المهدَّد",
+          "value": "صيد ورعي وسياحة"
+        },
+        {
+          "label": "السبب",
+          "value": "شح المياه"
+        }
+      ],
+      "broll": "images/news/2026-07-11-hawr-marshlands-rizq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-11-hawr-marshlands-rizq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Wilson Center · ReliefWeb · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "السدود تحبس نصف ماء الرافدين",
+      "arabicBody": "سدود جنوب شرق الأناضول التركية تتحكم بنحو 45% من مياه دجلة والفرات، وتراجع التدفق قلّص الأرض الزراعية المستخدمة قرابة النصف، بحسب فاناك.",
+      "bigStat": {
+        "value": "~45%",
+        "label": "Dam-controlled water",
+        "arabicLabel": "من مياه دجلة والفرات تتحكم بها سدود جنوب شرق الأناضول التركية (Fanack Water)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأثر",
+          "value": "-50% أرض زراعية"
+        },
+        {
+          "label": "النهران",
+          "value": "دجلة والفرات"
+        },
+        {
+          "label": "المصدر",
+          "value": "تقارير مائية"
+        }
+      ],
+      "broll": "images/news/2026-07-11-hawr-marshlands-rizq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-11-hawr-marshlands-rizq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Fanack Water · ScienceDirect · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وعد تركي بالماء... إن صدق",
+      "arabicBody": "تقارير تقول إن تركيا وافقت على زيادة إطلاقات المياه نحو العراق ضمن طريق التنمية، شريان أمل لرزق الجنوب إن نُفّذ، بحسب ويلسون والعربي الجديد.",
+      "bigStat": {
+        "value": "طريق التنمية",
+        "label": "The linkage",
+        "arabicLabel": "مشروع النقل الذي يُربط به وعد تركي بزيادة إطلاقات المياه نحو العراق (Wilson Center)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوعد",
+          "value": "زيادة الإطلاقات"
+        },
+        {
+          "label": "الشرط",
+          "value": "إن نُفّذ"
+        },
+        {
+          "label": "الرهان",
+          "value": "رزق الجنوب"
+        }
+      ],
+      "broll": "images/news/2026-07-11-hawr-marshlands-rizq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-11-hawr-marshlands-rizq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Wilson Center · The New Arab · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wilson Center",
+      "domain": "wilsoncenter.org"
+    },
+    {
+      "name": "ReliefWeb",
+      "domain": "reliefweb.int"
+    },
+    {
+      "name": "Fanack Water",
+      "domain": "water.fanack.com"
+    },
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    }
+  ],
+  "arabicTicker": [
+    "أهوار العراق تجفّ... رزق الجنوب يذوب؟",
+    "على مياه الأهوار عاش الصيادون والرعاة قروناً — واليوم تتقلص (ReliefWeb)",
+    "نحو 3000 كم² من تراث يونسكو مهدد بشح المياه في جنوب العراق (Wilson Center)",
+    "سدود الأناضول التركية تتحكم بنحو 45% من مياه دجلة والفرات (Fanack)",
+    "تراجع التدفق قلّص الأرض الزراعية المستخدمة في العراق قرابة النصف",
+    "تقارير: تركيا توافق على زيادة الإطلاقات ضمن طريق التنمية — إن نُفّذ فعلاً",
+    "بيوت القصب والقوارب والصيد... هل يعود الماء قبل أن يرحل الناس؟"
+  ]
+}

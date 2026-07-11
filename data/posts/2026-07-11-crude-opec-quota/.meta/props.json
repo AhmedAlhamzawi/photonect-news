@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 11 • 2026",
+  "arabicDateLabel": "11 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · أوبك",
+    "arabicHeadline": "العراق يلوّح بترك أوبك... ليش يهمك؟",
+    "englishSubhead": "IRAQ PRESSES OPEC FOR HIGHER QUOTA • JULY CAP 4.378M B/D • WARNS IT MAY EXIT",
+    "heroMedia": "images/news/2026-07-11-crude-opec-quota/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "سقف تموز: 4.378 مليون برميل فقط",
+      "arabicBody": "سقف أوبك للعراق في تموز 4.378 مليون برميل يومياً، والمتحدث سالم الركابي حذّر أن بغداد قد تنسحب إن لم يُرفع، وفق شفق وأويل برايس.",
+      "bigStat": {
+        "value": "4.378 مليون ب/ي",
+        "label": "July quota",
+        "arabicLabel": "حصة العراق الإنتاجية في أوبك لشهر تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "التحذير",
+          "value": "احتمال الانسحاب"
+        },
+        {
+          "label": "المصدر",
+          "value": "متحدث وزارة النفط"
+        },
+        {
+          "label": "الشهر",
+          "value": "تموز 2026"
+        }
+      ],
+      "broll": "images/news/2026-07-11-crude-opec-quota/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-11-crude-opec-quota/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq · OilPrice · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كل برميل يُباع يموّل الرواتب",
+      "arabicBody": "قبل الحرب أنتج العراق نحو 4 ملايين برميل وصدّر ~3.5 مليون عبر هرمز، وكل برميل يُباع يموّل رواتب الموظفين، بحسب أويل برايس والشرق الأوسط.",
+      "bigStat": {
+        "value": "~3.5 مليون ب/ي",
+        "label": "Pre-war exports",
+        "arabicLabel": "برميل يومياً كان العراق يصدّرها قبل الحرب معظمها عبر هرمز (OilPrice)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة",
+          "value": "~4 مليون ب/ي"
+        },
+        {
+          "label": "المنفذ",
+          "value": "مضيق هرمز"
+        },
+        {
+          "label": "الرابط",
+          "value": "إيراد الموازنة"
+        }
+      ],
+      "broll": "images/news/2026-07-11-crude-opec-quota/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-11-crude-opec-quota/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "OilPrice · Asharq Al-Awsat · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد تضغط أوبك وتعزّز البصرة",
+      "arabicBody": "بغداد تطالب أوبك برفع الحصة لتتناسب مع طاقتها، وتعزّز حقول البصرة، فيما يبقى القرار بيد أوبك+ التي اجتمعت في 7 حزيران، وفق الشرق الأوسط وشفق.",
+      "bigStat": {
+        "value": "7 حزيران",
+        "label": "Last OPEC+ meet",
+        "arabicLabel": "تاريخ آخر اجتماع لتحالف أوبك+ الذي يحدد حصص الإنتاج (الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلب",
+          "value": "رفع الحصة"
+        },
+        {
+          "label": "الخطة",
+          "value": "تطوير البصرة"
+        },
+        {
+          "label": "القرار",
+          "value": "بيد أوبك+"
+        }
+      ],
+      "broll": "images/news/2026-07-11-crude-opec-quota/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-11-crude-opec-quota/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Asharq Al-Awsat · Shafaq · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "OilPrice",
+      "domain": "oilprice.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يلوّح بترك أوبك... ليش يهمك؟",
+    "حصة العراق في أوبك لتموز 4.378 مليون برميل يومياً (شفق)",
+    "متحدث وزارة النفط: قد ننسحب إن لم تُرفع الحصة (أويل برايس)",
+    "قبل الحرب: إنتاج ~4 مليون وتصدير ~3.5 مليون برميل عبر هرمز",
+    "بغداد تعزّز حقول البصرة وتطالب برفع الحصة (الشرق الأوسط)",
+    "القرار بيد أوبك+ التي اجتمعت في 7 حزيران"
+  ]
+}

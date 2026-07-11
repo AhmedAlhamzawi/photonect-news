@@ -1,0 +1,136 @@
+{
+  "dateLabel": "JUL 11 • 2026",
+  "arabicDateLabel": "11 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "صولة الفجر الثانية... الحصانة تسقط عن النواب؟",
+    "englishSubhead": "OPERATION DAWN 2ND WAVE • 21 POLITICAL FIGURES DETAINED • 26 MORE PURSUED • MP IMMUNITY LIFTS",
+    "heroMedia": "images/news/2026-07-11-graft-second-wave/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "موجة ثانية تطال 21 شخصية",
+      "arabicBody": "في موجة ثانية من صولة الفجر، أوقفت السلطات 21 شخصية سياسية وبرلمانية وتلاحق 26 أخرى، والقضاء يستعد لرفع الحصانة عن نواب جدد، وفق الجزيرة والعربي.",
+      "bigStat": {
+        "value": "21",
+        "label": "Detained (2nd wave)",
+        "arabicLabel": "شخصية سياسية وبرلمانية أوقفت في الموجة الثانية بشبهات فساد (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "قيد الملاحقة",
+          "value": "26 شخصية"
+        },
+        {
+          "label": "الإجراء",
+          "value": "رفع الحصانة"
+        },
+        {
+          "label": "الانطلاق",
+          "value": "28 حزيران"
+        }
+      ],
+      "broll": "images/news/2026-07-11-graft-second-wave/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-11-graft-second-wave/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · Al-Araby · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحملة تقترب من الكبار",
+      "arabicBody": "تعهّد رئيس الوزراء في 4 تموز بألا تهاون مع فاسد، والحملة توقف 67 منذ 28 حزيران بينهم نواب، ومضبوطات تتجاوز 250 مليون دولار، وفق الحدث والعربية.",
+      "bigStat": {
+        "value": "~67",
+        "label": "Detained since 28 Jun",
+        "arabicLabel": "موقوفاً منذ انطلاق صولة الفجر في 28 حزيران بينهم نواب ومسؤولون (الحدث)"
+      },
+      "supportingStats": [
+        {
+          "label": "تصريح",
+          "value": "لن نتهاون"
+        },
+        {
+          "label": "المحجوز",
+          "value": "250 مليون$+"
+        },
+        {
+          "label": "الهدف",
+          "value": "كبار المتنفذين"
+        }
+      ],
+      "broll": "images/news/2026-07-11-graft-second-wave/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-11-graft-second-wave/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Hadath · Al Arabiya · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "خسائر الفساد بمئات المليارات",
+      "arabicBody": "قدّرت العربية خسائر العراق من الفساد بأكثر من 500 مليار دولار، واصفةً النفط بأنه بوابة النهب، فهل تصل المحاسبة إلى الرؤوس الكبيرة، وفق العربية ونون بوست.",
+      "bigStat": {
+        "value": ">500 مليار$",
+        "label": "Graft losses",
+        "arabicLabel": "دولار قدّرتها العربية خسائرَ العراق من الفساد عبر السنوات (Al Arabiya)"
+      },
+      "supportingStats": [
+        {
+          "label": "البوابة",
+          "value": "قطاع النفط"
+        },
+        {
+          "label": "المصدر",
+          "value": "العربية"
+        },
+        {
+          "label": "السؤال",
+          "value": "تصل للكبار؟"
+        }
+      ],
+      "broll": "images/news/2026-07-11-graft-second-wave/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-11-graft-second-wave/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Arabiya · Noon Post · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.net"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Al Hadath",
+      "domain": "alhadath.net"
+    },
+    {
+      "name": "Noon Post",
+      "domain": "noonpost.com"
+    }
+  ],
+  "arabicTicker": [
+    "صولة الفجر الثانية... الحصانة تسقط عن النواب؟",
+    "موجة ثانية توقف نحو 21 شخصية سياسية وبرلمانية وتلاحق 26 (الجزيرة)",
+    "القضاء يستعد لرفع الحصانة عن دفعة جديدة من النواب (العربي)",
+    "رئيس الوزراء في 4 تموز: لن نتهاون مع أي فاسد (الحدث)",
+    "~67 موقوفاً منذ 28 حزيران ومضبوطات تتجاوز 250 مليون دولار (العربية)",
+    "العربية تقدّر خسائر الفساد بأكثر من 500 مليار دولار — تصل المحاسبة للكبار؟"
+  ]
+}

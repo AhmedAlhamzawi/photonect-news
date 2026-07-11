@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 11 • 2026",
+  "arabicDateLabel": "11 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · استثمار",
+    "arabicHeadline": "هاليبرتون الأمريكية تدخل نفط البصرة... ماذا يعني لجيبك؟",
+    "englishSubhead": "BASRA OIL CO SIGNS 5-YR DEAL WITH US HALLIBURTON • BIN UMAR + SINDBAD • +230K B/D TARGET",
+    "heroMedia": "images/news/2026-07-11-basra-oil-halliburton/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "عقد أمريكي 5 سنوات على حقلين",
+      "arabicBody": "وقّعت شركة نفط البصرة في 5 تموز عقد إدارة متكاملة لخمس سنوات مع هاليبرتون الأمريكية لتطوير حقلي بن عمر وسندباد، وفق رويترز وذا ناشيونال.",
+      "bigStat": {
+        "value": "5 سنوات",
+        "label": "Contract",
+        "arabicLabel": "عقد إدارة متكاملة بين شركة نفط البصرة وهاليبرتون منذ 5 تموز (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحقلان",
+          "value": "بن عمر وسندباد"
+        },
+        {
+          "label": "التوقيع",
+          "value": "5 تموز 2026"
+        },
+        {
+          "label": "الجهة",
+          "value": "شركة نفط البصرة"
+        }
+      ],
+      "broll": "images/news/2026-07-11-basra-oil-halliburton/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-11-basra-oil-halliburton/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Reuters · The National · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "230 ألف برميل إضافية مستهدفة",
+      "arabicBody": "يستهدف العقد رفع إنتاج بن عمر إلى 150 ألف برميل يومياً وسندباد إلى 80-100 ألف، مع غاز مصاحب يغذّي الكهرباء، بحسب عرب نيوز وشفق.",
+      "bigStat": {
+        "value": "~230 ألف ب/ي",
+        "label": "Added target",
+        "arabicLabel": "برميل يومياً إضافية مستهدفة من الحقلين خلال خمس سنوات (Arab News)"
+      },
+      "supportingStats": [
+        {
+          "label": "بن عمر",
+          "value": "150 ألف ب/ي"
+        },
+        {
+          "label": "سندباد",
+          "value": "80-100 ألف ب/ي"
+        },
+        {
+          "label": "الغاز المصاحب",
+          "value": "لكهربائك"
+        }
+      ],
+      "broll": "images/news/2026-07-11-basra-oil-halliburton/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-11-basra-oil-halliburton/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Arab News · Shafaq · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "90% من إيراد الدولة نفط",
+      "arabicBody": "يأتي العقد ضمن توجه بغداد لجذب الاستثمار الأمريكي وتقليل الاعتماد على شركات الصين وروسيا ورفع الطاقة الإنتاجية، والنفط نحو 90% من إيراد الدولة، وفق ذا ناشيونال.",
+      "bigStat": {
+        "value": "~90%",
+        "label": "State revenue from oil",
+        "arabicLabel": "من إيرادات الدولة تأتي من النفط الذي يموّل الرواتب والخدمات (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوجه",
+          "value": "استثمار أمريكي"
+        },
+        {
+          "label": "الهدف",
+          "value": "رفع الطاقة"
+        },
+        {
+          "label": "الرابط",
+          "value": "رواتبك من النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-11-basra-oil-halliburton/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-11-basra-oil-halliburton/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · Reuters · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "هاليبرتون الأمريكية تدخل نفط البصرة... ماذا يعني لجيبك؟",
+    "شركة نفط البصرة توقّع عقد إدارة 5 سنوات مع هاليبرتون في 5 تموز (رويترز)",
+    "بن عمر مستهدف عند 150 ألف ب/ي وسندباد 80-100 ألف (Arab News)",
+    "غاز مصاحب 300 و240-260 مليون قدم مكعبة يومياً لتغذية الكهرباء (شفق)",
+    "توجه لجذب الاستثمار الأمريكي وتقليل الاعتماد على الصين وروسيا (ذا ناشيونال)",
+    "النفط نحو 90% من إيراد الدولة الذي يموّل رواتبك (ذا ناشيونال)",
+    "هل يصل الاستثمار الأجنبي إلى راتبك وخدماتك، أم يبقى بالأرقام؟"
+  ]
+}
