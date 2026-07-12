@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 12 • 2026",
+  "arabicDateLabel": "12 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة · وراثة",
+    "arabicHeadline": "مرض الدم الوراثي... علاج لمرة وحدة؟",
+    "englishSubhead": "CRISPR THERAPY | ONE-TIME | REACHES MENA",
+    "heroMedia": "images/news/2026-07-12-gene-cure-thalassemia/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول علاج جيني في المنطقة",
+      "arabicBody": "سِدرة في قطر صار أول جهة إقليمياً تقدّم كاسجيفي، أول دواء معتمد بتقنية كريسبر، لمرضى الثلاسيميا وفقر الدم المنجلي الشديد من عمر 12، بحسب ذا بينينسولا.",
+      "bigStat": {
+        "value": "الأول إقليمياً",
+        "label": "First in MENA",
+        "arabicLabel": "مستشفى سِدرة في قطر أول جهة بالمنطقة تقدّم علاج كاسجيفي الجيني (The Peninsula)"
+      },
+      "supportingStats": [
+        {
+          "label": "التقنية",
+          "value": "كريسبر"
+        },
+        {
+          "label": "الأمراض",
+          "value": "ثلاسيميا ومنجلي"
+        },
+        {
+          "label": "العمر",
+          "value": "12 فأكثر"
+        }
+      ],
+      "broll": "images/news/2026-07-12-gene-cure-thalassemia/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-12-gene-cure-thalassemia/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#00E5A0",
+      "brollSource": "The Peninsula · Sidra Medicine · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "قد ينهي النقل الدوري للدم",
+      "arabicBody": "يُعطى مرة واحدة وقد يُحرّر المريض من النقل الدوري للدم، بحسب سِدرة التي تتابع 150-200 طفل. وهذه الأمراض منتشرة إقليمياً بزواج الأقارب، وتمسّ عائلات عراقية.",
+      "bigStat": {
+        "value": "150-200 طفل",
+        "label": "Followed at Sidra",
+        "arabicLabel": "عدد الأطفال الذين تتابعهم سِدرة بالثلاسيميا وفقر الدم المنجلي (The Peninsula)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجرعة",
+          "value": "مرة واحدة"
+        },
+        {
+          "label": "الوعد",
+          "value": "وقف النقل"
+        },
+        {
+          "label": "السبب",
+          "value": "زواج الأقارب"
+        }
+      ],
+      "broll": "images/news/2026-07-12-gene-cure-thalassemia/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-12-gene-cure-thalassemia/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2EC8C4",
+      "brollSource": "The Peninsula · Sidra Medicine · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "العلاج للحالات الشديدة فقط",
+      "arabicBody": "الإتاحة محصورة بالحالات الشديدة والمسار معقّد يشمل علاجاً كيميائياً وخلايا معدّلة، لكن مركزاً إقليمياً يعني ألا تسافر العائلات للخارج، وتبقى الكلفة التحدي، بحسب سِدرة.",
+      "bigStat": {
+        "value": "حالات شديدة",
+        "label": "Eligibility limited",
+        "arabicLabel": "الإتاحة محصورة حالياً بالحالات الشديدة من الثلاسيميا وفقر الدم المنجلي (Sidra Medicine)"
+      },
+      "supportingStats": [
+        {
+          "label": "الميزة",
+          "value": "بلا سفر"
+        },
+        {
+          "label": "التحدي",
+          "value": "الكلفة"
+        },
+        {
+          "label": "المسار",
+          "value": "معقّد"
+        }
+      ],
+      "broll": "images/news/2026-07-12-gene-cure-thalassemia/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-12-gene-cure-thalassemia/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#1FA8B8",
+      "brollSource": "Sidra Medicine · The Peninsula · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Peninsula",
+      "domain": "thepeninsulaqatar.com"
+    },
+    {
+      "name": "Sidra Medicine",
+      "domain": "sidra.org"
+    }
+  ],
+  "arabicTicker": [
+    "مرض الدم الوراثي... علاج لمرة وحدة يوصل المنطقة؟",
+    "سِدرة في قطر أول جهة إقليمياً تقدّم علاج كاسجيفي الجيني بتقنية كريسبر (ذا بينينسولا)",
+    "العلاج للثلاسيميا وفقر الدم المنجلي الشديد من عمر 12 فأكثر",
+    "يُعطى مرة واحدة وقد يُحرّر المريض من نقل الدم الدوري (سِدرة)",
+    "سِدرة تتابع 150-200 طفل بأمراض الدم الوراثية المنتشرة إقليمياً بسبب زواج الأقارب",
+    "الإتاحة محصورة بالحالات الشديدة والمسار معقّد ويشمل علاجاً كيميائياً",
+    "مركز إقليمي يعني ألا تسافر العائلات للخارج... فهل يصل العلاج إلى العائلات العراقية؟"
+  ]
+}

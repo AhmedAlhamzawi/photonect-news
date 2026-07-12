@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 12 • 2026",
+  "arabicDateLabel": "12 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "انترنت · ترانزيت",
+    "arabicHeadline": "العراق يبيع الانترنت... وأنت تستفيد؟",
+    "englishSubhead": "QATAR GBI DEAL | 6TH CABLE | 5G PUSH",
+    "heroMedia": "images/news/2026-07-12-iraq-data-corridor/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اتفاق مع قطر لعبور البيانات",
+      "arabicBody": "في 25 حزيران، وقّعت وزارة الاتصالات مع جسر الخليج القطرية لتسويق عبور الانترنت عبر العراق، ضمن مشروع طريق الحضارات، بحسب شفق.",
+      "bigStat": {
+        "value": "25 حزيران",
+        "label": "Qatar GBI deal",
+        "arabicLabel": "توقيع وزارة الاتصالات اتفاقاً مع جسر الخليج القطرية لتسويق عبور الانترنت (Shafaq)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشريك",
+          "value": "جسر الخليج"
+        },
+        {
+          "label": "المشروع",
+          "value": "طريق الحضارات"
+        },
+        {
+          "label": "الهدف",
+          "value": "ممر بيانات"
+        }
+      ],
+      "broll": "images/news/2026-07-12-iraq-data-corridor/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-12-iraq-data-corridor/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · Ministry of Communications · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كابل بحري سادس و5G",
+      "arabicBody": "العراق وقّع كابله البحري السادس، واتفاقاً بين T964 ونوكيا للجيل الخامس، ما يَعِد بانترنت أسرع وإيراد عبور للدولة، بحسب Capacity وSubTel Forum.",
+      "bigStat": {
+        "value": "الكابل 6",
+        "label": "6th subsea cable",
+        "arabicLabel": "الكابل البحري السادس الذي وقّعه العراق لتوسيع سعة الانترنت (SubTel Forum)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشراكة",
+          "value": "T964 ونوكيا"
+        },
+        {
+          "label": "التقنية",
+          "value": "الجيل الخامس"
+        },
+        {
+          "label": "الوعد",
+          "value": "انترنت أسرع"
+        }
+      ],
+      "broll": "images/news/2026-07-12-iraq-data-corridor/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-12-iraq-data-corridor/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Capacity · SubTel Forum · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "طريق الانترنت بين الخليج وأوروبا",
+      "arabicBody": "الفكرة أن يصبح العراق طريقاً للبيانات يربط الخليج وآسيا بأوروبا، فيكسب إيراداً غير نفطي إن نجح التنفيذ، لكن العبرة بالربط الفعلي لا بالتوقيع، بحسب العراقية نيوز.",
+      "bigStat": {
+        "value": "غير نفطي",
+        "label": "New transit income",
+        "arabicLabel": "إيراد عبور غير نفطي محتمل إن تحوّل العراق إلى ممر بيانات إقليمي (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "الربط",
+          "value": "الخليج-أوروبا"
+        },
+        {
+          "label": "المكسب",
+          "value": "دخل جديد"
+        },
+        {
+          "label": "الشرط",
+          "value": "تنفيذ فعلي"
+        }
+      ],
+      "broll": "images/news/2026-07-12-iraq-data-corridor/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-12-iraq-data-corridor/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2E7DD1",
+      "brollSource": "Iraqi News · Developing Telecoms · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Capacity",
+      "domain": "capacityglobal.com"
+    },
+    {
+      "name": "SubTel Forum",
+      "domain": "subtelforum.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يبيع الانترنت... وأنت تستفيد؟",
+    "وزارة الاتصالات توقّع مع جسر الخليج القطرية لتسويق عبور الانترنت في 25 حزيران (شفق)",
+    "مشروع طريق الحضارات يهدف لتحويل العراق ممراً إقليمياً للبيانات",
+    "العراق يوقّع كابله البحري السادس لتوسيع سعة الانترنت (SubTel Forum)",
+    "اتفاق بين T964 ونوكيا لتطوير البنية الرقمية وشبكات الجيل الخامس (Capacity)",
+    "الفكرة: ربط الخليج وآسيا بأوروبا عبر العراق وكسب إيراد غير نفطي",
+    "العبرة بالربط الفعلي لا بالتوقيع... هل يتحقق؟"
+  ]
+}

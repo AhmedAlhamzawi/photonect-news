@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 12 • 2026",
+  "arabicDateLabel": "12 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · صيف",
+    "arabicHeadline": "تكييفك يطفّي... منو السبب؟",
+    "englishSubhead": "-5,000 MW | IRAN GAS CUT | GULF LINE LATE",
+    "heroMedia": "images/news/2026-07-12-power-summer-blackout/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الشبكة تخسر آلاف الميغاوات",
+      "arabicBody": "أعلنت وزارة الكهرباء في تموز فقدان الشبكة نحو 5000 ميغاواط بعد تراجع إمدادات الغاز الإيراني، ما أدى إلى انقطاعات حادة في ذروة الحر، بحسب كردستان24 وشفق.",
+      "bigStat": {
+        "value": "5000 ميغاواط",
+        "label": "Capacity lost",
+        "arabicLabel": "ما فقدته الشبكة الوطنية بعد تراجع الغاز الإيراني، بإعلان وزارة الكهرباء في تموز (Kurdistan24)"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "الغاز الإيراني"
+        },
+        {
+          "label": "التوقيت",
+          "value": "ذروة الحر"
+        },
+        {
+          "label": "الأثر",
+          "value": "انقطاعات"
+        }
+      ],
+      "broll": "images/news/2026-07-12-power-summer-blackout/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-12-power-summer-blackout/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Kurdistan24 · Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الطلب ضعف المتوفّر",
+      "arabicBody": "الغاز الإيراني هبط إلى 15-20 مليون متر مكعب مقابل 50 يحتاجها العراق، والطلب الصيفي فوق 40 غيغاواط مقابل إنتاج 29، وبغداد تقول إن العقوبات تعيق الدفع.",
+      "bigStat": {
+        "value": "29 مقابل 40+",
+        "label": "GW supply vs demand",
+        "arabicLabel": "إنتاج قرب 29 غيغاواط مقابل طلب صيفي يتجاوز 40 غيغاواط (وزارة الكهرباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "الغاز المتاح",
+          "value": "15-20 م م³"
+        },
+        {
+          "label": "المطلوب",
+          "value": "~50 م م³"
+        },
+        {
+          "label": "العائق",
+          "value": "عقوبات الدفع"
+        }
+      ],
+      "broll": "images/news/2026-07-12-power-summer-blackout/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-12-power-summer-blackout/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraq Ministry of Electricity · Shafaq · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "خط الخليج تأخّر لآب",
+      "arabicBody": "المرحلة الأولى من الربط الكهربائي الخليجي بطاقة 500 ميغاواط تأجّلت إلى نهاية آب على الأقل، فيبقى الحل السريع بعيداً وأنت مع المولّدة، بحسب منتدى الشرق الأوسط.",
+      "bigStat": {
+        "value": "نهاية آب",
+        "label": "GCC link delayed",
+        "arabicLabel": "الموعد الجديد لتشغيل المرحلة الأولى من الربط الخليجي بطاقة 500 ميغاواط (Middle East Forum)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة 1",
+          "value": "500 ميغاواط"
+        },
+        {
+          "label": "الوضع",
+          "value": "تأجيل"
+        },
+        {
+          "label": "البديل",
+          "value": "المولّدة"
+        }
+      ],
+      "broll": "images/news/2026-07-12-power-summer-blackout/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-12-power-summer-blackout/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Middle East Forum · Kurdistan24 · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Middle East Forum",
+      "domain": "meforum.org"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "تكييفك يطفّي... منو السبب؟",
+    "وزارة الكهرباء: الشبكة فقدت نحو 5000 ميغاواط بعد تراجع الغاز الإيراني (كردستان24)",
+    "الغاز الإيراني هبط إلى 15-20 مليون متر مكعب مقابل نحو 50 يحتاجها العراق",
+    "الطلب الصيفي يتجاوز 40 غيغاواط مقابل إنتاج قرب 29 غيغاواط (وزارة الكهرباء)",
+    "بغداد: عقوبات واشنطن تعيق دفع أثمان الغاز لطهران وتضغط على التوليد",
+    "المرحلة الأولى من الربط الخليجي 500 ميغاواط تأجّلت إلى نهاية آب (منتدى الشرق الأوسط)",
+    "الحل السريع بعيد... فمن يعيد الكهرباء إلى بيتك في ذروة الحر؟"
+  ]
+}

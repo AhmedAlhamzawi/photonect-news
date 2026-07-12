@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 12 • 2026",
+  "arabicDateLabel": "12 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "بغداد · واشنطن",
+    "arabicHeadline": "رئيس وزرائك بواشنطن... شيجيب لجيبك؟",
+    "englishSubhead": "AL-ZAIDI IN DC | $400B FUND | GAS WAIVER",
+    "heroMedia": "images/news/2026-07-12-zaidi-washington-fund/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أول زيارة للزيدي إلى ترامب",
+      "arabicBody": "علي الزيدي يزور واشنطن هذا الأسبوع في أول رحلة رفيعة له، ويلتقي ترامب برفقة وفد أعمال لجذب استثمار في الطاقة والبنى التحتية، بحسب الناشيونال وشفق.",
+      "bigStat": {
+        "value": "أول زيارة",
+        "label": "First DC trip",
+        "arabicLabel": "أول زيارة رفيعة لرئيس الوزراء علي الزيدي إلى واشنطن ولقاء ترامب (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقيت",
+          "value": "هذا الأسبوع"
+        },
+        {
+          "label": "الوفد",
+          "value": "رجال أعمال"
+        },
+        {
+          "label": "المطلوب",
+          "value": "استثمار"
+        }
+      ],
+      "broll": "images/news/2026-07-12-zaidi-washington-fund/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-12-zaidi-washington-fund/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صندوق بـ400 مليار دولار",
+      "arabicBody": "على الطاولة صندوق طاقة وتنمية تموّله إيرادات 500 ألف برميل يومياً، تقدّر الحكومة أنه قد يحشد حتى 400 مليار دولار خلال 30 عاماً، بحسب الأسبوع العربي.",
+      "bigStat": {
+        "value": "400 مليار $",
+        "label": "Fund ceiling / 30 yrs",
+        "arabicLabel": "سقف صندوق الطاقة والتنمية الذي قد يُحشَد خلال 30 عاماً بتمويل 500 ألف برميل يومياً (The Arab Weekly)"
+      },
+      "supportingStats": [
+        {
+          "label": "التمويل",
+          "value": "500 ألف برميل"
+        },
+        {
+          "label": "المدة",
+          "value": "30 عاماً"
+        },
+        {
+          "label": "الهدف",
+          "value": "كهرباء وبنى"
+        }
+      ],
+      "broll": "images/news/2026-07-12-zaidi-washington-fund/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-12-zaidi-washington-fund/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The Arab Weekly · Atlantic Council · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "العقدة: إعفاء الغاز والسلاح",
+      "arabicBody": "بغداد تريد إعفاءً من عقوبات استيراد الغاز الإيراني، لم تجدّده واشنطن منذ آذار، وملف حصر السلاح بيد الدولة ما يزال عالقاً، بحسب شفق والناشيونال.",
+      "bigStat": {
+        "value": "منذ آذار",
+        "label": "Gas waiver frozen",
+        "arabicLabel": "واشنطن لم تجدّد إعفاء العراق من عقوبات استيراد الغاز الإيراني منذ آذار 2025 (Shafaq)"
+      },
+      "supportingStats": [
+        {
+          "label": "العقدة 1",
+          "value": "إعفاء الغاز"
+        },
+        {
+          "label": "العقدة 2",
+          "value": "حصر السلاح"
+        },
+        {
+          "label": "الرهان",
+          "value": "كهرباؤك"
+        }
+      ],
+      "broll": "images/news/2026-07-12-zaidi-washington-fund/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-12-zaidi-washington-fund/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2E7DD1",
+      "brollSource": "Shafaq News · The National · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    },
+    {
+      "name": "Atlantic Council",
+      "domain": "atlanticcouncil.org"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس وزرائك بواشنطن... شيجيب لجيبك؟",
+    "علي الزيدي يزور واشنطن هذا الأسبوع ويلتقي ترامب في أول رحلة رفيعة (الناشيونال)",
+    "وفد من رجال الأعمال يرافقه لجذب استثمار في الطاقة والبنى التحتية (شفق)",
+    "صندوق طاقة وتنمية يُموَّل من 500 ألف برميل يومياً قد يحشد حتى 400 مليار دولار (الأسبوع العربي)",
+    "منصات غاز عائمة في البصرة لاستيراد الغاز المسال ومعالجة أزمة الكهرباء",
+    "بغداد تريد إعفاءً من عقوبات الغاز الإيراني المجمّد منذ آذار 2025 (شفق)",
+    "بين إعفاء الغاز وحصر السلاح... شنو راح تجني الزيارة لجيب العراقي؟"
+  ]
+}

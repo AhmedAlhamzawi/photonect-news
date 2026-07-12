@@ -1,0 +1,141 @@
+{
+  "dateLabel": "JUL 12 • 2026",
+  "arabicDateLabel": "12 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · صولة الفجر",
+    "arabicHeadline": "فلوسك المنهوبة هربت برّه... تنرجع؟",
+    "englishSubhead": "INTERPOL ACCESS | STATES RESIST | $85M SEIZED",
+    "heroMedia": "images/news/2026-07-12-graft-money-abroad/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بغداد تفتح باب الإنتربول",
+      "arabicBody": "هيئة النزاهة كشفت في 11 تموز أنها ربطت تحقيقاتها بقاعدة الإنتربول لتعقّب وتجميد أموال المتهمين الهاربين، ضمن حملة صولة الفجر، بحسب العراقية نيوز.",
+      "bigStat": {
+        "value": "الإنتربول",
+        "label": "Direct access",
+        "arabicLabel": "هيئة النزاهة تربط تحقيقاتها بقاعدة بيانات الإنتربول لتعقّب أموال الهاربين (العراقية نيوز، 11 تموز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحملة",
+          "value": "صولة الفجر"
+        },
+        {
+          "label": "الأداة",
+          "value": "تعقّب وتجميد"
+        },
+        {
+          "label": "الهدف",
+          "value": "أموال هاربة"
+        }
+      ],
+      "broll": "images/news/2026-07-12-graft-money-abroad/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-12-graft-money-abroad/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · Integrity Commission · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الاعترافات فكّت الشبكة",
+      "arabicBody": "الحملة انطلقت من اعترافات وكيل وزارة النفط السابق عدنان الجميلي؛ صودر نحو 85 مليون دولار، واعتُقل 47 مسؤولاً بينهم نواب رُفعت حصانتهم، بحسب الجزيرة والناشيونال.",
+      "bigStat": {
+        "value": "85 مليون $",
+        "label": "Seized in al-Jumaili case",
+        "arabicLabel": "ما صودر في قضية وكيل وزارة النفط السابق عدنان الجميلي (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "47 مسؤولاً"
+        },
+        {
+          "label": "منهم",
+          "value": "نواب"
+        },
+        {
+          "label": "المصدر",
+          "value": "اعترافات"
+        }
+      ],
+      "broll": "images/news/2026-07-12-graft-money-abroad/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-12-graft-money-abroad/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "دول ترفض إعادة الأموال",
+      "arabicBody": "هيئة النزاهة قالت إن دولاً أجنبية ما تزال تمانع تسليم المطلوبين وإعادة الأصول المنهوبة، فيما يقدّر خبراء كلفة الفساد بأكثر من 500 مليار دولار، بحسب العربية.",
+      "bigStat": {
+        "value": "+500 مليار $",
+        "label": "Estimated graft cost",
+        "arabicLabel": "تقدير خبراء لكلفة الفساد في العراق عبر عقود (العربية)"
+      },
+      "supportingStats": [
+        {
+          "label": "العائق",
+          "value": "دول تمانع"
+        },
+        {
+          "label": "المطلوب",
+          "value": "تسليم وإعادة"
+        },
+        {
+          "label": "السؤال",
+          "value": "تنرجع؟"
+        }
+      ],
+      "broll": "images/news/2026-07-12-graft-money-abroad/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-12-graft-money-abroad/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Arabiya · Iraqi News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "فلوسك المنهوبة هربت برّه... تنرجع؟",
+    "هيئة النزاهة تربط تحقيقاتها بقاعدة الإنتربول لتعقّب أموال الهاربين (العراقية نيوز)",
+    "حملة صولة الفجر انطلقت من اعترافات وكيل وزارة النفط السابق عدنان الجميلي",
+    "نحو 85 مليون دولار صودرت في قضية الجميلي (The National)",
+    "47 مسؤولاً موقوفاً بينهم نواب رُفعت حصانتهم (الجزيرة)",
+    "دول أجنبية ما تزال تمانع تسليم المطلوبين وإعادة الأصول (العراقية نيوز)",
+    "خبراء يقدّرون كلفة الفساد بأكثر من 500 مليار دولار (العربية)"
+  ]
+}
