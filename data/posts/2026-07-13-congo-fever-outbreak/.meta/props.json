@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 13 • 2026",
+  "arabicDateLabel": "13 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "health",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "صحة · حمّى",
+    "arabicHeadline": "ذبيحتك آمنة؟ حمّى تنتشر بالصيف",
+    "englishSubhead": "145 CASES | 9 DEATHS | DHI QAR HARDEST HIT",
+    "heroMedia": "images/news/2026-07-13-congo-fever-outbreak/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "145 إصابة و9 وفيات",
+      "arabicBody": "سجّل العراق منذ مطلع 2026 نحو 145 إصابة بحمّى القرم النزفية و9 وفيات، وهي حمّى فيروسية تتصاعد في أشهر الحرّ، بحسب وزارة الصحة وشينخوا.",
+      "bigStat": {
+        "value": "145 إصابة",
+        "label": "CCHF cases in 2026",
+        "arabicLabel": "إصابات حمّى القرم النزفية المسجّلة في العراق منذ مطلع 2026، مع 9 وفيات (وزارة الصحة · Xinhua)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفيات",
+          "value": "9"
+        },
+        {
+          "label": "النوع",
+          "value": "حمّى نزفية"
+        },
+        {
+          "label": "الموسم",
+          "value": "أشهر الحرّ"
+        }
+      ],
+      "broll": "images/news/2026-07-13-congo-fever-outbreak/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-13-congo-fever-outbreak/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraq Ministry of Health · Xinhua · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تنتقل من الماشية إليك",
+      "arabicBody": "تنتقل عبر لسعات القُراد وملامسة دم الماشية المصابة، فتشتدّ في موسم الذبح، وذي قار الأعلى بـ74 إصابة و6 وفيات، بحسب منظمة الصحة العالمية.",
+      "bigStat": {
+        "value": "74 إصابة",
+        "label": "Dhi Qar cases",
+        "arabicLabel": "إصابات ذي قار وحدها، وهي الأعلى بين المحافظات، مع 6 وفيات (WHO · Xinhua)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأعلى",
+          "value": "ذي قار"
+        },
+        {
+          "label": "الناقل",
+          "value": "القُراد والماشية"
+        },
+        {
+          "label": "الخطر",
+          "value": "موسم الذبح"
+        }
+      ],
+      "broll": "images/news/2026-07-13-congo-fever-outbreak/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-13-congo-fever-outbreak/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "World Health Organization · Xinhua · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رقابة أشدّ على المسالخ",
+      "arabicBody": "الصحة ومنظمة الصحة العالمية تشدّدان الرقابة على المسالخ وتداول اللحوم، وتذكّران أن ذروة 2023 بلغت 587 إصابة و83 وفاة، بحسب منظمة الصحة العالمية.",
+      "bigStat": {
+        "value": "587 إصابة",
+        "label": "2023 peak outbreak",
+        "arabicLabel": "ذروة تفشّي حمّى القرم في العراق عام 2023 مع 83 وفاة، مرجعٌ لخطورة الموسم الحالي (WHO)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجراء",
+          "value": "رقابة المسالخ"
+        },
+        {
+          "label": "الوقاية",
+          "value": "قفازات وطهي جيّد"
+        },
+        {
+          "label": "ذروة 2023",
+          "value": "83 وفاة"
+        }
+      ],
+      "broll": "images/news/2026-07-13-congo-fever-outbreak/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-13-congo-fever-outbreak/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "World Health Organization · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraq Ministry of Health",
+      "domain": "moh.gov.iq"
+    },
+    {
+      "name": "World Health Organization",
+      "domain": "who.int"
+    },
+    {
+      "name": "Xinhua",
+      "domain": "news.cn"
+    },
+    {
+      "name": "ReliefWeb",
+      "domain": "reliefweb.int"
+    }
+  ],
+  "arabicTicker": [
+    "ذبيحتك آمنة؟ حمّى تنتشر بالصيف",
+    "العراق يسجّل نحو 145 إصابة بحمّى القرم النزفية و9 وفيات منذ مطلع 2026 (وزارة الصحة)",
+    "تنتقل عبر لسعات القُراد وملامسة دم الماشية المصابة وتشتدّ بموسم الذبح",
+    "ذي قار الأعلى بين المحافظات بـ74 إصابة و6 وفيات (WHO · Xinhua)",
+    "الصحة تشدّد الرقابة على المسالخ وتداول اللحوم وتوصي بالطهي الجيّد",
+    "ذروة تفشّي 2023 بلغت 587 إصابة و83 وفاة (منظمة الصحة العالمية)",
+    "الوقاية بيدك... فهل تعرف كيف تحمي عائلتك في موسم الحرّ؟"
+  ]
+}

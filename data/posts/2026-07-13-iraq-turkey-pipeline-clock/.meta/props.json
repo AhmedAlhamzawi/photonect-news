@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 13 • 2026",
+  "arabicDateLabel": "13 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · عدّ تنازلي",
+    "arabicHeadline": "نفط العراق... مهلة 27 تموز؟",
+    "englishSubhead": "TREATY ENDS JUL 27 | CEYHAN | 200K BPD",
+    "heroMedia": "images/news/2026-07-13-iraq-turkey-pipeline-clock/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تركيا تبلّغ: لن نجدّد معاهدة الأنبوب",
+      "arabicBody": "أبلغت تركيا أنها لن تجدّد معاهدة أنبوب النفط العراقي–التركي لعام 1973، المنتهية في 27 تموز، ما يهدّد تصدير خام الشمال، بحسب عراق أويل ريبورت.",
+      "bigStat": {
+        "value": "27 تموز",
+        "label": "1973 treaty expires",
+        "arabicLabel": "موعد انتهاء معاهدة أنبوب النفط العراقي–التركي الموقّعة عام 1973 بعد إشعار تركي بعدم التجديد (Iraq Oil Report)"
+      },
+      "supportingStats": [
+        {
+          "label": "المعاهدة",
+          "value": "منذ 1973"
+        },
+        {
+          "label": "الإشعار",
+          "value": "لا تجديد"
+        },
+        {
+          "label": "المسار",
+          "value": "خام الشمال"
+        }
+      ],
+      "broll": "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraq Oil Report · Turkish Minute · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بروتوكول سنة يبقي 200 ألف برميل",
+      "arabicBody": "يُعدّ البلدان بروتوكولاً مؤقتاً لسنة واحدة يبقي أكثر من 200 ألف برميل يومياً عبر جيهان ريثما يُتّفق على صيغة جديدة، بحسب تركش مِنِت وAGBI.",
+      "bigStat": {
+        "value": "200 ألف برميل",
+        "label": "Barrels/day at stake",
+        "arabicLabel": "ما يُتوقّع أن يبقيه البروتوكول المؤقت متدفّقاً يومياً عبر ميناء جيهان بعد انتهاء المعاهدة (Turkish Minute)"
+      },
+      "supportingStats": [
+        {
+          "label": "البروتوكول",
+          "value": "لسنة واحدة"
+        },
+        {
+          "label": "المنفذ",
+          "value": "جيهان"
+        },
+        {
+          "label": "التدفّق",
+          "value": "200 ألف ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Turkish Minute · AGBI · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "صادرات الشمال متوقّفة منذ عامين",
+      "arabicBody": "خام الشمال عبر جيهان متوقّف منذ أكثر من عامين، وهرمز مقطوع منذ شباط، فيبقى هذا الأنبوب أهمّ ملف طاقة للعراق هذا العام، بحسب عراق أويل ريبورت.",
+      "bigStat": {
+        "value": "أكثر من عامين",
+        "label": "Northern exports offline",
+        "arabicLabel": "المدّة التي توقّفت فيها صادرات خام الشمال عبر جيهان بعد قرار تحكيم دولي (Iraq Oil Report)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشمال",
+          "value": "متوقّف 2+ سنة"
+        },
+        {
+          "label": "هرمز",
+          "value": "مقطوع منذ شباط"
+        },
+        {
+          "label": "الأهمية",
+          "value": "أهمّ ملف طاقة"
+        }
+      ],
+      "broll": "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Iraq Oil Report · MEES · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraq Oil Report",
+      "domain": "iraqoilreport.com"
+    },
+    {
+      "name": "Turkish Minute",
+      "domain": "turkishminute.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "MEES",
+      "domain": "mees.com"
+    }
+  ],
+  "arabicTicker": [
+    "نفط العراق... مهلة 27 تموز؟",
+    "تركيا تبلّغ أنها لن تجدّد معاهدة أنبوب النفط العراقي–التركي الموقّعة عام 1973 (Iraq Oil Report)",
+    "المعاهدة تنتهي في 27 تموز، ما يهدّد مسار تصدير خام الشمال عبر جيهان",
+    "البلدان يعدّان بروتوكولاً مؤقتاً لعام يبقي أكثر من 200 ألف برميل يومياً عبر جيهان (Turkish Minute)",
+    "صادرات الشمال متوقّفة منذ أكثر من عامين بعد قرار تحكيم دولي",
+    "منفذ هرمز مقطوع منذ شباط، فبقي هذا الأنبوب أهمّ ملف طاقة للعراق هذا العام",
+    "النفط الذي يموّل رواتب الدولة على المحك... فماذا بعد 27 تموز؟"
+  ]
+}

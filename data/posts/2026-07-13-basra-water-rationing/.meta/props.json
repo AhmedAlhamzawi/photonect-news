@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 13 • 2026",
+  "arabicDateLabel": "13 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "ماء · جفاف",
+    "arabicHeadline": "مويتك تنقطع... منو ياخذ حصتك؟",
+    "englishSubhead": "DRIEST SINCE 1933 | -27% RIVER FLOW | BASRA ON TANKERS",
+    "heroMedia": "images/news/2026-07-13-basra-water-rationing/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أجفّ عام منذ 1933",
+      "arabicBody": "العراق يعيش أجفّ سنة منذ 1933، وتدفّق دجلة والفرات هبط نحو 27% بفعل قلّة الأمطار وحجز المياه في المنبع، بحسب الجزيرة ورويترز.",
+      "bigStat": {
+        "value": "27% أقل",
+        "label": "River flow drop",
+        "arabicLabel": "تراجع تدفّق نهري دجلة والفرات هذا العام مقارنةً بمعدّلاته، مع أجفّ موسم منذ 1933 (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموسم",
+          "value": "أجفّ منذ 1933"
+        },
+        {
+          "label": "السبب",
+          "value": "أمطار + منبع"
+        },
+        {
+          "label": "الأثر",
+          "value": "تقنين المياه"
+        }
+      ],
+      "broll": "images/news/2026-07-13-basra-water-rationing/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-13-basra-water-rationing/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · Reuters · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "البصرة على صهاريج الماء",
+      "arabicBody": "البصرة، بنحو 3.5 مليون نسمة، أكثر المناطق شحّاً، وأحياء كاملة تشرب من صهاريج يومية، فيما لا ينال العراق سوى أقل من 40% من حصته، بحسب فَنَك.",
+      "bigStat": {
+        "value": "أقل من 40%",
+        "label": "Iraq's water share",
+        "arabicLabel": "ما يصل العراق فعلياً من حصته في دجلة والفرات، مع اعتماد أحياء بصرية على صهاريج يومية (Fanack Water)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة",
+          "value": "~3.5 مليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "صهاريج يومية"
+        },
+        {
+          "label": "الحصة",
+          "value": "< 40%"
+        }
+      ],
+      "broll": "images/news/2026-07-13-basra-water-rationing/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-13-basra-water-rationing/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Fanack Water · Al Jazeera · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد تفاوض تركيا",
+      "arabicBody": "بغداد تجري محادثات قصيرة مع تركيا لتثبيت تدفّق يلبّي حاجاتها، فيما تتحكّم سدود مشروع جنوب الأناضول الـ22 بحجم المياه وتوقيتها، بحسب سي إن إن وفَنَك.",
+      "bigStat": {
+        "value": "22 سدّاً",
+        "label": "Upstream GAP dams",
+        "arabicLabel": "عدد سدود مشروع جنوب الأناضول التركي (GAP) التي تتحكّم بحجم وتوقيت مياه دجلة والفرات (CNN)"
+      },
+      "supportingStats": [
+        {
+          "label": "المفاوضات",
+          "value": "بغداد–أنقرة"
+        },
+        {
+          "label": "الملف",
+          "value": "تثبيت التدفّق"
+        },
+        {
+          "label": "العائق",
+          "value": "سدود المنبع"
+        }
+      ],
+      "broll": "images/news/2026-07-13-basra-water-rationing/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-13-basra-water-rationing/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "CNN · Fanack Water · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "CNN",
+      "domain": "cnn.com"
+    },
+    {
+      "name": "Fanack Water",
+      "domain": "water.fanack.com"
+    }
+  ],
+  "arabicTicker": [
+    "مويتك تنقطع... منو ياخذ حصتك؟",
+    "العراق يعيش أجفّ عام منذ 1933 وتدفّق دجلة والفرات هبط نحو 27% (الجزيرة)",
+    "البصرة بنحو 3.5 مليون نسمة أكثر المناطق شحّاً، وكثيرون على صهاريج ماء يومية",
+    "العراق ينال أقل من 40% من حصته المائية في النهرين (Fanack Water)",
+    "بغداد تفاوض تركيا لتثبيت تدفّق يلبّي حاجاتها من الشرب والزراعة",
+    "سدود مشروع جنوب الأناضول الـ22 تتحكّم بحجم المياه وتوقيتها (CNN)",
+    "الجفاف يشتدّ... فمن يضمن ماء الشرب في بيتك هذا الصيف؟"
+  ]
+}

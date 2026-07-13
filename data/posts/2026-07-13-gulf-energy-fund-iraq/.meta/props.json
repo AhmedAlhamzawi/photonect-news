@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 13 • 2026",
+  "arabicDateLabel": "13 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_gulf",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طاقة · خليج",
+    "arabicHeadline": "فلوس الخليج تجي... تصلّح كهرباك؟",
+    "englishSubhead": "GULF FUND OPEN | CHEVRON+UCC DEAL | $5BN PIPELINE",
+    "heroMedia": "images/news/2026-07-13-gulf-energy-fund-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صندوق طاقة يُفتح للخليج",
+      "arabicBody": "يفتح العراق صندوق الطاقة والتنمية المدعوم من البنك المركزي أمام مستثمرين من السعودية والإمارات وقطر ومؤسسات أميركية وأوروبية لتمويل الكهرباء والبنى التحتية، بحسب زاوية.",
+      "bigStat": {
+        "value": "3 دول خليجية",
+        "label": "Gulf backers invited",
+        "arabicLabel": "السعودية والإمارات وقطر مدعوّة للاستثمار في صندوق الطاقة والتنمية العراقي المدعوم من البنك المركزي (Zawya)"
+      },
+      "supportingStats": [
+        {
+          "label": "الراعي",
+          "value": "البنك المركزي"
+        },
+        {
+          "label": "المجال",
+          "value": "كهرباء وبنى"
+        },
+        {
+          "label": "شركاء",
+          "value": "أميركا وأوروبا"
+        }
+      ],
+      "broll": "images/news/2026-07-13-gulf-energy-fund-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-13-gulf-energy-fund-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Zawya · Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شيفرون وقطرية بأنبوب البصرة",
+      "arabicBody": "أجاز مجلس الوزراء في 5 تموز لشركة نفط البصرة التوقيع مع تحالف يضم شيفرون وUCC القطرية لدراسة أنبوب البصرة–حديثة بنحو 5 مليارات دولار، بحسب AGBI.",
+      "bigStat": {
+        "value": "$5 مليار",
+        "label": "Basra-Haditha pipeline",
+        "arabicLabel": "الكلفة التقديرية لأنبوب البصرة–حديثة الذي أُجيز التوقيع على دراسته مع تحالف شيفرون وUCC (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "المُجيز",
+          "value": "مجلس الوزراء"
+        },
+        {
+          "label": "التاريخ",
+          "value": "5 تموز"
+        },
+        {
+          "label": "التحالف",
+          "value": "شيفرون + UCC"
+        }
+      ],
+      "broll": "images/news/2026-07-13-gulf-energy-fund-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-13-gulf-energy-fund-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AGBI · Pipeline Journal · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "1.5 مليار أولى من 5",
+      "arabicBody": "اعتمد العراق نحو 1.5 مليار دولار كدفعة أولى من المشروع، وتُدرَس طرق نحو ميناء جيهان التركي وميناء بانياس السوري لتنويع منافذ التصدير، بحسب صحيفة الأنابيب.",
+      "bigStat": {
+        "value": "$1.5 مليار",
+        "label": "First tranche approved",
+        "arabicLabel": "الدفعة الأولى المعتمدة من مشروع أنبوب البصرة–حديثة البالغة كلفته نحو 5 مليارات دولار (Pipeline Technology Journal)"
+      },
+      "supportingStats": [
+        {
+          "label": "الدفعة",
+          "value": "1.5 مليار"
+        },
+        {
+          "label": "من أصل",
+          "value": "5 مليارات"
+        },
+        {
+          "label": "المنافذ",
+          "value": "جيهان وبانياس"
+        }
+      ],
+      "broll": "images/news/2026-07-13-gulf-energy-fund-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-13-gulf-energy-fund-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Pipeline Technology Journal · AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Zawya",
+      "domain": "zawya.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Pipeline Technology Journal",
+      "domain": "pipeline-journal.net"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "فلوس الخليج تجي... تصلّح كهرباك؟",
+    "العراق يفتح صندوق الطاقة والتنمية المدعوم من البنك المركزي أمام السعودية والإمارات وقطر (Zawya)",
+    "مجلس الوزراء يجيز في 5 تموز لشركة نفط البصرة التوقيع مع تحالف يضم شيفرون وUCC القطرية",
+    "أنبوب البصرة–حديثة بكلفة تقديرية نحو 5 مليارات دولار قيد الدراسة (AGBI)",
+    "اعتماد نحو 1.5 مليار دولار كدفعة أولى من المشروع",
+    "طرق نحو جيهان التركي وبانياس السوري لتنويع منافذ التصدير",
+    "أموال الخليج قادمة... فهل تصل إلى كهرباء بيتك فعلاً؟"
+  ]
+}

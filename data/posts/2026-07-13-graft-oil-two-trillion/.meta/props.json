@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 13 • 2026",
+  "arabicDateLabel": "13 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "تريليونا دولار... وين راحوا؟",
+    "englishSubhead": "3RD OIL OFFICIAL IN 6 WEEKS | $20M IN BOTTLES | 47 HELD",
+    "heroMedia": "images/news/2026-07-13-graft-oil-two-trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ثالث مسؤول نفطي خلال 6 أسابيع",
+      "arabicBody": "في 9 تموز، اعتقلت السلطات مدير عام توزيع المنتجات النفطية حسين طالب الفضلي بتهم فساد — ثالث مسؤول نفطي خلال 6 أسابيع، بحسب الشرق الأوسط.",
+      "bigStat": {
+        "value": "3 مسؤولين",
+        "label": "Oil officials in 6 weeks",
+        "arabicLabel": "عدد كبار مسؤولي النفط الموقوفين خلال ستة أسابيع، آخرهم مدير عام توزيع المنتجات النفطية (Asharq Al-Awsat)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوف",
+          "value": "مدير عام"
+        },
+        {
+          "label": "المدّة",
+          "value": "6 أسابيع"
+        },
+        {
+          "label": "الملف",
+          "value": "قطاع النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-13-graft-oil-two-trillion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-13-graft-oil-two-trillion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Asharq Al-Awsat · ISHM/EPIC · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "20 مليوناً في قناني ماء",
+      "arabicBody": "نحو 20 مليون دولار ضُبطت في قناني ماء ببيت وكيل وزارة النفط للتصفية بتكريت، ومضبوطات القضية بلغت 127 مليار دينار و24 مليون دولار، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "$20 مليون",
+        "label": "Cash in water bottles",
+        "arabicLabel": "المبلغ المخبّأ في قناني ماء ببيت وكيل وزارة النفط لشؤون التصفية في تكريت (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "المضبوطات",
+          "value": "127 مليار دينار"
+        },
+        {
+          "label": "نقداً",
+          "value": "24 مليون دولار"
+        },
+        {
+          "label": "المكان",
+          "value": "تكريت"
+        }
+      ],
+      "broll": "images/news/2026-07-13-graft-oil-two-trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-13-graft-oil-two-trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "47 موقوفاً... والكلفة تريليونان",
+      "arabicBody": "حملة رئيس الوزراء أوقفت نحو 47 مسؤولاً ونائباً حتى الآن، فيما تقدّر جهات تحقيق كلفة الفساد بأكثر من تريليوني دولار منذ 2003، بحسب فورين بوليسي والجزيرة.",
+      "bigStat": {
+        "value": "أكثر من تريليونين",
+        "label": "Graft cost since 2003",
+        "arabicLabel": "تقدير كلفة الفساد على العراق منذ 2003 بالدولار، وفق جهات تحقيق (Foreign Policy · Al Jazeera)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "~47"
+        },
+        {
+          "label": "منذ",
+          "value": "2003"
+        },
+        {
+          "label": "الحملة",
+          "value": "صولة الفجر"
+        }
+      ],
+      "broll": "images/news/2026-07-13-graft-oil-two-trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-13-graft-oil-two-trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Foreign Policy · Al Jazeera · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "Foreign Policy",
+      "domain": "foreignpolicy.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "تريليونا دولار... وين راحوا؟",
+    "اعتقال مدير عام توزيع المنتجات النفطية في 9 تموز بتهم فساد، ثالث مسؤول نفطي خلال 6 أسابيع (الشرق الأوسط)",
+    "ضبط نحو 20 مليون دولار في قناني ماء ببيت وكيل وزارة النفط لشؤون التصفية في تكريت (The National)",
+    "مضبوطات القضية بلغت 127 مليار دينار و24 مليون دولار نقداً وعقارات وذهباً",
+    "حملة رئيس الوزراء أوقفت نحو 47 مسؤولاً ونائباً حتى الآن",
+    "جهات تحقيق تقدّر كلفة الفساد بأكثر من تريليوني دولار منذ 2003 (Foreign Policy)",
+    "المال عاد يُضبط... لكن أين ذهب طوال عشرين عاماً؟"
+  ]
+}

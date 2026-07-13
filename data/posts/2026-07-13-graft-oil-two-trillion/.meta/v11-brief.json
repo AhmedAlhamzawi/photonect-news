@@ -1,0 +1,20 @@
+{
+  "slug": "2026-07-13-graft-oil-two-trillion",
+  "kicker": "عاجل",
+  "hookHeadline": "تريليونا دولار... وين راحوا؟",
+  "voText": "اعتقلت السلطات العراقية في التاسع من تموز مدير عام شركة توزيع المنتجات النفطية بتهم فساد، وهو ثالث مسؤول نفطي كبير يوقف خلال ستة أسابيع. وكانت السلطات قد ضبطت نحو عشرين مليون دولار مخبأة في قناني ماء ببيت وكيل وزارة النفط في تكريت، وبلغت مضبوطات القضية مئة وسبعة وعشرين مليار دينار. حملة رئيس الوزراء أوقفت نحو سبعة وأربعين مسؤولا ونائبا، فيما تقدر جهات تحقيق كلفة الفساد بأكثر من تريليوني دولار منذ 2003. فأين ذهبت كل هذه الأموال؟",
+  "endQuestion": "أين ذهبت كل هذه الأموال؟",
+  "sourcesLine": "المصادر: The National · الشرق الأوسط · Foreign Policy",
+  "images": [
+    "images/news/2026-07-13-graft-oil-two-trillion/hero.jpg",
+    "images/news/2026-07-13-graft-oil-two-trillion/broll_1.jpg",
+    "images/news/2026-07-13-graft-oil-two-trillion/broll_2.jpg",
+    "images/news/2026-07-13-graft-oil-two-trillion/broll_3.jpg"
+  ],
+  "audioBed": "audio/mood_newsroom.mp3",
+  "statPops": [
+    { "value": "$20 مليون", "label": "مخبأة في قناني ماء", "matchWord": "عشرين" },
+    { "value": "127 مليار دينار", "label": "مضبوطات القضية", "matchWord": "مليار" },
+    { "value": "أكثر من تريليونين", "label": "كلفة الفساد منذ 2003", "matchWord": "تريليوني" }
+  ]
+}

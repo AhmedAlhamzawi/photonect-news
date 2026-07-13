@@ -1,0 +1,20 @@
+{
+  "slug": "2026-07-13-iraq-turkey-pipeline-clock",
+  "kicker": "عاجل",
+  "hookHeadline": "نفط العراق... مهلة 27 تموز",
+  "voText": "أبلغت تركيا أنها لن تجدد معاهدة أنبوب النفط العراقي التركي الموقعة عام ألف وتسعمئة وثلاثة وسبعين، والتي تنتهي في السابع والعشرين من تموز، ما يهدد مسار تصدير خام الشمال عبر ميناء جيهان. ويعد البلدان بروتوكولا مؤقتا لعام واحد يبقي أكثر من مئتي ألف برميل يوميا تتدفق عبر الميناء ريثما يتفق على اتفاق جديد. وتبقى صادرات الشمال متوقفة منذ أكثر من عامين، فيما ظل منفذ هرمز مقطوعا منذ شباط. فما مصير نفط العراق بعد السابع والعشرين من تموز؟",
+  "endQuestion": "ما مصير نفط العراق بعد 27 تموز؟",
+  "sourcesLine": "المصادر: Iraq Oil Report · Turkish Minute · AGBI",
+  "images": [
+    "images/news/2026-07-13-iraq-turkey-pipeline-clock/hero.jpg",
+    "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_1.jpg",
+    "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_2.jpg",
+    "images/news/2026-07-13-iraq-turkey-pipeline-clock/broll_3.jpg"
+  ],
+  "audioBed": "audio/mood_newsroom.mp3",
+  "statPops": [
+    { "value": "27 تموز", "label": "انتهاء معاهدة 1973", "matchWord": "والعشرين" },
+    { "value": "200 ألف برميل/يوم", "label": "عبر ميناء جيهان", "matchWord": "مئتي" },
+    { "value": "عامان+", "label": "توقّف صادرات الشمال", "matchWord": "عامين" }
+  ]
+}
