@@ -78,8 +78,13 @@ def _x_caption(caption: str) -> str:
     return out[:275]
 
 
-def submit(video: Path, caption: str, user: str, platforms: list[str]) -> str:
+def submit(video: Path, caption: str, user: str, platforms: list[str],
+           scheduled_date: str = "", timezone: str = "") -> str:
     fields = [("user", user), ("title", caption)]
+    if scheduled_date:
+        fields.append(("scheduled_date", scheduled_date))   # ISO-8601, future → 202 + job_id
+        if timezone:
+            fields.append(("timezone", timezone))           # IANA, e.g. Asia/Baghdad
     for p in platforms:
         fields.append(("platform[]", p))
     if "x" in platforms:
@@ -114,10 +119,11 @@ def submit(video: Path, caption: str, user: str, platforms: list[str]) -> str:
             time.sleep(5 * (attempt + 1))
     else:
         raise RuntimeError(f"upload failed after 3 attempts: {last_err}")
-    rid = resp.get("request_id") or (resp.get("data") or {}).get("request_id")
+    rid = (resp.get("request_id") or (resp.get("data") or {}).get("request_id")
+           or resp.get("job_id") or (resp.get("data") or {}).get("job_id"))
     if not rid:
-        raise RuntimeError(f"no request_id in response: {str(resp)[:300]}")
-    return rid
+        raise RuntimeError(f"no request_id/job_id in response: {str(resp)[:300]}")
+    return str(rid)
 
 
 def poll(request_id: str) -> dict:
@@ -165,12 +171,15 @@ def main() -> int:
     ap.add_argument("--slugs", help="comma-separated FULL slug names — posts exactly these, ignores --date")
     ap.add_argument("--user", required=True, help="upload-post profile handle holding the connected accounts")
     ap.add_argument("--platforms", default="instagram,tiktok")
+    ap.add_argument("--spread", default="", help='comma list of local HH:MM slots (e.g. "18:00,19:45,21:15"); slug i gets slot i — schedules instead of posting now')
+    ap.add_argument("--tz", default="Asia/Baghdad", help="IANA timezone for --spread slots")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     if not args.date and not args.slugs:
         ap.error("need --date or --slugs")
 
     platforms = [p.strip() for p in args.platforms.split(",") if p.strip()]
+    slots = [t.strip() for t in args.spread.split(",") if t.strip()]
 
     if not args.dry_run and not api_key():
         print("UPLOAD_POST_API_KEY unset — skipping auto-post (no-op).")
@@ -200,21 +209,43 @@ def main() -> int:
             print(f"  skip {name}: already posted"); skipped += 1; continue
         caption = caption_file.read_text(encoding="utf-8").strip() if caption_file.is_file() else ""
         if args.dry_run:
-            print(f"  [dry-run] would post {name} → {platforms}  (caption {len(caption)} chars)")
+            slot = slots[min(posted, len(slots)-1)] if slots else "now"
+            print(f"  [dry-run] would post {name} → {platforms} at {slot} {args.tz if slots else ''}  (caption {len(caption)} chars)")
             posted += 1; continue
+        # --spread: assign slug i → slot i (local tz). Past/imminent slot → post now.
+        sched_iso = ""
+        if slots:
+            from datetime import datetime, timedelta
+            from zoneinfo import ZoneInfo
+            tz = ZoneInfo(args.tz)
+            now = datetime.now(tz)
+            hh, mm = slots[min(posted + skipped + failed, len(slots) - 1)].split(":")
+            slot_dt = now.replace(hour=int(hh), minute=int(mm), second=0, microsecond=0)
+            if slot_dt > now + timedelta(minutes=2):
+                sched_iso = slot_dt.strftime("%Y-%m-%dT%H:%M:%S")
+            else:
+                print(f"    slot {hh}:{mm} already past — posting {name} immediately", flush=True)
         try:
-            rid = submit(video, caption, args.user, platforms)
-            print(f"  → {name}: request_id={rid}", flush=True)
-            status = poll(rid)
-            results = per_platform_results(status)
-            marker.write_text(json.dumps(
-                {"request_id": rid, "results": results, "date": args.date or name[:10]}, ensure_ascii=False, indent=2))
-            ok = [p for p, v in results.items() if v]
-            bad = [p for p, v in results.items() if not v]
-            print(f"  ✓ {name}: posted={ok or '?'}" + (f"  FAILED={bad}" if bad else ""), flush=True)
-            posted += 1
-            if bad:
-                failed += 1
+            rid = submit(video, caption, args.user, platforms,
+                         scheduled_date=sched_iso, timezone=args.tz if sched_iso else "")
+            if sched_iso:
+                print(f"  ⏰ {name}: scheduled {sched_iso} {args.tz} (job {rid})", flush=True)
+                marker.write_text(json.dumps(
+                    {"job_id": rid, "scheduled": sched_iso, "timezone": args.tz,
+                     "date": args.date or name[:10]}, ensure_ascii=False, indent=2))
+                posted += 1
+            else:
+                print(f"  → {name}: request_id={rid}", flush=True)
+                status = poll(rid)
+                results = per_platform_results(status)
+                marker.write_text(json.dumps(
+                    {"request_id": rid, "results": results, "date": args.date or name[:10]}, ensure_ascii=False, indent=2))
+                ok = [p for p, v in results.items() if v]
+                bad = [p for p, v in results.items() if not v]
+                print(f"  ✓ {name}: posted={ok or '?'}" + (f"  FAILED={bad}" if bad else ""), flush=True)
+                posted += 1
+                if bad:
+                    failed += 1
         except Exception as e:
             print(f"  ✗ {name}: {e}", file=sys.stderr); failed += 1
         time.sleep(SLEEP_BETWEEN_SLUGS)

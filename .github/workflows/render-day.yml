@@ -145,10 +145,15 @@ jobs:
           UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
           DATE_ARG: ${{ steps.date.outputs.value }}
         run: |
+          # Spread posts across the Baghdad evening peak (18:00→23:45) via
+          # upload-post's scheduled_date — one render run, staggered publishes.
+          # Jul-12 evidence: batch-posting self-competes; the late retry won the day.
           python3 automation/scripts/post-to-uploadpost.py \
             --date "$DATE_ARG" \
             --user "$UPLOAD_POST_USER" \
-            --platforms instagram,tiktok,x
+            --platforms instagram,tiktok,x \
+            --spread "18:00,19:45,21:15,22:30,23:45" \
+            --tz "Asia/Baghdad"
 
       - name: Upload QA artefacts to workflow run
         if: always()
