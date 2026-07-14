@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 14 • 2026",
+  "arabicDateLabel": "14 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "375 كيلو ذهب... من وين؟",
+    "englishSubhead": "375KG GOLD RECOVERED | $100M IN CASH | ~47 HELD",
+    "heroMedia": "images/news/2026-07-14-graft-gold-375kg/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "375 كيلو ذهب استرجعها القضاء",
+      "arabicBody": "أعلن مجلس القضاء الأعلى اليوم استعادة 375 كيلوغراماً من الذهب في قضية فساد وكيل وزارة النفط عدنان الجميلي، 358 منها بالتنسيق مع كردستان، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "375 كيلو ذهب",
+        "label": "Gold recovered today",
+        "arabicLabel": "كمية الذهب التي أعلن مجلس القضاء الأعلى استعادتها اليوم في قضية وكيل وزارة النفط عدنان الجميلي (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكمية",
+          "value": "375 كيلو"
+        },
+        {
+          "label": "بالتنسيق",
+          "value": "كردستان"
+        },
+        {
+          "label": "قضية منفصلة",
+          "value": "17 كيلو"
+        }
+      ],
+      "broll": "images/news/2026-07-14-graft-gold-375kg/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-14-graft-gold-375kg/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · Supreme Judicial Council · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "100 مليون دولار... بقناني وجدران",
+      "arabicBody": "استُرجع أكثر من 100 مليون دولار نقداً، مخبأً داخل قناني ماء وجدران وأنبوب تصريف، فيما لا يزال الجميلي قيد التحقيق، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "أكثر من 100 مليون$",
+        "label": "Cash recovered",
+        "arabicLabel": "قيمة النقد المستعاد المخبأ داخل قناني ماء وجدران وأنبوب تصريف في القضية نفسها (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "نقداً",
+          "value": "100 مليون$"
+        },
+        {
+          "label": "الإخفاء",
+          "value": "قناني وجدران"
+        },
+        {
+          "label": "المتهم",
+          "value": "وكيل النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-14-graft-gold-375kg/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-14-graft-gold-375kg/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "47 موقوفاً... و150 ملياراً خسائر مقدّرة",
+      "arabicBody": "حملة رئيس الوزراء علي الزيدي أوقفت نحو 47 مسؤولاً ونائباً. الرئيس الأسبق برهم صالح قدّر عام 2021 خسائر الفساد بـ150 مليار دولار منذ 2003.",
+      "bigStat": {
+        "value": "150 مليار دولار",
+        "label": "Lost to graft since 2003 (2021 est.)",
+        "arabicLabel": "تقدير الرئيس الأسبق برهم صالح عام 2021 لخسائر الفساد على العراق منذ 2003 (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "~47"
+        },
+        {
+          "label": "الحملة",
+          "value": "الزيدي"
+        },
+        {
+          "label": "التقدير",
+          "value": "2021"
+        }
+      ],
+      "broll": "images/news/2026-07-14-graft-gold-375kg/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-14-graft-gold-375kg/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · Al Jazeera · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Kurdistan 24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "375 كيلو ذهب... من وين؟",
+    "مجلس القضاء الأعلى يعلن استعادة 375 كيلوغراماً من الذهب في قضية وكيل وزارة النفط عدنان الجميلي (The National)",
+    "358 كيلوغراماً استُعيدت بالتنسيق مع إقليم كردستان، و17 كيلوغراماً في قضية منفصلة",
+    "استرجاع أكثر من 100 مليون دولار نقداً كان مخبأً في قناني ماء وجدران وأنبوب تصريف",
+    "حملة رئيس الوزراء علي الزيدي لمكافحة الفساد أوقفت نحو 47 مسؤولاً ونائباً",
+    "الرئيس الأسبق برهم صالح قدّر عام 2021 خسائر الفساد بـ150 مليار دولار منذ 2003",
+    "المال عاد يُضبط... لكن السؤال بقي: من وين جاء كل هذا الذهب؟"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 14 • 2026",
+  "arabicDateLabel": "14 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "عقوبات · كهرباء",
+    "arabicHeadline": "عقوبات إيران... وكهربائك؟",
+    "englishSubhead": "US-IRAN MoU | IRAN GAS = 30-40% OF IRAQ POWER",
+    "heroMedia": "images/news/2026-07-14-iran-mou-energy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مذكرة تفاهم أميركية إيرانية",
+      "arabicBody": "وقّعت واشنطن وطهران في 17 حزيران مذكرة تفاهم قد ترفع العقوبات الأميركية عن إيران وتفتح المعاملات المالية مع المنطقة، بحسب ميدل إيست آي.",
+      "bigStat": {
+        "value": "17 حزيران",
+        "label": "US-Iran MoU signed",
+        "arabicLabel": "تاريخ توقيع مذكرة التفاهم الأميركية الإيرانية التي قد ترفع العقوبات وتفتح المعاملات المالية مع المنطقة (Middle East Eye)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطرفان",
+          "value": "واشنطن وطهران"
+        },
+        {
+          "label": "التوقيع",
+          "value": "17 حزيران"
+        },
+        {
+          "label": "الأثر",
+          "value": "رفع عقوبات"
+        }
+      ],
+      "broll": "images/news/2026-07-14-iran-mou-energy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-14-iran-mou-energy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Middle East Eye · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "غاز إيران يشغّل 30-40% من الكهرباء",
+      "arabicBody": "العراق يعتمد على الغاز الإيراني في نحو 30 إلى 40% من توليد الكهرباء، وقد أنهت واشنطن إعفاء استيراد الكهرباء من إيران في آذار 2025، بحسب الجزيرة.",
+      "bigStat": {
+        "value": "30–40%",
+        "label": "Iraq power from Iranian gas",
+        "arabicLabel": "نسبة اعتماد توليد الكهرباء في العراق على الغاز الإيراني المستورد، وفق مراكز أبحاث الطاقة (Clingendael)"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز إيراني",
+          "value": "30–40%"
+        },
+        {
+          "label": "إعفاء الكهرباء",
+          "value": "أُنهي 2025"
+        },
+        {
+          "label": "البديل",
+          "value": "قطر وعُمان"
+        }
+      ],
+      "broll": "images/news/2026-07-14-iran-mou-energy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-14-iran-mou-energy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · Clingendael · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "رفع العقوبات قد يخفّف قيد الدفع",
+      "arabicBody": "رفع العقوبات قد يسهّل دفع العراق ثمن الغاز الإيراني ويستقر إمداد الكهرباء، لكن شركات الخليج تنتظر تحرّك الصناديق السيادية أولاً، بحسب إيه جي بي آي.",
+      "bigStat": {
+        "value": "آذار 2025",
+        "label": "US ended Iraq's Iran-power waiver",
+        "arabicLabel": "الشهر الذي أنهت فيه واشنطن إعفاء العراق من عقوبات استيراد الكهرباء الإيرانية (Al Jazeera)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائدة",
+          "value": "دفع أسهل"
+        },
+        {
+          "label": "الحذر",
+          "value": "شركات تنتظر"
+        },
+        {
+          "label": "الأولوية",
+          "value": "صناديق سيادية"
+        }
+      ],
+      "broll": "images/news/2026-07-14-iran-mou-energy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-14-iran-mou-energy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AGBI · Middle East Eye · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Middle East Eye",
+      "domain": "middleeasteye.net"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    }
+  ],
+  "arabicTicker": [
+    "عقوبات إيران... وكهربائك؟",
+    "واشنطن وطهران توقّعان في 17 حزيران مذكرة تفاهم قد ترفع العقوبات الأميركية عن إيران (Middle East Eye)",
+    "العراق يعتمد على الغاز الإيراني في نحو 30 إلى 40% من توليد الكهرباء (Clingendael)",
+    "واشنطن أنهت إعفاء العراق من عقوبات استيراد الكهرباء الإيرانية في آذار 2025 (Al Jazeera)",
+    "رفع العقوبات قد يسهّل دفع العراق ثمن الغاز ويستقر إمداد الكهرباء",
+    "شركات الخليج تنتظر تحرّك الصناديق السيادية قبل الاستثمار في إيران (AGBI)",
+    "قرار يُتّخذ بعيداً عن بغداد... فهل يصل أثره إلى مولّدة حيّك؟"
+  ]
+}

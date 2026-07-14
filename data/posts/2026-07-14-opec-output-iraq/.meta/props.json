@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 14 • 2026",
+  "arabicDateLabel": "14 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · موازنة",
+    "arabicHeadline": "أوبك تفتح الصنبور... وراتبك؟",
+    "englishSubhead": "OPEC+ +188K BPD FROM AUG | IRAQ 95% OIL-FUNDED",
+    "heroMedia": "images/news/2026-07-14-opec-output-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "8 دول ترفع الضخ من آب",
+      "arabicBody": "ثماني دول من أوبك+ بينها العراق تفتح الصنبور: +188 ألف برميل يومياً من آب، وهي الزيادة الخامسة على التوالي، بحسب الجزيرة.",
+      "bigStat": {
+        "value": "+188 ألف برميل/يوم",
+        "label": "OPEC+ output hike from August",
+        "arabicLabel": "حجم الزيادة التي أقرّتها ثماني دول من أوبك+ بينها العراق اعتباراً من آب، وهي الخامسة توالياً (Al Jazeera)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزيادة",
+          "value": "188 ألف ب/ي"
+        },
+        {
+          "label": "التسلسل",
+          "value": "الخامسة"
+        },
+        {
+          "label": "من",
+          "value": "آب"
+        }
+      ],
+      "broll": "images/news/2026-07-14-opec-output-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-14-opec-output-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "95% من دخل الدولة نفط",
+      "arabicBody": "العراق ثاني أكبر منتج في أوبك، حصته لتموز 4.378 مليون برميل يومياً، والنفط يموّل أكثر من 95% من دخل الدولة، بحسب إدارة معلومات الطاقة الأميركية.",
+      "bigStat": {
+        "value": "95% من دخل الدولة",
+        "label": "Iraq state income from oil",
+        "arabicLabel": "نسبة اعتماد موازنة الدولة العراقية على إيرادات النفط، وفق إدارة معلومات الطاقة الأميركية (EIA)"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "ثاني أكبر"
+        },
+        {
+          "label": "حصة تموز",
+          "value": "4.378 م ب/ي"
+        },
+        {
+          "label": "الاعتماد",
+          "value": "95%+"
+        }
+      ],
+      "broll": "images/news/2026-07-14-opec-output-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-14-opec-output-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "EIA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "إنتاج أكثر... وضغط على الواردات",
+      "arabicBody": "زيادة المعروض قد تخفض الأسعار وتقلّص واردات تموّل رواتب شهرية بنحو 8 ترليون دينار، وسط تحذيرات من ضغط على الإيرادات، بحسب عراقي نيوز.",
+      "bigStat": {
+        "value": "8 ترليون دينار",
+        "label": "Iraq monthly public salary bill",
+        "arabicLabel": "قيمة الرواتب الشهرية للموظفين والمتقاعدين والرعاية الاجتماعية التي تموّلها إيرادات النفط (INA)"
+      },
+      "supportingStats": [
+        {
+          "label": "رواتب شهرية",
+          "value": "8 ترليون"
+        },
+        {
+          "label": "الخطر",
+          "value": "ضغط الأسعار"
+        },
+        {
+          "label": "المعتمدون",
+          "value": "ملايين"
+        }
+      ],
+      "broll": "images/news/2026-07-14-opec-output-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-14-opec-output-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Iraqi News · INA · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "EIA",
+      "domain": "eia.gov"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوبك تفتح الصنبور... وراتبك؟",
+    "8 دول من أوبك+ بينها العراق ترفع الإنتاج 188 ألف برميل يومياً من آب، الزيادة الخامسة توالياً (Al Jazeera)",
+    "العراق ثاني أكبر منتج في أوبك، وحصته لتموز 4.378 مليون برميل يومياً",
+    "أكثر من 95% من دخل الدولة العراقية يأتي من النفط (EIA)",
+    "الرواتب الشهرية للموظفين والمتقاعدين والرعاية تبلغ نحو 8 ترليون دينار (INA)",
+    "عراقي نيوز: العراق يواجه ضغطاً على الإيرادات مع اتجاه أوبك+ لرفع الإنتاج",
+    "المعروض يزيد... والسؤال: هل تكفي الواردات لتغطية رواتب الجميع؟"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 14 • 2026",
+  "arabicDateLabel": "14 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار · دينار",
+    "arabicHeadline": "ليش تدفع 1320 والرسمي 1300؟",
+    "englishSubhead": "3 DOLLAR RATES | 1,300 vs 1,310 vs 1,320",
+    "heroMedia": "images/news/2026-07-14-dollar-three-tier/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ثلاثة أسعار للدولار الواحد",
+      "arabicBody": "في موازنة 2026 للدولار ثلاثة أسعار: 1300 دينار رسمياً، و1310 عند بيع المركزي للمصارف، و1320 للجمهور والتجار والتحويلات الخارجية، بحسب عراقي نيوز.",
+      "bigStat": {
+        "value": "1,320 دينار",
+        "label": "Public / transfers dollar rate",
+        "arabicLabel": "سعر الدولار للجمهور والتجار والتحويلات الخارجية ضمن هيكل موازنة 2026، مقابل 1300 رسمياً (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "رسمي",
+          "value": "1,300"
+        },
+        {
+          "label": "للمصارف",
+          "value": "1,310"
+        },
+        {
+          "label": "للجمهور",
+          "value": "1,320"
+        }
+      ],
+      "broll": "images/news/2026-07-14-dollar-three-tier/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-14-dollar-three-tier/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "20 ديناراً فرق على كل دولار",
+      "arabicBody": "تدفع نحو 20 ديناراً فوق الرسمي على كل دولار، أي 20 ألف دينار على كل ألف دولار. وسجّل السوق 1310.99 في 13 تموز، بحسب تريدنغ إيكونوميكس.",
+      "bigStat": {
+        "value": "+20 دينار/دولار",
+        "label": "Gap you pay over official rate",
+        "arabicLabel": "الفارق بين سعر الجمهور والسعر الرسمي على كل دولار؛ 20 ألف دينار على كل ألف دولار (Iraqi News · Trading Economics)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفارق",
+          "value": "+20 دينار"
+        },
+        {
+          "label": "على 1000$",
+          "value": "20 ألف دينار"
+        },
+        {
+          "label": "13 تموز",
+          "value": "1,310.99"
+        }
+      ],
+      "broll": "images/news/2026-07-14-dollar-three-tier/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-14-dollar-three-tier/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Trading Economics · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المركزي يتعهد بالاستقرار",
+      "arabicBody": "تعهدات البنك المركزي بالاستقرار خفّضت السوق الموازي مؤخراً، لكن الفجوة تبقى ما دام الدولار يتدرّج من المالية إلى المركزي فالمصارف فالجمهور، بحسب عراقي نيوز.",
+      "bigStat": {
+        "value": "3 أسعار",
+        "label": "Dollar tiers in the cycle",
+        "arabicLabel": "عدد أسعار الدولار في الدورة الرسمية من وزارة المالية إلى المركزي فالمصارف فالجمهور (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتعهد",
+          "value": "المركزي"
+        },
+        {
+          "label": "السوق",
+          "value": "تراجع مؤخراً"
+        },
+        {
+          "label": "الفجوة",
+          "value": "قائمة"
+        }
+      ],
+      "broll": "images/news/2026-07-14-dollar-three-tier/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-14-dollar-three-tier/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Central Bank of Iraq · Iraqi News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "ليش تدفع 1320 والرسمي 1300؟",
+    "موازنة 2026 تعتمد سعراً رسمياً للدولار 1300 دينار (Shafaq)",
+    "المركزي يبيع للمصارف بـ1310 ديناراً، والسعر للجمهور والتجار والتحويلات نحو 1320 (Iraqi News)",
+    "الفارق نحو 20 ديناراً على كل دولار — 20 ألف دينار على كل ألف دولار للسفر أو الاستيراد",
+    "سعر السوق سجّل 1310.99 في 13 تموز 2026 (Trading Economics)",
+    "تعهدات البنك المركزي بالاستقرار خفّضت السوق الموازي مؤخراً",
+    "الدولار يتدرّج من المالية إلى المركزي فالمصارف... فليش ما يوصلك السعر الرسمي؟"
+  ]
+}

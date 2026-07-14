@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 14 • 2026",
+  "arabicDateLabel": "14 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "ميناء · تنمية",
+    "arabicHeadline": "الفاو... بوابة العراق للعالم؟",
+    "englishSubhead": "IRAQ TENDERS FAW PIERS | 99M TONNES/YR | AD PORTS",
+    "heroMedia": "images/news/2026-07-14-faw-port-bids/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق يطرح أرصفة الفاو للمناقصة",
+      "arabicBody": "طرح العراق مطلع تموز مناقصة دولية لإنجاز الأرصفة المتبقية في ميناء الفاو الكبير تمهيداً لتشغيله بالكامل، بحسب رويترز.",
+      "bigStat": {
+        "value": "2 تموز",
+        "label": "Iraq tenders remaining Faw piers",
+        "arabicLabel": "التاريخ الذي طرح فيه العراق مناقصة دولية لإنجاز الأرصفة المتبقية في ميناء الفاو الكبير (Reuters)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطرح",
+          "value": "مناقصة دولية"
+        },
+        {
+          "label": "الهدف",
+          "value": "الأرصفة المتبقية"
+        },
+        {
+          "label": "الموعد",
+          "value": "مطلع تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-14-faw-port-bids/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-14-faw-port-bids/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Reuters · Zawya · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "99 مليون طن... وإدارة أبوظبي",
+      "arabicBody": "مجموعة موانئ أبوظبي شريك في إدارة الميناء الذي ستصل طاقته إلى 99 مليون طن سنوياً، ليكون بين أكبر 20 ميناء حاويات في العالم، بحسب موانئ أبوظبي.",
+      "bigStat": {
+        "value": "99 مليون طن/سنة",
+        "label": "Faw port annual capacity",
+        "arabicLabel": "الطاقة السنوية المتوقعة لميناء الفاو الكبير التي تضعه بين أكبر 20 ميناء حاويات عالمياً (AD Ports Group)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة",
+          "value": "99 مليون طن"
+        },
+        {
+          "label": "الترتيب",
+          "value": "أكبر 20"
+        },
+        {
+          "label": "الشريك",
+          "value": "موانئ أبوظبي"
+        }
+      ],
+      "broll": "images/news/2026-07-14-faw-port-bids/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-14-faw-port-bids/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AD Ports Group · The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "قلب طريق التنمية إلى أوروبا",
+      "arabicBody": "قلب طريق التنمية بكلفة 17 إلى 20 مليار دولار وطول 1200 كيلومتر، يربط البصرة بأوروبا عبر تركيا: تجارة ووظائف ودخل غير نفطي، بحسب مجلس الشرق الأوسط.",
+      "bigStat": {
+        "value": "17–20 مليار$",
+        "label": "Development Road cost",
+        "arabicLabel": "الكلفة التقديرية لطريق التنمية بطول 1200 كم الذي يربط ميناء الفاو بأوروبا عبر تركيا (Middle East Council)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة",
+          "value": "17–20 مليار$"
+        },
+        {
+          "label": "الطول",
+          "value": "1,200 كم"
+        },
+        {
+          "label": "الوجهة",
+          "value": "أوروبا"
+        }
+      ],
+      "broll": "images/news/2026-07-14-faw-port-bids/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-14-faw-port-bids/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Middle East Council · Wikipedia · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "AD Ports Group",
+      "domain": "adportsgroup.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "الفاو... بوابة العراق للعالم؟",
+    "العراق يطرح مطلع تموز مناقصة دولية لإنجاز الأرصفة المتبقية في ميناء الفاو الكبير (Reuters)",
+    "مجموعة موانئ أبوظبي شريك في إدارة الميناء، وطاقته ستصل إلى 99 مليون طن سنوياً (AD Ports)",
+    "الطاقة المتوقعة تضع الفاو بين أكبر 20 ميناء حاويات في العالم",
+    "الميناء قلب طريق التنمية بكلفة 17 إلى 20 مليار دولار وطول 1200 كيلومتر (Middle East Council)",
+    "الطريق يربط البصرة بأوروبا عبر تركيا — تجارة ووظائف ودخل غير نفطي",
+    "بوابة بحرية جديدة... لكن السؤال: متى تفتح فعلاً وتشغّل العراقيين؟"
+  ]
+}
