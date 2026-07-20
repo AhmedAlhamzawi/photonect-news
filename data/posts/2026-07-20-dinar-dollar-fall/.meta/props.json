@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 20 • 2026",
+  "arabicDateLabel": "20 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دينار · دولار",
+    "arabicHeadline": "الدولار ينزل بالسوق... يوصل لجيبك؟",
+    "englishSubhead": "PARALLEL ~1,530 | OFFICIAL 1,300 | GAP NARROWING",
+    "heroMedia": "images/news/2026-07-20-dinar-dollar-fall/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الدولار الموازي يتراجع في بغداد",
+      "arabicBody": "أغلق الدولار السبت في سوق بغداد الموازية عند 152,950 ديناراً لكل 100 دولار، بانخفاض عن الجلسة الصباحية، بحسب Iraqi News.",
+      "bigStat": {
+        "value": "152,950 / 100$",
+        "label": "Parallel close, Jul 18",
+        "arabicLabel": "سعر إغلاق الدولار في سوقي الكفاح والحارثية ببغداد يوم السبت 18 يوليو، أي نحو 1,530 ديناراً للدولار (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإغلاق",
+          "value": "152,950/100$"
+        },
+        {
+          "label": "الاتجاه",
+          "value": "نزول"
+        },
+        {
+          "label": "السوق",
+          "value": "الكفاح والحارثية"
+        }
+      ],
+      "broll": "images/news/2026-07-20-dinar-dollar-fall/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-20-dinar-dollar-fall/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · Baghdad · JUL 18"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فجوة نحو 230 ديناراً عن الرسمي",
+      "arabicBody": "السعر الرسمي ثابت عند 1,300 دينار منذ شباط 2023، فيما يدور الموازي قرب 1,530، أي فجوة نحو 230 ديناراً على كل دولار، بحسب صندوق النقد وبيانات السوق.",
+      "bigStat": {
+        "value": "230 ديناراً/دولار",
+        "label": "Parallel-official gap",
+        "arabicLabel": "الفارق التقريبي بين السعر الموازي قرب 1,530 والسعر الرسمي 1,300 دينار، أي نحو 23,000 دينار على كل ألف دولار (بيانات السوق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "1,300"
+        },
+        {
+          "label": "الموازي",
+          "value": "~1,530"
+        },
+        {
+          "label": "الفجوة",
+          "value": "230/دولار"
+        }
+      ],
+      "broll": "images/news/2026-07-20-dinar-dollar-fall/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-20-dinar-dollar-fall/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "IMF · Market data · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وفرة العملة تكبح المضاربة",
+      "arabicBody": "يعزو محللون التراجع إلى تدفق المعروض من العملة وإجراءات صارمة ضد المضاربة، فيما يتوقع تجار في كردستان مزيداً من الانخفاض، بحسب Search4Dinar.",
+      "bigStat": {
+        "value": "1,300",
+        "label": "Official rate held since 2023",
+        "arabicLabel": "السعر الرسمي الذي يثبّته البنك المركزي منذ شباط 2023 ويعتمده في مشروع موازنة 2026 (US First Exchange)"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "وفرة معروض"
+        },
+        {
+          "label": "الإجراء",
+          "value": "كبح مضاربة"
+        },
+        {
+          "label": "التوقع",
+          "value": "مزيد نزول"
+        }
+      ],
+      "broll": "images/news/2026-07-20-dinar-dollar-fall/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-20-dinar-dollar-fall/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Search4Dinar · Kurdistan · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Trading Economics",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "name": "Search4Dinar",
+      "domain": "search4dinar.wordpress.com"
+    },
+    {
+      "name": "IMF",
+      "domain": "imf.org"
+    }
+  ],
+  "arabicTicker": [
+    "الدولار يغلق السبت في سوق بغداد الموازية عند 152,950 ديناراً لكل 100 دولار، بانخفاض عن الصباح (Iraqi News)",
+    "في محال بغداد بلغ البيع 153,500 والشراء 152,500 ديناراً لكل 100 دولار، وفي أربيل نحو 153,050 (Iraqi News)",
+    "السعر الرسمي ثابت عند 1,300 دينار للدولار منذ شباط 2023 ويُعتمد في مشروع الموازنة (US First Exchange)",
+    "الفارق بين السوقين نحو 230 ديناراً على كل دولار، أي قرابة 23,000 دينار على كل ألف دولار",
+    "محللون يعزون تراجع الدولار إلى تدفق المعروض من العملة وإجراءات صارمة ضد المضاربة",
+    "تجار في كردستان يتوقعون مزيداً من انخفاض الدولار في السوق الموازية، بحسب Search4Dinar",
+    "الفجوة تضيق لكنها لم تُغلق... فهل يصل السعر الأرخص فعلاً إلى جيب المستورد والمسافر؟"
+  ]
+}

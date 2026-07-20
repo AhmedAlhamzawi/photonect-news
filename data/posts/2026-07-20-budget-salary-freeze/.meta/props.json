@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 20 • 2026",
+  "arabicDateLabel": "20 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "موازنة · رواتب",
+    "arabicHeadline": "سنتان بلا موازنة... وراتبك بس يمشي",
+    "englishSubhead": "NO BUDGET 2 YRS | 1/12 RULE | SALARIES ONLY",
+    "heroMedia": "images/news/2026-07-20-budget-salary-freeze/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الدولة تصرف بقاعدة 1/12",
+      "arabicBody": "للعام الثاني تدير الحكومة الإنفاق بقاعدة «واحد من اثني عشر»، تصرف رواتب ومعاشات فقط بلا موازنة اتحادية مُقرّة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "1/12",
+        "label": "Monthly spending cap",
+        "arabicLabel": "قاعدة الصرف الشهري في غياب الموازنة: جزء من اثني عشر من إنفاق العام السابق، للرواتب والنفقات الإلزامية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "سنتان بلا موازنة"
+        },
+        {
+          "label": "الصرف",
+          "value": "رواتب ومعاشات"
+        },
+        {
+          "label": "القاعدة",
+          "value": "1/12 شهرياً"
+        }
+      ],
+      "broll": "images/news/2026-07-20-budget-salary-freeze/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-20-budget-salary-freeze/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · JUL 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الراتب يوصل... والمشاريع تنطر",
+      "arabicBody": "القاعدة تضمن الرواتب، لكنها تترك البلد بلا موازنة تموّل الاستثمار أو حصص المحافظات أو المشاريع الجديدة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "33.7 ترليون دينار",
+        "label": "Revenue through May, 84% oil",
+        "arabicLabel": "إجمالي إيرادات العراق حتى نهاية أيار 2026، 84% منها نفطية، ما يجعل التمويل رهين سعر النفط (بيانات وزارة المالية العراقية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإيراد",
+          "value": "33.7 ترليون"
+        },
+        {
+          "label": "النفط",
+          "value": "84%"
+        },
+        {
+          "label": "غير النفطي",
+          "value": "16%"
+        }
+      ],
+      "broll": "images/news/2026-07-20-budget-salary-freeze/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-20-budget-salary-freeze/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Finance Ministry · IQ · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موازنة 2027 بنظام جديد في أيلول",
+      "arabicBody": "الحكومة تعدّ مسودة موازنة 2027 لإنجازها في أيلول، وتتحول إلى موازنة أداء وبرامج بدل الطريقة التقليدية، بحسب رئيس الوزراء علي الزيدي (شفق نيوز).",
+      "bigStat": {
+        "value": "أيلول 2026",
+        "label": "2027 draft deadline",
+        "arabicLabel": "الموعد المعلن لإنجاز مسودة موازنة 2027 باعتماد نظام موازنة الأداء والبرامج (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المسودة",
+          "value": "أيلول"
+        },
+        {
+          "label": "السنة",
+          "value": "2027"
+        },
+        {
+          "label": "النظام",
+          "value": "أداء وبرامج"
+        }
+      ],
+      "broll": "images/news/2026-07-20-budget-salary-freeze/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-20-budget-salary-freeze/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq · AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Channel 8",
+      "domain": "channel8.com"
+    }
+  ],
+  "arabicTicker": [
+    "سنتان بلا موازنة اتحادية مُقرّة... والحكومة تصرف بقاعدة «1/12» للرواتب والنفقات الإلزامية (شفق نيوز)",
+    "القاعدة تضمن الرواتب والمعاشات، لكنها تترك البلد بلا تمويل للاستثمار أو حصص المحافظات (شفق نيوز)",
+    "إيرادات العراق بلغت 33.7 ترليون دينار حتى نهاية أيار، 84% منها نفطية (بيانات وزارة المالية العراقية)",
+    "موازنة 2026 لم تُقرّ بفعل التعقيدات السياسية وتقلبات أسواق الطاقة، والاعتماد مستمر على الصرف المؤقت",
+    "العراق يبني موازنة 2026 على سعر نفط بين 55 و62 دولاراً للبرميل (تقارير اقتصادية)",
+    "الحكومة تعدّ مسودة موازنة 2027 لإنجازها في أيلول، بنظام موازنة الأداء والبرامج (شفق نيوز)",
+    "رئيس الوزراء علي الزيدي: الانتقال إلى موازنة أداء وبرامج بدل الطريقة التقليدية... فهل يصل التمويل لمشاريع مدينتك؟"
+  ]
+}

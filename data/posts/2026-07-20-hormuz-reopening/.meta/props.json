@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 20 • 2026",
+  "arabicDateLabel": "20 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط · هرمز",
+    "arabicHeadline": "مضيق هرمز يفتح... ونفط العراق يعود؟",
+    "englishSubhead": "HORMUZ REOPENING | EXPORTS IN 1-2 MONTHS | OIL = 88% REVENUE",
+    "heroMedia": "images/news/2026-07-20-hormuz-reopening/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "هرمز يبدأ بالانفتاح بعد اتفاق",
+      "arabicBody": "بدأ مضيق هرمز يُعاد فتحه تدريجياً بعد اتفاق بين طهران وواشنطن، عقب توقّف فعلي للملاحة منذ نهاية شباط مع اندلاع الحرب، بحسب تقارير طاقة وعرب نيوز.",
+      "bigStat": {
+        "value": "منذ 28 شباط",
+        "label": "Hormuz blocked since",
+        "arabicLabel": "التاريخ الذي توقّفت عنده الملاحة فعلياً عبر مضيق هرمز مع بدء الحرب على إيران في 2026 (عرب نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإغلاق",
+          "value": "منذ 28 شباط"
+        },
+        {
+          "label": "التطور",
+          "value": "انفتاح تدريجي"
+        },
+        {
+          "label": "السبب",
+          "value": "اتفاق طهران-واشنطن"
+        }
+      ],
+      "broll": "images/news/2026-07-20-hormuz-reopening/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-20-hormuz-reopening/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Arab News · Reuters · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصادرات قد تعود خلال شهرين",
+      "arabicBody": "أعلن وزير النفط أن صادرات العراق قد تُستعاد خلال شهر إلى شهرين مع عودة الملاحة، بعد أن هبط الإنتاج المُصدَّر إلى نحو الثلث خلال الإغلاق، بحسب energynews.",
+      "bigStat": {
+        "value": "1-2 شهر",
+        "label": "Export restoration horizon",
+        "arabicLabel": "المدة التي قدّرها وزير النفط لاستعادة صادرات العراق مع إعادة فتح مضيق هرمز (energynews.pro)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستعادة",
+          "value": "1-2 شهر"
+        },
+        {
+          "label": "أثناء الإغلاق",
+          "value": "ثلث الإنتاج"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزير النفط"
+        }
+      ],
+      "broll": "images/news/2026-07-20-hormuz-reopening/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-20-hormuz-reopening/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "energynews.pro · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "88% من إيرادات الدولة نفط",
+      "arabicBody": "النفط يشكّل 88% من إيرادات الحكومة و91% من الصادرات عام 2025، لذا فعودة التصدير تعني عودة تمويل الرواتب والموازنة، بحسب بيانات دولية.",
+      "bigStat": {
+        "value": "88%",
+        "label": "Oil = govt revenue (2025)",
+        "arabicLabel": "حصة النفط من إيرادات الحكومة العراقية عام 2025، ما يجعل عودة التصدير حاسمة لتمويل الرواتب والموازنة (بيانات دولية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإيراد",
+          "value": "88% نفط"
+        },
+        {
+          "label": "الصادرات",
+          "value": "91% نفط"
+        },
+        {
+          "label": "قبل الحرب",
+          "value": "3.5 مليون ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-07-20-hormuz-reopening/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-20-hormuz-reopening/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "IMF/EIA data · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arab News",
+      "domain": "arabnews.com"
+    },
+    {
+      "name": "energynews.pro",
+      "domain": "energynews.pro"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "مضيق هرمز يبدأ بالانفتاح تدريجياً بعد اتفاق بين طهران وواشنطن، عقب توقّف الملاحة منذ نهاية شباط (عرب نيوز)",
+    "توقّفت الملاحة فعلياً عبر هرمز منذ 28 شباط مع بدء الحرب الجوية على إيران في 2026 (عرب نيوز/ويكيبيديا)",
+    "وزير النفط: صادرات العراق قد تُستعاد خلال شهر إلى شهرين مع عودة الملاحة (energynews.pro)",
+    "خلال الإغلاق هبط الإنتاج المُصدَّر إلى نحو ثلث مستويات ما قبل الحرب، بعد أن كان قرابة 3.5 مليون برميل يومياً",
+    "النفط شكّل 88% من إيرادات الحكومة و91% من الصادرات عام 2025، ما يجعل الشبكة المالية رهينة التصدير",
+    "عودة التصدير عبر هرمز تعني عودة تمويل الرواتب والموازنة المعتمدة أصلاً على النفط",
+    "الملاحة تبدأ بالعودة تدريجياً... فهل تعود إيرادات العراق النفطية إلى مستوياتها قبل الحرب؟"
+  ]
+}

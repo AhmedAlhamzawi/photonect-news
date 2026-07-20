@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 20 • 2026",
+  "arabicDateLabel": "20 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "بلّغ عن فاسد... تاخذ مكافأة؟",
+    "englishSubhead": "WHISTLEBLOWER REWARDS | 47 HELD | $100M+ SEIZED",
+    "heroMedia": "images/news/2026-07-20-graft-whistleblower/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مكافآت للمبلّغين عن الفساد",
+      "arabicBody": "أعلن رئيس الوزراء علي الزيدي مكافآت للمبلّغين عن الفساد مع اتساع حملة «صولة الفجر» لملاحقة الأموال المفقودة، بحسب منصة OCCRP.",
+      "bigStat": {
+        "value": "مكافأة للمبلّغ",
+        "label": "New whistleblower incentive",
+        "arabicLabel": "حافز أعلنته الحكومة للمبلّغين عن الفساد مع توسّع حملة صولة الفجر لتعقّب الأموال المفقودة (OCCRP)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحملة",
+          "value": "صولة الفجر"
+        },
+        {
+          "label": "الجديد",
+          "value": "مكافآت مُبلّغين"
+        },
+        {
+          "label": "الجهة",
+          "value": "رئاسة الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-07-20-graft-whistleblower/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-20-graft-whistleblower/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "OCCRP · JUL 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "47 موقوفاً وأكثر من 100 مليون",
+      "arabicBody": "منذ انطلاق الحملة أواخر حزيران، أوقفت السلطات 47 مسؤولاً ونائباً وصادرت أكثر من 100 مليون دولار نقداً خُبّئت في قناني ماء وجدران، بحسب الجزيرة وThe National.",
+      "bigStat": {
+        "value": "100 مليون دولار+",
+        "label": "Cash seized since June",
+        "arabicLabel": "قيمة الأموال النقدية المصادرة منذ اعتقال وكيل وزارة النفط أواخر حزيران، خُبّئت في قناني ماء وجدران ومجرى تصريف (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون",
+          "value": "47"
+        },
+        {
+          "label": "نقد مصادر",
+          "value": "100 مليون+"
+        },
+        {
+          "label": "البداية",
+          "value": "28 حزيران"
+        }
+      ],
+      "broll": "images/news/2026-07-20-graft-whistleblower/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-20-graft-whistleblower/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · The National · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "دعم صدر... وتحفّظ الشركاء",
+      "arabicBody": "دعم مقتدى الصدر الحملة ووصفها بـ«الإصلاح البطولي»، فيما تحفّظ شركاء في التحالف على مداهمات جرت دون تنسيق مسبق، بحسب The National.",
+      "bigStat": {
+        "value": "150 مليار دولار",
+        "label": "Graft losses since 2003 (2021 est.)",
+        "arabicLabel": "تقدير الرئيس الأسبق برهم صالح عام 2021 لحجم الأموال التي فُقدت بالفساد في العراق منذ 2003 (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "الدعم",
+          "value": "مقتدى الصدر"
+        },
+        {
+          "label": "التحفّظ",
+          "value": "شركاء التحالف"
+        },
+        {
+          "label": "حجم الفساد",
+          "value": "150 مليار$"
+        }
+      ],
+      "broll": "images/news/2026-07-20-graft-whistleblower/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-20-graft-whistleblower/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · Al Jazeera · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "OCCRP",
+      "domain": "occrp.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس الوزراء علي الزيدي يعلن مكافآت للمبلّغين عن الفساد مع توسّع حملة «صولة الفجر» (OCCRP)",
+    "منذ أواخر حزيران أُوقف 47 مسؤولاً ونائباً وصودر أكثر من 100 مليون دولار نقداً في الحملة (الجزيرة)",
+    "أموال نقدية خُبّئت في قناني ماء وجدران ومجرى تصريف صودرت منذ اعتقال وكيل وزارة النفط (The National)",
+    "قاضٍ في محكمة النزاهة المركزية: استُعيد نحو 375 كيلوغراماً من الذهب وأُعيد إلى البنك المركزي (الجزيرة)",
+    "مقتدى الصدر يصف الحملة بـ«الإصلاح البطولي» ويأمل استمرارها، بحسب The National",
+    "شركاء في التحالف الحاكم تحفّظوا على مداهمات جرت دون تنسيق مسبق وحذّروا من تصدّع التحالف",
+    "برهم صالح قدّر عام 2021 خسائر الفساد بنحو 150 مليار دولار منذ 2003... فهل تصمد المحاسبة هذه المرة؟"
+  ]
+}

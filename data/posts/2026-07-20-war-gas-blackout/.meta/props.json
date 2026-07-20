@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 20 • 2026",
+  "arabicDateLabel": "20 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · حرب",
+    "arabicHeadline": "غاز إيران ينحسر... وكهرباء بيتك تنطفي",
+    "englishSubhead": "-3,000MW LOST | 27,000MW GAP | PEAK HEAT",
+    "heroMedia": "images/news/2026-07-20-war-gas-blackout/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الغاز الإيراني ينحسر عن الشبكة",
+      "arabicBody": "انخفضت واردات الغاز الإيراني من 55 إلى نحو 21 مليون متر مكعب يومياً، وهو أقل بكثير مما يحتاجه العراق، بحسب المتحدث أحمد موسى (كردستان 24).",
+      "bigStat": {
+        "value": "3,000 ميغاواط",
+        "label": "Lost to Iran gas cut",
+        "arabicLabel": "المقدار الذي حجبه انقطاع الغاز الإيراني عن الشبكة الوطنية العراقية تقريباً بين ليلة وضحاها (Iraqi News)"
+      },
+      "supportingStats": [
+        {
+          "label": "الغاز الآن",
+          "value": "21 م.م.م/يوم"
+        },
+        {
+          "label": "قبل",
+          "value": "55 م.م.م/يوم"
+        },
+        {
+          "label": "المحجوب",
+          "value": "3,000 ميغاواط"
+        }
+      ],
+      "broll": "images/news/2026-07-20-war-gas-blackout/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-20-war-gas-blackout/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Kurdistan24 · Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحاجة 55 ألفاً والإنتاج 28 ألفاً",
+      "arabicBody": "تصل حاجة العراق صيفاً إلى 55 ألف ميغاواط، بينما لا يتجاوز الإنتاج 28 ألفاً، ما يترك عجزاً قدره 27 ألف ميغاواط، بحسب كردستان 24.",
+      "bigStat": {
+        "value": "27,000 ميغاواط",
+        "label": "Summer supply deficit",
+        "arabicLabel": "الفجوة بين حاجة الصيف البالغة 55 ألف ميغاواط والإنتاج الحالي البالغ 28 ألفاً، بحسب كردستان 24 نقلاً عن وزارة الكهرباء"
+      },
+      "supportingStats": [
+        {
+          "label": "الحاجة",
+          "value": "55,000 م.و"
+        },
+        {
+          "label": "الإنتاج",
+          "value": "28,000 م.و"
+        },
+        {
+          "label": "العجز",
+          "value": "27,000 م.و"
+        }
+      ],
+      "broll": "images/news/2026-07-20-war-gas-blackout/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-20-war-gas-blackout/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Kurdistan24 · Wasit heat · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الحرب تعمّق الأزمة قبل الذروة",
+      "arabicBody": "تراجعت الإمدادات الإيرانية بعد ضربات طالت منشأة بارس الجنوبية، فيما هبط الإنتاج المحلي إلى أقل من نصفه بفعل انخفاض تصدير النفط، بحسب The National وكردستان 24.",
+      "bigStat": {
+        "value": "40%",
+        "label": "Power reliant on gas imports",
+        "arabicLabel": "الحصة التي يغطيها الغاز المستورد من توليد الكهرباء العراقي في أوقات الذروة، ما يجعل الشبكة رهينة الإمدادات (The National)"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب",
+          "value": "بارس الجنوبية"
+        },
+        {
+          "label": "المحلي",
+          "value": "أقل من النصف"
+        },
+        {
+          "label": "الاعتماد",
+          "value": "40% مستورد"
+        }
+      ],
+      "broll": "images/news/2026-07-20-war-gas-blackout/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-20-war-gas-blackout/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · Kurdistan24 · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "MEES",
+      "domain": "mees.com"
+    }
+  ],
+  "arabicTicker": [
+    "واردات الغاز الإيراني تنخفض من 55 إلى نحو 21 مليون متر مكعب يومياً، أقل بكثير من حاجة العراق (كردستان 24)",
+    "انقطاع الغاز الإيراني حجب نحو 3,000 ميغاواط عن الشبكة الوطنية تقريباً بين ليلة وضحاها (Iraqi News)",
+    "حاجة العراق صيفاً 55 ألف ميغاواط، والإنتاج لا يتجاوز 28 ألفاً... عجز 27 ألف ميغاواط (كردستان 24)",
+    "المتحدث أحمد موسى: مع اقتراب ذروة الحر سنحتاج لزيادة استيراد الغاز الإيراني للحفاظ على التشغيل",
+    "الإنتاج المحلي من الغاز هبط إلى أقل من نصف مستوياته السابقة بفعل انخفاض تصدير النفط (كردستان 24)",
+    "الغاز المستورد يغطي حتى 40% من توليد الكهرباء وقت الذروة، ما يترك الشبكة رهينة الإمدادات (The National)",
+    "ضربات طالت منشأة بارس الجنوبية قلّصت تدفق الغاز إلى العراق... فهل تصمد الشبكة في ذروة الصيف؟"
+  ]
+}
