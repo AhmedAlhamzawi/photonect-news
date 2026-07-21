@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 21 • 2026",
+  "arabicDateLabel": "21 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · فساد",
+    "arabicHeadline": "تدفع فاتورة الكهرباء والتيار مقطوع… فأين المليارات؟",
+    "englishSubhead": "4.4B IQD CABLES | 20+ SACKED | 19B GAP",
+    "heroMedia": "images/news/2026-07-21-electricity-cable-theft/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "توقيف موظف متهم بالاستيلاء على كيبلات الدولة",
+      "arabicBody": "أوقفت هيئة النزاهة الاتحادية يوم 19 تموز موظف مخازن في توزيع كهرباء بغداد، بتهمة الاستيلاء على كيبلات ضغط عالٍ بنحو 4.4 مليار دينار، بحسب الهيئة.",
+      "bigStat": {
+        "value": "4.4 مليار دينار",
+        "label": "Value of stolen cables",
+        "arabicLabel": "قيمة كيبلات الضغط العالي التي يُتَّهم بالاستيلاء عليها موظف مخازن في شركة توزيع كهرباء بغداد (هيئة النزاهة الاتحادية · 19 تموز)"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "19 تموز"
+        },
+        {
+          "label": "القيمة",
+          "value": "4.4 مليار"
+        },
+        {
+          "label": "الفرع",
+          "value": "الرصافة"
+        }
+      ],
+      "broll": "images/news/2026-07-21-electricity-cable-theft/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-21-electricity-cable-theft/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Integrity Commission · JUL 19"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تدفع الفاتورة… وفجوة 19 مليار في التحصيل",
+      "arabicBody": "الحكومة أقالت أكثر من 20 مسؤولاً بوزارة الكهرباء بشبهات فساد، ولجان تدقيق رصدت فجوة نحو 19 مليار دينار في تحصيل الفواتير، بحسب ميدل إيست أونلاين.",
+      "bigStat": {
+        "value": "19 مليار دينار",
+        "label": "Gap in bill collections",
+        "arabicLabel": "الفجوة المرصودة بين الإيرادات المسجّلة والمبالغ المُحصّلة فعلياً في تدقيق فواتير الكهرباء (ميدل إيست أونلاين)"
+      },
+      "supportingStats": [
+        {
+          "label": "مُقالون",
+          "value": "+20 مسؤولاً"
+        },
+        {
+          "label": "الفجوة",
+          "value": "19 مليار"
+        },
+        {
+          "label": "بشبهات",
+          "value": "فساد"
+        }
+      ],
+      "broll": "images/news/2026-07-21-electricity-cable-theft/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-21-electricity-cable-theft/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Middle East Online · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "5000 ميغاواط ناقصة في ذروة الصيف",
+      "arabicBody": "يأتي هذا وشبكة العراق تخسر نحو 5000 ميغاواط بعد تراجع الغاز الإيراني، فتولّد قرابة 24 ألفاً مقابل حاجة نحو 34 ألف ميغاواط، بحسب وزارة الكهرباء.",
+      "bigStat": {
+        "value": "5,000 ميغاواط",
+        "label": "Capacity lost to gas cut",
+        "arabicLabel": "القدرة التوليدية التي فقدتها الشبكة بعد تراجع إمدادات الغاز الإيراني، مع عجز عن سدّ فارق نحو 10 آلاف ميغاواط (وزارة الكهرباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "مفقود",
+          "value": "5,000 م.و"
+        },
+        {
+          "label": "التوليد",
+          "value": "24 ألف"
+        },
+        {
+          "label": "الحاجة",
+          "value": "34 ألف"
+        }
+      ],
+      "broll": "images/news/2026-07-21-electricity-cable-theft/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-21-electricity-cable-theft/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Ministry of Electricity · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Middle East Online",
+      "domain": "middle-east-online.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Integrity Commission",
+      "domain": "nazaha.iq"
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة الاتحادية: توقيف مسؤول مخازن فرع الرصافة في توزيع كهرباء بغداد يوم 19 تموز",
+    "التهمة: الاستيلاء على كيبلات ضغط عالٍ عائدة للدولة بقيمة نحو 4.4 مليار دينار (هيئة النزاهة)",
+    "الحكومة أقالت أكثر من 20 مسؤولاً في وزارة الكهرباء على خلفية شبهات فساد (ميدل إيست أونلاين)",
+    "لجان تدقيق: فجوة نحو 19 مليار دينار بين الإيرادات المسجّلة والمُحصّلة في تحصيل الفواتير",
+    "شبكة العراق فقدت نحو 5000 ميغاواط بعد تراجع الغاز الإيراني (وزارة الكهرباء · 4 تموز)",
+    "التوليد قرابة 24 ألف ميغاواط مقابل حاجة تُقدَّر بـ34 ألفاً في ذروة الصيف",
+    "تدفع فاتورتك والكهرباء مقطوعة… فأين تذهب المليارات؟"
+  ]
+}

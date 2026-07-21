@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 21 • 2026",
+  "arabicDateLabel": "21 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "موانئ · تنمية",
+    "arabicHeadline": "ميناء الفاو وطريق التنمية… منفذ العراق نحو أوروبا",
+    "englishSubhead": "$4.9B FAW | 200K JOBS | 1,200 KM ROAD",
+    "heroMedia": "images/news/2026-07-21-faw-port-lifeline/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ميناء الفاو الكبير بـ4.9 مليار دولار",
+      "arabicBody": "يمضي العراق في ميناء الفاو الكبير باستثمار 4.9 مليار دولار، بوصفه قلب «طريق التنمية» ومنفذاً بحرياً مباشراً على الخليج، بحسب شفق نيوز ووزارة النقل.",
+      "bigStat": {
+        "value": "$4.9B",
+        "label": "Grand Faw Port investment",
+        "arabicLabel": "قيمة استثمار ميناء الفاو الكبير، المصمَّم ليكون منفذ العراق البحري الرئيسي وقلب مشروع طريق التنمية (شفق نيوز · وزارة النقل)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستثمار",
+          "value": "4.9 مليار $"
+        },
+        {
+          "label": "الطاقة",
+          "value": "99 مليون طن"
+        },
+        {
+          "label": "المراسي",
+          "value": "99"
+        }
+      ],
+      "broll": "images/news/2026-07-21-faw-port-lifeline/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-21-faw-port-lifeline/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq · Ministry of Transport"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "200 ألف وظيفة… ومنفذ خاص بالعراق",
+      "arabicBody": "تقدّر الوزارة أن يوفّر الميناء نحو 200 ألف فرصة عمل عند التشغيل الكامل، ومنفذاً بحرياً خاصاً بعد أن كشفت أزمة هرمز هشاشة الممرات (د. شكر العامري).",
+      "bigStat": {
+        "value": "200,000",
+        "label": "Jobs at full capacity",
+        "arabicLabel": "عدد فرص العمل التي تقدّر الوزارة أن يوفّرها الميناء عند تشغيله بكامل طاقته، بحسب د. شكر محمود العامري (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "وظائف",
+          "value": "200 ألف"
+        },
+        {
+          "label": "منفذ",
+          "value": "بحري خاص"
+        },
+        {
+          "label": "السياق",
+          "value": "بعد أزمة هرمز"
+        }
+      ],
+      "broll": "images/news/2026-07-21-faw-port-lifeline/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-21-faw-port-lifeline/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "طريق التنمية: 1200 كم نحو أوروبا",
+      "arabicBody": "الميناء ركيزة «طريق التنمية»، شبكة سكك وطرق بطول 1200 كم تربط الخليج بتركيا وأوروبا، وقد فُتحت 7 مسارات ترانزيت دولية جديدة في حزيران، بحسب وزارة النقل.",
+      "bigStat": {
+        "value": "1,200 كم",
+        "label": "Development Road length",
+        "arabicLabel": "طول مشروع طريق التنمية من سكك وطرق سريعة يربط موانئ العراق بتركيا وأوروبا، مع فتح 7 مسارات ترانزيت دولية جديدة في حزيران (وزارة النقل)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطول",
+          "value": "1,200 كم"
+        },
+        {
+          "label": "مسارات جديدة",
+          "value": "7"
+        },
+        {
+          "label": "الوجهة",
+          "value": "تركيا وأوروبا"
+        }
+      ],
+      "broll": "images/news/2026-07-21-faw-port-lifeline/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-21-faw-port-lifeline/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Ministry of Transport · JUN 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Ministry of Transport",
+      "domain": "motrans.gov.iq"
+    },
+    {
+      "name": "Daily Sabah",
+      "domain": "dailysabah.com"
+    },
+    {
+      "name": "EPIC",
+      "domain": "enablingpeace.org"
+    }
+  ],
+  "arabicTicker": [
+    "ميناء الفاو الكبير: استثمار 4.9 مليار دولار وطاقة مخطّطة تناهز 99 مليون طن عبر مراحل (شفق نيوز)",
+    "الميناء يُوصف بأنه قلب «طريق التنمية» ومنفذ العراق البحري المباشر على الخليج (وزارة النقل)",
+    "تقديرات الوزارة: نحو 200 ألف فرصة عمل عند التشغيل بكامل الطاقة (د. شكر محمود العامري)",
+    "أزمة هرمز كشفت حاجة العراق لمنفذ ولممر تصدير خاصّين لا يعتمدان على مضيق واحد",
+    "طريق التنمية: شبكة سكك وطرق سريعة بطول 1200 كم تربط الخليج بتركيا وأوروبا",
+    "وزارة النقل: فتح 7 مسارات ترانزيت دولية جديدة وأكثر من 1000 عملية شحن بعد الانضمام لاتفاقية TIR",
+    "فهل يتحول الفاو إلى بوابة العراق نحو العالم… أم يبقى حلماً مؤجلاً؟"
+  ]
+}

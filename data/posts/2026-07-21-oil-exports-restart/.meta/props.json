@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 21 • 2026",
+  "arabicDateLabel": "21 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · تصدير",
+    "arabicHeadline": "العراق خسر 302.8 مليون برميل… وثلاثة حقول تعيد الصادرات (بلومبرغ)",
+    "englishSubhead": "3 FIELDS BACK | 302M BBL LOST | 3.4M BPD TARGET",
+    "heroMedia": "images/news/2026-07-21-oil-exports-restart/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق يعيد تشغيل ثلاثة حقول جنوبية",
+      "arabicBody": "أعاد العراق الإنتاج إلى طاقته في ثلاثة حقول جنوبية: غرب القرنة 1 وشمال الرميلة وأرطاوي، مع استئناف التحميل عبر ناقلات الخليج، بحسب وورلد أويل ووكالة بلومبرغ.",
+      "bigStat": {
+        "value": "3 حقول",
+        "label": "Southern fields restored",
+        "arabicLabel": "الحقول الجنوبية التي أعاد العراق إنتاجها إلى طاقته الكاملة مع استئناف التصدير عبر الخليج: غرب القرنة 1، شمال الرميلة، أرطاوي (وورلد أويل · بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "غرب القرنة 1",
+          "value": "أعيد"
+        },
+        {
+          "label": "شمال الرميلة",
+          "value": "أعيد"
+        },
+        {
+          "label": "أرطاوي",
+          "value": "أعيد"
+        }
+      ],
+      "broll": "images/news/2026-07-21-oil-exports-restart/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-21-oil-exports-restart/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "World Oil · Bloomberg · JUL 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خسارة 302.8 مليون برميل تضغط على الموازنة",
+      "arabicBody": "الحرب وتعطّل هرمز كلّفا العراق نحو 302.8 مليون برميل خلال النصف الأول من 2026، وهذا مهم لأن النفط يشكّل 84% من إيرادات الدولة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "302.8 مليون برميل",
+        "label": "Output lost in H1 2026",
+        "arabicLabel": "حجم الإنتاج الذي خسره العراق في النصف الأول من 2026 بفعل الحرب وتعطّل مضيق هرمز، ما يضغط على إيرادات 84% منها نفطية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخسارة",
+          "value": "302.8 مليون"
+        },
+        {
+          "label": "النفط من الإيراد",
+          "value": "84%"
+        },
+        {
+          "label": "الفترة",
+          "value": "نصف 2026"
+        }
+      ],
+      "broll": "images/news/2026-07-21-oil-exports-restart/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-21-oil-exports-restart/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بصرة نفط تستهدف 3.4 مليون ب/ي",
+      "arabicBody": "تستهدف شركة نفط البصرة العودة إلى 3.4 مليون برميل يومياً خلال أسبوع من إعادة فتح هرمز، مقتربةً من مستوى 3.5 مليون قبل الحرب، بحسب بلومبرغ.",
+      "bigStat": {
+        "value": "3.4 مليون ب/ي",
+        "label": "Basra Oil recovery target",
+        "arabicLabel": "المستوى الذي تستهدف شركة نفط البصرة بلوغه خلال أسبوع من إعادة فتح مضيق هرمز، قرب مستوى ما قبل الحرب البالغ 3.5 مليون برميل يومياً (بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "3.4 مليون"
+        },
+        {
+          "label": "قبل الحرب",
+          "value": "3.5 مليون"
+        },
+        {
+          "label": "المدى",
+          "value": "خلال أسبوع"
+        }
+      ],
+      "broll": "images/news/2026-07-21-oil-exports-restart/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-21-oil-exports-restart/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Bloomberg · Basra Oil · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Oil",
+      "domain": "worldoil.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يعيد الإنتاج إلى طاقته في ثلاثة حقول جنوبية: غرب القرنة 1 وشمال الرميلة وأرطاوي (وورلد أويل)",
+    "استئناف تحميل النفط عبر ناقلات الخليج بعد بدء انفراج أزمة مضيق هرمز (بلومبرغ)",
+    "الحرب وتعطّل هرمز كلّفا العراق نحو 302.8 مليون برميل في النصف الأول من 2026 (شفق نيوز)",
+    "النفط يشكّل 84% من إيرادات الدولة، ما يجعل الموازنة رهينة الصادرات وسعر الخام",
+    "تعافى الإنتاج إلى نحو 1.5 مليون برميل يومياً منتصف حزيران، بحسب مدير عام نفط البصرة باسم عبد الكريم (وورلد أويل)",
+    "شركة نفط البصرة تستهدف العودة إلى 3.4 مليون برميل يومياً خلال أسبوع من إعادة فتح هرمز",
+    "قبل الحرب كان العراق يصدّر نحو 3.5 مليون برميل يومياً… فهل تعود الفلوس بعودة البراميل؟"
+  ]
+}

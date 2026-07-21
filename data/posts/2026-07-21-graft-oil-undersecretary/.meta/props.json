@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 21 • 2026",
+  "arabicDateLabel": "21 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · نفط",
+    "arabicHeadline": "86 مليون دولار نقداً… في قضية وكيل واحد",
+    "englishSubhead": "OP. FAJR | 47 HELD | $86M SEIZED",
+    "heroMedia": "images/news/2026-07-21-graft-oil-undersecretary/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "حملة «فجر» توقف وكيل وزارة النفط",
+      "arabicBody": "ضمن حملة «فجر»، أوقفت السلطات 47 مسؤولاً ونائباً، وصادر القضاء نحو 86 مليون دولار نقداً في قضية وكيل وزارة النفط عدنان الجميلي، بحسب الجزيرة.",
+      "bigStat": {
+        "value": "$86M",
+        "label": "Cash seized · al-Jumaili case",
+        "arabicLabel": "مبلغ نقدي صادره القضاء العراقي هذا الشهر في قضية وكيل وزارة النفط عدنان الجميلي (مجلس القضاء الأعلى · الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوف",
+          "value": "47 مسؤولاً"
+        },
+        {
+          "label": "نقداً",
+          "value": "86 مليون $"
+        },
+        {
+          "label": "العملية",
+          "value": "«فجر»"
+        }
+      ],
+      "broll": "images/news/2026-07-21-graft-oil-undersecretary/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-21-graft-oil-undersecretary/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · INA · JUL 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هذا مال النفط… مالك أنت",
+      "arabicBody": "مال عام يُفترض أن يموّل الخدمات؛ فإلى جانب النقد صودر أكثر من 100 مليون دولار أصولاً: 70 عقاراً و21 مركبة وذهب، بحسب مجلس القضاء الأعلى.",
+      "bigStat": {
+        "value": "70 عقاراً",
+        "label": "Properties seized in one case",
+        "arabicLabel": "عدد العقارات المصادرة في قضية واحدة إلى جانب 21 مركبة وذهب، ضمن أصول تجاوزت 100 مليون دولار (مجلس القضاء الأعلى)"
+      },
+      "supportingStats": [
+        {
+          "label": "أصول",
+          "value": "+100 مليون $"
+        },
+        {
+          "label": "عقارات",
+          "value": "70"
+        },
+        {
+          "label": "مركبات",
+          "value": "21"
+        }
+      ],
+      "broll": "images/news/2026-07-21-graft-oil-undersecretary/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-21-graft-oil-undersecretary/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Supreme Judicial Council · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أكثر من 100 مشتبه… ومعارضة سياسية",
+      "arabicBody": "لوّحت السلطات باحتمال توقيف أكثر من 100 مشتبه، بينما اعترض قادة في التحالف الحاكم على المداهمات دون تنسيق، محذّرين من تصدّع التحالف، بحسب ذا ناشونال.",
+      "bigStat": {
+        "value": "+100",
+        "label": "Suspects who may face arrest",
+        "arabicLabel": "العدد الذي لوّحت السلطات باحتمال توقيفه ضمن الحملة، وسط اعتراض قادة في التحالف الحاكم (ذا ناشونال · الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "قد يُوقف",
+          "value": "+100"
+        },
+        {
+          "label": "رفع الحصانة",
+          "value": "نعم"
+        },
+        {
+          "label": "خلاف",
+          "value": "داخل التحالف"
+        }
+      ],
+      "broll": "images/news/2026-07-21-graft-oil-undersecretary/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-21-graft-oil-undersecretary/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · JUL 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "INA",
+      "domain": "ina.iq"
+    }
+  ],
+  "arabicTicker": [
+    "حملة «فجر» لمكافحة الفساد: توقيف 47 مسؤولاً ونائباً بأمر رئيس الوزراء علي الزيدي (الجزيرة · INA)",
+    "مجلس القضاء الأعلى: نحو 86 مليون دولار نقداً صودرت هذا الشهر في قضية وكيل وزارة النفط عدنان الجميلي",
+    "إلى جانب النقد: 70 عقاراً و21 مركبة وذهب ضمن أصول تجاوزت 100 مليون دولار (مجلس القضاء الأعلى)",
+    "قوات مكافحة الإرهاب نفّذت مداهمات في المنطقة الخضراء ببغداد يوم 28 حزيران، ورُفعت الحصانة عن نواب موقوفين",
+    "لجنة النزاهة الاتحادية: كل الإجراءات تُنفّذ بدقة ووفق القانون وتحت سلطته",
+    "السلطات تلوّح باحتمال توقيف أكثر من 100 مشتبه في مراحل مقبلة من الحملة",
+    "قادة في التحالف الحاكم اعترضوا على المداهمات دون تنسيق مسبق… فهل تصمد الحملة أم تتصدّع؟ (ذا ناشونال)"
+  ]
+}

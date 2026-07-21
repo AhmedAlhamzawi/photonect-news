@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 21 • 2026",
+  "arabicDateLabel": "21 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "اقتصاد · دبلوماسية",
+    "arabicHeadline": "العراق يوقّع 48 صفقة مع واشنطن… ماذا كسبت بغداد؟",
+    "englishSubhead": "48 US DEALS | $4.5B PIPELINE | BYPASS HORMUZ",
+    "heroMedia": "images/news/2026-07-21-iraq-us-deals/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق يوقّع 48 صفقة مع شركات أميركية",
+      "arabicBody": "خلال زيارة رئيس الوزراء علي الزيدي واشنطن، وقّع العراق 48 صفقة مع شركات أميركية في قمة أعمال بغرفة التجارة الأميركية يوم 17 تموز، بحسب الجزيرة.",
+      "bigStat": {
+        "value": "48",
+        "label": "Deals signed with US firms",
+        "arabicLabel": "عدد الاتفاقات التي وقّعها العراق مع شركات أميركية خلال زيارة رئيس الوزراء علي الزيدي واشنطن، في قمة بغرفة التجارة الأميركية يوم 17 تموز (الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "صفقات",
+          "value": "48"
+        },
+        {
+          "label": "المكان",
+          "value": "واشنطن"
+        },
+        {
+          "label": "التاريخ",
+          "value": "17 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-21-iraq-us-deals/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-21-iraq-us-deals/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · JUL 17"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شيفرون تُحيي أنبوب كركوك–بانياس",
+      "arabicBody": "من أبرزها: تكليف شيفرون إحياء أنبوب كركوك–بانياس نحو المتوسط بكلفة تتجاوز 4.5 مليار دولار، كبديل عن مضيق هرمز، بحسب سي إن بي سي.",
+      "bigStat": {
+        "value": "$4.5B",
+        "label": "Kirkuk–Baniyas pipeline cost",
+        "arabicLabel": "الكلفة التقديرية لإحياء أنبوب كركوك–بانياس عبر شركة شيفرون، ممراً بديلاً لتصدير النفط بعيداً عن مضيق هرمز (سي إن بي سي · الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة",
+          "value": "+4.5 مليار $"
+        },
+        {
+          "label": "المنفّذ",
+          "value": "شيفرون"
+        },
+        {
+          "label": "الوجهة",
+          "value": "المتوسط"
+        }
+      ],
+      "broll": "images/news/2026-07-21-iraq-us-deals/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-21-iraq-us-deals/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "CNBC · Al Jazeera · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أنبوب بطاقة 700 ألف برميل مغلق منذ 2003",
+      "arabicBody": "الأنبوب، بطاقة اسمية نحو 700 ألف برميل يومياً، مغلق منذ تضرّره عام 2003، وإحياؤه يمنح بغداد منفذاً برياً نحو المتوسط، بحسب إدارة معلومات الطاقة الأميركية.",
+      "bigStat": {
+        "value": "700,000 ب/ي",
+        "label": "Pipeline nameplate capacity",
+        "arabicLabel": "الطاقة الاسمية لأنبوب كركوك–بانياس المغلق منذ 2003، والذي يمنح العراق منفذاً برياً للتصدير نحو المتوسط (إدارة معلومات الطاقة الأميركية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطاقة",
+          "value": "700 ألف ب/ي"
+        },
+        {
+          "label": "مغلق منذ",
+          "value": "2003"
+        },
+        {
+          "label": "المنفذ",
+          "value": "بري للمتوسط"
+        }
+      ],
+      "broll": "images/news/2026-07-21-iraq-us-deals/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-21-iraq-us-deals/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "US EIA · Asharq · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CNBC",
+      "domain": "cnbc.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "US EIA",
+      "domain": "eia.gov"
+    }
+  ],
+  "arabicTicker": [
+    "العراق يوقّع 48 صفقة مع شركات أميركية خلال زيارة رئيس الوزراء علي الزيدي واشنطن يوم 17 تموز (الجزيرة)",
+    "الاتفاقات وُقّعت في قمة أعمال بغرفة التجارة الأميركية وتغطّي الطاقة وقطاعات أخرى",
+    "من أبرزها: تكليف شركة شيفرون بإحياء أنبوب كركوك–بانياس نحو ساحل المتوسط (سي إن بي سي)",
+    "الكلفة التقديرية لإحياء الأنبوب تتجاوز 4.5 مليار دولار عبر تحالف دولي بقيادة أميركية",
+    "الأنبوب مغلق منذ تضرّره عام 2003، وطاقته الاسمية نحو 700 ألف برميل يومياً (إدارة معلومات الطاقة الأميركية)",
+    "الهدف: تقليل اعتماد صادرات العراق على مضيق هرمز الذي تعطّل بفعل الحرب على إيران",
+    "فهل تتحول هذه الصفقات إلى مشاريع على الأرض… أم تبقى حبراً على ورق؟"
+  ]
+}
