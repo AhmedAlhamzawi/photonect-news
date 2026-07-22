@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 22 • 2026",
+  "arabicDateLabel": "22 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أربعينية · كربلاء",
+    "arabicHeadline": "كربلاء تستعد لأحد أكبر تجمّعات العالم",
+    "englishSubhead": "AUG 4 | 20M+ PILGRIMS | ~$1.5B LOCAL ECONOMY",
+    "heroMedia": "images/news/2026-07-22-arbaeen-economy/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الأربعين في 4 آب… 20 مليون زائر",
+      "arabicBody": "تستعد كربلاء لزيارة الأربعين في الرابع من آب، حيث تجمع سنوياً أكثر من 20 مليون زائر في واحد من أكبر التجمعات على وجه الأرض، بحسب شفق نيوز ووكالة ديد.",
+      "bigStat": {
+        "value": "20M+",
+        "label": "Arbaeen pilgrims in Karbala",
+        "arabicLabel": "عدد الزوار الذين يتوافدون سنوياً إلى كربلاء في زيارة الأربعين، أحد أكبر التجمعات على الأرض (شفق نيوز · وكالة ديد)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموعد",
+          "value": "4 آب"
+        },
+        {
+          "label": "الزوار",
+          "value": "+20 مليون"
+        },
+        {
+          "label": "الترتيب",
+          "value": "الأكبر عالمياً"
+        }
+      ],
+      "broll": "images/news/2026-07-22-arbaeen-economy/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-22-arbaeen-economy/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "1.5 مليار دولار تضخّها الزيارة",
+      "arabicBody": "تحقن الزيارة نحو 1.5 مليار دولار في الاقتصاد المحلي، مع آلاف المواكب التي تقدّم الطعام والماء والمبيت مجاناً، ودخول أكثر من 4 ملايين زائر أجنبي العام الماضي.",
+      "bigStat": {
+        "value": "$1.5B",
+        "label": "Injected into local economy",
+        "arabicLabel": "المبلغ التقديري الذي تضخّه زيارة الأربعين في اقتصاد كربلاء المحلي عبر الإيواء والنقل والطعام والتبادل (تقديرات اقتصادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاقتصاد",
+          "value": "~1.5 مليار $"
+        },
+        {
+          "label": "زوار أجانب",
+          "value": "+4 مليون"
+        },
+        {
+          "label": "المواكب",
+          "value": "بالآلاف"
+        }
+      ],
+      "broll": "images/news/2026-07-22-arbaeen-economy/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-22-arbaeen-economy/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Interior Ministry · 2024"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "اختبار للخدمات والكهرباء في الذروة",
+      "arabicBody": "يضع الحشد ضغطاً هائلاً على الكهرباء والخدمات في ذروة حرّ الصيف، فيما تحشد السلطات الأمن والصحة واللوجستيات لتأمين ملايين السائرين نحو المدينة.",
+      "bigStat": {
+        "value": "140",
+        "label": "Nationalities of foreign pilgrims (2024)",
+        "arabicLabel": "عدد جنسيات الزوار الأجانب الذين دخلوا العراق خلال موسم الأربعين 2024 عبر المنافذ الحدودية (السلطات العراقية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الضغط",
+          "value": "كهرباء وخدمات"
+        },
+        {
+          "label": "الجنسيات",
+          "value": "140"
+        },
+        {
+          "label": "الحشد",
+          "value": "أمن وصحة"
+        }
+      ],
+      "broll": "images/news/2026-07-22-arbaeen-economy/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-22-arbaeen-economy/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The Media Line · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "DID Press",
+      "domain": "didpress.com"
+    },
+    {
+      "name": "The Media Line",
+      "domain": "themedialine.org"
+    },
+    {
+      "name": "Borgen Project",
+      "domain": "borgenproject.org"
+    }
+  ],
+  "arabicTicker": [
+    "كربلاء تستعد لزيارة الأربعين في الرابع من آب، أحد أكبر التجمعات السنوية على وجه الأرض (شفق نيوز · وكالة ديد)",
+    "الزيارة تجمع سنوياً أكثر من 20 مليون زائر، وبلغت 22.5 مليون في 2024 بحسب وزارة الداخلية",
+    "تقديرات اقتصادية: الزيارة تضخّ نحو 1.5 مليار دولار في الاقتصاد المحلي لكربلاء",
+    "أكثر من 4 ملايين زائر أجنبي من 140 جنسية دخلوا العراق خلال موسم الأربعين 2024 (السلطات العراقية)",
+    "آلاف المواكب تقدّم الطعام والماء والمبيت مجاناً للسائرين على طول الطريق إلى كربلاء",
+    "الحشد يضع ضغطاً هائلاً على الكهرباء والخدمات في ذروة حرّ الصيف (ميديا لاين)",
+    "فهل تحوّل كربلاء زخم الأربعين إلى مكسب اقتصادي دائم؟"
+  ]
+}

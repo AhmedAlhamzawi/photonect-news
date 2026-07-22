@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 22 • 2026",
+  "arabicDateLabel": "22 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار · سفر",
+    "arabicHeadline": "دولار المسافر ينزل إلى 2000$ فقط",
+    "englishSubhead": "$3,000 → $2,000 CASH CAP | WAS $7,000 IN 2023",
+    "heroMedia": "images/news/2026-07-22-travel-dollar-2000/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المركزي يخفض النقد الدولاري للمسافر",
+      "arabicBody": "خفّض البنك المركزي العراقي سقف النقد الدولاري للمسافر من 3000 إلى 2000 دولار شهرياً لكل بالغ، بحسب شفق نيوز ومصدر مصرفي.",
+      "bigStat": {
+        "value": "$2,000",
+        "label": "New monthly cash cap",
+        "arabicLabel": "السقف الشهري الجديد للنقد الدولاري لكل مسافر بالغ بعد خفضه من 3000 دولار (شفق نيوز · مصدر مصرفي)"
+      },
+      "supportingStats": [
+        {
+          "label": "السقف الجديد",
+          "value": "2000 $"
+        },
+        {
+          "label": "كان سابقاً",
+          "value": "3000 $"
+        },
+        {
+          "label": "في 2023",
+          "value": "7000 $"
+        }
+      ],
+      "broll": "images/news/2026-07-22-travel-dollar-2000/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-22-travel-dollar-2000/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "يمسّ كل مسافر: علاج ودراسة وعمرة",
+      "arabicBody": "القرار يشمل جميع الأغراض من سياحة وعلاج ودراسة وحج وعمرة وعمل، فيما يقترب السعر الموازي من 1500 دينار للدولار مقابل 1320 رسمياً.",
+      "bigStat": {
+        "value": "1,500",
+        "label": "Parallel rate (IQD/$)",
+        "arabicLabel": "سعر السوق الموازي للدولار الذي يقترب منه المسافرون مقابل 1320 ديناراً للسعر الرسمي (964 ميديا)"
+      },
+      "supportingStats": [
+        {
+          "label": "رسمي",
+          "value": "1320 د"
+        },
+        {
+          "label": "موازي",
+          "value": "~1500 د"
+        },
+        {
+          "label": "يشمل",
+          "value": "كل الأغراض"
+        }
+      ],
+      "broll": "images/news/2026-07-22-travel-dollar-2000/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-22-travel-dollar-2000/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraqi News · 964media"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "دولار المطار رسمي… وكردستان تتوقف",
+      "arabicBody": "يوفّر المركزي الدولار بالسعر الرسمي في المطارات منذ 14 تموز وعبر البطاقات، بينما توقفت مبيعاته الرسمية للمسافرين في كردستان فدفعتهم للسوق الموازية.",
+      "bigStat": {
+        "value": "14 تموز",
+        "label": "Airport official-rate dollars begin",
+        "arabicLabel": "تاريخ بدء توفير البنك المركزي الدولار بالسعر الرسمي للمسافرين في المطارات لتخفيف أثر خفض السقف (964 ميديا)"
+      },
+      "supportingStats": [
+        {
+          "label": "المطارات",
+          "value": "سعر رسمي"
+        },
+        {
+          "label": "الأداة",
+          "value": "بطاقات دفع"
+        },
+        {
+          "label": "كردستان",
+          "value": "توقف رسمي"
+        }
+      ],
+      "broll": "images/news/2026-07-22-travel-dollar-2000/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-22-travel-dollar-2000/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Kurdistan24 · 964media"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "البنك المركزي العراقي يخفض سقف النقد الدولاري للمسافر من 3000 إلى 2000 دولار شهرياً (شفق نيوز · مصدر مصرفي)",
+    "القرار يشمل جميع الأغراض: سياحة وعلاج ودراسة وحج وعمرة وعمل، لكل مسافر بالغ (شبكة الأخبار العراقية)",
+    "السقف كان 7000 دولار في 2023 ثم خُفض عدة مرات وسط جهود لكبح تهريب الدولار (شبكة الأخبار العراقية)",
+    "خفض السقف يأتي ضمن جهود لكبح تهريب الدولار والمضاربة على العملة (شفق نيوز)",
+    "المركزي يوفّر الدولار بالسعر الرسمي في المطارات منذ 14 تموز وعبر بطاقات الدفع (964 ميديا)",
+    "توقف بيع الدولار الرسمي للمسافرين في إقليم كردستان دفعهم نحو السوق الموازية الأعلى (كردستان24)",
+    "فهل يضبط خفض السقف سوق الدولار، أم يدفع المسافرين نحو السوق الموازية؟"
+  ]
+}

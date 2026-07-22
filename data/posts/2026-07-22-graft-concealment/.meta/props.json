@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 22 • 2026",
+  "arabicDateLabel": "22 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فساد · صولة الفجر",
+    "arabicHeadline": "فين خبّوا الملايين؟ صولة الفجر تكشف",
+    "englishSubhead": "67 ARRESTED | $100M+ CASH | 375KG GOLD",
+    "heroMedia": "images/news/2026-07-22-graft-concealment/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "67 مسؤولاً موقوفاً في حملة واحدة",
+      "arabicBody": "أوقفت حملة «صولة الفجر» التي أطلقها رئيس الوزراء علي الزيدي أواخر حزيران نحو 67 مسؤولاً ونائباً، وصادرت أكثر من 100 مليون دولار نقداً، بحسب برس تي في والجزيرة.",
+      "bigStat": {
+        "value": "67",
+        "label": "Officials arrested",
+        "arabicLabel": "عدد المسؤولين والنواب الذين أوقفتهم حملة صولة الفجر لمكافحة الفساد منذ إطلاقها أواخر حزيران (برس تي في)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون",
+          "value": "67"
+        },
+        {
+          "label": "نقد مصادَر",
+          "value": "+100 مليون $"
+        },
+        {
+          "label": "الإطلاق",
+          "value": "حزيران"
+        }
+      ],
+      "broll": "images/news/2026-07-22-graft-concealment/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-22-graft-concealment/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Press TV · Al Jazeera"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أموال في قناني ماء وجدران ومجارٍ",
+      "arabicBody": "كشفت المداهمات أموالاً مخبّأة في قناني ماء وداخل جدران وحتى في مجرى تصريف، شملت 20 مليون دولار في تكريت و11 مليوناً في بالوعة، بحسب ذا ناشونال وOCCRP.",
+      "bigStat": {
+        "value": "375kg",
+        "label": "Gold recovered",
+        "arabicLabel": "كمية الذهب التي استردّتها السلطات ضمن تحقيقات صولة الفجر لمكافحة الفساد (الجزيرة · ذا ناشونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "ذهب مستردّ",
+          "value": "375 كغ"
+        },
+        {
+          "label": "قناني ماء",
+          "value": "20 مليون $"
+        },
+        {
+          "label": "بالوعة",
+          "value": "11 مليون $"
+        }
+      ],
+      "broll": "images/news/2026-07-22-graft-concealment/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-22-graft-concealment/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "The National · OCCRP"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "150 ملياراً ضاعت منذ 2003",
+      "arabicBody": "تقدّر تقارير خسائر الفساد بنحو 150 مليار دولار منذ 2003، فيما يبحث القضاء تخفيف الأحكام مقابل إعادة الأموال، وسط انقسام سياسي حول مدى الحملة.",
+      "bigStat": {
+        "value": "$150B",
+        "label": "Lost to corruption since 2003",
+        "arabicLabel": "التقدير الذي تورده تقارير لحجم الأموال العامة التي خسرها العراق بسبب الفساد منذ عام 2003 (ذا ناشونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "منذ 2003",
+          "value": "~150 مليار $"
+        },
+        {
+          "label": "القضاء",
+          "value": "تخفيف مقابل إعادة"
+        },
+        {
+          "label": "السياق",
+          "value": "انقسام سياسي"
+        }
+      ],
+      "broll": "images/news/2026-07-22-graft-concealment/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-22-graft-concealment/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "OCCRP",
+      "domain": "occrp.org"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "Press TV",
+      "domain": "presstv.ir"
+    }
+  ],
+  "arabicTicker": [
+    "حملة «صولة الفجر» التي أطلقها رئيس الوزراء علي الزيدي أواخر حزيران توقف نحو 67 مسؤولاً ونائباً (برس تي في · الجزيرة)",
+    "المداهمات صادرت أكثر من 100 مليون دولار نقداً في إطار الحملة المتوسّعة (الجزيرة)",
+    "أموال مخبّأة في قناني ماء وداخل جدران وحتى في مجرى تصريف كشفتها التحقيقات (ذا ناشونال · OCCRP)",
+    "20 مليون دولار في تكريت و11 مليوناً في بالوعة ضمن قضية وكيل وزارة النفط (ذا ناشونال)",
+    "السلطات تستردّ نحو 375 كيلوغراماً من الذهب ضمن تحقيقات مكافحة الفساد (الجزيرة)",
+    "تقارير تقدّر خسائر الفساد بنحو 150 مليار دولار منذ 2003، والقضاء يبحث تخفيف الأحكام مقابل إعادة الأموال (ذا ناشونال)",
+    "فوين راحت باقي المليارات… وهل تصل الحملة إلى النهاية؟"
+  ]
+}

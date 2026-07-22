@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 22 • 2026",
+  "arabicDateLabel": "22 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · أوبك",
+    "arabicHeadline": "أوبك تزيد الضخّ… وموازنة العراق تحت الضغط",
+    "englishSubhead": "+188K BPD AUG | $60 BUDGET PRICE | 90% OIL-RELIANT",
+    "heroMedia": "images/news/2026-07-22-opec-price-squeeze/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أوبك+ ترفع الإنتاج 188 ألف برميل",
+      "arabicBody": "ترفع أوبك+ إنتاجها 188 ألف برميل يومياً من آب، في خامس زيادة شهرية على التوالي، بمشاركة السعودية وروسيا والعراق، بحسب الجزيرة ووكالة الطاقة الدولية.",
+      "bigStat": {
+        "value": "188K",
+        "label": "Barrels/day August hike",
+        "arabicLabel": "حجم الزيادة اليومية في إنتاج أوبك+ اعتباراً من آب، وهي الخامسة على التوالي بمشاركة العراق (الجزيرة · وكالة الطاقة الدولية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزيادة",
+          "value": "188 ألف ب/ي"
+        },
+        {
+          "label": "التسلسل",
+          "value": "الخامسة"
+        },
+        {
+          "label": "من",
+          "value": "آب"
+        }
+      ],
+      "broll": "images/news/2026-07-22-opec-price-squeeze/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-22-opec-price-squeeze/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Al Jazeera · IEA"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سعر أقل للبرميل… عائد أقل للعراق",
+      "arabicBody": "تراجع أسعار النفط مع هدنة واشنطن–طهران يعني عائداً أقل للعراق، الذي تعتمد موازنته بنحو 90% على النفط بسعر افتراضي 60 دولاراً للبرميل.",
+      "bigStat": {
+        "value": "90%",
+        "label": "Budget reliance on oil",
+        "arabicLabel": "نسبة اعتماد الموازنة العامة العراقية على عائدات النفط، ما يجعلها شديدة الحساسية لأي تراجع في الأسعار (الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "اعتماد الموازنة",
+          "value": "90%"
+        },
+        {
+          "label": "السعر الافتراضي",
+          "value": "60 $"
+        },
+        {
+          "label": "السبب",
+          "value": "هدنة وهرمز"
+        }
+      ],
+      "broll": "images/news/2026-07-22-opec-price-squeeze/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-22-opec-price-squeeze/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Asharq Al-Awsat · AGBI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "عجز 5 مليارات… وضغط على الرواتب",
+      "arabicBody": "سجّل العراق عجزاً بـ5 مليارات دولار في 4 أشهر، والرواتب وحدها 15.3 مليار، ما يزيد الضغط لإقرار موازنة كاملة بأسرع وقت، بحسب AGBI وأكاديميين.",
+      "bigStat": {
+        "value": "$5B",
+        "label": "4-month budget deficit",
+        "arabicLabel": "العجز الذي سجّلته موازنة العراق في الأشهر الأربعة الأولى من 2026 بعد تراجع عائدات النفط إثر حرب إيران (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "العجز",
+          "value": "5 مليار $"
+        },
+        {
+          "label": "الرواتب",
+          "value": "15.3 مليار $"
+        },
+        {
+          "label": "المطلوب",
+          "value": "موازنة كاملة"
+        }
+      ],
+      "broll": "images/news/2026-07-22-opec-price-squeeze/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-22-opec-price-squeeze/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "IEA",
+      "domain": "iea.org"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Asharq Al-Awsat",
+      "domain": "aawsat.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوبك+ ترفع إنتاجها 188 ألف برميل يومياً اعتباراً من آب، في خامس زيادة شهرية على التوالي (الجزيرة · وكالة الطاقة الدولية)",
+    "الزيادة بمشاركة السعودية وروسيا والعراق والكويت وكازاخستان والجزائر وعُمان (الجزيرة)",
+    "تراجع أسعار النفط مع الهدنة الأميركية–الإيرانية وعودة تدفقات مضيق هرمز (وكالة الطاقة الدولية)",
+    "موازنة العراق تعتمد بنحو 90% على النفط بسعر افتراضي 60 دولاراً للبرميل (الشرق الأوسط)",
+    "العراق سجّل عجزاً بنحو 5 مليارات دولار في الأشهر الأربعة الأولى من 2026 (AGBI)",
+    "الرواتب وحدها بلغت 15.3 مليار دولار، أي أكثر من نصف الإنفاق، ما يضغط لإقرار موازنة كاملة (AGBI)",
+    "فهل تنجح الحكومة في إقرار موازنة كاملة وسط تراجع أسعار النفط؟"
+  ]
+}

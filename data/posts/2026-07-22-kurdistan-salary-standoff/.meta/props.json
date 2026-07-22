@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 22 • 2026",
+  "arabicDateLabel": "22 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رواتب · كردستان",
+    "arabicHeadline": "رواتب كردستان بخطر… مفاوضات بغداد–أربيل تتعثّر",
+    "englishSubhead": "1.2M SALARIES | 120B IQD/MO CONDITION | ~41% TRANSFERRED",
+    "heroMedia": "images/news/2026-07-22-kurdistan-salary-standoff/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تعثّر جديد في ملف الرواتب والنفط",
+      "arabicBody": "تعثّرت مفاوضات بغداد وأربيل حول الرواتب والنفط مجدداً، ودعا النائب الأول لرئيس البرلمان عدنان فيحان إلى وقف التحويلات للإقليم حتى تُسوّى الإيرادات، بحسب العربي الجديد ورووداو.",
+      "bigStat": {
+        "value": "120 مليار د",
+        "label": "Monthly non-oil revenue condition",
+        "arabicLabel": "المبلغ الشهري من الإيرادات غير النفطية الذي يُفترض أن يحوّله الإقليم إلى بغداد وفق آلية آب 2025 (الوكالة العراقية للأنباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرط الشهري",
+          "value": "120 مليار د"
+        },
+        {
+          "label": "الملف",
+          "value": "نفط ورواتب"
+        },
+        {
+          "label": "الوسيط",
+          "value": "ضغط أميركي"
+        }
+      ],
+      "broll": "images/news/2026-07-22-kurdistan-salary-standoff/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-22-kurdistan-salary-standoff/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The New Arab · Rudaw"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "1.2 مليون موظف ينتظرون رواتبهم",
+      "arabicBody": "يعتمد نحو 1.2 مليون موظف في الإقليم على رواتب تُقدَّر بنحو تريليون دينار شهرياً، وتقول أربيل إن بغداد حوّلت 41% فقط من مستحقاتها بين 2023 و2025.",
+      "bigStat": {
+        "value": "~1 تريليون د",
+        "label": "KRG monthly salary bill",
+        "arabicLabel": "التقدير الشهري لفاتورة رواتب موظفي إقليم كردستان الذين يعتمدون على التحويلات الاتحادية (مركز رووداو للأبحاث)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموظفون",
+          "value": "1.2 مليون"
+        },
+        {
+          "label": "الراتب الشهري",
+          "value": "~1 تريليون د"
+        },
+        {
+          "label": "حُوّل",
+          "value": "41%"
+        }
+      ],
+      "broll": "images/news/2026-07-22-kurdistan-salary-standoff/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-22-kurdistan-salary-standoff/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Kurdistan24 · Rudaw"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "واشنطن تضغط… ومسوّدات لإنهاء الخلاف",
+      "arabicBody": "تحثّ واشنطن الطرفين على حلّ، فيما يعدّان مسوّدات لتسوية الرواتب والنفط، لكن الخلاف على شفافية النفط والجمارك والضرائب لا يزال يعرقل الاتفاق.",
+      "bigStat": {
+        "value": "41%",
+        "label": "Share of entitlements transferred 2023–25",
+        "arabicLabel": "النسبة التي تقول أربيل إن بغداد حوّلتها فقط من مستحقات الإقليم المالية بين عامي 2023 و2025 (كردستان24)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوسيط",
+          "value": "واشنطن"
+        },
+        {
+          "label": "العقدة",
+          "value": "شفافية النفط"
+        },
+        {
+          "label": "الأداة",
+          "value": "مسوّدات"
+        }
+      ],
+      "broll": "images/news/2026-07-22-kurdistan-salary-standoff/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-22-kurdistan-salary-standoff/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Rudaw · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The New Arab",
+      "domain": "newarab.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudaw.net"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    },
+    {
+      "name": "The Arab Weekly",
+      "domain": "thearabweekly.com"
+    }
+  ],
+  "arabicTicker": [
+    "تعثّر جديد في مفاوضات بغداد وأربيل حول الرواتب والنفط وسط تعمّق أزمة الرواتب (العربي الجديد · رووداو)",
+    "النائب الأول لرئيس البرلمان عدنان فيحان يدعو لوقف التحويلات الاتحادية للإقليم حتى تُسوّى الإيرادات (الأسبوعية العربية)",
+    "آلية آب 2025 تربط التحويلات بتحويل الإقليم 120 مليار دينار شهرياً من الإيرادات غير النفطية (الوكالة العراقية للأنباء)",
+    "نحو 1.2 مليون موظف في الإقليم يعتمدون على رواتب تُقدَّر بنحو تريليون دينار شهرياً (مركز رووداو للأبحاث)",
+    "أربيل: بغداد حوّلت 41% فقط من مستحقات الإقليم المالية بين عامي 2023 و2025 (كردستان24)",
+    "واشنطن تحثّ الطرفين على حلّ، والجانبان يعدّان مسوّدات لتسوية الرواتب والنفط (رووداو)",
+    "فهل تُنهي المسوّدات الجديدة أزمة رواتب كردستان، أم يتجدّد الخلاف؟"
+  ]
+}
