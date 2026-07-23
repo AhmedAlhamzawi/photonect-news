@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 23 • 2026",
+  "arabicDateLabel": "23 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "world",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "من يملك ذكاء المنطقة؟",
+    "arabicHeadline": "أمريكا تفتح للإمارات وحدها باب رقائقها المتقدمة",
+    "englishSubhead": "UAE = A:5 TIER | NVIDIA + AMD | NO LICENSE",
+    "heroMedia": "images/news/2026-07-23-uae-us-ai-chips-greenlight/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أمريكا ترفع الإمارات لأعلى فئة حلفائها التقنيين",
+      "arabicBody": "أعادت واشنطن تصنيف الإمارات ضمن أعلى فئة من حلفائها التقنيين (A:5)، لتحصل على رقائق Nvidia بلاكويل وAMD المتقدمة من دون ترخيص، بحسب بلومبرغ.",
+      "bigStat": {
+        "value": "A:5",
+        "label": "Top US export ally tier",
+        "arabicLabel": "الفئة الأعلى في ضوابط التصدير الأمريكية التي أُدرجت فيها الإمارات وتتيح رقائق الذكاء الاصطناعي المتقدمة من دون ترخيص (بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "التصنيف",
+          "value": "A:5"
+        },
+        {
+          "label": "الرقائق",
+          "value": "Nvidia+AMD"
+        },
+        {
+          "label": "الترخيص",
+          "value": "بدون"
+        }
+      ],
+      "broll": "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Bloomberg · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الوحيدة في الشرق الأوسط… أبوظبي تصير المركز",
+      "arabicBody": "الإمارات وحدها في الشرق الأوسط تنال هذا التصنيف، ما يجعل أبوظبي وشركتيها G42 وCore42 مركز بنية الذكاء الاصطناعي بالمنطقة، وفق بلومبرغ وAGBI.",
+      "bigStat": {
+        "value": "1",
+        "label": "Only Mideast nation at this tier",
+        "arabicLabel": "الإمارات هي الدولة الوحيدة في الشرق الأوسط التي نالت أعلى فئة تصدير أمريكية للرقائق المتقدمة (بلومبرغ · AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "بالمنطقة",
+          "value": "الوحيدة"
+        },
+        {
+          "label": "الشركات",
+          "value": "G42·Core42"
+        },
+        {
+          "label": "الموقع",
+          "value": "أبوظبي"
+        }
+      ],
+      "broll": "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Bloomberg · AGBI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الرقائق مقابل دعم أبوظبي في حرب إيران",
+      "arabicBody": "النص الأمريكي ربط الخطوة بدعم أبوظبي في الحرب ضد إيران، لتتحوّل الرقائق إلى سؤال أكبر: من يملك بيانات المنطقة وبنيتها الرقمية؟ بحسب بلومبرغ.",
+      "bigStat": {
+        "value": "تحالف",
+        "label": "Tech alliance reward",
+        "arabicLabel": "شراكة تقنية أمريكية إماراتية عميقة ربط النص الأمريكي توسيعها بدعم أبوظبي في الحرب ضد إيران (بلومبرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "المقابل",
+          "value": "دعم الحرب"
+        },
+        {
+          "label": "الأثر",
+          "value": "بيانات المنطقة"
+        },
+        {
+          "label": "الشراكة",
+          "value": "تقنية"
+        }
+      ],
+      "broll": "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-23-uae-us-ai-chips-greenlight/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Bloomberg · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "US Commerce Dept",
+      "domain": "commerce.gov"
+    }
+  ],
+  "arabicTicker": [
+    "أمريكا تفتح للإمارات وحدها باب رقائقها المتقدمة بأعلى فئة تصدير (A:5) (بلومبرغ)",
+    "القرار يتيح للإمارات وشركتيها G42 وCore42 رقائق Nvidia بلاكويل وAMD من دون ترخيص (بلومبرغ)",
+    "الإمارات هي الدولة الوحيدة في الشرق الأوسط التي تنال هذا التصنيف الأعلى (بلومبرغ · AGBI)",
+    "الخطوة تنصّب أبوظبي مركزاً لبنية الذكاء الاصطناعي في المنطقة كلها (AGBI)",
+    "النص الأمريكي ربط توسيع الوصول للرقائق بدعم أبوظبي في الحرب ضد إيران (بلومبرغ)",
+    "الصفقة تحسم من يملك بنية الذكاء الاصطناعي ومستقبل بيانات المنطقة (بلومبرغ)",
+    "فمن يملك ذكاء المنطقة وبياناتها في النهاية… أبوظبي أم غيرها؟"
+  ]
+}

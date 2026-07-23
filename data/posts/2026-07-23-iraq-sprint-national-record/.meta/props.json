@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 23 • 2026",
+  "arabicDateLabel": "23 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "sports",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فخر عراقي",
+    "arabicHeadline": "منو حطّم رقم العراق؟ الخزاعي… 10.21 ثانية",
+    "englishSubhead": "IRAQI NATIONAL RECORD 10.21s | 100m SILVER IN ASIA",
+    "heroMedia": "images/news/2026-07-23-iraq-sprint-national-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "منو حطّم رقم العراق في المئة متر؟",
+      "arabicBody": "ركض فلاح الخزاعي المئة متر بزمن 10.21 ثانية، فحطّم الرقم القياسي الوطني وخطف الفضية في أول بطولة آسيوية تحت 23، بحسب الاتحاد الدولي.",
+      "bigStat": {
+        "value": "10.21 ث",
+        "label": "New Iraqi national record",
+        "arabicLabel": "الزمن القياسي الوطني الجديد للعراق في سباق المئة متر الذي سجّله فلاح الخزاعي (الاتحاد الدولي لألعاب القوى)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزمن",
+          "value": "10.21 ث"
+        },
+        {
+          "label": "الميدالية",
+          "value": "فضية 100م"
+        },
+        {
+          "label": "الحدث",
+          "value": "آسيا U23"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-sprint-national-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-sprint-national-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "World Athletics · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "0.04 ثانية حرمت الخزاعي من الذهب",
+      "arabicBody": "الذهب ذهب للماليزي عظيم فهمي بزمن 10.17 ثانية، بفارق 0.04 ثانية فقط عن الخزاعي، في نهائي أوردوس الصينية، بحسب الاتحاد الدولي وذا ستار.",
+      "bigStat": {
+        "value": "0.04 ث",
+        "label": "Gap to gold",
+        "arabicLabel": "الفارق الزمني بين الخزاعي وبطل الذهب الماليزي عظيم فهمي الذي سجّل 10.17 ثانية في نهائي أوردوس (الاتحاد الدولي · ذا ستار)"
+      },
+      "supportingStats": [
+        {
+          "label": "الذهب",
+          "value": "10.17 ث"
+        },
+        {
+          "label": "الفارق",
+          "value": "0.04 ث"
+        },
+        {
+          "label": "المكان",
+          "value": "أوردوس"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-sprint-national-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-sprint-national-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "World Athletics · The Star"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هل يقود جيل جديد العراق نحو العالمية؟",
+      "arabicBody": "هذا الرقم يعيد رسم تاريخ العراق في السرعة، ويضع الخزاعي في قلب جيل شبابي صاعد يطمح لأول ميدالية عراقية عالمية في الركض.",
+      "bigStat": {
+        "value": "U23",
+        "label": "Rising youth generation",
+        "arabicLabel": "بطولة آسيا تحت 23 عاماً التي برز فيها جيل عراقي شبابي صاعد في ألعاب القوى بقيادة فلاح الخزاعي (الاتحاد الدولي لألعاب القوى)"
+      },
+      "supportingStats": [
+        {
+          "label": "البطل",
+          "value": "الخزاعي"
+        },
+        {
+          "label": "الفئة",
+          "value": "آسيا U23"
+        },
+        {
+          "label": "الطموح",
+          "value": "جيل صاعد"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-sprint-national-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-sprint-national-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "World Athletics · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Athletics",
+      "domain": "worldathletics.org"
+    },
+    {
+      "name": "The Star",
+      "domain": "thestar.com.my"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "العداء العراقي فلاح الخزاعي يسجّل رقماً قياسياً وطنياً جديداً في المئة متر بزمن 10.21 ثانية (الاتحاد الدولي لألعاب القوى)",
+    "الخزاعي يخطف الميدالية الفضية في نهائي المئة متر بأول بطولة آسيوية تحت 23 عاماً (الاتحاد الدولي لألعاب القوى)",
+    "الذهب للماليزي عظيم فهمي بزمن 10.17 ثانية بفارق 4 أجزاء من المئة فقط (الاتحاد الدولي · ذا ستار)",
+    "النهائي أقيم في مدينة أوردوس الصينية ضمن أول نسخة من بطولة آسيا تحت 23 عاماً (الاتحاد الدولي لألعاب القوى)",
+    "الإنجاز يعيد رسم الرقم القياسي الوطني للعراق في سباقات السرعة (أخبار العراق)",
+    "الخزاعي يمثّل جيلاً عراقياً شاباً صاعداً في ألعاب القوى (أخبار العراق)",
+    "فهل يقود جيل جديد العراق نحو أول ميدالية عالمية في الركض؟"
+  ]
+}

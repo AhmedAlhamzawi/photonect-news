@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 23 • 2026",
+  "arabicDateLabel": "23 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "صولة الفجر · محاسبة",
+    "arabicHeadline": "صولة الفجر تدخل الطيران والمنافذ… 55 مذكرة",
+    "englishSubhead": "55 WARRANTS IN SALADIN | AIRWAYS + BORDERS SWEPT",
+    "heroMedia": "images/news/2026-07-23-graft-saladin-airways/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "35 موقوفاً في أسبوع… وسبعة قطاعات",
+      "arabicBody": "في أسبوع واحد، أوقفت صولة الفجر 35 مسؤولاً عبر ست قضايا وخمس محافظات وسبعة قطاعات، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "35",
+        "label": "Officials held in one week",
+        "arabicLabel": "عدد المسؤولين الموقوفين خلال أسبوع واحد ضمن ست قضايا وخمس محافظات وسبعة قطاعات (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون",
+          "value": "35 مسؤول"
+        },
+        {
+          "label": "قضايا",
+          "value": "6"
+        },
+        {
+          "label": "محافظات",
+          "value": "5"
+        }
+      ],
+      "broll": "images/news/2026-07-23-graft-saladin-airways/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-23-graft-saladin-airways/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "16 مليار دينار مفقودة… الطيران في القبضة",
+      "arabicBody": "الخطوط الجوية العراقية: إيقاف 8 من كبارها وفقدان 16 مليار دينار (نحو 12 مليون دولار)، والحملة تطال منفذ كركوك، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "16 مليار",
+        "label": "IQD missing at Iraqi Airways",
+        "arabicLabel": "قيمة الأموال المفقودة في الخطوط الجوية العراقية بالدينار (نحو 12 مليون دولار) مع إيقاف 8 من كبار موظفيها (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخطوط الجوية",
+          "value": "8 موقوفين"
+        },
+        {
+          "label": "مفقود",
+          "value": "16 مليار د"
+        },
+        {
+          "label": "المنافذ",
+          "value": "كركوك"
+        }
+      ],
+      "broll": "images/news/2026-07-23-graft-saladin-airways/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-23-graft-saladin-airways/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "55 مذكرة في صلاح الدين… والعدّ مستمر",
+      "arabicBody": "أصدرت النزاهة 55 مذكرة توقيف في صلاح الدين. ومنذ أواخر حزيران: 70+ موقوفاً ومصادرة 127 مليار دينار و24 مليون دولار، بحسب الجزيرة وسي بي إس.",
+      "bigStat": {
+        "value": "70+",
+        "label": "Officials held since late June",
+        "arabicLabel": "إجمالي المسؤولين الموقوفين منذ انطلاق الحملة أواخر حزيران مع مصادرة 127 مليار دينار و24 مليون دولار (الجزيرة · سي بي إس)"
+      },
+      "supportingStats": [
+        {
+          "label": "صلاح الدين",
+          "value": "55 مذكرة"
+        },
+        {
+          "label": "تراكمي",
+          "value": "70+ موقوف"
+        },
+        {
+          "label": "مصادرات",
+          "value": "127 مليار د"
+        }
+      ],
+      "broll": "images/news/2026-07-23-graft-saladin-airways/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-23-graft-saladin-airways/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Jazeera · CBS · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "حملة صولة الفجر توقف 35 مسؤولاً خلال أسبوع واحد في ست قضايا وخمس محافظات وسبعة قطاعات (شفق نيوز)",
+    "الخطوط الجوية العراقية: إيقاف 8 من كبار الموظفين وفقدان 16 مليار دينار نحو 12 مليون دولار (شفق نيوز)",
+    "الحملة تطال منفذاً حدودياً في كركوك ضمن توسعها إلى قطاعات جديدة (شفق نيوز)",
+    "هيئة النزاهة تصدر 55 مذكرة توقيف في محافظة صلاح الدين (شفق نيوز)",
+    "منذ انطلاق الحملة أواخر حزيران: أكثر من 70 مسؤولاً موقوفاً (الجزيرة · سي بي إس)",
+    "مصادرات الحملة التراكمية: 127 مليار دينار و24 مليون دولار وعقارات وذهب (الجزيرة · سي بي إس)",
+    "فهل تصل المحاسبة إلى كل الوزارات، أم تتوقف عند حد؟"
+  ]
+}

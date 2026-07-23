@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 23 • 2026",
+  "arabicDateLabel": "23 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "اقتصاد · رغم الحرب",
+    "arabicHeadline": "رغم الحرب… مشاريع العراق الأعلى نمواً بالشرق الأوسط",
+    "englishSubhead": "IRAQ #1 IN MIDEAST PROJECT GROWTH | +$15B IN A MONTH",
+    "heroMedia": "images/news/2026-07-23-iraq-projects-boom-despite-war/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رغم الحرب… شلون قفزت 15 ملياراً بشهر؟",
+      "arabicBody": "رغم تراجع إيرادات النفط، مشاريع العراق سجّلت أكبر زيادة شهرية بالمنطقة: 15 مليار دولار في شهر واحد، وارتفاع 3.4% — مؤشر MEED عبر شفق نيوز.",
+      "bigStat": {
+        "value": "$444B",
+        "label": "Iraq project pipeline",
+        "arabicLabel": "إجمالي قيمة خط مشاريع العراق المخطط والنشط بالدولار بعد أكبر زيادة شهرية بين أسواق الشرق الأوسط (مؤشر MEED · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجمالي",
+          "value": "$444 مليار"
+        },
+        {
+          "label": "بشهر",
+          "value": "+$15 مليار"
+        },
+        {
+          "label": "النمو",
+          "value": "+3.4%"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "MEED · Shafaq News"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "من هنا تجي الوظائف والإعمار",
+      "arabicBody": "من هنا تأتي الوظائف: طريق التنمية، ميناء الفاو الكبير، الإسكان، محطات الكهرباء. عجلة الإعمار تدور بينما الرواتب مضغوطة والنفط بأزمة.",
+      "bigStat": {
+        "value": "+$15B",
+        "label": "Added in one month",
+        "arabicLabel": "قيمة ما أُضيف إلى خط مشاريع العراق في شهر واحد، وهي أكبر زيادة بين أسواق الشرق الأوسط وتغذّي الوظائف وعقود الإعمار (مؤشر MEED · أخبار العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "بالمنطقة",
+          "value": "الأعلى"
+        },
+        {
+          "label": "المحرّك",
+          "value": "شغل وإعمار"
+        },
+        {
+          "label": "أبرزها",
+          "value": "التنمية·الفاو"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "MEED · Iraqi News"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "والمنطقة؟ تنمو للشهر الـ16 توالياً",
+      "arabicBody": "عقود المشاريع في الشرق الأوسط وشمال إفريقيا بلغت 20.5 مليار دولار في حزيران مقابل 17 ملياراً في أيار — والسوق الإقليمي ينمو للشهر السادس عشر توالياً.",
+      "bigStat": {
+        "value": "$20.5B",
+        "label": "MENA June contract awards",
+        "arabicLabel": "قيمة عقود المشاريع الموقّعة في الشرق الأوسط وشمال إفريقيا في حزيران مقابل 17 ملياراً في أيار (مؤشر MEED)"
+      },
+      "supportingStats": [
+        {
+          "label": "حزيران",
+          "value": "$20.5 مليار"
+        },
+        {
+          "label": "أيار",
+          "value": "$17 مليار"
+        },
+        {
+          "label": "النمو",
+          "value": "16 شهراً"
+        }
+      ],
+      "broll": "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-23-iraq-projects-boom-despite-war/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "MEED Projects Index"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MEED Projects",
+      "domain": "meed.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    }
+  ],
+  "arabicTicker": [
+    "مشاريع العراق تسجّل أكبر زيادة شهرية في قيمتها بين أسواق الشرق الأوسط: 15 مليار دولار في شهر واحد (مؤشر MEED · شفق نيوز)",
+    "إجمالي خط مشاريع العراق المخطط والنشط يرتفع إلى 444 مليار دولار بنمو 3.4% (مؤشر MEED · شفق نيوز)",
+    "هذه المشاريع هي مصدر الوظائف وعقود البناء بينما الرواتب مضغوطة (أخبار العراق)",
+    "أبرز المشاريع: طريق التنمية وميناء الفاو الكبير والإسكان ومحطات الكهرباء (أخبار العراق)",
+    "عقود المشاريع في الشرق الأوسط وشمال إفريقيا: 20.5 مليار دولار في حزيران مقابل 17 ملياراً في أيار (مؤشر MEED)",
+    "سوق المشاريع الإقليمي ينمو للشهر السادس عشر على التوالي (مؤشر MEED)",
+    "فهل يترجم هذا الزخم وظائف فعلية للعراقيين، أم يبقى أرقاماً على الورق؟"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 23 • 2026",
+  "arabicDateLabel": "23 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رواتب · وين راتبك؟",
+    "arabicHeadline": "راتبك تأخّر؟ المالية تقول: عطل تقني",
+    "englishSubhead": "JULY PAY LATE ACROSS MINISTRIES | STATE BLAMES 'TECH FAULT'",
+    "heroMedia": "images/news/2026-07-23-salaries-run-late/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "راتبك وين؟ تموز تأخّر بمعظم الوزارات",
+      "arabicBody": "راتب تموز تأخّر عن موظفي الدولة في معظم الوزارات، خلافاً للمعتاد بعد الـ20 من كل شهر، بحسب شبكة 964.",
+      "bigStat": {
+        "value": "تموز",
+        "label": "Pay delayed across ministries",
+        "arabicLabel": "شهر تموز الذي تأخّر فيه صرف الرواتب عبر معظم الوزارات خلافاً للمعتاد في مطلع العشرين من الشهر (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشهر",
+          "value": "تموز"
+        },
+        {
+          "label": "النطاق",
+          "value": "معظم الوزارات"
+        },
+        {
+          "label": "المعتاد",
+          "value": "بعد الـ20"
+        }
+      ],
+      "broll": "images/news/2026-07-23-salaries-run-late/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-23-salaries-run-late/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "964media · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "8 تريليون شهرياً… والمالية: السبب عطل تقني",
+      "arabicBody": "الدولة تحتاج نحو 8 تريليون دينار شهرياً للرواتب والمعاشات والحماية الاجتماعية، وتؤكد المالية أن السبب عطل تقني بالتحويل لا نقص سيولة (الأنباء العراقية · 964).",
+      "bigStat": {
+        "value": "8 تريليون",
+        "label": "IQD monthly payroll",
+        "arabicLabel": "قيمة ما تحتاجه الدولة شهرياً بالدينار للرواتب والمعاشات والحماية الاجتماعية (وكالة الأنباء العراقية · شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "شهرياً",
+          "value": "8 تريليون د"
+        },
+        {
+          "label": "السبب",
+          "value": "عطل تقني"
+        },
+        {
+          "label": "المالية",
+          "value": "مو سيولة"
+        }
+      ],
+      "broll": "images/news/2026-07-23-salaries-run-late/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-23-salaries-run-late/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "INA · 964media"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بلا موازنة 2026… الصرف على قاعدة 1/12",
+      "arabicBody": "الصرف يجري على قاعدة 1/12 الشهرية بموجب قانون الإدارة المالية المعدّل رقم 6 لسنة 2019، بلا موازنة 2026، والمالية تنفي التسييس (964 · كردستان24).",
+      "bigStat": {
+        "value": "1/12",
+        "label": "Monthly spending rule, no budget",
+        "arabicLabel": "قاعدة الصرف الشهرية بواحد من اثني عشر بموجب قانون الإدارة المالية المعدّل من دون إقرار موازنة 2026 (شبكة 964 · كردستان24)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموازنة",
+          "value": "لا 2026"
+        },
+        {
+          "label": "الصرف",
+          "value": "1/12 شهري"
+        },
+        {
+          "label": "المالية",
+          "value": "تنفي التسييس"
+        }
+      ],
+      "broll": "images/news/2026-07-23-salaries-run-late/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-23-salaries-run-late/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "964media · Kurdistan24"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "تأخّر صرف رواتب موظفي الدولة في العراق هذا الشهر عبر معظم الوزارات خلافاً للمعتاد (شبكة 964)",
+    "وزارة المالية: التأخير سببه أعطال تقنية في أنظمة التحويل الإلكتروني لا نقص في السيولة (شبكة 964)",
+    "الدولة تحتاج نحو 8 تريليون دينار شهرياً للرواتب والمعاشات والحماية الاجتماعية (وكالة الأنباء العراقية)",
+    "الصرف يجري وفق قاعدة 1/12 الشهرية بموجب قانون الإدارة المالية المعدّل رقم 6 لسنة 2019 (شبكة 964)",
+    "لا موازنة لعام 2026 حتى الآن، والإنفاق يسير على قاعدة الاثني عشرية (شبكة 964)",
+    "المالية تنفي تسييس تأخير صرف رواتب المتقاعدين وتؤكد أنه تقني بحت (كردستان24)",
+    "فهل تأخير تموز عطل تقني عابر، أم بداية أزمة رواتب؟"
+  ]
+}
