@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 24 • 2026",
+  "arabicDateLabel": "24 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "طاقة · كهرباء",
+    "arabicHeadline": "نفط مقابل غاز… العراق يبقي الكهرباء شغّالة",
+    "englishSubhead": "OIL-FOR-GAS SWAP WITH IRAN TO KEEP THE LIGHTS ON",
+    "heroMedia": "images/news/2026-07-24-iran-gas-oil-barter/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اتفاق يدفع الغاز بالنفط",
+      "arabicBody": "وقّع العراق وإيران في 11 تموز اتفاقاً يسمح لبغداد بدفع ثمن الغاز الإيراني المستورد عبر تحويلات نفطية، لتأمين الكهرباء وتفادي العقوبات الأميركية، بحسب معهد واشنطن.",
+      "bigStat": {
+        "value": "11 تموز",
+        "label": "Oil-for-gas deal signed",
+        "arabicLabel": "تاريخ توقيع اتفاق مبادلة الغاز الإيراني بتحويلات نفطية لتفادي العقوبات الأميركية (معهد واشنطن)"
+      },
+      "supportingStats": [
+        {
+          "label": "الطرفان",
+          "value": "بغداد·طهران"
+        },
+        {
+          "label": "الآلية",
+          "value": "نفط ↔ غاز"
+        },
+        {
+          "label": "الهدف",
+          "value": "تفادي العقوبات"
+        }
+      ],
+      "broll": "images/news/2026-07-24-iran-gas-oil-barter/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-24-iran-gas-oil-barter/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Washington Institute · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإمداد أقل من نصف الحاجة… والمحطات تحت الضغط",
+      "arabicBody": "منذ مطلع أيار تراوح الإمداد الإيراني بين 15 و20 مليون متر مكعب يومياً، أي أقل من نحو 50 مليوناً يحتاجها العراق لتشغيل محطاته الغازية، بحسب معهد واشنطن.",
+      "bigStat": {
+        "value": "50 م.م³",
+        "label": "Daily gas Iraq needs",
+        "arabicLabel": "حجم الغاز اليومي الذي يحتاجه العراق لتشغيل محطاته مقابل إمداد فعلي بين 15 و20 مليون متر مكعب (معهد واشنطن)"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلوب",
+          "value": "50 م.م³"
+        },
+        {
+          "label": "المورَّد",
+          "value": "15-20 م.م³"
+        },
+        {
+          "label": "منذ",
+          "value": "أيار"
+        }
+      ],
+      "broll": "images/news/2026-07-24-iran-gas-oil-barter/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-24-iran-gas-oil-barter/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Washington Institute · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بدائل: تراخيص وربط خليجي وسيمنس",
+      "arabicBody": "يتّجه العراق إلى بدائل: جولة تراخيص غازية سادسة، وربط الشبكة بالأردن ودول الخليج، والاستعانة بشركة سيمنس لرفع إنتاج التوربينات، بحسب معهد واشنطن.",
+      "bigStat": {
+        "value": "6",
+        "label": "Gas licensing round",
+        "arabicLabel": "الجولة السادسة لتراخيص حقول الغاز ضمن مساعي العراق لتنويع مصادر الطاقة وتقليل الاعتماد على إيران (معهد واشنطن)"
+      },
+      "supportingStats": [
+        {
+          "label": "تراخيص",
+          "value": "الجولة 6"
+        },
+        {
+          "label": "ربط",
+          "value": "الأردن·الخليج"
+        },
+        {
+          "label": "توربينات",
+          "value": "سيمنس"
+        }
+      ],
+      "broll": "images/news/2026-07-24-iran-gas-oil-barter/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-24-iran-gas-oil-barter/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Washington Institute · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Washington Institute",
+      "domain": "washingtoninstitute.org"
+    },
+    {
+      "name": "Oil & Gas 360",
+      "domain": "oilandgas360.com"
+    },
+    {
+      "name": "Middle East Online",
+      "domain": "middle-east-online.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق وإيران يوقّعان في 11 تموز اتفاق مبادلة الغاز المستورد بتحويلات نفطية (معهد واشنطن)",
+    "الهدف تأمين الكهرباء صيفاً وتفادي الوقوع تحت طائلة العقوبات الأميركية (معهد واشنطن)",
+    "الإمداد الإيراني يتراوح بين 15 و20 مليون متر مكعب يومياً منذ مطلع أيار (معهد واشنطن)",
+    "العراق يحتاج نحو 50 مليون متر مكعب يومياً لتشغيل محطاته الغازية (معهد واشنطن)",
+    "بغداد تطلق جولة تراخيص غازية سادسة وتغيّر نموذج عقود النفط (معهد واشنطن)",
+    "خطط لربط الشبكة الكهربائية بالأردن ودول الخليج والاستعانة بسيمنس لرفع إنتاج التوربينات (معهد واشنطن)",
+    "فهل ينجح العراق في الاستغناء عن الغاز الإيراني، أم يبقى رهيناً له صيفاً بعد صيف؟"
+  ]
+}

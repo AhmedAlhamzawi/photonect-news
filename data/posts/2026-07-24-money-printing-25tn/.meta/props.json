@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 24 • 2026",
+  "arabicDateLabel": "24 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "مال · دينار",
+    "arabicHeadline": "العراق طبع 25 تريليون دينار… دون إعلان المركزي",
+    "englishSubhead": "STATE PRINTED 25 TRILLION DINARS — CENTRAL BANK STAYED SILENT",
+    "heroMedia": "images/news/2026-07-24-money-printing-25tn/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طبع نقود لمواجهة شحّ السيولة",
+      "arabicBody": "قال وزير الخارجية فؤاد حسين إن الدولة لجأت إلى طبع 25 تريليون دينار لمواجهة شحّ حادّ في السيولة، مؤكداً أن البنك المركزي لم يعلن الخطوة، بحسب أخبار العراق.",
+      "bigStat": {
+        "value": "25 تريليون",
+        "label": "Dinars printed",
+        "arabicLabel": "حجم النقد الذي طُبع لمواجهة شحّ السيولة بحسب تصريح وزير الخارجية فؤاد حسين، دون إعلان من البنك المركزي (أخبار العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "فؤاد حسين"
+        },
+        {
+          "label": "طُبع",
+          "value": "25 تريليون"
+        },
+        {
+          "label": "المركزي",
+          "value": "لم يعلن"
+        }
+      ],
+      "broll": "images/news/2026-07-24-money-printing-25tn/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-24-money-printing-25tn/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Iraqi News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "القدرة النقدية ترتفع إلى 125 تريليوناً",
+      "arabicBody": "رفع الطبع القدرة النقدية الاسمية إلى 125 تريليون دينار من نحو 100 إلى 104 تريليونات، بينما يحتاج «اقتصاد الرواتب» وحده إلى نحو 9 تريليونات دينار شهرياً، بحسب الخبير محمود داغر.",
+      "bigStat": {
+        "value": "9 تريليون",
+        "label": "Monthly salary bill (IQD)",
+        "arabicLabel": "الكلفة الشهرية لاقتصاد الرواتب وحده بالدينار العراقي وفق الخبير المالي محمود داغر (أخبار العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "القدرة",
+          "value": "125 تريليون"
+        },
+        {
+          "label": "قبل",
+          "value": "100-104"
+        },
+        {
+          "label": "الرواتب/شهر",
+          "value": "9 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-07-24-money-printing-25tn/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-24-money-printing-25tn/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Iraqi News · Shafaq · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بلا موازنة 2026… واعتماد على القروض",
+      "arabicBody": "مع تعذّر إقرار موازنة 2026، يتجاوزها العراق نحو 2027 معتمداً على القروض وتدخلات المركزي لتأمين الرواتب، بحسب لجنة المالية النيابية وشفق نيوز.",
+      "bigStat": {
+        "value": "2026",
+        "label": "Budget bypassed",
+        "arabicLabel": "موازنة العراق الاتحادية لعام 2026 التي بات إقرارها متعذّراً مع التوجه نحو 2027 والاعتماد على القروض (لجنة المالية النيابية · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "موازنة 2026",
+          "value": "متعذّرة"
+        },
+        {
+          "label": "البديل",
+          "value": "قروض"
+        },
+        {
+          "label": "الأفق",
+          "value": "2027"
+        }
+      ],
+      "broll": "images/news/2026-07-24-money-printing-25tn/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-24-money-printing-25tn/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi News",
+      "domain": "iraqinews.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Hatha Alyoum",
+      "domain": "hathalyoum.net"
+    }
+  ],
+  "arabicTicker": [
+    "وزير الخارجية فؤاد حسين: الدولة لجأت إلى طبع 25 تريليون دينار لمواجهة شحّ السيولة (أخبار العراق)",
+    "حسين يؤكد أن البنك المركزي العراقي لم يعلن خطوة الطبع (أخبار العراق)",
+    "الطبع رفع القدرة النقدية الاسمية إلى 125 تريليون دينار من نحو 100 إلى 104 تريليونات (أخبار العراق)",
+    "الخبير محمود داغر: اقتصاد الرواتب وحده يحتاج نحو 9 تريليونات دينار شهرياً (أخبار العراق)",
+    "لجنة المالية النيابية: إقرار موازنة 2026 بات متعذّراً والتوجه نحو موازنة 2027 (شفق نيوز)",
+    "العراق يعتمد على القروض وتدخلات المركزي لتأمين رواتب الموظفين (شفق نيوز)",
+    "فهل يحمي طبع النقود رواتب الموظفين، أم يقضم قيمة الدينار في جيوبهم؟"
+  ]
+}

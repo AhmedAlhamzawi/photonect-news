@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 24 • 2026",
+  "arabicDateLabel": "24 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · محاسبة",
+    "arabicHeadline": "القضاء: أعِد الأموال المنهوبة… تُخفَّف عقوبتك",
+    "englishSubhead": "RETURN STOLEN FUNDS FOR A LIGHTER SENTENCE — JUDICIAL COUNCIL",
+    "heroMedia": "images/news/2026-07-24-graft-return-or-jail/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خارطة طريق لاسترداد الأموال",
+      "arabicBody": "أعلن مجلس القضاء الأعلى، بالاتفاق مع رئيس الوزراء علي الزيدي، إعداد خارطة طريق لاسترداد أموال الدولة مقابل تخفيف الإجراءات القانونية بحق من يعيدها طوعاً، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "$100M+",
+        "label": "Recovered so far",
+        "arabicLabel": "قيمة الأموال التي استُردت حتى الآن ضمن حملة صولة الفجر لمكافحة الفساد (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "مجلس القضاء"
+        },
+        {
+          "label": "الآلية",
+          "value": "إعادة طوعية"
+        },
+        {
+          "label": "مسترد",
+          "value": "$100 مليون+"
+        }
+      ],
+      "broll": "images/news/2026-07-24-graft-return-or-jail/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-24-graft-return-or-jail/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "The National · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحملة أوقفت 47 مسؤولاً بينهم نواب",
+      "arabicBody": "ضمن حملة صولة الفجر التي أطلقها الزيدي أواخر حزيران، أُوقف نحو 47 مسؤولاً بينهم نواب، فيما استُرد أكثر من 100 مليون دولار حتى الآن، بحسب ذا ناشيونال والجزيرة.",
+      "bigStat": {
+        "value": "47",
+        "label": "Officials held incl. lawmakers",
+        "arabicLabel": "عدد المسؤولين الموقوفين في الحملة بينهم نواب منذ انطلاقها أواخر حزيران (ذا ناشيونال · الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفون",
+          "value": "47"
+        },
+        {
+          "label": "منهم",
+          "value": "نواب"
+        },
+        {
+          "label": "الانطلاق",
+          "value": "28 حزيران"
+        }
+      ],
+      "broll": "images/news/2026-07-24-graft-return-or-jail/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-24-graft-return-or-jail/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Al Jazeera · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "150 مليار دولار خسائر منذ 2003",
+      "arabicBody": "تُقدَّر خسائر العراق من الفساد بنحو 150 مليار دولار منذ 2003 (تقدير الرئيس الأسبق برهم صالح)، وأبرز القضايا «سرقة القرن» بـ2.5 مليار دولار عام 2024، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "$150B",
+        "label": "Lost to graft since 2003",
+        "arabicLabel": "التقدير الإجمالي لخسائر العراق من الفساد منذ عام 2003 وفق الرئيس الأسبق برهم صالح (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "منذ 2003",
+          "value": "$150 مليار"
+        },
+        {
+          "label": "سرقة القرن",
+          "value": "$2.5 مليار"
+        },
+        {
+          "label": "العام",
+          "value": "2024"
+        }
+      ],
+      "broll": "images/news/2026-07-24-graft-return-or-jail/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-24-graft-return-or-jail/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "The National · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    },
+    {
+      "name": "Supreme Judicial Council",
+      "domain": "sjc.iq"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "مجلس القضاء الأعلى يعدّ خارطة طريق لاسترداد أموال الدولة مقابل تخفيف الإجراءات لمن يعيدها طوعاً (ذا ناشيونال)",
+    "الخطوة بالاتفاق مع رئيس الوزراء علي الزيدي وضمن تعديل قانون العفو لعام 2025 (ذا ناشيونال)",
+    "حملة صولة الفجر أوقفت نحو 47 مسؤولاً بينهم نواب منذ انطلاقها أواخر حزيران (ذا ناشيونال · الجزيرة)",
+    "استُرد أكثر من 100 مليون دولار حتى الآن ضمن الحملة (ذا ناشيونال)",
+    "تُقدَّر خسائر العراق من الفساد بنحو 150 مليار دولار منذ 2003 (تقدير برهم صالح)",
+    "أبرز القضايا «سرقة القرن» بقيمة 2.5 مليار دولار عام 2024 (ذا ناشيونال)",
+    "فهل يعيد هذا النهج المال إلى الخزينة، أم يفتح باباً للإفلات من العقاب؟"
+  ]
+}

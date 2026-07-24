@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 24 • 2026",
+  "arabicDateLabel": "24 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "gulf_regional",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "خليج · استثمار",
+    "arabicHeadline": "جيران العراق يوظّفون التريليونات… وبغداد بلا موازنة",
+    "englishSubhead": "GULF FUNDS DEPLOY TRILLIONS ABROAD AS IRAQ RUNS WITHOUT A BUDGET",
+    "heroMedia": "images/news/2026-07-24-gulf-swf-trillions/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صناديق الخليج بين الأكبر عالمياً",
+      "arabicBody": "صندوق الاستثمارات العامة السعودي يدير نحو 900 مليار دولار، والإمارات تعهّدت بـ1.4 تريليون دولار استثمارات في الولايات المتحدة، بحسب مكتب أبحاث مجلس العموم البريطاني.",
+      "bigStat": {
+        "value": "$900B",
+        "label": "Saudi PIF assets",
+        "arabicLabel": "قيمة أصول صندوق الاستثمارات العامة السعودي، أحد أكبر الصناديق السيادية في العالم (مكتب أبحاث مجلس العموم البريطاني)"
+      },
+      "supportingStats": [
+        {
+          "label": "PIF السعودي",
+          "value": "$900 مليار"
+        },
+        {
+          "label": "تعهّد الإمارات",
+          "value": "$1.4 تريليون"
+        },
+        {
+          "label": "الوجهة",
+          "value": "أميركا"
+        }
+      ],
+      "broll": "images/news/2026-07-24-gulf-swf-trillions/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-24-gulf-swf-trillions/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "UK Commons Library · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "توسّع من كوريا إلى الصين والهند",
+      "arabicBody": "مبادلة الإماراتية ضخّت 550 مليون دولار في كوريا وهونغ كونغ، وجهاز قطر للاستثمار نحو 500 مليون في الصين، وصناديق خليجية 1.7 مليار دولار في شركات هندية، بحسب موديرن دبلوماسي.",
+      "bigStat": {
+        "value": "$1.4T",
+        "label": "UAE US-investment pledge",
+        "arabicLabel": "قيمة التعهّد الاستثماري الإماراتي في الولايات المتحدة بعد خروجها من أوبك مطلع أيار (مكتب أبحاث مجلس العموم البريطاني)"
+      },
+      "supportingStats": [
+        {
+          "label": "مبادلة",
+          "value": "$550 مليون"
+        },
+        {
+          "label": "قطر",
+          "value": "$500 مليون"
+        },
+        {
+          "label": "الهند",
+          "value": "$1.7 مليار"
+        }
+      ],
+      "broll": "images/news/2026-07-24-gulf-swf-trillions/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-24-gulf-swf-trillions/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Modern Diplomacy · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "والعراق خارج سباق التريليونات",
+      "arabicBody": "في المقابل يخوض العراق أزمة مالية بلا موازنة 2026، بينما تعدّل أوبك+ الإنتاج بمقدار 188 ألف برميل يومياً في تموز، بحسب سول إيكونوميك ديلي.",
+      "bigStat": {
+        "value": "188k b/d",
+        "label": "OPEC+ July adjustment",
+        "arabicLabel": "حجم تعديل إنتاج أوبك+ في تموز بمشاركة العراق، في وقت يفتقر فيه إلى موازنة اتحادية لعام 2026 (سول إيكونوميك ديلي)"
+      },
+      "supportingStats": [
+        {
+          "label": "أوبك+",
+          "value": "188 ألف ب/ي"
+        },
+        {
+          "label": "العراق",
+          "value": "بلا موازنة"
+        },
+        {
+          "label": "العام",
+          "value": "2026"
+        }
+      ],
+      "broll": "images/news/2026-07-24-gulf-swf-trillions/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-24-gulf-swf-trillions/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Seoul Economic Daily · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UK Commons Library",
+      "domain": "commonslibrary.parliament.uk"
+    },
+    {
+      "name": "Modern Diplomacy",
+      "domain": "moderndiplomacy.eu"
+    },
+    {
+      "name": "Seoul Economic Daily",
+      "domain": "sedaily.com"
+    }
+  ],
+  "arabicTicker": [
+    "صندوق الاستثمارات العامة السعودي يدير نحو 900 مليار دولار من الأصول (مجلس العموم البريطاني)",
+    "الإمارات تعهّدت باستثمار 1.4 تريليون دولار في الولايات المتحدة بعد خروجها من أوبك مطلع أيار (مجلس العموم البريطاني)",
+    "مبادلة الإماراتية تستثمر 550 مليون دولار في كوريا الجنوبية وهونغ كونغ (موديرن دبلوماسي)",
+    "جهاز قطر للاستثمار يضخّ نحو 500 مليون دولار في الصين (موديرن دبلوماسي)",
+    "صناديق خليجية تستثمر 1.7 مليار دولار في شركات هندية (موديرن دبلوماسي)",
+    "أوبك+ تعدّل الإنتاج بمقدار 188 ألف برميل يومياً في تموز بمشاركة العراق (سول إيكونوميك ديلي)",
+    "فأين العراق من سباق التريليونات فيما يخوض أزمة مالية بلا موازنة 2026؟"
+  ]
+}

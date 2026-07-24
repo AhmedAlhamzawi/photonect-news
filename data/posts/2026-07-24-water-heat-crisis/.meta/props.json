@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 24 • 2026",
+  "arabicDateLabel": "24 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مناخ · مياه",
+    "arabicHeadline": "مخزون مياه العراق الأدنى منذ 80 عاماً",
+    "englishSubhead": "IRAQ'S WATER RESERVES HIT AN 80-YEAR LOW AS HEAT TOPS 50°C",
+    "heroMedia": "images/news/2026-07-24-water-heat-crisis/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المخزون ينزل من 18 إلى 10 مليارات م³",
+      "arabicBody": "تراجع مخزون العراق المائي إلى أدنى مستوى منذ 80 عاماً، من 18 إلى نحو 10 مليارات متر مكعب، مع موجات حرّ تتجاوز 50 درجة جنوباً، بحسب تشاتام هاوس وأسيا نيوز.",
+      "bigStat": {
+        "value": "10 مليار م³",
+        "label": "Water reserves (from 18)",
+        "arabicLabel": "مخزون العراق المائي الحالي بعد هبوطه من 18 مليار متر مكعب، وهو الأدنى منذ 80 عاماً (تشاتام هاوس · أسيا نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المخزون",
+          "value": "10 مليار م³"
+        },
+        {
+          "label": "كان",
+          "value": "18 مليار"
+        },
+        {
+          "label": "الحرارة",
+          "value": "+50°"
+        }
+      ],
+      "broll": "images/news/2026-07-24-water-heat-crisis/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-24-water-heat-crisis/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Chatham House · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أقل من 35% من حصة النهرين",
+      "arabicBody": "يحصل العراق على أقل من 35% من حصته النظرية من دجلة والفرات، فيما يسخن البلد أسرع من المعدل العالمي بسبع مرات منذ السبعينيات، بحسب تشاتام هاوس.",
+      "bigStat": {
+        "value": "<35%",
+        "label": "Of its river-water share",
+        "arabicLabel": "النسبة التي يحصل عليها العراق فعلياً من حصته النظرية في نهرَي دجلة والفرات (تشاتام هاوس)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحصة",
+          "value": "أقل من 35%"
+        },
+        {
+          "label": "التسخّن",
+          "value": "7 أضعاف"
+        },
+        {
+          "label": "منذ",
+          "value": "السبعينيات"
+        }
+      ],
+      "broll": "images/news/2026-07-24-water-heat-crisis/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-24-water-heat-crisis/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Chatham House · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "7 ملايين مهددون في أرزاقهم",
+      "arabicBody": "حذّرت 13 منظمة إغاثة من كارثة غير مسبوقة تهدد أرزاق أكثر من 7 ملايين عراقي، بينما قلّص أسوأ موسم جفاف تدفق دجلة والفرات 29% و73%، بحسب أسيا نيوز.",
+      "bigStat": {
+        "value": "7 مليون",
+        "label": "Livelihoods at risk",
+        "arabicLabel": "عدد العراقيين المهددة أرزاقهم بحسب تحذير 13 منظمة إغاثة من كارثة مائية غير مسبوقة (أسيا نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "مهددون",
+          "value": "7 مليون"
+        },
+        {
+          "label": "دجلة",
+          "value": "-29%"
+        },
+        {
+          "label": "الفرات",
+          "value": "-73%"
+        }
+      ],
+      "broll": "images/news/2026-07-24-water-heat-crisis/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-24-water-heat-crisis/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AsiaNews · Kurdistan24 · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Chatham House",
+      "domain": "chathamhouse.org"
+    },
+    {
+      "name": "AsiaNews",
+      "domain": "asianews.it"
+    },
+    {
+      "name": "Kurdistan24",
+      "domain": "kurdistan24.net"
+    }
+  ],
+  "arabicTicker": [
+    "مخزون العراق المائي يتراجع إلى أدنى مستوى منذ 80 عاماً، من 18 إلى نحو 10 مليارات متر مكعب (تشاتام هاوس)",
+    "موجات حرّ تتجاوز 50 درجة مئوية في جنوب العراق هذا الصيف (أسيا نيوز)",
+    "العراق يحصل على أقل من 35% من حصته النظرية في نهرَي دجلة والفرات (تشاتام هاوس)",
+    "العراق يسخن أسرع من المعدل العالمي بسبع مرات منذ سبعينيات القرن الماضي (تشاتام هاوس)",
+    "13 منظمة إغاثة تحذّر من كارثة غير مسبوقة تهدد أرزاق أكثر من 7 ملايين عراقي (أسيا نيوز)",
+    "أسوأ موسم جفاف قلّص تدفق دجلة والفرات بنسبة 29% و73% على التوالي (أسيا نيوز)",
+    "فهل تكفي الاتفاقات مع دول المنبع لإنقاذ ما تبقّى من مياه العراق؟"
+  ]
+}
