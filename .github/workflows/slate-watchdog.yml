@@ -1,0 +1,49 @@
+name: Slate watchdog
+
+# The Jul 15-19 lesson: the daily producer runs on Ahmed's Mac and silently
+# missed FIVE days (during the biggest news week of the year). This watchdog
+# runs from the cloud and screams if a day has no slate by late afternoon.
+# It opens a GitHub issue — GitHub emails the owner automatically — so a dark
+# day can never again pass unnoticed.
+# Security note: no untrusted event input is interpolated anywhere in run:
+# steps; only built-in github.token / GITHUB_REPOSITORY are used.
+
+on:
+  schedule:
+    - cron: '45 14 * * *'   # 17:45 Asia/Baghdad — slate should exist by ~16:00
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check today's slate exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TODAY_BAGHDAD=$(TZ=Asia/Baghdad date +%Y-%m-%d)
+          if [ -f "DELIVERY_${TODAY_BAGHDAD}.md" ]; then
+            echo "✓ DELIVERY_${TODAY_BAGHDAD}.md exists — machine is alive."
+            exit 0
+          fi
+          if ls "data/posts/" | grep -q "^${TODAY_BAGHDAD}-"; then
+            echo "⚠ slate folders exist but no DELIVERY yet — run may still be in flight. Not alarming."
+            exit 0
+          fi
+          echo "✗ NO slate for ${TODAY_BAGHDAD} — the daily producer did not run."
+          EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "in:title DARK DAY ${TODAY_BAGHDAD}" --json number --jq 'length')
+          if [ "$EXISTING" = "0" ]; then
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title "🚨 DARK DAY: no Photonect slate for ${TODAY_BAGHDAD}" \
+              --body "The daily producer (photonect-news-daily on the Mac) did not produce a slate today. Nothing will post tonight unless someone acts. Open the Claude app and run the daily task, or produce manually. — slate-watchdog"
+            echo "issue created — GitHub will email the owner."
+          else
+            echo "issue already open."
+          fi
