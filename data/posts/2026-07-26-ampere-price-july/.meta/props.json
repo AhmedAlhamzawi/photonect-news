@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 26 • 2026",
+  "arabicDateLabel": "26 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · مولدات",
+    "arabicHeadline": "سعر الأمبير في تموز 10 آلاف… والليلي ملغى",
+    "englishSubhead": "BAGHDAD SETS JULY AMPERE RATE AT 10,000 IQD, SCRAPS NIGHT-ONLY SERVICE",
+    "heroMedia": "images/news/2026-07-26-ampere-price-july/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "10 آلاف دينار للأمبير الذهبي",
+      "arabicBody": "حدّدت محافظة بغداد تسعيرة تموز عند 10,000 دينار للأمبير بالتشغيل الذهبي، و5,000 في مناطق الجباية، وألغت التشغيل الليلي بالكامل.",
+      "bigStat": {
+        "value": "10,000 د.ع",
+        "label": "July ampere rate",
+        "arabicLabel": "تسعيرة الأمبير الواحد بالتشغيل الذهبي لشهر تموز 2026 التي حدّدتها محافظة بغداد (محافظة بغداد)"
+      },
+      "supportingStats": [
+        {
+          "label": "ذهبي",
+          "value": "10,000 د.ع"
+        },
+        {
+          "label": "الجباية",
+          "value": "5,000 د.ع"
+        },
+        {
+          "label": "الليلي",
+          "value": "ملغى"
+        }
+      ],
+      "broll": "images/news/2026-07-26-ampere-price-july/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-26-ampere-price-july/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Baghdad Governorate · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "وقود مجاني و20 ساعة تجهيز",
+      "arabicBody": "وافق مجلس الوزراء على تجهيز أصحاب المولدات بزيت غاز مجاني، 45 لتراً لكل كيلوفولت أمبير في تموز وآب، مقابل 20 ساعة تجهيز يومياً كحد أدنى.",
+      "bigStat": {
+        "value": "20 ساعة",
+        "label": "Minimum daily supply",
+        "arabicLabel": "الحد الأدنى لساعات تجهيز المواطنين بالطاقة من المولدات الأهلية يومياً وفق قرار مجلس الوزراء (مجلس الوزراء)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوقود",
+          "value": "45 لتراً/kVA"
+        },
+        {
+          "label": "المدة",
+          "value": "تموز وآب"
+        },
+        {
+          "label": "التجهيز",
+          "value": "20 ساعة"
+        }
+      ],
+      "broll": "images/news/2026-07-26-ampere-price-july/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-26-ampere-price-july/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Council of Ministers · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "غرامة 5 ملايين للمخالفين",
+      "arabicBody": "حذّر مجلس محافظة بغداد من غرامات تصل إلى 5 ملايين دينار بحق أصحاب المولدات المخالفين للتسعيرة، مع إلزامهم بلوحات أسعار ووصولات رسمية.",
+      "bigStat": {
+        "value": "5 ملايين د.ع",
+        "label": "Max fine for overcharging",
+        "arabicLabel": "أقصى غرامة أعلنها مجلس محافظة بغداد بحق أصحاب المولدات المخالفين للتسعيرة الرسمية (مجلس محافظة بغداد)"
+      },
+      "supportingStats": [
+        {
+          "label": "الغرامة",
+          "value": "5 ملايين د.ع"
+        },
+        {
+          "label": "إلزام",
+          "value": "لوحة أسعار"
+        },
+        {
+          "label": "إلزام",
+          "value": "وصل رسمي"
+        }
+      ],
+      "broll": "images/news/2026-07-26-ampere-price-july/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-26-ampere-price-july/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Baghdad Provincial Council · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Baghdad Governorate",
+      "domain": "baghdad.gov.iq"
+    },
+    {
+      "name": "Council of Ministers",
+      "domain": "pmo.iq"
+    },
+    {
+      "name": "Baghdad Provincial Council",
+      "domain": "baghdad.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "محافظة بغداد تحدد تسعيرة تموز عند 10,000 دينار للأمبير بالتشغيل الذهبي (محافظة بغداد)",
+    "5,000 دينار للأمبير في مناطق الجباية وإلغاء التشغيل الليلي بالكامل (محافظة بغداد)",
+    "مجلس الوزراء: زيت غاز مجاني لأصحاب المولدات بواقع 45 لتراً لكل كيلوفولت أمبير في تموز وآب (مجلس الوزراء)",
+    "القرار يشترط ألا تقل ساعات التجهيز عن 20 ساعة يومياً (مجلس الوزراء)",
+    "مجلس محافظة بغداد: غرامات تصل إلى 5 ملايين دينار بحق المخالفين للتسعيرة (مجلس محافظة بغداد)",
+    "شكد تدفع للأمبير هذا الشهر؟"
+  ]
+}

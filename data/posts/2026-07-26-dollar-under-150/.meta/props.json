@@ -1,0 +1,128 @@
+{
+  "dateLabel": "JUL 26 • 2026",
+  "arabicDateLabel": "26 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار · صرف",
+    "arabicHeadline": "سعر الدولار اليوم تحت 150 ألفاً",
+    "englishSubhead": "DOLLAR SLIDES BELOW 150,000 IQD PER $100 IN BAGHDAD",
+    "heroMedia": "images/news/2026-07-26-dollar-under-150/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "149,650 ديناراً لكل 100 دولار",
+      "arabicBody": "فتح الدولار تداولات الأحد في بورصتي الكفاح والحارثية على 149,650 ديناراً لكل 100 دولار، نزولاً من 150,500 في الجلسة السابقة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "149,650",
+        "label": "IQD per $100 · Baghdad",
+        "arabicLabel": "سعر 100 دولار في بورصتي الكفاح والحارثية عند افتتاح تداولات الأحد 26 تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتتاح",
+          "value": "149,650"
+        },
+        {
+          "label": "الجلسة السابقة",
+          "value": "150,500"
+        },
+        {
+          "label": "السوق",
+          "value": "الكفاح"
+        }
+      ],
+      "broll": "images/news/2026-07-26-dollar-under-150/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-26-dollar-under-150/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أربيل 150,150 وصيرفة بغداد 150,000",
+      "arabicBody": "في أربيل بلغ البيع 150,150 ديناراً والشراء 150,050، وفي محال الصيرفة ببغداد 150,000 بيعاً و149,000 شراءً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "150,150",
+        "label": "Erbil selling rate",
+        "arabicLabel": "سعر بيع 100 دولار في أسواق أربيل يوم 26 تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "150,150"
+        },
+        {
+          "label": "صيرفة بيع",
+          "value": "150,000"
+        },
+        {
+          "label": "صيرفة شراء",
+          "value": "149,000"
+        }
+      ],
+      "broll": "images/news/2026-07-26-dollar-under-150/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-26-dollar-under-150/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفجوة مع السعر الرسمي تضيق",
+      "arabicBody": "السعر الرسمي للبنك المركزي 1,320 ديناراً للدولار، فيما كان الدولار عند 153,750 لكل 100 دولار في 11 تموز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "1,320",
+        "label": "Official CBI rate per $1",
+        "arabicLabel": "سعر الصرف الرسمي الذي يبيع به البنك المركزي العراقي الدولار للمصارف والتجار (البنك المركزي العراقي)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "1,320"
+        },
+        {
+          "label": "11 تموز",
+          "value": "153,750"
+        },
+        {
+          "label": "اليوم",
+          "value": "149,650"
+        }
+      ],
+      "broll": "images/news/2026-07-26-dollar-under-150/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-26-dollar-under-150/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Central Bank of Iraq",
+      "domain": "cbi.iq"
+    }
+  ],
+  "arabicTicker": [
+    "الدولار يفتح تداولات الأحد على 149,650 ديناراً لكل 100 دولار في الكفاح والحارثية (شفق نيوز)",
+    "نزولاً من 150,500 دينار في الجلسة السابقة (شفق نيوز)",
+    "أربيل: 150,150 ديناراً بيعاً و150,050 شراءً لكل 100 دولار (شفق نيوز)",
+    "محال الصيرفة ببغداد: 150,000 بيعاً و149,000 شراءً (شفق نيوز)",
+    "السعر الرسمي للبنك المركزي 1,320 ديناراً للدولار الواحد (البنك المركزي العراقي)",
+    "بيش شريت الدولار اليوم؟"
+  ]
+}

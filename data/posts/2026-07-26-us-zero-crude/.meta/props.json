@@ -1,0 +1,128 @@
+{
+  "dateLabel": "JUL 26 • 2026",
+  "arabicDateLabel": "26 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "world_energy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط · تصدير",
+    "arabicHeadline": "أمريكا لم تستورد نفطاً عراقياً منذ 4 أسابيع",
+    "englishSubhead": "US IMPORTS ZERO IRAQI CRUDE FOR A FOURTH STRAIGHT WEEK — EIA",
+    "heroMedia": "images/news/2026-07-26-us-zero-crude/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "صفر برميل إلى الولايات المتحدة",
+      "arabicBody": "لم تستورد الولايات المتحدة أي نفط خام عراقي في الأسبوع المنتهي في 17 تموز، للأسبوع الرابع على التوالي، بحسب إدارة معلومات الطاقة الأمريكية.",
+      "bigStat": {
+        "value": "0 bpd",
+        "label": "Iraqi crude to the US",
+        "arabicLabel": "معدل استيراد الولايات المتحدة من النفط الخام العراقي في الأسبوع المنتهي في 17 تموز 2026 (إدارة معلومات الطاقة الأمريكية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسبوع",
+          "value": "المنتهي 17 تموز"
+        },
+        {
+          "label": "المعدل",
+          "value": "0 برميل"
+        },
+        {
+          "label": "على التوالي",
+          "value": "4 أسابيع"
+        }
+      ],
+      "broll": "images/news/2026-07-26-us-zero-crude/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-26-us-zero-crude/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "EIA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كان 71 ألف برميل يومياً",
+      "arabicBody": "بلغ المعدل 71,000 برميل يومياً في الأسبوع المنتهي في 19 حزيران قبل أن يتوقف تماماً على مدى الأسابيع الأربعة التالية، بحسب الإدارة.",
+      "bigStat": {
+        "value": "71,000 bpd",
+        "label": "Rate before the halt",
+        "arabicLabel": "معدل استيراد الولايات المتحدة من الخام العراقي في الأسبوع المنتهي في 19 حزيران 2026 قبل التوقف (إدارة معلومات الطاقة الأمريكية)"
+      },
+      "supportingStats": [
+        {
+          "label": "19 حزيران",
+          "value": "71,000 ب/ي"
+        },
+        {
+          "label": "17 تموز",
+          "value": "0 ب/ي"
+        },
+        {
+          "label": "الحالة",
+          "value": "توقف تام"
+        }
+      ],
+      "broll": "images/news/2026-07-26-us-zero-crude/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-26-us-zero-crude/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "EIA · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كندا تتصدّر موردي الخام لأمريكا",
+      "arabicBody": "تصدّرت كندا موردي الخام للولايات المتحدة بـ3.635 مليون برميل يومياً، تلتها فنزويلا بـ688,000 والمكسيك بـ480,000، فيما سجّلت السعودية ونيجيريا صفراً، بحسب الإدارة.",
+      "bigStat": {
+        "value": "3.635M bpd",
+        "label": "Canada — top US supplier",
+        "arabicLabel": "معدل توريد كندا من النفط الخام إلى الولايات المتحدة في الأسبوع المنتهي في 17 تموز 2026 (إدارة معلومات الطاقة الأمريكية)"
+      },
+      "supportingStats": [
+        {
+          "label": "كندا",
+          "value": "3.635 مليون"
+        },
+        {
+          "label": "فنزويلا",
+          "value": "688,000"
+        },
+        {
+          "label": "المكسيك",
+          "value": "480,000"
+        }
+      ],
+      "broll": "images/news/2026-07-26-us-zero-crude/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-26-us-zero-crude/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "EIA · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "US Energy Information Administration",
+      "domain": "eia.gov"
+    }
+  ],
+  "arabicTicker": [
+    "الولايات المتحدة لم تستورد أي نفط خام عراقي في الأسبوع المنتهي في 17 تموز (إدارة معلومات الطاقة الأمريكية)",
+    "الأسبوع الرابع على التوالي عند صفر برميل (إدارة معلومات الطاقة الأمريكية)",
+    "المعدل كان 71,000 برميل يومياً في الأسبوع المنتهي في 19 حزيران (إدارة معلومات الطاقة الأمريكية)",
+    "كندا تتصدر الموردين بـ3.635 مليون برميل يومياً تلتها فنزويلا بـ688,000 (إدارة معلومات الطاقة الأمريكية)",
+    "السعودية ونيجيريا سجّلتا صفراً أيضاً في الأسبوع نفسه (إدارة معلومات الطاقة الأمريكية)",
+    "شكد سعر لتر البنزين بمحطتكم اليوم؟"
+  ]
+}

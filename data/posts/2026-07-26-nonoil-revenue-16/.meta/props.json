@@ -1,0 +1,128 @@
+{
+  "dateLabel": "JUL 26 • 2026",
+  "arabicDateLabel": "26 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "إيرادات · ضرائب",
+    "arabicHeadline": "16% من دخل الدولة… مو من النفط",
+    "englishSubhead": "NON-OIL REVENUE HITS 16% OF IRAQ'S STATE INCOME — HIGHEST IN YEARS",
+    "heroMedia": "images/news/2026-07-26-nonoil-revenue-16/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أعلى نسبة غير نفطية منذ سنوات",
+      "arabicBody": "بلغت الإيرادات غير النفطية 16% من إجمالي دخل الدولة خلال أيار وحزيران، وهي الأعلى منذ سنوات، بحسب مرصد صدى العراق نقلاً عن شفق نيوز.",
+      "bigStat": {
+        "value": "16%",
+        "label": "Non-oil share of state income",
+        "arabicLabel": "حصة الإيرادات غير النفطية من إجمالي إيرادات الدولة خلال أيار وحزيران 2026 (مرصد صدى العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحصة",
+          "value": "16%"
+        },
+        {
+          "label": "المدة",
+          "value": "أيار وحزيران"
+        },
+        {
+          "label": "المصدر",
+          "value": "مرصد صدى العراق"
+        }
+      ],
+      "broll": "images/news/2026-07-26-nonoil-revenue-16/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-26-nonoil-revenue-16/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Echo Iraq Observatory · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كانت أقل من 5% قبل سنوات",
+      "arabicBody": "كانت الإيرادات غير النفطية أقل من 5% من دخل الدولة، ثم ارتفعت إلى نحو 10% في عهدي الكاظمي والسوداني، بحسب المرصد.",
+      "bigStat": {
+        "value": "5% → 16%",
+        "label": "The shift in non-oil share",
+        "arabicLabel": "تطور حصة الإيرادات غير النفطية من أقل من 5% تاريخياً إلى 16% في أيار وحزيران 2026 (مرصد صدى العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخياً",
+          "value": "أقل من 5%"
+        },
+        {
+          "label": "الكاظمي",
+          "value": "~10%"
+        },
+        {
+          "label": "اليوم",
+          "value": "16%"
+        }
+      ],
+      "broll": "images/news/2026-07-26-nonoil-revenue-16/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-26-nonoil-revenue-16/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Echo Iraq Observatory · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مصدرها ضرائب السلع ورسوم الخدمات",
+      "arabicBody": "تأتي هذه الإيرادات من ضرائب السلع ورسوم الإنتاج ورسوم الخدمات وضرائب الدخل والثروة، فيما شكّلت تحويلات إقليم كردستان نحو 5.5% منها، بحسب المرصد.",
+      "bigStat": {
+        "value": "5.5%",
+        "label": "Kurdistan share of non-oil",
+        "arabicLabel": "حصة الإيرادات المحوّلة من إقليم كردستان من إجمالي الإيرادات غير النفطية (مرصد صدى العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "كردستان",
+          "value": "5.5%"
+        },
+        {
+          "label": "المصدر",
+          "value": "ضرائب السلع"
+        },
+        {
+          "label": "وأيضاً",
+          "value": "رسوم الخدمات"
+        }
+      ],
+      "broll": "images/news/2026-07-26-nonoil-revenue-16/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-26-nonoil-revenue-16/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Echo Iraq Observatory · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Echo Iraq Observatory",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "الإيرادات غير النفطية تبلغ 16% من إجمالي دخل الدولة خلال أيار وحزيران (مرصد صدى العراق)",
+    "أعلى مساهمة لمصادر خارج قطاع النفط منذ سنوات (مرصد صدى العراق)",
+    "كانت أقل من 5% تاريخياً قبل أن ترتفع إلى نحو 10% في عهدي الكاظمي والسوداني (مرصد صدى العراق)",
+    "مصادرها: ضرائب السلع ورسوم الإنتاج ورسوم الخدمات وضرائب الدخل والثروة (مرصد صدى العراق)",
+    "تحويلات إقليم كردستان شكّلت نحو 5.5% من الإيرادات غير النفطية (مرصد صدى العراق)",
+    "شنو الشي اللي زاد سعره عليك هالسنة؟"
+  ]
+}

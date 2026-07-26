@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 26 • 2026",
+  "arabicDateLabel": "26 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · رقابة مالية",
+    "arabicHeadline": "100 تريليون دينار سُلف لم تُسوَّ منذ 2004",
+    "englishSubhead": "AUDIT BOARD TRACKS 100TN IQD IN UNSETTLED STATE LOANS",
+    "heroMedia": "images/news/2026-07-26-audit-100tn-loans/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ديوان الرقابة يتتبّع السُلف منذ 2004",
+      "arabicBody": "يتتبّع ديوان الرقابة المالية الاتحادي نحو 100 تريليون دينار سُلفاً مُنحت لمسؤولين ووزارات وجهات عامة ولم تُسوَّ منذ 2004، بحسب AGBI.",
+      "bigStat": {
+        "value": "100T IQD",
+        "label": "Unsettled state loans",
+        "arabicLabel": "إجمالي السُلف غير المُسوّاة التي يتتبّعها ديوان الرقابة المالية الاتحادي منذ عام 2004 (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجمالي",
+          "value": "100 تريليون د.ع"
+        },
+        {
+          "label": "القيمة",
+          "value": "77 مليار دولار"
+        },
+        {
+          "label": "المدة",
+          "value": "منذ 2004"
+        }
+      ],
+      "broll": "images/news/2026-07-26-audit-100tn-loans/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-26-audit-100tn-loans/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "AGBI · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "آلاف القضايا أُحيلت إلى القضاء",
+      "arabicBody": "قال رئيس الديوان عمار المشهداني إن قيمة السُلف تعادل نحو 77 مليار دولار، وإن الديوان أحال آلاف القضايا إلى القضاء، بحسب AGBI.",
+      "bigStat": {
+        "value": "$77B",
+        "label": "Value of untraced loans",
+        "arabicLabel": "القيمة الدولارية التقريبية للسُلف غير المُسوّاة وفق رئيس ديوان الرقابة المالية عمار المشهداني (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "رئيس الديوان",
+          "value": "عمار المشهداني"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "وزارات ومسؤولون"
+        },
+        {
+          "label": "الإحالات",
+          "value": "آلاف القضايا"
+        }
+      ],
+      "broll": "images/news/2026-07-26-audit-100tn-loans/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-26-audit-100tn-loans/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "AGBI · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الملف ضمن حملة صولة الفجر",
+      "arabicBody": "يأتي الكشف ضمن حملة مكافحة الفساد التي أطلقها رئيس الوزراء علي الزيدي في 28 حزيران، والعراق في المرتبة 136 من 182 بمؤشر الشفافية الدولية.",
+      "bigStat": {
+        "value": "136 / 182",
+        "label": "Transparency Intl rank",
+        "arabicLabel": "ترتيب العراق في مؤشر مدركات الفساد لمنظمة الشفافية الدولية للعام الماضي (AGBI)"
+      },
+      "supportingStats": [
+        {
+          "label": "انطلاق الحملة",
+          "value": "28 حزيران"
+        },
+        {
+          "label": "المؤشر",
+          "value": "136 / 182"
+        },
+        {
+          "label": "رئيس الوزراء",
+          "value": "علي الزيدي"
+        }
+      ],
+      "broll": "images/news/2026-07-26-audit-100tn-loans/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-26-audit-100tn-loans/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "AGBI · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    },
+    {
+      "name": "Federal Board of Supreme Audit",
+      "domain": "fbsa.gov.iq"
+    },
+    {
+      "name": "Transparency International",
+      "domain": "transparency.org"
+    }
+  ],
+  "arabicTicker": [
+    "ديوان الرقابة المالية الاتحادي يتتبّع نحو 100 تريليون دينار سُلفاً لم تُسوَّ منذ 2004 (AGBI)",
+    "القيمة تعادل نحو 77 مليار دولار مُنحت لمسؤولين ووزارات وجهات عامة (AGBI)",
+    "رئيس الديوان عمار المشهداني: أحلنا آلاف القضايا إلى القضاء (AGBI)",
+    "الكشف يأتي ضمن حملة مكافحة الفساد التي أطلقها رئيس الوزراء علي الزيدي في 28 حزيران (AGBI)",
+    "العراق في المرتبة 136 من 182 دولة بمؤشر مدركات الفساد للعام الماضي (منظمة الشفافية الدولية)",
+    "شنو الخدمة الناقصة بمنطقتك؟"
+  ]
+}
