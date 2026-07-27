@@ -1,0 +1,128 @@
+{
+  "dateLabel": "JUL 27 • 2026",
+  "arabicDateLabel": "27 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · مصارف",
+    "arabicHeadline": "243 معاملة قرض بورق مزوّر من 12 مصرفاً",
+    "englishSubhead": "FORGERY NETWORK PUSHED 243 LOAN FILES THROUGH 12 STATE BANKS",
+    "heroMedia": "images/news/2026-07-27-bank-forgery-network/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "31 موقوفاً في قضايا فساد أسبوعية",
+      "arabicBody": "أوقفت السلطات العراقية 31 مسؤولاً وموظفاً ومقاولاً ومتهماً في قضايا فساد بين 20 و26 تموز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "31",
+        "label": "Detained in one week",
+        "arabicLabel": "عدد الموقوفين في قضايا الفساد الأسبوعية بين 20 و26 تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الديوانية",
+          "value": "17"
+        },
+        {
+          "label": "صلاح الدين",
+          "value": "11"
+        },
+        {
+          "label": "كركوك",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-07-27-bank-forgery-network/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-27-bank-forgery-network/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "243 معاملة قرض بكفالات مزوّرة",
+      "arabicBody": "وثّق التحقيق 243 معاملة قرض بكفالات مزوّرة قُدّمت إلى 12 مصرفاً حكومياً، وأكثر من 1,000 مستمسك مزوّر، بحسب هيئة النزاهة الاتحادية.",
+      "bigStat": {
+        "value": "243",
+        "label": "Loan files on forged guarantees",
+        "arabicLabel": "عدد معاملات القروض المدعومة بكفالات مزوّرة التي وثّقها التحقيق في شبكة تزوير بالديوانية (هيئة النزاهة الاتحادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "المصارف",
+          "value": "12 مصرفاً"
+        },
+        {
+          "label": "المستمسكات",
+          "value": "+1,000"
+        },
+        {
+          "label": "المتهمون",
+          "value": "13"
+        }
+      ],
+      "broll": "images/news/2026-07-27-bank-forgery-network/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-27-bank-forgery-network/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Integrity Commission · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "41 مليار دينار و45 كيلو ذهب",
+      "arabicBody": "استُردّت 41,143,847,719 ديناراً و400,000 دولار و45 كيلوغراماً من الذهب، ضمن حملة صولة الفجر، بحسب هيئة النزاهة الاتحادية.",
+      "bigStat": {
+        "value": "41.1B IQD",
+        "label": "Recovered in these files",
+        "arabicLabel": "قيمة الأموال المستردّة في قضايا الأسبوع، أي نحو 31.41 مليون دولار (هيئة النزاهة الاتحادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدولار",
+          "value": "$31.41 مليون"
+        },
+        {
+          "label": "وأيضاً",
+          "value": "$400,000"
+        },
+        {
+          "label": "ذهب",
+          "value": "45 كغم"
+        }
+      ],
+      "broll": "images/news/2026-07-27-bank-forgery-network/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-27-bank-forgery-network/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Integrity Commission · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Federal Integrity Commission",
+      "domain": "nazaha.iq"
+    }
+  ],
+  "arabicTicker": [
+    "السلطات العراقية توقف 31 مسؤولاً وموظفاً ومقاولاً ومتهماً في قضايا فساد بين 20 و26 تموز (شفق نيوز)",
+    "التوزيع: الديوانية 17 موقوفاً، صلاح الدين 11، كركوك 3، والحصيلة خلال أسبوعين 58 موقوفاً (شفق نيوز)",
+    "أكبر القضايا شبكة تزوير في الديوانية ضمّت 13 متهماً (هيئة النزاهة الاتحادية)",
+    "التحقيق وثّق 243 معاملة قرض بكفالات مزوّرة قُدّمت إلى 12 مصرفاً حكومياً وأكثر من 1,000 مستمسك مزوّر (هيئة النزاهة الاتحادية)",
+    "المستردّ: 41,143,847,719 ديناراً و400,000 دولار و45 كيلوغراماً من الذهب (هيئة النزاهة الاتحادية)",
+    "قدمت يوم على قرض من مصرف حكومي؟"
+  ]
+}

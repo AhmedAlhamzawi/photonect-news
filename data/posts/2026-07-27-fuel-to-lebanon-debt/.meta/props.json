@@ -1,0 +1,124 @@
+{
+  "dateLabel": "JUL 27 • 2026",
+  "arabicDateLabel": "27 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "طاقة · تجارة",
+    "arabicHeadline": "2.7 مليار دولار على لبنان… وقود عراقي",
+    "englishSubhead": "IRAQ SET TO RENEW LEBANON FUEL DEAL AS $2.7BN GOES UNPAID",
+    "heroMedia": "images/news/2026-07-27-fuel-to-lebanon-debt/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تجديد اتفاق زيت الوقود مع لبنان",
+      "arabicBody": "أفادت شفق نيوز في 25 تموز بأن العراق ولبنان يتجهان لتجديد اتفاق زيت الوقود، بعد رفع الكميات السنوية من 1.5 إلى 2 مليون طن.",
+      "bigStat": {
+        "value": "2 مليون طن",
+        "label": "Annual fuel oil to Lebanon",
+        "arabicLabel": "الكمية السنوية من زيت الوقود التي يزوّد بها العراق لبنان بعد رفعها من 1.5 مليون طن (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "سابقاً",
+          "value": "1.5 مليون طن"
+        },
+        {
+          "label": "حالياً",
+          "value": "2 مليون طن"
+        },
+        {
+          "label": "منذ",
+          "value": "2021"
+        }
+      ],
+      "broll": "images/news/2026-07-27-fuel-to-lebanon-debt/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-27-fuel-to-lebanon-debt/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مستحقات العراق 2.7 مليار دولار",
+      "arabicBody": "مستحقات العراق على لبنان نحو 2.7 مليار دولار، وقال وزير المالية اللبناني ياسين جابر إنها جاهزة بانتظار تفعيل منصة دفع عراقية (شفق نيوز).",
+      "bigStat": {
+        "value": "$2.7B",
+        "label": "Owed to Iraq for fuel",
+        "arabicLabel": "قيمة مستحقات العراق على لبنان مقابل توريدات زيت الوقود (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المستحقات",
+          "value": "$2.7 مليار"
+        },
+        {
+          "label": "الشرط",
+          "value": "منصة دفع"
+        },
+        {
+          "label": "مالية لبنان",
+          "value": "ياسين جابر"
+        }
+      ],
+      "broll": "images/news/2026-07-27-fuel-to-lebanon-debt/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-27-fuel-to-lebanon-debt/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Shafaq News · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "لبنان منفذاً لتصدير النفط العراقي",
+      "arabicBody": "بحث رئيس الوزراء اللبناني نواف سلام في بغداد مع علي الزيدي إمكانية استخدام لبنان منفذاً إضافياً لتصدير النفط العراقي إلى المتوسط، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2021",
+        "label": "Fuel supplies began",
+        "arabicLabel": "العام الذي بدأ فيه العراق تزويد لبنان بزيت الوقود ضمن اتفاق جُدّد عدة مرات (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "لبنان",
+          "value": "نواف سلام"
+        },
+        {
+          "label": "العراق",
+          "value": "علي الزيدي"
+        },
+        {
+          "label": "المستشار المالي",
+          "value": "مظهر محمد صالح"
+        }
+      ],
+      "broll": "images/news/2026-07-27-fuel-to-lebanon-debt/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-27-fuel-to-lebanon-debt/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: العراق ولبنان يتجهان إلى تجديد اتفاق تزويد لبنان بزيت الوقود",
+    "الكميات السنوية رُفعت من 1.5 مليون طن إلى 2 مليون طن (شفق نيوز)",
+    "مستحقات العراق على لبنان مقابل التوريدات نحو 2.7 مليار دولار (شفق نيوز)",
+    "التزويد بدأ عام 2021 وجُدّد الاتفاق عدة مرات (شفق نيوز)",
+    "نواف سلام بحث في بغداد مع علي الزيدي استخدام لبنان منفذاً إضافياً لتصدير النفط العراقي إلى المتوسط (شفق نيوز)",
+    "شنو أول شي تصلحه بـ2.7 مليار دولار؟"
+  ]
+}

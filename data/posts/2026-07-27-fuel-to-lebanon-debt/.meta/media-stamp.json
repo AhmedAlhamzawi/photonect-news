@@ -1,0 +1,7 @@
+{
+  "hunted_at": "2026-07-27T11:00:00+00:00",
+  "manual": true,
+  "source": "pexels + reused-kie (KIE 402 on all 20)",
+  "date": "2026-07-27",
+  "note": "KIE Nano Banana Pro returned HTTP 402 (credits insufficient) on ALL 20 submissions, so the ENTIRE slate fell back to Pexels (tier-2). Every image Read-verified by hand: 12 of the first 20 were rejected (revolver in a detective-desk scene, craft-stamp flatlay, handcuffs, readable 'BANCO DE LA NACION ARGENTINA' / 'ISLAND EXPRESS HONG KONG' / 'INVOICE' / 'GLEN MORAY DISTILLERY' branding, Western supermarket, Mexico-poster interior, tropical paddy) and re-sourced across three further passes. 2 slots were filled from previously vetted KIE assets: bank-forgery-network/broll_2 <- 2026-07-26-audit-100tn-loans/broll_3 (bank vault); dollar-official-gap/broll_2 <- 2026-07-26-dollar-under-150/broll_1 (dinar+dollar counting). LEAD slug bank-forgery-network is 0/4 KIE — stock/reused only."
+}

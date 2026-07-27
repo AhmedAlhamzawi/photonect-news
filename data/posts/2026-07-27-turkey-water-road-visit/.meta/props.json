@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 27 • 2026",
+  "arabicDateLabel": "27 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مياه · طريق التنمية",
+    "arabicHeadline": "الإطلاقات المائية تتصدر طاولة أنقرة الثلاثاء",
+    "englishSubhead": "PM AL-ZAIDI HEADS TO ANKARA WITH WATER AND THE DEVELOPMENT ROAD ON TOP",
+    "heroMedia": "images/news/2026-07-27-turkey-water-road-visit/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الزيدي إلى أنقرة الثلاثاء",
+      "arabicBody": "يزور رئيس الوزراء علي الزيدي أنقرة الثلاثاء 28 تموز على رأس وفد حكومي رفيع، وملف المياه يتصدر جدول الأعمال، بحسب شفقنا العراق.",
+      "bigStat": {
+        "value": "28 تموز",
+        "label": "Ankara visit date",
+        "arabicLabel": "موعد زيارة رئيس الوزراء العراقي علي الزيدي إلى أنقرة على رأس وفد حكومي رفيع (شفقنا العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملفات",
+          "value": "مياه ونفط"
+        },
+        {
+          "label": "وأيضاً",
+          "value": "كهرباء واقتصاد"
+        },
+        {
+          "label": "الأولوية",
+          "value": "الإطلاقات المائية"
+        }
+      ],
+      "broll": "images/news/2026-07-27-turkey-water-road-visit/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-27-turkey-water-road-visit/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Shafaqna Iraq · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "6 سدود في المرحلة الأولى",
+      "arabicBody": "تسعى بغداد إلى ضمانات بشأن الإطلاقات المائية، وتقول وزارة الموارد المائية إن 6 سدود جديدة تقع ضمن المرحلة الأولى من الاتفاق مع تركيا.",
+      "bigStat": {
+        "value": "6 سدود",
+        "label": "Dams in phase one",
+        "arabicLabel": "عدد السدود الجديدة التي تقع ضمن المرحلة الأولى من الاتفاق مع تركيا (وزارة الموارد المائية العراقية)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة",
+          "value": "الأولى"
+        },
+        {
+          "label": "المطلب",
+          "value": "ضمانات مائية"
+        },
+        {
+          "label": "الجهة",
+          "value": "الموارد المائية"
+        }
+      ],
+      "broll": "images/news/2026-07-27-turkey-water-road-visit/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-27-turkey-water-road-visit/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Ministry of Water Resources · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "طريق التنمية… التصاميم 100%",
+      "arabicBody": "أوعز الزيدي بإعداد آلية تمويل متكاملة لطريق التنمية، والتصاميم الأولية للطريق وخط سككه مكتملة 100% (شفقنا العراق)، وحجر الأساس سيوضع قريباً بحسب وزير النقل التركي (الجزيرة).",
+      "bigStat": {
+        "value": "100%",
+        "label": "Preliminary designs complete",
+        "arabicLabel": "نسبة إنجاز التصاميم الأولية لمشروع طريق التنمية وخط السكك الحديدية المرافق له (شفقنا العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "التصاميم",
+          "value": "100%"
+        },
+        {
+          "label": "حجر الأساس",
+          "value": "قريباً"
+        },
+        {
+          "label": "متوقّعة بعدها",
+          "value": "زيارة السعودية"
+        }
+      ],
+      "broll": "images/news/2026-07-27-turkey-water-road-visit/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-27-turkey-water-road-visit/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Al Jazeera · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaqna Iraq",
+      "domain": "shafaqna.com"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "domain": "mowr.gov.iq"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.net"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس الوزراء علي الزيدي يزور أنقرة الثلاثاء 28 تموز على رأس وفد حكومي رفيع (شفقنا العراق)",
+    "ملف المياه يتصدر جدول الأعمال وبغداد تسعى لضمانات بشأن الإطلاقات المائية (شفقنا العراق)",
+    "وزارة الموارد المائية: 6 سدود جديدة ضمن المرحلة الأولى من الاتفاق مع تركيا (وزارة الموارد المائية)",
+    "الزيدي يوعز بإعداد آلية تمويل متكاملة لمشروع طريق التنمية والتصاميم الأولية مكتملة 100% (شفقنا العراق)",
+    "وزير النقل التركي: حجر الأساس لطريق التنمية مع العراق سيوضع قريباً (الجزيرة)",
+    "وصلتك مي الإسالة اليوم؟"
+  ]
+}

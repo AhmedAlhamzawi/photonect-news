@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 27 • 2026",
+  "arabicDateLabel": "27 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار · فجوة السعر",
+    "arabicHeadline": "18,200 دينار تدفعها فرقاً عن السعر الرسمي",
+    "englishSubhead": "STREET DOLLAR SITS 18,200 IQD ABOVE THE OFFICIAL RATE",
+    "heroMedia": "images/news/2026-07-27-dollar-official-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "150,200 دينار لكل 100 دولار",
+      "arabicBody": "بلغ سعر 100 دولار ظهر الاثنين 150,200 ديناراً في بغداد و150,350 في أربيل، بحسب أسعار السوق الموازية في بورصتي الكفاح والحارثية.",
+      "bigStat": {
+        "value": "150,200",
+        "label": "IQD per $100 · Baghdad",
+        "arabicLabel": "سعر 100 دولار في السوق الموازية ببغداد ظهر الاثنين 27 تموز 2026 (بورصتا الكفاح والحارثية)"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد",
+          "value": "150,200"
+        },
+        {
+          "label": "أربيل",
+          "value": "150,350"
+        },
+        {
+          "label": "التوقيت",
+          "value": "ظهر الاثنين"
+        }
+      ],
+      "broll": "images/news/2026-07-27-dollar-official-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-27-dollar-official-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Kifah & Harithiya · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الرسمي 132,000 لكل 100 دولار",
+      "arabicBody": "السعر الرسمي للبنك المركزي العراقي 1,320 ديناراً للدولار، أي 132,000 لكل 100 دولار، فالفارق نحو 18,200 دينار أو 13.8%.",
+      "bigStat": {
+        "value": "18,200 د.ع",
+        "label": "Premium over official per $100",
+        "arabicLabel": "الفارق بين سعر 100 دولار في السوق الموازية والسعر الرسمي للبنك المركزي العراقي البالغ 1,320 ديناراً للدولار (البنك المركزي العراقي)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "132,000"
+        },
+        {
+          "label": "الموازي",
+          "value": "150,200"
+        },
+        {
+          "label": "الفارق",
+          "value": "13.8%"
+        }
+      ],
+      "broll": "images/news/2026-07-27-dollar-official-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-27-dollar-official-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Central Bank of Iraq · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "من 153,750 إلى 150,200 خلال 16 يوماً",
+      "arabicBody": "كان السعر 153,750 ديناراً لكل 100 دولار في 11 تموز، وفتح الأحد على 149,650، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,750",
+        "label": "Rate on 11 July",
+        "arabicLabel": "سعر 100 دولار في السوق الموازية يوم 11 تموز 2026 قبل تراجعه (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "11 تموز",
+          "value": "153,750"
+        },
+        {
+          "label": "الأحد",
+          "value": "149,650"
+        },
+        {
+          "label": "الاثنين",
+          "value": "150,200"
+        }
+      ],
+      "broll": "images/news/2026-07-27-dollar-official-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-27-dollar-official-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Shafaq News · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kifah & Harithiya Bourse",
+      "domain": "Baghdad FX"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Central Bank of Iraq",
+      "domain": "cbi.iq"
+    }
+  ],
+  "arabicTicker": [
+    "سعر 100 دولار ظهر الاثنين 150,200 ديناراً في بغداد (أسعار السوق الموازية · بورصتا الكفاح والحارثية)",
+    "أربيل: 150,350 ديناراً لكل 100 دولار (أسعار السوق الموازية)",
+    "السعر الرسمي للبنك المركزي العراقي 1,320 ديناراً للدولار الواحد أي 132,000 لكل 100 دولار (البنك المركزي العراقي)",
+    "الفارق بين السوق والسعر الرسمي نحو 18,200 دينار لكل 100 دولار أو 13.8%",
+    "الدولار فتح الأحد على 149,650 ديناراً وكان 153,750 في 11 تموز (شفق نيوز)",
+    "شكد دفعت آخر مرة بدلت دولار؟"
+  ]
+}

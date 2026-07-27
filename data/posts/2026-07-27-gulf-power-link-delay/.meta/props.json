@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 27 • 2026",
+  "arabicDateLabel": "27 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "كهرباء · ربط خليجي",
+    "arabicHeadline": "الربط الخليجي يتأجل… والصيف ما ينتظر",
+    "englishSubhead": "GULF POWER LINK SLIPS TO LATE AUGUST AS SUMMER PEAK BITES",
+    "heroMedia": "images/news/2026-07-27-gulf-power-link-delay/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "500 ميغاواط تتأخر إلى نهاية آب",
+      "arabicBody": "المرحلة الأولى من الربط الكهربائي مع الخليج 500 ميغاواط وكانت مقررة مطلع 2026، وتأجّل تشغيلها إلى نهاية آب على الأقل.",
+      "bigStat": {
+        "value": "500 MW",
+        "label": "Phase 1 capacity",
+        "arabicLabel": "قدرة المرحلة الأولى من الربط الكهربائي بين العراق ودول الخليج (هيئة الربط الكهربائي الخليجي)"
+      },
+      "supportingStats": [
+        {
+          "label": "المقرر سابقاً",
+          "value": "مطلع 2026"
+        },
+        {
+          "label": "الموعد الجديد",
+          "value": "نهاية آب"
+        },
+        {
+          "label": "احتمال التأخر",
+          "value": "أواخر 2026-2027"
+        }
+      ],
+      "broll": "images/news/2026-07-27-gulf-power-link-delay/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-27-gulf-power-link-delay/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "GCCIA · 2026"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "29 غيغاواط إنتاج مقابل 40 طلباً",
+      "arabicBody": "يبلغ إنتاج العراق نحو 29 غيغاواط مقابل طلب اعتيادي قرب 40 غيغاواط، وذروة صيفية بين 40 و55 غيغاواط، بحسب منتدى الشرق الأوسط.",
+      "bigStat": {
+        "value": "29 GW",
+        "label": "Iraq's generation vs 40 GW demand",
+        "arabicLabel": "إجمالي إنتاج العراق من الطاقة الكهربائية مقابل طلب اعتيادي قرب 40 غيغاواط (منتدى الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج",
+          "value": "29 غيغاواط"
+        },
+        {
+          "label": "الطلب",
+          "value": "40 غيغاواط"
+        },
+        {
+          "label": "الذروة",
+          "value": "40-55 غيغاواط"
+        }
+      ],
+      "broll": "images/news/2026-07-27-gulf-power-link-delay/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-27-gulf-power-link-delay/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "Middle East Forum · 2026"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الغاز الإيراني ينزل إلى 5-7 ملايين",
+      "arabicBody": "الغاز الإيراني متعاقد عليه بحد أقصى 50 مليون متر مكعب يومياً، والوارد الفعلي 15-20 مليوناً وينزل إلى 5-7، ما يفقد 3,000-4,500 ميغاواط (منتدى الشرق الأوسط).",
+      "bigStat": {
+        "value": "3,000-4,500 MW",
+        "label": "Power lost to gas cuts",
+        "arabicLabel": "الطاقة المفقودة بسبب انخفاض إمدادات الغاز الإيراني عن الكميات المتعاقد عليها (منتدى الشرق الأوسط)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتعاقد",
+          "value": "50 مليون م3"
+        },
+        {
+          "label": "الفعلي",
+          "value": "15-20 مليوناً"
+        },
+        {
+          "label": "بعد الأضرار",
+          "value": "5-7 ملايين"
+        }
+      ],
+      "broll": "images/news/2026-07-27-gulf-power-link-delay/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-27-gulf-power-link-delay/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "Middle East Forum · 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Middle East Forum",
+      "domain": "meforum.org"
+    },
+    {
+      "name": "GCC Interconnection Authority",
+      "domain": "gccia.com.sa"
+    },
+    {
+      "name": "AGBI",
+      "domain": "agbi.com"
+    }
+  ],
+  "arabicTicker": [
+    "المرحلة الأولى من الربط الكهربائي الخليجي 500 ميغاواط وكانت مقررة مطلع 2026 (هيئة الربط الكهربائي الخليجي)",
+    "تأجيل التشغيل إلى نهاية آب على الأقل مع احتمال التأخر إلى أواخر 2026 أو 2027 (منتدى الشرق الأوسط)",
+    "إنتاج العراق نحو 29 غيغاواط مقابل طلب اعتيادي قرب 40 غيغاواط (منتدى الشرق الأوسط)",
+    "الذروة الصيفية بين 40 و55 غيغاواط (منتدى الشرق الأوسط)",
+    "الغاز الإيراني الوارد 15-20 مليون متر مكعب يومياً من أصل 50 مليوناً متعاقداً عليها (منتدى الشرق الأوسط)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}
