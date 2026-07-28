@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 28 • 2026",
+  "arabicDateLabel": "28 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · ميزانية",
+    "arabicHeadline": "النفط نزل 8.7% الاثنين… وميزانية الدولة 84% نفط",
+    "englishSubhead": "BRENT'S BIGGEST ONE-DAY DROP IN MONTHS HITS AN 84% OIL-FUNDED BUDGET",
+    "heroMedia": "images/news/2026-07-28-energy-peace-price/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يغلق عند 88.36 دولاراً",
+      "arabicBody": "أغلق برنت الاثنين منخفضاً 8.7% عند 88.36 دولاراً، في أكبر هبوط يومي منذ أكثر من ثلاثة أشهر، بحسب رويترز وبلومبيرغ.",
+      "bigStat": {
+        "value": "$88.36",
+        "label": "Brent close, down 8.7%",
+        "arabicLabel": "سعر إغلاق خام برنت يوم الاثنين 27 تموز 2026 بانخفاض 8.7% وهو أكبر هبوط يومي منذ أكثر من ثلاثة أشهر (رويترز · بلومبيرغ)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت الاثنين",
+          "value": "$88.36"
+        },
+        {
+          "label": "التراجع",
+          "value": "8.7%"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "$82.61"
+        }
+      ],
+      "broll": "images/news/2026-07-28-energy-peace-price/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-28-energy-peace-price/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "توقف الضربات بعد 13 ليلة متتالية",
+      "arabicBody": "أوقفت الولايات المتحدة ضرباتها على إيران مساء الجمعة 24 تموز بعد 13 ليلة متتالية، فيما نفت الخارجية الإيرانية وجود مفاوضات، بحسب رويترز.",
+      "bigStat": {
+        "value": "13 ليلة",
+        "label": "Consecutive nights of strikes",
+        "arabicLabel": "عدد الليالي المتتالية من الضربات الأميركية على إيران قبل توقفها مساء الجمعة 24 تموز 2026 (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقف",
+          "value": "24 تموز"
+        },
+        {
+          "label": "برنت الثلاثاء",
+          "value": "$86.89"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "$81.16"
+        }
+      ],
+      "broll": "images/news/2026-07-28-energy-peace-price/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-28-energy-peace-price/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "84% من إيرادات الدولة نفط",
+      "arabicBody": "إيرادات النفط والمعادن 26.946 تريليون دينار بين كانون الثاني وأيار 2026، بانخفاض 14.985 تريليوناً ونسبته 35.7% عن المدة نفسها من 2025، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "84%",
+        "label": "Share of state revenue from oil",
+        "arabicLabel": "حصة النفط من تمويل موازنة الدولة بين كانون الثاني وأيار 2026، مقابل 16% غير نفطية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "النفط والمعادن",
+          "value": "26.946 تريليون"
+        },
+        {
+          "label": "الإجمالي",
+          "value": "33.747 تريليون"
+        },
+        {
+          "label": "غير النفطي",
+          "value": "16%"
+        }
+      ],
+      "broll": "images/news/2026-07-28-energy-peace-price/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-28-energy-peace-price/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "برنت أغلق الاثنين 27 تموز منخفضاً 8.7% عند 88.36 دولاراً، أكبر هبوط يومي منذ أكثر من ثلاثة أشهر (رويترز · بلومبيرغ)",
+    "غرب تكساس تراجع 7.5% إلى 82.61 دولاراً في الجلسة نفسها (رويترز)",
+    "الثلاثاء 28 تموز: برنت 86.89 دولاراً بانخفاض 1.66%، وغرب تكساس 81.16 بانخفاض 1.76% وهو الأدنى منذ 20 تموز (بلومبيرغ)",
+    "الولايات المتحدة أوقفت ضرباتها على إيران مساء الجمعة 24 تموز بعد 13 ليلة متتالية، والخارجية الإيرانية نفت وجود مفاوضات (رويترز)",
+    "شفق نيوز: تمويل الموازنة 84% نفطي والإيرادات غير النفطية 16% بين كانون الثاني وأيار 2026",
+    "راتبك من الدولة لو من القطاع الخاص؟"
+  ]
+}

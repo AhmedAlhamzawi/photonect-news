@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 28 • 2026",
+  "arabicDateLabel": "28 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_politics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فساد · نفط",
+    "arabicHeadline": "27 مليار دينار مخبأة… بقضية وكيل النفط",
+    "englishSubhead": "27 BILLION DINARS FOUND HIDDEN IN THE FORMER DEPUTY OIL MINISTER'S CASE",
+    "heroMedia": "images/news/2026-07-28-graft-oil-27-billion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "27 مليار دينار جديدة تُضبط",
+      "arabicBody": "أعلن القاضي ضياء جعفر ضبط 27 مليار دينار كانت مخبأة لدى عدد من الأشخاص، ضمن قضية وكيل وزارة النفط الأسبق، في 26 تموز.",
+      "bigStat": {
+        "value": "27 مليار د.ع",
+        "label": "Newly seized in the case",
+        "arabicLabel": "قيمة الأموال المضبوطة حديثاً والمخبأة لدى عدد من الأشخاص في قضية وكيل وزارة النفط الأسبق، بإعلان القاضي ضياء جعفر في 26 تموز 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "الإعلان",
+          "value": "26 تموز"
+        },
+        {
+          "label": "قاضي التحقيق",
+          "value": "ضياء جعفر"
+        },
+        {
+          "label": "المحكمة",
+          "value": "الجنائية المركزية"
+        }
+      ],
+      "broll": "images/news/2026-07-28-graft-oil-27-billion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-28-graft-oil-27-billion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المتهم وكيل وزارة النفط الأسبق",
+      "arabicBody": "المتهم عدنان الجميلي، وكيل وزارة النفط الأسبق لشؤون التصفية، أُلقي القبض عليه أواخر أيار 2026، والقضية أمام المحكمة الجنائية المركزية المختصة بقضايا الفساد.",
+      "bigStat": {
+        "value": "أيار 2026",
+        "label": "Arrest of the former deputy minister",
+        "arabicLabel": "تاريخ إلقاء القبض على عدنان الجميلي وكيل وزارة النفط الأسبق لشؤون التصفية، والقضية أمام المحكمة الجنائية المركزية المختصة بقضايا الفساد"
+      },
+      "supportingStats": [
+        {
+          "label": "المتهم",
+          "value": "عدنان الجميلي"
+        },
+        {
+          "label": "المنصب",
+          "value": "وكيل وزارة النفط"
+        },
+        {
+          "label": "التوقيف",
+          "value": "أواخر أيار"
+        }
+      ],
+      "broll": "images/news/2026-07-28-graft-oil-27-billion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-28-graft-oil-27-billion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "2.5 مليار و6 عقارات بصلاح الدين",
+      "arabicBody": "وفي 28 تموز أعلنت هيئة النزاهة حجز 2.5 مليار دينار و6 عقارات مسجلة باسم زوجة مدير حسابات أسبق في صلاح الدين، بصك من مصرف الرافدين.",
+      "bigStat": {
+        "value": "2.5 مليار د.ع",
+        "label": "Seized in the Salah al-Din file",
+        "arabicLabel": "قيمة الأموال المحجوزة مع 6 عقارات في قضية مدير حسابات أسبق بصلاح الدين، والحجز جرى في 22 تموز 2026 (هيئة النزاهة الاتحادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "العقارات",
+          "value": "6"
+        },
+        {
+          "label": "تاريخ الحجز",
+          "value": "22 تموز"
+        },
+        {
+          "label": "المصرف",
+          "value": "الرافدين"
+        }
+      ],
+      "broll": "images/news/2026-07-28-graft-oil-27-billion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-28-graft-oil-27-billion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Al Arabiya",
+      "domain": "alarabiya.net"
+    },
+    {
+      "name": "Al Rasheed",
+      "domain": "alrasheedmedia.com"
+    }
+  ],
+  "arabicTicker": [
+    "القاضي ضياء جعفر: ضبط 27 مليار دينار كانت مخبأة لدى عدد من الأشخاص في قضية وكيل وزارة النفط الأسبق (26 تموز 2026)",
+    "المتهم عدنان الجميلي وكيل وزارة النفط الأسبق لشؤون التصفية، أُلقي القبض عليه أواخر أيار 2026",
+    "القضية أمام المحكمة الجنائية المركزية المختصة بقضايا الفساد",
+    "هيئة النزاهة الاتحادية: حجز 2.5 مليار دينار و6 عقارات مسجلة باسم زوجة مدير حسابات أسبق في صلاح الدين (28 تموز)",
+    "الحجز جرى في 22 تموز على خلفية صك من مصرف الرافدين تضمّن وصولات وهمية (هيئة النزاهة الاتحادية)",
+    "شفت قضية فساد بالعراق وصلت لحكم؟"
+  ]
+}

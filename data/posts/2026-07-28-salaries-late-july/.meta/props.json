@@ -1,0 +1,128 @@
+{
+  "dateLabel": "JUL 28 • 2026",
+  "arabicDateLabel": "28 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رواتب · مالية",
+    "arabicHeadline": "راتبك تأخر؟ عضو باللجنة المالية يقول 48 ساعة",
+    "englishSubhead": "JULY SALARIES FUNDED ON 22 JULY, MP PUTS A 48-HOUR CLOCK ON PAYOUT",
+    "heroMedia": "images/news/2026-07-28-salaries-late-july/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "التمويل أُطلق في 22 تموز",
+      "arabicBody": "بدأت دائرة المحاسبة في وزارة المالية إطلاق تمويل رواتب موظفي الدولة لشهر تموز يوم الأربعاء 22 تموز 2026، بحسب شفق نيوز وأوبزرفر العراق.",
+      "bigStat": {
+        "value": "22 تموز",
+        "label": "Funding release began",
+        "arabicLabel": "اليوم الذي بدأت فيه دائرة المحاسبة في وزارة المالية إطلاق تمويل رواتب تموز لموظفي الدولة (شفق نيوز · أوبزرفر العراق)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "دائرة المحاسبة"
+        },
+        {
+          "label": "الشهر",
+          "value": "تموز 2026"
+        },
+        {
+          "label": "اليوم",
+          "value": "الأربعاء"
+        }
+      ],
+      "broll": "images/news/2026-07-28-salaries-late-july/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-28-salaries-late-july/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "السيولة المحلية وتدقيق الحسابات",
+      "arabicBody": "بحسب شفق نيوز لم يكتمل الصرف في عدد من مؤسسات الدولة لصعوبة توفر السيولة المحلية، وعزا عامر نصر الله التأخير إلى تدقيق وزارة المالية للحسابات.",
+      "bigStat": {
+        "value": "27 تموز",
+        "label": "MP explains the delay",
+        "arabicLabel": "تاريخ تصريح عضو اللجنة المالية النيابية عامر نصر الله الذي عزا التأخير إلى تدقيق وزارة المالية للبيانات والحسابات المالية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب الأول",
+          "value": "السيولة المحلية"
+        },
+        {
+          "label": "والثاني",
+          "value": "تدقيق الحسابات"
+        },
+        {
+          "label": "التصريح",
+          "value": "27 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-28-salaries-late-july/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-28-salaries-late-july/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "48 ساعة… بحسب عضو باللجنة المالية",
+      "arabicBody": "قال عامر نصر الله، عضو اللجنة المالية النيابية، في 27 تموز إن الرواتب ستُطلق خلال 48 ساعة لمؤسسات الدولة المدنية والأمنية بدفعة واحدة.",
+      "bigStat": {
+        "value": "48 ساعة",
+        "label": "MP's timeline for release",
+        "arabicLabel": "المهلة التي حددها عضو اللجنة المالية النيابية عامر نصر الله لإطلاق الرواتب في مؤسسات الدولة المدنية والأمنية بدفعة واحدة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة",
+          "value": "48 ساعة"
+        },
+        {
+          "label": "الشمول",
+          "value": "مدنية وأمنية"
+        },
+        {
+          "label": "الدفع",
+          "value": "دفعة واحدة"
+        }
+      ],
+      "broll": "images/news/2026-07-28-salaries-late-july/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-28-salaries-late-july/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Observer Iraq",
+      "domain": "observeriraq.net"
+    }
+  ],
+  "arabicTicker": [
+    "دائرة المحاسبة في وزارة المالية بدأت إطلاق تمويل رواتب تموز يوم الأربعاء 22 تموز 2026 (شفق نيوز · أوبزرفر العراق)",
+    "رغم إطلاق التمويل لم يكتمل الصرف في عدد من مؤسسات الدولة (شفق نيوز)",
+    "السبب: استمرار صعوبة توفر السيولة النقدية المحلية لدى بعض الجهات (شفق نيوز)",
+    "عامر نصر الله عضو اللجنة المالية النيابية: الرواتب ستُطلق خلال 48 ساعة (27 تموز)",
+    "الإطلاق يشمل مؤسسات الدولة المدنية والأمنية بدفعة واحدة، والتأخير سببه تدقيق البيانات والحسابات المالية (عامر نصر الله)",
+    "راتبك وصل لو بعده متأخر؟"
+  ]
+}

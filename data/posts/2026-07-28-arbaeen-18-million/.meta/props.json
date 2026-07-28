@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 28 • 2026",
+  "arabicDateLabel": "28 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "زيارة · طريق",
+    "arabicHeadline": "1,813,188 زائراً دخلوا… والطريق 80 كيلومتراً",
+    "englishSubhead": "1,813,188 FOREIGN VISITORS FROM 172 NATIONALITIES ENTERED IRAQ BETWEEN 16 JUNE AND 26 JULY",
+    "heroMedia": "images/news/2026-07-28-arbaeen-18-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "1,813,188 زائراً من 172 جنسية",
+      "arabicBody": "أعلن رئيس خلية الإعلام الأمني اللواء سعد معن دخول 1,813,188 زائراً أجنبياً من 172 جنسية إلى العراق بين 16 حزيران و26 تموز 2026.",
+      "bigStat": {
+        "value": "1,813,188",
+        "label": "Foreign visitors, 16 June – 26 July",
+        "arabicLabel": "عدد الزائرين الأجانب الذين دخلوا العراق من 172 جنسية بين 16 حزيران و26 تموز 2026 (خلية الإعلام الأمني · اللواء سعد معن)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجنسيات",
+          "value": "172"
+        },
+        {
+          "label": "من",
+          "value": "16 حزيران"
+        },
+        {
+          "label": "إلى",
+          "value": "26 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-28-arbaeen-18-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-28-arbaeen-18-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "80 كيلومتراً بين النجف وكربلاء",
+      "arabicBody": "يغطي أكثر من 2,500 متطوع و60 وحدة طبية طريق النجف–كربلاء البالغ 80 كيلومتراً، بحسب خلية الإعلام الأمني.",
+      "bigStat": {
+        "value": "60",
+        "label": "Medical units on the route",
+        "arabicLabel": "عدد الوحدات الطبية التي تغطي طريق النجف–كربلاء البالغ 80 كيلومتراً إلى جانب أكثر من 2,500 متطوع (خلية الإعلام الأمني)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتطوعون",
+          "value": "+2,500"
+        },
+        {
+          "label": "الوحدات الطبية",
+          "value": "60"
+        },
+        {
+          "label": "الطريق",
+          "value": "80 كم"
+        }
+      ],
+      "broll": "images/news/2026-07-28-arbaeen-18-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-28-arbaeen-18-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "1,500,977 وافداً منذ مطلع محرم",
+      "arabicBody": "قبل يومين أحصت خلية الإعلام الأمني عبر وكالة الأنباء العراقية 1,500,977 وافداً منذ مطلع محرم، وأبرز الحالات الإنهاك والإجهاد الحراري والجفاف وإصابات الأقدام.",
+      "bigStat": {
+        "value": "1,500,977",
+        "label": "Counted since the start of Muharram",
+        "arabicLabel": "عدد الوافدين الذي أحصته خلية الإعلام الأمني منذ مطلع محرم قبل يومين عبر وكالة الأنباء العراقية (واع)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإحصاء الأسبق",
+          "value": "1,500,977"
+        },
+        {
+          "label": "أبرز الحالات",
+          "value": "الإجهاد الحراري"
+        },
+        {
+          "label": "وإصابات",
+          "value": "الأقدام"
+        }
+      ],
+      "broll": "images/news/2026-07-28-arbaeen-18-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-28-arbaeen-18-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Security Media Cell",
+      "domain": "smc.iq"
+    },
+    {
+      "name": "Iraqi News Agency",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "خلية الإعلام الأمني: 1,813,188 زائراً أجنبياً من 172 جنسية دخلوا العراق بين 16 حزيران و26 تموز 2026 (اللواء سعد معن)",
+    "قبل يومين أحصت الخلية عبر وكالة الأنباء العراقية 1,500,977 وافداً منذ مطلع محرم (واع)",
+    "أكثر من 2,500 متطوع و60 وحدة طبية تغطي طريق النجف–كربلاء البالغ 80 كيلومتراً (خلية الإعلام الأمني)",
+    "أبرز الحالات المعالجة: الإنهاك والإجهاد الحراري والجفاف وإصابات الأقدام (خلية الإعلام الأمني)",
+    "وحالات أخرى تتعلق بارتفاع السكر وضغط الدم (خلية الإعلام الأمني)",
+    "شكد كيلومتر مشيت هالسنة؟"
+  ]
+}

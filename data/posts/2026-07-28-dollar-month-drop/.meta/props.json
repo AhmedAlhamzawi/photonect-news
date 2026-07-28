@@ -1,0 +1,132 @@
+{
+  "dateLabel": "JUL 28 • 2026",
+  "arabicDateLabel": "28 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · شهر كامل",
+    "arabicHeadline": "100 دولار أرخص بـ6,850 ديناراً عن الشهر الماضي",
+    "englishSubhead": "$100 NOW COSTS 6,850 IQD LESS THAN A MONTH AGO IN BAGHDAD",
+    "heroMedia": "images/news/2026-07-28-dollar-month-drop/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "149,900 ديناراً لكل 100 دولار",
+      "arabicBody": "سجّلت بورصتا الكفاح والحارثية في بغداد 149,900 دينار لكل 100 دولار اليوم الثلاثاء، نزولاً من 150,050 يوم الاثنين.",
+      "bigStat": {
+        "value": "149,900",
+        "label": "IQD per $100 · Baghdad",
+        "arabicLabel": "سعر 100 دولار في بورصتي الكفاح والحارثية ببغداد يوم الثلاثاء 28 تموز 2026 (بورصتا الكفاح والحارثية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد 26 تموز",
+          "value": "149,650"
+        },
+        {
+          "label": "الاثنين 27 تموز",
+          "value": "150,050"
+        },
+        {
+          "label": "الثلاثاء 28 تموز",
+          "value": "149,900"
+        }
+      ],
+      "broll": "images/news/2026-07-28-dollar-month-drop/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-28-dollar-month-drop/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "من 156,750 إلى 149,900 بشهر",
+      "arabicBody": "كان سعر 100 دولار 156,750 ديناراً في 29 حزيران، فأصبح 149,900 في 28 تموز، أي انخفاض 6,850 ديناراً بنسبة 4.4%.",
+      "bigStat": {
+        "value": "6,850 د.ع",
+        "label": "Monthly drop per $100",
+        "arabicLabel": "مقدار انخفاض سعر 100 دولار بين 29 حزيران و28 تموز 2026 أي 4.4% (بورصتا الكفاح والحارثية · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "29 حزيران",
+          "value": "156,750"
+        },
+        {
+          "label": "18 تموز",
+          "value": "152,950"
+        },
+        {
+          "label": "28 تموز",
+          "value": "149,900"
+        }
+      ],
+      "broll": "images/news/2026-07-28-dollar-month-drop/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-28-dollar-month-drop/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المحال تبيع بـ150,500 وتشتري بـ149,500",
+      "arabicBody": "في محال الصيرفة ببغداد سعر البيع 150,500 والشراء 149,500 لكل 100 دولار، وفي أربيل 150,150 بيعاً و150,050 شراءً.",
+      "bigStat": {
+        "value": "150,500",
+        "label": "Baghdad shops selling price",
+        "arabicLabel": "سعر بيع 100 دولار في محال الصيرفة ببغداد مقابل 149,500 ديناراً شراءً يوم 28 تموز 2026 (شفق نيوز · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد بيعاً",
+          "value": "150,500"
+        },
+        {
+          "label": "بغداد شراءً",
+          "value": "149,500"
+        },
+        {
+          "label": "أربيل بيعاً",
+          "value": "150,150"
+        }
+      ],
+      "broll": "images/news/2026-07-28-dollar-month-drop/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-28-dollar-month-drop/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kifah & Harithiya Bourse",
+      "domain": "بورصة بغداد"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "964",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 149,900 دينار لكل 100 دولار الثلاثاء 28 تموز",
+    "الاثنين 27 تموز فتح على 150,050 وأغلق على 149,950، والأحد 26 تموز 149,650 (شفق نيوز)",
+    "المقارنة الشهرية: 156,750 في 29 حزيران و152,950 في 18 تموز و149,900 في 28 تموز",
+    "الانخفاض 6,850 ديناراً لكل 100 دولار خلال شهر، بنسبة 4.4%",
+    "محال الصيرفة ببغداد: 150,500 بيعاً و149,500 شراءً، وأربيل 150,150 بيعاً و150,050 شراءً (964)",
+    "بيش بدلت آخر 100 دولار؟"
+  ]
+}
