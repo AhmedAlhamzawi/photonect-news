@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 29 • 2026",
+  "arabicDateLabel": "29 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "فكة · أسعار",
+    "arabicHeadline": "وين راحت الفكة؟ الباقي علك أو تقريب سعر",
+    "englishSubhead": "250 AND 500 DINAR NOTES HAVE LARGELY VANISHED FROM BAGHDAD MARKETS; THE PM'S FINANCIAL ADVISER EXPLAINS WHY",
+    "heroMedia": "images/news/2026-07-29-small-change-gum/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "أوراق 250 و500 اختفت من السوق",
+      "arabicBody": "أوراق 250 و500 دينار اختفت إلى حد كبير من أسواق بغداد، فصار التاجر يقرّب السعر أو يردّ الباقي بسلعة صغيرة، بحسب وكالة الصحافة المستقلة.",
+      "bigStat": {
+        "value": "250 · 500",
+        "label": "The missing denominations",
+        "arabicLabel": "فئتا العملة الورقية اللتان اختفتا من الأسواق العراقية، ويعوّضهما التجار بتقريب الأسعار أو باستبدال المبلغ المتبقي بسلعة صغيرة (وكالة الصحافة المستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفئات",
+          "value": "250 و500"
+        },
+        {
+          "label": "البديل الأول",
+          "value": "تقريب السعر"
+        },
+        {
+          "label": "البديل الثاني",
+          "value": "سلعة صغيرة"
+        }
+      ],
+      "broll": "images/news/2026-07-29-small-change-gum/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-29-small-change-gum/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "عمر الورقة الصغيرة نحو سنة واحدة",
+      "arabicBody": "المستشار المالي لرئيس الوزراء مظهر محمد صالح: العراق يطبع هذه الفئات ورقاً لا معدناً، وعمر الورقة الصغيرة نحو سنة بسرعة التداول العراقية.",
+      "bigStat": {
+        "value": "سنة واحدة",
+        "label": "Life of a small paper note",
+        "arabicLabel": "العمر التقديري للورقة النقدية الصغيرة بسرعة التداول في العراق، بحسب المستشار المالي لرئيس الوزراء مظهر محمد صالح في 29 تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "العمر",
+          "value": "نحو سنة"
+        },
+        {
+          "label": "المادة",
+          "value": "ورق لا معدن"
+        },
+        {
+          "label": "المصدر",
+          "value": "مستشار رئيس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-07-29-small-change-gum/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-29-small-change-gum/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المركزي: باقية قانونية… ولا نية لسحبها",
+      "arabicBody": "البنك المركزي أكد أن الفئات القديمة تبقى عملة قانونية ولا نية لسحبها، ولا بيانات دورية معلنة عن حجم ما يُطرح منها، بحسب شفق نيوز والمستقلة.",
+      "bigStat": {
+        "value": "لا بيانات معلنة",
+        "label": "Published data on small-note injections",
+        "arabicLabel": "لا تتوافر بيانات دورية معلنة عن حجم ما يطرحه البنك المركزي من الفئات النقدية الصغيرة (وكالة الصحافة المستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "البنك المركزي",
+          "value": "باقية قانونية"
+        },
+        {
+          "label": "السحب",
+          "value": "لا نية"
+        },
+        {
+          "label": "البيانات",
+          "value": "غير معلنة"
+        }
+      ],
+      "broll": "images/news/2026-07-29-small-change-gum/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-29-small-change-gum/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Mustaqila Press Agency",
+      "domain": "mustaqila.com"
+    }
+  ],
+  "arabicTicker": [
+    "أوراق 250 و500 دينار اختفت إلى حد كبير من أسواق بغداد (شفق نيوز · وكالة الصحافة المستقلة)",
+    "التجار يعوّضون النقص بتقريب الأسعار أو باستبدال المبلغ المتبقي بسلعة صغيرة (وكالة الصحافة المستقلة)",
+    "مظهر محمد صالح المستشار المالي لرئيس الوزراء: العراق يطبع هذه الفئات ورقاً لا معدناً (شفق نيوز · 29 تموز)",
+    "عمر الورقة النقدية الصغيرة نحو سنة واحدة بسرعة التداول العراقية (مظهر محمد صالح · شفق نيوز)",
+    "البنك المركزي: الفئات القديمة تبقى عملة قانونية ولا نية لسحبها (شفق نيوز)",
+    "لا تتوافر بيانات دورية معلنة عن حجم ما يُطرح من الفئات الصغيرة (وكالة الصحافة المستقلة)",
+    "آخر مرة ردّوا لك فكة… علك لو نقد؟"
+  ]
+}

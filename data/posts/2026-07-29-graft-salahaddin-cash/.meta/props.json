@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 29 • 2026",
+  "arabicDateLabel": "29 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد · ضبط",
+    "arabicHeadline": "النزاهة تضبط 2.5 مليار دينار نقداً ببيت مسؤول سابق",
+    "englishSubhead": "INTEGRITY COMMISSION SEIZES 2.5BN IQD ($1.9M) FROM THE HOME OF SALAH AL-DIN'S FORMER ACCOUNTS DIRECTOR",
+    "heroMedia": "images/news/2026-07-29-graft-salahaddin-cash/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "2.5 مليار دينار نقداً في المنزل",
+      "arabicBody": "2.5 مليار دينار نقداً ضبطتها هيئة النزاهة الاتحادية بأمر قضائي في منزل مدير قسم حسابات صلاح الدين السابق، بحسب 964 وذي ناشيونال.",
+      "bigStat": {
+        "value": "2.5 مليار د.ع",
+        "label": "Cash seized on 28 July",
+        "arabicLabel": "المبلغ النقدي الذي ضبطته هيئة النزاهة الاتحادية بأمر قضائي في منزل مدير قسم حسابات محافظة صلاح الدين السابق في 28 تموز 2026، ويعادل 1.9 مليون دولار بالسعر الرسمي (964 · ذي ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "2.5 مليار"
+        },
+        {
+          "label": "بالدولار",
+          "value": "1.9 مليون"
+        },
+        {
+          "label": "التاريخ",
+          "value": "28 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-29-graft-salahaddin-cash/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-29-graft-salahaddin-cash/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "6 عقارات باسم زوجة المتهم",
+      "arabicBody": "الأموال صُرفت بصك من مصرف الرافدين بذريعة مستحقات موظفين وفروق رواتب استناداً إلى مستمسكات وهمية، وسُجّلت 6 عقارات باسم زوجة المتهم، بحسب هيئة النزاهة.",
+      "bigStat": {
+        "value": "6",
+        "label": "Properties in the wife's name",
+        "arabicLabel": "عدد العقارات في مجمعات سكنية استثمارية المسجّلة باسم زوجة المتهم بحسب تحقيقات هيئة النزاهة الاتحادية (964 · ذي ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "العقارات",
+          "value": "6"
+        },
+        {
+          "label": "المصرف",
+          "value": "الرافدين"
+        },
+        {
+          "label": "الذريعة",
+          "value": "فروق رواتب"
+        }
+      ],
+      "broll": "images/news/2026-07-29-graft-salahaddin-cash/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-29-graft-salahaddin-cash/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موقوف وفق المادة 340… ولا أحكام بعد",
+      "arabicBody": "أُوقف المتهم وفق المادة 340 من قانون العقوبات، ولم تصدر بحقه أحكام، وسبق أن أُوقف 47 نائباً ومسؤولاً في أواخر حزيران 2026، بحسب ذي ناشيونال.",
+      "bigStat": {
+        "value": "340",
+        "label": "Penal code article",
+        "arabicLabel": "مادة قانون العقوبات العراقي التي أُوقف المتهم وفقها بحسب هيئة النزاهة الاتحادية (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "المادة",
+          "value": "340"
+        },
+        {
+          "label": "موقوفون سابقاً",
+          "value": "47"
+        },
+        {
+          "label": "الجهة",
+          "value": "هيئة النزاهة"
+        }
+      ],
+      "broll": "images/news/2026-07-29-graft-salahaddin-cash/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-29-graft-salahaddin-cash/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة الاتحادية ضبطت بأمر قضائي 2,500,000,000 دينار نقداً في منزل مدير قسم حسابات صلاح الدين السابق في 28 تموز 2026 (964 · ذي ناشيونال)",
+    "المبلغ يعادل 1.9 مليون دولار بالسعر الرسمي (964 · ذي ناشيونال)",
+    "الأموال تعود إلى صك من مصرف الرافدين صُرف بذريعة مستحقات موظفين وفروق رواتب (964 · ذي ناشيونال)",
+    "التحقيقات وجدت 6 عقارات في مجمعات سكنية استثمارية مسجّلة باسم زوجة المتهم (964 · ذي ناشيونال)",
+    "المتهم موقوف وفق المادة 340 من قانون العقوبات، ولم تصدر بحقه أحكام حتى الآن (964)",
+    "حملة النزاهة أوقفت 47 نائباً ومسؤولاً في أواخر حزيران 2026 (ذي ناشيونال)",
+    "فرق راتبك وصلك لو لا؟"
+  ]
+}

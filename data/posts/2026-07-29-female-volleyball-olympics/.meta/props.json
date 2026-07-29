@@ -1,0 +1,133 @@
+{
+  "dateLabel": "JUL 29 • 2026",
+  "arabicDateLabel": "29 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة · طائرة",
+    "arabicHeadline": "العراق بمجموعة الصين وإيران… والبطل يطير إلى لوس أنجلوس",
+    "englishSubhead": "IRAQ DRAWN IN POOL A WITH CHINA, IRAN AND CHINESE TAIPEI; THE CHAMPION QUALIFIES FOR LA 2028",
+    "heroMedia": "images/news/2026-07-29-female-volleyball-olympics/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "قرعة تيانجين رمت العراق مع الصين",
+      "arabicBody": "أوقعت قرعة 28 تموز في تيانجين منتخب العراق للكرة الطائرة للنساء في المجموعة الأولى مع الصين وإيران وتايبيه الصينية، بحسب صحيفة الشعب.",
+      "bigStat": {
+        "value": "12",
+        "label": "Teams in the championship",
+        "arabicLabel": "عدد المنتخبات المشاركة في بطولة آسيا للكرة الطائرة للنساء 2026 موزعة على ثلاث مجموعات (الاتحاد الآسيوي للكرة الطائرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعة",
+          "value": "الأولى"
+        },
+        {
+          "label": "المنافسون",
+          "value": "الصين وإيران"
+        },
+        {
+          "label": "وكذلك",
+          "value": "تايبيه الصينية"
+        }
+      ],
+      "broll": "images/news/2026-07-29-female-volleyball-olympics/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-29-female-volleyball-olympics/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "البطولة 21–30 آب… و12 منتخباً",
+      "arabicBody": "بين 21 و30 آب في قاعة تيانجين يلعب 12 منتخباً في ثلاث مجموعات، ويتأهل أول اثنين من كل مجموعة وأفضل منتخبين ثالثين إلى ربع النهائي.",
+      "bigStat": {
+        "value": "21–30 آب",
+        "label": "Tournament window",
+        "arabicLabel": "موعد بطولة آسيا للكرة الطائرة للنساء 2026 في قاعة تيانجين بالصين، بمشاركة 12 منتخباً في ثلاث مجموعات (الاتحاد الآسيوي للكرة الطائرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "البداية",
+          "value": "21 آب"
+        },
+        {
+          "label": "النهاية",
+          "value": "30 آب"
+        },
+        {
+          "label": "المنتخبات",
+          "value": "12"
+        }
+      ],
+      "broll": "images/news/2026-07-29-female-volleyball-olympics/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-29-female-volleyball-olympics/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البطل يطير مباشرة إلى لوس أنجلوس 2028",
+      "arabicBody": "بطل البطولة يتأهل مباشرة إلى أولمبياد لوس أنجلوس 2028، والعراق دخل قائمة المشاركين بعد انسحاب لبنان، بحسب صحيفة الشعب.",
+      "bigStat": {
+        "value": "2028",
+        "label": "Direct Olympic berth for the champion",
+        "arabicLabel": "دورة الألعاب الأولمبية في لوس أنجلوس التي يتأهل إليها بطل بطولة آسيا للكرة الطائرة للنساء 2026 مباشرة (الاتحاد الآسيوي للكرة الطائرة · صحيفة الشعب)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكافأة",
+          "value": "تأهل مباشر"
+        },
+        {
+          "label": "الأولمبياد",
+          "value": "لوس أنجلوس"
+        },
+        {
+          "label": "السنة",
+          "value": "2028"
+        }
+      ],
+      "broll": "images/news/2026-07-29-female-volleyball-olympics/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-29-female-volleyball-olympics/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "People's Daily Online",
+      "domain": "en.people.cn"
+    },
+    {
+      "name": "Iraq Sun",
+      "domain": "iraqsun.com"
+    },
+    {
+      "name": "Asian Volleyball Confederation",
+      "domain": "asianvolleyball.net"
+    }
+  ],
+  "arabicTicker": [
+    "قرعة 28 تموز 2026 في تيانجين وضعت منتخب العراق للكرة الطائرة للنساء في المجموعة الأولى (صحيفة الشعب · إيراق صن)",
+    "المجموعة الأولى تضم الصين المستضيفة وإيران وتايبيه الصينية والعراق (صحيفة الشعب · الاتحاد الآسيوي)",
+    "البطولة تُقام بين 21 و30 آب 2026 في قاعة تيانجين (الاتحاد الآسيوي للكرة الطائرة)",
+    "12 منتخباً في ثلاث مجموعات، ويتأهل أول اثنين من كل مجموعة مع أفضل منتخبين ثالثين إلى ربع النهائي (الاتحاد الآسيوي)",
+    "بطل البطولة يتأهل مباشرة إلى أولمبياد لوس أنجلوس 2028 (الاتحاد الآسيوي للكرة الطائرة)",
+    "العراق دخل قائمة المشاركين بعد انسحاب لبنان (صحيفة الشعب)",
+    "راح تتابع مباراة العراق والصين لو لا؟"
+  ]
+}

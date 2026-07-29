@@ -1,0 +1,137 @@
+{
+  "dateLabel": "JUL 29 • 2026",
+  "arabicDateLabel": "29 يوليو 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط · تصدير",
+    "arabicHeadline": "النفط العالمي صعد… والعراق يبيع الأرخص",
+    "englishSubhead": "BRENT UP 3.72% TO $87.22 ON WEDNESDAY WHILE BASRA HEAVY FELL 0.90% TO $53.70",
+    "heroMedia": "images/news/2026-07-29-brent-basra-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت صعد 87.22… والبصرة نزلت 53.70",
+      "arabicBody": "الأربعاء صعد برنت 3.72% إلى 87.22 دولاراً للبرميل، ونزل خام البصرة الثقيل 0.90% إلى 53.70 دولاراً، بحسب شفق نيوز وبغداد اليوم.",
+      "bigStat": {
+        "value": "$87.22",
+        "label": "Brent crude on Wednesday",
+        "arabicLabel": "سعر خام برنت الأربعاء 29 تموز 2026 بعد صعود 3.72% أي 3.13 دولار للبرميل (شفق نيوز · بغداد اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "+3.72%"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "82.01$"
+        },
+        {
+          "label": "البصرة الثقيل",
+          "value": "−0.90%"
+        }
+      ],
+      "broll": "images/news/2026-07-29-brent-basra-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-29-brent-basra-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الفرق 33.52 دولاراً… والعراق يصدّر البصرة",
+      "arabicBody": "الفرق بين برنت وخام البصرة الثقيل 33.52 دولاراً للبرميل، والعراق يصدّر خام البصرة لا برنت، فالسعر الذي يتقاضاه هو 53.70 دولاراً.",
+      "bigStat": {
+        "value": "$33.52",
+        "label": "Brent minus Basra Heavy",
+        "arabicLabel": "الفرق بين سعر خام برنت 87.22 دولاراً وخام البصرة الثقيل 53.70 دولاراً للبرميل الأربعاء، وهو حاصل طرح السعرين المعلنين (شفق نيوز · بغداد اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "87.22$"
+        },
+        {
+          "label": "البصرة الثقيل",
+          "value": "53.70$"
+        },
+        {
+          "label": "الفرق",
+          "value": "33.52$"
+        }
+      ],
+      "broll": "images/news/2026-07-29-brent-basra-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-29-brent-basra-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FF6B3D",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ضربات فجر الأربعاء في 7 محافظات",
+      "arabicBody": "مخزونات النفط الأمريكية نزلت نحو 3.3 مليون برميل (معهد البترول الأمريكي · شفق نيوز)، وبالتوازي ضربات أمريكية وسعودية فجر الأربعاء في سبع محافظات (964).",
+      "bigStat": {
+        "value": "7",
+        "label": "Governorates struck at dawn",
+        "arabicLabel": "عدد المحافظات التي استهدفتها ضربات أمريكية وسعودية فجر الأربعاء 29 تموز 2026: بغداد وواسط ونينوى والبصرة وكركوك وكربلاء وديالى (964 · الجزيرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظات",
+          "value": "7"
+        },
+        {
+          "label": "مخزونات أمريكا",
+          "value": "−3.3 مليون"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "+3.47%"
+        }
+      ],
+      "broll": "images/news/2026-07-29-brent-basra-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-29-brent-basra-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Baghdad Today",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام برنت صعد 3.72% أي 3.13 دولار إلى 87.22 دولاراً للبرميل الأربعاء 29 تموز 2026 (شفق نيوز · بغداد اليوم)",
+    "خام غرب تكساس الوسيط صعد 3.47% أي 2.75 دولار إلى 82.01 دولاراً للبرميل (شفق نيوز · بغداد اليوم)",
+    "خام البصرة الثقيل نزل 0.90% إلى 53.70 دولاراً، وخام البصرة المتوسط نزل 0.87% إلى 56.00 دولاراً (شفق نيوز · بغداد اليوم)",
+    "الفرق بين برنت وخام البصرة الثقيل 33.52 دولاراً للبرميل، وهو حاصل طرح السعرين المعلنين",
+    "مخزونات النفط الأمريكية نزلت نحو 3.3 مليون برميل في الأسبوع المنتهي 24 تموز (معهد البترول الأمريكي · شفق نيوز)",
+    "الضربات الأمريكية والسعودية فجر الأربعاء استهدفت مواقع للحشد الشعبي في سبع محافظات (964 · الجزيرة)",
+    "شكد صرفت على السوق هالأسبوع؟"
+  ]
+}

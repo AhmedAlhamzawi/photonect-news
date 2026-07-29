@@ -58,7 +58,20 @@ def assign_for_date(date_str: str) -> int:
         with props.open("w") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             f.write("\n")
-        print(f"  [{i % len(MOODS)}] {slug_dir.name}: {before} → {mood}")
+        # V11 voiced reels read their bed from v11-brief.json, not props.json, so
+        # the brief has to be kept in step or the rotation never reaches them and
+        # every voiced reel ships on whatever bed the author script hard-coded.
+        brief = slug_dir / ".meta" / "v11-brief.json"
+        synced = ""
+        if brief.exists():
+            with brief.open() as f:
+                bdata = json.load(f)
+            bdata["audioBed"] = mood
+            with brief.open("w") as f:
+                json.dump(bdata, f, ensure_ascii=False, indent=2)
+                f.write("\n")
+            synced = "  (+v11 brief)"
+        print(f"  [{i % len(MOODS)}] {slug_dir.name}: {before} → {mood}{synced}")
     return len(slugs)
 
 
