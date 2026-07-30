@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 30 • 2026",
+  "arabicDateLabel": "30 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "أنواء · حرارة",
+    "arabicHeadline": "48 بميسان الأربعاء… و50 متوقعة السبت",
+    "englishSubhead": "MAYSAN 48C WEDNESDAY | 50C FORECAST SATURDAY | PARTS OF CENTRE & SOUTH",
+    "heroMedia": "images/news/2026-07-30-heat-50-saturday/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ميسان 48… والحرارة ترتفع من جديد",
+      "arabicBody": "أعلى قراءة الأربعاء كانت في ميسان: 48 درجة، بعد أيام أقل حرارة، بحسب الهيئة العامة للأنواء الجوية والرصد الزلزالي (964).",
+      "bigStat": {
+        "value": "48°",
+        "label": "Maysan, Wednesday's high",
+        "arabicLabel": "أعلى درجة حرارة سجّلتها الهيئة العامة للأنواء الجوية والرصد الزلزالي في ميسان، بعد عدة أيام أقل حرارة (الأنواء الجوية · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "ميسان",
+          "value": "48°"
+        },
+        {
+          "label": "البصرة",
+          "value": "47°"
+        },
+        {
+          "label": "بغداد",
+          "value": "46°"
+        }
+      ],
+      "broll": "images/news/2026-07-30-heat-50-saturday/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-30-heat-50-saturday/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "من 44 بدهوك إلى 48 بميسان بنفس اليوم",
+      "arabicBody": "47 في كركوك ونينوى وواسط والبصرة وذي قار، و46 في بغداد وأربيل وديالى وصلاح الدين وبابل والديوانية والمثنى، و44 في دهوك والأنبار، بحسب الهيئة.",
+      "bigStat": {
+        "value": "44°→48°",
+        "label": "the spread across Iraq on one day",
+        "arabicLabel": "الفارق بين أدنى وأعلى درجة حرارة في جدول الأنواء الجوية لليوم نفسه: 44 درجة في دهوك والأنبار و48 في ميسان (الأنواء الجوية · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "كركوك ونينوى",
+          "value": "47°"
+        },
+        {
+          "label": "كربلاء والنجف",
+          "value": "45°"
+        },
+        {
+          "label": "دهوك والأنبار",
+          "value": "44°"
+        }
+      ],
+      "broll": "images/news/2026-07-30-heat-50-saturday/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-30-heat-50-saturday/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الهيئة تتوقع 50 درجة يوم السبت",
+      "arabicBody": "يومان فقط ويصل الرقم إلى 50: الهيئة تتوقع الحرارة عند هذا الحد في أجزاء من الوسط والجنوب يوم السبت، بحسب 964.",
+      "bigStat": {
+        "value": "50°",
+        "label": "forecast for Saturday",
+        "arabicLabel": "الحرارة التي تتوقعها الهيئة العامة للأنواء الجوية والرصد الزلزالي في أجزاء من وسط وجنوب العراق يوم السبت (الأنواء الجوية · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "متوقعة السبت",
+          "value": "50°"
+        },
+        {
+          "label": "المناطق",
+          "value": "أجزاء من الوسط والجنوب"
+        },
+        {
+          "label": "الأربعاء بميسان",
+          "value": "48°"
+        }
+      ],
+      "broll": "images/news/2026-07-30-heat-50-saturday/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-30-heat-50-saturday/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iraqi Meteorological Organization",
+      "domain": "meteoseism.gov.iq"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "الهيئة العامة للأنواء الجوية والرصد الزلزالي: الحرارة ترتفع في معظم مناطق العراق بعد أيام أقل حرارة (964)",
+    "ميسان سجّلت 48 درجة، وهي الأعلى في جدول الهيئة للأربعاء (964)",
+    "كركوك ونينوى وواسط والبصرة وذي قار: 47 درجة (964)",
+    "بغداد وأربيل وديالى وصلاح الدين وبابل والديوانية والمثنى: 46 درجة (964)",
+    "السليمانية وكربلاء والنجف: 45 درجة، ودهوك والأنبار: 44 درجة (964)",
+    "الهيئة تتوقع 50 درجة في أجزاء من الوسط والجنوب يوم السبت (964)",
+    "شكد وصلت الحرارة بمنطقتك اليوم؟"
+  ]
+}

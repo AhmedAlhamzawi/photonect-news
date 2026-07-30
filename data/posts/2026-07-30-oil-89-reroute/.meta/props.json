@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 30 • 2026",
+  "arabicDateLabel": "30 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · شحن",
+    "arabicHeadline": "برنت ينزل إلى 89.45 دولاراً… بعد قفزة 7.91%",
+    "englishSubhead": "BRENT $89.45, -1.42% | AFTER +7.91% | 39 SHIPS VIA BAB AL-MANDAB",
+    "heroMedia": "images/news/2026-07-30-oil-89-reroute/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يتراجع 1.42% إلى 89.45 دولاراً",
+      "arabicBody": "برنت تراجع 1.29 دولاراً أي 1.42% إلى 89.45 دولاراً للبرميل، والخام الأمريكي 0.56 دولاراً أي 0.66% إلى 83.90، بحسب رويترز.",
+      "bigStat": {
+        "value": "$89.45",
+        "label": "Brent per barrel",
+        "arabicLabel": "سعر خام برنت للبرميل بعد تراجعه 1.29 دولاراً أي 1.42% في الجلسة، بحسب رويترز نقلاً عن 964"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "$89.45"
+        },
+        {
+          "label": "الخام الأمريكي",
+          "value": "$83.90"
+        },
+        {
+          "label": "تراجع برنت",
+          "value": "-1.42%"
+        }
+      ],
+      "broll": "images/news/2026-07-30-oil-89-reroute/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-30-oil-89-reroute/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "قبل يوم واحد كان برنت يقفز 7.91%",
+      "arabicBody": "الجلسة السابقة: برنت صعد 7.91% والخام الأمريكي 6.56%، بعد ضربات أمريكية وسعودية على منشآت قيل إنها تُستخدم من جماعات مدعومة من إيران في العراق، بحسب رويترز.",
+      "bigStat": {
+        "value": "+7.91%",
+        "label": "Brent's previous-session surge",
+        "arabicLabel": "نسبة صعود خام برنت في الجلسة السابقة قبل تراجعه، مقابل 6.56% للخام الأمريكي، بحسب رويترز نقلاً عن 964"
+      },
+      "supportingStats": [
+        {
+          "label": "صعود برنت",
+          "value": "+7.91%"
+        },
+        {
+          "label": "صعود الأمريكي",
+          "value": "+6.56%"
+        },
+        {
+          "label": "ثم تراجع",
+          "value": "-1.42%"
+        }
+      ],
+      "broll": "images/news/2026-07-30-oil-89-reroute/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-30-oil-89-reroute/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "39 سفينة بباب المندب… وهرمز بحركة ضعيفة",
+      "arabicBody": "محلل IG توني سيكامور: النفط يخرج بمسارات متعددة. 39 سفينة شحن عبرت باب المندب الثلاثاء، الأعلى منذ 19 تموز، مقابل حركة ضعيفة بهرمز، بحسب رويترز.",
+      "bigStat": {
+        "value": "39",
+        "label": "ships through Bab al-Mandab Tuesday",
+        "arabicLabel": "عدد سفن الشحن التي عبرت مضيق باب المندب يوم الثلاثاء، وهو الأعلى منذ 19 تموز، مقابل حركة ضعيفة في مضيق هرمز (رويترز · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "باب المندب",
+          "value": "39 سفينة"
+        },
+        {
+          "label": "الأعلى منذ",
+          "value": "19 تموز"
+        },
+        {
+          "label": "هرمز",
+          "value": "حركة ضعيفة"
+        }
+      ],
+      "broll": "images/news/2026-07-30-oil-89-reroute/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-30-oil-89-reroute/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام برنت تراجع 1.29 دولاراً أي 1.42% إلى 89.45 دولاراً للبرميل (رويترز · 964)",
+    "الخام الأمريكي تراجع 0.56 دولاراً أي 0.66% إلى 83.90 دولاراً للبرميل (رويترز · 964)",
+    "الجلسة السابقة شهدت صعود برنت 7.91% والخام الأمريكي 6.56% (رويترز · 964)",
+    "الصعود بعد ضربات أمريكية وسعودية على منشآت بالعراق قيل إنها تُستخدم من جماعات مدعومة من إيران (رويترز · 964)",
+    "39 سفينة شحن عبرت مضيق باب المندب الثلاثاء، الأعلى منذ 19 تموز 2026 (رويترز · 964)",
+    "حركة الملاحة في مضيق هرمز ضعيفة، ومحلل IG توني سيكامور يرى أن النفط يخرج بمسارات متعددة (رويترز · 964)",
+    "شكد تحسّ فرق بسعر البنزين أو النقل بمنطقتك؟"
+  ]
+}

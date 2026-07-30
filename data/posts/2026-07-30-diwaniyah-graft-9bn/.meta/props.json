@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 30 • 2026",
+  "arabicDateLabel": "30 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة · الديوانية",
+    "arabicHeadline": "مستندات بـ9 مليارات دينار… ونحو 30 أمر قبض",
+    "englishSubhead": "DIWANIYAH MUNICIPALITY | ~30 WARRANTS | 9BN IQD VOUCHERS",
+    "heroMedia": "images/news/2026-07-30-diwaniyah-graft-9bn/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "عملية النزاهة ببلدية الديوانية: نحو 30 أمر قبض",
+      "arabicBody": "الخميس، أعلنت هيئة النزاهة الاتحادية تنفيذ عملية في بلدية الديوانية بنحو 30 أمر قبض وتحرٍ، بالتنسيق مع خلية الصقور الاستخبارية. بلدية واحدة، نحو 30 أمراً.",
+      "bigStat": {
+        "value": "~30",
+        "label": "arrest and search warrants",
+        "arabicLabel": "عدد أوامر القبض والتحري التي أعلنت هيئة النزاهة الاتحادية تنفيذها في بلدية الديوانية يوم الخميس 30 تموز 2026، بالتنسيق مع خلية الصقور الاستخبارية (هيئة النزاهة الاتحادية · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "أوامر",
+          "value": "نحو 30"
+        },
+        {
+          "label": "مديرون سابقون",
+          "value": "5"
+        },
+        {
+          "label": "مقاولون",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-07-30-diwaniyah-graft-9bn/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-30-diwaniyah-graft-9bn/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المدير الحالي و5 سابقون… والقائمة أطول",
+      "arabicBody": "الأوامر طالت مدير البلدية الحالي و5 من مديريها السابقين و6 من موظفي الحسابات والتدقيق ومدير حسابات المحافظة و15 موظفاً و3 مقاولين، بحسب الهيئة.",
+      "bigStat": {
+        "value": "9",
+        "label": "billion IQD in seized vouchers",
+        "arabicLabel": "قيمة مستندات الصرف التي قالت هيئة النزاهة الاتحادية إنها ضُبطت في العملية، وتجاوزت 9 مليارات دينار في معاملات البلدية (هيئة النزاهة الاتحادية · 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "موظفو حسابات وتدقيق",
+          "value": "6"
+        },
+        {
+          "label": "موظفون آخرون",
+          "value": "15"
+        },
+        {
+          "label": "مستندات صرف",
+          "value": "أكثر من 9 مليارات"
+        }
+      ],
+      "broll": "images/news/2026-07-30-diwaniyah-graft-9bn/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-30-diwaniyah-graft-9bn/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النزاهة: قوائم أسعار مبالغ فيها ووثائق وهمية",
+      "arabicBody": "الهيئة ضبطت أختاماً رسمية ومبالغ نقدية، وتحدثت عن قوائم أسعار مبالغ فيها ووثائق أعمال وهمية، وأحالت القضايا إلى قضاة تحقيق وفق المواد 315 و319 و340.",
+      "bigStat": {
+        "value": "315·319·340",
+        "label": "Penal Code articles cited",
+        "arabicLabel": "مواد قانون العقوبات التي أحيلت القضايا بموجبها إلى قضاة تحقيق مختصين بجرائم النزاهة، بحسب هيئة النزاهة الاتحادية (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "مواد قانونية",
+          "value": "3"
+        },
+        {
+          "label": "أختام رسمية",
+          "value": "مضبوطة"
+        },
+        {
+          "label": "مبالغ نقدية",
+          "value": "مضبوطة"
+        }
+      ],
+      "broll": "images/news/2026-07-30-diwaniyah-graft-9bn/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-30-diwaniyah-graft-9bn/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Federal Integrity Commission",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "الخميس 30 تموز 2026: هيئة النزاهة الاتحادية تعلن عملية ببلدية الديوانية بنحو 30 أمر قبض وتحرٍ (964)",
+    "الأوامر طالت مدير البلدية الحالي و5 من مديريها السابقين، بحسب الهيئة (964)",
+    "وطالت أيضاً 6 من موظفي الحسابات والتدقيق ومدير حسابات المحافظة و15 موظفاً و3 مقاولين (964)",
+    "الهيئة قالت إنها ضبطت مستندات صرف تجاوزت 9 مليارات دينار في معاملات البلدية (964)",
+    "الاتهامات التي أعلنتها الهيئة: اختلاس ورشوة وتربح من العقود وتلاعب بالأسعار وتبديد للمال العام (964)",
+    "العملية نُفذت بالتنسيق مع خلية الصقور الاستخبارية، والقضايا أُحيلت وفق المواد 315 و319 و340 (964)",
+    "شكد صار على آخر تصليح بشارعكم؟"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 30 • 2026",
+  "arabicDateLabel": "30 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · سوق",
+    "arabicHeadline": "بغداد تبيع 100 دولار بـ150,750… والسعر الرسمي 130,000",
+    "englishSubhead": "BAGHDAD $100 = 150,750 IQD | OFFICIAL 130,000 | GAP 20,750",
+    "heroMedia": "images/news/2026-07-30-dollar-city-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بغداد الأغلى بالجدول: تبيع 100 دولار بـ150,750",
+      "arabicBody": "بورصة بغداد صباح الخميس: بيع 150,750 ديناراً لكل 100 دولار وشراء 150,500، أي 250 ديناراً فرق بين البيع والشراء، بحسب 964.",
+      "bigStat": {
+        "value": "150,750",
+        "label": "Baghdad selling price for $100",
+        "arabicLabel": "سعر بيع 100 دولار في بورصة بغداد صباح الخميس 30 تموز 2026، مقابل سعر شراء 150,500 دينار (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد بيع",
+          "value": "150,750"
+        },
+        {
+          "label": "بغداد شراء",
+          "value": "150,500"
+        },
+        {
+          "label": "الفرق",
+          "value": "250"
+        }
+      ],
+      "broll": "images/news/2026-07-30-dollar-city-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-30-dollar-city-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أربيل والبصرة أرخص… والبصرة تشتري بـ150,000",
+      "arabicBody": "في أربيل بيع 150,500 وشراء 150,250، وفي البصرة بيع 150,500 وشراء 150,000 — أرخص سعر شراء في الجدول اليوم، بحسب 964.",
+      "bigStat": {
+        "value": "150,000",
+        "label": "Basra buying price for $100",
+        "arabicLabel": "سعر شراء 100 دولار في بورصة البصرة صباح الخميس 30 تموز 2026، وهو الأدنى بين المدن الثلاث في الجدول نفسه (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "150,500"
+        },
+        {
+          "label": "البصرة بيع",
+          "value": "150,500"
+        },
+        {
+          "label": "البصرة شراء",
+          "value": "150,000"
+        }
+      ],
+      "broll": "images/news/2026-07-30-dollar-city-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-30-dollar-city-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "والسعر الرسمي؟ 130,000… والفارق 20,750",
+      "arabicBody": "على الورق، 100 دولار بـ130,000 دينار بسعر البنك المركزي. وفي السوق، بغداد تبيعه بـ150,750 ديناراً، أي فارق 20,750، بحسب 964.",
+      "bigStat": {
+        "value": "20,750",
+        "label": "IQD gap vs the official rate",
+        "arabicLabel": "الفارق بين سعر بيع 100 دولار في بورصة بغداد (150,750) والسعر الرسمي المقرر من البنك المركزي (130,000) صباح الخميس 30 تموز 2026 (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر الرسمي",
+          "value": "130,000"
+        },
+        {
+          "label": "بغداد بيع",
+          "value": "150,750"
+        },
+        {
+          "label": "الفارق",
+          "value": "20,750"
+        }
+      ],
+      "broll": "images/news/2026-07-30-dollar-city-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-30-dollar-city-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Central Bank of Iraq (via 964media)",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصة بغداد صباح الخميس 30 تموز 2026: بيع 150,750 ديناراً وشراء 150,500 لكل 100 دولار (964)",
+    "أربيل: بيع 150,500 ديناراً وشراء 150,250 لكل 100 دولار (964)",
+    "البصرة: بيع 150,500 ديناراً وشراء 150,000 لكل 100 دولار (964)",
+    "أرخص سعر شراء في الجدول اليوم كان في البصرة عند 150,000 دينار (964)",
+    "على الورق: السعر الرسمي المقرر من البنك المركزي 130,000 دينار لكل 100 دولار (964)",
+    "وفي السوق: الفارق بين سعر بيع بغداد والسعر الرسمي 20,750 ديناراً لكل 100 دولار (964)",
+    "شكد دفعت لآخر مئة دولار اشتريتها؟"
+  ]
+}
