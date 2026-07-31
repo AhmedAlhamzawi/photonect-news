@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 31 • 2026",
+  "arabicDateLabel": "31 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · صيرفة",
+    "arabicHeadline": "الخميس: 1,000 دينار فرق بكل 100 دولار",
+    "englishSubhead": "BAGHDAD EXCHANGE SHOPS SELL $100 AT 151,000 IQD AND BUY AT 150,000 — A 1,000 IQD SPREAD (THU 30 JUL)",
+    "heroMedia": "images/news/2026-07-31-dollar-friday-shops/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الصيرفة تبيع بـ151,000 وتشتري بـ150,000… فرق 1,000",
+      "arabicBody": "آخر تسعيرة معلنة يوم الخميس: الصيرفة تبيع 100 دولار بـ151,000 دينار وتشتريها بـ150,000، أي فارق 1,000 تدفعه كاملاً إذا بدّلت رجعة، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD spread per $100 at exchange shops",
+        "arabicLabel": "الفارق بين سعر بيع وشراء 100 دولار في محال الصيرفة يوم الخميس 30 تموز 2026: بيع عند حدود 151,000 دينار وشراء نحو 150,000 (وكالة مستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "151,000"
+        },
+        {
+          "label": "شراء",
+          "value": "150,000"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-07-31-dollar-friday-shops/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-31-dollar-friday-shops/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بالبورصة أرخص: 150,650 لكل 100 دولار",
+      "arabicBody": "بورصتا الكفاح والحارثية استقرتا الخميس عند 150,650 ديناراً لكل 100 دولار، صعوداً من 150,300 يوم الأربعاء، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "150,650",
+        "label": "al-Kifah / al-Harithiya level on Thursday",
+        "arabicLabel": "مستوى بورصتي الكفاح والحارثية يوم الخميس 30 تموز 2026 لكل 100 دولار، مقابل 150,300 ديناراً يوم الأربعاء 29 تموز (وكالة مستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخميس",
+          "value": "150,650"
+        },
+        {
+          "label": "الأربعاء",
+          "value": "150,300"
+        },
+        {
+          "label": "الصيرفة فوق البورصة (محتسب)",
+          "value": "350"
+        }
+      ],
+      "broll": "images/news/2026-07-31-dollar-friday-shops/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-31-dollar-friday-shops/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وبأربيل؟ الفارق 100 دينار فقط",
+      "arabicBody": "في أربيل بيع 150,800 وشراء 150,700 يوم الخميس، أي فارق 100 دينار فقط مقابل نحو 1,000 في محال بغداد، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "100",
+        "label": "IQD spread in Erbil, vs ~1,000 in Baghdad shops",
+        "arabicLabel": "الفارق بين البيع والشراء لكل 100 دولار في أربيل يوم الخميس 30 تموز 2026: بيع 150,800 دينار وشراء 150,700 (وكالة مستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "150,800"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "150,700"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "100"
+        }
+      ],
+      "broll": "images/news/2026-07-31-dollar-friday-shops/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-31-dollar-friday-shops/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikala Mustaqila",
+      "domain": "mustaqila.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "آخر تسعيرة معلنة يوم الخميس 30 تموز 2026: محال الصيرفة تبيع 100 دولار عند حدود 151,000 دينار (وكالة مستقلة)",
+    "سعر الشراء في محال الصيرفة بلغ نحو 150,000 دينار لكل 100 دولار، أي فارق 1,000 دينار (وكالة مستقلة)",
+    "بورصتا الكفاح والحارثية استقرتا يوم الخميس عند 150,650 ديناراً لكل 100 دولار (وكالة مستقلة)",
+    "وكان مستوى البورصتين 150,300 ديناراً يوم الأربعاء 29 تموز 2026 (وكالة مستقلة)",
+    "في أربيل يوم الخميس: بيع 150,800 دينار وشراء 150,700 لكل 100 دولار (وكالة مستقلة)",
+    "الفارق بين البيع والشراء في أربيل 100 دينار، مقابل نحو 1,000 دينار في محال الصيرفة (وكالة مستقلة)",
+    "شكد دفعت آخر مرة صرّفت دولار؟"
+  ]
+}

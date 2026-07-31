@@ -1,0 +1,130 @@
+{
+  "dateLabel": "JUL 31 • 2026",
+  "arabicDateLabel": "31 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سيادة · ضربات",
+    "arabicHeadline": "الحشد: ضربات بـ7 محافظات… وبغداد: لا علم ولا موافقة",
+    "englishSubhead": "US-SAUDI STRIKES HIT SITES IN 7 IRAQI GOVERNORATES PER THE PMF; BAGHDAD SAYS IT GAVE NO APPROVAL",
+    "heroMedia": "images/news/2026-07-31-foreign-strikes-sovereignty/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الحشد: الضربات طالت 7 محافظات",
+      "arabicBody": "هيئة الحشد الشعبي قالت إن ضربات فجر الأربعاء طالت مقرات في 7 محافظات، والقيادة المركزية الأمريكية أعلنت تنفيذ العملية مع السعودية، بحسب الجزيرة.",
+      "bigStat": {
+        "value": "7",
+        "label": "governorates hit, per the PMF statement",
+        "arabicLabel": "عدد المحافظات التي قالت هيئة الحشد الشعبي إن الضربات طالت مقرات فيها فجر الأربعاء 29 تموز 2026: بغداد وواسط ونينوى والبصرة وكركوك وكربلاء وديالى. القيادة المركزية الأمريكية اكتفت بالقول إنها شرق العراق (الجزيرة · الحرة)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظات",
+          "value": "7"
+        },
+        {
+          "label": "التاريخ",
+          "value": "29 تموز"
+        },
+        {
+          "label": "المعلن",
+          "value": "أمريكا والسعودية"
+        }
+      ],
+      "broll": "images/news/2026-07-31-foreign-strikes-sovereignty/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-31-foreign-strikes-sovereignty/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بغداد تنفي الموافقة… والروايتان متعارضتان",
+      "arabicBody": "المتحدث باسم الحكومة حيدر العبودي قال إن بغداد لم تمنح أي موافقة ولم يكن لديها علم مسبق، فيما نُقل عن ترامب أنها جرت بالتنسيق مع العراق.",
+      "bigStat": {
+        "value": "+30",
+        "label": "drone attacks CENTCOM cited as its stated reason",
+        "arabicLabel": "عدد الهجمات بطائرات مسيّرة خلال 72 ساعة التي قالت القيادة المركزية الأمريكية إن الضربات جاءت رداً عليها. ما نُقل عن ترامب وما تقوله بغداد متعارضان بشأن التنسيق المسبق (الجزيرة · ميدل إيست مونيتور)"
+      },
+      "supportingStats": [
+        {
+          "label": "موقف بغداد",
+          "value": "لا موافقة"
+        },
+        {
+          "label": "مسيّرات",
+          "value": "+30"
+        },
+        {
+          "label": "خلال",
+          "value": "72 ساعة"
+        }
+      ],
+      "broll": "images/news/2026-07-31-foreign-strikes-sovereignty/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-31-foreign-strikes-sovereignty/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "زيارة السعودية تأجلت… والرياض: لا نسعى للتصعيد",
+      "arabicBody": "رئيس الوزراء أجّل زيارته إلى السعودية التي كانت مقررة الخميس، والمتحدث باسم وزارة الدفاع السعودية تركي المالكي قال إن المملكة لا تسعى للتصعيد لكنها سترد بحزم.",
+      "bigStat": {
+        "value": "30 تموز",
+        "label": "date of the postponed visit to Saudi Arabia",
+        "arabicLabel": "الموعد الذي كانت مقررة فيه زيارة رئيس الوزراء علي فالح الزيدي إلى السعودية قبل تأجيلها عقب الضربات. بغداد تصفها بالتأجيل لا الإلغاء (الجزيرة · CNN بالعربية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزيارة",
+          "value": "مؤجلة"
+        },
+        {
+          "label": "كانت بتاريخ",
+          "value": "30 تموز"
+        },
+        {
+          "label": "الرياض",
+          "value": "لا تصعيد"
+        }
+      ],
+      "broll": "images/news/2026-07-31-foreign-strikes-sovereignty/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-31-foreign-strikes-sovereignty/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.net"
+    },
+    {
+      "name": "CNN Arabic",
+      "domain": "arabic.cnn.com"
+    }
+  ],
+  "arabicTicker": [
+    "هيئة الحشد الشعبي قالت إن ضربات فجر الأربعاء 29 تموز 2026 طالت مقرات في 7 محافظات (الجزيرة)",
+    "القيادة المركزية الأمريكية أعلنت تنفيذ العملية مع السعودية، والرياض أكدت مشاركتها (الجزيرة)",
+    "المجلس الوزاري للأمن الوطني وصف ما جرى بأنه انتهاك صارخ لسيادة العراق وحرمة أراضيه (الجزيرة)",
+    "المتحدث باسم الحكومة حيدر العبودي: بغداد لم تمنح أي موافقة ولم يكن لديها علم مسبق بالضربات (ميدل إيست مونيتور)",
+    "القيادة المركزية الأمريكية قالت إن الضربات جاءت رداً على أكثر من 30 هجوماً بطائرات مسيّرة خلال 72 ساعة (الجزيرة)",
+    "رئيس الوزراء أجّل زيارته إلى السعودية التي كانت مقررة الخميس 30 تموز 2026 (الجزيرة · CNN بالعربية)",
+    "المتحدث باسم وزارة الدفاع السعودية تركي المالكي: المملكة لا تسعى للتصعيد لكنها سترد بحزم",
+    "سمعت صوت الضربات بمحافظتك لو لا؟"
+  ]
+}

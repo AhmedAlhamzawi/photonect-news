@@ -1,0 +1,129 @@
+{
+  "dateLabel": "JUL 31 • 2026",
+  "arabicDateLabel": "31 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "tech_ai",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "إنترنت · اتصالات",
+    "arabicHeadline": "ستارلنك اشتغلت بالعراق… والاشتراك سيتراوح بين 75 و150 ألفاً",
+    "englishSubhead": "STARLINK GOES LIVE IN IRAQ; CMC SAYS MONTHLY SUBSCRIPTIONS WILL RANGE 75,000-150,000 IQD",
+    "heroMedia": "images/news/2026-07-31-starlink-live-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "ستارلنك تبدأ العمل رسمياً في العراق",
+      "arabicBody": "رئيس الجهاز التنفيذي لهيئة الإعلام والاتصالات بليغ أبو كلل أعلن الأربعاء الإطلاق الفعلي لخدمة ستارلنك، بعد إعلان توقيع الرخصة في 17 تموز.",
+      "bigStat": {
+        "value": "29 تموز",
+        "label": "date Starlink went live in Iraq",
+        "arabicLabel": "اليوم الذي أعلن فيه رئيس الجهاز التنفيذي لهيئة الإعلام والاتصالات بليغ أبو كلل الإطلاق الفعلي لخدمة ستارلنك في العراق، بعد إعلان توقيع رخصة التشغيل في 17 تموز 2026 (964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإطلاق",
+          "value": "29 تموز"
+        },
+        {
+          "label": "إعلان الرخصة",
+          "value": "17 تموز"
+        },
+        {
+          "label": "محطات أرضية",
+          "value": "7"
+        }
+      ],
+      "broll": "images/news/2026-07-31-starlink-live-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-31-starlink-live-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "وشكد يكلف؟ بين 75 و150 ألف دينار",
+      "arabicBody": "أبو كلل قال إن سعر الاشتراك سيتراوح بين 75 و150 ألف دينار شهرياً، وهو نطاق أعلنته الهيئة وليس تعرفة نهائية، بحسب 964.",
+      "bigStat": {
+        "value": "75-150",
+        "label": "thousand IQD monthly subscription range",
+        "arabicLabel": "النطاق الشهري لسعر اشتراك ستارلنك كما أعلنه رئيس الجهاز التنفيذي لهيئة الإعلام والاتصالات بليغ أبو كلل يوم 29 تموز 2026، بصيغة سيتراوح، أي نطاق معلن لا تعرفة نهائية (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "نطاق معلن (من)",
+          "value": "75 ألف"
+        },
+        {
+          "label": "نطاق معلن (إلى)",
+          "value": "150 ألف"
+        },
+        {
+          "label": "الدورية",
+          "value": "شهرياً"
+        }
+      ],
+      "broll": "images/news/2026-07-31-starlink-live-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-31-starlink-live-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "و40 ألف جهاز كان يشتغل بلا ترخيص",
+      "arabicBody": "الهيئة قدّرت وجود نحو 40 ألف جهاز يعمل بلا ترخيص، وقالت إن حصة الدولة 8% من الإيرادات و1% خدمة شاملة، إضافة إلى ضريبة أرباح 15%.",
+      "bigStat": {
+        "value": "40,000",
+        "label": "unlicensed terminals estimated before launch",
+        "arabicLabel": "العدد التقديري لأجهزة ستارلنك التي كانت تعمل في العراق بلا ترخيص قبل الإطلاق الرسمي، بحسب تقدير هيئة الإعلام والاتصالات وليس إحصاءً مستقلاً (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "أجهزة بلا ترخيص",
+          "value": "~40,000"
+        },
+        {
+          "label": "حصة الدولة",
+          "value": "8%+1%"
+        },
+        {
+          "label": "ضريبة أرباح",
+          "value": "15%"
+        }
+      ],
+      "broll": "images/news/2026-07-31-starlink-live-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-31-starlink-live-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Communications and Media Commission",
+      "domain": "cmc.iq"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس الجهاز التنفيذي لهيئة الإعلام والاتصالات بليغ أبو كلل أعلن في 29 تموز 2026 الإطلاق الفعلي لخدمة ستارلنك في العراق (964)",
+    "أُعلن توقيع رخصة التشغيل في 17 تموز 2026 (964)",
+    "أبو كلل: سعر الاشتراك سيتراوح بين 75 و150 ألف دينار شهرياً، وهو نطاق معلن وليس تعرفة نهائية (964)",
+    "حصة الدولة 8% من الإيرادات المباشرة و1% رسم خدمة شاملة، إضافة إلى ضريبة أرباح بنسبة 15% (964)",
+    "الهيئة تحدثت عن إنشاء 7 محطات أرضية حول بغداد (واع)",
+    "الهيئة قدّرت وجود نحو 40 ألف جهاز ستارلنك يعمل في العراق بلا ترخيص قبل الإطلاق (964)",
+    "تشترك بسعر يوصل 150 ألف بالشهر لو لا؟"
+  ]
+}

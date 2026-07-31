@@ -1,0 +1,130 @@
+{
+  "dateLabel": "JUL 31 • 2026",
+  "arabicDateLabel": "31 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رقابة · كهرباء",
+    "arabicHeadline": "الرقابة المالية: تريليونا دينار مقابل كهرباء أُنتجت ولم تُستغل",
+    "englishSubhead": "FEDERAL BOARD OF SUPREME AUDIT DIAGNOSES ~2TN IQD PAID FOR PRODUCED-BUT-UNUSED POWER UNDER TAKE-OR-PAY CONTRACTS",
+    "heroMedia": "images/news/2026-07-31-power-2tn-unused/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الرقابة المالية تشخّص هدراً بتريليوني دينار",
+      "arabicBody": "رئيس ديوان الرقابة المالية الاتحادي عمار صبحي المشهداني قال الثلاثاء إن الحكومة دفعت نحو تريليوني دينار مقابل طاقة كهربائية أُنتجت ولم تُستغل.",
+      "bigStat": {
+        "value": "2",
+        "label": "trillion IQD paid for unused electricity",
+        "arabicLabel": "قيمة ما قال رئيس ديوان الرقابة المالية الاتحادي عمار صبحي المشهداني إن الحكومة دفعته مقابل طاقة كهربائية منتجة غير مستغلة ضمن عقود خذ أو ادفع، في تصريحات يوم 28 تموز 2026. التوصيف المعلن هدر مالي مشخّص، لا اتهام بالسرقة (كلمة · شفقنا)"
+      },
+      "supportingStats": [
+        {
+          "label": "هدر مشخّص",
+          "value": "~2 تريليون"
+        },
+        {
+          "label": "نوع العقود",
+          "value": "خذ أو ادفع"
+        },
+        {
+          "label": "التصريح",
+          "value": "28 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-31-power-2tn-unused/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-31-power-2tn-unused/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الإنتاج 22,000 ميغاواط… والحاجة 60,000",
+      "arabicBody": "وزير الكهرباء علي وهيب قال أمام مجلس النواب الاثنين إن الإنتاج انخفض إلى 22,000 ميغاواط مقابل حاجة 60,000، وإن أكثر من 60% يُهدر بالتجاوزات.",
+      "bigStat": {
+        "value": "22,000",
+        "label": "MW generation against a 60,000 MW need",
+        "arabicLabel": "مستوى الإنتاج الذي قال وزير الكهرباء علي وهيب أمام مجلس النواب يوم 27 تموز 2026 إن المنظومة انخفضت إليه، مقابل حاجة العراق البالغة 60,000 ميغاواط (non14)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج",
+          "value": "22,000"
+        },
+        {
+          "label": "الحاجة",
+          "value": "60,000"
+        },
+        {
+          "label": "يُهدر بالتجاوزات",
+          "value": "+60%"
+        }
+      ],
+      "broll": "images/news/2026-07-31-power-2tn-unused/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-31-power-2tn-unused/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "و14 تريليون ديون متعثرة… و2,000 تقرير للقضاء",
+      "arabicBody": "المشهداني تحدث أيضاً عن 14 تريليون دينار ديوناً متعثرة للدولة، وإحالة نحو 2,000 تقرير رقابي إلى النزاهة والادعاء العام والمحاكم خلال 3 سنوات.",
+      "bigStat": {
+        "value": "14",
+        "label": "trillion IQD in debts owed to the state",
+        "arabicLabel": "قيمة الديون المتعثرة والمستحقة السداد بذمة أشخاص وشركات ومؤسسات لمصلحة الدولة، بحسب رئيس ديوان الرقابة المالية الاتحادي في 28 تموز 2026 (كلمة)"
+      },
+      "supportingStats": [
+        {
+          "label": "ديون متعثرة",
+          "value": "14 تريليون"
+        },
+        {
+          "label": "تقارير للقضاء",
+          "value": "~2,000"
+        },
+        {
+          "label": "خلال",
+          "value": "3 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-07-31-power-2tn-unused/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-31-power-2tn-unused/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Federal Board of Supreme Audit",
+      "domain": "fbsa.gov.iq"
+    },
+    {
+      "name": "Kalima IQ",
+      "domain": "kalimaiq.com"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس ديوان الرقابة المالية الاتحادي عمار صبحي المشهداني قال في 28 تموز 2026 إن الحكومة دفعت نحو تريليوني دينار مقابل طاقة منتجة غير مستغلة (كلمة)",
+    "الدفع جرى ضمن عقود خذ أو ادفع، والتوصيف المعلن هو هدر مالي مشخّص وليس اتهاماً بالسرقة (كلمة · شفقنا)",
+    "وزارة الكهرباء ردت علناً على ما ورد في تقرير ديوان الرقابة المالية (كلمة)",
+    "وزير الكهرباء علي وهيب قال أمام مجلس النواب في 27 تموز 2026 إن الإنتاج انخفض إلى 22,000 ميغاواط (non14)",
+    "الوزير قدّر حاجة العراق بـ60,000 ميغاواط، وقال إن أكثر من 60% من الطاقة المجهزة يُهدر بالتجاوزات (non14)",
+    "المشهداني تحدث عن 14 تريليون دينار ديوناً متعثرة لمصلحة الدولة (كلمة)",
+    "الديوان أحال نحو 2,000 تقرير رقابي إلى هيئة النزاهة والادعاء العام والمحاكم خلال 3 سنوات (كلمة)",
+    "شكد ساعة كهرباء وطنية جتك اليوم؟"
+  ]
+}

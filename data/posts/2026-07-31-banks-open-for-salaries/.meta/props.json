@@ -1,0 +1,130 @@
+{
+  "dateLabel": "JUL 31 • 2026",
+  "arabicDateLabel": "31 تموز 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب · مصارف",
+    "arabicHeadline": "راتبك وين؟ الحكومة تقر بالتأخير وبعض فروع الرافدين تفتح بالعطلة",
+    "englishSubhead": "GOVERNMENT SPOKESMAN SAYS SALARIES WILL BE LATE; RAFIDAIN KEEPS SOME BRANCHES OPEN FRIDAY AND SATURDAY",
+    "heroMedia": "images/news/2026-07-31-banks-open-for-salaries/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المتحدث باسم الحكومة يقر: الرواتب ستتأخر",
+      "arabicBody": "حيدر العبودي، المتحدث باسم الحكومة، قال الخميس إن الرواتب ستتأخر وإن البلاد تمر بأزمة مالية حقيقية، بحسب 964.",
+      "bigStat": {
+        "value": "+10",
+        "label": "trillion IQD the state needs monthly",
+        "arabicLabel": "ما قال المتحدث باسم الحكومة حيدر العبودي إن الحكومة مطالبة بتأمينه شهرياً: أكثر من 10 تريليونات دينار. وهو إجمالي الاحتياج الشهري للدولة وليس فاتورة الرواتب وحدها (964 · موقع هذا اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاحتياج الشهري",
+          "value": "+10 تريليون"
+        },
+        {
+          "label": "المتحدث",
+          "value": "حيدر العبودي"
+        },
+        {
+          "label": "التصريح",
+          "value": "30 تموز"
+        }
+      ],
+      "broll": "images/news/2026-07-31-banks-open-for-salaries/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-07-31-banks-open-for-salaries/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الرافدين يشغّل عدداً من فروعه الجمعة والسبت",
+      "arabicBody": "مصرف الرافدين وجّه عدداً من فروعه بالاستمرار بالدوام يومي الجمعة والسبت لإكمال توطين الرواتب، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "22 تموز",
+        "label": "date July salary funding was released",
+        "arabicLabel": "اليوم الذي باشرت فيه دائرة المحاسبة في وزارة المالية إجراءات إطلاق تمويلات رواتب موظفي الدولة لشهر تموز، قبل أن يوجّه مصرف الرافدين عدداً من فروعه بالدوام يومي الجمعة والسبت (وكالة مستقلة · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "دوام إضافي",
+          "value": "الجمعة والسبت"
+        },
+        {
+          "label": "إطلاق التمويل",
+          "value": "22 تموز"
+        },
+        {
+          "label": "الفروع",
+          "value": "عدد منها"
+        }
+      ],
+      "broll": "images/news/2026-07-31-banks-open-for-salaries/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-07-31-banks-open-for-salaries/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثم تتعطل الدوائر يومي 3 و4 آب",
+      "arabicBody": "مجلس الوزراء عطّل الدوام الرسمي يومي 3 و4 آب بمناسبة الأربعينية، بقرار اتُخذ في جلسة 25 تموز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "3-4 آب",
+        "label": "state institutions closed for Arbaeen",
+        "arabicLabel": "يوما تعطيل الدوام الرسمي في مؤسسات الدولة بمناسبة زيارة الأربعينية، بقرار من مجلس الوزراء في جلسته يوم 25 تموز 2026 (شفق نيوز · بغداد اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "العطلة",
+          "value": "3-4 آب"
+        },
+        {
+          "label": "قرار المجلس",
+          "value": "25 تموز"
+        },
+        {
+          "label": "سبب التعطيل",
+          "value": "الأربعينية"
+        }
+      ],
+      "broll": "images/news/2026-07-31-banks-open-for-salaries/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-07-31-banks-open-for-salaries/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "المتحدث باسم الحكومة حيدر العبودي الخميس 30 تموز 2026: الرواتب ستتأخر والبلاد تمر بأزمة مالية حقيقية (964)",
+    "العبودي: الحكومة مطالبة بأكثر من 10 تريليونات دينار شهرياً، وهو إجمالي الاحتياج الشهري للدولة لا فاتورة الرواتب (موقع هذا اليوم · 964)",
+    "مصرف الرافدين وجّه عدداً من فروعه بالاستمرار بالدوام يومي الجمعة والسبت لإكمال توطين الرواتب (شفق نيوز)",
+    "دائرة المحاسبة في وزارة المالية باشرت في 22 تموز 2026 إجراءات إطلاق تمويلات رواتب تموز (وكالة مستقلة · شفق نيوز)",
+    "اللجنة المالية النيابية عزت التأخير في 28 تموز إلى نقص طارئ ومؤقت في السيولة (المدى)",
+    "مجلس الوزراء عطّل الدوام الرسمي يومي 3 و4 آب بمناسبة الأربعينية، بقرار اتُخذ في 25 تموز (شفق نيوز · بغداد اليوم)",
+    "نحو 9 ملايين عراقي يتقاضون رواتب من الدولة، بحسب المستشار المالي لرئيس الوزراء مظهر محمد صالح",
+    "وصل راتبك لو لا؟"
+  ]
+}
