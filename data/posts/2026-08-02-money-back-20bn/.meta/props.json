@@ -1,0 +1,133 @@
+{
+  "dateLabel": "AUG 02 • 2026",
+  "arabicDateLabel": "2 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "قضاء · مال عام",
+    "arabicHeadline": "القضاء: استرداد 20 مليار دينار بجرائم فساد واحتيال",
+    "englishSubhead": "IRAQ'S SUPREME JUDICIAL COUNCIL SAYS THE RUSAFA INVESTIGATION COURT RECOVERED 20 BILLION IQD IN A GRAFT AND FRAUD CASE",
+    "heroMedia": "images/news/2026-08-02-money-back-20bn/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "محكمة الرصافة تسترد 20 مليار دينار",
+      "arabicBody": "أعلن مجلس القضاء الأعلى يوم الأحد أن محكمة تحقيق الرصافة المختصة بقضايا النزاهة وغسل الأموال استردت 20 مليار دينار على خلفية جرائم فساد مالي وإداري واحتيال.",
+      "bigStat": {
+        "value": "20",
+        "label": "billion IQD recovered",
+        "arabicLabel": "المبلغ الذي أعلن مجلس القضاء الأعلى استرداده يوم الأحد 2 آب 2026 عبر محكمة تحقيق الرصافة المختصة بالنزاهة وغسل الأموال"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "20 مليار"
+        },
+        {
+          "label": "المحكمة",
+          "value": "تحقيق الرصافة"
+        },
+        {
+          "label": "التاريخ",
+          "value": "2 آب"
+        }
+      ],
+      "broll": "images/news/2026-08-02-money-back-20bn/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-02-money-back-20bn/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بسعر الأحد… نحو 13.2 مليون دولار",
+      "arabicBody": "بحساب سعر صرف الأحد في بورصتي الكفاح والحارثية، 151,800 دينار لكل 100 دولار، يعادل المبلغ المسترد نحو 13.2 مليون دولار (محتسب).",
+      "bigStat": {
+        "value": "13.2",
+        "label": "million USD equivalent at Sunday's bourse rate (computed)",
+        "arabicLabel": "ما يعادله المبلغ المسترد بالدولار بسعر بورصتي الكفاح والحارثية يوم الأحد 2 آب 2026 البالغ 151,800 دينار لكل 100 دولار — رقم محتسب"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار",
+          "value": "20 مليار"
+        },
+        {
+          "label": "سعر الأحد",
+          "value": "151,800"
+        },
+        {
+          "label": "بالدولار (محتسب)",
+          "value": "13.2 مليون"
+        }
+      ],
+      "broll": "images/news/2026-08-02-money-back-20bn/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-02-money-back-20bn/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بلا أسماء… والقضية لسه مفتوحة",
+      "arabicBody": "البيان لم يفصح عن أسماء ولا جهات، والإجراءات مستمرة. وخلال أسبوعين من تموز أعلنت النزاهة استرداد أكثر من 41 مليار دينار بقضايا منفصلة.",
+      "bigStat": {
+        "value": "41+",
+        "label": "billion IQD the Integrity Commission reported recovering over two weeks in July",
+        "arabicLabel": "ما أعلنت هيئة النزاهة الاتحادية استرداده خلال أسبوعين من تموز 2026 في قضايا منفصلة، للمقارنة مع 20 مليار دينار في 2 آب (هيئة النزاهة · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "تموز (أسبوعان)",
+          "value": "41+ مليار"
+        },
+        {
+          "label": "2 آب",
+          "value": "20 مليار"
+        },
+        {
+          "label": "أسماء معلنة",
+          "value": "لا"
+        }
+      ],
+      "broll": "images/news/2026-08-02-money-back-20bn/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-02-money-back-20bn/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Baghdad Today",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Federal Integrity Commission",
+      "domain": "nazaha.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مجلس القضاء الأعلى يعلن يوم الأحد 2 آب 2026 استرداد 20 مليار دينار على خلفية جرائم فساد واحتيال (بغداد اليوم · شفق نيوز)",
+    "محكمة تحقيق الرصافة المختصة بقضايا النزاهة وغسل الأموال هي التي استردت المبلغ (بيان إعلام القضاء)",
+    "البيان لم يفصح عن أسماء ولا عن جهات (بيان إعلام القضاء)",
+    "المحكمة أكدت استمرار الإجراءات القانونية بحق المخالفين (بيان إعلام القضاء)",
+    "بسعر بورصة الأحد 151,800 ديناراً لكل 100 دولار، يعادل المبلغ نحو 13.2 مليون دولار (محتسب)",
+    "وخلال أسبوعين من تموز 2026 أعلنت هيئة النزاهة استرداد أكثر من 41 مليار دينار في قضايا منفصلة (هيئة النزاهة · شفق نيوز)",
+    "سمعت بقضية استرداد مثل هذي قبل؟ إي لو لا؟"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "dateLabel": "AUG 02 • 2026",
+  "arabicDateLabel": "2 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · صيرفة",
+    "arabicHeadline": "الأحد 2 آب: +950 ديناراً لكل 100 دولار",
+    "englishSubhead": "BAGHDAD'S KIFAH/HARITHIYA BOURSES CLOSED SUNDAY AT 151,800 IQD PER $100, UP FROM 150,850 ON SATURDAY",
+    "heroMedia": "images/news/2026-08-02-dollar-jump-sunday/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بورصة بغداد 151,800 الأحد… بعد 150,850 السبت",
+      "arabicBody": "أغلقت بورصتا الكفاح والحارثية الأحد عند 151,800 دينار لكل 100 دولار، مقابل 150,850 السبت، أي 950 ديناراً بجلسة واحدة (محتسب)، بحسب وكالة مستقلة وشفق نيوز.",
+      "bigStat": {
+        "value": "151,800",
+        "label": "IQD per $100 on the Baghdad bourses, Sunday",
+        "arabicLabel": "سعر 100 دولار في بورصتي الكفاح والحارثية ببغداد يوم الأحد 2 آب 2026، مقابل 150,850 ديناراً يوم السبت (وكالة مستقلة · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد",
+          "value": "151,800"
+        },
+        {
+          "label": "السبت",
+          "value": "150,850"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "950"
+        }
+      ],
+      "broll": "images/news/2026-08-02-dollar-jump-sunday/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-02-dollar-jump-sunday/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بالصيرفة: بيع 152,250 وشراء 151,250",
+      "arabicBody": "في محال الصيرفة ببغداد: بيع 152,250 ديناراً لكل 100 دولار وشراء 151,250، أي فارق 1,000 دينار بين السعرين (محتسب)، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "152,250",
+        "label": "shop selling price per $100",
+        "arabicLabel": "سعر بيع 100 دولار في محال الصيرفة ببغداد يوم الأحد 2 آب 2026، مقابل سعر شراء 151,250 ديناراً (وكالة مستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "152,250"
+        },
+        {
+          "label": "شراء",
+          "value": "151,250"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-08-02-dollar-jump-sunday/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-02-dollar-jump-sunday/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وبثلاث جلسات: من 150,650 إلى 151,800",
+      "arabicBody": "وكان مستوى البورصتين 150,650 ديناراً لكل 100 دولار يوم الخميس 30 تموز، أي ارتفاع 1,150 ديناراً خلال ثلاث جلسات منشورة (محتسب)، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "1,150",
+        "label": "IQD rise per $100 across three published sessions (computed)",
+        "arabicLabel": "الفارق بين مستوى بورصتي الكفاح والحارثية يوم الخميس 30 تموز 2026 البالغ 150,650 ديناراً لكل 100 دولار ومستوى الأحد 2 آب البالغ 151,800 — رقم محتسب (وكالة مستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخميس 30 تموز",
+          "value": "150,650"
+        },
+        {
+          "label": "الأحد 2 آب",
+          "value": "151,800"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "1,150"
+        }
+      ],
+      "broll": "images/news/2026-08-02-dollar-jump-sunday/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-02-dollar-jump-sunday/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikala Mustaqila",
+      "domain": "mustaqila.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية ببغداد أغلقتا عند 151,800 دينار لكل 100 دولار يوم الأحد 2 آب 2026 (وكالة مستقلة · شفق نيوز)",
+    "سعر السبت كان 150,850 ديناراً لكل 100 دولار، أي ارتفاع 950 ديناراً لكل 100 دولار بجلسة واحدة (محتسب)",
+    "محال الصيرفة ببغداد: بيع 152,250 وشراء 151,250 لكل 100 دولار (وكالة مستقلة)",
+    "الفارق بين البيع والشراء في محال بغداد 1,000 دينار على كل 100 دولار (محتسب)",
+    "أربيل يوم الأحد: بيع 152,200 وشراء 152,100 لكل 100 دولار (وكالة مستقلة)",
+    "مستوى البورصتين يوم الخميس 30 تموز كان 150,650 ديناراً، أي ارتفاع 1,150 ديناراً بثلاث جلسات (محتسب)",
+    "بيش صرّفت آخر 100 دولار؟"
+  ]
+}

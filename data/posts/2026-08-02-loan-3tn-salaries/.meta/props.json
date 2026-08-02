@@ -1,0 +1,126 @@
+{
+  "dateLabel": "AUG 02 • 2026",
+  "arabicDateLabel": "2 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب · اقتراض",
+    "arabicHeadline": "رواتب آب… توجّه لاقتراض 3 تريليونات دينار",
+    "englishSubhead": "SHAFAQ NEWS: THE GOVERNMENT IS MOVING TO BORROW 3 TRILLION IQD FROM PRIVATE BANKS TO COVER AUGUST SALARIES",
+    "heroMedia": "images/news/2026-08-02-loan-3tn-salaries/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تقرير: توجّه لاقتراض 3 تريليونات لرواتب آب",
+      "arabicBody": "تقرير لشفق نيوز يقول إن الحكومة تتجه للاقتراض الداخلي من المصارف الأهلية بـ3 تريليونات دينار لتأمين رواتب آب.",
+      "bigStat": {
+        "value": "3",
+        "label": "trillion IQD of planned domestic borrowing",
+        "arabicLabel": "حجم الاقتراض الداخلي من المصارف الأهلية الذي تتجه إليه الحكومة لتأمين رواتب آب 2026، بحسب تقرير شفق نيوز الصادر في 2 آب"
+      },
+      "supportingStats": [
+        {
+          "label": "القرض",
+          "value": "3 تريليون"
+        },
+        {
+          "label": "الرواتب شهرياً",
+          "value": "7.8 تريليون"
+        },
+        {
+          "label": "الحاجة الشهرية",
+          "value": "10.8 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-08-02-loan-3tn-salaries/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-02-loan-3tn-salaries/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحاجة الشهرية 10.8 تريليون… والنفط يوفّر 2.5",
+      "arabicBody": "التقرير نفسه يقدّر حاجة الدولة الشهرية للرواتب والنفقات بنحو 10.8 تريليون دينار، فيما لا تتجاوز الإيرادات النفطية الشهرية حالياً 2.5 تريليون دينار.",
+      "bigStat": {
+        "value": "2.5",
+        "label": "trillion IQD of current monthly oil revenue",
+        "arabicLabel": "الإيرادات النفطية الشهرية الحالية بحسب تقرير شفق نيوز في 2 آب 2026، مقابل حاجة شهرية تقارب 10.8 تريليون دينار"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلوب شهرياً",
+          "value": "10.8 تريليون"
+        },
+        {
+          "label": "الإيراد النفطي",
+          "value": "2.5 تريليون"
+        },
+        {
+          "label": "الرواتب وحدها",
+          "value": "7.8 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-08-02-loan-3tn-salaries/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-02-loan-3tn-salaries/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الدين الداخلي بين 106 و125 تريليوناً",
+      "arabicBody": "ويقدّر التقرير الدين الداخلي المترتب على الحكومة بين 106 و125 تريليون دينار، والفائدة السنوية على أدوات الاقتراض الحكومية 5.25%.",
+      "bigStat": {
+        "value": "5.25%",
+        "label": "annual interest on government borrowing instruments",
+        "arabicLabel": "الفائدة السنوية على أدوات الاقتراض الحكومية بحسب تقرير شفق نيوز في 2 آب 2026، مع دين داخلي يتراوح بين 106 و125 تريليون دينار"
+      },
+      "supportingStats": [
+        {
+          "label": "الدين الداخلي",
+          "value": "106-125 تريليون"
+        },
+        {
+          "label": "الفائدة السنوية",
+          "value": "5.25%"
+        },
+        {
+          "label": "الفجوة الشهرية (محتسب)",
+          "value": "8.3 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-08-02-loan-3tn-salaries/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-02-loan-3tn-salaries/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "تقرير لشفق نيوز في 2 آب 2026: الحكومة تتجه لاقتراض 3 تريليونات دينار من المصارف الأهلية لتأمين رواتب آب",
+    "إجمالي الالتزامات الشهرية للرواتب نحو 7 تريليونات و800 مليار دينار (شفق نيوز)",
+    "الحاجة الشهرية للرواتب والنفقات العامة نحو 10.8 تريليون دينار (شفق نيوز)",
+    "الإيرادات النفطية الشهرية حالياً لا تتجاوز 2.5 تريليون دينار، مقابل معدل نحو 5.4 تريليون شهرياً بين كانون الثاني وأيار (محتسب من أرقام شفق نيوز)",
+    "الدين الداخلي المترتب على الحكومة بين 106 و125 تريليون دينار (شفق نيوز)",
+    "الفائدة السنوية على أدوات الاقتراض الحكومية 5.25% (شفق نيوز)",
+    "قانون الاقتراض المطروح تُقدَّر سقوفه بـ10 إلى 15 تريليون دينار، بينما قرض آب المذكور 3 تريليونات لشهر واحد (964 · شفق نيوز)",
+    "رواتبكم من وين؟ نفط لو قرض؟"
+  ]
+}

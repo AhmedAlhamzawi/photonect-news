@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 02 • 2026",
+  "arabicDateLabel": "2 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "احتياطي · مركزي",
+    "arabicHeadline": "الاحتياطي نزل 7 مليارات… وآخر رقم بنهاية أيار",
+    "englishSubhead": "IRAQ'S FX RESERVES FELL FROM ~$101BN AT THE START OF THE YEAR TO $93.67BN AT END-MAY, A 7.2% DROP IN FIVE MONTHS",
+    "heroMedia": "images/news/2026-08-02-reserves-93bn/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "من 101 مليار إلى 93.67 بنهاية أيار",
+      "arabicBody": "انخفض الاحتياطي الأجنبي للعراق من نحو 101 مليار دولار مطلع العام إلى 93.67 مليار بنهاية أيار، بحسب بيانات البنك المركزي التي نقلتها وكالة مستقلة.",
+      "bigStat": {
+        "value": "93.67",
+        "label": "billion USD in FX reserves at end-May",
+        "arabicLabel": "حجم الاحتياطي الأجنبي للعراق بنهاية أيار 2026 بحسب بيانات البنك المركزي التي نقلتها وكالة مستقلة في 2 آب"
+      },
+      "supportingStats": [
+        {
+          "label": "مطلع العام",
+          "value": "101 مليار"
+        },
+        {
+          "label": "نهاية أيار",
+          "value": "93.67 مليار"
+        },
+        {
+          "label": "المدة",
+          "value": "5 أشهر"
+        }
+      ],
+      "broll": "images/news/2026-08-02-reserves-93bn/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-02-reserves-93bn/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تراجع 7.2% في خمسة أشهر… ثلاثة أسباب",
+      "arabicBody": "نسبة التراجع بلغت 7.2% خلال خمسة أشهر، وتذكر الوكالة ثلاثة أسباب: انخفاض صادرات النفط الخام، اضطراب الملاحة البحرية وخصوصاً عبر مضيق هرمز، وارتفاع الإنفاق الحكومي.",
+      "bigStat": {
+        "value": "7.2%",
+        "label": "decline in reserves over five months",
+        "arabicLabel": "نسبة تراجع الاحتياطي الأجنبي العراقي بين مطلع 2026 ونهاية أيار بحسب بيانات البنك المركزي التي نقلتها وكالة مستقلة"
+      },
+      "supportingStats": [
+        {
+          "label": "سبب",
+          "value": "صادرات النفط"
+        },
+        {
+          "label": "سبب",
+          "value": "الملاحة"
+        },
+        {
+          "label": "سبب",
+          "value": "الإنفاق"
+        }
+      ],
+      "broll": "images/news/2026-08-02-reserves-93bn/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-02-reserves-93bn/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "7 مليارات دولار… وهذا أحدث رقم منشور",
+      "arabicBody": "الانخفاض نحو 7 مليارات دولار كما ورد في التقرير، وهو أحدث رقم منشور للاحتياطي حتى 2 آب، ويخص نهاية أيار 2026، بحسب وكالة مستقلة.",
+      "bigStat": {
+        "value": "7",
+        "label": "billion USD drop over the period",
+        "arabicLabel": "مقدار انخفاض الاحتياطي الأجنبي بالدولار بين مطلع 2026 ونهاية أيار بحسب بيانات البنك المركزي التي نقلتها وكالة مستقلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الانخفاض",
+          "value": "نحو 7 مليار"
+        },
+        {
+          "label": "مطلع العام",
+          "value": "101 مليار"
+        },
+        {
+          "label": "نهاية أيار",
+          "value": "93.67 مليار"
+        }
+      ],
+      "broll": "images/news/2026-08-02-reserves-93bn/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-02-reserves-93bn/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikala Mustaqila",
+      "domain": "mustaqila.com"
+    }
+  ],
+  "arabicTicker": [
+    "احتياطي العراق الأجنبي نزل إلى 93.67 مليار دولار بنهاية أيار 2026 (وكالة مستقلة نقلاً عن بيانات البنك المركزي)",
+    "مطلع 2026 كان الاحتياطي نحو 101 مليار دولار (وكالة مستقلة نقلاً عن بيانات البنك المركزي)",
+    "نسبة التراجع 7.2% خلال خمسة أشهر (وكالة مستقلة)",
+    "الانخفاض نحو 7 مليارات دولار خلال المدة نفسها (وكالة مستقلة)",
+    "الرقم يخص نهاية أيار 2026 وهو أحدث ما نُشر من بيانات الاحتياطي حتى 2 آب (وكالة مستقلة)",
+    "الأسباب المذكورة: انخفاض صادرات النفط الخام، واضطراب الملاحة عبر مضيق هرمز، وارتفاع الإنفاق الحكومي (وكالة مستقلة)",
+    "تتابع سعر الصرف كل يوم؟ إي لو لا؟"
+  ]
+}

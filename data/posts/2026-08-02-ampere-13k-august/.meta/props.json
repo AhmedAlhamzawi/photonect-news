@@ -1,0 +1,129 @@
+{
+  "dateLabel": "AUG 02 • 2026",
+  "arabicDateLabel": "2 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء · مولدات",
+    "arabicHeadline": "تسعيرة الأمبير ببغداد لشهر آب… 13 ألف دينار",
+    "englishSubhead": "BAGHDAD PROVINCIAL COUNCIL SETS THE AUGUST GENERATOR AMPERE TARIFF AT 13,000 IQD, UP FROM 10,000 IN JULY",
+    "heroMedia": "images/news/2026-08-02-ampere-13k-august/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مجلس بغداد يثبّت الأمبير على 13 ألف دينار",
+      "arabicBody": "سعر واحد على المولدة الأهلية والحكومية معاً: مجلس محافظة بغداد حدّد أمبير آب بـ13 ألف دينار، بحسب قناة الرشيد ووكالة الأنباء العراقية.",
+      "bigStat": {
+        "value": "13,000",
+        "label": "OFFICIAL AUGUST TARIFF PER AMPERE — BAGHDAD PROVINCIAL COUNCIL",
+        "arabicLabel": "تسعيرة أمبير المولدات الأهلية والحكومية في بغداد لشهر آب 2026 كما حدّدها مجلس المحافظة (قناة الرشيد · واع)"
+      },
+      "supportingStats": [
+        {
+          "label": "آب",
+          "value": "13,000"
+        },
+        {
+          "label": "تموز",
+          "value": "10,000"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "3,000"
+        }
+      ],
+      "broll": "images/news/2026-08-02-ampere-13k-august/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-02-ampere-13k-august/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "وبالتوازي: ساعات التجهيز نزلت",
+      "arabicBody": "يقول علي الزركاني، رئيس لجنة النفط والطاقة بالمجلس، إن «هناك تراجعاً كبيراً وواضحاً في ساعات تشغيل الكهرباء للمناطق التي تتبع نظام الخصخصة»، بحسب قناة الرشيد.",
+      "bigStat": {
+        "value": "10,000",
+        "label": "the July tariff it replaces",
+        "arabicLabel": "تسعيرة الأمبير في بغداد لشهر تموز 2026 التي حلّت محلها تسعيرة آب البالغة 13 ألف دينار (قناة الرشيد)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأهلية",
+          "value": "13,000"
+        },
+        {
+          "label": "الحكومية",
+          "value": "13,000"
+        },
+        {
+          "label": "تموز",
+          "value": "10,000"
+        }
+      ],
+      "broll": "images/news/2026-08-02-ampere-13k-august/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-02-ampere-13k-august/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "زيادة 30% بشهر واحد… والعقود تحت المراجعة",
+      "arabicBody": "3 آلاف دينار على كل أمبير، أي 30% بشهر واحد (محتسب). والمجلس يقول إنه يدرس عقود المجهزين وأسباب تراجع الساعات، بحسب قناة الرشيد.",
+      "bigStat": {
+        "value": "30%",
+        "label": "month-on-month rise (computed)",
+        "arabicLabel": "نسبة الزيادة بين تسعيرة تموز البالغة 10 آلاف دينار وتسعيرة آب البالغة 13 ألفاً — رقم محتسب من الرقمين المعلنين (قناة الرشيد)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزيادة (محتسب)",
+          "value": "3,000"
+        },
+        {
+          "label": "النسبة (محتسب)",
+          "value": "30%"
+        },
+        {
+          "label": "المدة",
+          "value": "شهر"
+        }
+      ],
+      "broll": "images/news/2026-08-02-ampere-13k-august/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-02-ampere-13k-august/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Rasheed",
+      "domain": "alrasheedmedia.com"
+    },
+    {
+      "name": "INA",
+      "domain": "ina.iq"
+    }
+  ],
+  "arabicTicker": [
+    "تسعيرة الأمبير في بغداد لشهر آب… 13 ألف دينار (قناة الرشيد · واع)",
+    "التسعيرة تشمل المولدات الأهلية والحكومية على حد سواء (قناة الرشيد)",
+    "تسعيرة تموز 2026 كانت 10 آلاف دينار للأمبير الواحد (قناة الرشيد)",
+    "الفرق بين الشهرين 3 آلاف دينار على كل أمبير، أي زيادة 30% (محتسب)",
+    "علي الزركاني، رئيس لجنة النفط والطاقة بالمجلس: تراجع كبير وواضح في ساعات تشغيل الكهرباء للمناطق التي تتبع نظام الخصخصة (قناة الرشيد)",
+    "المجلس يقول إنه يدرس عقود المجهزين ويتحقق من أسباب تراجع ساعات التجهيز (قناة الرشيد)",
+    "هاي التسعيرة الرسمية… شكد يريدون منك بمنطقتك؟"
+  ]
+}
