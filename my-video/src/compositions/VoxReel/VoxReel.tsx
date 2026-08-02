@@ -92,7 +92,7 @@ const Captions: React.FC<{ p: VoxReelProps }> = ({ p }) => {
           return (
             <span key={i} style={{
               fontFamily: FONT_ARABIC, fontWeight: 900, fontSize: 54, lineHeight: 1.45,
-              margin: "0 6px", display: "inline-block",
+              margin: "0 11px", display: "inline-block",
               color: on ? Y : "#F6F1E4",
               transform: on ? "scale(1.07)" : "scale(1)",
             }}>{w.word}</span>
