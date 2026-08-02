@@ -26,11 +26,15 @@ import { Essay } from "./compositions/Essay/Essay";
 import { essaySchema, computeEssayDuration } from "./compositions/Essay/schema";
 import { essayDefaultProps } from "./compositions/Essay/defaultProps";
 import { NewsReelV11 } from "./compositions/NewsReelV11/NewsReelV11";
+import { VoxReel } from "./compositions/VoxReel/VoxReel";
+import { voxReelSchema, computeVoxDuration } from "./compositions/VoxReel/schema";
+import { voxDefaultProps } from "./compositions/VoxReel/defaultProps";
 import { newsReelV11Schema, computeV11Duration } from "./compositions/NewsReelV11/schema";
 import { v11DefaultProps } from "./compositions/NewsReelV11/defaultProps";
 import { ProductAd } from "./compositions/ProductAd/ProductAd";
 import { productAdSchema } from "./compositions/ProductAd/schema";
 import { productAdDefaultProps, PRODUCT_AD_TOTAL_FRAMES } from "./compositions/ProductAd/defaultProps";
+import { TVCFlagship, tvcFlagshipSchema, TVC_DUR } from "./compositions/TVCFlagship/TVCFlagship";
 
 const DURATION_SECONDS = 15;
 const FPS = 30;
@@ -437,6 +441,17 @@ export const RemotionRoot: React.FC = () => {
           ],
         }}
       />
+      {/* VOX REEL — editorial motion-graphics explainer (code-animated collage). */}
+      <Composition
+        id="VoxReel"
+        component={VoxReel}
+        durationInFrames={computeVoxDuration(voxDefaultProps)}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={voxReelSchema}
+        defaultProps={voxDefaultProps}
+      />
       {/* NEWSREEL V11 — the VO-spine reel (2026-07-03 growth overhaul).
           Narrator drives every cut; karaoke captions; cold open; question
           end-card. Duration = VO frames + end card, from props. */}
@@ -477,6 +492,17 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         schema={productAdSchema}
         defaultProps={productAdDefaultProps}
+      />
+      {/* TVC FLAGSHIP — cinematic commercial: coldopen→bloom→Kie hero→endcard + Suno music */}
+      <Composition
+        id="TVCFlagship"
+        component={TVCFlagship}
+        durationInFrames={TVC_DUR}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={tvcFlagshipSchema}
+        defaultProps={{ hero: "fedshi/tvc/hero.mp4", bloom: "fedshi/tvc/bloom.mp4", icon: "fedshi/brand/icon.png", audio: "fedshi/tvc/music.mp3" }}
       />
     </>
   );
