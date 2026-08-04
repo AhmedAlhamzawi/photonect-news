@@ -1,0 +1,134 @@
+{
+  "dateLabel": "AUG 04 • 2026",
+  "arabicDateLabel": "4 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء · الأربعينية",
+    "arabicHeadline": "الوزارة شغّلت 13 محطة متنقلة بكربلاء… وبيتك شكد وصلك؟",
+    "englishSubhead": "IRAQ'S ELECTRICITY MINISTRY PUT 13 MOBILE SUBSTATIONS INTO SERVICE IN KARBALA, ADDED 41 NEW TRANSFORMERS PLUS 75 REHABILITATED ONES ON THE NAJAF-KARBALA ROAD (116 IN TOTAL, COMPUTED), AND RAN A CENTRAL EMERGENCY ROOM WITH ROUND-THE-CLOCK SUPPLY FOR THE ARBAEEN ROUTE",
+    "heroMedia": "images/news/2026-08-04-arbaeen-grid-karbala/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الوزارة تشغّل 13 محطة متنقلة داخل كربلاء",
+      "arabicBody": "وزارة الكهرباء تقول إنها أدخلت 13 محطة ثانوية متنقلة إلى الخدمة في كربلاء ضمن خطة الزيارة، بتغذية مستمرة 24 ساعة لمركز المدينة.",
+      "bigStat": {
+        "value": "13",
+        "label": "mobile substations into service in Karbala",
+        "arabicLabel": "عدد المحطات الثانوية المتنقلة التي أدخلتها وزارة الكهرباء إلى الخدمة في كربلاء ضمن خطة الزيارة الأربعينية (وزارة الكهرباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "محطات متنقلة",
+          "value": "13"
+        },
+        {
+          "label": "المحافظة",
+          "value": "كربلاء"
+        },
+        {
+          "label": "التغذية",
+          "value": "24 ساعة"
+        }
+      ],
+      "broll": "images/news/2026-08-04-arbaeen-grid-karbala/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-04-arbaeen-grid-karbala/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "41 محولة جديدة و75 مؤهلة على طريق الزائرين",
+      "arabicBody": "على طريق النجف — كربلاء، تقول الوزارة إنها أضافت 41 محولة جديدة وأهّلت 75 أخرى، ونظّمت التجهيز لنحو 15 ألف موكب. المجموع 116 محولة (محتسب).",
+      "bigStat": {
+        "value": "116",
+        "label": "transformers new or rehabilitated (computed)",
+        "arabicLabel": "مجموع المحولات على طريق النجف — كربلاء: 41 محولة جديدة و75 مؤهلة، والمجموع رقم محتسب من الرقمين المعلنين (وزارة الكهرباء)"
+      },
+      "supportingStats": [
+        {
+          "label": "محولة جديدة",
+          "value": "41"
+        },
+        {
+          "label": "محولة مؤهلة",
+          "value": "75"
+        },
+        {
+          "label": "المواكب",
+          "value": "15,000"
+        }
+      ],
+      "broll": "images/news/2026-08-04-arbaeen-grid-karbala/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-04-arbaeen-grid-karbala/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "غرفة طوارئ ومغذيات جديدة بكربلاء",
+      "arabicBody": "الوزارة شكّلت غرفة عمليات طوارئ مركزية للزيارة، واستحدثت مغذيات جديدة من محطة النضال لتقليل الأحمال عن المغذيات القائمة، مع تغذية مستمرة على مدار الساعة، بحسب بياناتها.",
+      "bigStat": {
+        "value": "24",
+        "label": "hours a day of supply on the pilgrim route",
+        "arabicLabel": "التغذية الكهربائية المستمرة على مدار الساعة لمناطق مركز كربلاء وطريق الزائرين خلال الزيارة الأربعينية بحسب بيانات وزارة الكهرباء"
+      },
+      "supportingStats": [
+        {
+          "label": "غرفة الطوارئ",
+          "value": "مركزية"
+        },
+        {
+          "label": "مغذيات جديدة",
+          "value": "محطة النضال"
+        },
+        {
+          "label": "التغذية",
+          "value": "24 ساعة"
+        }
+      ],
+      "broll": "images/news/2026-08-04-arbaeen-grid-karbala/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-04-arbaeen-grid-karbala/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ministry of Electricity",
+      "domain": "moelc.gov.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Kalima",
+      "domain": "kalimaiq.com"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة الكهرباء: 13 محطة ثانوية متنقلة دخلت الخدمة في كربلاء ضمن خطة الزيارة",
+    "41 محولة جديدة و75 محولة مؤهلة على طريق النجف — كربلاء (وزارة الكهرباء)",
+    "مجموع المحولات على الطريق 116 محولة (محتسب من الرقمين المعلنين)",
+    "التجهيز الكهربائي منظّم لنحو 15 ألف موكب خلال الزيارة (وزارة الكهرباء)",
+    "تغذية مستمرة 24 ساعة لمناطق مركز كربلاء خلال الزيارة (وزارة الكهرباء)",
+    "غرفة عمليات طوارئ مركزية شُكّلت لخدمة الزيارة الأربعينية في كربلاء (وزارة الكهرباء)",
+    "استحداث مغذيات جديدة من محطة النضال لتقليل الأحمال عن المغذيات القائمة (وزارة الكهرباء)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "dateLabel": "AUG 04 • 2026",
+  "arabicDateLabel": "4 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط · سومو",
+    "arabicHeadline": "ليش ينباع برميل البصرة بخصم يقارب 30 دولاراً؟",
+    "englishSubhead": "SOMO IS OFFERING AUGUST-LOADING BASRAH GRADES AT DISCOUNTS OF UP TO $29.80 A BARREL BELOW BENCHMARK TO PULL BUYERS INTO HORMUZ, AS JULY SEA EXPORTS RAN 63% BELOW JULY 2025",
+    "heroMedia": "images/news/2026-08-04-oil-discount-30/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "سومو تخصم حتى 29.80 دولاراً للبرميل",
+      "arabicBody": "سومو تعرض خامات البصرة لتحميلات آب بخصم 25 إلى 27 دولاراً للخفيف، و27.80 إلى 29.80 للثقيل، عن الأسعار المرجعية، بحسب منصة الطاقة نقلاً عن رويترز.",
+      "bigStat": {
+        "value": "$29.80",
+        "label": "top per-barrel discount on Basrah Heavy",
+        "arabicLabel": "أعلى خصم معروض على برميل خام البصرة الثقيل لتحميلات آب 2026 مقارنة بالأسعار المرجعية (منصة الطاقة نقلاً عن رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الثقيل",
+          "value": "27.80–29.80"
+        },
+        {
+          "label": "الخفيف",
+          "value": "25–27"
+        },
+        {
+          "label": "التحميل",
+          "value": "آب"
+        }
+      ],
+      "broll": "images/news/2026-08-04-oil-discount-30/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-04-oil-discount-30/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "السبب المعلن: جذب مشترين عبر هرمز",
+      "arabicBody": "الخصم يستهدف جذب مشترين للشحنات المحمّلة من داخل مضيق هرمز مع اضطراب الملاحة، والبيع تسليماً على ظهر السفينة من موانئ البصرة، بحسب منصة الطاقة.",
+      "bigStat": {
+        "value": "FOB",
+        "label": "sold free on board from Basrah ports",
+        "arabicLabel": "البيع يتم تسليماً على ظهر السفينة من موانئ ومرافئ التحميل بالبصرة، والخصم يستهدف الشحنات المحمّلة من داخل مضيق هرمز (منصة الطاقة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوجهة",
+          "value": "داخل هرمز"
+        },
+        {
+          "label": "شروط البيع",
+          "value": "على ظهر السفينة"
+        },
+        {
+          "label": "الموانئ",
+          "value": "البصرة"
+        }
+      ],
+      "broll": "images/news/2026-08-04-oil-discount-30/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-04-oil-discount-30/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ارتفاع عن حزيران… وهبوط 63% عن تموز الماضي",
+      "arabicBody": "صادرات تموز البحرية بلغت نحو 1.25 مليون برميل يومياً، بارتفاع 153% عن حزيران وانخفاض 63% عن تموز 2025 (3.38 مليون برميل يومياً)، بحسب وحدة أبحاث الطاقة.",
+      "bigStat": {
+        "value": "-63%",
+        "label": "July exports vs July 2025",
+        "arabicLabel": "نسبة انخفاض صادرات العراق البحرية في تموز 2026 مقارنة بتموز 2025 حين بلغت 3.38 مليون برميل يومياً (وحدة أبحاث الطاقة)"
+      },
+      "supportingStats": [
+        {
+          "label": "مقابل حزيران",
+          "value": "+153%"
+        },
+        {
+          "label": "مقابل تموز 2025",
+          "value": "-63%"
+        },
+        {
+          "label": "تموز 2025",
+          "value": "3.38 مليون ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-08-04-oil-discount-30/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-04-oil-discount-30/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Attaqa",
+      "domain": "attaqa.net"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Energy Research Unit",
+      "domain": "attaqa.net"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "سومو تعرض خام البصرة الثقيل لتحميلات آب بخصم 27.80 إلى 29.80 دولاراً للبرميل (منصة الطاقة نقلاً عن رويترز)",
+    "خام البصرة الخفيف بخصم 25 إلى 27 دولاراً للبرميل عن الأسعار المرجعية (منصة الطاقة نقلاً عن رويترز)",
+    "الهدف المعلن جذب مشترين للشحنات المحمّلة من داخل مضيق هرمز (منصة الطاقة)",
+    "البيع تسليماً على ظهر السفينة من موانئ ومرافئ التحميل بالبصرة (منصة الطاقة)",
+    "صادرات العراق البحرية بلغت نحو 1.25 مليون برميل يومياً في تموز 2026 (وحدة أبحاث الطاقة)",
+    "ارتفاع شهري 153% عن حزيران حين بلغت 493 ألف برميل يومياً (وحدة أبحاث الطاقة)",
+    "انخفاض 63% عن تموز 2025 حين بلغت الصادرات 3.38 مليون برميل يومياً (وحدة أبحاث الطاقة)",
+    "متوسط الأشهر السبعة الأولى 1.31 مليون برميل يومياً مقابل 3.33 مليون في 2025 (وحدة أبحاث الطاقة)",
+    "إيرادات النفط الشهرية لا تتجاوز 2.5 تريليون دينار مقابل احتياج شهري نحو 10.8 تريليون (شفق نيوز، 2 آب)",
+    "الصادرات البحرية في تموز تعادل نحو 39 مليون برميل للشهر (وحدة أبحاث الطاقة)",
+    "تشتغل بقطاع مرتبط بالنفط لو لا؟"
+  ]
+}

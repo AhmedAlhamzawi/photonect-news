@@ -1,0 +1,130 @@
+{
+  "dateLabel": "AUG 04 • 2026",
+  "arabicDateLabel": "4 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب · سيولة",
+    "arabicHeadline": "راتبك شيصير بيه؟ مستشار رئيس الوزراء: ضائقة وليست إفلاساً",
+    "englishSubhead": "THE PM'S FINANCIAL ADVISER SAYS THE LIQUIDITY SQUEEZE DOES NOT THREATEN SALARIES, FIVE DAYS AFTER THE FINANCE MINISTER PUT THE MONTHLY GAP AT 3.3 TRILLION DINARS ON 30 JULY",
+    "heroMedia": "images/news/2026-08-04-salaries-not-bankrupt/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مظهر صالح: ضائقة مالية لا إفلاس",
+      "arabicBody": "المستشار المالي والاقتصادي لرئيس الوزراء مظهر محمد صالح يقول إن العراق في ضائقة مالية لا إفلاس، وإن رواتب الموظفين والمتقاعدين أولوية مطلقة (شفق نيوز · المدى).",
+      "bigStat": {
+        "value": "أولوية",
+        "label": "salaries named absolute spending priority",
+        "arabicLabel": "المستشار المالي لرئيس الوزراء مظهر محمد صالح يصف الرواتب بالأولوية المطلقة في الإنفاق السيادي وينفي وصول البلاد إلى الإفلاس (شفق نيوز · المدى)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوصيف",
+          "value": "ضائقة"
+        },
+        {
+          "label": "الأولوية",
+          "value": "الرواتب"
+        },
+        {
+          "label": "المصدر",
+          "value": "مستشار رئيس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-08-04-salaries-not-bankrupt/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-04-salaries-not-bankrupt/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "وزير المالية: 7.8 تريليون رواتب شهرياً",
+      "arabicBody": "وزير المالية فالح الساري، 30 تموز: التزامات الرواتب الشهرية 7.8 تريليون دينار، والعجز الشهري المعلن 3.3 تريليون، وذكر سيولة متوافرة نحو 1.5 تريليون في حينه (شفق نيوز).",
+      "bigStat": {
+        "value": "7.8",
+        "label": "trillion IQD monthly salary bill",
+        "arabicLabel": "الالتزامات الشهرية لرواتب الموظفين بالتريليون دينار كما أعلنها وزير المالية فالح الساري في 30 تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرواتب شهرياً",
+          "value": "7.8 ت"
+        },
+        {
+          "label": "العجز المعلن",
+          "value": "3.3 ت"
+        },
+        {
+          "label": "تاريخ الإعلان",
+          "value": "30 تموز"
+        }
+      ],
+      "broll": "images/news/2026-08-04-salaries-not-bankrupt/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-04-salaries-not-bankrupt/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الخطة: تمويل داخلي سريع ثم اقتراض خارجي",
+      "arabicBody": "الخطة كما يصفها صالح: تمويل داخلي سريع للحاجات العاجلة، ثم اقتراض خارجي، بشرط ضبط الإنفاق وتحسين الإيرادات غير النفطية واستعادة طاقات التصدير، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "3.3",
+        "label": "trillion IQD stated monthly shortfall",
+        "arabicLabel": "العجز الشهري المقدَّر بالتريليون دينار كما أعلنه وزير المالية فالح الساري في 30 تموز 2026، وهو الفجوة التي تستهدفها خطة التمويل (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرحلة الأولى",
+          "value": "داخلي"
+        },
+        {
+          "label": "المرحلة الثانية",
+          "value": "خارجي"
+        },
+        {
+          "label": "الشرط",
+          "value": "ضبط الإنفاق"
+        }
+      ],
+      "broll": "images/news/2026-08-04-salaries-not-bankrupt/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-04-salaries-not-bankrupt/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al-Mada",
+      "domain": "almadapaper.net"
+    }
+  ],
+  "arabicTicker": [
+    "مظهر محمد صالح، المستشار المالي والاقتصادي لرئيس الوزراء: ضائقة مالية وليست إفلاساً (شفق نيوز · المدى)",
+    "الرواتب والمتقاعدون والرعاية الاجتماعية أولوية مطلقة في الإنفاق السيادي (المدى)",
+    "صالح يرجّح تمويلاً داخلياً سريعاً للحاجات العاجلة واقتراضاً خارجياً لاحقاً (شفق نيوز)",
+    "شروط نجاح الخطة: ضبط الإنفاق العام وتحسين الإيرادات غير النفطية (شفق نيوز)",
+    "ومنها استقرار سعر الصرف واستعادة طاقات التصدير النفطية (شفق نيوز)",
+    "وزير المالية فالح الساري في 30 تموز: التزامات الرواتب الشهرية 7.8 تريليون دينار (شفق نيوز)",
+    "السيولة المتوافرة آنذاك نحو 1.5 تريليون دينار والعجز المقدَّر 3.3 تريليون (شفق نيوز)",
+    "راتبك وصل بموعده لو تأخر؟"
+  ]
+}

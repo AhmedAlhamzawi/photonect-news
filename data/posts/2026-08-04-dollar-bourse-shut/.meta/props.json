@@ -1,0 +1,131 @@
+{
+  "dateLabel": "AUG 04 • 2026",
+  "arabicDateLabel": "4 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · صيرفة",
+    "arabicHeadline": "البورصة مسكّرة يومين… وسعر الدولار ببغداد ما تحرك",
+    "englishSubhead": "BAGHDAD'S TWO BOURSES STAYED SHUT A SECOND DAY FOR THE ARBAEEN HOLIDAY; SHOP RATES HELD FLAT WHILE ERBIL SAT ABOVE THEM",
+    "heroMedia": "images/news/2026-08-04-dollar-bourse-shut/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الكفاح والحارثية متوقفتان لليوم الثاني",
+      "arabicBody": "بورصتا الكفاح والحارثية أقفلتا لليوم الثاني بسبب عطلة الزيارة، بعد قرار مجلس الوزراء تعطيل الدوام الاثنين والثلاثاء، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2",
+        "label": "consecutive days the Baghdad bourses stayed shut",
+        "arabicLabel": "عدد أيام توقف بورصتي الكفاح والحارثية عن التداول بسبب عطلة الزيارة الأربعينية حتى صباح الثلاثاء 4 آب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أيام التوقف",
+          "value": "2"
+        },
+        {
+          "label": "السبب",
+          "value": "عطلة الزيارة"
+        },
+        {
+          "label": "القرار",
+          "value": "مجلس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-08-04-dollar-bourse-shut/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-04-dollar-bourse-shut/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصيرفة ببغداد ثابتة: 152,250 بيعاً",
+      "arabicBody": "لكن السوق ما وقف: محال الصيرفة ببغداد بقيت على 152,250 ديناراً بيعاً و151,250 شراءً لكل 100 دولار، بلا تغيير صباح الثلاثاء، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "152,250",
+        "label": "IQD per $100, Baghdad shops (sell)",
+        "arabicLabel": "سعر بيع الدولار في محال الصيرفة ببغداد لكل 100 دولار صباح الثلاثاء 4 آب 2026، مستقر دون تغيير (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "152,250"
+        },
+        {
+          "label": "شراء",
+          "value": "151,250"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-08-04-dollar-bourse-shut/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-04-dollar-bourse-shut/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أربيل فوق بغداد… والرسمي 132 ألفاً",
+      "arabicBody": "أربيل أعلى من بغداد: 152,900 ديناراً بيعاً، فيما بقي سعر البنك المركزي 132,000 دينار لكل 100 دولار — فارق 20,250 (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "20,250",
+        "label": "IQD gap between shop and official rate (computed)",
+        "arabicLabel": "الفارق بين سعر بيع محال الصيرفة ببغداد 152,250 والسعر الرسمي للبنك المركزي 132,000 لكل 100 دولار — رقم محتسب من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "152,900"
+        },
+        {
+          "label": "الرسمي",
+          "value": "132,000"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "20,250"
+        }
+      ],
+      "broll": "images/news/2026-08-04-dollar-bourse-shut/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-04-dollar-bourse-shut/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Central Bank of Iraq",
+      "domain": "cbi.iq"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية متوقفتان لليوم الثاني بسبب عطلة الزيارة الأربعينية (شفق نيوز)",
+    "مجلس الوزراء عطّل الدوام الرسمي يومي الاثنين والثلاثاء (شفق نيوز)",
+    "محال الصيرفة ببغداد: بيع 152,250 ديناراً لكل 100 دولار، بلا تغيير (شفق نيوز)",
+    "محال الصيرفة ببغداد: شراء 151,250 ديناراً لكل 100 دولار (شفق نيوز)",
+    "أربيل أعلى: بيع 152,900 وشراء 152,750 ديناراً لكل 100 دولار (شفق نيوز)",
+    "سعر أربيل يفوق بغداد بـ650 ديناراً على كل 100 دولار (محتسب)",
+    "سعر البنك المركزي الرسمي 132,000 دينار لكل 100 دولار (شفق نيوز)",
+    "الفارق بين سعر الصيرفة والسعر الرسمي 20,250 ديناراً (محتسب)",
+    "شنو سعر الدولار بمنطقتك اليوم؟"
+  ]
+}

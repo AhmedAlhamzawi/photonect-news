@@ -1,0 +1,126 @@
+{
+  "dateLabel": "AUG 04 • 2026",
+  "arabicDateLabel": "4 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "wildcard",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "أربعينية · اقتصاد",
+    "arabicHeadline": "4.89 مليون زائر دخل العراق… والعائد الاقتصادي شكد؟",
+    "englishSubhead": "IRAQ LOGGED 4,887,660 ARRIVALS SINCE MUHARRAM AS OF 3 AUGUST WHILE HOTEL AND TOURISM BODIES SAY THE SEASON'S ECONOMIC RETURN STAYS UNDERUSED",
+    "heroMedia": "images/news/2026-08-04-visitors-4-8-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "خلية العمليات: 4,887,660 زائراً منذ محرم",
+      "arabicBody": "خلية عمليات الزيارة الأربعينية أعلنت في 3 آب دخول 4 ملايين و887 ألفاً و660 زائراً إلى العراق منذ بداية شهر محرم، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "4,887,660",
+        "label": "arrivals logged since the start of Muharram",
+        "arabicLabel": "عدد الزائرين الذين دخلوا العراق منذ بداية شهر محرم بحسب إعلان خلية عمليات الزيارة الأربعينية في 3 آب 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزائرون",
+          "value": "4.89 مليون"
+        },
+        {
+          "label": "حتى",
+          "value": "3 آب"
+        },
+        {
+          "label": "المصدر",
+          "value": "خلية العمليات"
+        }
+      ],
+      "broll": "images/news/2026-08-04-visitors-4-8-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-04-visitors-4-8-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فنادق النجف: 80% من النشاط على الزائر الإيراني",
+      "arabicBody": "صائب أبو غنيمة، رئيس جمعية فنادق النجف، يقول إن نحو 80% من نشاط المطاعم والنقل والإيواء في الموسم يعتمد على الزائر الإيراني، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "80%",
+        "label": "of hospitality activity tied to Iranian visitors",
+        "arabicLabel": "نسبة نشاط المطاعم والنقل والإيواء التي تعتمد على الزائرين الإيرانيين في مواسم الزيارة بحسب رئيس جمعية فنادق النجف صائب أبو غنيمة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اعتماد على إيران",
+          "value": "80%"
+        },
+        {
+          "label": "القطاعات",
+          "value": "مطاعم ونقل وإيواء"
+        },
+        {
+          "label": "المصدر",
+          "value": "جمعية فنادق النجف"
+        }
+      ],
+      "broll": "images/news/2026-08-04-visitors-4-8-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-04-visitors-4-8-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مليارات تدور… وتقديرات بمئات الملايين",
+      "arabicBody": "الخبير الاقتصادي كريم الحلاو يقول إن مليارات الدنانير تدور خلال زيارة تمتد 15 إلى 20 يوماً، وتُقدَّر نفقات السياحة الدينية بمئات ملايين الدولارات، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "15–20",
+        "label": "days the spending cycle lasts",
+        "arabicLabel": "مدة الزيارة التي تدور خلالها مليارات الدنانير في المخابز والمطاعم والأسواق والخدمات بحسب الخبير الاقتصادي كريم الحلاو (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "مدة الدورة",
+          "value": "15–20 يوماً"
+        },
+        {
+          "label": "التقدير",
+          "value": "مئات ملايين الدولارات"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-08-04-visitors-4-8-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-04-visitors-4-8-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "خلية عمليات الزيارة الأربعينية (3 آب): 4 ملايين و887 ألفاً و660 زائراً دخلوا العراق منذ بداية محرم (شفق نيوز)",
+    "العراق استقبل نحو 10 ملايين زائر في 2025، وأكثر من 85% منهم زوار مزارات دينية (شفق نيوز)",
+    "أزهر الكلش، نائب رئيس جمعية فنادق كربلاء: الحرب الإقليمية أثّرت بوضوح على زيارات الموسم (شفق نيوز)",
+    "تراجع الزائرين الأجانب مرتبط بتأخر التأشيرات واضطراب الرحلات (شفق نيوز)",
+    "صائب أبو غنيمة، رئيس جمعية فنادق النجف: نحو 80% من نشاط المطاعم والنقل والإيواء على الزائر الإيراني (شفق نيوز)",
+    "كريم الحلاو، خبير اقتصادي: مليارات الدنانير تدور خلال زيارة تمتد 15 إلى 20 يوماً (شفق نيوز)",
+    "تقديرات نفقات السياحة الدينية بمئات ملايين الدولارات مع إمكانية بلوغ المليارات عند تطوير القطاع (شفق نيوز)",
+    "زرت كربلاء هالسنة لو لا؟"
+  ]
+}
