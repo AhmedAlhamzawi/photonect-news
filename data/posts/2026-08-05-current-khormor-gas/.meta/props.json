@@ -1,0 +1,136 @@
+{
+  "dateLabel": "AUG 05 • 2026",
+  "arabicDateLabel": "5 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء · غاز",
+    "arabicHeadline": "غاز خور مور يدخل محطة التازة بكركوك: 100 مليون قدم مكعبة يومياً",
+    "englishSubhead": "KHOR MOR BEGAN SUPPLYING 100 MMSCF/D OF GAS TO THE TAZA POWER PLANT IN KIRKUK",
+    "heroMedia": "images/news/2026-08-05-current-khormor-gas/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "100 مليون قدم مكعبة يومياً للتازة",
+      "arabicBody": "حقل خور مور بدأ ضخّ 100 مليون قدم مكعبة قياسية يومياً إلى محطة التازة الغازية في كركوك، باتفاق مدته الأولية سنة واحدة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "100",
+        "label": "million standard cubic feet per day now flowing to Taza",
+        "arabicLabel": "كمية الغاز التي بدأ حقل خور مور بتجهيزها يومياً لمحطة التازة الغازية في كركوك اعتباراً من 4 آب 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكمية",
+          "value": "100 مليون قدم³"
+        },
+        {
+          "label": "المحطة",
+          "value": "التازة/كركوك"
+        },
+        {
+          "label": "المدة",
+          "value": "سنة"
+        }
+      ],
+      "broll": "images/news/2026-08-05-current-khormor-gas/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-05-current-khormor-gas/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "طاقة الحقل 750 مليون قدم مكعبة",
+      "arabicBody": "طاقة خور مور صارت 750 مليون قدم مكعبة يومياً بعد دخول توسعة خور مور 250 الخدمة، باستثمار يتجاوز 4 مليارات دولار، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "750",
+        "label": "million scf/d — Khor Mor's capacity after the KM250 expansion",
+        "arabicLabel": "الطاقة الإنتاجية لحقل خور مور بعد دخول توسعة خور مور 250 الخدمة، باستثمار إجمالي يتجاوز 4 مليارات دولار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "طاقة الحقل",
+          "value": "750 مليون قدم³"
+        },
+        {
+          "label": "الاستثمار",
+          "value": "أكثر من 4 مليار$"
+        },
+        {
+          "label": "الاتفاق",
+          "value": "كانون الأول 2025"
+        }
+      ],
+      "broll": "images/news/2026-08-05-current-khormor-gas/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-05-current-khormor-gas/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "يخدم أكثر من 8 ملايين شخص",
+      "arabicBody": "الحقل يوفّر وقود أكثر من 80% من توليد الكهرباء في إقليم كردستان، ويخدم أكثر من 8 ملايين شخص في الإقليم ومحافظات عراقية أخرى، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "8",
+        "label": "million people served by electricity fuelled from Khor Mor",
+        "arabicLabel": "عدد المستفيدين من الكهرباء المولّدة بغاز خور مور في إقليم كردستان ومحافظات عراقية أخرى، وفق ما نقلته شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة الإقليم",
+          "value": "أكثر من 80%"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "أكثر من 8 مليون"
+        },
+        {
+          "label": "البدء",
+          "value": "4 آب 2026"
+        }
+      ],
+      "broll": "images/news/2026-08-05-current-khormor-gas/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-05-current-khormor-gas/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Crescent Petroleum",
+      "domain": "crescentpetroleum.com"
+    },
+    {
+      "name": "Dana Gas",
+      "domain": "danagas.com"
+    }
+  ],
+  "arabicTicker": [
+    "غاز خور مور يدخل محطة التازة بكركوك: 100 مليون قدم مكعبة يومياً (شفق نيوز)",
+    "الكمية المخصصة لمحطة التازة الغازية 100 مليون قدم مكعبة قياسية يومياً (شفق نيوز)",
+    "بدء التجهيز في 4 آب 2026 والمدة الأولية للاتفاق سنة واحدة (شفق نيوز)",
+    "طاقة خور مور 750 مليون قدم مكعبة يومياً بعد توسعة خور مور 250 (شفق نيوز)",
+    "إجمالي الاستثمار في المشروع يتجاوز 4 مليارات دولار (شفق نيوز)",
+    "ماجد جعفر من كريسنت بتروليوم وصف التجهيز بأنه محطة مهمة (شفق نيوز)",
+    "ريتشارد هول الرئيس التنفيذي لدانة غاز: التوسعة تعزز أمن الطاقة (شفق نيوز)",
+    "الحقل يغذي أكثر من 80% من توليد الكهرباء في إقليم كردستان (شفق نيوز)",
+    "يخدم أكثر من 8 ملايين شخص في الإقليم ومحافظات عراقية أخرى (شفق نيوز)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "dateLabel": "AUG 05 • 2026",
+  "arabicDateLabel": "5 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط · أسعار",
+    "arabicHeadline": "أسعار النفط اليوم: برنت تحت 80 دولاراً وخامات البصرة ترتفع",
+    "englishSubhead": "BRENT SLID BELOW $80 ON HORMUZ DIPLOMACY HOPES WHILE IRAQ'S BASRAH GRADES ROSE ABOUT 3%",
+    "heroMedia": "images/news/2026-08-05-oil-under-80/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت نزل 1.2% إلى 78.44 دولاراً",
+      "arabicBody": "خام برنت نزل 92 سنتاً، أي 1.2%، إلى 78.44 دولاراً للبرميل، وخسر أكثر من 12% خلال أسبوع واحد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "78.44",
+        "label": "USD per barrel — Brent crude after Wednesday's slide",
+        "arabicLabel": "سعر خام برنت صباح الأربعاء 5 آب 2026 بتراجع 92 سنتاً أي 1.2%، وبخسارة تتجاوز 12% خلال الأسبوع (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "78.44$"
+        },
+        {
+          "label": "التغير",
+          "value": "-1.2%"
+        },
+        {
+          "label": "خلال الأسبوع",
+          "value": "-12%"
+        }
+      ],
+      "broll": "images/news/2026-08-05-oil-under-80/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-05-oil-under-80/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "البصرة الثقيل صعد 3.03% إلى 53.33",
+      "arabicBody": "خامات البصرة راحت بالاتجاه المعاكس: الثقيل صعد 1.57 دولار أي 3.03% إلى 53.33 دولاراً، والمتوسط إلى 55.63 دولاراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "53.33",
+        "label": "USD per barrel — Basrah Heavy after a 3.03% gain",
+        "arabicLabel": "سعر خام البصرة الثقيل صباح الأربعاء 5 آب 2026 بارتفاع 1.57 دولار أي 3.03%، فيما بلغ البصرة المتوسط 55.63 دولاراً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة الثقيل",
+          "value": "53.33$"
+        },
+        {
+          "label": "البصرة المتوسط",
+          "value": "55.63$"
+        },
+        {
+          "label": "التغير",
+          "value": "+3.03%"
+        }
+      ],
+      "broll": "images/news/2026-08-05-oil-under-80/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-05-oil-under-80/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بين البصرة وبرنت 25.11 دولاراً",
+      "arabicBody": "الفارق بين البصرة الثقيل وبرنت بلغ 25.11 دولاراً على كل برميل (محتسب)، والتراجع العالمي مرتبط بآمال دبلوماسية بشأن هرمز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "25.11",
+        "label": "USD per barrel — the gap between Basrah Heavy and Brent (computed)",
+        "arabicLabel": "الفارق بين سعر خام البصرة الثقيل 53.33 دولاراً وخام برنت 78.44 دولاراً — رقم محتسب من السعرين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفارق (محتسب)",
+          "value": "25.11$"
+        },
+        {
+          "label": "سلة أوبك",
+          "value": "79.50$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "74.70$"
+        }
+      ],
+      "broll": "images/news/2026-08-05-oil-under-80/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-05-oil-under-80/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "أسعار النفط اليوم: برنت تحت 80 دولاراً وخامات البصرة ترتفع (شفق نيوز)",
+    "خام برنت 78.44 دولاراً بتراجع 92 سنتاً أي 1.2%، وخسارة تتجاوز 12% خلال الأسبوع (شفق نيوز)",
+    "غرب تكساس الوسيط 74.70 دولاراً بتراجع 1.07 دولار أي 1.4% (شفق نيوز)",
+    "خام البصرة الثقيل 53.33 دولاراً بارتفاع 1.57 دولار أي 3.03% (شفق نيوز)",
+    "خام البصرة المتوسط 55.63 دولاراً بارتفاع 2.90% (شفق نيوز)",
+    "سلة أوبك 79.50 دولاراً دون تغيير (شفق نيوز)",
+    "الفارق بين البصرة الثقيل وبرنت 25.11 دولاراً (محتسب)",
+    "التراجع العالمي مرتبط بآمال دبلوماسية بشأن هرمز: وسطاء قطريون تحدثوا الثلاثاء عن تقدم، وطهران نفت وجود مفاوضات رسمية (شفق نيوز)",
+    "شكد دفعت لتعبئة سيارتك آخر مرة؟"
+  ]
+}

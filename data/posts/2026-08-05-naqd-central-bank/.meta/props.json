@@ -1,0 +1,131 @@
+{
+  "dateLabel": "AUG 05 • 2026",
+  "arabicDateLabel": "5 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · مركزي",
+    "arabicHeadline": "مبيعات المركزي بحزيران 5.8 مليار دولار… والنقد منها 319 مليوناً فقط",
+    "englishSubhead": "IRAQ'S CENTRAL BANK SOLD $5.857BN IN JUNE, BUT ONLY $319M OF IT LEFT THE BANK AS CASH",
+    "heroMedia": "images/news/2026-08-05-naqd-central-bank/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المركزي باع 5.857 مليار بشهر واحد",
+      "arabicBody": "مبيعات المركزي من العملة الأجنبية ارتفعت في حزيران إلى 5.857 مليار دولار، بعد 5.092 مليار في أيار: 765 مليوناً إضافية بشهر واحد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "5.857",
+        "label": "billion USD sold by the CBI in June 2026",
+        "arabicLabel": "إجمالي مبيعات البنك المركزي العراقي من العملة الأجنبية خلال حزيران 2026، مقابل 5.092 مليار دولار في أيار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "حزيران",
+          "value": "5.857 مليار"
+        },
+        {
+          "label": "أيار",
+          "value": "5.092 مليار"
+        },
+        {
+          "label": "الزيادة",
+          "value": "+15%"
+        }
+      ],
+      "broll": "images/news/2026-08-05-naqd-central-bank/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-05-naqd-central-bank/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الحصة النقدية 319 مليوناً فقط",
+      "arabicBody": "من كل هذه المليارات، خرج نقداً 319 مليون دولار فقط، مقابل 151 مليوناً في أيار — نحو 5.4% من الإجمالي (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "319",
+        "label": "million USD — the cash share of June sales",
+        "arabicLabel": "المبيعات النقدية من الدولار في حزيران 2026 مقابل 151 مليوناً في أيار؛ نسبتها من الإجمالي 5.4% رقم محتسب من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "نقداً",
+          "value": "319 مليون"
+        },
+        {
+          "label": "أيار",
+          "value": "151 مليون"
+        },
+        {
+          "label": "حصته (محتسب)",
+          "value": "5.4%"
+        }
+      ],
+      "broll": "images/news/2026-08-05-naqd-central-bank/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-05-naqd-central-bank/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النصف الأول: 25.912 مليار دولار",
+      "arabicBody": "الباقي — 5.538 مليار دولار — خرج عبر تعزيز الأرصدة في الخارج، ولم تُسجّل أي مبيعات عبر الحوالات أو الاعتمادات المستندية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "25.912",
+        "label": "billion USD sold in the first half of 2026",
+        "arabicLabel": "إجمالي مبيعات البنك المركزي من العملة الأجنبية في النصف الأول من 2026: 24.738 مليار عبر تعزيز الأرصدة و1.174 مليار نقداً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "تعزيز الأرصدة (حزيران)",
+          "value": "5.538 مليار"
+        },
+        {
+          "label": "النصف الأول",
+          "value": "25.912 مليار"
+        },
+        {
+          "label": "حوالات",
+          "value": "صفر"
+        }
+      ],
+      "broll": "images/news/2026-08-05-naqd-central-bank/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-05-naqd-central-bank/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Central Bank of Iraq",
+      "domain": "cbi.iq"
+    }
+  ],
+  "arabicTicker": [
+    "مبيعات المركزي بحزيران 5.8 مليار دولار… والنقد منها 319 مليوناً فقط (شفق نيوز)",
+    "الرقم الدقيق: 5.857 مليار دولار في حزيران مقابل 5.092 مليار في أيار (شفق نيوز)",
+    "الزيادة الشهرية 765 مليون دولار، أي نحو 15% (شفق نيوز)",
+    "المبيعات النقدية 319 مليون دولار مقابل 151 مليوناً في أيار (شفق نيوز)",
+    "حصة النقد من إجمالي حزيران نحو 5.4% (محتسب)",
+    "تعزيز الأرصدة في الخارج 5.538 مليار دولار في حزيران (شفق نيوز)",
+    "لم تُسجّل مبيعات عبر الحوالات أو الاعتمادات المستندية (شفق نيوز)",
+    "مبيعات النصف الأول من 2026 نحو 25.912 مليار دولار (شفق نيوز)",
+    "شكد صرفت دولار هالشهر؟"
+  ]
+}

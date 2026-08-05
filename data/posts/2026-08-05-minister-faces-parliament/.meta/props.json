@@ -1,0 +1,132 @@
+{
+  "dateLabel": "AUG 05 • 2026",
+  "arabicDateLabel": "5 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب · برلمان",
+    "arabicHeadline": "تأخر الرواتب في العراق: وزير المالية يطلب استضافته في البرلمان",
+    "englishSubhead": "IRAQ'S FINANCE MINISTER REQUESTED TO ADDRESS PARLIAMENT ON THE FINANCIAL SITUATION AMID DELAYED SALARIES",
+    "heroMedia": "images/news/2026-08-05-minister-faces-parliament/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الساري طلب استضافته في مجلس النواب",
+      "arabicBody": "وزير المالية فالح الساري قدّم طلباً رسمياً لرئاسة مجلس النواب لاستضافته في أقرب جلسة، ليعرض الواقع المالي وأبرز تحديات المالية العامة، بحسب المدى.",
+      "bigStat": {
+        "value": "1",
+        "label": "formal request filed by the finance minister to address parliament",
+        "arabicLabel": "طلب رسمي قدّمه وزير المالية فالح الساري إلى رئاسة مجلس النواب يوم الاثنين 3 آب 2026 لاستضافته وعرض الواقع المالي والاقتصادي (المدى)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوزير",
+          "value": "فالح الساري"
+        },
+        {
+          "label": "الطلب",
+          "value": "استضافة"
+        },
+        {
+          "label": "الجهة",
+          "value": "مجلس النواب"
+        }
+      ],
+      "broll": "images/news/2026-08-05-minister-faces-parliament/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-05-minister-faces-parliament/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "7.8 تريليون التزام شهري للرواتب",
+      "arabicBody": "التزامات الرواتب الشهرية تبلغ 7.8 تريليون دينار، والعجز المعلن لشهر تموز 3.3 تريليون دينار، بحسب شفق نيوز (30 تموز 2026).",
+      "bigStat": {
+        "value": "7.8",
+        "label": "trillion dinars — Iraq's declared monthly payroll obligation",
+        "arabicLabel": "الالتزامات الشهرية لرواتب الموظفين كما أوردتها شفق نيوز في 30 تموز 2026، مقابل عجز معلن 3.3 تريليون دينار لشهر تموز (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "رواتب فقط/شهرياً",
+          "value": "7.8 تريليون"
+        },
+        {
+          "label": "عجز تموز",
+          "value": "3.3 تريليون"
+        },
+        {
+          "label": "التاريخ",
+          "value": "30 تموز"
+        }
+      ],
+      "broll": "images/news/2026-08-05-minister-faces-parliament/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-05-minister-faces-parliament/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الاحتياج 10.8 تريليون… والنفط 2.5",
+      "arabicBody": "الاحتياج الشهري للرواتب والنفقات نحو 10.8 تريليون دينار، فيما لا تتجاوز الإيرادات النفطية الشهرية 2.5 تريليون — فجوة 8.3 تريليون (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "10.8",
+        "label": "trillion dinars needed monthly against ≤2.5 trillion in oil revenue",
+        "arabicLabel": "الاحتياج الشهري لتغطية الرواتب والنفقات العامة مقابل الإيرادات النفطية الشهرية التي لا تتجاوز 2.5 تريليون دينار (شفق نيوز، 2 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "رواتب + نفقات",
+          "value": "10.8 تريليون"
+        },
+        {
+          "label": "إيراد النفط",
+          "value": "2.5 تريليون"
+        },
+        {
+          "label": "الفجوة مقابل النفط (محتسب)",
+          "value": "8.3 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-08-05-minister-faces-parliament/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-05-minister-faces-parliament/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Al-Mada",
+      "domain": "almadapaper.net"
+    }
+  ],
+  "arabicTicker": [
+    "تأخر الرواتب في العراق: وزير المالية يطلب استضافته في البرلمان (المدى)",
+    "فالح الساري قدّم الطلب لرئاسة مجلس النواب يوم الاثنين 3 آب 2026 (المدى)",
+    "الهدف عرض الواقع المالي والاقتصادي وتحديات المالية العامة (المدى)",
+    "تحرك نيابي لاستضافة الوزير بشأن تأخر رواتب الموظفين (شفق نيوز)",
+    "الالتزامات الشهرية للرواتب 7.8 تريليون دينار (شفق نيوز، 30 تموز 2026)",
+    "العجز المعلن لشهر تموز 3.3 تريليون دينار (شفق نيوز)",
+    "الاحتياج الشهري للرواتب والنفقات نحو 10.8 تريليون دينار (شفق نيوز)",
+    "الإيرادات النفطية الشهرية لا تتجاوز 2.5 تريليون دينار (شفق نيوز)",
+    "الفجوة بين الاحتياج والإيراد النفطي 8.3 تريليون دينار (محتسب)",
+    "راتبك وصل بموعده لو تأخر؟"
+  ]
+}

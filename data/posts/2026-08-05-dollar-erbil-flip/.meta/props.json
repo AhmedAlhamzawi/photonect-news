@@ -1,0 +1,128 @@
+{
+  "dateLabel": "AUG 05 • 2026",
+  "arabicDateLabel": "5 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · صيرفة",
+    "arabicHeadline": "سعر الدولار اليوم: البورصة رجعت وأربيل أرخص من محال بغداد",
+    "englishSubhead": "BAGHDAD'S BOURSES REOPENED AFTER ARBAEEN AND ROSE, WHILE ERBIL FELL BELOW THE CAPITAL'S SHOP RATE",
+    "heroMedia": "images/news/2026-08-05-dollar-erbil-flip/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الكفاح والحارثية فتحتا على 151,950",
+      "arabicBody": "عاد التداول في بورصتي الكفاح والحارثية بعد عطلة الزيارة الأربعينية، ليفتح على 151,950 ديناراً لكل 100 دولار، مقابل 151,800 يوم الأحد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "151,950",
+        "label": "IQD per $100 at the Baghdad bourses on reopening",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الأربعاء 5 آب 2026 عند استئناف التداول، مقابل 151,800 ديناراً يوم الأحد (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة اليوم",
+          "value": "151,950"
+        },
+        {
+          "label": "البورصة الأحد",
+          "value": "151,800"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+150"
+        }
+      ],
+      "broll": "images/news/2026-08-05-dollar-erbil-flip/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-05-dollar-erbil-flip/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "محال الصيرفة ببغداد: بيع 152,500",
+      "arabicBody": "محال الصيرفة في بغداد رفعت البيع إلى 152,500 دينار لكل 100 دولار والشراء إلى 151,500، بفارق 1,000 دينار بين السعرين (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "152,500",
+        "label": "IQD per $100 — Baghdad shop selling rate",
+        "arabicLabel": "سعر بيع الدولار في محال الصيرفة ببغداد لكل 100 دولار صباح الأربعاء 5 آب 2026، مقابل شراء 151,500 دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "152,500"
+        },
+        {
+          "label": "شراء",
+          "value": "151,500"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-08-05-dollar-erbil-flip/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-05-dollar-erbil-flip/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أربيل أرخص من بغداد بـ350 ديناراً",
+      "arabicBody": "أربيل تراجعت إلى 152,150 ديناراً بيعاً بعد 152,300 أمس، فصارت أرخص من محال بغداد بـ350 ديناراً لكل 100 دولار (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "350",
+        "label": "IQD — how much cheaper Erbil now sells than Baghdad (computed)",
+        "arabicLabel": "الفارق بين سعر بيع أربيل 152,150 وسعر بيع محال الصيرفة ببغداد 152,500 لكل 100 دولار — رقم محتسب من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "152,150"
+        },
+        {
+          "label": "أمس",
+          "value": "152,300"
+        },
+        {
+          "label": "أرخص بـ(محتسب)",
+          "value": "350"
+        }
+      ],
+      "broll": "images/news/2026-08-05-dollar-erbil-flip/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-05-dollar-erbil-flip/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "سعر الدولار اليوم: البورصة رجعت وأربيل أرخص من محال بغداد (شفق نيوز)",
+    "بورصتا الكفاح والحارثية استأنفتا التداول بعد عطلة الزيارة الأربعينية (شفق نيوز)",
+    "سعر البورصة 151,950 ديناراً لكل 100 دولار مقابل 151,800 يوم الأحد (شفق نيوز)",
+    "الارتفاع عن يوم الأحد 150 ديناراً لكل 100 دولار (محتسب)",
+    "محال الصيرفة ببغداد: بيع 152,500 وشراء 151,500 دينار لكل 100 دولار (شفق نيوز)",
+    "الفارق بين البيع والشراء ببغداد 1,000 دينار (محتسب)",
+    "أربيل: بيع 152,150 وشراء 152,050 دينار لكل 100 دولار (شفق نيوز)",
+    "أربيل تراجعت من 152,300 دينار أمس (شفق نيوز)",
+    "أربيل أرخص من محال بغداد بـ350 ديناراً لكل 100 دولار (محتسب)",
+    "شنو سعر الدولار بمنطقتك اليوم؟"
+  ]
+}
