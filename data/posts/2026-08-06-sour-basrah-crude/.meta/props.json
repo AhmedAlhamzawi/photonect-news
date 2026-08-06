@@ -1,0 +1,131 @@
+{
+  "dateLabel": "AUG 06 • 2026",
+  "arabicDateLabel": "6 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "خامات البصرة تنزل… وبرنت فوق 79",
+    "englishSubhead": "IRAQ'S BASRAH GRADES SLID WHILE BRENT HELD ABOVE $79 A BARREL",
+    "heroMedia": "images/news/2026-08-06-sour-basrah-crude/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البصرة الثقيل 52.42 دولاراً",
+      "arabicBody": "خام البصرة الثقيل تراجع 1.71% إلى 52.42 دولاراً للبرميل، والبصرة المتوسط 1.64% إلى 54.72 دولاراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "52.42",
+        "label": "USD per barrel — Basrah Heavy after Thursday's decline",
+        "arabicLabel": "سعر خام البصرة الثقيل صباح الخميس 6 آب 2026 بتراجع 1.71%، فيما بلغ البصرة المتوسط 54.72 دولاراً بتراجع 1.64% (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة الثقيل",
+          "value": "52.42$"
+        },
+        {
+          "label": "البصرة المتوسط",
+          "value": "54.72$"
+        },
+        {
+          "label": "التغير",
+          "value": "-1.71%"
+        }
+      ],
+      "broll": "images/news/2026-08-06-sour-basrah-crude/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-06-sour-basrah-crude/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "برنت 79.21 وسلة أوبك 80.42",
+      "arabicBody": "برنت استقر فوق 79 دولاراً عند 79.21 بتراجع 0.30%، وغرب تكساس 74.91، فيما صعدت سلة أوبك 1.16% إلى 80.42 دولاراً.",
+      "bigStat": {
+        "value": "79.21",
+        "label": "USD per barrel — Brent, holding above the $79 line",
+        "arabicLabel": "سعر خام برنت صباح الخميس 6 آب 2026 بتراجع 0.30%، مقابل 74.91 دولاراً لغرب تكساس و80.42 دولاراً لسلة أوبك (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "79.21$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "74.91$"
+        },
+        {
+          "label": "سلة أوبك",
+          "value": "80.42$"
+        }
+      ],
+      "broll": "images/news/2026-08-06-sour-basrah-crude/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-06-sour-basrah-crude/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفارق عن برنت 26.79 دولاراً",
+      "arabicBody": "الفارق بين البصرة الثقيل وبرنت بلغ 26.79 دولاراً للبرميل (محتسب)، وسط صادرات خليجية عند 10.7 مليون برميل يومياً في تموز بحسب كبلر.",
+      "bigStat": {
+        "value": "26.79",
+        "label": "USD per barrel — the Basrah Heavy discount to Brent (computed)",
+        "arabicLabel": "الفارق بين سعر خام البصرة الثقيل 52.42 دولاراً وخام برنت 79.21 دولاراً — رقم محتسب من السعرين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفارق (محتسب)",
+          "value": "26.79$"
+        },
+        {
+          "label": "صادرات الخليج",
+          "value": "10.7 مليون ب/ي"
+        },
+        {
+          "label": "مربان",
+          "value": "77.94$"
+        }
+      ],
+      "broll": "images/news/2026-08-06-sour-basrah-crude/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-06-sour-basrah-crude/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Kpler",
+      "domain": "kpler.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام البصرة الثقيل 52.42 دولاراً للبرميل بتراجع 1.71% (شفق نيوز)",
+    "خام البصرة المتوسط 54.72 دولاراً بتراجع 1.64% (شفق نيوز)",
+    "خام برنت 79.21 دولاراً بتراجع 0.30% (شفق نيوز)",
+    "غرب تكساس الوسيط 74.91 دولاراً بتراجع 0.41% (شفق نيوز)",
+    "سلة أوبك 80.42 دولاراً بارتفاع 1.16% (شفق نيوز)",
+    "خام مربان الإماراتي 77.94 دولاراً بارتفاع 1.41% (شفق نيوز)",
+    "الفارق بين البصرة الثقيل وبرنت 26.79 دولاراً (محتسب)",
+    "صادرات الخام والمكثفات الخليجية نحو 10.7 مليون برميل يومياً في تموز (كبلر عبر شفق نيوز)",
+    "الصادرات الخليجية أقل بنحو 40% من مستويات ما قبل التصعيد (كبلر عبر شفق نيوز)"
+  ]
+}

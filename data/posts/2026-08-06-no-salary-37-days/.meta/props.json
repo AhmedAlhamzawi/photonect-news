@@ -1,0 +1,131 @@
+{
+  "dateLabel": "AUG 06 • 2026",
+  "arabicDateLabel": "6 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "37 يوم بلا راتب… والأسواق واقفة",
+    "englishSubhead": "THIRTY-SEVEN DAYS INTO THE SALARY DELAY, BAGHDAD'S CHAMBER OF COMMERCE REPORTS A DEMAND COLLAPSE",
+    "heroMedia": "images/news/2026-08-06-no-salary-37-days/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "37 يوماً على تأخر الرواتب",
+      "arabicBody": "مرّ 37 يوماً على تأخر صرف رواتب موظفي الدولة، وسط ركود تجاري يضرب الأسواق العراقية، بحسب تقرير شفق نيوز.",
+      "bigStat": {
+        "value": "37",
+        "label": "days into the public-sector salary delay",
+        "arabicLabel": "عدد الأيام منذ موعد صرف الرواتب المتأخرة لموظفي الدولة حتى 6 آب 2026، بحسب تقرير شفق نيوز عن ركود الأسواق"
+      },
+      "supportingStats": [
+        {
+          "label": "التأخير",
+          "value": "37 يوماً"
+        },
+        {
+          "label": "القطاع",
+          "value": "موظفو الدولة"
+        },
+        {
+          "label": "الأثر",
+          "value": "ركود تجاري"
+        }
+      ],
+      "broll": "images/news/2026-08-06-no-salary-37-days/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-06-no-salary-37-days/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "7.8 تريليون التزام… و3.2 صُرفت",
+      "arabicBody": "الالتزام الشهري للرواتب 7.8 تريليون دينار، صُرف منه 3.2 تريليون حتى الآن، أي فجوة 4.6 تريليون (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "4.6",
+        "label": "trillion dinars — the unpaid remainder of one month's payroll (computed)",
+        "arabicLabel": "الفرق بين الالتزام الشهري للرواتب 7.8 تريليون دينار والمبلغ المصروف 3.2 تريليون — رقم محتسب من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الالتزام",
+          "value": "7.8 تريليون"
+        },
+        {
+          "label": "صُرف",
+          "value": "3.2 تريليون"
+        },
+        {
+          "label": "الفجوة (محتسب)",
+          "value": "4.6 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-08-06-no-salary-37-days/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-06-no-salary-37-days/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "60% من إنفاق البيوت على الراتب",
+      "arabicBody": "راشد السعدي الناطق باسم غرفة تجارة بغداد قال إن الرواتب المحرك الرئيسي للسوق، وأكثر من 60% من الاستهلاك الأسري يعتمد على الدخل الثابت.",
+      "bigStat": {
+        "value": "60%",
+        "label": "of Iraqi household consumption rides on fixed public income",
+        "arabicLabel": "نسبة الاستهلاك الأسري في العراق التي تعتمد على الدخل الثابت للموظفين والمتقاعدين، بحسب تقرير شفق نيوز ونقلاً عن غرفة تجارة بغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "اعتماد البيوت",
+          "value": "أكثر من 60%"
+        },
+        {
+          "label": "الأولوية",
+          "value": "أقل من مليون"
+        },
+        {
+          "label": "المصدر",
+          "value": "غرفة تجارة بغداد"
+        }
+      ],
+      "broll": "images/news/2026-08-06-no-salary-37-days/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-06-no-salary-37-days/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Baghdad Chamber of Commerce",
+      "domain": "baghdadchamber.com"
+    }
+  ],
+  "arabicTicker": [
+    "37 يوماً على تأخر صرف رواتب موظفي الدولة (شفق نيوز)",
+    "الالتزام الشهري للرواتب 7.8 تريليون دينار (شفق نيوز)",
+    "المصروف حتى الآن 3.2 تريليون دينار (شفق نيوز)",
+    "الفجوة المتبقية من راتب شهر واحد 4.6 تريليون دينار (محتسب)",
+    "الأولوية في الصرف لمن رواتبهم أقل من مليون دينار (شفق نيوز)",
+    "راشد السعدي: الرواتب المحرك الرئيسي لحركة السوق العراقية (شفق نيوز)",
+    "أكثر من 60% من الاستهلاك الأسري يعتمد على الدخل الثابت (شفق نيوز)",
+    "النائب حسين عرب ووزير المالية فالح الساري ضمن أطراف الملف (شفق نيوز)",
+    "راتبك تأخر شكد يوم؟"
+  ]
+}

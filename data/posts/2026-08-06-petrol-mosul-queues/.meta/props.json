@@ -1,0 +1,127 @@
+{
+  "dateLabel": "AUG 06 • 2026",
+  "arabicDateLabel": "6 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "بنزين · نينوى",
+    "arabicHeadline": "البنزين زاد… والطابور ما تحرك",
+    "englishSubhead": "NINEVEH'S DAILY PETROL QUOTA WENT UP TODAY, BUT THE QUEUES IN MOSUL DID NOT MOVE",
+    "heroMedia": "images/news/2026-08-06-petrol-mosul-queues/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الحصة من 3.33 إلى 3.5 مليون لتر",
+      "arabicBody": "لجنة الطاقة في مجلس نينوى أعلنت رفع الحصة اليومية من البنزين من 3.33 مليون لتر إلى 3.5 مليون لتر اعتباراً من اليوم الخميس.",
+      "bigStat": {
+        "value": "3.5",
+        "label": "million litres — Nineveh's new daily petrol quota",
+        "arabicLabel": "الحصة اليومية الجديدة لمحافظة نينوى من البنزين اعتباراً من الخميس 6 آب 2026، مقابل 3.33 مليون لتر سابقاً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجديدة",
+          "value": "3.5 مليون لتر"
+        },
+        {
+          "label": "السابقة",
+          "value": "3.33 مليون"
+        },
+        {
+          "label": "الزيادة (محتسب)",
+          "value": "170 ألف"
+        }
+      ],
+      "broll": "images/news/2026-08-06-petrol-mosul-queues/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-06-petrol-mosul-queues/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الزيادة 170 ألف لتر أي 5% تقريباً",
+      "arabicBody": "الفارق بين الحصتين 170 ألف لتر يومياً، أي نحو 5% زيادة (محتسب)، بينما الطوابير مستمرة أمام المحطات الحكومية والأهلية.",
+      "bigStat": {
+        "value": "170,000",
+        "label": "litres a day — the size of the increase (computed)",
+        "arabicLabel": "الفرق بين الحصة الجديدة 3.5 مليون لتر والسابقة 3.33 مليون لتر يومياً، ونسبته نحو 5% — رقمان محتسبان من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزيادة (محتسب)",
+          "value": "170 ألف"
+        },
+        {
+          "label": "النسبة (محتسب)",
+          "value": "نحو 5%"
+        },
+        {
+          "label": "الطوابير",
+          "value": "مستمرة"
+        }
+      ],
+      "broll": "images/news/2026-08-06-petrol-mosul-queues/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-06-petrol-mosul-queues/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "شكاوى من أوكتان البنزين المحسّن",
+      "arabicBody": "أحمد العبد ربه توعّد المحطات التي تغلق قبل الظهر بإجراءات قانونية، وسط شكاوى سائقين من انخفاض أوكتان البنزين المحسّن وأثره على المحركات.",
+      "bigStat": {
+        "value": "12:00",
+        "label": "the hour before which closing a station now draws legal action",
+        "arabicLabel": "التوقيت الذي توعّدت لجنة الطاقة في نينوى باتخاذ إجراءات قانونية بحق أي محطة تغلق قبله، بحسب رئيسها أحمد العبد ربه (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنذار",
+          "value": "الإغلاق المبكر"
+        },
+        {
+          "label": "الشكوى",
+          "value": "أوكتان منخفض"
+        },
+        {
+          "label": "النظام",
+          "value": "بطاقة الوقود"
+        }
+      ],
+      "broll": "images/news/2026-08-06-petrol-mosul-queues/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-06-petrol-mosul-queues/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "نينوى ترفع حصتها اليومية من البنزين إلى 3.5 مليون لتر (شفق نيوز)",
+    "الحصة السابقة كانت 3.33 مليون لتر يومياً (شفق نيوز)",
+    "الزيادة 170 ألف لتر يومياً أي نحو 5% (محتسب)",
+    "القرار نافذ اعتباراً من الخميس 6 آب 2026 (شفق نيوز)",
+    "أحمد العبد ربه رئيس لجنة الطاقة بمجلس نينوى: إجراءات قانونية بحق المحطات المخالفة (شفق نيوز)",
+    "تهديد بالمساءلة لأي محطة تغلق قبل الظهر (شفق نيوز)",
+    "الطوابير مستمرة أمام المحطات الحكومية والأهلية في الموصل (شفق نيوز)",
+    "شكاوى سائقين من انخفاض أوكتان البنزين المحسّن وأثره على المحركات (شفق نيوز)",
+    "شكد وكفت بالطابور اليوم؟"
+  ]
+}

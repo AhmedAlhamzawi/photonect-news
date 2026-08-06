@@ -1,0 +1,127 @@
+{
+  "dateLabel": "AUG 06 • 2026",
+  "arabicDateLabel": "6 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار · ذهب",
+    "arabicHeadline": "دولارك يصعد… وذهبك يقفز وياه",
+    "englishSubhead": "THE DOLLAR ROSE AT BAGHDAD'S BOURSES WHILE GOLD CLIMBED FOR A SECOND STRAIGHT DAY",
+    "heroMedia": "images/news/2026-08-06-dollar-gold-jump/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البورصة 152,050 لكل 100 دولار",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا 152,050 ديناراً لكل 100 دولار صباح الخميس، مقابل 151,900 يوم الأربعاء، بارتفاع 150 ديناراً (محتسب).",
+      "bigStat": {
+        "value": "152,050",
+        "label": "IQD per $100 at the Baghdad bourses on Thursday",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الخميس 6 آب 2026، مقابل 151,900 ديناراً يوم الأربعاء؛ الفرق 150 ديناراً محتسب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اليوم",
+          "value": "152,050"
+        },
+        {
+          "label": "أمس",
+          "value": "151,900"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+150"
+        }
+      ],
+      "broll": "images/news/2026-08-06-dollar-gold-jump/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-06-dollar-gold-jump/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصيرفة 152,500 وأربيل 152,250",
+      "arabicBody": "محال الصيرفة ببغداد ثابتة على 152,500 ديناراً بيعاً و151,500 شراءً، وأربيل 152,250 بيعاً و152,150 شراءً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "152,500",
+        "label": "IQD per $100 — the Baghdad shop selling rate",
+        "arabicLabel": "سعر بيع الدولار في محال الصيرفة ببغداد لكل 100 دولار صباح الخميس 6 آب 2026، مقابل شراء 151,500 دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد بيع",
+          "value": "152,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "152,250"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "250"
+        }
+      ],
+      "broll": "images/news/2026-08-06-dollar-gold-jump/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-06-dollar-gold-jump/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الذهب الخليجي 920 ألفاً للمثقال",
+      "arabicBody": "الذهب صعد لليوم الثاني: عيار 21 الخليجي 920 ألف دينار للمثقال والعراقي 890 ألفاً، بفارق 30 ألفاً (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "920,000",
+        "label": "IQD per mithqal — Gulf 21-karat gold in Baghdad",
+        "arabicLabel": "سعر بيع مثقال الذهب الخليجي عيار 21 في أسواق الجملة ببغداد يوم الخميس 6 آب 2026، مقابل 890 ألف دينار للذهب العراقي؛ الفارق 30 ألفاً محتسب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "خليجي 21",
+          "value": "920,000"
+        },
+        {
+          "label": "عراقي 21",
+          "value": "890,000"
+        },
+        {
+          "label": "أربيل 21",
+          "value": "914,000"
+        }
+      ],
+      "broll": "images/news/2026-08-06-dollar-gold-jump/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-06-dollar-gold-jump/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية 152,050 ديناراً لكل 100 دولار (شفق نيوز)",
+    "مقابل 151,900 دينار يوم الأربعاء، بارتفاع 150 ديناراً (محتسب)",
+    "محال الصيرفة ببغداد: بيع 152,500 وشراء 151,500 دينار (شفق نيوز)",
+    "أربيل: بيع 152,250 وشراء 152,150 دينار لكل 100 دولار (شفق نيوز)",
+    "الفارق بين بيع بغداد وبيع أربيل 250 ديناراً (محتسب)",
+    "الذهب يصعد لليوم الثاني على التوالي في بغداد وأربيل (شفق نيوز)",
+    "مثقال الذهب الخليجي عيار 21 بـ920 ألف دينار بيعاً (شفق نيوز)",
+    "مثقال الذهب العراقي عيار 21 بـ890 ألف دينار بيعاً (شفق نيوز)",
+    "تخزن فلوسك دولار لو ذهب؟"
+  ]
+}

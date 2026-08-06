@@ -1,0 +1,127 @@
+{
+  "dateLabel": "AUG 06 • 2026",
+  "arabicDateLabel": "6 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء · البصرة",
+    "arabicHeadline": "استقطاع 1300 ميغاواط… والبصرة ترفض",
+    "englishSubhead": "BASRA'S COUNCIL REFUSES A CUT TO ITS POWER SHARE AS TEMPERATURES PASS 50°C",
+    "heroMedia": "images/news/2026-08-06-basra-1300-megawatt/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المركز الوطني يخفض حصة البصرة",
+      "arabicBody": "شفق نيوز: استقطاع 1300 ميغاواط عن البصرة، والمركز الوطني للسيطرة يجري تدخلات تشمل إطفاء أجزاء من الشبكة وخفض حصة المحافظة.",
+      "bigStat": {
+        "value": "1,300",
+        "label": "megawatts cut from Basra's allocation",
+        "arabicLabel": "حجم الاستقطاع عن حصة البصرة الكهربائية بحسب شفق نيوز، عبر تدخلات المركز الوطني للسيطرة التي تشمل إطفاء أجزاء من الشبكة (شفق نيوز، 5 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستقطاع",
+          "value": "1,300 م.و"
+        },
+        {
+          "label": "الجهة",
+          "value": "المركز الوطني"
+        },
+        {
+          "label": "الإجراء",
+          "value": "إطفاء شبكة"
+        }
+      ],
+      "broll": "images/news/2026-08-06-basra-1300-megawatt/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-06-basra-1300-megawatt/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "التجهيز 6133 والحمل 4765 ميغاواط",
+      "arabicBody": "التجهيز الحالي في البصرة 6133 ميغاواط مقابل حمل 4765 ميغاواط، بفارق 1368 ميغاواط (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "6,133",
+        "label": "megawatts currently supplied to Basra",
+        "arabicLabel": "التجهيز الكهربائي الحالي في محافظة البصرة مقابل حمل 4765 ميغاواط؛ الفارق 1368 ميغاواط رقم محتسب من الرقمين المعلنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "التجهيز",
+          "value": "6,133 م.و"
+        },
+        {
+          "label": "الحمل",
+          "value": "4,765 م.و"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "1,368"
+        }
+      ],
+      "broll": "images/news/2026-08-06-basra-1300-megawatt/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-06-basra-1300-megawatt/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "المجلس يرفض القطع والحرارة فوق 50",
+      "arabicBody": "ثائر الصالحي رئيس لجنة الكهرباء بمجلس البصرة قال إن المحافظة لن تقبل قطعاً مبرمجاً والحرارة تتجاوز 50 درجة مع رطوبة عالية.",
+      "bigStat": {
+        "value": "50",
+        "label": "degrees Celsius — the heat Basra is refusing to ration power in",
+        "arabicLabel": "درجة الحرارة التي تتجاوزها البصرة مع رطوبة عالية، وهي سبب رفض مجلس المحافظة أي قطع مبرمج للكهرباء بحسب ثائر الصالحي (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحرارة",
+          "value": "فوق 50°"
+        },
+        {
+          "label": "الموقف",
+          "value": "رفض القطع"
+        },
+        {
+          "label": "المصدر",
+          "value": "لجنة الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-08-06-basra-1300-megawatt/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-06-basra-1300-megawatt/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: استقطاع 1300 ميغاواط عن حصة البصرة الكهربائية",
+    "المركز الوطني للسيطرة يجري تدخلات تشمل إطفاء أجزاء من الشبكة (شفق نيوز)",
+    "التجهيز الحالي في البصرة 6133 ميغاواط (شفق نيوز)",
+    "الحمل الحالي في البصرة 4765 ميغاواط (شفق نيوز)",
+    "الفارق بين التجهيز والحمل 1368 ميغاواط (محتسب)",
+    "ثائر الصالحي: البصرة لن تقبل قطعاً مبرمجاً في هذه الحرارة (شفق نيوز)",
+    "درجات الحرارة تتجاوز 50 مئوية مع رطوبة عالية (شفق نيوز)",
+    "مجلس المحافظة يلوّح بخطوات إضافية إذا استمر التدخل (شفق نيوز)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}
