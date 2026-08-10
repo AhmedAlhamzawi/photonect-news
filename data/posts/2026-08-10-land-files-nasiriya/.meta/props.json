@@ -1,0 +1,126 @@
+{
+  "dateLabel": "AUG 10 • 2026",
+  "arabicDateLabel": "10 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد",
+    "arabicHeadline": "600 معاملة أرض بالناصرية بيد النزاهة",
+    "englishSubhead": "600 LAND FILES SEIZED | 8 ARREST WARRANTS | INVESTIGATION OPEN | NO VERDICTS YET",
+    "heroMedia": "images/news/2026-08-10-land-files-nasiriya/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "600 معاملة أرض سكنية مضبوطة بالناصرية",
+      "arabicBody": "القوات الأمنية بالتنسيق مع هيئة النزاهة ضبطت نحو 600 معاملة أراضٍ سكنية في الناصرية ضمن ملف يجري التحقيق فيه، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "600",
+        "label": "residential land transactions seized in the Nasiriya file",
+        "arabicLabel": "عدد معاملات الأراضي السكنية التي ضبطتها القوات الأمنية مع هيئة النزاهة في الناصرية ضمن ملف قيد التحقيق (شفق نيوز، 10 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "معاملات مضبوطة",
+          "value": "600"
+        },
+        {
+          "label": "الجهة",
+          "value": "هيئة النزاهة"
+        },
+        {
+          "label": "الحالة",
+          "value": "قيد التحقيق"
+        }
+      ],
+      "broll": "images/news/2026-08-10-land-files-nasiriya/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-10-land-files-nasiriya/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "8 أوامر قبض من محكمة النزاهة",
+      "arabicBody": "أصدرت محكمة تحقيق الناصرية 8 أوامر قبض بتهم الإضرار الجسيم بالمال العام، بينهم مدير البلدية الأسبق، وجميعهم قيد التحقيق ولم تصدر بحقهم أحكام (شفق نيوز).",
+      "bigStat": {
+        "value": "8",
+        "label": "arrest warrants issued by the Nasiriya integrity investigation court",
+        "arabicLabel": "عدد أوامر القبض التي أصدرتها يوم الخميس محكمة تحقيق الناصرية المختصة بقضايا النزاهة بتهم الإضرار الجسيم بالمال العام؛ المتهمون قيد التحقيق ولم تصدر بحقهم أحكام (شفق نيوز، 10 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "أوامر قبض",
+          "value": "8"
+        },
+        {
+          "label": "التهمة",
+          "value": "الإضرار بالمال العام"
+        },
+        {
+          "label": "الحالة",
+          "value": "لا أحكام بعد"
+        }
+      ],
+      "broll": "images/news/2026-08-10-land-files-nasiriya/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-10-land-files-nasiriya/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الحمداني يتسلم إدارة بلدية الناصرية",
+      "arabicBody": "محافظ ذي قار هيثم الحمداني تسلّم إدارة بلدية الناصرية وأجرى تغييرات إدارية، فيما استُهدف أكثر من 20 شخصاً في العمليات، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "20+",
+        "label": "people targeted in the security and integrity operations",
+        "arabicLabel": "عدد المستهدفين في العمليات الأمنية بالتنسيق مع هيئة النزاهة، وفق ما نقلته شفق نيوز في 10 آب 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "مستهدفون",
+          "value": "أكثر من 20"
+        },
+        {
+          "label": "موقوف السبت",
+          "value": "مدير سابق"
+        },
+        {
+          "label": "الإجراء",
+          "value": "تغييرات إدارية"
+        }
+      ],
+      "broll": "images/news/2026-08-10-land-files-nasiriya/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-10-land-files-nasiriya/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "600 معاملة أرض بالناصرية مضبوطة ضمن ملف قيد التحقيق (شفق نيوز)",
+    "محكمة تحقيق الناصرية المختصة بقضايا النزاهة أصدرت الخميس 8 أوامر قبض (شفق نيوز)",
+    "التهم: الإضرار الجسيم بالمال العام، والمتهمون قيد التحقيق (شفق نيوز)",
+    "بين المطلوبين مدير البلدية الأسبق ومدير الأملاك السابق (شفق نيوز)",
+    "توقيف مدير بلدية الناصرية السابق يوم السبت على خلفية ملف الأراضي (شفق نيوز)",
+    "أكثر من 20 شخصاً استُهدفوا في العمليات الأمنية ولم تصدر أحكام (شفق نيوز)",
+    "محافظ ذي قار هيثم الحمداني يتسلم إدارة بلدية الناصرية (شفق نيوز)",
+    "معاملتك بالبلدية شكد صارلها معلّقة؟"
+  ]
+}

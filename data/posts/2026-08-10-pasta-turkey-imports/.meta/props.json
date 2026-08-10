@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 10 • 2026",
+  "arabicDateLabel": "10 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "غذاء",
+    "arabicHeadline": "معكرونتك وبقولياتك من وين تجي؟",
+    "englishSubhead": "IRAQ THE TOP DESTINATION | UNION'S TOTAL EXPORTS $173.5M | UP 13% | PULSES LEAD",
+    "heroMedia": "images/news/2026-08-10-pasta-turkey-imports/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "العراق أول وجهة للصادرات",
+      "arabicBody": "تصدّر العراق قائمة وجهات صادرات اتحاد مصدّري الحبوب والبقوليات وزيوت البذور في منطقة المتوسط التركية خلال تموز، أي أكبر مشترٍ من هذا الاتحاد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "الأول",
+        "label": "Iraq's rank among the union's export destinations in July",
+        "arabicLabel": "ترتيب العراق بين وجهات صادرات اتحاد مصدّري الحبوب والبقوليات وزيوت البذور في منطقة البحر المتوسط التركية خلال تموز 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "ترتيب العراق",
+          "value": "الأول"
+        },
+        {
+          "label": "الشهر",
+          "value": "تموز 2026"
+        },
+        {
+          "label": "المصدر",
+          "value": "اتحاد المتوسط"
+        }
+      ],
+      "broll": "images/news/2026-08-10-pasta-turkey-imports/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-10-pasta-turkey-imports/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "173.5 مليون دولار بزيادة 13%",
+      "arabicBody": "بلغت صادرات الاتحاد إلى مختلف الدول نحو 173.5 مليون دولار في تموز، بزيادة 13% عن الفترة نفسها من العام الماضي، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "173.5",
+        "label": "million dollars — the union's total July exports to all destinations",
+        "arabicLabel": "إجمالي صادرات اتحاد مصدّري الحبوب والبقوليات وزيوت البذور في منطقة المتوسط التركية إلى مختلف الدول خلال تموز 2026، بزيادة 13% عن الفترة نفسها من العام الماضي (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجمالي",
+          "value": "173.5 مليون$"
+        },
+        {
+          "label": "الزيادة السنوية",
+          "value": "13%"
+        },
+        {
+          "label": "الوجهة الأولى",
+          "value": "العراق"
+        }
+      ],
+      "broll": "images/news/2026-08-10-pasta-turkey-imports/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-10-pasta-turkey-imports/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البقوليات تتصدر بـ36.3 مليون دولار",
+      "arabicBody": "تصدّرت البقوليات بـ36.3 مليون دولار، بحصة 22% وفق الاتحاد، تلتها الزيوت النباتية 35.8 مليون دولار والمعكرونة ومنتجاتها 32.8 مليون، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "36.3",
+        "label": "million dollars of pulses — 22% share per the union",
+        "arabicLabel": "قيمة صادرات البقوليات ضمن إجمالي صادرات الاتحاد في تموز 2026 وبحصة 22% وفق الاتحاد، تلتها الزيوت النباتية 35.8 مليون دولار والمعكرونة 32.8 مليون (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بقوليات",
+          "value": "36.3 مليون$"
+        },
+        {
+          "label": "زيوت نباتية",
+          "value": "35.8 مليون$"
+        },
+        {
+          "label": "معكرونة",
+          "value": "32.8 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-08-10-pasta-turkey-imports/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-10-pasta-turkey-imports/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراق أول وجهة لصادرات اتحاد تركي للحبوب والبقوليات في تموز (شفق نيوز)",
+    "صادرات الاتحاد إلى مختلف الدول نحو 173.5 مليون دولار (شفق نيوز)",
+    "بزيادة 13% عن الفترة نفسها من العام الماضي (شفق نيوز)",
+    "البقوليات في المقدمة بـ36.3 مليون دولار بحصة 22% وفق الاتحاد (شفق نيوز)",
+    "الزيوت النباتية 35.8 مليون دولار (شفق نيوز)",
+    "المعكرونة ومنتجاتها 32.8 مليون دولار (شفق نيوز)",
+    "شكد دفعت للمعكرونة والبقوليات هالشهر؟"
+  ]
+}

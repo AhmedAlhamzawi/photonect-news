@@ -1,0 +1,130 @@
+{
+  "dateLabel": "AUG 10 • 2026",
+  "arabicDateLabel": "10 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء",
+    "arabicHeadline": "فلوس الكهرباء تبقى بمحافظتك — شنو يتغير؟",
+    "englishSubhead": "PROVINCES KEEP THE CASH | DIYALA COLLECTS 6BN DINARS A MONTH | DHI QAR PROTESTS",
+    "heroMedia": "images/news/2026-08-10-blackout-bill-provinces/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "التوزيع ينتقل من الوزارة للمحافظات",
+      "arabicBody": "قرار رئيس مجلس الوزراء ينقل إدارة توزيع الكهرباء من الوزارة إلى الحكومات المحلية، وإيرادات كل محافظة تبقى فيها، وفق محافظ ديالى عدنان الشمري لشفق نيوز.",
+      "bigStat": {
+        "value": "6",
+        "label": "billion dinars a month — Diyala's electricity collection, now staying in the province",
+        "arabicLabel": "ما تجبيه محافظة ديالى شهرياً من توزيع الكهرباء، نحو 6 مليارات دينار كانت تذهب سابقاً إلى الحكومة الاتحادية وتبقى بالمحافظة بموجب القرار (شفق نيوز، 10 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "مليار دينار شهرياً",
+          "value": "6"
+        },
+        {
+          "label": "الجهة سابقاً",
+          "value": "الاتحادية"
+        },
+        {
+          "label": "الجهة الآن",
+          "value": "المحافظة"
+        }
+      ],
+      "broll": "images/news/2026-08-10-blackout-bill-provinces/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-10-blackout-bill-provinces/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "72 ملياراً بالسنة لمحافظة وحدة",
+      "arabicBody": "اضرب 6 مليارات بـ12 شهراً: 72 مليار دينار سنوياً لمحافظة واحدة (محتسب). والقرار يمنح المحافظين صلاحية التعاقد على مشاريع الطاقة النظيفة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "72",
+        "label": "billion dinars a year for one province (computed)",
+        "arabicLabel": "حاصل ضرب جباية ديالى الشهرية البالغة 6 مليارات دينار في اثني عشر شهراً، رقم محتسب من بيانات شفق نيوز في 10 آب 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "سنوياً (محتسب)",
+          "value": "72 مليار"
+        },
+        {
+          "label": "شهرياً",
+          "value": "6 مليار"
+        },
+        {
+          "label": "صلاحية جديدة",
+          "value": "الطاقة النظيفة"
+        }
+      ],
+      "broll": "images/news/2026-08-10-blackout-bill-provinces/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-10-blackout-bill-provinces/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وبالفهود قطعوا طريق الجبايش",
+      "arabicBody": "متظاهرون بقضاء الفهود بذي قار قطعوا طريق الجبايش بإطارات محترقة، احتجاجاً على تذبذب ساعات التجهيز، وطالبوا بإقالة مدير كهرباء المحافظة، وفق شفق نيوز وشبكة أخبار الناصرية.",
+      "bigStat": {
+        "value": "الفهود",
+        "label": "The district that cut the Jibayish road over the supply schedule",
+        "arabicLabel": "القضاء الذي قطع فيه المحتجون الطريق المؤدي إلى الجبايش صباح الاثنين احتجاجاً على تذبذب ساعات تجهيز الكهرباء (شفق نيوز وشبكة أخبار الناصرية، 10 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "القضاء",
+          "value": "الفهود"
+        },
+        {
+          "label": "المطلب",
+          "value": "تثبيت الجدول"
+        },
+        {
+          "label": "المحافظة",
+          "value": "ذي قار"
+        }
+      ],
+      "broll": "images/news/2026-08-10-blackout-bill-provinces/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-10-blackout-bill-provinces/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Nasiriyah News Network",
+      "domain": "nasiriyah.org"
+    }
+  ],
+  "arabicTicker": [
+    "فلوس الكهرباء تبقى بمحافظتك: قرار ينقل إدارة توزيع الكهرباء للحكومات المحلية (شفق نيوز)",
+    "محافظ ديالى عدنان الشمري: إيرادات كل محافظة تبقى فيها (شفق نيوز)",
+    "ديالى تجبي نحو 6 مليارات دينار شهرياً من توزيع الكهرباء (شفق نيوز)",
+    "أي نحو 72 مليار دينار سنوياً لمحافظة واحدة (محتسب)",
+    "القرار يمنح المحافظين صلاحية التعاقد على مشاريع الطاقة النظيفة (شفق نيوز)",
+    "متظاهرون بالفهود يقطعون طريق الجبايش بإطارات محترقة (شفق نيوز وشبكة أخبار الناصرية)",
+    "المطلب: تثبيت جدول التجهيز وإقالة مدير كهرباء ذي قار (شفق نيوز)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}

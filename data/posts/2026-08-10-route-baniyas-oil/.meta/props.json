@@ -1,0 +1,126 @@
+{
+  "dateLabel": "AUG 10 • 2026",
+  "arabicDateLabel": "10 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "نفط العراق يدور على منفذين جديدين للتصدير",
+    "englishSubhead": "TWO NEW EXPORT ROUTES STUDIED | BASRAH MEDIUM AT $57.09 | UP 3.93%",
+    "heroMedia": "images/news/2026-08-10-route-baniyas-oil/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البصرة–حديثة–فيشخابور وحديثة–بانياس",
+      "arabicBody": "وزارة النفط تخطط لمسارين جديدين لنقل الخام وتصديره: البصرة–حديثة–فيشخابور، وحديثة–بانياس، بحسب شفق نيوز نقلاً عن وكيل الوزارة لشؤون الاستخراج ناصر عزيز.",
+      "bigStat": {
+        "value": "2",
+        "label": "new crude transport and export routes under study",
+        "arabicLabel": "عدد المسارات الجديدة التي تخطط لها وزارة النفط لنقل وتصدير الخام، وهما البصرة–حديثة–فيشخابور وحديثة–بانياس، وفق وكيل الوزارة لشؤون الاستخراج ناصر عزيز (شفق نيوز، 10 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المسار الأول",
+          "value": "فيشخابور"
+        },
+        {
+          "label": "المسار الثاني",
+          "value": "بانياس"
+        },
+        {
+          "label": "الصيغة",
+          "value": "BOOT"
+        }
+      ],
+      "broll": "images/news/2026-08-10-route-baniyas-oil/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-10-route-baniyas-oil/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "خام البصرة المتوسط 57.09 دولاراً",
+      "arabicBody": "خام البصرة المتوسط ارتفع إلى 57.09 دولاراً للبرميل بنسبة 3.93%، بعد هبوط حاد لامس نحو 46 دولاراً في تموز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "57.09",
+        "label": "dollars a barrel — Basrah Medium after a 3.93% rise",
+        "arabicLabel": "سعر برميل خام البصرة المتوسط يوم الاثنين 10 آب 2026 بارتفاع نسبته 3.93% بعد هبوط حاد (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر",
+          "value": "57.09$"
+        },
+        {
+          "label": "التغير",
+          "value": "+3.93%"
+        },
+        {
+          "label": "الأدنى بتموز",
+          "value": "نحو 46$"
+        }
+      ],
+      "broll": "images/news/2026-08-10-route-baniyas-oil/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-10-route-baniyas-oil/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أوطأ بنحو 58% من ذروة نيسان",
+      "arabicBody": "كل برميل اليوم أقل بنحو 78 دولاراً، أي قرابة 58% (محتسب)، عن ذروة نحو 135 دولاراً سُجلت مطلع نيسان، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "58%",
+        "label": "below April's peak (computed)",
+        "arabicLabel": "نسبة انخفاض سعر خام البصرة المتوسط الحالي البالغ 57.09 دولاراً عن ذروة نحو 135 دولاراً مطلع نيسان 2026، والفارق نحو 78 دولاراً، وكلاهما محتسب من بيانات شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "الذروة (نيسان)",
+          "value": "نحو 135$"
+        },
+        {
+          "label": "اليوم",
+          "value": "57.09$"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "نحو 78$"
+        }
+      ],
+      "broll": "images/news/2026-08-10-route-baniyas-oil/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-10-route-baniyas-oil/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة النفط تخطط لمسارين جديدين لنقل وتصدير الخام (شفق نيوز)",
+    "المسار الأول: البصرة–حديثة–فيشخابور (شفق نيوز)",
+    "المسار الثاني: حديثة–بانياس على المتوسط (شفق نيوز)",
+    "مفاوضات مع تحالف دولي بصيغة الاستثمار BOOT (شفق نيوز)",
+    "مذكرة تفاهم عراقية سورية في 17 تموز 2026 لإعادة تشغيل خط كركوك–بانياس (شفق نيوز)",
+    "خام البصرة المتوسط 57.09 دولاراً بارتفاع 3.93% (شفق نيوز)",
+    "أوطأ بنحو 78 دولاراً أي قرابة 58% عن ذروة نيسان (محتسب)",
+    "فيشخابور لو بانياس: أي مسار تشوفه أضمن للعراق؟"
+  ]
+}
