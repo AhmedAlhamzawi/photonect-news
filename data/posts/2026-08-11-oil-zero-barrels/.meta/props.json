@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 11 • 2026",
+  "arabicDateLabel": "11 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "oil_energy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "متوسط صفر برميل عراقي إلى أميركا بتموز",
+    "englishSubhead": "US IMPORTS OF IRAQI CRUDE AVERAGED ZERO B/D IN JULY | DOWN FROM 45,000 B/D | EIA DATA",
+    "heroMedia": "images/news/2026-08-11-oil-zero-barrels/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تموز 2026: صفر برميل إلى أميركا",
+      "arabicBody": "بلغ متوسط واردات الولايات المتحدة من النفط الخام العراقي صفر برميل يومياً خلال تموز 2026، بحسب بيانات إدارة معلومات الطاقة الأميركية نقلاً عن شفق نيوز.",
+      "bigStat": {
+        "value": "صفر",
+        "label": "barrels per day — US imports of Iraqi crude in July 2026",
+        "arabicLabel": "متوسط واردات الولايات المتحدة من النفط الخام العراقي خلال تموز 2026 وفق بيانات إدارة معلومات الطاقة الأميركية (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "تموز 2026",
+          "value": "صفر"
+        },
+        {
+          "label": "الوحدة",
+          "value": "برميل/يوم"
+        },
+        {
+          "label": "المصدر",
+          "value": "EIA"
+        }
+      ],
+      "broll": "images/news/2026-08-11-oil-zero-barrels/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-11-oil-zero-barrels/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "من 45 ألف برميل إلى لا شيء",
+      "arabicBody": "كانت الواردات 45 ألف برميل يومياً في الفترة السابقة. خرج العراق من قائمة أكبر موردي الخام إلى الولايات المتحدة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "45,000",
+        "label": "barrels per day — the previous level of Iraqi crude flowing to the US",
+        "arabicLabel": "مستوى واردات الولايات المتحدة من الخام العراقي في الفترة السابقة قبل أن تصل إلى صفر في تموز 2026، ما أخرج العراق من قائمة أكبر الموردين (شفق نيوز نقلاً عن إدارة معلومات الطاقة الأميركية)"
+      },
+      "supportingStats": [
+        {
+          "label": "سابقاً",
+          "value": "45,000"
+        },
+        {
+          "label": "الآن",
+          "value": "صفر"
+        },
+        {
+          "label": "الترتيب",
+          "value": "خارج القائمة"
+        }
+      ],
+      "broll": "images/news/2026-08-11-oil-zero-barrels/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-11-oil-zero-barrels/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البصرة المتوسط 57.39.. وبرنت 87.94",
+      "arabicBody": "ارتفع خام البصرة المتوسط 0.53% إلى 57.39 دولاراً للبرميل والثقيل 0.55% إلى 55.09 دولاراً يوم الثلاثاء، فيما سُجّل برنت عند 87.94 دولاراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "57.39$",
+        "label": "per barrel — Basrah Medium on Tuesday",
+        "arabicLabel": "سعر خام البصرة المتوسط للبرميل يوم الثلاثاء 11 آب 2026 بارتفاع 0.53%، مقابل 55.09 دولاراً للثقيل و87.94 دولاراً لبرنت (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة المتوسط",
+          "value": "57.39$"
+        },
+        {
+          "label": "البصرة الثقيل",
+          "value": "55.09$"
+        },
+        {
+          "label": "برنت",
+          "value": "87.94$"
+        }
+      ],
+      "broll": "images/news/2026-08-11-oil-zero-barrels/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-11-oil-zero-barrels/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "صفر برميل يومياً: واردات أميركا من الخام العراقي بتموز 2026 (EIA عبر شفق نيوز)",
+    "مقابل 45 ألف برميل يومياً في الفترة السابقة (شفق نيوز)",
+    "وبذلك خرج العراق من قائمة أكبر موردي الخام إلى الولايات المتحدة (شفق نيوز)",
+    "خام البصرة الثقيل عند 55.09 دولاراً للبرميل (شفق نيوز)",
+    "خام البصرة المتوسط 57.39 دولاراً والثقيل 55.09 دولاراً (شفق نيوز)",
+    "برنت عند 87.94 دولاراً للبرميل يوم الثلاثاء (شفق نيوز)",
+    "شكد تدفع بالأسبوع بنزين لسيارتك؟"
+  ]
+}

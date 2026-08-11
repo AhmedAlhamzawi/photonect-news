@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 11 • 2026",
+  "arabicDateLabel": "11 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "consumer_market",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سيارات",
+    "arabicHeadline": "مبيعات السيارات بالعراق هوت 28.6% بالنصف الأول",
+    "englishSubhead": "IRAQ CAR SALES DOWN 28.6% IN H1 2026 | 59,264 UNITS | HYUNDAI OFF 69.7%",
+    "heroMedia": "images/news/2026-08-11-showroom-sales-28/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "59,264 سيارة بالنصف الأول",
+      "arabicBody": "بلغت مبيعات السيارات في العراق 59,264 سيارة بالنصف الأول من 2026، بتراجع 28.6% عن الفترة نفسها من العام الماضي، وفق Focus2move نقلاً عن شفق نيوز.",
+      "bigStat": {
+        "value": "59,264",
+        "label": "vehicles sold in Iraq in the first half of 2026",
+        "arabicLabel": "إجمالي مبيعات السيارات في العراق خلال النصف الأول من 2026 بتراجع 28.6% عن الفترة نفسها من 2025، وفق منصة Focus2move (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "النصف الأول 2026",
+          "value": "59,264"
+        },
+        {
+          "label": "التراجع",
+          "value": "28.6%"
+        },
+        {
+          "label": "المصدر",
+          "value": "Focus2move"
+        }
+      ],
+      "broll": "images/news/2026-08-11-showroom-sales-28/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-11-showroom-sales-28/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "هيونداي الأكبر تراجعاً بـ69.7%",
+      "arabicBody": "سجّلت هيونداي أكبر هبوط بنسبة 69.7%، فيما تصدّرت كيا بحصة 28% من المبيعات رغم تراجعها، وتلتها تويوتا بـ22%، وفق Focus2move نقلاً عن شفق نيوز.",
+      "bigStat": {
+        "value": "69.7%",
+        "label": "the steepest brand decline in the Iraqi market — Hyundai",
+        "arabicLabel": "نسبة تراجع مبيعات هيونداي في العراق خلال النصف الأول من 2026، وهي الأكبر بين العلامات، مقابل كيا بحصة 28% وتويوتا بحصة 22% (Focus2move عبر شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "كيا",
+          "value": "28% حصة"
+        },
+        {
+          "label": "تويوتا",
+          "value": "22% حصة"
+        },
+        {
+          "label": "هيونداي",
+          "value": "-69.7%"
+        }
+      ],
+      "broll": "images/news/2026-08-11-showroom-sales-28/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-11-showroom-sales-28/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الكهربائية 1% فقط من السوق",
+      "arabicBody": "تراجعت مبيعات السيارات الكهربائية 72% ولا تتجاوز 1% من السوق، فيما نمت جيلي 29.2% وغريت وول 6.9% عكس الاتجاه العام، وفق Focus2move نقلاً عن شفق نيوز.",
+      "bigStat": {
+        "value": "1%",
+        "label": "the electric-vehicle share of Iraq's car market",
+        "arabicLabel": "حصة السيارات الكهربائية من إجمالي سوق السيارات العراقية بعد تراجع مبيعاتها 72%، فيما نمت جيلي 29.2% وغريت وول 6.9% (Focus2move عبر شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة الكهربائية",
+          "value": "1%"
+        },
+        {
+          "label": "تراجعها",
+          "value": "-72%"
+        },
+        {
+          "label": "جيلي",
+          "value": "+29.2%"
+        }
+      ],
+      "broll": "images/news/2026-08-11-showroom-sales-28/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-11-showroom-sales-28/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مبيعات السيارات بالعراق هوت 28.6% بالنصف الأول من 2026 (Focus2move عبر شفق نيوز)",
+    "59,264 سيارة فقط بيعت خلال ستة أشهر (Focus2move عبر شفق نيوز)",
+    "كيا تتصدّر بحصة 28% رغم تراجعها 27.8% (Focus2move عبر شفق نيوز)",
+    "تويوتا ثانياً بحصة 22% وتراجع 24% (Focus2move عبر شفق نيوز)",
+    "هيونداي الأكبر تراجعاً بنسبة 69.7% (Focus2move عبر شفق نيوز)",
+    "الكهربائية تهبط 72% ولا تتجاوز 1% من السوق (Focus2move عبر شفق نيوز)",
+    "مأجّل شراء سيارة هالسنة؟"
+  ]
+}

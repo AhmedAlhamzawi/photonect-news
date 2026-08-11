@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 11 • 2026",
+  "arabicDateLabel": "11 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "trade_logistics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "ترانزيت",
+    "arabicHeadline": "مليون شاحنة سنوياً عبر العراق.. استعداد تركي",
+    "englishSubhead": "TURKEY READY TO RAISE TRANSIT TO 1M TRUCKS A YEAR ACROSS IRAQ | RABIA, WALEED, QAIM",
+    "heroMedia": "images/news/2026-08-11-transit-million-trucks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "استعداد تركي لمليون شاحنة سنوياً",
+      "arabicBody": "أبدى وفد تركي استعداد بلاده لرفع عدد شاحنات الترانزيت العابرة للأراضي العراقية إلى مليون شاحنة سنوياً، خلال لقاء مع هيئة المنافذ الحدودية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "مليون",
+        "label": "trucks a year — the transit volume Turkey says it is ready to move across Iraq",
+        "arabicLabel": "عدد شاحنات الترانزيت السنوية التي أبدى الوفد التركي استعداد بلاده لرفع الحركة إليها عبر الأراضي العراقية (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "مليون شاحنة"
+        },
+        {
+          "label": "الإطار الزمني",
+          "value": "سنوياً"
+        },
+        {
+          "label": "الوضع",
+          "value": "استعداد لا اتفاق"
+        }
+      ],
+      "broll": "images/news/2026-08-11-transit-million-trucks/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-11-transit-million-trucks/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "ربيعة والوليد والقائم ممرات رئيسية",
+      "arabicBody": "حُدّدت ربيعة في نينوى والوليد والقائم ممرات رئيسية، وبحث رئيس هيئة المنافذ الفريق عمر عدنان الوائلي تخصيص ممرات ترانزيت وفق المعايير الدولية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "3",
+        "label": "border crossings named as the main transit corridors",
+        "arabicLabel": "المنافذ الحدودية الثلاثة التي حُدّدت ممرات رئيسية للترانزيت: ربيعة في نينوى والوليد والقائم، وفق رئيس هيئة المنافذ الفريق عمر عدنان الوائلي (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "ربيعة",
+          "value": "نينوى"
+        },
+        {
+          "label": "الوليد",
+          "value": "منفذ حدودي"
+        },
+        {
+          "label": "القائم",
+          "value": "منفذ حدودي"
+        }
+      ],
+      "broll": "images/news/2026-08-11-transit-million-trucks/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-11-transit-million-trucks/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "اجتماع ثلاثي مع سوريا وتركيا",
+      "arabicBody": "اقترح الوائلي اجتماعاً ثلاثياً يضم العراق وسوريا وتركيا لتوحيد إجراءات الترانزيت، ضمن مسار طريق التنمية الذي يربط تركيا وأوروبا بالخليج عبر العراق، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "ثلاثي",
+        "label": "countries in the trilateral meeting proposed to unify transit procedures",
+        "arabicLabel": "الدول الثلاث في الاجتماع الثلاثي الذي اقترحه رئيس هيئة المنافذ لوضع آلية موحدة لعبور البضائع: العراق وسوريا وتركيا (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاجتماع المقترح",
+          "value": "ثلاثي"
+        },
+        {
+          "label": "الهدف",
+          "value": "آلية موحدة"
+        },
+        {
+          "label": "الإطار",
+          "value": "طريق التنمية"
+        }
+      ],
+      "broll": "images/news/2026-08-11-transit-million-trucks/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-11-transit-million-trucks/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مليون شاحنة سنوياً عبر العراق.. وفد تركي يبدي استعداد بلاده لرفع الترانزيت (شفق نيوز)",
+    "الفريق عمر عدنان الوائلي: تخصيص ممرات ترانزيت وفق المعايير الدولية (شفق نيوز)",
+    "ربيعة في نينوى والوليد والقائم ممرات رئيسية للترانزيت (شفق نيوز)",
+    "الجانب التركي يشير إلى تفاهمات تركية سعودية داعمة للحركة (شفق نيوز)",
+    "اقتراح اجتماع ثلاثي يضم العراق وسوريا وتركيا لتوحيد الإجراءات (شفق نيوز)",
+    "طريق التنمية يربط تركيا وأوروبا بالخليج عبر النقل البري العراقي (شفق نيوز)",
+    "بضاعتك تجيك من تركيا؟ شكد تأخذ وقت توصل؟"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 11 • 2026",
+  "arabicDateLabel": "11 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "الدولار يصعد لليوم الثالث.. والصيرفة تبيع بـ153,750",
+    "englishSubhead": "KIFAH & HARITHIYA AT 153,250 PER $100 | BAGHDAD SHOPS SELL AT 153,750 | THIRD DAY UP",
+    "heroMedia": "images/news/2026-08-11-dollar-third-day/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الكفاح والحارثية فتحتا على 153,250",
+      "arabicBody": "فتحت بورصتا الكفاح والحارثية صباح الثلاثاء على 153,250 ديناراً لكل 100 دولار، مقابل 152,500 صباح الاثنين، بارتفاع 750 ديناراً (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,250",
+        "label": "IQD per $100 at the Baghdad bourses on Tuesday morning",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الثلاثاء 11 آب 2026، مقابل 152,500 ديناراً صباح الاثنين؛ الفارق 750 ديناراً محتسب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اليوم",
+          "value": "153,250"
+        },
+        {
+          "label": "أمس",
+          "value": "152,500"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+750"
+        }
+      ],
+      "broll": "images/news/2026-08-11-dollar-third-day/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-11-dollar-third-day/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تشتري بـ152,750 وتبيع بـ153,750",
+      "arabicBody": "محال الصيرفة ببغداد باعت 100 دولار بـ153,750 ديناراً واشترتها بـ152,750، وهو ثالث يوم ارتفاع على التوالي في أسواق بغداد وأربيل، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,750",
+        "label": "IQD per $100 — the Baghdad exchange-shop selling rate on Tuesday",
+        "arabicLabel": "سعر بيع الدولار في محال الصيرفة ببغداد لكل 100 دولار صباح الثلاثاء 11 آب 2026، مقابل شراء 152,750 ديناراً، في ثالث يوم ارتفاع على التوالي (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "153,750"
+        },
+        {
+          "label": "شراء",
+          "value": "152,750"
+        },
+        {
+          "label": "أيام الصعود",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-08-11-dollar-third-day/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-11-dollar-third-day/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "كل 1000 دولار تكلّفك 7,500 دينار زيادة",
+      "arabicBody": "بحساب فارق البورصة، كل 1000 دولار اليوم تكلّف 7,500 دينار أكثر من أمس (محتسب). وأربيل أرخص: 153,150 ديناراً لكل 100 دولار، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "7,500",
+        "label": "extra dinars on every $1,000 bought today versus yesterday (computed)",
+        "arabicLabel": "الزيادة المحتسبة على كل 1000 دولار مقارنة بصباح أمس، مستخرجة من فارق البورصة البالغ 750 ديناراً لكل 100 دولار وهو رقم محتسب من سعري الثلاثاء والاثنين (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "لكل 1000$ (محتسب)",
+          "value": "7,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "153,150"
+        },
+        {
+          "label": "بغداد أغلى من أربيل (محتسب)",
+          "value": "600 لكل 100$"
+        }
+      ],
+      "broll": "images/news/2026-08-11-dollar-third-day/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-11-dollar-third-day/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "الدولار يصعد لليوم الثالث.. والصيرفة ببغداد تبيع الـ100 دولار بـ153,750 ديناراً (شفق نيوز)",
+    "بورصتا الكفاح والحارثية فتحتا على 153,250 ديناراً لكل 100 دولار (شفق نيوز)",
+    "مقابل 152,500 دينار صباح الاثنين، أي بارتفاع 750 ديناراً (محتسب)",
+    "محال الصيرفة تشتري الـ100 دولار بـ152,750 ديناراً (شفق نيوز)",
+    "كل 1000 دولار تشتريها اليوم تكلّف 7,500 دينار أكثر من أمس (محتسب)",
+    "أربيل: بيع 153,150 وشراء 153,050 ديناراً لكل 100 دولار (شفق نيوز)",
+    "شكد دفعت زيادة على آخر دولار اشتريته؟"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 11 • 2026",
+  "arabicDateLabel": "11 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "تأخير تجاوز 40 يوماً.. والمستشار: مؤمّنة",
+    "englishSubhead": "MONTHLY SALARY BILL 7.8TN IQD | MINISTRY SAYS 3.2TN SECURED FOR PART OF IT | DELAY PAST 40 DAYS",
+    "heroMedia": "images/news/2026-08-11-budget-78-salaries/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كل شهر: 7.8 ترليون التزام رواتب",
+      "arabicBody": "الالتزامات الشهرية للرواتب نحو 7.8 ترليون دينار. وزارة المالية أعلنت توفير نحو 3.2 ترليون دينار لصرف جزء منها، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "7.8 ترليون",
+        "label": "IQD — Iraq's monthly salary obligations",
+        "arabicLabel": "الالتزامات الشهرية لرواتب الموظفين والمتقاعدين نحو 7.8 ترليون دينار، مقابل نحو 3.2 ترليون دينار أعلنت وزارة المالية توفيرها لصرف جزء منها (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الالتزام الشهري",
+          "value": "7.8 ترليون"
+        },
+        {
+          "label": "ما وُفّر",
+          "value": "3.2 ترليون"
+        },
+        {
+          "label": "العملة",
+          "value": "دينار"
+        }
+      ],
+      "broll": "images/news/2026-08-11-budget-78-salaries/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-11-budget-78-salaries/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "تأخير تجاوز 40 يوماً.. والمستشار: مؤمّنة",
+      "arabicBody": "تأخر الصرف تجاوز 40 يوماً لشرائح واسعة من الموظفين. المستشار المالي لرئيس الوزراء مظهر محمد صالح: الرواتب «مؤمّنة ولا خطر عليها»، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "40 يوماً",
+        "label": "how long the salary-payment delay has run for wide segments of state employees",
+        "arabicLabel": "المدة التي تجاوزها تأخر صرف الرواتب لشرائح واسعة من موظفي الدولة، بالتوازي مع تأكيد المستشار المالي لرئيس الوزراء مظهر محمد صالح أن الرواتب مؤمّنة ولا خطر عليها (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "طول التأخير",
+          "value": "40+ يوماً"
+        },
+        {
+          "label": "المستشار",
+          "value": "مظهر محمد صالح"
+        },
+        {
+          "label": "موقفه",
+          "value": "مؤمّنة"
+        }
+      ],
+      "broll": "images/news/2026-08-11-budget-78-salaries/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-11-budget-78-salaries/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفارق 4.6 ترليون.. وتنويع منافذ التصدير",
+      "arabicBody": "الفارق بين الالتزام والمتوفر نحو 4.6 ترليون دينار (محتسب)، والرهان على تعزيز الإيرادات وتنويع طرق التصدير عبر كركوك–جيهان بعيداً عن هرمز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "4.6 ترليون",
+        "label": "IQD gap between the monthly salary bill and what was released (computed)",
+        "arabicLabel": "الفارق المحتسب بين الالتزام الشهري البالغ 7.8 ترليون دينار وما أعلنت وزارة المالية توفيره وقدره 3.2 ترليون دينار، رقم محتسب (شفق نيوز، 11 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفجوة (محتسب)",
+          "value": "4.6 ترليون"
+        },
+        {
+          "label": "البديل المطروح",
+          "value": "كركوك–جيهان"
+        },
+        {
+          "label": "الموانئ المتأثرة",
+          "value": "الجنوبية"
+        }
+      ],
+      "broll": "images/news/2026-08-11-budget-78-salaries/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-11-budget-78-salaries/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "تأخير تجاوز 40 يوماً.. والمستشار المالي: الرواتب مؤمّنة ولا خطر عليها (شفق نيوز)",
+    "الالتزامات الشهرية لرواتب الموظفين والمتقاعدين نحو 7.8 ترليون دينار (شفق نيوز)",
+    "وزارة المالية أعلنت توفير نحو 3.2 ترليون دينار لصرف جزء منها (شفق نيوز)",
+    "الفارق بين الرقمين نحو 4.6 ترليون دينار (محتسب)",
+    "الرهان على تعزيز الإيرادات وتنويع طرق التصدير (شفق نيوز)",
+    "خط كركوك–جيهان بين الخيارات لتقليل الاعتماد على الموانئ الجنوبية (شفق نيوز)",
+    "راتبك وصل لو بعده متأخر؟"
+  ]
+}
