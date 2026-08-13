@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 13 • 2026",
+  "arabicDateLabel": "13 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء",
+    "arabicHeadline": "الطار تقطع الطريق.. الأهالي: وين راحت كهربتنا؟",
+    "englishSubhead": "AL-TAR BLOCKS ROADS; PROTESTERS SAY LOCAL OFFICIALS DIVERTED ITS POWER TO AL-FUHUD | 2 HURT AS AL-FUHUD RALLY WAS DISPERSED",
+    "heroMedia": "images/news/2026-08-13-blackout-tar-diverted/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "إطارات مشتعلة تقطع طرق الطار",
+      "arabicBody": "مساء الأربعاء اشتعلت الإطارات على طرق ناحية الطار بذي قار، وقطع الأهالي الطريق مطالبين بإعادة الكهرباء، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "12 آب",
+        "label": "the night Al-Tar subdistrict in Dhi Qar blocked its roads over electricity",
+        "arabicLabel": "ليلة قطع أهالي ناحية الطار في ذي قار الطرق بإطارات مشتعلة مطالبين بإعادة الكهرباء، بحسب مراسل شفق نيوز (12 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الناحية",
+          "value": "الطار"
+        },
+        {
+          "label": "المحافظة",
+          "value": "ذي قار"
+        },
+        {
+          "label": "المطلب",
+          "value": "إعادة الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-08-13-blackout-tar-diverted/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-13-blackout-tar-diverted/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الفهود تظاهرت والحصيلة جريحان",
+      "arabicBody": "يتهم المحتجون مسؤولين محليين بتحويل كهرباء الطار إلى الفهود. والفهود نفسها تظاهرت في 9 و10 آب، وأصيب متظاهران عند تفريق التجمع، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2",
+        "label": "demonstrators injured when security forces dispersed the Al-Fuhud rally",
+        "arabicLabel": "عدد المتظاهرين الذين أصيبوا عند تفريق القوات الأمنية لتجمع الفهود في ذي قار، ضمن احتجاجات الفهود على سوء تجهيز الكهرباء يومي 9 و10 آب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أيام تظاهر الفهود",
+          "value": "9 و10 آب"
+        },
+        {
+          "label": "الجرحى",
+          "value": "2"
+        },
+        {
+          "label": "مطلب الفهود",
+          "value": "إقالة مدير الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-08-13-blackout-tar-diverted/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-13-blackout-tar-diverted/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البصرة تنفي.. والبرلمان يفتح 2005",
+      "arabicBody": "نفى محافظ البصرة أسعد العيداني تحويل أي حصة كهرباء إلى ذي قار. والبرلمان أقر في 27 تموز فتح ملفات فساد الكهرباء منذ 2005، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2005",
+        "label": "how far back the Electricity Ministry corruption files parliament voted to reopen go",
+        "arabicLabel": "السنة التي تعود إليها ملفات فساد وزارة الكهرباء التي أقر البرلمان في 27 تموز 2026 إعادة فتحها، ضمن حزمة إجراءات لمعالجة أزمة الكهرباء تشمل التوسع بالطاقة الشمسية وقروضاً ميسّرة للمنازل التي تركّب منظومات طاقة متجددة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "قرار البرلمان",
+          "value": "27 تموز"
+        },
+        {
+          "label": "ملفات الفساد",
+          "value": "منذ 2005"
+        },
+        {
+          "label": "البصرة",
+          "value": "نفت التحويل"
+        }
+      ],
+      "broll": "images/news/2026-08-13-blackout-tar-diverted/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-13-blackout-tar-diverted/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "الطار في ذي قار قطعت الطرق مساء الأربعاء بإطارات مشتعلة مطالبةً بإعادة الكهرباء (شفق نيوز)",
+    "المحتجون يتهمون مسؤولين محليين بتحويل كهرباء الطار إلى قضاء الفهود (شفق نيوز)",
+    "الفهود تظاهرت في 9 و10 آب وطالبت بإقالة مدير كهرباء ذي قار محمد رويضي (شفق نيوز)",
+    "إصابة متظاهرين اثنين عند تفريق القوات الأمنية لتجمع الفهود (شفق نيوز)",
+    "محافظ البصرة أسعد العيداني ينفي تحويل أي حصة من كهرباء البصرة إلى ذي قار (شفق نيوز)",
+    "البرلمان أقر في 27 تموز إعادة فتح ملفات فساد الكهرباء منذ 2005 (شفق نيوز)",
+    "كم ساعة كهرباء وصلتك اليوم؟"
+  ]
+}

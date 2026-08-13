@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 13 • 2026",
+  "arabicDateLabel": "13 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "8 أشهر بلا راتب.. ويقتربون من التاسع",
+    "englishSubhead": "DIYALA 7,000-POST CONTRACT STAFF PROTEST IN BAQUBA | 8 MONTHS UNPAID | PROTESTER: NEARING MONTH 9",
+    "heroMedia": "images/news/2026-08-13-salary-ninth-month/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تظاهرة أمام مجلس ديالى ببعقوبة",
+      "arabicBody": "تظاهر موظفو عقود الـ7000 درجة أمام مقر مجلس محافظة ديالى ببعقوبة، مطالبين بصرف رواتب 8 أشهر متأخرة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "8",
+        "label": "months of unpaid salaries the Diyala contract employees are protesting over",
+        "arabicLabel": "عدد الأشهر التي لم يستلم فيها موظفو عقود الـ7000 درجة في ديالى رواتبهم، وفق تظاهرتهم أمام مجلس المحافظة ببعقوبة (شفق نيوز، 13 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأشهر المتأخرة",
+          "value": "8"
+        },
+        {
+          "label": "المكان",
+          "value": "بعقوبة"
+        },
+        {
+          "label": "الفئة",
+          "value": "عقود 7000 درجة"
+        }
+      ],
+      "broll": "images/news/2026-08-13-salary-ninth-month/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-13-salary-ninth-month/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المتظاهرون: نقترب من الشهر التاسع",
+      "arabicBody": "المتظاهر علي الشمري: نقترب من الشهر التاسع رغم تأكيدات بتأمين التمويل. تركنا أعمالنا السابقة وحافظنا على دوامنا ولم نستلم استحقاقاتنا، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "9",
+        "label": "the month protesters say they are nearing with no salary paid",
+        "arabicLabel": "الشهر الذي يقترب منه موظفو عقود الـ7000 درجة في ديالى دون استلام رواتبهم، بحسب المتظاهر علي الشمري (شفق نيوز، 13 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "وفق المتظاهرين",
+          "value": "يقتربون من التاسع"
+        },
+        {
+          "label": "المتحدث",
+          "value": "علي الشمري"
+        },
+        {
+          "label": "الأثر",
+          "value": "ديون ونفقات"
+        }
+      ],
+      "broll": "images/news/2026-08-13-salary-ninth-month/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-13-salary-ninth-month/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مستشار رئيس الوزراء: الرواتب مؤمّنة",
+      "arabicBody": "قال المستشار المالي لرئيس الوزراء مظهر محمد صالح إن رواتب الموظفين مؤمّنة رغم إغلاق مضيق هرمز الذي عطّل التصدير النفطي الجنوبي، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "7,000",
+        "label": "the size of the Diyala contract-hiring programme whose staff have gone unpaid",
+        "arabicLabel": "عدد الدرجات الوظيفية في برنامج عقود الـ7000 في ديالى، الذي يتظاهر موظفوه للمطالبة برواتب ثمانية أشهر متأخرة (شفق نيوز، 13 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الدرجات",
+          "value": "7,000"
+        },
+        {
+          "label": "المستشار",
+          "value": "مظهر محمد صالح"
+        },
+        {
+          "label": "رغم",
+          "value": "إغلاق هرمز"
+        }
+      ],
+      "broll": "images/news/2026-08-13-salary-ninth-month/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-13-salary-ninth-month/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "موظفو عقود الـ7000 درجة في ديالى بلا رواتب منذ 8 أشهر ويقتربون من التاسع (شفق نيوز)",
+    "تظاهرة أمام مقر مجلس المحافظة ببعقوبة للمطالبة بصرف الرواتب المتأخرة (شفق نيوز)",
+    "المتظاهر علي الشمري: نقترب من الشهر التاسع رغم تأكيدات بتأمين التمويل (شفق نيوز)",
+    "«تركنا أعمالنا السابقة وحافظنا على دوامنا ولم نستلم استحقاقاتنا المالية» (شفق نيوز)",
+    "التأخير خلّف ديوناً وأثقل نفقات البيت والنقل على الموظفين (شفق نيوز)",
+    "المستشار المالي مظهر محمد صالح: الرواتب مؤمّنة رغم إغلاق مضيق هرمز (شفق نيوز)",
+    "راتبك تأخر شكد شهر؟"
+  ]
+}

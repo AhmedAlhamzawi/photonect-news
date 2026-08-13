@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 13 • 2026",
+  "arabicDateLabel": "13 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "البصرة المتوسط قفز 15.20% وبرنت نزل",
+    "englishSubhead": "BASRAH MEDIUM $66.11 +15.20% | BASRAH HEAVY $62.81 +14.01% | BRENT $88.27 −0.80%",
+    "heroMedia": "images/news/2026-08-13-tanker-basra-crude/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البصرة المتوسط يقفز 15.20%",
+      "arabicBody": "قفز خام البصرة المتوسط 15.20% إلى 66.11 دولاراً للبرميل بزيادة 8.72 دولارات، وصعد الثقيل 14.01% إلى 62.81 دولاراً بزيادة 7.72 دولارات، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "15.20%",
+        "label": "the rise in Basrah Medium crude reported on Thursday",
+        "arabicLabel": "نسبة ارتفاع خام البصرة المتوسط يوم الخميس 13 آب 2026 ليبلغ 66.11 دولاراً للبرميل بزيادة 8.72 دولارات، مقابل ارتفاع الثقيل 14.01% إلى 62.81 دولاراً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة المتوسط",
+          "value": "66.11$"
+        },
+        {
+          "label": "البصرة الثقيل",
+          "value": "62.81$"
+        },
+        {
+          "label": "المتوسط أمس",
+          "value": "57.39$"
+        }
+      ],
+      "broll": "images/news/2026-08-13-tanker-basra-crude/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-13-tanker-basra-crude/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سلة أوبك تصعد وبرنت يتراجع",
+      "arabicBody": "صعدت سلة أوبك 7.42% إلى 86.60 دولاراً بزيادة 5.98 دولارات، وتراجعت عقود برنت 0.80% إلى 88.27 دولاراً، وغرب تكساس 1% إلى 82.44 دولاراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "86.60$",
+        "label": "the OPEC reference basket on Thursday, up 7.42%",
+        "arabicLabel": "سعر سلة أوبك المرجعية يوم الخميس 13 آب 2026 بزيادة 5.98 دولارات ونسبة 7.42%، مقابل تراجع عقود برنت الآجلة 0.80% إلى 88.27 دولاراً وغرب تكساس 1% إلى 82.44 دولاراً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "سلة أوبك",
+          "value": "86.60$"
+        },
+        {
+          "label": "برنت",
+          "value": "88.27$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "82.44$"
+        }
+      ],
+      "broll": "images/news/2026-08-13-tanker-basra-crude/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-13-tanker-basra-crude/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "البصرة المتوسط أدنى من برنت الآجل",
+      "arabicBody": "بقي خام البصرة المتوسط أدنى من عقود برنت الآجلة بـ22.16 دولاراً للبرميل (محتسب). وسجل خام مربان 90.08 دولاراً وخام دبي 84.56 دولاراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "22.16$",
+        "label": "how far below Brent Basrah Medium still trades per barrel (computed)",
+        "arabicLabel": "الفارق المحتسب بين عقود برنت الآجلة عند 88.27 دولاراً وخام البصرة المتوسط عند 66.11 دولاراً للبرميل يوم الخميس 13 آب 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفارق عن برنت (محتسب)",
+          "value": "22.16$"
+        },
+        {
+          "label": "مربان",
+          "value": "90.08$"
+        },
+        {
+          "label": "دبي",
+          "value": "84.56$"
+        }
+      ],
+      "broll": "images/news/2026-08-13-tanker-basra-crude/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-13-tanker-basra-crude/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام البصرة المتوسط يقفز 15.20% بينما يتراجع برنت (شفق نيوز)",
+    "البصرة المتوسط إلى 66.11 دولاراً للبرميل بزيادة 8.72 دولارات (شفق نيوز)",
+    "البصرة الثقيل إلى 62.81 دولاراً بزيادة 7.72 دولارات ونسبة 14.01% (شفق نيوز)",
+    "سلة أوبك ترتفع إلى 86.60 دولاراً بزيادة 5.98 دولارات ونسبة 7.42% (شفق نيوز)",
+    "برنت يتراجع 0.80% إلى 88.27 دولاراً وغرب تكساس 1% إلى 82.44 دولاراً (شفق نيوز)",
+    "مربان 90.08 ودبي 84.56 دولاراً للبرميل، والبصرة المتوسط أدنى من برنت بـ22.16 دولاراً (محتسب)",
+    "تتابع سعر خام البصرة كل يوم؟"
+  ]
+}

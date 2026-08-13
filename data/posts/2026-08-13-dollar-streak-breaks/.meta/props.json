@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 13 • 2026",
+  "arabicDateLabel": "13 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "الدولار نزل.. والألف دولار أرخص 5,500 بالبورصة",
+    "englishSubhead": "KIFAH & HARITHIYA 152,750 PER $100 | BAGHDAD SHOPS SELL 153,250 | ERBIL 152,950",
+    "heroMedia": "images/news/2026-08-13-dollar-streak-breaks/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الكفاح والحارثية على 152,750",
+      "arabicBody": "سجّلت بورصتا الكفاح والحارثية ببغداد 152,750 ديناراً لكل 100 دولار صباح الخميس، مقابل 153,300 في الجلسة السابقة، بتراجع 550 ديناراً (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "152,750",
+        "label": "IQD per $100 at the Baghdad bourses on Thursday morning",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الخميس 13 آب 2026، مقابل 153,300 ديناراً في الجلسة السابقة؛ الفارق 550 ديناراً محتسب (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اليوم",
+          "value": "152,750"
+        },
+        {
+          "label": "الجلسة السابقة",
+          "value": "153,300"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "−550"
+        }
+      ],
+      "broll": "images/news/2026-08-13-dollar-streak-breaks/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-13-dollar-streak-breaks/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصيرفة تبيع بـ153,250 وتشتري بـ152,250",
+      "arabicBody": "في محال الصيرفة بالأسواق المحلية ببغداد، سعر بيع الـ100 دولار 153,250 ديناراً وسعر الشراء 152,250، أي فارق 1,000 دينار (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,250",
+        "label": "IQD per $100 — the Baghdad exchange-shop selling rate on Thursday",
+        "arabicLabel": "سعر بيع الدولار في محال الصيرفة بالأسواق المحلية ببغداد لكل 100 دولار صباح الخميس 13 آب 2026، مقابل سعر شراء 152,250 ديناراً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع",
+          "value": "153,250"
+        },
+        {
+          "label": "شراء",
+          "value": "152,250"
+        },
+        {
+          "label": "هامش المحل (محتسب)",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-08-13-dollar-streak-breaks/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-13-dollar-streak-breaks/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بالبورصة: كل 1000 دولار أرخص 5,500",
+      "arabicBody": "بحساب فارق البورصة، كل 1000 دولار تشتريها اليوم تكلّف 5,500 دينار أقل من الجلسة السابقة (محتسب). وفي أربيل بلغ سعر البيع 152,950 ديناراً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "5,500",
+        "label": "fewer dinars on every $1,000 bought today versus the previous session (computed)",
+        "arabicLabel": "التوفير المحتسب على كل 1000 دولار مقارنة بالجلسة السابقة، مستخرج من فارق البورصة البالغ 550 ديناراً لكل 100 دولار وهو رقم محتسب من سعري الخميس والجلسة السابقة (شفق نيوز، 13 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "لكل 1000$ (محتسب)",
+          "value": "−5,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "152,950"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "152,850"
+        }
+      ],
+      "broll": "images/news/2026-08-13-dollar-streak-breaks/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-13-dollar-streak-breaks/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "الدولار نزل: بسعر البورصة، كل 1000 دولار أرخص 5,500 دينار من الجلسة السابقة (محتسب)",
+    "بورصتا الكفاح والحارثية على 152,750 ديناراً لكل 100 دولار صباح الخميس (شفق نيوز)",
+    "مقابل 153,300 دينار في الجلسة السابقة، أي بتراجع 550 ديناراً (محتسب)",
+    "محال الصيرفة ببغداد تبيع الـ100 دولار بـ153,250 وتشتريها بـ152,250 ديناراً (شفق نيوز)",
+    "الفارق بين سعري البيع والشراء في المحل 1,000 دينار على كل 100 دولار (محتسب)",
+    "أربيل: بيع 152,950 وشراء 152,850 ديناراً لكل 100 دولار (شفق نيوز)",
+    "شكد دفعت على آخر 100 دولار اشتريتها؟"
+  ]
+}
