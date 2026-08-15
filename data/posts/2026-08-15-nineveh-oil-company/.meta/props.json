@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 15 • 2026",
+  "arabicDateLabel": "15 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "نينوى تطلب شركة نفط.. الفارق 62 ألف يومياً",
+    "englishSubhead": "NINEVEH COUNCIL ASKS BAGHDAD TO EXEMPT IT FROM OIL-COMPANY CRITERIA | PRODUCES 38,000 B/D VS A 100,000 B/D THRESHOLD",
+    "heroMedia": "images/news/2026-08-15-nineveh-oil-company/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "نينوى ترفع توصية إلى مجلس الوزراء",
+      "arabicBody": "صوّت مجلس محافظة نينوى على رفع توصية إلى مجلس الوزراء لاستثناء المحافظة من معايير تأسيس الشركات النفطية، وهي تنتج نحو 38,000 برميل يومياً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "38,000",
+        "label": "barrels per day — Nineveh's current output",
+        "arabicLabel": "إنتاج نينوى النفطي الحالي بالبرميل يومياً، وهو ما تستند إليه المحافظة في طلب استثنائها من معايير تأسيس الشركات النفطية (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج الحالي",
+          "value": "38,000 ب/ي"
+        },
+        {
+          "label": "الجهة",
+          "value": "مجلس نينوى"
+        },
+        {
+          "label": "الطلب",
+          "value": "استثناء من العتبة"
+        }
+      ],
+      "broll": "images/news/2026-08-15-nineveh-oil-company/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-15-nineveh-oil-company/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "العتبة القانونية 100,000 برميل يومياً",
+      "arabicBody": "رئيس لجنة الطاقة بمجلس نينوى أحمد العبد ربه: التوصية تتضمن استثناء نينوى من معايير تأسيس الشركات النفطية، وهي تستند إلى المادة 112 من الدستور، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "100,000",
+        "label": "barrels per day — the legal threshold for founding an oil company",
+        "arabicLabel": "العتبة القانونية المعتمدة لتأسيس شركة نفطية مستقلة بالبرميل يومياً، مقابل إنتاج نينوى البالغ 38,000 برميل (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "العتبة القانونية",
+          "value": "100,000 ب/ي"
+        },
+        {
+          "label": "السند الدستوري",
+          "value": "المادة 112"
+        },
+        {
+          "label": "المتحدث",
+          "value": "أحمد العبد ربه"
+        }
+      ],
+      "broll": "images/news/2026-08-15-nineveh-oil-company/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-15-nineveh-oil-company/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفجوة 62,000 برميل يومياً (محتسب)",
+      "arabicBody": "الفارق بين إنتاج نينوى والعتبة القانونية 62,000 برميل يومياً (محتسب)، وعضو في المجلس لم يُسمَّ يشكك بموافقة بغداد لغياب المتطلبات القانونية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "62,000",
+        "label": "barrels per day — the computed gap between Nineveh's output and the threshold",
+        "arabicLabel": "الفارق المحتسب بين إنتاج نينوى البالغ 38,000 برميل يومياً والعتبة القانونية البالغة 100,000 برميل يومياً لتأسيس شركة نفطية (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفجوة (محتسب)",
+          "value": "62,000 ب/ي"
+        },
+        {
+          "label": "القرار عند",
+          "value": "مجلس الوزراء"
+        },
+        {
+          "label": "تحفّظ",
+          "value": "عضو لم يُسمَّ"
+        }
+      ],
+      "broll": "images/news/2026-08-15-nineveh-oil-company/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-15-nineveh-oil-company/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مجلس محافظة نينوى يصوّت على رفع توصية إلى مجلس الوزراء (شفق نيوز)",
+    "التوصية تتضمن استثناء نينوى من المعايير المعتمدة لتأسيس الشركات النفطية (شفق نيوز)",
+    "التوصية تستند إلى المادة 112 من الدستور (شفق نيوز)",
+    "نينوى تنتج حالياً نحو 38,000 برميل يومياً (شفق نيوز)",
+    "العتبة القانونية لتأسيس شركة نفطية 100,000 برميل يومياً (شفق نيوز)",
+    "الفارق بين الإنتاج والعتبة 62,000 برميل يومياً (محتسب)",
+    "محافظتك بيها شركة نفط؟ جاوب بنعم أو لا"
+  ]
+}

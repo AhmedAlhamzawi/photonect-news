@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 15 • 2026",
+  "arabicDateLabel": "15 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تحقيق",
+    "arabicHeadline": "5 مستشفيات ما وصلتك.. والنزاهة فتحت الملف",
+    "englishSubhead": "PARLIAMENTARY INTEGRITY COMMITTEE OPENS FILE ON 5 STALLED INVESTMENT HOSPITALS | $1.26BN TRANSFERRED CUMULATIVELY | PROJECTS MOVED TO INVESTMENT IN 2011 | MEMBER: COMPANY HAS NO BRANCH IN IRAQ",
+    "heroMedia": "images/news/2026-08-15-billion-hospitals-stalled/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "النزاهة النيابية تفتح ملف 5 مستشفيات",
+      "arabicBody": "فتحت لجنة النزاهة النيابية ملف 5 مستشفيات استثمارية متلكئة أحيلت إلى شركة واحدة، ضمن تحقيق بشبهات فساد ومخالفات تعاقدية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "5",
+        "label": "stalled investment hospitals whose file the Parliamentary Integrity Committee has opened",
+        "arabicLabel": "عدد المستشفيات الاستثمارية المتلكئة التي فتحت لجنة النزاهة النيابية ملفها ضمن تحقيق بشبهات فساد ومخالفات تعاقدية (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المشاريع",
+          "value": "5 مستشفيات"
+        },
+        {
+          "label": "أُحيلت للاستثمار",
+          "value": "2011"
+        },
+        {
+          "label": "الجهة",
+          "value": "النزاهة النيابية"
+        }
+      ],
+      "broll": "images/news/2026-08-15-billion-hospitals-stalled/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-15-billion-hospitals-stalled/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الكلفة ارتفعت من 145 إلى 252 مليون دولار",
+      "arabicBody": "قال عضو اللجنة سالم العيساوي إن كلفة المستشفى الواحد كانت 145 مليون دولار، ثم أضيف 107 ملايين عام 2020 لترتفع إلى 252 مليوناً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "252",
+        "label": "million dollars — the revised cost per hospital after the 2020 addition",
+        "arabicLabel": "الكلفة المعدّلة للمستشفى الواحد بملايين الدولارات بعد إضافة 107 ملايين عام 2020 إلى الكلفة الأصلية البالغة 145 مليون دولار، بحسب عضو لجنة النزاهة النيابية سالم العيساوي (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة الأصلية",
+          "value": "145 مليون$"
+        },
+        {
+          "label": "أضيف 2020",
+          "value": "107 مليون$"
+        },
+        {
+          "label": "بعد التعديل",
+          "value": "252 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-08-15-billion-hospitals-stalled/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-15-billion-hospitals-stalled/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "العيساوي: الشركة بلا فرع داخل العراق",
+      "arabicBody": "العيساوي: الشركة التي استلمت المبالغ والمشاريع متلكئة وغير رصينة ولا تمتلك أي فرع داخل العراق، وأحد المشاريع في المثنى، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "1.26",
+        "label": "billion dollars transferred cumulatively to the five hospital projects",
+        "arabicLabel": "مجموع ما تم تحويله تراكمياً بمليارات الدولارات إلى المستشفيات الاستثمارية الخمس التي فتحت لجنة النزاهة النيابية ملفها (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحوّل تراكمياً",
+          "value": "1.26 مليار$"
+        },
+        {
+          "label": "الشركة (العيساوي)",
+          "value": "غير مسجّلة"
+        },
+        {
+          "label": "فرع بالعراق (العيساوي)",
+          "value": "لا يوجد"
+        }
+      ],
+      "broll": "images/news/2026-08-15-billion-hospitals-stalled/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-15-billion-hospitals-stalled/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "لجنة النزاهة النيابية تفتح ملف 5 مستشفيات استثمارية متلكئة (شفق نيوز)",
+    "المشاريع أُحيلت إلى الاستثمار عام 2011 وما زالت متلكئة (شفق نيوز)",
+    "كلفة المستشفى الواحد 145 مليون دولار ثم أضيف 107 ملايين عام 2020 (شفق نيوز)",
+    "الكلفة بعد التعديل 252 مليون دولار للمستشفى الواحد (شفق نيوز)",
+    "مجموع ما تم تحويله تراكمياً 1.26 مليار دولار (شفق نيوز)",
+    "الشركة غير مسجّلة رسمياً ولا تمتلك فرعاً داخل العراق (شفق نيوز)",
+    "أقرب مستشفى حكومي لبيتك شكد يبعد؟"
+  ]
+}

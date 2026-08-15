@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 15 • 2026",
+  "arabicDateLabel": "15 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "global_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "أسواق",
+    "arabicHeadline": "البصرة المتوسط ربح 13.29% بالأسبوع رغم تراجع الجلسة",
+    "englishSubhead": "BASRAH MEDIUM ENDS WEEK AT $64.68, +13.29% ON THE WEEK | LAST SESSION -1.43% | BRENT $88.37, WTI $82.28",
+    "heroMedia": "images/news/2026-08-15-tanker-basra-week/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البصرة المتوسط يغلق عند 64.68 دولار",
+      "arabicBody": "أنهى خام البصرة المتوسط الجلسة الأخيرة عند 64.68 دولار للبرميل بتراجع 0.94 دولار أي 1.43%، والبصرة الثقيل عند 61.38 دولار، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "64.68",
+        "label": "dollars per barrel — Basrah Medium at the last session of the week",
+        "arabicLabel": "سعر خام البصرة المتوسط بالدولار للبرميل في الجلسة الأخيرة من الأسبوع بعد تراجع 0.94 دولار أي 1.43% (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة المتوسط",
+          "value": "64.68$"
+        },
+        {
+          "label": "تغيّر الجلسة",
+          "value": "1.43%-"
+        },
+        {
+          "label": "البصرة الثقيل",
+          "value": "61.38$"
+        }
+      ],
+      "broll": "images/news/2026-08-15-tanker-basra-week/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-15-tanker-basra-week/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مكاسب الأسبوع 7.59 دولار للبرميل",
+      "arabicBody": "على مدى الأسبوع ارتفع البصرة المتوسط 7.59 دولار أي 13.29% من 57.09 دولار، والبصرة الثقيل 6.59 دولار أي 12.03% من 54.79 دولار، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "13.29%",
+        "label": "the weekly gain of Basrah Medium, from $57.09 to $64.68",
+        "arabicLabel": "نسبة ارتفاع خام البصرة المتوسط خلال الأسبوع من 57.09 دولار إلى 64.68 دولار للبرميل، أي بزيادة 7.59 دولار (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "مكسب الأسبوع",
+          "value": "+7.59$"
+        },
+        {
+          "label": "المتوسط",
+          "value": "+13.29%"
+        },
+        {
+          "label": "الثقيل",
+          "value": "+12.03%"
+        }
+      ],
+      "broll": "images/news/2026-08-15-tanker-basra-week/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-15-tanker-basra-week/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الفارق مع برنت الآجل 23.69 دولار (محتسب)",
+      "arabicBody": "سجّل برنت الآجل 88.37 دولار، ما يجعل البصرة المتوسط أدنى منه بـ23.69 دولار (محتسب)، وتعزو شفق نيوز مكاسب الأسبوع إلى تطورات جيوسياسية واضطرابات شحن في المنطقة.",
+      "bigStat": {
+        "value": "23.69",
+        "label": "dollars per barrel — the computed discount of Basrah Medium to Brent",
+        "arabicLabel": "الفارق المحتسب بين سعر برنت البالغ 88.37 دولار وسعر خام البصرة المتوسط البالغ 64.68 دولار للبرميل (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت الآجل",
+          "value": "88.37$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "82.28$"
+        },
+        {
+          "label": "مربان",
+          "value": "88.02$"
+        }
+      ],
+      "broll": "images/news/2026-08-15-tanker-basra-week/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-15-tanker-basra-week/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام البصرة المتوسط أنهى الجلسة الأخيرة عند 64.68 دولار بتراجع 1.43% (شفق نيوز)",
+    "البصرة الثقيل عند 61.38 دولار بتراجع 0.92 دولار أي 1.51% (شفق نيوز)",
+    "مكاسب الأسبوع للبصرة المتوسط 7.59 دولار أي 13.29% من 57.09 دولار (شفق نيوز)",
+    "مكاسب الأسبوع للبصرة الثقيل 6.59 دولار أي 12.03% من 54.79 دولار (شفق نيوز)",
+    "برنت 88.37 دولار وغرب تكساس 82.28 دولار ومربان 88.02 دولار (شفق نيوز)",
+    "البصرة المتوسط أدنى من برنت بـ23.69 دولار للبرميل (محتسب)",
+    "شغلك أو شغل أحد بعائلتك مرتبط بالنفط؟ نعم أو لا"
+  ]
+}

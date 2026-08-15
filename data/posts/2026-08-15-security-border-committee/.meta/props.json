@@ -1,0 +1,129 @@
+{
+  "dateLabel": "AUG 15 • 2026",
+  "arabicDateLabel": "15 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أمن",
+    "arabicHeadline": "الحدود مع إيران.. اجتماع بأربيل بلا قرارات معلنة",
+    "englishSubhead": "HIGHER COMMITTEE ON THE IRAQ-IRAN SECURITY AGREEMENT MEETS IN ERBIL | BORDER CONTROL, INFILTRATION AND SMUGGLING ON THE AGENDA | NO DECISION ANNOUNCED",
+    "heroMedia": "images/news/2026-08-15-security-border-committee/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "اللجنة العليا تجتمع في أربيل",
+      "arabicBody": "اجتمعت اللجنة العليا لتنفيذ الاتفاق الأمني بين العراق وإيران في أربيل، بمشاركة وفد اتحادي برئاسة قاسم الأعبودي ووفد الإقليم برئاسة ريبر أحمد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2",
+        "label": "delegations at the table — the federal government and the Kurdistan Region",
+        "arabicLabel": "عدد الوفود المشاركة في اجتماع اللجنة العليا بأربيل: وفد اتحادي برئاسة مستشار الأمن القومي قاسم الأعبودي ووفد الإقليم برئاسة وزير الداخلية ريبر أحمد (شفق نيوز، 15 آب 2026) (العدّ محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "أربيل"
+        },
+        {
+          "label": "الوفد الاتحادي",
+          "value": "قاسم الأعبودي"
+        },
+        {
+          "label": "وفد الإقليم",
+          "value": "ريبر أحمد"
+        }
+      ],
+      "broll": "images/news/2026-08-15-security-border-committee/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-15-security-border-committee/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "على الطاولة: الحدود والتسلل والتهريب",
+      "arabicBody": "تناولت اللجنة تفاصيل وبنود الاتفاق لجهة ضبط الحدود ومنع التسلل والتهريب وحفظ الأمن والاستقرار في عموم العراق، وفق المكتب الإعلامي لمستشار الأمن القومي، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "الحدود",
+        "label": "border control — the first item on the committee's stated agenda",
+        "arabicLabel": "أول ما تناولته اللجنة بحسب المكتب الإعلامي لمستشار الأمن القومي: ضبط الحدود ومنع التسلل والتهريب وحفظ الأمن والاستقرار في عموم العراق (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "ضبط",
+          "value": "الحدود"
+        },
+        {
+          "label": "منع",
+          "value": "التسلل والتهريب"
+        },
+        {
+          "label": "النطاق",
+          "value": "عموم العراق"
+        }
+      ],
+      "broll": "images/news/2026-08-15-security-border-committee/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-15-security-border-committee/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "لا قرارات ولا جدول زمني أُعلن",
+      "arabicBody": "استعرضت اللجنة ما نُفّذ من بنود وشدّدت على استمرار التواصل والتنسيق بين الحكومة الاتحادية وحكومة الإقليم، ولم يُعلن أي قرار أو جدول زمني، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "0",
+        "label": "decisions or timetables announced after the meeting",
+        "arabicLabel": "عدد القرارات أو المواعيد الزمنية التي أُعلنت عقب اجتماع اللجنة العليا في أربيل؛ البيان اقتصر على استعراض ما نُفّذ والتشديد على استمرار التنسيق (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "قرارات أُعلنت",
+          "value": "0"
+        },
+        {
+          "label": "جدول زمني",
+          "value": "لم يُعلن"
+        },
+        {
+          "label": "المطلوب",
+          "value": "استمرار التنسيق"
+        }
+      ],
+      "broll": "images/news/2026-08-15-security-border-committee/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-15-security-border-committee/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Baghdad Today",
+      "domain": "baghdadtoday.news"
+    }
+  ],
+  "arabicTicker": [
+    "اللجنة العليا لتنفيذ الاتفاق الأمني بين العراق وإيران تجتمع في أربيل (شفق نيوز)",
+    "وفد اتحادي برئاسة مستشار الأمن القومي قاسم الأعبودي (شفق نيوز)",
+    "وفد الإقليم برئاسة وزير داخلية كوردستان ريبر أحمد (شفق نيوز)",
+    "البحث شمل ضبط الحدود ومنع التسلل والتهريب وحفظ الأمن والاستقرار (شفق نيوز)",
+    "اللجنة استعرضت ما نُفّذ من بنود الاتفاق القائمة (شفق نيوز)",
+    "لم يُعلن أي قرار أو جدول زمني عقب الاجتماع (شفق نيوز)",
+    "شكد مرة عبرت منفذ حدودي هالسنة؟"
+  ]
+}

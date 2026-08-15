@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 15 • 2026",
+  "arabicDateLabel": "15 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "الدولار صعد 350 ديناراً.. وأربيل فوق البورصة بـ50",
+    "englishSubhead": "BAGHDAD BOURSE FLAT AT 153,100 PER $100 | ERBIL CLOSES SELL AT 153,150 | +350 VS THURSDAY (COMPUTED)",
+    "heroMedia": "images/news/2026-08-15-dollar-erbil-overtakes/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بورصة بغداد ثابتة على 153,100",
+      "arabicBody": "افتتحت بورصتا الكفاح والحارثية على 153,100 دينار لكل 100 دولار وأغلقتا عند السعر نفسه، مقابل 152,750 في جلسة الخميس، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,100",
+        "label": "IQD per $100 — the Baghdad bourse rate at both open and close",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار عند الافتتاح والإغلاق يوم 15 آب 2026 دون تغيّر بين الجلستين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتتاح",
+          "value": "153,100"
+        },
+        {
+          "label": "الإغلاق",
+          "value": "153,100"
+        },
+        {
+          "label": "جلسة الخميس",
+          "value": "152,750"
+        }
+      ],
+      "broll": "images/news/2026-08-15-dollar-erbil-overtakes/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-15-dollar-erbil-overtakes/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الفرق عن الخميس 350 ديناراً (محتسب)",
+      "arabicBody": "الفارق بين إغلاق اليوم وجلسة الخميس 350 ديناراً على كل 100 دولار (محتسب)، فيما تبيع محال الصيرفة ببغداد بـ153,500 وتشتري بـ152,500، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "350",
+        "label": "dinars more per $100 versus Thursday's session (computed)",
+        "arabicLabel": "الفارق المحتسب بين سعر البورصة اليوم 153,100 وسعر جلسة الخميس 152,750 ديناراً لكل 100 دولار (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "عن الخميس (محتسب)",
+          "value": "+350"
+        },
+        {
+          "label": "الصيرفة بيع",
+          "value": "153,500"
+        },
+        {
+          "label": "الصيرفة شراء",
+          "value": "152,500"
+        }
+      ],
+      "broll": "images/news/2026-08-15-dollar-erbil-overtakes/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-15-dollar-erbil-overtakes/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بيع أربيل فوق بورصة بغداد بـ50 ديناراً",
+      "arabicBody": "في أربيل ارتفع سعر البيع من 153,000 عند الافتتاح إلى 153,150 عند الإغلاق، أي فوق سعر بورصة بغداد بـ50 ديناراً (محتسب)، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "153,150",
+        "label": "IQD per $100 — Erbil's closing sell price, above the Baghdad bourse",
+        "arabicLabel": "سعر بيع الدولار في أربيل عند الإغلاق لكل 100 دولار بعد ارتفاعه من 153,000 عند الافتتاح، وهو أعلى من سعر بورصة بغداد بـ50 ديناراً محتسبة (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "153,150"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "153,050"
+        },
+        {
+          "label": "فوق بغداد (محتسب)",
+          "value": "50"
+        }
+      ],
+      "broll": "images/news/2026-08-15-dollar-erbil-overtakes/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-15-dollar-erbil-overtakes/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية افتتحتا وأغلقتا على 153,100 دينار لكل 100 دولار (شفق نيوز)",
+    "سعر جلسة الخميس كان 152,750 ديناراً لكل 100 دولار (شفق نيوز)",
+    "الفارق عن الخميس 350 ديناراً على كل 100 دولار (محتسب)",
+    "محال الصيرفة ببغداد تبيع بـ153,500 وتشتري بـ152,500 ديناراً (شفق نيوز)",
+    "هامش المحل 1,000 دينار وفارق سعر بيعه عن البورصة 400 دينار (محتسب)",
+    "أربيل أغلقت على بيع 153,150 وشراء 153,050 أي فوق بورصة بغداد بـ50 ديناراً (محتسب)",
+    "شكد دفعت على آخر 100 دولار اشتريتها؟"
+  ]
+}
