@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 16 • 2026",
+  "arabicDateLabel": "16 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "دينار",
+    "arabicHeadline": "مرصد اقتصادي: حچي عن تغيير العملة.. وبلا بيان رسمي",
+    "englishSubhead": "ECO IRAQ URGES OFFICIAL STATEMENT ON TALK OF A CURRENCY CHANGE | OBSERVATORY SAYS CBI AND FINANCE MINISTRY ARE SILENT",
+    "heroMedia": "images/news/2026-08-16-silence-currency-dinar/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "حديث عن تغيير العملة بلا جهة تؤكده",
+      "arabicBody": "تتداول تصريحات متفرقة عن تغيير العملة الوطنية، ولم يؤكد البنك المركزي ولا وزارة المالية وجود أي قرار. ومرصد العراق الاقتصادي ينتقد إدارة الملف بهذا الشكل، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "المرصد: لا بيان",
+        "label": "no official statement has been issued, the observatory says",
+        "arabicLabel": "خلاصة ما يقوله مرصد العراق الاقتصادي: لا بيان رسمي صادر عن الجهات المختصة يشرح ملف تغيير العملة، فيما يلتزم البنك المركزي ووزارة المالية الصمت (شفق نيوز، 16 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "مرصد العراق الاقتصادي"
+        },
+        {
+          "label": "قرار مؤكد",
+          "value": "لا يوجد"
+        },
+        {
+          "label": "المأخذ",
+          "value": "تصريحات متفرقة"
+        }
+      ],
+      "broll": "images/news/2026-08-16-silence-currency-dinar/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-16-silence-currency-dinar/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المرصد: الغموض قد يهزّ الثقة بالدينار",
+      "arabicBody": "حذّر المرصد من أن استمرار الغموض قد يضعف ثقة المواطن بالدينار ويزيد الطلب على العملات الأجنبية والذهب، بحسب شفق نيوز. وهو تحذير المرصد لا واقع مسجّل.",
+      "bigStat": {
+        "value": "الثقة",
+        "label": "what the observatory warns is at stake — public confidence in the dinar",
+        "arabicLabel": "ما يحذّر مرصد العراق الاقتصادي من تآكله مع استمرار الغموض: ثقة المواطن بالدينار، مع ما قد يرافقها من زيادة الطلب على العملات الأجنبية والذهب — وهو تحذير المرصد لا واقع مسجّل (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "التحذير",
+          "value": "ثقة بالدينار"
+        },
+        {
+          "label": "الأثر المحتمل",
+          "value": "طلب على الدولار والذهب"
+        },
+        {
+          "label": "الصفة",
+          "value": "تحذير لا واقع"
+        }
+      ],
+      "broll": "images/news/2026-08-16-silence-currency-dinar/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-16-silence-currency-dinar/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مطالبة ببيان رسمي يضمن المدخرات",
+      "arabicBody": "طالب المرصد الجهات المختصة بإصدار بيان رسمي يشرح أسباب تغيير العملة وآليات التنفيذ والمدد الزمنية وضمانات حماية مدخرات المواطنين، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "بيان رسمي",
+        "label": "the four things the observatory wants any official statement to spell out",
+        "arabicLabel": "ما طالب مرصد العراق الاقتصادي بأن يتضمنه البيان الرسمي: أسباب تغيير العملة وآليات التنفيذ والمدد الزمنية وضمانات حماية مدخرات المواطنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسباب والآليات",
+          "value": "مطلوبة"
+        },
+        {
+          "label": "المدد الزمنية",
+          "value": "مطلوبة"
+        },
+        {
+          "label": "ضمان المدخرات",
+          "value": "مطلوب"
+        }
+      ],
+      "broll": "images/news/2026-08-16-silence-currency-dinar/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-16-silence-currency-dinar/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مرصد العراق الاقتصادي: تصريحات متفرقة عن تغيير العملة بلا بيان رسمي من الجهات المختصة (شفق نيوز)",
+    "لم يصدر عن البنك المركزي العراقي أو وزارة المالية ما يؤكد وجود قرار بتغيير العملة (شفق نيوز)",
+    "المرصد: إعلان قرارات حساسة عبر جهات غير مخوّلة مع صمت المركزي والمالية يعكس ضعفاً في التنسيق الحكومي (شفق نيوز)",
+    "المرصد يحذّر من أن الغموض قد يضعف ثقة المواطن بالدينار ويزيد الطلب على العملات الأجنبية والذهب (شفق نيوز)",
+    "المرصد يطالب ببيان رسمي يشرح أسباب تغيير العملة وآليات التنفيذ والمدد الزمنية (شفق نيوز)",
+    "المرصد يطالب بضمانات لحماية مدخرات المواطنين (شفق نيوز)",
+    "وصلك حچي عن تغيير العملة لو لا؟"
+  ]
+}

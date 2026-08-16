@@ -198,20 +198,27 @@ def main() -> int:
         return 1
 
     posted = skipped = failed = 0
+    # Slot cursor is deliberately SEPARATE from the outcome counters. It advances
+    # exactly once per slug consumed, so a slug whose post partially fails (some
+    # platforms ok, some not) cannot advance it twice. Before 2026-08-16 the slot
+    # was picked with `posted + skipped + failed`, and a partial failure bumped both
+    # `posted` and `failed` — on 08-15 that skipped the 19:45 slot outright and
+    # collided the last two reels at 23:45 by running off the end of the list.
+    slot_cursor = 0
     for slug_dir in slugs:
         name = slug_dir.name
         video = slug_dir / "video.mp4"
         caption_file = slug_dir / "caption.txt"
         marker = slug_dir / ".posted.json"
         if not video.is_file():
-            print(f"  skip {name}: no video.mp4"); skipped += 1; continue
+            print(f"  skip {name}: no video.mp4"); skipped += 1; slot_cursor += 1; continue
         if marker.is_file():
-            print(f"  skip {name}: already posted"); skipped += 1; continue
+            print(f"  skip {name}: already posted"); skipped += 1; slot_cursor += 1; continue
         caption = caption_file.read_text(encoding="utf-8").strip() if caption_file.is_file() else ""
         if args.dry_run:
-            slot = slots[min(posted, len(slots)-1)] if slots else "now"
+            slot = slots[min(slot_cursor, len(slots)-1)] if slots else "now"
             print(f"  [dry-run] would post {name} → {platforms} at {slot} {args.tz if slots else ''}  (caption {len(caption)} chars)")
-            posted += 1; continue
+            posted += 1; slot_cursor += 1; continue
         # --spread: assign slug i → slot i (local tz). Past/imminent slot → post now.
         sched_iso = ""
         if slots:
@@ -219,12 +226,13 @@ def main() -> int:
             from zoneinfo import ZoneInfo
             tz = ZoneInfo(args.tz)
             now = datetime.now(tz)
-            hh, mm = slots[min(posted + skipped + failed, len(slots) - 1)].split(":")
+            hh, mm = slots[min(slot_cursor, len(slots) - 1)].split(":")
             slot_dt = now.replace(hour=int(hh), minute=int(mm), second=0, microsecond=0)
             if slot_dt > now + timedelta(minutes=2):
                 sched_iso = slot_dt.strftime("%Y-%m-%dT%H:%M:%S")
             else:
                 print(f"    slot {hh}:{mm} already past — posting {name} immediately", flush=True)
+            slot_cursor += 1
         try:
             rid = submit(video, caption, args.user, platforms,
                          scheduled_date=sched_iso, timezone=args.tz if sched_iso else "")

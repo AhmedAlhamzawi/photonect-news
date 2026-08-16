@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 16 • 2026",
+  "arabicDateLabel": "16 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء",
+    "arabicHeadline": "الزيدي: 37 ألف ميغاواط إضافية.. والموعد 2027",
+    "englishSubhead": "PM AL-ZAIDI ORDERS 37,000MW SECURED | 2027 NAMED AS THE DOUBLING YEAR",
+    "heroMedia": "images/news/2026-08-16-baghdad-37000-megawatt/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الزيدي يوجّه بتأمين 37 ألف ميغاواط",
+      "arabicBody": "وجّه رئيس مجلس الوزراء علي فالح الزيدي، السبت، خلال زيارته وزارة الكهرباء بتأمين 37,000 ميغاواط إضافية، وبالصيانة الكاملة لما وصفه التوجيه بالإنتاج الحالي البالغ 30,000 ميغاواط، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "37,000",
+        "label": "megawatts of additional capacity the prime minister directed be secured",
+        "arabicLabel": "حجم الطاقة الإضافية بالميغاواط التي وجّه رئيس مجلس الوزراء علي فالح الزيدي بتأمينها خلال زيارته وزارة الكهرباء (شفق نيوز، 15 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإضافي الموجّه به",
+          "value": "37,000"
+        },
+        {
+          "label": "وُصف بالإنتاج الحالي",
+          "value": "30,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-08-16-baghdad-37000-megawatt/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-16-baghdad-37000-megawatt/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "15 ألف من جنرال إلكتريك و12 شمسية",
+      "arabicBody": "توزعت الطاقة الموجّه بتأمينها على 15,000 ميغاواط من جنرال إلكتريك و12,000 من الطاقة الشمسية و10,000 من الحرارية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "15,000",
+        "label": "megawatts of the package assigned to General Electric",
+        "arabicLabel": "حصة شركة جنرال إلكتريك بالميغاواط ضمن الـ37,000 التي وجّه الزيدي بتأمينها، إلى جانب 12,000 من الطاقة الشمسية و10,000 من الحرارية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "جنرال إلكتريك",
+          "value": "15,000"
+        },
+        {
+          "label": "الطاقة الشمسية",
+          "value": "12,000"
+        },
+        {
+          "label": "الحرارية",
+          "value": "10,000"
+        }
+      ],
+      "broll": "images/news/2026-08-16-baghdad-37000-megawatt/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-16-baghdad-37000-megawatt/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "2027 سنة المضاعفة.. ودراسات لهذا الصيف",
+      "arabicBody": "قال الزيدي إن 2027 سيكون عام مضاعفة الإنتاج وقدرات النقل والتوزيع، وطلب دراسات عاجلة لتحسين التجهيز خلال الصيف المقبل، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2027",
+        "label": "the year the prime minister named for doubling output and grid capacity",
+        "arabicLabel": "السنة التي قال رئيس مجلس الوزراء إنها ستكون عام مضاعفة إنتاج الطاقة الكهربائية ومضاعفة قدرات النقل والتوزيع (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوعد",
+          "value": "مضاعفة الإنتاج"
+        },
+        {
+          "label": "النقل والتوزيع",
+          "value": "مضاعفة القدرات"
+        },
+        {
+          "label": "الطلب العاجل",
+          "value": "دراسات للصيف"
+        }
+      ],
+      "broll": "images/news/2026-08-16-baghdad-37000-megawatt/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-16-baghdad-37000-megawatt/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "رئيس مجلس الوزراء علي فالح الزيدي زار وزارة الكهرباء السبت 15 آب 2026 ووجّه بتأمين 37,000 ميغاواط (شفق نيوز)",
+    "توزيع الطاقة الموجّه بتأمينها: 15,000 ميغاواط من جنرال إلكتريك و12,000 شمسية و10,000 حرارية (شفق نيوز)",
+    "التوجيه شمل الصيانة الكاملة لما ورد فيه بوصفه الإنتاج الحالي البالغ 30,000 ميغاواط (شفق نيوز)",
+    "الزيدي: 2027 عام مضاعفة الإنتاج ومضاعفة قدرات النقل والتوزيع (شفق نيوز)",
+    "توجيه وزير الكهرباء بإعداد دراسات عاجلة لتحسين التجهيز خلال الصيف المقبل (شفق نيوز)",
+    "كم ساعة كهرباء توصلك اليوم؟"
+  ]
+}

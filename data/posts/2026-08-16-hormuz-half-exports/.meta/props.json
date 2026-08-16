@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 16 • 2026",
+  "arabicDateLabel": "16 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "نائبة: نفطنا يمرّ بين ممرين.. أميركي وإيراني",
+    "englishSubhead": "MP AL-KHAZRAJI: OFFICIAL TALKS WITH WASHINGTON AND TEHRAN OVER HORMUZ PASSAGE",
+    "heroMedia": "images/news/2026-08-16-hormuz-half-exports/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "تحرك رسمي تجاه واشنطن وطهران",
+      "arabicBody": "كشفت عضو لجنة النفط والغاز النيابية زينب الخزرجي عن تحرك دبلوماسي رسمي تجاه واشنطن وطهران لضمان مرور ناقلات النفط العراقية عبر هرمز، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2",
+        "label": "passages in the strait — one under US forces, one under Iranian forces",
+        "arabicLabel": "عدد المسارات الرئيسية في مضيق هرمز بحسب عضو لجنة النفط والغاز النيابية زينب الخزرجي: أحدهما تسيطر عليه القوات الأميركية والآخر القوات الإيرانية (شفق نيوز، 16 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المسار الأول",
+          "value": "قوات أميركية"
+        },
+        {
+          "label": "المسار الثاني",
+          "value": "قوات إيرانية"
+        },
+        {
+          "label": "المطلب",
+          "value": "مرور دائم"
+        }
+      ],
+      "broll": "images/news/2026-08-16-hormuz-half-exports/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-16-hormuz-half-exports/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "صادرات تموز 49 مليون برميل",
+      "arabicBody": "بلغت صادرات تموز نحو 49 مليون برميل، أكثر من 30 مليوناً منها عبر هرمز، بحسب بيان وزارة النفط الاتحادية. وتقول الخزرجي إن معدل التصدير قبل الحرب كان 105 ملايين برميل شهرياً.",
+      "bigStat": {
+        "value": "49M",
+        "label": "barrels exported in July, against a 105-million monthly average before the war",
+        "arabicLabel": "إجمالي صادرات العراق النفطية في تموز 2026 بالبرميل، أكثر من 30 مليوناً منها مرّت عبر مضيق هرمز، بحسب بيان وزارة النفط الاتحادية؛ ومعدل التصدير قبل بدء الحرب في 28 شباط 2026 كان 105 ملايين برميل شهرياً بحسب النائبة زينب الخزرجي (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "عبر هرمز",
+          "value": "أكثر من 30 مليوناً"
+        },
+        {
+          "label": "الخزرجي: تصدير شهري قبل الحرب",
+          "value": "105 ملايين"
+        },
+        {
+          "label": "الخزرجي: النفط من الإيرادات",
+          "value": "نحو 90%"
+        }
+      ],
+      "broll": "images/news/2026-08-16-hormuz-half-exports/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-16-hormuz-half-exports/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الخزرجي ترجّح 3 ملايين برميل يومياً",
+      "arabicBody": "قالت الخزرجي إن الصادرات تجاوزت مليوني برميل يومياً بعد هبوطها دون المليون، وترجّح بلوغ 3 ملايين، ما ينعكس على الإيرادات ورواتب الموظفين، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "3M",
+        "label": "barrels per day al-Khazraji expects, which she ties to securing salaries",
+        "arabicLabel": "المستوى اليومي للصادرات الذي ترجّح عضو لجنة النفط والغاز النيابية زينب الخزرجي بلوغه، وتقول إنه سينعكس على زيادة الإيرادات المالية للدولة وتأمين رواتب الموظفين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "حالياً",
+          "value": "أكثر من مليوني برميل"
+        },
+        {
+          "label": "أدنى مستوى",
+          "value": "دون المليون"
+        },
+        {
+          "label": "المرجّح (الخزرجي)",
+          "value": "3 ملايين"
+        }
+      ],
+      "broll": "images/news/2026-08-16-hormuz-half-exports/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-16-hormuz-half-exports/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "عضو لجنة النفط والغاز النيابية زينب الخزرجي تكشف عن تحرك رسمي تجاه واشنطن وطهران (شفق نيوز)",
+    "الخزرجي: مساران رئيسيان في المضيق، أحدهما بسيطرة القوات الأميركية والآخر الإيرانية (شفق نيوز)",
+    "العراق يسعى لمرور مستمر ودائم لناقلاته لا مؤقت (شفق نيوز)",
+    "الصادرات تجاوزت مليوني برميل يومياً بعد هبوطها دون المليون مع بدء الحرب (شفق نيوز)",
+    "صادرات تموز نحو 49 مليون برميل، أكثر من 30 مليوناً عبر هرمز (بيان وزارة النفط الاتحادية عبر شفق نيوز)",
+    "الخزرجي: قبل بدء الحرب في 28 شباط 2026 كان الإنتاج نحو 4 ملايين برميل يومياً والتصدير بمعدل 105 ملايين برميل شهرياً (شفق نيوز)",
+    "راتبك وصل بموعده هذا الشهر؟"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 16 • 2026",
+  "arabicDateLabel": "16 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "global_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عقارات",
+    "arabicHeadline": "144 بيت اشتراه العراقيون بتركيا بتموز",
+    "englishSubhead": "IRAQIS 4TH AMONG FOREIGN HOME BUYERS IN TURKEY IN JULY | ONE HOME BEHIND UKRAINE",
+    "heroMedia": "images/news/2026-08-16-homes-turkey-144/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "144 منزلاً في تموز.. والعراق رابعاً",
+      "arabicBody": "اشترى العراقيون 144 منزلاً في تركيا خلال تموز، ليحلّوا رابعاً بين الجنسيات الأجنبية، بحسب بيانات معهد الإحصاء التركي التي نقلتها شفق نيوز.",
+      "bigStat": {
+        "value": "144",
+        "label": "homes bought by Iraqis in Turkey during July",
+        "arabicLabel": "عدد المنازل التي اشتراها العراقيون في تركيا خلال شهر تموز 2026 بحسب بيانات معهد الإحصاء التركي (شفق نيوز، 16 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "الرابع"
+        },
+        {
+          "label": "الشهر",
+          "value": "تموز"
+        },
+        {
+          "label": "المصدر",
+          "value": "معهد الإحصاء التركي"
+        }
+      ],
+      "broll": "images/news/2026-08-16-homes-turkey-144/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-16-homes-turkey-144/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بمنزل واحد فقط عن المركز الثالث",
+      "arabicBody": "تصدّر الروس بـ394 منزلاً ثم الإيرانيون بـ189 ثم الأوكرانيون بـ145، أي أن العراق ابتعد عن المركز الثالث بمنزل واحد فقط، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "1",
+        "label": "the single home separating Iraq from third place",
+        "arabicLabel": "الفارق بعدد المنازل بين العراق (144) وأوكرانيا (145) في ترتيب الجنسيات الأجنبية الأكثر شراءً للمنازل في تركيا خلال تموز (معهد الإحصاء التركي عبر شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "روسيا",
+          "value": "394"
+        },
+        {
+          "label": "إيران",
+          "value": "189"
+        },
+        {
+          "label": "أوكرانيا",
+          "value": "145"
+        }
+      ],
+      "broll": "images/news/2026-08-16-homes-turkey-144/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-16-homes-turkey-144/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "و8 عقارات تجارية بالشهر نفسه",
+      "arabicBody": "إلى جانب المنازل، سجّل العراقيون شراء 8 عقارات تجارية في تركيا خلال الشهر نفسه، بحسب البيانات التي نقلتها شفق نيوز.",
+      "bigStat": {
+        "value": "8",
+        "label": "commercial properties bought by Iraqis in Turkey in the same month",
+        "arabicLabel": "عدد العقارات التجارية التي اشتراها العراقيون في تركيا خلال تموز 2026 إلى جانب 144 منزلاً (معهد الإحصاء التركي عبر شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "عقارات تجارية",
+          "value": "8"
+        },
+        {
+          "label": "منازل",
+          "value": "144"
+        },
+        {
+          "label": "الشهر",
+          "value": "تموز"
+        }
+      ],
+      "broll": "images/news/2026-08-16-homes-turkey-144/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-16-homes-turkey-144/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "العراقيون اشتروا 144 منزلاً في تركيا خلال تموز 2026 (معهد الإحصاء التركي عبر شفق نيوز)",
+    "العراق رابعاً بين الجنسيات الأجنبية الأكثر شراءً للمنازل في تركيا (شفق نيوز)",
+    "روسيا أولاً بـ394 منزلاً ثم إيران بـ189 ثم أوكرانيا بـ145 (شفق نيوز)",
+    "الفارق بين العراق وأوكرانيا منزل واحد فقط (شفق نيوز)",
+    "العراقيون اشتروا أيضاً 8 عقارات تجارية في الشهر نفسه (شفق نيوز)",
+    "تفكر تشتري بيت برة العراق؟"
+  ]
+}
