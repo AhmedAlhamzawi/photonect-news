@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 17 • 2026",
+  "arabicDateLabel": "17 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "154 ألف للدولار.. والمحل يبيعلك أغلى",
+    "englishSubhead": "BAGHDAD BOURSE 154,000 PER $100, UP FROM 153,100 | SHOPS SELL 154,500 | ERBIL 154,000",
+    "heroMedia": "images/news/2026-08-17-dollar-154-break/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الكفاح والحارثية عند 154,000",
+      "arabicBody": "ارتفعت أسعار الدولار في بورصتي الكفاح والحارثية ببغداد صباح الاثنين لتسجل 154,000 دينار لكل 100 دولار، بعد 153,100 دينار أمس الأحد، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "154,000",
+        "label": "IQD per $100 at the Baghdad bourses on Monday morning, up from 153,100 on Sunday",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الاثنين 17 آب 2026 مقابل 153,100 دينار في جلسة الأحد (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة اليوم",
+          "value": "154,000"
+        },
+        {
+          "label": "أمس الأحد",
+          "value": "153,100"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "900"
+        }
+      ],
+      "broll": "images/news/2026-08-17-dollar-154-break/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-17-dollar-154-break/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بالمحل تدفع 154,500",
+      "arabicBody": "محال الصيرفة في بغداد تبيع الـ100 دولار بـ154,500 دينار وتشتري بـ153,500 دينار، وهو السعر الذي يدفعه المواطن فعلياً عند الشباك، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "154,500",
+        "label": "IQD per $100 — the Baghdad shop selling price, what a buyer actually pays",
+        "arabicLabel": "سعر بيع محال الصيرفة في بغداد لكل 100 دولار صباح الاثنين 17 آب 2026 مقابل سعر شراء 153,500 دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع المحال",
+          "value": "154,500"
+        },
+        {
+          "label": "شراء المحال",
+          "value": "153,500"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "500"
+        }
+      ],
+      "broll": "images/news/2026-08-17-dollar-154-break/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-17-dollar-154-break/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أربيل أرخص 500 من محال بغداد",
+      "arabicBody": "في أربيل بلغ سعر البيع 154,000 دينار لكل 100 دولار، أي أقل بـ500 دينار من سعر البيع في محال بغداد البالغ 154,500، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "154,000",
+        "label": "IQD per $100 — the Erbil selling price, 500 below the Baghdad shop selling price",
+        "arabicLabel": "سعر بيع الدولار في أربيل لكل 100 دولار صباح الاثنين 17 آب 2026 مقابل 154,500 ديناراً في محال بغداد، أي بفارق 500 دينار محتسب من رقمي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع أربيل",
+          "value": "154,000"
+        },
+        {
+          "label": "بيع بغداد",
+          "value": "154,500"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "500"
+        }
+      ],
+      "broll": "images/news/2026-08-17-dollar-154-break/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-17-dollar-154-break/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 154,000 دينار لكل 100 دولار صباح الاثنين (شفق نيوز)",
+    "أمس الأحد: 153,100 دينار لكل 100 دولار — الفارق 900 دينار (محتسب)",
+    "محال الصيرفة في بغداد: بيع 154,500 وشراء 153,500 لكل 100 دولار (شفق نيوز)",
+    "أربيل: بيع 154,000 وشراء 153,900 لكل 100 دولار (شفق نيوز)",
+    "سعر البيع في أربيل أقل بـ500 دينار من سعر البيع في محال بغداد (محتسب من أرقام شفق نيوز)",
+    "شكد دفعت اليوم للدولار؟"
+  ]
+}

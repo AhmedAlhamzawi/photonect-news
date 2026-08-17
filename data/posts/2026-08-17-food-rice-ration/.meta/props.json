@@ -1,0 +1,128 @@
+{
+  "dateLabel": "AUG 17 • 2026",
+  "arabicDateLabel": "17 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "global_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تموين",
+    "arabicHeadline": "رز البطاقة.. تايلاند تقول صفر والتجارة تقول كافي",
+    "englishSubhead": "TRADE MINISTRY SAYS RICE STOCKS SUFFICIENT | THAILAND SAYS IRAQ BOUGHT NONE THIS YEAR",
+    "heroMedia": "images/news/2026-08-17-food-rice-ration/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الوزارة: خزين كافٍ لهذه السنة",
+      "arabicBody": "قال المتحدث باسم وزارة التجارة محمد حنون لشفق نيوز إن العراق لا يواجه أزمة في توفير رز البطاقة التموينية، وإن الخزين كافٍ لاحتياجات هذه السنة.",
+      "bigStat": {
+        "value": "لا أزمة",
+        "label": "The Trade Ministry spokesman's stated position on ration-card rice",
+        "arabicLabel": "موقف وزارة التجارة كما نقله المتحدث محمد حنون لشفق نيوز يوم 17 آب 2026: لا أزمة في توفير الرز ضمن البطاقة التموينية وخزين كافٍ لاحتياجات هذه السنة"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقف الرسمي",
+          "value": "لا أزمة"
+        },
+        {
+          "label": "الخزين",
+          "value": "كافٍ لهذه السنة"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-08-17-food-rice-ration/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-17-food-rice-ration/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الاستيراد صار بعيداً عن المضيق",
+      "arabicBody": "أوضح حنون أن الوزارة تستورد مفردات البطاقة بعيداً عن المضيق عبر تركيا، وأن الرز يصل عبر ميناء العقبة في الأردن ومن مناشئ متعددة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "العقبة",
+        "label": "The port now used to route ration rice, per the Trade Ministry spokesman",
+        "arabicLabel": "منفذ وصول الرز بحسب المتحدث باسم وزارة التجارة محمد حنون: ميناء العقبة في الأردن ومن مناشئ متعددة بينها الولايات المتحدة، مع استيراد مفردات البطاقة عبر تركيا بعيداً عن المضيق (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المنفذ",
+          "value": "ميناء العقبة"
+        },
+        {
+          "label": "ممر آخر",
+          "value": "تركيا"
+        },
+        {
+          "label": "من مناشئ",
+          "value": "متعددة"
+        }
+      ],
+      "broll": "images/news/2026-08-17-food-rice-ration/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-17-food-rice-ration/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "تايلاند تقول: صفر رز للعراق",
+      "arabicBody": "أعلنت تايلاند أن بغداد لم تستورد منها رزاً هذا العام بعد إغلاق مضيق هرمز، مقابل نحو 950 ألف طن العام الماضي، وفق الإعلان التايلاندي.",
+      "bigStat": {
+        "value": "950 ألف طن",
+        "label": "Iraq's rice purchases from Thailand last year, per Thailand's own announcement",
+        "arabicLabel": "الكمية التي تقول تايلاند إن العراق كان يستوردها منها العام الماضي مقابل صفر خلال العام الحالي — رقم ورد في الإعلان التايلاندي ولم يصدر عن جهة عراقية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "هذا العام",
+          "value": "صفر"
+        },
+        {
+          "label": "العام الماضي",
+          "value": "950 ألف طن"
+        },
+        {
+          "label": "المصدر",
+          "value": "إعلان تايلاندي"
+        }
+      ],
+      "broll": "images/news/2026-08-17-food-rice-ration/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-17-food-rice-ration/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "وزارة التجارة العراقية",
+      "domain": "mot.gov.iq"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة التجارة: لا أزمة في توفير الرز ضمن البطاقة التموينية (شفق نيوز)",
+    "المتحدث محمد حنون: خزين كافٍ لتأمين احتياجات البلاد لهذه السنة",
+    "استيراد مفردات البطاقة يجري بعيداً عن المضيق عبر تركيا (شفق نيوز)",
+    "الرز يصل عبر ميناء العقبة في الأردن ومن مناشئ متعددة بينها الولايات المتحدة",
+    "تايلاند تعلن أن بغداد لم تستورد منها أي كمية رز هذا العام مقابل نحو 950 ألف طن العام الماضي",
+    "شنو ناقص من حصتك التموينية هالشهر؟"
+  ]
+}

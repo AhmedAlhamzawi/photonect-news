@@ -1,0 +1,128 @@
+{
+  "dateLabel": "AUG 17 • 2026",
+  "arabicDateLabel": "17 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "خريجون",
+    "arabicHeadline": "الخريجون القدامى عند الخضراء.. وجسر السنك واقف",
+    "englishSubhead": "OLD GRADUATES MARCH ON THE GREEN ZONE | JISR AL-SINAK ENTRY AND EXIT AT A STANDSTILL",
+    "heroMedia": "images/news/2026-08-17-graduates-green-zone/broll_1.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مسيرة من العلاوي نحو الخضراء",
+      "arabicBody": "خرج آلاف الخريجين القدامى من محافظات مختلفة في مسيرة من العلاوي باتجاه المنطقة الخضراء وصولاً إلى محيط حديقة الشواف، للمطالبة بالتعيين الحكومي، بحسب مراسل 964.",
+      "bigStat": {
+        "value": "العلاوي",
+        "label": "Where the graduates' march set out from, per 964's correspondent",
+        "arabicLabel": "نقطة انطلاق المسيرة الاحتجاجية للخريجين القدامى يوم الاثنين 17 آب 2026 من منطقة العلاوي باتجاه المنطقة الخضراء وصولاً إلى محيط حديقة الشواف (مراسل 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الانطلاق",
+          "value": "العلاوي"
+        },
+        {
+          "label": "الوجهة",
+          "value": "الخضراء"
+        },
+        {
+          "label": "المطلب",
+          "value": "التعيين"
+        }
+      ],
+      "broll": "images/news/2026-08-17-graduates-green-zone/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-17-graduates-green-zone/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "شلل تام عند جسر السنك",
+      "arabicBody": "فرضت أعداد المحتجين حصاراً على بعض مداخل المنطقة الخضراء، وتحديداً عند جسر السنك الذي شهد شللاً تاماً في حركة الدخول والخروج، بحسب مراسل 964.",
+      "bigStat": {
+        "value": "جسر السنك",
+        "label": "The Green Zone entrance where entry and exit stopped entirely",
+        "arabicLabel": "المدخل الذي شهد شللاً تاماً في حركة الدخول والخروج بفعل الحصار الذي فرضته أعداد المحتجين يوم 17 آب 2026 (مراسل 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقع",
+          "value": "جسر السنك"
+        },
+        {
+          "label": "الحركة",
+          "value": "شلل تام"
+        },
+        {
+          "label": "المصدر",
+          "value": "مراسل 964"
+        }
+      ],
+      "broll": "images/news/2026-08-17-graduates-green-zone/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-17-graduates-green-zone/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "محتجة: هذه تظاهرتنا السادسة",
+      "arabicBody": "قالت المحتجة آلاء عباس إنها تظاهرتهم السادسة دون استجابة حقيقية، فيما قدّم المتحدث باسم الحكومة سعد معن تطمينات وسط المتظاهرين. وصلتك فرصة تعيين حكومي لو لا؟",
+      "bigStat": {
+        "value": "السادسة",
+        "label": "The protest count as stated by a named protester, not an official tally",
+        "arabicLabel": "عدد التظاهرات كما ذكرته المحتجة آلاء عباس من بابل — وهو رقم منسوب إليها بالاسم وليس إحصاءً رسمياً (964)"
+      },
+      "supportingStats": [
+        {
+          "label": "بحسب محتجة",
+          "value": "السادسة"
+        },
+        {
+          "label": "بحسب المحتجة",
+          "value": "بلا استجابة"
+        },
+        {
+          "label": "الحكومة",
+          "value": "تطمينات"
+        }
+      ],
+      "broll": "images/news/2026-08-17-graduates-green-zone/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-17-graduates-green-zone/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المعلومة",
+      "domain": "almaalomah.me"
+    }
+  ],
+  "arabicTicker": [
+    "آلاف الخريجين القدامى يتظاهرون في بغداد للمطالبة بالتعيين الحكومي (964)",
+    "المسيرة انطلقت من العلاوي باتجاه المنطقة الخضراء وصولاً إلى محيط حديقة الشواف",
+    "حصار على بعض مداخل الخضراء وشلل تام عند جسر السنك (مراسل 964)",
+    "المحتجة آلاء عباس من بابل: هذه تظاهرتنا السادسة دون استجابة حقيقية",
+    "المتحدث باسم الحكومة سعد معن وسط المتظاهرين مع تطمينات بشأن المطالب",
+    "وصلتك فرصة تعيين حكومي لو لا؟"
+  ]
+}

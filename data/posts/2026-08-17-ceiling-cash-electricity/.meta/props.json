@@ -1,0 +1,132 @@
+{
+  "dateLabel": "AUG 17 • 2026",
+  "arabicDateLabel": "17 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "شنو ضبطت النزاهة بأرضية بيت وكيل الكهرباء؟",
+    "englishSubhead": "INTEGRITY COMMISSION: 1.175BN IQD, $5,839,000, SEVEN GOLD BARS AND GOLD JEWELLERY SEIZED | OFFICIAL ACCUSED AND DETAINED, NOT CONVICTED",
+    "heroMedia": "images/news/2026-08-17-ceiling-cash-electricity/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "النزاهة تضبط المبالغ في منازل المتهم",
+      "arabicBody": "أعلنت هيئة النزاهة الاتحادية ضبط 1,175,000,000 دينار و5,839,000 دولار وسبع سبائك ذهبية بمنازل وكيل وزارة الكهرباء خالد غزاي عطية، وهو موقوف ومتهم ولم تصدر بحقه إدانة.",
+      "bigStat": {
+        "value": "1,175,000,000",
+        "label": "IQD seized at the homes of the accused deputy electricity minister, per the Federal Integrity Commission",
+        "arabicLabel": "المبالغ بالدينار العراقي التي أعلنت هيئة النزاهة الاتحادية ضبطها في منازل المتهم يوم 16 آب 2026، إلى جانب 5,839,000 دولار وسبع سبائك ومخشلات ذهبية (هيئة النزاهة الاتحادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "دينار عراقي",
+          "value": "1.175 مليار"
+        },
+        {
+          "label": "دولار",
+          "value": "5,839,000"
+        },
+        {
+          "label": "سبائك ذهب",
+          "value": "7"
+        }
+      ],
+      "broll": "images/news/2026-08-17-ceiling-cash-electricity/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-17-ceiling-cash-electricity/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المتهم كان مسؤولاً عن النقل والتوزيع",
+      "arabicBody": "المنصب الذي كان يشغله المتهم هو وكيل وزارة الكهرباء لشؤون النقل والتوزيع، بحسب توصيف هيئة النزاهة الاتحادية لمنصبه في بيانها.",
+      "bigStat": {
+        "value": "النقل والتوزيع",
+        "label": "The accused official's brief covered power transmission and distribution",
+        "arabicLabel": "المنصب الذي كان يشغله المتهم بحسب هيئة النزاهة الاتحادية: وكيل وزارة الكهرباء لشؤون النقل والتوزيع"
+      },
+      "supportingStats": [
+        {
+          "label": "المنصب",
+          "value": "وكيل وزارة"
+        },
+        {
+          "label": "الملف",
+          "value": "النقل والتوزيع"
+        },
+        {
+          "label": "الحالة",
+          "value": "موقوف ومتهم"
+        }
+      ],
+      "broll": "images/news/2026-08-17-ceiling-cash-electricity/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-17-ceiling-cash-electricity/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الأموال كانت مخبأة بالأرضية والسقف",
+      "arabicBody": "قالت الهيئة إن الأموال والقطع النقدية كانت مخبأة داخل الأرضية والسقف الثانوي للمنزل، وإن الضبط جرى بأمر قضائي وعُرضت المضبوطات على قاضي التحقيق.",
+      "bigStat": {
+        "value": "الأرضية والسقف",
+        "label": "Where the Integrity Commission says the cash was concealed",
+        "arabicLabel": "موضع إخفاء الأموال والقطع النقدية بحسب بيان هيئة النزاهة الاتحادية: داخل الأرضية والسقف الثانوي للمنزل، وقد جرى الضبط بأمر قضائي"
+      },
+      "supportingStats": [
+        {
+          "label": "موضع الإخفاء",
+          "value": "الأرضية"
+        },
+        {
+          "label": "وأيضاً",
+          "value": "السقف الثانوي"
+        },
+        {
+          "label": "الضبط",
+          "value": "بأمر قضائي"
+        }
+      ],
+      "broll": "images/news/2026-08-17-ceiling-cash-electricity/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-17-ceiling-cash-electricity/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: ضبط 1,175,000,000 دينار و5,839,000 دولار في منازل المتهم",
+    "المضبوطات تشمل سبع سبائك ومخشلات ذهبية (هيئة النزاهة الاتحادية)",
+    "المتهم: وكيل وزارة الكهرباء لشؤون النقل والتوزيع خالد غزاي عطية — موقوف ولم تصدر بحقه إدانة",
+    "الأموال كانت مخبأة داخل الأرضية والسقف الثانوي للمنزل (هيئة النزاهة)",
+    "الضبط جرى بأمر قضائي وعُرضت المضبوطات على قاضي التحقيق",
+    "سمعت بحملة النزاهة قبل اليوم لو لا؟"
+  ]
+}

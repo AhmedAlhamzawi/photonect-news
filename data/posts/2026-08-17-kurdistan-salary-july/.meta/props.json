@@ -1,0 +1,128 @@
+{
+  "dateLabel": "AUG 17 • 2026",
+  "arabicDateLabel": "17 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "تمويل رواتب تموز وصل.. ومستحقات المتقاعدين لا",
+    "englishSubhead": "830.782BN IQD DEPOSITED FOR JULY SALARIES | 120BN DEDUCTED | RETIREES' ARREARS NOT SENT",
+    "heroMedia": "images/news/2026-08-17-kurdistan-salary-july/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "830.782 مليار دينار في حساب الإقليم",
+      "arabicBody": "أعلنت وزارة المالية في إقليم كوردستان إيداع تمويل رواتب تموز والبالغ 830,782,000,000 دينار لدى فرع أربيل للبنك المركزي العراقي، على أن يُنشر الجدول فور الاستلام نقداً.",
+      "bigStat": {
+        "value": "830.782 مليار",
+        "label": "IQD deposited for July salaries at the CBI Erbil branch, per the KRG Finance Ministry",
+        "arabicLabel": "تمويل رواتب شهر تموز الذي أعلنت وزارة المالية في إقليم كوردستان إيداعه في حسابها لدى فرع أربيل للبنك المركزي العراقي يوم الاثنين 17 آب 2026 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "830.782 مليار"
+        },
+        {
+          "label": "عن شهر",
+          "value": "تموز"
+        },
+        {
+          "label": "الإيداع",
+          "value": "فرع أربيل"
+        }
+      ],
+      "broll": "images/news/2026-08-17-kurdistan-salary-july/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-17-kurdistan-salary-july/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "استقطاع 120 ملياراً للخزينة الاتحادية",
+      "arabicBody": "قالت الوزارة إن وزارة المالية الاتحادية استقطعت 120,000,000,000 دينار كحصة للخزينة الاتحادية من الإيرادات غير النفطية للإقليم عن شهر تموز، على غرار الأشهر الماضية.",
+      "bigStat": {
+        "value": "120 مليار",
+        "label": "IQD deducted by the federal Finance Ministry as the treasury's share of the region's non-oil revenues",
+        "arabicLabel": "المبلغ الذي تقول وزارة مالية الإقليم إن وزارة المالية الاتحادية استقطعته كحصة للخزينة الاتحادية من الإيرادات غير النفطية للإقليم عن شهر تموز (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستقطاع",
+          "value": "120 مليار"
+        },
+        {
+          "label": "لحساب",
+          "value": "الخزينة"
+        },
+        {
+          "label": "من",
+          "value": "غير نفطية"
+        }
+      ],
+      "broll": "images/news/2026-08-17-kurdistan-salary-july/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-17-kurdistan-salary-july/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مستحقات المتقاعدين لم تصل",
+      "arabicBody": "أضافت الوزارة أن مبلغ 3,326,931,000 دينار المخصص لتغطية مستحقات رواتب الأشهر الماضية للمتقاعدين المدنيين والعسكريين في الإقليم لم يتم إرساله.",
+      "bigStat": {
+        "value": "3,326,931,000",
+        "label": "IQD earmarked for retirees' back-pay that the KRG Finance Ministry says was not sent",
+        "arabicLabel": "المبلغ المخصص لتغطية مستحقات رواتب الأشهر الماضية للمتقاعدين المدنيين والعسكريين في الإقليم والذي تقول وزارة مالية الإقليم إنه لم يُرسل (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "لم يصل",
+          "value": "3.327 مليار"
+        },
+        {
+          "label": "المخصص لـ",
+          "value": "المتقاعدين"
+        },
+        {
+          "label": "عن",
+          "value": "أشهر ماضية"
+        }
+      ],
+      "broll": "images/news/2026-08-17-kurdistan-salary-july/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-17-kurdistan-salary-july/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "وزارة المالية في إقليم كوردستان",
+      "domain": "gov.krd"
+    }
+  ],
+  "arabicTicker": [
+    "مالية كوردستان: إيداع 830,782,000,000 دينار تمويلاً لرواتب تموز (شفق نيوز)",
+    "الإيداع تم في حساب الوزارة لدى فرع أربيل للبنك المركزي العراقي",
+    "المالية الاتحادية استقطعت 120,000,000,000 دينار كحصة للخزينة من الإيرادات غير النفطية",
+    "3,326,931,000 دينار مخصصة لمستحقات المتقاعدين المدنيين والعسكريين لم تُرسل",
+    "جدول الرواتب يُنشر فور استلام المبلغ نقداً من فرع أربيل (وزارة المالية في الإقليم)",
+    "راتبك وصل لو بعده؟"
+  ]
+}
