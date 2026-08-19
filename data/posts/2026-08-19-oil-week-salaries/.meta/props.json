@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 19 • 2026",
+  "arabicDateLabel": "19 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "موازنة",
+    "arabicHeadline": "الزيدي يربط تأخر الرواتب ببرميل ما ينباع",
+    "englishSubhead": "FINANCE MINISTRY EXECUTION DATA: 18.727T IQD DEFICIT TO END-JUNE | SALARIES 30.769T | PM GIVES THE OIL MINISTRY ONE WEEK",
+    "heroMedia": "images/news/2026-08-19-oil-week-salaries/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "عجز 18.727 ترليون بستة أشهر",
+      "arabicBody": "بلغ الإنفاق حتى نهاية حزيران 54.673 ترليون دينار مقابل إيرادات 35.946 ترليوناً، أي بعجز 18.727 ترليون دينار، بحسب بيانات تنفيذ الموازنة التي نشرتها شفق نيوز.",
+      "bigStat": {
+        "value": "18.727 ترليون",
+        "label": "IQD federal deficit through end-June, on spending of 54.673T against revenue of 35.946T",
+        "arabicLabel": "عجز الموازنة الاتحادية حتى نهاية حزيران 2026 بحسب بيانات تنفيذ الموازنة لدى وزارة المالية: إنفاق 54.673 ترليون دينار مقابل إيرادات 35.946 ترليوناً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنفاق",
+          "value": "54.673 ت"
+        },
+        {
+          "label": "الإيرادات",
+          "value": "35.946 ت"
+        },
+        {
+          "label": "العجز",
+          "value": "18.727 ت"
+        }
+      ],
+      "broll": "images/news/2026-08-19-oil-week-salaries/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-19-oil-week-salaries/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الرواتب وحدها 30.769 ترليون",
+      "arabicBody": "رواتب القطاع العام وحدها بلغت 30.769 ترليون دينار من أصل الإنفاق، والنفط شكّل نحو 79% من إيرادات الدولة، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "30.769 ترليون",
+        "label": "IQD in public-sector salaries through end-June — the single largest line of state spending",
+        "arabicLabel": "رواتب القطاع العام حتى نهاية حزيران 2026 بلغت 30.769 ترليون دينار من أصل إنفاق 54.673 ترليوناً، والنفط نحو 79% من الإيرادات (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرواتب",
+          "value": "30.769 ت"
+        },
+        {
+          "label": "حصة النفط",
+          "value": "79%"
+        },
+        {
+          "label": "غير النفطي",
+          "value": "21%"
+        }
+      ],
+      "broll": "images/news/2026-08-19-oil-week-salaries/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-19-oil-week-salaries/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مهلة أسبوع لوزارة النفط",
+      "arabicBody": "وبحسب شفق نيوز، أمهل رئيس الوزراء علي الزيدي يوم الاثنين وزارة النفط أسبوعاً واحداً لتقديم حلول تصديرية ملموسة، محذراً من أن كل برميل لا يُباع يعني تأخر رواتب أو خدمات.",
+      "bigStat": {
+        "value": "أسبوع",
+        "label": "one week given to the Oil Ministry, from Monday, to produce tangible export solutions",
+        "arabicLabel": "مهلة أسبوع واحد منحها رئيس الوزراء علي الزيدي يوم الاثنين لوزارة النفط لتقديم حلول تصديرية ملموسة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة",
+          "value": "أسبوع"
+        },
+        {
+          "label": "بدأت",
+          "value": "الاثنين"
+        },
+        {
+          "label": "الجهة",
+          "value": "وزارة النفط"
+        }
+      ],
+      "broll": "images/news/2026-08-19-oil-week-salaries/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-19-oil-week-salaries/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بيانات تنفيذ الموازنة: إنفاق 54.673 ترليون دينار حتى نهاية حزيران (شفق نيوز)",
+    "الإيرادات 35.946 ترليوناً — منها 28.433 ترليوناً نفطية و7.513 ترليوناً غير نفطية",
+    "العجز 18.727 ترليون دينار في ستة أشهر",
+    "رواتب القطاع العام وحدها 30.769 ترليون دينار",
+    "النفط نحو 79% من إيرادات الدولة، وغير النفطي نحو 21% بعد أن كان نحو 12%",
+    "رئيس الوزراء علي الزيدي أمهل وزارة النفط أسبوعاً من يوم الاثنين لحلول تصديرية (شفق نيوز)",
+    "راتبك تأخر هذا الشهر لو وصل بموعده؟"
+  ]
+}

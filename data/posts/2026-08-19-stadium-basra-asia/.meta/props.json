@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 19 • 2026",
+  "arabicDateLabel": "19 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "استقلال الإيراني يطلب ملعب البصرة مقراً",
+    "englishSubhead": "IRAN'S ESTEGHLAL WANTS BASRA INTERNATIONAL STADIUM AS ITS AFC CHAMPIONS LEAGUE ELITE HOME VENUE | FINAL APPROVAL STILL PENDING",
+    "heroMedia": "images/news/2026-08-19-stadium-basra-asia/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "طلب: البصرة مقراً محايداً بآسيا",
+      "arabicBody": "طلب نادي استقلال الإيراني اعتماد ملعب البصرة الدولي مقراً محايداً لمبارياته في دوري أبطال آسيا للنخبة لموسم 2026/27، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "2026/27",
+        "label": "the AFC Champions League Elite season for which Esteghlal wants Basra as its home venue",
+        "arabicLabel": "الموسم المطلوب لاعتماد ملعب البصرة الدولي مقراً محايداً لمباريات نادي استقلال في دوري أبطال آسيا للنخبة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملعب",
+          "value": "البصرة الدولي"
+        },
+        {
+          "label": "البطولة",
+          "value": "أبطال آسيا"
+        },
+        {
+          "label": "الموسم",
+          "value": "2026/27"
+        }
+      ],
+      "broll": "images/news/2026-08-19-stadium-basra-asia/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-19-stadium-basra-asia/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الأندية الإيرانية تلعب خارج إيران",
+      "arabicBody": "الاتحاد الآسيوي يمنع الأندية الإيرانية من خوض مبارياتها القارية داخل إيران، واستند النادي إلى قرب البصرة وسهولة تنقل جمهوره وملاءمة البنى الرياضية، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "خارج إيران",
+        "label": "AFC requirement that Iranian clubs stage their continental home fixtures outside Iran",
+        "arabicLabel": "شرط الاتحاد الآسيوي بأن تخوض الأندية الإيرانية مبارياتها القارية خارج إيران، وهو سبب البحث عن ملعب محايد (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشرط",
+          "value": "خارج إيران"
+        },
+        {
+          "label": "السبب",
+          "value": "قرب البصرة"
+        },
+        {
+          "label": "البديل",
+          "value": "أوزبكستان"
+        }
+      ],
+      "broll": "images/news/2026-08-19-stadium-basra-asia/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-19-stadium-basra-asia/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "والموافقة النهائية لم تصدر",
+      "arabicBody": "الموافقة النهائية لم تصدر بعد، فالأمر ما زال طلباً لا قراراً، وتبقى أوزبكستان الخيار البديل، فيما جرت قرعة دور الدوري في كوالالمبور يوم الثلاثاء، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "بانتظار",
+        "label": "final approval is still pending — this remains a request, not a confirmed arrangement",
+        "arabicLabel": "الموافقة النهائية على اعتماد ملعب البصرة لم تصدر بعد، والأمر ما زال طلباً لا قراراً، مع بقاء أوزبكستان خياراً بديلاً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموافقة",
+          "value": "لم تصدر"
+        },
+        {
+          "label": "البديل",
+          "value": "أوزبكستان"
+        },
+        {
+          "label": "القرعة",
+          "value": "18 آب"
+        }
+      ],
+      "broll": "images/news/2026-08-19-stadium-basra-asia/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-19-stadium-basra-asia/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "نادي استقلال الإيراني يطلب ملعب البصرة الدولي مقراً محايداً لمبارياته القارية (شفق نيوز)",
+    "البطولة: دوري أبطال آسيا للنخبة — موسم 2026/27",
+    "الاتحاد الآسيوي يلزم الأندية الإيرانية باللعب خارج إيران (شفق نيوز)",
+    "أسباب الاختيار: قرب البصرة وسهولة تنقل الجمهور وملاءمة البنى الرياضية",
+    "أوزبكستان تبقى الخيار البديل — والموافقة النهائية لم تصدر بعد (شفق نيوز)",
+    "تروح تشجع بملعب البصرة لو لا؟"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "dateLabel": "AUG 19 • 2026",
+  "arabicDateLabel": "19 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_politics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "إيران",
+    "arabicHeadline": "مهلة نزع سلاح الفصائل تقترب.. وإيران ببغداد",
+    "englishSubhead": "IRAN'S PARLIAMENT SPEAKER ARRIVES IN BAGHDAD FOR A THREE-DAY VISIT AS THE SEPTEMBER 30 DISARMAMENT DEADLINE NEARS",
+    "heroMedia": "images/news/2026-08-19-ghalibaf-baghdad-deadline/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "رئيس البرلمان الإيراني في بغداد",
+      "arabicBody": "وصل رئيس مجلس الشورى الإيراني محمد باقر قاليباف إلى بغداد، واستقبله النائب الأول لرئيس البرلمان عدنان الفيحان، في زيارة من ثلاثة أيام تشمل كربلاء والنجف وتنتهي الجمعة، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "3",
+        "label": "day visit to Iraq including Karbala and Najaf, concluding on Friday",
+        "arabicLabel": "زيارة من ثلاثة أيام لرئيس مجلس الشورى الإيراني محمد باقر قاليباف تشمل بغداد وكربلاء والنجف وتنتهي يوم الجمعة (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "مدة الزيارة",
+          "value": "3 أيام"
+        },
+        {
+          "label": "المدن",
+          "value": "كربلاء والنجف"
+        },
+        {
+          "label": "تنتهي",
+          "value": "الجمعة"
+        }
+      ],
+      "broll": "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "فصائل ترفض التسليم قبل 30 أيلول",
+      "arabicBody": "تأتي الزيارة فيما ترفض فصائل مسلحة مدعومة من إيران تسليم سلاحها قبل مهلة حكومية تنتهي في 30 أيلول/سبتمبر، وهو ما يعمّق الخلاف بين بغداد وتلك الفصائل، بحسب ذا ناشيونال.",
+      "bigStat": {
+        "value": "30 أيلول",
+        "label": "government-imposed deadline for Iran-backed armed groups in Iraq to disarm",
+        "arabicLabel": "المهلة الحكومية المحددة لنزع سلاح الفصائل المسلحة المدعومة من إيران، والفصائل ترفض التسليم حتى الآن (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة",
+          "value": "30 أيلول"
+        },
+        {
+          "label": "الموقف",
+          "value": "رفض التسليم"
+        },
+        {
+          "label": "الفصائل",
+          "value": "مدعومة من إيران"
+        }
+      ],
+      "broll": "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وتصدير النفط عبر هرمز حاضر",
+      "arabicBody": "وتتزامن الزيارة مع مباحثات جارية بين العراق وإيران بشأن تصدير النفط العراقي عبر مضيق هرمز، بحسب ذا ناشيونال. سمعت بمهلة 30 أيلول قبل اليوم لو لا؟",
+      "bigStat": {
+        "value": "هرمز",
+        "label": "Iraq-Iran talks on exporting Iraqi crude through the Strait of Hormuz run alongside the visit",
+        "arabicLabel": "مباحثات عراقية إيرانية جارية بشأن تصدير النفط العراقي عبر مضيق هرمز تتزامن مع الزيارة (ذا ناشيونال)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف",
+          "value": "تصدير النفط"
+        },
+        {
+          "label": "الممر",
+          "value": "مضيق هرمز"
+        },
+        {
+          "label": "الحالة",
+          "value": "مباحثات"
+        }
+      ],
+      "broll": "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-19-ghalibaf-baghdad-deadline/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "قاليباف وصل بغداد في زيارة من ثلاثة أيام تشمل كربلاء والنجف (ذا ناشيونال)",
+    "استقبله النائب الأول لرئيس البرلمان عدنان الفيحان (ذا ناشيونال)",
+    "مهلة حكومية لنزع سلاح الفصائل المدعومة من إيران تنتهي في 30 أيلول (ذا ناشيونال)",
+    "الزيارة تتزامن مع مباحثات بشأن تصدير النفط العراقي عبر مضيق هرمز (ذا ناشيونال)",
+    "سمعت بمهلة 30 أيلول قبل اليوم لو لا؟"
+  ]
+}

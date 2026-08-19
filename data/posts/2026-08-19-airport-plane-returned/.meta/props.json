@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 19 • 2026",
+  "arabicDateLabel": "19 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نقل",
+    "arabicHeadline": "مداهمة بوزارة النقل.. توقيف اثنين والوزير لم يوقف",
+    "englishSubhead": "ANTI-CORRUPTION COMMITTEE DETAINS TRANSPORT MINISTER'S OFFICE DIRECTOR AND A FLIGHT OPERATIONS OFFICER | NO CONVICTION HAS BEEN ISSUED",
+    "heroMedia": "images/news/2026-08-19-airport-plane-returned/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "لجنة مكافحة الفساد توقف اثنين",
+      "arabicBody": "داهمت لجنة مكافحة الفساد العليا برئاسة القاضي ضياء جعفر وزارة النقل يوم الثلاثاء وأوقفت مدير مكتب الوزير وضابط عمليات الطيران، بحسب شبكة 964.",
+      "bigStat": {
+        "value": "2",
+        "label": "officials detained pending investigation by order of the higher anti-corruption committee",
+        "arabicLabel": "موقوفان على ذمة التحقيق: مدير مكتب وزير النقل وضابط عمليات الطيران، بأمر لجنة مكافحة الفساد العليا برئاسة القاضي ضياء جعفر (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "2"
+        },
+        {
+          "label": "الجهة",
+          "value": "مكافحة الفساد"
+        },
+        {
+          "label": "التاريخ",
+          "value": "18 آب"
+        }
+      ],
+      "broll": "images/news/2026-08-19-airport-plane-returned/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-19-airport-plane-returned/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الخلفية: طيارة رجعت من طريقها",
+      "arabicBody": "الخلفية إعادة طائرة عراقية كانت متجهة إلى تركيا بعد بلاغ يتعلق بأحد الركاب، ولم تكشف اللجنة مضمونه. ووزير النقل نفسه لم يوقف، بحسب شبكة 964.",
+      "bigStat": {
+        "value": "1",
+        "label": "Iraqi flight bound for Turkey turned back after a report concerning one passenger",
+        "arabicLabel": "طائرة عراقية واحدة كانت متجهة إلى تركيا أعيدت بعد بلاغ يتعلق بإحدى المسافرات، وهي خلفية قرار الإيقاف (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوجهة",
+          "value": "تركيا"
+        },
+        {
+          "label": "الوزير",
+          "value": "لم يوقف"
+        },
+        {
+          "label": "السبب",
+          "value": "بلاغ"
+        }
+      ],
+      "broll": "images/news/2026-08-19-airport-plane-returned/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-19-airport-plane-returned/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "موقوفان.. بلا إدانة ولا تهمة معلنة",
+      "arabicBody": "الاثنان موقوفان على ذمة التحقيق ولم تصدر بحقهما أي إدانة، ولم تعلن اللجنة تهمة محددة ولا المادة القانونية المستند إليها حتى الآن، بحسب شبكة 964.",
+      "bigStat": {
+        "value": "0",
+        "label": "convictions issued so far — both men are detained pending investigation, not convicted",
+        "arabicLabel": "لم تصدر أي إدانة بحق الموقوفين حتى الآن، ولم تعلن اللجنة تهمة محددة ولا المادة القانونية المستند إليها (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإدانة",
+          "value": "لم تصدر"
+        },
+        {
+          "label": "التهمة",
+          "value": "لم تعلن"
+        },
+        {
+          "label": "الصفة",
+          "value": "موقوف"
+        }
+      ],
+      "broll": "images/news/2026-08-19-airport-plane-returned/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-19-airport-plane-returned/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "964media",
+      "domain": "964media.com"
+    }
+  ],
+  "arabicTicker": [
+    "لجنة مكافحة الفساد العليا برئاسة القاضي ضياء جعفر داهمت وزارة النقل الثلاثاء (شبكة 964)",
+    "الموقوفان: مدير مكتب وزير النقل وضابط عمليات الطيران (شبكة 964)",
+    "وزير النقل نفسه لم يوقف (شبكة 964)",
+    "الخلفية: إعادة طائرة عراقية متجهة إلى تركيا بعد بلاغ لم تكشف اللجنة مضمونه (شبكة 964)",
+    "الصفة القانونية: موقوفان على ذمة التحقيق — لم تصدر إدانة ولم تعلن تهمة محددة",
+    "صارت لك رحلة تأخرت لو انلغت؟"
+  ]
+}
