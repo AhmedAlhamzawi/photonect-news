@@ -1,0 +1,129 @@
+{
+  "dateLabel": "AUG 27 • 2026",
+  "arabicDateLabel": "27 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "مناقصتان لخام واحد.. داخل هرمز وخارجه",
+    "englishSubhead": "2 TENDERS | SAME SEPTEMBER CRUDE | INSIDE HORMUZ OR OFF OMAN | CLOSES 28 AUG",
+    "heroMedia": "images/news/2026-08-27-c-crude-two-tenders/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "مناقصتان على خام البصرة نفسه",
+      "arabicBody": "سومو طرحت خامي البصرة المتوسط والثقيل بتحميل أيلول عبر مناقصتين: واحدة تحميل من الموانئ الجنوبية داخل مضيق هرمز، وأخرى نقل بين ناقلتين قرب سواحل عُمان، بحسب رويترز.",
+      "bigStat": {
+        "value": "2",
+        "label": "parallel SOMO tenders for the same September Basra crude — one inside Hormuz, one transferring off Oman",
+        "arabicLabel": "عدد مناقصات سومو المطروحة في آن واحد لخام أيلول: تحميل داخل مضيق هرمز، ونقل بين ناقلتين قرب سواحل عُمان (رويترز · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخام المعروض",
+          "value": "البصرة"
+        },
+        {
+          "label": "شهر التحميل",
+          "value": "أيلول"
+        },
+        {
+          "label": "عدد المناقصات",
+          "value": "2"
+        }
+      ],
+      "broll": "images/news/2026-08-27-c-crude-two-tenders/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-27-c-crude-two-tenders/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المشتري يقرر: يعبر المضيق أو لا",
+      "arabicBody": "مناقصة التحميل داخل هرمز أُغلقت في 26 آب، ومناقصة النقل قرب عُمان تُغلق في 28 آب. أي المسارين يختاره المشترون لم يُعلن بعد، بحسب رويترز.",
+      "bigStat": {
+        "value": "28",
+        "label": "August — the closing date of the tender that lets buyers avoid sending vessels through Hormuz",
+        "arabicLabel": "تاريخ إغلاق مناقصة النقل بين الناقلتين قرب سواحل عُمان، فيما أُغلقت مناقصة التحميل داخل هرمز في 26 آب (رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "إغلاق داخل هرمز",
+          "value": "26 آب"
+        },
+        {
+          "label": "إغلاق قرب عُمان",
+          "value": "28 آب"
+        },
+        {
+          "label": "التحميل",
+          "value": "أيلول"
+        }
+      ],
+      "broll": "images/news/2026-08-27-c-crude-two-tenders/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-27-c-crude-two-tenders/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "84% من إيرادات الموازنة جاءت من النفط",
+      "arabicBody": "معظم صادرات العراق تخرج من موانئه الجنوبية، والنفط موّل 84% من إيرادات الموازنة في أول خمسة أشهر من 2026 مقابل 91% قبل عام، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "84%",
+        "label": "share of federal budget revenue funded by oil in the first five months of 2026, down from 91% a year earlier",
+        "arabicLabel": "حصة النفط من تمويل إيرادات الموازنة الاتحادية خلال الأشهر الخمسة الأولى من 2026، مقابل 91% في المدة نفسها من 2025 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "2026 (5 أشهر)",
+          "value": "84%"
+        },
+        {
+          "label": "2025 (المدة نفسها)",
+          "value": "91%"
+        },
+        {
+          "label": "منفذ التصدير",
+          "value": "الجنوب"
+        }
+      ],
+      "broll": "images/news/2026-08-27-c-crude-two-tenders/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-27-c-crude-two-tenders/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "خام البصرة نفسه معروض بمناقصتين: واحدة داخل هرمز وأخرى قرب عُمان (رويترز)",
+    "الأولى: تحميل من موانئ العراق الجنوبية داخل المضيق — أُغلقت في 26 آب (رويترز)",
+    "الثانية: نقل بين ناقلتين قرب سواحل عُمان يتفادى فيه المشتري عبور المضيق — تُغلق في 28 آب (رويترز)",
+    "أي المسارين يختاره المشترون لم يُعلن بعد (رويترز)",
+    "معظم صادرات العراق النفطية تخرج من الموانئ الجنوبية",
+    "النفط موّل 84% من إيرادات الموازنة في أول 5 أشهر من 2026 مقابل 91% في 2025 (شفق نيوز)",
+    "شغلك يعتمد على النفط لو لا؟"
+  ]
+}

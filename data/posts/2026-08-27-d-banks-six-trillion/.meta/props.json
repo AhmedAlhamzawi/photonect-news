@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 27 • 2026",
+  "arabicDateLabel": "27 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "مصارف",
+    "arabicHeadline": "ودائع المصارف نزلت 6.19 تريليون بنص سنة",
+    "englishSubhead": "IRAQ BANK DEPOSITS DOWN 6.19T DINARS | 104.875T ON 30 JUNE VS 111.065T ON 31 DEC | CREDIT DOWN 4.073T",
+    "heroMedia": "images/news/2026-08-27-d-banks-six-trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الودائع نزلت من 111.065 إلى 104.875 تريليون",
+      "arabicBody": "ودائع المصارف 104.875 تريليون دينار في 30 حزيران 2026، بعد 111.065 تريليوناً نهاية 2025، أي 6.19 تريليون أقل (محتسب من رقمي البنك المركزي · شفق نيوز).",
+      "bigStat": {
+        "value": "6.19",
+        "label": "TRILLION dinars — the fall in total banking-system deposits over the first half of 2026",
+        "arabicLabel": "تريليون دينار هو مقدار انخفاض إجمالي الودائع بين 31 كانون الأول 2025 و30 حزيران 2026، محتسب من رقمي البنك المركزي (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "ودائع حزيران",
+          "value": "104.875"
+        },
+        {
+          "label": "ودائع كانون الأول",
+          "value": "111.065"
+        },
+        {
+          "label": "نسبة الانخفاض",
+          "value": "5.6%"
+        }
+      ],
+      "broll": "images/news/2026-08-27-d-banks-six-trillion/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-27-d-banks-six-trillion/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الائتمان النقدي نزل 4.073 تريليون بالفترة نفسها",
+      "arabicBody": "الائتمان النقدي 71.511 تريليون دينار في حزيران، بعد 75.584 تريليوناً في كانون الأول — أقل بـ4.073 تريليون، بحسب بيانات البنك المركزي (شفق نيوز).",
+      "bigStat": {
+        "value": "71.511",
+        "label": "TRILLION dinars of monetary credit in June 2026, down from 75.584 trillion in December 2025",
+        "arabicLabel": "الائتمان النقدي في حزيران 2026 مقابل 75.584 تريليون دينار في كانون الأول 2025، أي انخفاض 5.4% (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "ائتمان حزيران",
+          "value": "71.511"
+        },
+        {
+          "label": "ائتمان كانون الأول",
+          "value": "75.584"
+        },
+        {
+          "label": "الفارق",
+          "value": "4.073"
+        }
+      ],
+      "broll": "images/news/2026-08-27-d-banks-six-trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-27-d-banks-six-trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "القطاع الخاص 49.964 والحكومة 31.426 تريليون",
+      "arabicBody": "من إجمالي ودائع حزيران: 49.964 تريليون دينار للقطاع الخاص، و31.426 تريليوناً للحكومة المركزية، و23.485 تريليوناً للمؤسسات العامة، بحسب البنك المركزي (شفق نيوز).",
+      "bigStat": {
+        "value": "49.964",
+        "label": "TRILLION dinars — private-sector share of total deposits at 30 June 2026",
+        "arabicLabel": "ودائع القطاع الخاص في 30 حزيران 2026 من أصل 104.875 تريليون دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "القطاع الخاص",
+          "value": "49.964"
+        },
+        {
+          "label": "الحكومة المركزية",
+          "value": "31.426"
+        },
+        {
+          "label": "المؤسسات العامة",
+          "value": "23.485"
+        }
+      ],
+      "broll": "images/news/2026-08-27-d-banks-six-trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-27-d-banks-six-trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "ودائع المصارف نزلت 6.19 تريليون بنص سنة (محتسب من رقمي البنك المركزي · شفق نيوز)",
+    "104.875 تريليون دينار في 30 حزيران 2026، بعد 111.065 تريليوناً في 31 كانون الأول 2025 (شفق نيوز)",
+    "نسبة الانخفاض 5.6% خلال النصف الأول من 2026 (شفق نيوز)",
+    "الائتمان النقدي 71.511 تريليون دينار في حزيران بعد 75.584 تريليوناً في كانون الأول (شفق نيوز)",
+    "ودائع القطاع الخاص 49.964 تريليون دينار والحكومة المركزية 31.426 تريليوناً (شفق نيوز)",
+    "المؤسسات العامة 23.485 تريليون دينار من إجمالي ودائع حزيران (شفق نيوز)",
+    "عندك حساب بمصرف عراقي لو لا؟"
+  ]
+}

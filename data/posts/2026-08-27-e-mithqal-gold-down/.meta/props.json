@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 27 • 2026",
+  "arabicDateLabel": "27 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "ذهب",
+    "arabicHeadline": "المثقال نزل 13 ألف دينار عن الأربعاء",
+    "englishSubhead": "BAGHDAD WHOLESALE 22K | 995,000 IQD | DOWN 13,000 VS WED | IRAQI 22K 965,000",
+    "heroMedia": "images/news/2026-08-27-e-mithqal-gold-down/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المثقال الخليجي فقد 13 ألف دينار",
+      "arabicBody": "في جملة شارع النهر ببغداد، بيع المثقال الخليجي عيار 22 بـ995,000 دينار وشراؤه 991,000، بعد 1,008,000 يوم الأربعاء، بفارق 13,000 دينار (شفق نيوز · محتسب).",
+      "bigStat": {
+        "value": "13,000",
+        "label": "IQD — the fall in the Baghdad wholesale selling price of one Gulf 22-karat mithqal since Wednesday",
+        "arabicLabel": "الفارق بين سعر بيع المثقال الخليجي عيار 22 اليوم 995,000 دينار وسعر الأربعاء 1,008,000 دينار في أسواق الجملة بشارع النهر، محتسب من رقمي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع اليوم",
+          "value": "995,000"
+        },
+        {
+          "label": "الأربعاء",
+          "value": "1,008,000"
+        },
+        {
+          "label": "الفارق",
+          "value": "13,000"
+        }
+      ],
+      "broll": "images/news/2026-08-27-e-mithqal-gold-down/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-27-e-mithqal-gold-down/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "العراقي أرخص بـ30 ألف دينار",
+      "arabicBody": "مثقال الذهب العراقي عيار 22 بيع بـ965,000 دينار وشراء 961,000 في أسواق الجملة، أي أقل بـ30,000 من الخليجي، بيعاً مقابل بيع (شفق نيوز · محتسب).",
+      "bigStat": {
+        "value": "965,000",
+        "label": "IQD — wholesale selling price of one Iraqi 22-karat mithqal, 30,000 below the Gulf mithqal",
+        "arabicLabel": "سعر بيع مثقال الذهب العراقي عيار 22 في أسواق الجملة ببغداد، مقابل 995,000 دينار للخليجي، محتسب بيعاً مقابل بيع (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "عراقي بيع",
+          "value": "965,000"
+        },
+        {
+          "label": "خليجي بيع",
+          "value": "995,000"
+        },
+        {
+          "label": "الفارق",
+          "value": "30,000"
+        }
+      ],
+      "broll": "images/news/2026-08-27-e-mithqal-gold-down/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-27-e-mithqal-gold-down/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "في أربيل سعر مختلف لكل عيار",
+      "arabicBody": "في أربيل بيع عيار 22 بـ1,032,000 دينار وعيار 21 بـ985,000 وعيار 18 بـ845,000، والتسعير يقوم على الأونصة عالمياً والدولار محلياً، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "1,032,000",
+        "label": "IQD — the Erbil selling price of one 22-karat mithqal today",
+        "arabicLabel": "سعر بيع مثقال عيار 22 في أربيل اليوم، فيما بلغ عيار 21 مقدار 985,000 دينار وعيار 18 مقدار 845,000 (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل ع22",
+          "value": "1,032,000"
+        },
+        {
+          "label": "أربيل ع21",
+          "value": "985,000"
+        },
+        {
+          "label": "أربيل ع18",
+          "value": "845,000"
+        }
+      ],
+      "broll": "images/news/2026-08-27-e-mithqal-gold-down/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-27-e-mithqal-gold-down/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بيع مثقال الذهب الخليجي عيار 22 في جملة بغداد: 995,000 دينار (شفق نيوز)",
+    "وكان 1,008,000 دينار يوم الأربعاء — فارق 13,000 دينار (محتسب)",
+    "مثقال الذهب العراقي عيار 22: بيع 965,000 وشراء 961,000 (شفق نيوز)",
+    "الفارق بين العراقي والخليجي 30,000 دينار بيعاً مقابل بيع (محتسب)",
+    "أربيل: عيار 22 بـ1,032,000 وعيار 21 بـ985,000 وعيار 18 بـ845,000 (شفق نيوز)",
+    "الذهب يُسعّر بالأونصة عالمياً مع الدولار محلياً (شفق نيوز)",
+    "اشتريت ذهب هالسنة لو لا؟"
+  ]
+}

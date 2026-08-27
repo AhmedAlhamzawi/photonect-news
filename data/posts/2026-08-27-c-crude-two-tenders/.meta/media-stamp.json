@@ -1,0 +1,21 @@
+{
+  "slug": "2026-08-27-c-crude-two-tenders",
+  "date": "2026-08-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1014706,
+      "sha256": "af5a2e255d1e3da1"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 755363,
+      "sha256": "dcc96a7851c70b80"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1219001,
+      "sha256": "b4e56fd933268be0"
+    }
+  ]
+}

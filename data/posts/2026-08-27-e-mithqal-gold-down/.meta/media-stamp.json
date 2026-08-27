@@ -1,0 +1,21 @@
+{
+  "slug": "2026-08-27-e-mithqal-gold-down",
+  "date": "2026-08-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 787200,
+      "sha256": "f41feda25391a1e2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1232625,
+      "sha256": "47d749d62d5a663f"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1033276,
+      "sha256": "bf144432146223b2"
+    }
+  ]
+}

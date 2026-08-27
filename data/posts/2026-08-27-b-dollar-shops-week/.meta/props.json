@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 27 • 2026",
+  "arabicDateLabel": "27 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "بـ8 أيام.. تدفع 154 ألف بدل 155",
+    "englishSubhead": "BAGHDAD SHOP SELL 154,000 PER $100 TODAY VS 155,000 ON 19 AUG (SELL VS SELL) | BOURSE 153,550 VS 154,250 WED | ERBIL SELL 153,750",
+    "heroMedia": "images/news/2026-08-27-b-dollar-shops-week/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بورصة الكفاح صباح اليوم 153,550 بعد 154,250",
+      "arabicBody": "سجلت بورصتا الكفاح والحارثية 153,550 ديناراً لكل 100 دولار صباح اليوم، مقابل 154,250 ديناراً صباح أمس الأربعاء — فارق الصباحين 700 دينار (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "153,550",
+        "label": "IQD per $100 at the Baghdad bourses this morning, against 154,250 yesterday morning",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية لكل 100 دولار صباح الخميس 27 آب 2026، مقابل 154,250 ديناراً صباح الأربعاء (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة اليوم",
+          "value": "153,550"
+        },
+        {
+          "label": "صباح أمس",
+          "value": "154,250"
+        },
+        {
+          "label": "فارق الصباحين",
+          "value": "700"
+        }
+      ],
+      "broll": "images/news/2026-08-27-b-dollar-shops-week/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-27-b-dollar-shops-week/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سعر بيع المحال نزل 1,000 دينار بثمانية أيام",
+      "arabicBody": "محال الصيرفة ببغداد تبيع 100 دولار اليوم بـ154,000 دينار، وكان سعر البيع 155,000 يوم 19 آب، أي أقل بـ1,000 (محتسب، بيع مقابل بيع · شفق نيوز).",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD — how much lower the Baghdad shop SELLING price is than on 19 August (sell vs sell)",
+        "arabicLabel": "الفارق بين سعر بيع محال بغداد اليوم 154,000 دينار وسعر البيع في 19 آب البالغ 155,000 دينار، محتسب من رقمي شفق نيوز وكلاهما سعر بيع"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع اليوم",
+          "value": "154,000"
+        },
+        {
+          "label": "بيع 19 آب",
+          "value": "155,000"
+        },
+        {
+          "label": "أقل بـ",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-08-27-b-dollar-shops-week/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-27-b-dollar-shops-week/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "أربيل تبيع بـ153,750 — أرخص بـ250 من بغداد",
+      "arabicBody": "في أربيل سعر البيع 153,750 ديناراً لكل 100 دولار والشراء 153,700 — أي أرخص بـ250 ديناراً من سعر بيع محال بغداد (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "250",
+        "label": "IQD — how much cheaper Erbil's SELLING price is than Baghdad's shop SELLING price (like for like)",
+        "arabicLabel": "الفارق بين سعر البيع في أربيل 153,750 ديناراً وسعر البيع في محال بغداد 154,000 دينار لكل 100 دولار، محتسب من رقمي شفق نيوز وكلاهما سعر بيع"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع أربيل",
+          "value": "153,750"
+        },
+        {
+          "label": "بيع بغداد",
+          "value": "154,000"
+        },
+        {
+          "label": "أربيل أرخص بـ",
+          "value": "250"
+        }
+      ],
+      "broll": "images/news/2026-08-27-b-dollar-shops-week/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-27-b-dollar-shops-week/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بالمحل تدفع 154 ألف بدل 155 — بيع محال بغداد 154,000 دينار لكل 100 دولار (شفق نيوز)",
+    "سعر البيع نفسه كان 155,000 دينار يوم 19 آب، أي أقل بـ1,000 اليوم (محتسب · بيع مقابل بيع)",
+    "محال بغداد اليوم: بيع 154,000 وشراء 153,000 لكل 100 دولار (شفق نيوز)",
+    "بورصتا الكفاح والحارثية صباح اليوم: 153,550 ديناراً لكل 100 دولار (شفق نيوز)",
+    "صباح أمس الأربعاء 154,250 ديناراً — فارق الصباحين 700 دينار (محتسب)",
+    "أربيل: بيع 153,750 وشراء 153,700 لكل 100 دولار (شفق نيوز)",
+    "بأي سعر اشتريت الدولار آخر مرة؟"
+  ]
+}

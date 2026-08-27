@@ -1,0 +1,124 @@
+{
+  "dateLabel": "AUG 27 • 2026",
+  "arabicDateLabel": "27 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "مشتقات",
+    "arabicHeadline": "بنزينك مستثنى.. ورفع الدعم يبدأ 1 أيلول",
+    "englishSubhead": "SUBSIDIES LIFTED 1 SEPTEMBER | ALL SECTORS | 4 CITIZEN PRODUCTS EXEMPT | ANNOUNCED 19 AUGUST",
+    "heroMedia": "images/news/2026-08-27-a-mazot-subsidy-september/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الدعم يُرفع من الأول من أيلول",
+      "arabicBody": "أقرّت الحكومة رفع الدعم عن أسعار المنتجات النفطية للقطاعات كافة اعتباراً من 1 أيلول 2026، بحسب بيان المكتب الإعلامي لرئيس الوزراء الصادر في 19 آب.",
+      "bigStat": {
+        "value": "1 أيلول",
+        "label": "the date the lifting of petroleum-product subsidies takes effect for all sectors",
+        "arabicLabel": "تاريخ نفاذ قرار رفع الدعم عن أسعار المنتجات النفطية للقطاعات كافة، وفق بيان المكتب الإعلامي لرئيس الوزراء في 19 آب 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "تاريخ النفاذ",
+          "value": "1 أيلول"
+        },
+        {
+          "label": "تاريخ الإعلان",
+          "value": "19 آب"
+        },
+        {
+          "label": "النطاق",
+          "value": "كل القطاعات"
+        }
+      ],
+      "broll": "images/news/2026-08-27-a-mazot-subsidy-september/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-27-a-mazot-subsidy-september/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أربع مواد مستثناة للمواطنين حصراً",
+      "arabicBody": "استثنى القرار المنتجات الرئيسة المجهزة للمواطنين حصراً وهي البنزين وزيت الغاز والنفط الأبيض والغاز السائل، بحسب بيان المكتب الإعلامي لرئيس الوزراء.",
+      "bigStat": {
+        "value": "4",
+        "label": "products explicitly exempted as supplied to citizens: gasoline, gas oil, kerosene and LPG",
+        "arabicLabel": "المواد المستثناة من رفع الدعم بوصفها المنتجات الرئيسة المجهزة للمواطنين حصراً، وفق بيان المكتب الإعلامي لرئيس الوزراء"
+      },
+      "supportingStats": [
+        {
+          "label": "بنزين",
+          "value": "مستثنى"
+        },
+        {
+          "label": "زيت الغاز",
+          "value": "مستثنى"
+        },
+        {
+          "label": "الغاز السائل",
+          "value": "مستثنى"
+        }
+      ],
+      "broll": "images/news/2026-08-27-a-mazot-subsidy-september/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-27-a-mazot-subsidy-september/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ما خارج القائمة بلا دعم",
+      "arabicBody": "كل ما هو خارج قائمة الاستثناء يُشترى بسعر غير مدعوم من مطلع أيلول، والبيان لم يذكر أسعاراً جديدة ولا تفاصيل تطبيق، بحسب المكتب الإعلامي لرئيس الوزراء.",
+      "bigStat": {
+        "value": "5",
+        "label": "days between this reel and the date the decision takes effect on 1 September 2026",
+        "arabicLabel": "عدد الأيام بين 27 آب 2026 وتاريخ نفاذ القرار في 1 أيلول 2026، محتسب"
+      },
+      "supportingStats": [
+        {
+          "label": "أيام حتى النفاذ",
+          "value": "5"
+        },
+        {
+          "label": "أسعار معلنة",
+          "value": "لا"
+        },
+        {
+          "label": "الجهة",
+          "value": "مجلس الوزراء"
+        }
+      ],
+      "broll": "images/news/2026-08-27-a-mazot-subsidy-september/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-27-a-mazot-subsidy-september/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "المكتب الإعلامي لرئيس الوزراء",
+      "domain": "pmo.iq"
+    }
+  ],
+  "arabicTicker": [
+    "الدعم يُرفع عن أسعار المنتجات النفطية للقطاعات كافة اعتباراً من 1 أيلول 2026 (المكتب الإعلامي لرئيس الوزراء)",
+    "القرار أُعلن في 19 آب 2026 ويبدأ العمل به في 1 أيلول (المكتب الإعلامي لرئيس الوزراء)",
+    "الاستثناء: المنتجات الرئيسة المجهزة للمواطنين حصراً (المكتب الإعلامي لرئيس الوزراء)",
+    "المواد المستثناة أربع: البنزين وزيت الغاز والنفط الأبيض والغاز السائل",
+    "البيان لم يتضمن أسعاراً جديدة معلنة ولا تفاصيل تطبيق",
+    "بالبيت تعتمد على الغاز السائل لو النفط الأبيض؟"
+  ]
+}
