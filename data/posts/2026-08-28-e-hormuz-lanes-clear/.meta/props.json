@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 28 • 2026",
+  "arabicDateLabel": "28 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "هرمز",
+    "arabicHeadline": "سنتكوم: ممرات هرمز خالية من الألغام الإيرانية",
+    "englishSubhead": "CENTCOM: HORMUZ LANES CLEAR | 750M BARRELS CLAIMED | IRAN DENIES HALT",
+    "heroMedia": "images/news/2026-08-28-e-hormuz-lanes-clear/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "كوبر: ممرات العبور خالية من الألغام",
+      "arabicBody": "قال الأدميرال براد كوبر إن ممرات العبور المعترف بها دولياً في هرمز باتت خالية تماماً من الألغام البحرية الإيرانية (شفق نيوز).",
+      "bigStat": {
+        "value": "1,500",
+        "label": "vessels CENTCOM says it assisted",
+        "arabicLabel": "سفن ساعدتها سنتكوم"
+      },
+      "supportingStats": [
+        {
+          "label": "سفينة تجارية",
+          "value": "1,500"
+        },
+        {
+          "label": "الجهة",
+          "value": "سنتكوم"
+        },
+        {
+          "label": "الصفة",
+          "value": "تصريح"
+        }
+      ],
+      "broll": "images/news/2026-08-28-e-hormuz-lanes-clear/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-28-e-hormuz-lanes-clear/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "سنتكوم تعلن ممرات هرمز خالية من الألغام",
+        "1,500 سفينة تجارية ساعدتها القيادة المركزية",
+        "لكن الرقم منسوب لطرف في النزاع"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "سنتكوم: 750 مليون برميل عبرت المضيق",
+      "arabicBody": "تحدثت القيادة المركزية عن 750 مليون برميل عبرت، و75 سفينة أعادتها القوات الأميركية، فيما قال بيسنت إنهم نقلوا 130 مليون برميل خلال أسبوعين (شفق نيوز).",
+      "bigStat": {
+        "value": "750M",
+        "label": "barrels CENTCOM says crossed Hormuz",
+        "arabicLabel": "برميل بحسب سنتكوم"
+      },
+      "supportingStats": [
+        {
+          "label": "برميل عبرت",
+          "value": "750 مليون"
+        },
+        {
+          "label": "بيسنت/الخزانة",
+          "value": "130 مليون"
+        },
+        {
+          "label": "أعادتها واشنطن",
+          "value": "75"
+        }
+      ],
+      "broll": "images/news/2026-08-28-e-hormuz-lanes-clear/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-28-e-hormuz-lanes-clear/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "القيادة المركزية تعدّ البراميل والسفن",
+        "750 مليون برميل و75 سفينة أُعيدت",
+        "بيسنت يضيف 130 مليون برميل في أسبوعين"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "طهران: مبيعاتنا مستمرة رغم الحصار",
+      "arabicBody": "قال وزير النفط الإيراني إن مبيعات بلاده مستمرة رغم الحصار الأميركي. وتقرير شفق نيوز عن تصريحات القيادة المركزية لم يتضمن أي ذكر للعراق (شفق نيوز).",
+      "bigStat": {
+        "value": "20+",
+        "label": "warships CENTCOM says are deployed",
+        "arabicLabel": "سفينة حربية"
+      },
+      "supportingStats": [
+        {
+          "label": "سفن حربية",
+          "value": "20+"
+        },
+        {
+          "label": "رد طهران",
+          "value": "المبيعات مستمرة"
+        },
+        {
+          "label": "الممر",
+          "value": "هرمز"
+        }
+      ],
+      "broll": "images/news/2026-08-28-e-hormuz-lanes-clear/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-28-e-hormuz-lanes-clear/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "طهران تنفي أن مبيعاتها توقفت",
+        "أكثر من 20 سفينة حربية بحسب سنتكوم",
+        "ولا ذكر للعراق في تصريحات القيادة المركزية"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "سنتكوم: ممرات هرمز خالية من الألغام الإيرانية",
+    "الأدميرال براد كوبر يتحدث عن مساعدة 1,500 سفينة تجارية على عبور المضيق (شفق نيوز)",
+    "القيادة المركزية: 750 مليون برميل عبرت، و75 سفينة أُجبرت على العودة، وأكثر من 20 سفينة حربية",
+    "وزير الخزانة سكوت بيسنت: نقلنا 130 مليون برميل عبر هرمز خلال الأسبوعين الماضيين",
+    "وزير النفط الإيراني: مبيعات بلادنا مستمرة رغم الحصار الأميركي (شفق نيوز، 27 آب)",
+    "كل الأرقام منسوبة إلى أصحابها ولم يجرِ التحقق منها من طرف مستقل",
+    "تأثرت شغلتك من أزمة هرمز هالصيف؟"
+  ]
+}

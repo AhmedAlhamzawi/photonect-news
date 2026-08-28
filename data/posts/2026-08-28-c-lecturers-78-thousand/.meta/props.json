@@ -1,0 +1,141 @@
+{
+  "dateLabel": "AUG 28 • 2026",
+  "arabicDateLabel": "28 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "محاضرو إقليم كوردستان: 78 ألفاً بلا تثبيت.. وراتب تموز ما وصل",
+    "englishSubhead": "78,000 LECTURERS | 400-500K DINARS | JULY UNPAID | 3 SCENARIOS",
+    "heroMedia": "images/news/2026-08-28-c-lecturers-78-thousand/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "وفد المحاضرين يزور وزارة التربية الاثنين",
+      "arabicBody": "قال ممثل المحاضرين محمد كمال لشفق نيوز إن وفداً زار وزارة التربية في الإقليم الاثنين، مطالباً بتثبيت نحو 78 ألف محاضر مجاني على الملاك.",
+      "bigStat": {
+        "value": "78,000",
+        "label": "free lecturers awaiting payroll status",
+        "arabicLabel": "محاضر مجاني"
+      },
+      "supportingStats": [
+        {
+          "label": "محاضر مجاني",
+          "value": "78,000"
+        },
+        {
+          "label": "بدء التحرك",
+          "value": "الاثنين"
+        },
+        {
+          "label": "المصدر",
+          "value": "محمد كمال"
+        }
+      ],
+      "subtitlePhrases": [
+        "وفد المحاضرين يبدأ تحركه الاثنين",
+        "78 ألف محاضر مجاني ينتظرون التثبيت",
+        "والباب الأول كان وزارة التربية"
+      ],
+      "broll": "images/news/2026-08-28-c-lecturers-78-thousand/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-28-c-lecturers-78-thousand/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الراتب 400 إلى 500 ألف.. وتموز لم يصل",
+      "arabicBody": "ما يتقاضاه المحاضر شهرياً يتراوح بين 400 و500 ألف دينار، ولم تصل مستحقات تموز حتى الآن، وحذّر كمال من إضرابات ومقاطعة للدروس (شفق نيوز).",
+      "bigStat": {
+        "value": "400–500",
+        "label": "thousand dinars paid monthly",
+        "arabicLabel": "الراتب الشهري"
+      },
+      "supportingStats": [
+        {
+          "label": "الراتب الشهري",
+          "value": "400–500 ألف"
+        },
+        {
+          "label": "مستحقات تموز",
+          "value": "لم تصل"
+        },
+        {
+          "label": "التحذير",
+          "value": "إضراب محتمل"
+        }
+      ],
+      "subtitlePhrases": [
+        "راتب شهري بين 400 و500 ألف دينار",
+        "ومستحقات تموز لم تصل حتى الآن",
+        "وكمال يحذّر من مقاطعة الدروس"
+      ],
+      "broll": "images/news/2026-08-28-c-lecturers-78-thousand/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-28-c-lecturers-78-thousand/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "ثلاثة سيناريوهات مطروحة.. ولا قرار حتى الآن",
+      "arabicBody": "شفق نيوز: ثلاثة سيناريوهات مطروحة بلا حسم: موازنة 2027 بشرط شمول محاضري الوسط والجنوب، أو إكمال بغداد فرق الراتب، أو ملء درجات 12 ألف معلم شاغرة.",
+      "bigStat": {
+        "value": "12,000",
+        "label": "vacant teaching posts, two years",
+        "arabicLabel": "نحو 12 ألف درجة شاغرة"
+      },
+      "supportingStats": [
+        {
+          "label": "سيناريوهات",
+          "value": "3 مطروحة"
+        },
+        {
+          "label": "درجات شاغرة",
+          "value": "12,000"
+        },
+        {
+          "label": "الموازنة",
+          "value": "2027"
+        }
+      ],
+      "subtitlePhrases": [
+        "ثلاثة سيناريوهات مطروحة لا قرار فيها",
+        "موازنة 2027 أو فرق راتب من بغداد",
+        "أو 12 ألف درجة لمتقاعدين ومتوفّين",
+        "ولا قرار حُسم في أي منها"
+      ],
+      "broll": "images/news/2026-08-28-c-lecturers-78-thousand/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-28-c-lecturers-78-thousand/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "محاضرو إقليم كوردستان: 78 ألفاً بلا تثبيت.. وراتب تموز ما وصل",
+    "محمد كمال لشفق نيوز: وفد المحاضرين بدأ تحركاته الاثنين بزيارة وزارة التربية في الإقليم",
+    "الراتب الشهري الحالي بين 400 و500 ألف دينار، ومستحقات تموز لم تصل حتى الآن",
+    "السيناريو الأول المطروح: إدراجهم في موازنة 2027 بشرط شمول محاضري الوسط والجنوب",
+    "السيناريو الثاني المطروح: يستمر الإقليم بالدفع الحالي وتكمل بغداد فرق الراتب بعد التثبيت",
+    "السيناريو الثالث المطروح: ملء درجات نحو 12 ألف معلم أحيلوا للتقاعد أو توفوا خلال سنتين",
+    "راتبك وصل بموعده هالشهر لو تأخر؟"
+  ]
+}

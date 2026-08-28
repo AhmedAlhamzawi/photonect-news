@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 28 • 2026",
+  "arabicDateLabel": "28 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "فرق البيع والشراء بمحال بغداد 1,000 دينار.. وبأربيل 50 (محتسب)",
+    "englishSubhead": "BAGHDAD SPREAD 1,000 | ERBIL 50 | SPREADS = OUR MATH | THU 27 AUG",
+    "heroMedia": "images/news/2026-08-28-b-dollar-spread-shops/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بمحال بغداد: بيع 154,250 وشراء 153,250",
+      "arabicBody": "أمس الخميس باعت محال الصيرفة ببغداد الـ100 دولار بـ154,250 ديناراً واشترتها بـ153,250 — بينهما 1,000 دينار (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD spread per $100, Baghdad shops",
+        "arabicLabel": "الفارق بين سعر بيع محال الصيرفة ببغداد 154,250 وسعر شرائها 153,250 لكل 100 دولار، محتسب من رقمي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "154,250"
+        },
+        {
+          "label": "شراء بغداد",
+          "value": "153,250"
+        },
+        {
+          "label": "الفارق",
+          "value": "1,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-08-28-b-dollar-spread-shops/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-28-b-dollar-spread-shops/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محال الصيرفة ببغداد أمس الخميس",
+        "بيع 154,250 وشراء 153,250 لكل 100 دولار",
+        "بين السعرين 1,000 دينار (محتسب)"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بأربيل الفارق نفسه 50 ديناراً فقط",
+      "arabicBody": "بمحال أربيل: بيع 153,750 وشراء 153,700، أي 50 ديناراً مقابل 1,000 ببغداد — عشرون ضعفاً (محتسب)، ومحال مقابل محال (شفق نيوز).",
+      "bigStat": {
+        "value": "50",
+        "label": "IQD spread per $100, Erbil shops",
+        "arabicLabel": "الفارق بين سعر البيع 153,750 وسعر الشراء 153,700 في محال أربيل لكل 100 دولار، مقابل 1,000 في محال بغداد، محتسب من أرقام شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع أربيل",
+          "value": "153,750"
+        },
+        {
+          "label": "شراء أربيل",
+          "value": "153,700"
+        },
+        {
+          "label": "الفارق",
+          "value": "50 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-08-28-b-dollar-spread-shops/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-28-b-dollar-spread-shops/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أربيل: بيع 153,750 وشراء 153,700",
+        "الفارق 50 ديناراً مقابل 1,000 ببغداد",
+        "محال مقابل محال — 20 ضعفاً (محتسب)"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "واليوم الجمعة البورصة متوقفة",
+      "arabicBody": "بورصتا الكفاح والحارثية أغلقتا الخميس على 153,800 بعد 153,550 صباح اليوم نفسه — 250 ديناراً بالجلسة (محتسب · شفق نيوز). واليوم الجمعة متوقفتان.",
+      "bigStat": {
+        "value": "153,800",
+        "label": "IQD per $100, Thursday bourse close",
+        "arabicLabel": "إغلاق بورصتي الكفاح والحارثية الخميس 27 آب 2026 لكل 100 دولار، مقابل 153,550 ديناراً صباح اليوم نفسه (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "إغلاق الخميس",
+          "value": "153,800"
+        },
+        {
+          "label": "صباح الخميس",
+          "value": "153,550"
+        },
+        {
+          "label": "الصباح للإغلاق",
+          "value": "250 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-08-28-b-dollar-spread-shops/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-28-b-dollar-spread-shops/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الكفاح والحارثية أغلقتا على 153,800",
+        "بعد 153,550 صباح الخميس نفسه (شفق نيوز)",
+        "واليوم الجمعة لا سعر بورصة أصلاً"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "فرق البيع والشراء بمحال بغداد 1,000 دينار.. وبأربيل 50 (محتسب)",
+    "محال الصيرفة ببغداد أمس الخميس: بيع 154,250 وشراء 153,250 لكل 100 دولار (شفق نيوز)",
+    "بين سعري البيع والشراء في محال بغداد 1,000 دينار لكل 100 دولار (محتسب)",
+    "أربيل أمس: بيع 153,750 وشراء 153,700 — الفارق 50 ديناراً فقط (محتسب · شفق نيوز)",
+    "محال مقابل محال: فارق بغداد 20 ضعف فارق أربيل لكل 100 دولار (محتسب)",
+    "البورصة أغلقت الخميس على 153,800 بعد 153,550 صباحاً، واليوم الجمعة متوقفة (شفق نيوز)",
+    "شكد الفرق بين البيع والشراء بصيرفة محلتك؟"
+  ]
+}

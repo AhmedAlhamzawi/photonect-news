@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 28 • 2026",
+  "arabicDateLabel": "28 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد",
+    "arabicHeadline": "طابو المثنى: أكثر من 90 معاملة مزوّرة و61 موقوفاً",
+    "englishSubhead": "61 ARRESTED | 90+ FORGED FILES | ~2BN DINARS | UNDER INVESTIGATION",
+    "heroMedia": "images/news/2026-08-28-a-lands-muthanna-61/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الأمن الوطني: تفكيك شبكة تزوير أراضٍ بالمثنى",
+      "arabicBody": "أعلن جهاز الأمن الوطني توقيف 61 متهماً في شبكة يقول إنها متورطة بتزوير معاملات ومحاضر قطع الأراضي والتسجيل العقاري بالمثنى (شفق نيوز).",
+      "bigStat": {
+        "value": "61",
+        "label": "ARRESTED — SUSPECTS UNDER INVESTIGATION",
+        "arabicLabel": "موقوفون قيد التحقيق"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفاً",
+          "value": "61"
+        },
+        {
+          "label": "المحافظة",
+          "value": "المثنى"
+        },
+        {
+          "label": "الجهة",
+          "value": "الأمن الوطني"
+        }
+      ],
+      "broll": "images/news/2026-08-28-a-lands-muthanna-61/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-28-a-lands-muthanna-61/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بيان جهاز الأمن الوطني من المثنى",
+        "توقيف 61 متهماً في ملف الأراضي",
+        "ومنهم موظفون ومحامون وأصحاب مكاتب عقارية"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "أكثر من 90 معاملة مزوّرة كشفتها التحقيقات",
+      "arabicBody": "قال الجهاز إن التحقيقات كشفت أكثر من 90 معاملة مزوّرة في ملف الأراضي والتسجيل العقاري بالمحافظة، والتحقيق ما زال جارياً (شفق نيوز).",
+      "bigStat": {
+        "value": "90+",
+        "label": "FORGED TRANSACTIONS UNCOVERED SO FAR",
+        "arabicLabel": "معاملات مزوّرة"
+      },
+      "supportingStats": [
+        {
+          "label": "معاملة مزوّرة",
+          "value": "90+"
+        },
+        {
+          "label": "الملف",
+          "value": "التسجيل العقاري"
+        },
+        {
+          "label": "الحالة",
+          "value": "قيد التحقيق"
+        }
+      ],
+      "broll": "images/news/2026-08-28-a-lands-muthanna-61/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-28-a-lands-muthanna-61/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "التحقيقات كشفت أكثر من 90 معاملة مزوّرة",
+        "كلها في ملف الأراضي والتسجيل العقاري",
+        "والملف ما زال مفتوحاً قيد التحقيق"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "هدر بالمال العام يُقدّر بنحو ملياري دينار",
+      "arabicBody": "قدّر البيان الهدر في المال العام بنحو ملياري دينار، وبين الموقوفين موظفون ومحامون وأصحاب مكاتب عقارية، وجميعهم متهمون لم تصدر بحقهم أحكام (شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "BILLION DINARS — ESTIMATED PUBLIC LOSS",
+        "arabicLabel": "هدر مقدَّر بالدينار"
+      },
+      "supportingStats": [
+        {
+          "label": "هدر مقدَّر",
+          "value": "2 مليار دينار"
+        },
+        {
+          "label": "بينهم",
+          "value": "موظفون ومحامون"
+        },
+        {
+          "label": "أحكام صدرت",
+          "value": "لا شيء"
+        }
+      ],
+      "broll": "images/news/2026-08-28-a-lands-muthanna-61/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-28-a-lands-muthanna-61/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "البيان يقدّر الهدر بنحو ملياري دينار",
+        "الموقوفون متهمون قيد التحقيق",
+        "ولم تصدر بحقهم أحكام قضائية حتى الآن"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "طابو المثنى: أكثر من 90 معاملة مزوّرة و61 موقوفاً",
+    "جهاز الأمن الوطني يعلن تفكيك شبكة تزوير في ملف الأراضي بمحافظة المثنى (شفق نيوز)",
+    "البيان يقول إنه أوقف 61 متهماً، بينهم موظفون حكوميون ومحامون وأصحاب مكاتب عقارية",
+    "التحقيقات كشفت أكثر من 90 معاملة مزوّرة بمحاضر قطع الأراضي والتسجيل العقاري",
+    "الهدر في المال العام يُقدَّر بنحو ملياري دينار عراقي بحسب بيان الجهاز",
+    "جميع الموقوفين متهمون قيد التحقيق، ولم تصدر بحقهم أي أحكام قضائية حتى الآن",
+    "سؤال منفصل عن التحقيق: عندك معاملة طابو معلقة من شهور؟"
+  ]
+}

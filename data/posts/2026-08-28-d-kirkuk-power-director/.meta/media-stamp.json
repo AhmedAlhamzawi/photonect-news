@@ -1,0 +1,21 @@
+{
+  "slug": "2026-08-28-d-kirkuk-power-director",
+  "date": "2026-08-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 745753,
+      "sha256": "9ecb09cb1fe82363"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1172602,
+      "sha256": "d5c88828bbc201db"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1417517,
+      "sha256": "1f3866d11363f1e6"
+    }
+  ]
+}

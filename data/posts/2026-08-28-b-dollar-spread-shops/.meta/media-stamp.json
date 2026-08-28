@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-28-b-dollar-spread-shops",
+  "date": "2026-08-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1588278,
+      "sha256": "c471b99d64277ba6"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1373813,
+      "sha256": "3dbb4041e1a53aae"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 791062,
+      "sha256": "4a5f72a0617c0993"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1226839,
+      "sha256": "89331ad85e815b1c"
+    }
+  ]
+}

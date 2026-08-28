@@ -1,0 +1,125 @@
+{
+  "dateLabel": "AUG 28 • 2026",
+  "arabicDateLabel": "28 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كهرباء كركوك",
+    "arabicHeadline": "وزارة الكهرباء تنهي تكليف مدير فرع توزيع كركوك وتكلّف بديلاً بالوكالة",
+    "englishSubhead": "KIRKUK BRANCH | NEW ACTING DIRECTOR | 3-MONTH TERM | ADMIN ORDER",
+    "heroMedia": "images/news/2026-08-28-d-kirkuk-power-director/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الوزارة تنهي تكليف مدير فرع كركوك",
+      "arabicBody": "أمر إداري واحد غيّر إدارة فرع كهرباء كركوك: وزارة الكهرباء أنهت تكليف ليث طلعت علي مديراً لفرع التوزيع، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "وكالة",
+        "label": "THE KIRKUK BRANCH IS NOW RUN IN AN ACTING CAPACITY",
+        "arabicLabel": "إدارة الفرع بالوكالة"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظة",
+          "value": "كركوك"
+        },
+        {
+          "label": "القرار",
+          "value": "إنهاء تكليف"
+        },
+        {
+          "label": "الجهة",
+          "value": "وزارة الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-08-28-d-kirkuk-power-director/hero.jpg",
+      "brolls": [
+        "images/news/2026-08-28-d-kirkuk-power-director/hero.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "عميد صبحي صبري يدير الفرع وكالةً ثلاثة أشهر",
+      "arabicBody": "كلّفت الوزارة رئيس المهندسين المقيم الأقدم عميد صبحي صبري بإدارة قسم التخطيط، وبإدارة الفرع وكالةً لمدة ثلاثة أشهر، وفق شفق نيوز.",
+      "bigStat": {
+        "value": "3",
+        "label": "months in acting capacity",
+        "arabicLabel": "أشهر بالوكالة"
+      },
+      "supportingStats": [
+        {
+          "label": "الصفة",
+          "value": "وكالة"
+        },
+        {
+          "label": "المدة",
+          "value": "3 أشهر"
+        },
+        {
+          "label": "مهمة إضافية",
+          "value": "قسم التخطيط"
+        }
+      ],
+      "broll": "images/news/2026-08-28-d-kirkuk-power-director/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-28-d-kirkuk-power-director/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الوزارة لم تعلن سبباً لإنهاء التكليف",
+      "arabicBody": "لم يذكر الأمر الصادر عن وزارة الكهرباء أي سبب لإنهاء تكليف المدير السابق، ولم تُنسب في القرار أي مخالفة إلى أحد، وفق ما نشرته شفق نيوز.",
+      "bigStat": {
+        "value": "0",
+        "label": "REASONS STATED BY THE MINISTRY IN THE ORDER",
+        "arabicLabel": "أسباب أعلنتها الوزارة"
+      },
+      "supportingStats": [
+        {
+          "label": "سبب معلن",
+          "value": "لا يوجد"
+        },
+        {
+          "label": "مخالفات وردت",
+          "value": "لا شيء"
+        },
+        {
+          "label": "النشر",
+          "value": "27 آب 2026"
+        }
+      ],
+      "broll": "images/news/2026-08-28-d-kirkuk-power-director/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-28-d-kirkuk-power-director/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "وزارة الكهرباء تنهي تكليف مدير فرع توزيع كركوك وتكلّف بديلاً بالوكالة",
+    "شفق نيوز: الأمر صدر عن وزارة الكهرباء وشمل مدير فرع توزيع كهرباء كركوك ليث طلعت علي",
+    "عميد صبحي صبري، رئيس المهندسين المقيم الأقدم، يتولى إدارة الفرع وكالةً لمدة ثلاثة أشهر",
+    "التكليف الجديد يشمل أيضاً إدارة قسم التخطيط داخل فرع توزيع كهرباء كركوك، وفق شفق نيوز",
+    "الأمر المنشور لم يذكر أي سبب لإنهاء تكليف المدير السابق، بحسب ما أوردته شفق نيوز",
+    "ولم يتضمن الأمر أي رقم أو إشارة إلى ساعات تجهيز الكهرباء في محافظة كركوك",
+    "سؤال منفصل عن القرار: كم ساعة كهرباء وصلتك اليوم في كركوك؟"
+  ]
+}
