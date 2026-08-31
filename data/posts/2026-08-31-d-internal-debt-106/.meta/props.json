@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 31 • 2026",
+  "arabicDateLabel": "31 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_macro",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "دين داخلي",
+    "arabicHeadline": "بيانات المركزي: الدين الداخلي زاد 15.557 تريليون دينار بستة أشهر حتى حزيران",
+    "englishSubhead": "CBI DATA: IRAQ'S DOMESTIC PUBLIC DEBT HIT 106.072TN DINARS AT END-JUNE 2026, UP 15.557TN IN SIX MONTHS | SPENDING 46.697TN VS REVENUE 33.747TN TO END-MAY | GAP 12.950TN, OUR SUBTRACTION",
+    "heroMedia": "images/news/2026-08-31-d-internal-debt-106/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الدين الداخلي 106.072 تريليون بنهاية حزيران",
+      "arabicBody": "بيانات البنك المركزي العراقي: الدين العام الداخلي ارتفع إلى 106.072 تريليون دينار بنهاية حزيران 2026، مقابل 103.179 تريليوناً بنهاية أيار (شفق نيوز).",
+      "bigStat": {
+        "value": "106.072",
+        "label": "trillion dinars of domestic public debt at end-June 2026, per Central Bank data",
+        "arabicLabel": "حجم الدين العام الداخلي بنهاية حزيران 2026 بحسب بيانات البنك المركزي العراقي (شفق نيوز · 31 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "حزيران",
+          "value": "106.072"
+        },
+        {
+          "label": "أيار",
+          "value": "103.179"
+        },
+        {
+          "label": "المصدر",
+          "value": "المركزي"
+        }
+      ],
+      "broll": "images/news/2026-08-31-d-internal-debt-106/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-31-d-internal-debt-106/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بيانات البنك المركزي العراقي",
+        "الدين الداخلي 106.072 تريليون دينار",
+        "مقابل 103.179 تريليوناً بنهاية أيار"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "زاد 15.557 تريليوناً بستة أشهر",
+      "arabicBody": "بنهاية 2025 كان الدين 90.515 تريليون دينار، وبنهاية حزيران 2026 صار 106.072، أي 15.557 تريليوناً إضافية خلال ستة أشهر (شفق نيوز · البنك المركزي).",
+      "bigStat": {
+        "value": "15.557",
+        "label": "trillion dinars added to the domestic debt in the first six months of 2026",
+        "arabicLabel": "الزيادة في الدين العام الداخلي بين نهاية 2025 ونهاية حزيران 2026: من 90.515 إلى 106.072 تريليون دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "نهاية 2025",
+          "value": "90.515"
+        },
+        {
+          "label": "حزيران",
+          "value": "106.072"
+        },
+        {
+          "label": "الزيادة",
+          "value": "15.557"
+        }
+      ],
+      "broll": "images/news/2026-08-31-d-internal-debt-106/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-31-d-internal-debt-106/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بنهاية 2025 كان 90.515 تريليوناً",
+        "وبنهاية حزيران 2026 صار 106.072",
+        "زيادة 15.557 تريليوناً بستة أشهر"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "النفقات 46.697 والإيرادات 33.747 تريليوناً",
+      "arabicBody": "حتى نهاية أيار: نفقات 46.697 تريليون دينار مقابل إيرادات 33.747 تريليوناً، بفارق 12.950 تريليوناً محتسب من رقمي شفق نيوز. سمعت بهالرقم قبل اليوم؟",
+      "bigStat": {
+        "value": "12.950",
+        "label": "trillion dinar gap between spending and revenue to end-May — our subtraction",
+        "arabicLabel": "الفرق بين النفقات العامة 46.697 تريليون دينار والإيرادات العامة 33.747 تريليوناً حتى نهاية أيار، محتسب من رقمي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "نفقات",
+          "value": "46.697"
+        },
+        {
+          "label": "إيرادات",
+          "value": "33.747"
+        },
+        {
+          "label": "الفارق",
+          "value": "12.950 محتسب"
+        }
+      ],
+      "broll": "images/news/2026-08-31-d-internal-debt-106/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-31-d-internal-debt-106/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "النفقات العامة 46.697 تريليون دينار",
+        "والإيرادات 33.747 تريليوناً حتى أيار",
+        "الفارق 12.950 تريليوناً (محتسب)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بيانات المركزي: الدين الداخلي زاد 15.557 تريليون دينار بستة أشهر",
+    "الدين العام الداخلي بلغ 106.072 تريليون دينار بنهاية حزيران 2026 (شفق نيوز)",
+    "مقابل 103.179 تريليوناً بنهاية أيار، و90.515 تريليوناً بنهاية 2025",
+    "التوزيع: مطالبات وزارة المالية لصالح البنك المركزي 67.499، قروض 18.964، سندات 10.867، حوالات خزينة 8.742",
+    "النفقات العامة 46.697 تريليوناً مقابل إيرادات 33.747 تريليوناً حتى نهاية أيار",
+    "الفارق بينهما 12.950 تريليوناً، محتسب من رقمي شفق نيوز",
+    "سمعت بهالرقم قبل اليوم؟ جاوب بنعم أو لا"
+  ]
+}

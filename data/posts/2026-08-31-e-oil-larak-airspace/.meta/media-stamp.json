@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-31-e-oil-larak-airspace",
+  "date": "2026-08-31",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1139622,
+      "sha256": "4595319aec289acd"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1033136,
+      "sha256": "ac54107e71f7a9ab"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 965076,
+      "sha256": "d247b5ed8e6b08f7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 606822,
+      "sha256": "1015ea2a7a3d774c"
+    }
+  ]
+}

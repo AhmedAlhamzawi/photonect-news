@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 31 • 2026",
+  "arabicDateLabel": "31 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "الدولار ثابت لليوم الثاني.. وأربيل أرخص 550 ديناراً (محتسب)",
+    "englishSubhead": "BAGHDAD BOURSES FLAT AT 154,000 FOR A SECOND DAY | BAGHDAD SHOPS SELL 154,500, ERBIL SELLS 153,950 — A 550-DINAR GAP, SELL PRICE VS SELL PRICE, OUR OWN ARITHMETIC | MON 31 AUG MORNING",
+    "heroMedia": "images/news/2026-08-31-b-dollar-flat-second-day/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البورصة 154,000 لليوم الثاني بلا حراك",
+      "arabicBody": "سجلت بورصتا الكفاح والحارثية ببغداد صباح الاثنين 154,000 دينار لكل 100 دولار — نفس سعر الأحد بالضبط (شفق نيوز).",
+      "bigStat": {
+        "value": "154,000",
+        "label": "IQD per $100 — Baghdad bourses, unchanged for a second day",
+        "arabicLabel": "سعر بورصتي الكفاح والحارثية ببغداد صباح الاثنين: 154,000 دينار لكل 100 دولار، وهو نفس سعر الأحد (شفق نيوز · 31 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة",
+          "value": "154,000"
+        },
+        {
+          "label": "أمس الأحد",
+          "value": "154,000"
+        },
+        {
+          "label": "التغير",
+          "value": "0"
+        }
+      ],
+      "broll": "images/news/2026-08-31-b-dollar-flat-second-day/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-31-b-dollar-flat-second-day/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية صباح الاثنين",
+        "154,000 دينار لكل 100 دولار",
+        "نفس سعر الأحد بالضبط"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بغداد تبيع 154,500.. وأربيل 153,950",
+      "arabicBody": "سعر بيع محال الصيرفة ببغداد 154,500 لكل 100 دولار، وبأربيل 153,950 — أرخص بـ550 ديناراً، بيع مقابل بيع لا مقابل البورصة (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "550",
+        "label": "IQD cheaper per $100 in Erbil than in Baghdad shops, sell price vs sell price — our subtraction",
+        "arabicLabel": "الفارق بين سعر بيع محال الصيرفة ببغداد 154,500 وسعر البيع بأربيل 153,950 لكل 100 دولار، محتسب من رقمي شفق نيوز، ومقارنة سعر بيع بسعر بيع لا بالبورصة"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "154,500"
+        },
+        {
+          "label": "بيع أربيل",
+          "value": "153,950"
+        },
+        {
+          "label": "الفارق",
+          "value": "550 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-08-31-b-dollar-flat-second-day/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-31-b-dollar-flat-second-day/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بمحال بغداد سعر البيع 154,500",
+        "وسعر البيع بأربيل 153,950",
+        "أرخص بـ550 ديناراً، بيع مقابل بيع (محتسب)"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وإذا تبيع دولارك.. أربيل تدفع أكثر",
+      "arabicBody": "سعر الشراء بمحال بغداد 153,500 وبأربيل 153,850 — يعني بأربيل تقبض 350 ديناراً زيادة عن كل 100 دولار تبيعها (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "350",
+        "label": "IQD more per $100 paid for your dollars in Erbil than in Baghdad shops — our subtraction",
+        "arabicLabel": "الفارق بين سعر الشراء بأربيل 153,850 وسعر شراء محال بغداد 153,500 لكل 100 دولار، محتسب من رقمي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "شراء بغداد",
+          "value": "153,500"
+        },
+        {
+          "label": "شراء أربيل",
+          "value": "153,850"
+        },
+        {
+          "label": "لصالحك",
+          "value": "350 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-08-31-b-dollar-flat-second-day/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-31-b-dollar-flat-second-day/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "سعر الشراء بمحال بغداد 153,500",
+        "وبأربيل 153,850",
+        "بأربيل تقبض 350 ديناراً أكثر (محتسب)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "الدولار ثابت لليوم الثاني.. وأربيل أرخص 550 ديناراً (محتسب)",
+    "بورصتا الكفاح والحارثية ببغداد سجلتا 154,000 دينار لكل 100 دولار صباح الاثنين (شفق نيوز)",
+    "نفس سعر الأحد بالضبط — يومان بلا أي حراك في السعر",
+    "محال الصيرفة ببغداد: بيع 154,500 دينار وشراء 153,500 لكل 100 دولار",
+    "وفي أربيل: بيع 153,950 وشراء 153,850 — أرخص للشاري وأعلى للبائع (محتسب)",
+    "كل الفوارق محتسبة من أرقام شفق نيوز، ومقارنة سعر بيع بسعر بيع لا بالبورصة",
+    "شكد اشتريت الدولار اليوم بصيرفة محلتك؟"
+  ]
+}

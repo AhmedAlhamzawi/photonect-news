@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-31-c-salaries-august-last-day",
+  "date": "2026-08-31",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1098704,
+      "sha256": "e0699b8cc14c0e33"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 803792,
+      "sha256": "8c7ba7f352964643"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1110314,
+      "sha256": "8ad6f05b97da986c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1089052,
+      "sha256": "c2612bd5bcb0a38f"
+    }
+  ]
+}

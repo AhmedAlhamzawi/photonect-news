@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 31 • 2026",
+  "arabicDateLabel": "31 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "هرمز",
+    "arabicHeadline": "مصدر أمني: الطيران العابر توقف ساعات والنفط يقفز",
+    "englishSubhead": "BRENT UP 2.85% TO $90.61 AFTER A US STRIKE ON IRAN'S LARAK AND IRAN'S RESPONSE ON TWO US AIR BASES IN JORDAN | IRAQI SECURITY SOURCE: TRANSIT AVIATION PAUSED FOR HOURS OVERNIGHT, THEN NORMAL | NO OFFICIAL CLOSURE OR FLIGHT DELAY WAS DECLARED",
+    "heroMedia": "images/news/2026-08-31-e-oil-larak-airspace/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "برنت يصعد 2.85% إلى 90.61 دولاراً",
+      "arabicBody": "قفز برنت 2.51 دولار أو 2.85% إلى 90.61 دولاراً للبرميل، وغرب تكساس 2.13 دولار إلى 85.53، بعد ضربة أميركية على جزيرة لارك ورد إيراني (شفق نيوز).",
+      "bigStat": {
+        "value": "90.61",
+        "label": "dollars a barrel — Brent, up 2.85% on Monday",
+        "arabicLabel": "سعر خام برنت في تعاملات الاثنين بحسب شفق نيوز: 90.61 دولاراً للبرميل بارتفاع 2.51 دولار أو 2.85%، عند الساعة 05:41 بتوقيت بغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "90.61 $"
+        },
+        {
+          "label": "الارتفاع",
+          "value": "2.85%"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "85.53 $"
+        }
+      ],
+      "broll": "images/news/2026-08-31-e-oil-larak-airspace/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-31-e-oil-larak-airspace/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "برنت يقفز 2.85% إلى 90.61 دولاراً",
+        "وغرب تكساس إلى 85.53 دولاراً",
+        "بعد ضربة أميركية ورد إيراني"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مصدر أمني: الطيران توقف ساعات ثم عاد",
+      "arabicBody": "مصدر أمني عراقي لشفق نيوز: الطيران العابر توقف ساعات ثم عاد طبيعياً صباحاً، ولم يُعلن رسمياً أي إغلاق للأجواء أو تأخير للرحلات، تزامناً مع التطورات.",
+      "bigStat": {
+        "value": "0",
+        "label": "official airspace closures or flight delays were declared, per the Iraqi security source",
+        "arabicLabel": "لم يُعلن رسمياً أي إغلاق للأجواء العراقية أو تأخير للرحلات، بحسب مصدر أمني عراقي لم يكشف عن اسمه تحدث لشفق نيوز، رغم توقف الطيران العابر ساعات بعد منتصف الليل"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقف",
+          "value": "ساعات"
+        },
+        {
+          "label": "إغلاق رسمي",
+          "value": "لم يُعلن"
+        },
+        {
+          "label": "الوضع صباحاً",
+          "value": "طبيعي"
+        }
+      ],
+      "broll": "images/news/2026-08-31-e-oil-larak-airspace/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-31-e-oil-larak-airspace/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مصدر أمني عراقي: الطيران العابر توقف ساعات",
+        "بعد منتصف الليل، وعاد أولاً لرحلات أربيل",
+        "ولم يُعلن رسمياً أي إغلاق أو تأخير"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "مفاوضات هرمز بطريق مسدود والصراع بشهره السادس",
+      "arabicBody": "مفاوضات إنهاء الصراع وإعادة فتح هرمز وصلت إلى طريق مسدود، والمضيق كان يمر عبره نحو خُمس النفط العالمي قبل الحرب أواخر شباط (شفق نيوز).",
+      "bigStat": {
+        "value": "1/5",
+        "label": "of the world's oil passed through Hormuz before the war began in late February",
+        "arabicLabel": "حصة الممر البحري من النفط العالمي قبل اندلاع الحرب أواخر شباط: نحو خُمس النفط العالمي، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيق",
+          "value": "خُمس النفط"
+        },
+        {
+          "label": "المفاوضات",
+          "value": "طريق مسدود"
+        },
+        {
+          "label": "الصراع",
+          "value": "بشهره السادس"
+        }
+      ],
+      "broll": "images/news/2026-08-31-e-oil-larak-airspace/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-31-e-oil-larak-airspace/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مفاوضات إعادة فتح هرمز بطريق مسدود",
+        "والمضيق كان يمر عبره خُمس النفط العالمي",
+        "قبل الحرب أواخر شباط"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مصدر أمني: الطيران العابر توقف ساعات والنفط يقفز",
+    "برنت يرتفع 2.51 دولار أو 2.85% إلى 90.61 دولاراً للبرميل (شفق نيوز)",
+    "وغرب تكساس الوسيط يصعد 2.13 دولار إلى 85.53 دولاراً في تعاملات الاثنين",
+    "بعد هجوم أميركي على جزيرة لارك الإيرانية ورد إيراني استهدف قاعدتين جويتين بالأردن",
+    "مصدر أمني عراقي لم يكشف عن اسمه: الطيران العابر توقف ساعات ثم عاد طبيعياً صباحاً",
+    "ولم يُعلن رسمياً أي إغلاق للأجواء العراقية أو تأخير للرحلات، تزامناً مع التطورات",
+    "عندك سفرة من مطار عراقي هالأسبوع؟"
+  ]
+}

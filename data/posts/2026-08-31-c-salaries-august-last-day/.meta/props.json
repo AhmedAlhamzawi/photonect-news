@@ -1,0 +1,141 @@
+{
+  "dateLabel": "AUG 31 • 2026",
+  "arabicDateLabel": "31 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب آب",
+    "arabicHeadline": "آخر يوم بآب.. ورواتب وزارات ما وصلت",
+    "englishSubhead": "AUGUST'S LAST DAY, STAFF AT SEVERAL IRAQI MINISTRIES STILL UNPAID | FINANCE MINISTRY: FUNDING BEGAN 26 AUG, DISBURSEMENT IS GRADUAL BY ENTITY, SALARIES SECURED | BASRA UNIVERSITY STAFF STRUCK MONDAY",
+    "heroMedia": "images/news/2026-08-31-c-salaries-august-last-day/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "متابعات: الداخلية قبضت.. والتربية والصحة تنتظر",
+      "arabicBody": "بآخر يوم من آب، وبحسب متابعات شفق نيوز صُرفت رواتب الداخلية ودوائر أخرى، بينما موظفو التربية والتعليم العالي والكهرباء والصحة بعدهم ينتظرون راتبهم (شفق نيوز).",
+      "bigStat": {
+        "value": "0",
+        "label": "days left in August for the ministries still unpaid — Monday was the month's last day",
+        "arabicLabel": "31 آب آخر يوم في الشهر، وموظفو عدة وزارات لم تصلهم رواتب آب حتى صباح الاثنين (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "صُرفت",
+          "value": "الداخلية"
+        },
+        {
+          "label": "تنتظر",
+          "value": "التربية والصحة"
+        },
+        {
+          "label": "الموعد",
+          "value": "آخر يوم بآب"
+        }
+      ],
+      "broll": "images/news/2026-08-31-c-salaries-august-last-day/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-31-c-salaries-august-last-day/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "آخر يوم من شهر آب",
+        "متابعات شفق: الداخلية ودوائر أخرى صُرفت",
+        "والتربية والصحة والكهرباء بعدهم ينتظرون"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المالية: التمويل بدأ 26 آب والصرف تدريجي",
+      "arabicBody": "المالية أعلنت بدء التمويل في 26 آب وأن الصرف تدريجي بحسب الجهات، ووزير المالية فالح الساري: الكلفة الشهرية 7.7 تريليون دينار ومؤمّنة بالكامل (شفق نيوز).",
+      "bigStat": {
+        "value": "7.7",
+        "label": "trillion dinars — the monthly salary bill, which the finance minister says is fully secured",
+        "arabicLabel": "كلفة رواتب الدولة الشهرية كما ذكرها وزير المالية فالح الساري: نحو 7.7 تريليون دينار، وقال إنها مؤمّنة بالكامل، فيما تؤكد الحكومة ووزارة المالية أنه لا نية للتأخير أو الصرف كل 45 يوماً (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة الشهرية",
+          "value": "7.7 تريليون"
+        },
+        {
+          "label": "بدء التمويل",
+          "value": "26 آب"
+        },
+        {
+          "label": "موقف المالية",
+          "value": "مؤمّنة بالكامل"
+        }
+      ],
+      "broll": "images/news/2026-08-31-c-salaries-august-last-day/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-31-c-salaries-august-last-day/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المالية أعلنت بدء التمويل في 26 آب",
+        "والصرف يجري تدريجياً بحسب كل جهة",
+        "الوزير: 7.7 تريليون ومؤمّنة بالكامل",
+        "والحكومة والمالية: لا نية للتأخير أو للصرف كل 45 يوماً"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بالبصرة.. اعتصام موظفي الجامعة وإضراب عن الدوام",
+      "arabicBody": "أمام رئاسة جامعة البصرة، اعتصم الموظفون اليوم وأضربوا عن الدوام، وقال ممثلهم أزهر حسين لشفق نيوز إنهم مستمرون لحين الاستجابة لمطالبهم بالرواتب والعلاوات والترفيعات.",
+      "bigStat": {
+        "value": "البصرة",
+        "label": "the university whose staff struck on Monday, over delayed pay and stalled allowances",
+        "arabicLabel": "جامعة البصرة: اعتصام أمام مبنى رئاسة الجامعة وإضراب عن الدوام احتجاجاً على تأخر الرواتب والمطالبة بإنجاز العلاوات والترفيعات (شفق نيوز · 31 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "جامعة البصرة"
+        },
+        {
+          "label": "الخطوة",
+          "value": "إضراب واعتصام"
+        },
+        {
+          "label": "مطلب آخر",
+          "value": "العلاوات"
+        }
+      ],
+      "broll": "images/news/2026-08-31-c-salaries-august-last-day/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-31-c-salaries-august-last-day/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أمام رئاسة جامعة البصرة اليوم",
+        "اعتصام وإضراب عن الدوام",
+        "ومستمرون لحين الاستجابة لمطالبهم"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "آخر يوم بآب.. ورواتب وزارات ما وصلت",
+    "متابعات شفق نيوز تشير إلى صرف رواتب الداخلية ودوائر أخرى، فيما التربية والصحة والكهرباء بعدها تنتظر",
+    "المالية أعلنت في 26 آب مباشرتها بتمويل الرواتب، والصرف يجري تدريجياً بحسب الجهات",
+    "وزير المالية فالح الساري: كلفة الرواتب الشهرية نحو 7.7 تريليون دينار ومؤمّنة بالكامل",
+    "الحكومة ووزارة المالية: لا نية للتأخير ولا للصرف كل 45 يوماً (شفق نيوز)",
+    "بالبصرة: موظفو الجامعة اعتصموا وأضربوا عن الدوام لحين الاستجابة لمطالبهم (شفق نيوز)",
+    "راتب آب وصلك لو بعده ما وصل؟"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-31-d-internal-debt-106",
+  "date": "2026-08-31",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1163614,
+      "sha256": "d566b3d06bd8d130"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1258081,
+      "sha256": "0556fa50408984b0"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 504671,
+      "sha256": "c7dee9fe5489e0a0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1157073,
+      "sha256": "57828d54797a151c"
+    }
+  ]
+}

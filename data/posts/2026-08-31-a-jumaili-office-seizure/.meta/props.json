@@ -1,0 +1,140 @@
+{
+  "dateLabel": "AUG 31 • 2026",
+  "arabicDateLabel": "31 آب 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فساد",
+    "arabicHeadline": "بملف الجميلي: القضاء يعلن ضبط 7 مليارات دينار و35 عقاراً",
+    "englishSubhead": "IRAQ'S CENTRAL ANTI-CORRUPTION COURT SAYS IT SEIZED 7BN DINARS, $5.5M, 35 PROPERTIES AND 6 CARS FROM THE OFFICE DIRECTOR OF DETAINED OIL-MINISTRY UNDERSECRETARY FOR REFINING AFFAIRS ADNAN AL-JUMAILI | ALL NAMED MEN ARE ACCUSED AND IN CUSTODY — NO COURT HAS CONVICTED ANYONE",
+    "heroMedia": "images/news/2026-08-31-a-jumaili-office-seizure/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "محكمة مكافحة الفساد تعلن ضبط أموال وعقارات",
+      "arabicBody": "أعلنت محكمة جنايات مكافحة الفساد المركزية اليوم الاثنين ضبط 7 مليارات دينار و5.5 ملايين دولار و35 عقاراً و6 سيارات، ضمن تحقيق ما زال جارياً (شفق نيوز).",
+      "bigStat": {
+        "value": "7",
+        "label": "billion dinars seized, per the Central Anti-Corruption Felony Court",
+        "arabicLabel": "ما أعلنت محكمة جنايات مكافحة الفساد المركزية ضبطه: 7 مليارات دينار عراقي، إضافة إلى 5.5 ملايين دولار و35 عقاراً و6 سيارات (شفق نيوز · 31 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "دينار",
+          "value": "7 مليارات"
+        },
+        {
+          "label": "دولار",
+          "value": "5.5 ملايين"
+        },
+        {
+          "label": "عقاراً",
+          "value": "35"
+        }
+      ],
+      "broll": "images/news/2026-08-31-a-jumaili-office-seizure/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-08-31-a-jumaili-office-seizure/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محكمة جنايات مكافحة الفساد المركزية تعلن",
+        "7 مليارات دينار و5.5 ملايين دولار",
+        "و35 عقاراً و6 سيارات ضمن تحقيق جارٍ"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "المضبوطات تخص متهماً موقوفاً.. بلا أحكام",
+      "arabicBody": "إعلام القضاء: المضبوطات تخص المتهم الموقوف علاء محسن خلف، مدير مكتب المتهم الموقوف عدنان الجميلي وكيل وزارة النفط لشؤون التصفية، وكلاهما قيد التحقيق (شفق نيوز).",
+      "bigStat": {
+        "value": "0",
+        "label": "convictions announced — every man named is an accused detainee under investigation",
+        "arabicLabel": "لم يعلن أي حكم قضائي بحق أي من الاسمين: كلاهما «متهم موقوف» قيد التحقيق بحسب بيان إعلام القضاء (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الصفة",
+          "value": "متهم موقوف"
+        },
+        {
+          "label": "أحكام صدرت",
+          "value": "لا شيء"
+        },
+        {
+          "label": "الحالة",
+          "value": "قيد التحقيق"
+        }
+      ],
+      "broll": "images/news/2026-08-31-a-jumaili-office-seizure/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-08-31-a-jumaili-office-seizure/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المضبوطات تخص المتهم الموقوف علاء محسن خلف",
+        "مدير مكتب المتهم الموقوف عدنان الجميلي",
+        "وكلاهما قيد التحقيق بلا أحكام"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الملف مفتوح منذ نحو شهرين.. والذهب استُرجع",
+      "arabicBody": "الملف مفتوح منذ نحو شهرين ضمن ما سمي «صولة الفجر»، وسبق إعلان ضبط 20 مليون و340 ألف دولار واسترجاع 60 كيلوغراماً من الذهب (شفق نيوز).",
+      "bigStat": {
+        "value": "60",
+        "label": "kilograms of gold the judiciary earlier said it recovered in the same case file",
+        "arabicLabel": "الذهب الذي أعلن قاضي التحقيق سابقاً استرجاعه في القضية نفسها بالتنسيق مع إقليم كوردستان: 60 كيلوغراماً، مع 20 مليون و340 ألف دولار و200 مليون دينار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "عمر الملف",
+          "value": "نحو شهرين"
+        },
+        {
+          "label": "ذهب مسترجع",
+          "value": "60 كغم"
+        },
+        {
+          "label": "سبق ضبطه",
+          "value": "20.34 مليون $"
+        }
+      ],
+      "broll": "images/news/2026-08-31-a-jumaili-office-seizure/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-08-31-a-jumaili-office-seizure/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الملف مفتوح منذ نحو شهرين",
+        "وسبق إعلان ضبط 20 مليون و340 ألف دولار",
+        "واسترجاع 60 كيلوغراماً من الذهب"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بملف الجميلي: القضاء يعلن ضبط 7 مليارات دينار و35 عقاراً",
+    "المحكمة أعلنت أيضاً ضبط 5.5 ملايين دولار و6 سيارات ضمن تحقيق ما زال جارياً",
+    "إعلام القضاء: المضبوطات تخص المتهم الموقوف علاء محسن خلف، مدير مكتب المتهم الموقوف عدنان الجميلي",
+    "الجميلي وكيل وزارة النفط لشؤون التصفية، والملف مفتوح منذ نحو شهرين ضمن ما سمي «صولة الفجر»",
+    "وسبق أن أعلن القضاء ضبط 20 مليون و340 ألف دولار واسترجاع 60 كيلوغراماً من الذهب في الملف نفسه",
+    "كل من ورد اسمه متهم موقوف قيد التحقيق، ولم تصدر بحق أي منهم أحكام قضائية",
+    "عندك معاملة بدائرة حكومية معلّقة من شهور؟"
+  ]
+}
