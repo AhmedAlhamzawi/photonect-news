@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-01-e-basra-crude-above-80",
+  "date": "2026-09-01",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 883890,
+      "sha256": "ae69a0d902d4fb5b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 982574,
+      "sha256": "73dbd4245a62f09f"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1237186,
+      "sha256": "5deb9dfc11f7df11"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1122382,
+      "sha256": "c7d611cb4729d0e2"
+    }
+  ]
+}

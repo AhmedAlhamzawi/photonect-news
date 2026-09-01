@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 01 • 2026",
+  "arabicDateLabel": "1 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_oil",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "بجلسة واحدة.. خام البصرة الثقيل يقفز 7.93% فوق 80 دولاراً",
+    "englishSubhead": "BASRA HEAVY ROSE 7.93% TO $80.43 AND BASRA MEDIUM 7.59% TO $83.73 ON TUESDAY MORNING, WITH BRENT AT $91.13 | ONE DAY'S MARKET MOVE, NOT A REVENUE FIGURE — MONTHLY TAKE ALSO DEPENDS ON EXPORT VOLUMES",
+    "heroMedia": "images/news/2026-09-01-e-basra-crude-above-80/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الثقيل 80.43 والمتوسط 83.73 دولاراً",
+      "arabicBody": "سجل خام البصرة الثقيل 80.43 دولاراً للبرميل مرتفعاً 5.91 دولارات وبنسبة 7.93%، والمتوسط 83.73 دولاراً بارتفاع 7.59% (شفق نيوز).",
+      "bigStat": {
+        "value": "80.43$",
+        "label": "Basra Heavy per barrel on Tuesday morning, up 7.93%",
+        "arabicLabel": "سعر خام البصرة الثقيل صباح الثلاثاء: 80.43 دولاراً للبرميل، مرتفعاً بمقدار 5.91 دولارات وبنسبة 7.93% (شفق نيوز · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البصرة الثقيل",
+          "value": "80.43$"
+        },
+        {
+          "label": "البصرة المتوسط",
+          "value": "83.73$"
+        },
+        {
+          "label": "الارتفاع",
+          "value": "+7.93%"
+        }
+      ],
+      "broll": "images/news/2026-09-01-e-basra-crude-above-80/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-01-e-basra-crude-above-80/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "خام البصرة الثقيل 80.43 دولاراً للبرميل",
+        "مرتفعاً 5.91 دولارات وبنسبة 7.93%",
+        "والمتوسط 83.73 دولاراً"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "برنت 91.13 دولاراً.. ومخاطر الإمدادات تعود",
+      "arabicBody": "الصعود جاء بالتزامن مع ارتفاع معظم الخامات العالمية، وبلغ برنت 91.13 دولاراً وغرب تكساس 86.67 — مع تجدد مخاطر الإمدادات وسط تصاعد القتال الأميركي الإيراني (شفق نيوز).",
+      "bigStat": {
+        "value": "91.13$",
+        "label": "Brent per barrel the same morning, as supply risk returned to the market",
+        "arabicLabel": "سعر خام برنت صباح الثلاثاء: 91.13 دولاراً للبرميل، وغرب تكساس الوسيط 86.67 دولاراً، مع تجدد مخاطر الإمدادات وسط تصاعد القتال الأميركي الإيراني (شفق نيوز · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "91.13$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "86.67$"
+        },
+        {
+          "label": "بالتزامن مع",
+          "value": "مخاطر إمدادات"
+        }
+      ],
+      "broll": "images/news/2026-09-01-e-basra-crude-above-80/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-01-e-basra-crude-above-80/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "برنت بلغ 91.13 دولاراً",
+        "وغرب تكساس 86.67",
+        "مع تجدد مخاطر الإمدادات"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "السعر مو وحده.. الكميات تقرر",
+      "arabicBody": "الإيراد الشهري يعتمد على الكميات المصدَّرة أيضاً لا السعر وحده؛ وكانت ذا ناشونال ذكرت في 4 آب تعثر صرف رواتب تموز مع تراجع إيرادات النفط (ذا ناشونال · شفق نيوز).",
+      "bigStat": {
+        "value": "1",
+        "label": "Day — this is a single session's price move, not a monthly revenue figure",
+        "arabicLabel": "هذه حركة سعر ليوم واحد وليست رقم إيراد شهري؛ الإيراد يتحدد بالسعر والكميات المصدَّرة معاً، وقد ذكرت ذا ناشونال في 4 آب 2026 تعثر صرف رواتب تموز مع تراجع إيرادات النفط"
+      },
+      "supportingStats": [
+        {
+          "label": "حركة",
+          "value": "يوم واحد"
+        },
+        {
+          "label": "الإيراد",
+          "value": "سعر × كمية"
+        },
+        {
+          "label": "رواتب تموز",
+          "value": "تعثرت (4 آب)"
+        }
+      ],
+      "broll": "images/news/2026-09-01-e-basra-crude-above-80/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-01-e-basra-crude-above-80/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الإيراد الشهري يعتمد على الكميات أيضاً",
+        "لا على السعر وحده",
+        "وذا ناشونال ذكرت تعثر رواتب تموز"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "The National",
+      "domain": "thenationalnews.com"
+    }
+  ],
+  "arabicTicker": [
+    "بجلسة واحدة.. خام البصرة الثقيل يقفز 7.93% فوق 80 دولاراً",
+    "الثقيل 80.43 دولاراً مرتفعاً 5.91 دولارات وبنسبة 7.93% (شفق نيوز)",
+    "والمتوسط 83.73 دولاراً بارتفاع نسبته 7.59%",
+    "برنت 91.13 دولاراً وغرب تكساس الوسيط 86.67 دولاراً",
+    "شفق نيوز: الصعود بالتزامن مع تجدد مخاطر الإمدادات وتصاعد القتال الأميركي الإيراني",
+    "لكن هذه حركة سعر ليوم واحد، والإيراد الشهري يتحدد بالكميات المصدَّرة أيضاً",
+    "راتب تموز وصلك بموعده لو تأخر؟"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-01-c-japan-exports-83-million",
+  "date": "2026-09-01",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 996174,
+      "sha256": "4cba4a11243e91ea"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1217027,
+      "sha256": "ddd32f1cf244b9b6"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1660097,
+      "sha256": "bf9c1cbf7046a14b"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1396857,
+      "sha256": "29e65eefc7ee289b"
+    }
+  ]
+}

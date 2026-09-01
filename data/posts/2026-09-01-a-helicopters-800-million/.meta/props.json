@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 01 • 2026",
+  "arabicDateLabel": "1 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تسليح",
+    "arabicHeadline": "مروحيات أميركية للعراق بـ800 مليون دولار.. لكنها موافقة لا عقد",
+    "englishSubhead": "US STATE DEPARTMENT CLEARS A POSSIBLE $800M SALE OF BELL 412EPX AND BELL 407M HELICOPTERS TO IRAQ, NOTIFIED TO CONGRESS | NOT A SIGNED CONTRACT, QUANTITIES NOT DISCLOSED | ANNOUNCED MON 31 AUG",
+    "heroMedia": "images/news/2026-09-01-a-helicopters-800-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "واشنطن تجيز بيع مروحيات للعراق بـ800 مليون",
+      "arabicBody": "وافقت الخارجية الأميركية على بيع محتمل للعراق مروحيات بيل 412EPX و407M بكلفة تقديرية 800 مليون دولار، وأُبلغ الكونغرس بها (الخارجية الأميركية · شفق نيوز).",
+      "bigStat": {
+        "value": "$800M",
+        "label": "Estimated value of the possible US helicopter sale to Iraq cleared by the State Department",
+        "arabicLabel": "الكلفة التقديرية للصفقة المحتملة التي وافقت عليها وزارة الخارجية الأميركية وأُبلغ بها الكونغرس (الخارجية الأميركية · شفق نيوز · 31 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكلفة",
+          "value": "800 مليون $"
+        },
+        {
+          "label": "الطراز",
+          "value": "بيل 412 و407"
+        },
+        {
+          "label": "الشركة",
+          "value": "بيل تكسترون"
+        }
+      ],
+      "broll": "images/news/2026-09-01-a-helicopters-800-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-01-a-helicopters-800-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الخارجية الأميركية أجازت بيعاً محتملاً للعراق",
+        "مروحيات بيل 412EPX و407M",
+        "بكلفة تقديرية 800 مليون دولار"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "إبلاغ الكونغرس يجيز البيع.. ولا يوقّع عقداً",
+      "arabicBody": "الإبلاغ يجيز بيعاً محتملاً ولا يشكّل عقداً مبرماً، والعدد لم يُعلن؛ والحزمة تضم رشاشات وقاذفات صواريخ وأنظمة تصويب وقطع غيار وتدريباً (الخارجية الأميركية · Air Data News).",
+      "bigStat": {
+        "value": "0",
+        "label": "Concluded contracts so far — the notification authorises a possible sale, not a signed contract",
+        "arabicLabel": "لا عقد مبرم حتى الآن بموجب هذا الإبلاغ، لأن إبلاغ الكونغرس يجيز بيعاً محتملاً ولا يشكّل عقداً مبرماً (الخارجية الأميركية · Air Data News · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالة",
+          "value": "موافقة"
+        },
+        {
+          "label": "عقد موقّع",
+          "value": "لا"
+        },
+        {
+          "label": "العدد",
+          "value": "لم يُعلن"
+        }
+      ],
+      "broll": "images/news/2026-09-01-a-helicopters-800-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-01-a-helicopters-800-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الإبلاغ يجيز البيع ولا يعني عقداً مبرماً",
+        "وعدد المروحيات لم يُعلن",
+        "والحزمة تضم تسليحاً وقطع غيار وتدريباً"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الهدف: بديل عن مروحيات ميل الروسية",
+      "arabicBody": "العراق يسعى لاستبدال مروحيات ميل-17 الروسية بعدما صعُب تأمين قطع غيارها منذ الحرب في أوكرانيا، والمنتج الرئيس شركة بيل تكسترون (Air Data News · شفق نيوز).",
+      "bigStat": {
+        "value": "MI-17",
+        "label": "The Russian-built fleet Iraq has been seeking to replace since parts became hard to source after the war in Ukraine",
+        "arabicLabel": "أسطول المروحيات الروسية ميل-17 الذي يسعى العراق لاستبداله بعدما صعُب تأمين قطع غياره منذ الحرب في أوكرانيا (Air Data News · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المستبدَل",
+          "value": "ميل-17"
+        },
+        {
+          "label": "الشركة",
+          "value": "بيل تكسترون"
+        },
+        {
+          "label": "المقر",
+          "value": "فورت وورث"
+        }
+      ],
+      "broll": "images/news/2026-09-01-a-helicopters-800-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-01-a-helicopters-800-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "العراق يسعى لاستبدال مروحيات ميل-17",
+        "بعدما صعُب تأمين قطع غيارها",
+        "والمنتج الرئيس شركة بيل تكسترون"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "US State Department",
+      "domain": "state.gov"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Air Data News",
+      "domain": "airdatanews.com"
+    }
+  ],
+  "arabicTicker": [
+    "مروحيات أميركية للعراق بـ800 مليون دولار.. لكنها موافقة لا عقد",
+    "وزارة الخارجية الأميركية وافقت على البيع المحتمل، وأُبلغ الكونغرس به",
+    "الطرازان بيل 412EPX وبيل 407M، والمنتج الرئيس بيل تكسترون في فورت وورث",
+    "الإبلاغ يجيز بيعاً محتملاً ولا يشكّل عقداً مبرماً — والعدد لم يُعلن",
+    "الحزمة تضم رشاشات وقاذفات صواريخ وأنظمة تصويب وقطع غيار وتدريباً",
+    "العراق يسعى لاستبدال ميل-17 الروسية بعد صعوبة تأمين قطع الغيار",
+    "سمعت بالخبر على إنه صفقة مبرمة لو على إنه موافقة بس؟"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-01-a-helicopters-800-million",
+  "date": "2026-09-01",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 638922,
+      "sha256": "53503d21b15da81c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 919034,
+      "sha256": "681f96fd27a65a43"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1104080,
+      "sha256": "42fe885f0d91a1b1"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 950512,
+      "sha256": "d4584091b37e7be1"
+    }
+  ]
+}

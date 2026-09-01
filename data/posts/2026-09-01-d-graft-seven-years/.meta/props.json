@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 01 • 2026",
+  "arabicDateLabel": "1 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "نائب سابق ووكيل وزارة النفط.. السجن 7 سنوات و123 مليار دينار",
+    "englishSubhead": "IRAQ'S FEDERAL INTEGRITY COMMISSION SAID SUNDAY A COURT JAILED FORMER MP TALAL AL-ZUBAIE AND OIL MINISTRY DEPUTY FOR DISTRIBUTION ALI MAAREJ AL-BAHADLI FOR SEVEN YEARS EACH FOR ILLICIT GAINS | COMBINED ORDERED PAYMENTS 123 BILLION DINARS",
+    "heroMedia": "images/news/2026-09-01-d-graft-seven-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الأحد: حكم بالسجن 7 سنوات لكل منهما",
+      "arabicBody": "أعلنت هيئة النزاهة الأحد سجن النائب السابق طلال الزوبعي، ووكيل وزارة النفط لشؤون التوزيع علي معارج البهادلي، 7 سنوات لكلٍّ منهما بالكسب غير المشروع (النزاهة · شفق نيوز).",
+      "bigStat": {
+        "value": "7",
+        "label": "Years in prison handed to each of the two officials for illicit gains",
+        "arabicLabel": "مدة الحكم الصادر بحق كل من طلال الزوبعي وعلي معارج البهادلي: السجن 7 سنوات عن تهمة تضخم الأموال والكسب غير المشروع، وفق إعلان هيئة النزاهة الاتحادية الأحد (النزاهة · شفق نيوز · 30 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "7 سنوات"
+        },
+        {
+          "label": "العدد",
+          "value": "2"
+        },
+        {
+          "label": "الإعلان",
+          "value": "الأحد"
+        }
+      ],
+      "broll": "images/news/2026-09-01-d-graft-seven-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-01-d-graft-seven-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة النزاهة الاتحادية أعلنت الأحد",
+        "السجن 7 سنوات لكل واحد منهما",
+        "بتهمة تضخم الأموال والكسب غير المشروع"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "كسب غير مشروع: 35 ملياراً للزوبعي و26.5 للبهادلي",
+      "arabicBody": "قدّرت هيئة النزاهة قيمة الكسب غير المشروع لدى الزوبعي بقرابة 35 مليار دينار، ولدى البهادلي بـ26.5 مليار دينار (النزاهة · شفق نيوز).",
+      "bigStat": {
+        "value": "35",
+        "label": "Billion dinars of illicit gains attributed to the former MP by the Integrity Commission",
+        "arabicLabel": "قيمة الكسب غير المشروع وتضخم الأموال لدى النائب السابق طلال الزوبعي: قرابة 35 مليار دينار، مقابل 26.5 مليار دينار لدى علي معارج البهادلي (هيئة النزاهة الاتحادية · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزوبعي",
+          "value": "35 مليار"
+        },
+        {
+          "label": "البهادلي",
+          "value": "26.5 مليار"
+        },
+        {
+          "label": "الوحدة",
+          "value": "دينار"
+        }
+      ],
+      "broll": "images/news/2026-09-01-d-graft-seven-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-01-d-graft-seven-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الكسب غير المشروع لدى الزوبعي 35 مليار دينار",
+        "ولدى البهادلي 26.5 مليار",
+        "وفق ما أعلنته هيئة النزاهة"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "123 ملياراً ردّاً وغرامة",
+      "arabicBody": "أُلزم الزوبعي بتسديد قرابة 70 مليار دينار والبهادلي 53 ملياراً — رد المبلغ وغرامة تعادله، أي 123 ملياراً مجتمعة (النزاهة · شفق نيوز · يورونيوز) ولم يُذكر ما إذا كان الحكم باتاً.",
+      "bigStat": {
+        "value": "123",
+        "label": "Billion dinars the two men were together ordered to pay — restitution plus matching fines",
+        "arabicLabel": "مجموع ما أُلزم به الرجلان: 70 مليار دينار على الزوبعي و53 ملياراً على البهادلي، وتشمل رد قيمة الكسب غير المشروع وغرامة تعادلها، أي 123 مليار دينار مجتمعة (النزاهة · شفق نيوز · يورونيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الزوبعي",
+          "value": "70 مليار"
+        },
+        {
+          "label": "البهادلي",
+          "value": "53 مليار"
+        },
+        {
+          "label": "المجموع",
+          "value": "123 مليار"
+        }
+      ],
+      "broll": "images/news/2026-09-01-d-graft-seven-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-01-d-graft-seven-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الزوبعي أُلزم بـ70 مليار دينار",
+        "والبهادلي بـ53 ملياراً",
+        "أي 123 ملياراً رداً وغرامة"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Federal Integrity Commission",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Euronews Arabic",
+      "domain": "arabic.euronews.com"
+    }
+  ],
+  "arabicTicker": [
+    "نائب سابق ووكيل وزارة النفط.. السجن 7 سنوات و123 مليار دينار",
+    "بتهمة تضخم الأموال والكسب غير المشروع — أعلنتها هيئة النزاهة الاتحادية الأحد",
+    "الزوبعي نائب سابق، والبهادلي وكيل وزارة النفط لشؤون التوزيع",
+    "الكسب غير المشروع: 35 مليار دينار للأول و26.5 مليار للثاني",
+    "أُلزم الزوبعي بـ70 مليار دينار والبهادلي بـ53 ملياراً — رد وغرامة تعادله",
+    "مجموع ما أُلزما بتسديده 123 مليار دينار",
+    "آخر معاملة حكومية سويتها.. خلصت بلا واسطة؟"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 01 • 2026",
+  "arabicDateLabel": "1 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "trade",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تجارة",
+    "arabicHeadline": "من 202 مليون إلى 83.. صادرات اليابان للعراق تتراجع 58.9%",
+    "englishSubhead": "JAPANESE EXPORTS TO IRAQ FELL TO $83M IN Q2 2026 FROM $202M IN Q1, A 58.9% DROP | CARS AND PARTS WERE 69% OF THE TOTAL AT $57M | JAPAN MINISTRY OF FINANCE DATA VIA SHAFAQ NEWS",
+    "heroMedia": "images/news/2026-09-01-c-japan-exports-83-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "من 202 مليون إلى 83 بربع واحد",
+      "arabicBody": "نزلت الصادرات اليابانية إلى العراق إلى 83 مليون دولار بالربع الثاني 2026، مقابل 202 مليون بالربع الأول — تراجع 58.9% (وزارة المالية اليابانية · شفق نيوز).",
+      "bigStat": {
+        "value": "83M$",
+        "label": "Japanese exports to Iraq in Q2 2026, down from $202M in Q1",
+        "arabicLabel": "قيمة الصادرات اليابانية إلى العراق في الربع الثاني من 2026: 83 مليون دولار، مقابل 202 مليون دولار في الربع الأول (وزارة المالية اليابانية · شفق نيوز · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الربع 2",
+          "value": "83 مليون$"
+        },
+        {
+          "label": "الربع 1",
+          "value": "202 مليون$"
+        },
+        {
+          "label": "التغير",
+          "value": "-58.9%"
+        }
+      ],
+      "broll": "images/news/2026-09-01-c-japan-exports-83-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-01-c-japan-exports-83-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الصادرات اليابانية للعراق 83 مليون دولار",
+        "مقابل 202 مليون بالربع الأول",
+        "تراجع نسبته 58.9%"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "السيارات وحدها 69% من الفاتورة",
+      "arabicBody": "السيارات وقطع غيارها تصدّرت القائمة بـ57 مليون دولار — 69% من كل ما اشتراه العراق من اليابان بذلك الربع (وزارة المالية اليابانية · شفق نيوز).",
+      "bigStat": {
+        "value": "69%",
+        "label": "Share of Japanese exports to Iraq made up of vehicles and auto parts",
+        "arabicLabel": "حصة السيارات وقطع غيارها من إجمالي الصادرات اليابانية إلى العراق في الربع الثاني: 57 مليون دولار من أصل 83 مليوناً، أي 69% (وزارة المالية اليابانية · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "السيارات",
+          "value": "57 مليون$"
+        },
+        {
+          "label": "الحصة",
+          "value": "69%"
+        },
+        {
+          "label": "المطاط",
+          "value": "6.7 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-09-01-c-japan-exports-83-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-01-c-japan-exports-83-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "السيارات وقطع غيارها 57 مليون دولار",
+        "أي 69% من الإجمالي",
+        "تليها منتجات المطاط 6.7 مليون"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بعد السيارات.. القائمة تصغر بسرعة",
+      "arabicBody": "بعد السيارات والمطاط تأتي المكائن بـ4.4 مليون دولار، والأجهزة البصرية والطبية 3.9 مليون، ومنتجات الحديد والصلب 3.3 مليون (وزارة المالية اليابانية · شفق نيوز).",
+      "bigStat": {
+        "value": "4.4M$",
+        "label": "Machinery and reactors — the third-largest Japanese export line to Iraq in the quarter",
+        "arabicLabel": "قيمة صادرات المكائن والمفاعلات اليابانية إلى العراق في الربع الثاني: 4.4 مليون دولار، تليها الأجهزة البصرية والطبية 3.9 مليون والحديد والصلب 3.3 مليون (وزارة المالية اليابانية · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكائن",
+          "value": "4.4 مليون$"
+        },
+        {
+          "label": "بصرية وطبية",
+          "value": "3.9 مليون$"
+        },
+        {
+          "label": "حديد وصلب",
+          "value": "3.3 مليون$"
+        }
+      ],
+      "broll": "images/news/2026-09-01-c-japan-exports-83-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-01-c-japan-exports-83-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المكائن 4.4 مليون دولار",
+        "والأجهزة البصرية والطبية 3.9 مليون",
+        "والحديد والصلب 3.3 مليون"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Japan Ministry of Finance",
+      "domain": "mof.go.jp"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "من 202 مليون إلى 83.. صادرات اليابان للعراق تتراجع 58.9%",
+    "مقابل 202 مليون دولار بالربع الأول — تراجع 58.9%",
+    "السيارات وقطع غيارها 57 مليون دولار، أي 69% من الإجمالي",
+    "منتجات المطاط 6.7 مليون، والمكائن 4.4 مليون دولار",
+    "الأجهزة البصرية والطبية 3.9 مليون، والحديد والصلب 3.3 مليون",
+    "المصدر: بيانات وزارة المالية اليابانية عبر شفق نيوز",
+    "سيارتك يابانية لو لا؟"
+  ]
+}
