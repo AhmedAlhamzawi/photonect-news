@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 02 • 2026",
+  "arabicDateLabel": "2 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "ذهب",
+    "arabicHeadline": "مثقال الذهب نزل 15 ألف دينار بجلسة وحدة",
+    "englishSubhead": "BAGHDAD WHOLESALE GOLD: 21-CARAT GULF/TURKISH/EUROPEAN MITHQAL SELLS AT 945,000 IQD, DOWN FROM 960,000 AT THE PREVIOUS SESSION | IRAQI 21-CARAT AT 915,000 | RETAIL 945,000-955,000 | SHAFAQ NEWS, WED 2 SEP",
+    "heroMedia": "images/news/2026-09-02-e-gold-mithqal-down/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "المثقال الخليجي بـ945 ألف دينار",
+      "arabicBody": "في أسواق الجملة ببغداد سجّل مثقال الذهب الخليجي والتركي والأوروبي عيار 21 بيعاً بـ945,000 دينار وشراءً بـ941,000 (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "945,000",
+        "label": "Dinars — Baghdad wholesale sell price for one mithqal of 21-carat Gulf, Turkish or European gold",
+        "arabicLabel": "ديناراً سعر بيع المثقال الواحد من الذهب الخليجي والتركي والأوروبي عيار 21 في أسواق الجملة ببغداد (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع الجملة",
+          "value": "945,000"
+        },
+        {
+          "label": "شراء الجملة",
+          "value": "941,000"
+        },
+        {
+          "label": "العيار",
+          "value": "21"
+        }
+      ],
+      "broll": "images/news/2026-09-02-e-gold-mithqal-down/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-02-e-gold-mithqal-down/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "في أسواق الجملة ببغداد",
+        "مثقال الذهب الخليجي عيار 21",
+        "بيع 945,000 دينار وشراء 941,000"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "نزول 15 ألفاً عن الجلسة السابقة",
+      "arabicBody": "السعر نفسه كان 960,000 دينار في الجلسة السابقة، أي بانخفاض 15,000 دينار للمثقال الواحد — والمقارنة جملة مقابل جملة (محتسب · شفق نيوز).",
+      "bigStat": {
+        "value": "15,000",
+        "label": "The one-session drop per mithqal, comparing wholesale sell price with wholesale sell price",
+        "arabicLabel": "ديناراً انخفاض المثقال الواحد عن الجلسة السابقة، والمقارنة سعر جملة مقابل سعر جملة (محتسب · شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجلسة السابقة",
+          "value": "960,000"
+        },
+        {
+          "label": "اليوم",
+          "value": "945,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "15,000-"
+        }
+      ],
+      "broll": "images/news/2026-09-02-e-gold-mithqal-down/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-02-e-gold-mithqal-down/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "السعر نفسه كان 960,000 دينار",
+        "في الجلسة السابقة",
+        "أي بانخفاض 15,000 دينار للمثقال"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بالصاغة: بين 945 و955 ألفاً",
+      "arabicBody": "في محال الصاغة ببغداد تراوح المثقال الخليجي بين 945,000 و955,000 دينار، والعراقي عيار 21 بين 915,000 و925,000 — وهذا نطاق ما يدفعه المشتري في محال الصاغة (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "945-955",
+        "label": "The Baghdad retail range for a 21-carat Gulf mithqal — 945,000 to 955,000 dinars",
+        "arabicLabel": "ألف دينار نطاق سعر المثقال الخليجي عيار 21 في محال الصاغة ببغداد، فيما العراقي بين 915,000 و925,000 (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الصاغة خليجي",
+          "value": "945-955"
+        },
+        {
+          "label": "الصاغة عراقي",
+          "value": "915-925"
+        },
+        {
+          "label": "الوحدة",
+          "value": "ألف دينار"
+        }
+      ],
+      "broll": "images/news/2026-09-02-e-gold-mithqal-down/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-02-e-gold-mithqal-down/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وبمحال الصاغة ببغداد",
+        "المثقال الخليجي بين 945,000 و955,000",
+        "وهذا نطاق سعر الصاغة"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "أسواق الجملة ببغداد (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "مثقال الذهب الخليجي والتركي والأوروبي عيار 21 عند 945,000 دينار للبيع",
+    "سعر الشراء في الجملة 941,000 دينار",
+    "السعر كان 960,000 دينار في الجلسة السابقة",
+    "انخفاض 15,000 دينار للمثقال (محتسب: جملة مقابل جملة)",
+    "الذهب العراقي عيار 21 عند 915,000 دينار للبيع في الجملة",
+    "محال الصاغة: الخليجي 945-955 ألفاً والعراقي 915-925 ألفاً",
+    "شريت ذهب هالسنة لو مأجّلها؟"
+  ]
+}

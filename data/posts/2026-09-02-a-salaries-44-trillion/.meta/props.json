@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 02 • 2026",
+  "arabicDateLabel": "2 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "44.627 تريليون دينار على الرواتب والرعاية.. بنص سنة",
+    "englishSubhead": "IRAQ'S FINANCE MINISTRY: 44.627 TRILLION DINARS SPENT ON PUBLIC-SECTOR PAY AND SOCIAL PROTECTION IN H1 2026 | MONTHLY AVERAGE 7.438 TRILLION | MINISTRY CAUTIONS THE AVERAGE IS NOT AN EVEN MONTHLY SPLIT | PUBLISHED WED 2 SEP",
+    "heroMedia": "images/news/2026-09-02-a-salaries-44-trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "44.627 تريليون دينار في ستة أشهر",
+      "arabicBody": "أعلنت وزارة المالية إنفاق 44.627 تريليون دينار على تعويضات الموظفين وشبكات الرعاية الاجتماعية في النصف الأول من 2026 (وزارة المالية · شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "44.627T",
+        "label": "Dinars spent on public-sector compensation and social protection in the first half of 2026",
+        "arabicLabel": "تريليون دينار أنفقت على تعويضات الموظفين وشبكات الرعاية الاجتماعية في النصف الأول من 2026 (وزارة المالية · شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرواتب",
+          "value": "30.769 ت"
+        },
+        {
+          "label": "الرعاية",
+          "value": "13.858 ت"
+        },
+        {
+          "label": "المدة",
+          "value": "6 أشهر"
+        }
+      ],
+      "broll": "images/news/2026-09-02-a-salaries-44-trillion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-02-a-salaries-44-trillion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وزارة المالية: 44.627 تريليون دينار",
+        "على تعويضات الموظفين وشبكات الرعاية",
+        "في النصف الأول من 2026 وحده"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "7.438 تريليون شهرياً.. بشرط",
+      "arabicBody": "المتوسط الشهري 7.438 تريليون دينار، لكن الوزارة تنبّه إلى أن المتوسط لا يعني توزيعاً متساوياً بين الأشهر (وزارة المالية · شفق نيوز).",
+      "bigStat": {
+        "value": "7.438T",
+        "label": "Monthly average — the ministry itself cautions this is an average, not an even month-by-month disbursement",
+        "arabicLabel": "تريليون دينار متوسط الإنفاق الشهري، مع تنبيه الوزارة إلى أن المتوسط لا يعني توزيعاً متساوياً بين الأشهر (وزارة المالية · شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتوسط",
+          "value": "7.438 ت"
+        },
+        {
+          "label": "توزيع متساوٍ",
+          "value": "لا"
+        },
+        {
+          "label": "المصدر",
+          "value": "المالية"
+        }
+      ],
+      "broll": "images/news/2026-09-02-a-salaries-44-trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-02-a-salaries-44-trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المتوسط الشهري 7.438 تريليون دينار",
+        "لكن الوزارة تنبّه: المتوسط رقم حسابي",
+        "ولا يعني توزيعاً متساوياً بين الأشهر"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "التقاعد: صرف أيلول بدأ تدريجياً",
+      "arabicBody": "هيئة التقاعد الوطنية أعلنت الثلاثاء بدء صرف رواتب المتقاعدين المدنيين والعسكريين لشهر أيلول تدريجياً، ودعت من تصله رسالة نصية لمراجعة المصارف ومنافذ الدفع الإلكتروني (هيئة التقاعد الوطنية · شفق نيوز · 1 أيلول 2026). وفي التقرير نفسه ينقل مصدر مطّلع أن تمويل وزارة المالية لم يكن قد وصل إلى المصارف حتى ظهر الثلاثاء (شفق نيوز · 1 أيلول 2026).",
+      "bigStat": {
+        "value": "تدريجي",
+        "label": "The National Retirement Authority says September pension disbursement has begun in phases, with pensioners notified by SMS",
+        "arabicLabel": "صرف رواتب المتقاعدين لشهر أيلول بدأ تدريجياً بحسب إعلان هيئة التقاعد الوطنية، والإشعار يصل برسالة نصية (هيئة التقاعد الوطنية · شفق نيوز · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الفئة",
+          "value": "مدني وعسكري"
+        },
+        {
+          "label": "الإشعار",
+          "value": "رسالة نصية"
+        },
+        {
+          "label": "النمط",
+          "value": "تدريجي"
+        }
+      ],
+      "broll": "images/news/2026-09-02-a-salaries-44-trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-02-a-salaries-44-trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة التقاعد: صرف رواتب أيلول بدأ",
+        "للمتقاعدين المدنيين والعسكريين تدريجياً",
+        "والإشعار يوصل برسالة نصية"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "وزارة المالية العراقية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "هيئة التقاعد الوطنية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "المالية: 44.627 تريليون دينار على الرواتب والرعاية في النصف الأول من 2026",
+    "تعويضات الموظفين 30.769 تريليون دينار، وشبكات الرعاية 13.858 تريليون",
+    "المتوسط الشهري 7.438 تريليون دينار",
+    "الوزارة تنبّه: المتوسط لا يعني توزيعاً متساوياً بين الأشهر",
+    "هيئة التقاعد: صرف رواتب أيلول للمتقاعدين بدأ تدريجياً",
+    "الإشعار يوصل برسالة نصية لمراجعة المصارف ومنافذ الدفع الإلكتروني",
+    "مصدر مطّلع لشفق نيوز: تمويل المالية لم يصل المصارف حتى ظهر الثلاثاء",
+    "وصلك راتب أيلول التقاعدي لو بعدك تنتظر؟"
+  ]
+}

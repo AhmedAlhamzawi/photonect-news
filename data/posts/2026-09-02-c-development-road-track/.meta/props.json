@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 02 • 2026",
+  "arabicDateLabel": "2 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طريق التنمية",
+    "arabicHeadline": "أنقرة: اجتماع ثلاثي على منفذ فيشخابور بلا توقيع جديد",
+    "englishSubhead": "IRAQI BORDER PORTS AUTHORITY DELEGATION MEETS TURKISH AND SYRIAN SIDES IN ANKARA ON ACTIVATING THE FAYSH KHABUR-OVAKOY CROSSING AND LINKING IT TO THE DEVELOPMENT ROAD | TALKS ONLY, NO NEW SIGNING, NO COSTS OR TIMELINE PUBLISHED | SHAFAQ NEWS, WED 2 SEP",
+    "heroMedia": "images/news/2026-09-02-c-development-road-track/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "وفد عراقي مع الجانبين التركي والسوري",
+      "arabicBody": "وفد عراقي برئاسة رئيس هيئة المنافذ الحدودية الفريق عمر الوائلي بحث في أنقرة مع الجانبين التركي والسوري المسار التنفيذي لتفعيل منفذ فيشخابور–أوفاكوي وربطه بطريق التنمية (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "3",
+        "label": "Countries at the table — Iraq, Turkey and Syria, on activating the Faysh Khabur-Ovakoy crossing",
+        "arabicLabel": "دول على الطاولة: العراق وتركيا وسوريا، لبحث المسار التنفيذي لتفعيل منفذ فيشخابور–أوفاكوي وربطه بطريق التنمية (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الدول",
+          "value": "3"
+        },
+        {
+          "label": "المكان",
+          "value": "أنقرة"
+        },
+        {
+          "label": "المنفذ",
+          "value": "فيشخابور"
+        }
+      ],
+      "broll": "images/news/2026-09-02-c-development-road-track/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-02-c-development-road-track/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وفد عراقي يبحث في أنقرة",
+        "مع الجانبين التركي والسوري",
+        "تفعيل منفذ فيشخابور–أوفاكوي"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "مباحثات تنفيذ.. مو توقيعاً جديداً",
+      "arabicBody": "البيان يتحدث عن مباحثات لتنفيذ مذكرة تفاهم سابقة للنقل بالسكك الحديد والطرق البرية، ولم يُعلن أي توقيع جديد ولا كلفة ولا جدول زمني (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "0",
+        "label": "New agreements signed at these talks — the statement describes implementing an existing memorandum, not a new deal",
+        "arabicLabel": "لا توقيعات جديدة أُعلنت في هذه المباحثات، فالبيان يصفها بأنها لتنفيذ مذكرة تفاهم سابقة، ولم تُعلن كلفة ولا جدول زمني (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "توقيع جديد",
+          "value": "لا"
+        },
+        {
+          "label": "كلفة",
+          "value": "لم تُعلن"
+        },
+        {
+          "label": "جدول",
+          "value": "لم يُعلن"
+        }
+      ],
+      "broll": "images/news/2026-09-02-c-development-road-track/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-02-c-development-road-track/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "البيان يتحدث عن مباحثات",
+        "لتنفيذ مذكرة تفاهم سابقة",
+        "بلا توقيع جديد ولا كلفة معلنة"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "الهدف: مرور أسهل وعوائق أقل",
+      "arabicBody": "المباحثات تناولت زيادة التبادل التجاري وحركة الترانزيت وتسهيل مرور البضائع والمسافرين وتقليل العوائق اللوجستية، وفق الخرائط والمسارات التي حددتها اللجان الفنية المشتركة (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "ترانزيت",
+        "label": "The stated aim — more trade exchange and transit, fewer logistical obstacles for goods and travellers",
+        "arabicLabel": "الهدف المعلن زيادة التبادل التجاري وحركة الترانزيت وتسهيل مرور البضائع والمسافرين وتقليل العوائق اللوجستية (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "ترانزيت"
+        },
+        {
+          "label": "المرجع",
+          "value": "لجان فنية"
+        },
+        {
+          "label": "الحالة",
+          "value": "قيد البحث"
+        }
+      ],
+      "broll": "images/news/2026-09-02-c-development-road-track/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-02-c-development-road-track/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المباحثات تناولت زيادة التبادل التجاري",
+        "وحركة الترانزيت وتسهيل مرور البضائع",
+        "وتقليل العوائق اللوجستية"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "هيئة المنافذ الحدودية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "وفد عراقي برئاسة الفريق عمر الوائلي يبحث في أنقرة تفعيل منفذ فيشخابور–أوفاكوي",
+    "مباحثات ثلاثية عراقية تركية سورية لربط المنفذ بطريق التنمية",
+    "البيان يصف اللقاءات بأنها لتنفيذ مذكرة تفاهم سابقة",
+    "لا توقيع جديد ولا كلفة ولا جدول زمني معلن",
+    "الهدف زيادة التبادل التجاري وحركة الترانزيت",
+    "تتوقع منفذ فيشخابور يتفعّل هالسنة؟"
+  ]
+}

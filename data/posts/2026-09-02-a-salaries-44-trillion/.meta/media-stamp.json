@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-02-a-salaries-44-trillion",
+  "date": "2026-09-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1064757,
+      "sha256": "78f5dd6d531c8de4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1153082,
+      "sha256": "30c0e20e2687465c"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1115166,
+      "sha256": "c2fd9e4a7370e9e4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 933492,
+      "sha256": "db8e01acdda04be2"
+    }
+  ]
+}

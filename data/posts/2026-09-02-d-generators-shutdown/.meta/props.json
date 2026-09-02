@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 02 • 2026",
+  "arabicDateLabel": "2 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "كهرباء",
+    "arabicHeadline": "المولدات طفّت ببغداد.. وتوجيه بوقود مدعوم بـ400 دينار للتر",
+    "englishSubhead": "PRIVATE GENERATOR OPERATORS SWITCHED OFF ACROSS BAGHDAD DISTRICTS ON TUE 1 SEP OVER THE AMPERE TARIFF, FUEL SHORTAGES AND TAXES BACKDATED TO 2024 | PM ALI FALEH AL-ZAIDI ORDERED SUBSIDISED FUEL AT 400 IQD/LITRE FOR SEPTEMBER AND A MINIMUM 20 HOURS OF SUPPLY | SHAFAQ NEWS, RUDAW, BAGHDAD TODAY",
+    "heroMedia": "images/news/2026-09-02-d-generators-shutdown/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "الإطفاء شمل مناطق واسعة ببغداد",
+      "arabicBody": "أوقف أصحاب المولدات الأهلية تشغيل مولداتهم الثلاثاء 1 أيلول في معظم مناطق بغداد، ومنها بغداد الجديدة والبلديات والكرادة، بعد إعلان نقابي مسبق بالإطفاء الشامل (شفق نيوز · رووداو · بغداد اليوم).",
+      "bigStat": {
+        "value": "1 أيلول",
+        "label": "The date private generator operators began switching off across Baghdad districts",
+        "arabicLabel": "تاريخ بدء إطفاء المولدات الأهلية في معظم مناطق بغداد ومنها بغداد الجديدة والبلديات والكرادة (شفق نيوز · رووداو · بغداد اليوم · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "1 أيلول"
+        },
+        {
+          "label": "المدينة",
+          "value": "بغداد"
+        },
+        {
+          "label": "النطاق",
+          "value": "مناطق واسعة"
+        }
+      ],
+      "broll": "images/news/2026-09-02-d-generators-shutdown/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-02-d-generators-shutdown/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أصحاب المولدات الأهلية طفّوا مولداتهم",
+        "الثلاثاء الأول من أيلول",
+        "في معظم مناطق بغداد"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الأمبير والوقود وضرائب بأثر رجعي",
+      "arabicBody": "الأسباب المعلنة: تسعيرة الأمبير المحددة، وشح الوقود ونقص التجهيز، والضرائب — بينها مطالبة بتسديد ضرائب بأثر رجعي منذ عام 2024 (شفق نيوز · رووداو).",
+      "bigStat": {
+        "value": "2024",
+        "label": "How far back the retroactive tax demand on generator operators reaches, per their stated grievances",
+        "arabicLabel": "العام الذي تعود إليه المطالبة بضرائب بأثر رجعي على أصحاب المولدات، إلى جانب تسعيرة الأمبير وشح الوقود (شفق نيوز · رووداو · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "التسعيرة",
+          "value": "الأمبير"
+        },
+        {
+          "label": "الوقود",
+          "value": "شحّة"
+        },
+        {
+          "label": "الضرائب",
+          "value": "منذ 2024"
+        }
+      ],
+      "broll": "images/news/2026-09-02-d-generators-shutdown/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-02-d-generators-shutdown/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الأسباب: تسعيرة الأمبير وشح الوقود",
+        "والضرائب المطلوبة بأثر رجعي",
+        "منذ عام 2024"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "وقود بـ400 دينار.. و20 ساعة تجهيز",
+      "arabicBody": "وجّه رئيس الوزراء علي فالح الزيدي بتجهيز المولدات بوقود مدعوم بسعر 400 دينار للتر طوال أيلول، وبكهرباء لا تقل عن 20 ساعة يومياً بالتناوب مع الشبكة (شفق نيوز · 1 أيلول 2026).",
+      "bigStat": {
+        "value": "400",
+        "label": "Dinars per litre — the subsidised fuel price ordered for private generators through September",
+        "arabicLabel": "ديناراً سعر اللتر المدعوم لوقود المولدات الأهلية طوال أيلول، مع توجيه بتجهيز الكهرباء 20 ساعة يومياً على الأقل بالتناوب (شفق نيوز · 1 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر اللتر",
+          "value": "400 دينار"
+        },
+        {
+          "label": "المدة",
+          "value": "أيلول"
+        },
+        {
+          "label": "التجهيز",
+          "value": "20 ساعة"
+        }
+      ],
+      "broll": "images/news/2026-09-02-d-generators-shutdown/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-02-d-generators-shutdown/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "رئيس الوزراء وجّه بوقود مدعوم",
+        "بسعر 400 دينار للتر طوال أيلول",
+        "وتجهيز ما يقل عن 20 ساعة يومياً"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "Rudaw",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ],
+  "arabicTicker": [
+    "أصحاب المولدات الأهلية طفّوا مولداتهم في معظم مناطق بغداد الثلاثاء 1 أيلول",
+    "الإطفاء شمل بغداد الجديدة والبلديات والكرادة بعد إعلان نقابي مسبق",
+    "الأسباب: تسعيرة الأمبير وشح الوقود ونقص التجهيز والضرائب",
+    "مطالبة بتسديد ضرائب بأثر رجعي منذ عام 2024",
+    "رئيس الوزراء وجّه بوقود مدعوم بسعر 400 دينار للتر طوال أيلول",
+    "وبتجهيز الكهرباء 20 ساعة يومياً على الأقل بالتناوب مع الشبكة",
+    "شكد تدفع للمولدة بالشهر؟"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-02-c-development-road-track",
+  "date": "2026-09-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1396872,
+      "sha256": "7bb3b57a93b64130"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1468404,
+      "sha256": "186ff4552ffb3d2d"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 900168,
+      "sha256": "69bebee04deac0b9"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1195775,
+      "sha256": "8bf153c28b153d08"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-02-d-generators-shutdown",
+  "date": "2026-09-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 703386,
+      "sha256": "2fcdfeafc7151f82"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1091390,
+      "sha256": "91d82a989050da68"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1183771,
+      "sha256": "3646ac1caf4bfebe"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1231659,
+      "sha256": "afd5b92e9f3cbdfa"
+    }
+  ]
+}

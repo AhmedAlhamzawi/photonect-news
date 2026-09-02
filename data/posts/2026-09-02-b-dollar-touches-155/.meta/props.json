@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 02 • 2026",
+  "arabicDateLabel": "2 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "ورقة المئة دولار بـ155 ألفاً في محال بغداد",
+    "englishSubhead": "BAGHDAD BOURSE OPENS AT 154,500 IQD PER $100, UP FROM 154,250 AT THE PREVIOUS OPEN | BAGHDAD EXCHANGE SHOPS SELL AT 155,000 | ERBIL SHOPS SELL AT 154,450 | SHAFAQ NEWS, WED 2 SEP",
+    "heroMedia": "images/news/2026-09-02-b-dollar-touches-155/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "البورصة تفتح على 154,500",
+      "arabicBody": "ارتفع الدولار في بورصتي الكفاح والحارثية ببغداد إلى 154,500 دينار لكل 100 دولار عند الافتتاح، مقابل 154,250 ديناراً في افتتاح الجلسة السابقة (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "154,500",
+        "label": "Baghdad bourse opening rate per $100 — up 250 dinars on the previous session's open",
+        "arabicLabel": "ديناراً لكل 100 دولار سعر الافتتاح في بورصتي الكفاح والحارثية، بارتفاع 250 ديناراً عن افتتاح الجلسة السابقة (محتسب: افتتاح مقابل افتتاح · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة",
+          "value": "154,500"
+        },
+        {
+          "label": "الجلسة السابقة",
+          "value": "154,250"
+        },
+        {
+          "label": "الفرق",
+          "value": "250+"
+        }
+      ],
+      "broll": "images/news/2026-09-02-b-dollar-touches-155/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-02-b-dollar-touches-155/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الكفاح والحارثية تفتحان على 154,500 دينار",
+        "لكل 100 دولار",
+        "مقابل 154,250 في افتتاح الجلسة السابقة"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "بمحال الصيرفة.. 155 ألفاً للبيع",
+      "arabicBody": "في محال الصيرفة ببغداد بيع الـ100 دولار بـ155,000 دينار والشراء بـ154,000 — وهذا هو السعر الذي يدفعه المواطن عند شراء الدولار (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "155,000",
+        "label": "What a Baghdad exchange shop actually sells $100 for — the rate a walk-in customer pays",
+        "arabicLabel": "ديناراً سعر بيع الـ100 دولار في محال الصيرفة ببغداد، وهو السعر الذي يدفعه المواطن فعلياً، مقابل 154,000 ديناراً للشراء (شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع المحال",
+          "value": "155,000"
+        },
+        {
+          "label": "شراء المحال",
+          "value": "154,000"
+        },
+        {
+          "label": "المدينة",
+          "value": "بغداد"
+        }
+      ],
+      "broll": "images/news/2026-09-02-b-dollar-touches-155/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-02-b-dollar-touches-155/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وبمحال الصيرفة ببغداد",
+        "بيع المئة دولار 155,000 دينار",
+        "والشراء 154,000 — وهذا اللي تدفعه فعلاً"
+      ]
+    },
+    {
+      "label": "ماذا بعد؟",
+      "arabicHeading": "بغداد أغلى من أربيل بـ550",
+      "arabicBody": "في أربيل البيع 154,450 ديناراً والشراء 154,400 — أي أن محال بغداد أعلى من محال أربيل بـ550 ديناراً لكل 100 دولار (محتسب: بيع محال مقابل بيع محال · شفق نيوز).",
+      "bigStat": {
+        "value": "550",
+        "label": "The Baghdad-minus-Erbil gap in dinars per $100, comparing shop sell price with shop sell price",
+        "arabicLabel": "ديناراً فرق سعر البيع بين محال بغداد ومحال أربيل لكل 100 دولار، والمقارنة بيع محال مقابل بيع محال (محتسب · شفق نيوز · 2 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع أربيل",
+          "value": "154,450"
+        },
+        {
+          "label": "بيع بغداد",
+          "value": "155,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "550"
+        }
+      ],
+      "broll": "images/news/2026-09-02-b-dollar-touches-155/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-02-b-dollar-touches-155/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وفي أربيل البيع 154,450 ديناراً",
+        "أي أن محال بغداد أعلى بـ550 ديناراً",
+        "والمقارنة بيع محال مقابل بيع محال"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shafaq News",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بورصتا الكفاح والحارثية",
+      "domain": "shafaq.com"
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية تفتحان على 154,500 دينار لكل 100 دولار",
+    "ارتفاع 250 ديناراً عن افتتاح الجلسة السابقة (محتسب: افتتاح مقابل افتتاح)",
+    "محال الصيرفة ببغداد: بيع 155,000 دينار وشراء 154,000",
+    "أربيل: بيع 154,450 ديناراً وشراء 154,400",
+    "فرق بغداد عن أربيل 550 ديناراً (محتسب: بيع محال مقابل بيع محال)",
+    "سعر بيع المحال هو اللي تدفعه لو تشتري دولار",
+    "شريت دولار هالأسبوع؟ بشكد؟"
+  ]
+}
