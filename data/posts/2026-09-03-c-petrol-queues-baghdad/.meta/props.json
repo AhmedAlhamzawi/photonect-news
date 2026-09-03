@@ -1,0 +1,128 @@
+{
+  "dateLabel": "SEP 03 • 2026",
+  "arabicDateLabel": "3 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "بنزين بغداد",
+    "arabicHeadline": "طوابير البنزين ببغداد.. ولا توضيح رسمي حتى ظهر الخميس",
+    "englishSubhead": "SHAFAQ: DOZENS CLOSED | BAGHDAD QUEUES | NO EXPLANATION | SEP 3",
+    "heroMedia": "images/news/2026-09-03-c-petrol-queues-baghdad/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المشهد",
+      "arabicHeading": "عشرات المحطات مغلقة والطوابير تسدّ الجسور",
+      "arabicBody": "وثّق مراسلو شفق نيوز الخميس إغلاق عشرات محطات الوقود في بغداد، وطوابير سيارات امتدت مسافات طويلة وعرقلت السير في مناطق عدة وعلى الجسور.",
+      "bigStat": {
+        "value": "عشرات",
+        "label": "Baghdad stations closed Thursday",
+        "arabicLabel": "محطات مغلقة · شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "المدينة",
+          "value": "بغداد"
+        },
+        {
+          "label": "اليوم",
+          "value": "الخميس"
+        },
+        {
+          "label": "التوثيق",
+          "value": "مراسلون وصور"
+        }
+      ],
+      "broll": "images/news/2026-09-03-c-petrol-queues-baghdad/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-03-c-petrol-queues-baghdad/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مراسلو شفق نيوز وثّقوا الخميس في بغداد",
+        "إغلاق عشرات محطات الوقود",
+        "وطوابير امتدت حتى الجسور وعرقلت السير"
+      ]
+    },
+    {
+      "label": "التكرار",
+      "arabicHeading": "الأزمة ترجع بعد نحو 15 يوماً",
+      "arabicBody": "الأزمة تعود بعد نحو 15 يوماً من انتهاء سابقتها. سائقون قالوا لشفق نيوز إن النقص صار يتكرر بفواصل قصيرة، وطالبوا الجهات بتوضيح.",
+      "bigStat": {
+        "value": "15",
+        "label": "Days since previous shortage ended",
+        "arabicLabel": "يوماً بين الأزمتين"
+      },
+      "supportingStats": [
+        {
+          "label": "الفاصل",
+          "value": "~15 يوماً"
+        },
+        {
+          "label": "النطاق",
+          "value": "بغداد"
+        },
+        {
+          "label": "السائقون",
+          "value": "طالبوا بتوضيح"
+        }
+      ],
+      "broll": "images/news/2026-09-03-c-petrol-queues-baghdad/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-03-c-petrol-queues-baghdad/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الأزمة تعود بعد نحو 15 يوماً",
+        "سائقون: النقص يتكرر بفواصل قصيرة",
+        "وطالبوا الجهات المعنية بتوضيح الأسباب"
+      ]
+    },
+    {
+      "label": "الغائب",
+      "arabicHeading": "لا تفسير رسمي حتى ساعة النشر",
+      "arabicBody": "حتى ساعة نشر تقرير شفق نيوز لم تصدر أي جهة رسمية توضيحاً لأسباب الإغلاق ولا للإجراءات المتخذة. الأسباب، بحسب الوكالة، ما زالت غير معلنة.",
+      "bigStat": {
+        "value": "0",
+        "label": "Official explanations as of publication",
+        "arabicLabel": "توضيح رسمي حتى النشر"
+      },
+      "supportingStats": [
+        {
+          "label": "تفسير رسمي",
+          "value": "لم يصدر"
+        },
+        {
+          "label": "الأسباب",
+          "value": "غير معلنة"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-09-03-c-petrol-queues-baghdad/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-03-c-petrol-queues-baghdad/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "حتى ساعة النشر لا جهة رسمية تحدثت",
+        "لا توضيح للأسباب ولا للإجراءات",
+        "الأسباب غير معلنة بحسب شفق نيوز"
+      ]
+    }
+  ],
+  "arabicTicker": "طوابير البنزين ترجع إلى بغداد… ومحطات مغلقة بلا تفسير · عشرات المحطات مغلقة الخميس بحسب مراسلي شفق نيوز · طوابير امتدت حتى الجسور وعرقلت السير · الأزمة تعود بعد نحو 15 يوماً من انتهاء سابقتها · سائقون قالوا للوكالة إن النقص يتكرر بفواصل قصيرة · حتى ساعة النشر لم تصدر أي جهة رسمية توضيحاً · شكد انتظرت اليوم بطابور البنزين؟",
+  "endQuestion": "شكد انتظرت اليوم بطابور البنزين؟",
+  "sources": "شفق نيوز · مراسلو الوكالة"
+}

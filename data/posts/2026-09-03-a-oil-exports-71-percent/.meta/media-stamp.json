@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-a-oil-exports-71-percent",
+  "date": "2026-09-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1039111,
+      "sha256": "e9834c8219cf5084"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1200430,
+      "sha256": "2d83aa2798f8c9ff"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1210434,
+      "sha256": "a19e3d11d28bc575"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1282616,
+      "sha256": "306d693eb9cd0a35"
+    }
+  ]
+}

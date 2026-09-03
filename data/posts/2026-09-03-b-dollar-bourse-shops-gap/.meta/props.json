@@ -1,0 +1,128 @@
+{
+  "dateLabel": "SEP 03 • 2026",
+  "arabicDateLabel": "3 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "بورصة بغداد 154,650.. وسعر المحل 155,000",
+    "englishSubhead": "BOURSE 154,650 | SHOP 155,000 FLAT | GAP 350 | SHAFAQ",
+    "heroMedia": "images/news/2026-09-03-b-dollar-bourse-shops-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "بورصة بغداد الخميس عند 154,650",
+      "arabicBody": "سجّلت بورصتا الكفاح والحارثية ببغداد يوم الخميس 154,650 ديناراً لكل 100 دولار، مقابل 154,400 ديناراً سجّلتها الوكالة للأربعاء (شفق نيوز · 3 أيلول 2026).",
+      "bigStat": {
+        "value": "154,650",
+        "label": "Baghdad bourse rate per $100 Thursday, up from 154,400 Wednesday",
+        "arabicLabel": "ديناراً لكل 100 دولار في بورصتي الكفاح والحارثية يوم الخميس، مقابل 154,400 يوم الأربعاء (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اليوم",
+          "value": "154,650"
+        },
+        {
+          "label": "الأربعاء",
+          "value": "154,400"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+250"
+        }
+      ],
+      "broll": "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية عند 154,650",
+        "لكل 100 دولار يوم الخميس",
+        "مقابل 154,400 ديناراً للأربعاء"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "السعر الذي يدفعه المواطن لم يتغيّر",
+      "arabicBody": "في محال الصيرفة ببغداد بقي البيع 155,000 دينار لكل 100 دولار والشراء 154,000، وفي أربيل البيع 154,600 (شفق نيوز · 3 أيلول 2026).",
+      "bigStat": {
+        "value": "155,000",
+        "label": "Baghdad exchange-shop selling price per $100 — unchanged from Wednesday",
+        "arabicLabel": "دينار سعر البيع في محال الصيرفة ببغداد لكل 100 دولار، بلا تغيّر عن يوم الأربعاء (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "155,000"
+        },
+        {
+          "label": "شراء بغداد",
+          "value": "154,000"
+        },
+        {
+          "label": "بيع أربيل",
+          "value": "154,600"
+        }
+      ],
+      "broll": "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محال الصيرفة ببغداد: البيع 155,000 دينار",
+        "والشراء 154,000",
+        "وفي أربيل البيع 154,600 ديناراً"
+      ]
+    },
+    {
+      "label": "الرقم الأهم",
+      "arabicHeading": "ما تدفعه أعلى من سعر البورصة",
+      "arabicBody": "ما يدفعه المشتري في محال بغداد اليوم يزيد 350 ديناراً على سعر البورصة نفسه (محتسب: بيع محال مقابل بورصة · شفق نيوز).",
+      "bigStat": {
+        "value": "350",
+        "label": "Dinars the Baghdad shop selling price sits above the bourse rate today",
+        "arabicLabel": "ديناراً يزيدها سعر بيع محال بغداد على سعر البورصة اليوم (محتسب · بيع محال مقابل بورصة)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع المحال",
+          "value": "155,000"
+        },
+        {
+          "label": "البورصة",
+          "value": "154,650"
+        },
+        {
+          "label": "الفارق (محتسب)",
+          "value": "350"
+        }
+      ],
+      "broll": "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-03-b-dollar-bourse-shops-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بيع المحال 155,000 وسعر البورصة 154,650",
+        "الفارق 350 ديناراً (محتسب)",
+        "بيع محال مقابل بورصة"
+      ]
+    }
+  ],
+  "arabicTicker": "البورصة 154,650 مقابل 154,400 للأربعاء · بيع المحال ببغداد 155,000 · أربيل بيعاً 154,600 · الفارق بين بيع المحال والبورصة 350 (محتسب) · شفق نيوز",
+  "endQuestion": "شريت دولار اليوم؟ بشكد حسبوها عليك بالمحل؟",
+  "sources": "شفق نيوز · بورصتا الكفاح والحارثية"
+}

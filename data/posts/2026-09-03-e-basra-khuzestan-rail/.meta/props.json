@@ -1,0 +1,128 @@
+{
+  "dateLabel": "SEP 03 • 2026",
+  "arabicDateLabel": "3 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سكك",
+    "arabicHeadline": "مسؤول إيراني لشفق: سكة البصرة–خوزستان 70%.. والموعد غير معلن",
+    "englishSubhead": "HASSANI: RAIL 70% | 16 KM DEMINED | SHALAMCHEH ZONES STILL PLANS | NO DATE OR COST",
+    "heroMedia": "images/news/2026-09-03-e-basra-khuzestan-rail/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التصريح",
+      "arabicHeading": "حسني في البصرة: الإنجاز بلغ 70%",
+      "arabicBody": "زار وفد إيراني البصرة، وأمام شفق نيوز قال شمس الدين حسني، رئيس اللجنة الاقتصادية بمجلس الشورى الإيراني، إن الربط السككي مع خوزستان بلغ 70%.",
+      "bigStat": {
+        "value": "70%",
+        "label": "Completion rate stated by Hassani",
+        "arabicLabel": "نسبة أعلنها حسني"
+      },
+      "supportingStats": [
+        {
+          "label": "القائل",
+          "value": "شمس الدين حسني"
+        },
+        {
+          "label": "صفته",
+          "value": "مجلس الشورى"
+        },
+        {
+          "label": "المكان",
+          "value": "البصرة"
+        }
+      ],
+      "broll": "images/news/2026-09-03-e-basra-khuzestan-rail/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-03-e-basra-khuzestan-rail/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "زار وفد إيراني البصرة",
+        "شمس الدين حسني لشفق نيوز: الإنجاز 70%",
+        "والموعد؟ لم يُذكر في التصريح"
+      ]
+    },
+    {
+      "label": "الميدان",
+      "arabicHeading": "حسني: 16 كيلومتراً طُهّرت من الألغام",
+      "arabicBody": "ألغام على المسار: قال حسني إن 16 كيلومتراً في الجانب الإيراني جرى تطهيرها. الرقم بحسب حسني.",
+      "bigStat": {
+        "value": "16",
+        "label": "Km demined, per Hassani",
+        "arabicLabel": "كيلومترات بحسب حسني"
+      },
+      "supportingStats": [
+        {
+          "label": "المُطهَّر",
+          "value": "16 كم"
+        },
+        {
+          "label": "الجانب",
+          "value": "إيراني"
+        },
+        {
+          "label": "القائل",
+          "value": "حسني"
+        }
+      ],
+      "broll": "images/news/2026-09-03-e-basra-khuzestan-rail/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-03-e-basra-khuzestan-rail/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "ألغام على مسار الخط الحدودي",
+        "حسني: 16 كيلومتراً جرى تطهيرها",
+        "الرقم بحسب حسني"
+      ]
+    },
+    {
+      "label": "الغائب",
+      "arabicHeading": "منطقة حرة ومركز صناعي.. خطط فقط",
+      "arabicBody": "على طاولة الوفد أيضاً: منطقة تجارية حرة ومركز صناعي عند الشلامجة. الاثنان خطط حتى الآن — لا موعد إنجاز، لا كلفة، ولا تمويل معلن.",
+      "bigStat": {
+        "value": "0",
+        "label": "Dates, costs or financing published",
+        "arabicLabel": "لا شيء معلن"
+      },
+      "supportingStats": [
+        {
+          "label": "موعد",
+          "value": "لم يُعلن"
+        },
+        {
+          "label": "كلفة",
+          "value": "لم تُعلن"
+        },
+        {
+          "label": "تمويل",
+          "value": "لم يُعلن"
+        }
+      ],
+      "broll": "images/news/2026-09-03-e-basra-khuzestan-rail/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-03-e-basra-khuzestan-rail/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "منطقة حرة ومركز صناعي عند الشلامجة",
+        "الاثنان ما زالا خططاً على الورق",
+        "لا موعد ولا كلفة ولا تمويل معلن"
+      ]
+    }
+  ],
+  "arabicTicker": "مسؤول إيراني لشفق: سكة البصرة–خوزستان 70%.. والموعد غير معلن · شمس الدين حسني: 16 كم طُهّرت من الألغام في الجانب الإيراني · منطقة حرة ومركز صناعي عند الشلامجة ما زالا خططاً · لا كلفة ولا آلية تمويل أُعلنت · تشوف بضاعة إيرانية بالسوق قربك؟ إي لو لا؟",
+  "endQuestion": "تشوف بضاعة إيرانية بالسوق قربك؟ إي لو لا؟",
+  "sources": "شفق نيوز · شمس الدين حسني"
+}

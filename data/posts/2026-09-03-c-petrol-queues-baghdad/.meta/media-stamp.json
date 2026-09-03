@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-c-petrol-queues-baghdad",
+  "date": "2026-09-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 927648,
+      "sha256": "c80d87e8060b65b1"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1732677,
+      "sha256": "31dd799a706af223"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1127159,
+      "sha256": "21b042780d7ed845"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1490159,
+      "sha256": "549831acacb285e0"
+    }
+  ]
+}

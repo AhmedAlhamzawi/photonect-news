@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-b-dollar-bourse-shops-gap",
+  "date": "2026-09-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1034621,
+      "sha256": "9da1fdef68a3bbac"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1133071,
+      "sha256": "70c5099975a74df8"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1392455,
+      "sha256": "3e942b5fa15062e8"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1248519,
+      "sha256": "f3db0344ed16915d"
+    }
+  ]
+}

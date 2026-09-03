@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-d-gold-jumps-25-thousand",
+  "date": "2026-09-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 954567,
+      "sha256": "839ac75642c4c7de"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1489731,
+      "sha256": "ddb78b24314b9fbb"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 737466,
+      "sha256": "e7162d05fdd094a7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 828141,
+      "sha256": "f266b38bb1019ebd"
+    }
+  ]
+}

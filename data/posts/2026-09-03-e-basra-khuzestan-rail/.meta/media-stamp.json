@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-e-basra-khuzestan-rail",
+  "date": "2026-09-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1605306,
+      "sha256": "edb69f6fa539fb2b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 2091845,
+      "sha256": "238d4cd8cf905112"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1648692,
+      "sha256": "d771ec41b62c83dd"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1583865,
+      "sha256": "ec60f3b80b45f2f9"
+    }
+  ]
+}

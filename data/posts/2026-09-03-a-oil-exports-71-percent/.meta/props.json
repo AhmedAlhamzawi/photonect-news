@@ -1,0 +1,129 @@
+{
+  "dateLabel": "SEP 03 • 2026",
+  "arabicDateLabel": "3 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "المرسومي: صادرات النفط عادت إلى 71% بخصم للبرميل",
+    "englishSubhead": "IRAQ CRUDE | 2.34M BPD IN AUGUST | 71% OF PRE-WAR | SHAFAQ NEWS",
+    "heroMedia": "images/news/2026-09-03-a-oil-exports-71-percent/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم",
+      "arabicHeading": "2.34 مليون برميل يومياً في آب",
+      "arabicBody": "بلغت صادرات العراق النفطية 2.34 مليون برميل يومياً في آب، مقابل 1.35 مليون في تموز، أي 71% من مستوى ما قبل الحرب (شفق نيوز · المرسومي).",
+      "bigStat": {
+        "value": "71%",
+        "label": "Share of pre-war export level",
+        "arabicLabel": "من مستوى ما قبل الحرب"
+      },
+      "supportingStats": [
+        {
+          "label": "آب",
+          "value": "2.34 م ب/ي"
+        },
+        {
+          "label": "تموز",
+          "value": "1.35 م ب/ي"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+990 ألف"
+        }
+      ],
+      "broll": "images/news/2026-09-03-a-oil-exports-71-percent/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-03-a-oil-exports-71-percent/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "2.34 مليون برميل يومياً في آب",
+        "مقابل 1.35 مليون برميل في تموز",
+        "71% من مستوى ما قبل الحرب"
+      ]
+    },
+    {
+      "label": "التفسير",
+      "arabicHeading": "المرسومي: الخصومات وراء التعافي",
+      "arabicBody": "يعزو الخبير نبيل المرسومي التعافي إلى تكيّف سومو مع أزمة المضيق بسياسة خصومات سعرية تتراوح بين 25 و30 دولاراً للبرميل (شفق نيوز · 2 أيلول 2026).",
+      "bigStat": {
+        "value": "$25-30",
+        "label": "Per-barrel discount cited by Marsoumi",
+        "arabicLabel": "خصم البرميل"
+      },
+      "supportingStats": [
+        {
+          "label": "الخصم",
+          "value": "25-30 $"
+        },
+        {
+          "label": "الجهة",
+          "value": "سومو"
+        },
+        {
+          "label": "التقدير",
+          "value": "المرسومي"
+        }
+      ],
+      "broll": "images/news/2026-09-03-a-oil-exports-71-percent/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-03-a-oil-exports-71-percent/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المرسومي يعزو التعافي إلى تكيّف سومو",
+        "مع أزمة المضيق بسياسة خصومات سعرية",
+        "بين 25 و30 دولاراً للبرميل"
+      ]
+    },
+    {
+      "label": "ما يتبقى",
+      "arabicHeading": "شحن وتأمين 17 دولاراً.. والهامش 10",
+      "arabicBody": "وتُقدَّر كلفة الشحن والتأمين بنحو 17 دولاراً للبرميل، ما يترك هامش ربح بحدود 10 دولارات للبرميل، وفق التقدير نفسه (شفق نيوز · 2 أيلول).",
+      "bigStat": {
+        "value": "$10",
+        "label": "Estimated margin left per barrel",
+        "arabicLabel": "هامش البرميل التقديري"
+      },
+      "supportingStats": [
+        {
+          "label": "شحن وتأمين",
+          "value": "~17 $"
+        },
+        {
+          "label": "الهامش",
+          "value": "~10 $"
+        },
+        {
+          "label": "التقدير",
+          "value": "المرسومي"
+        }
+      ],
+      "broll": "images/news/2026-09-03-a-oil-exports-71-percent/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-03-a-oil-exports-71-percent/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الشحن والتأمين نحو 17 دولاراً للبرميل",
+        "الهامش المتبقي بحدود 10 دولارات",
+        "وفق تقدير المرسومي المنشور",
+        "وحدة أبحاث الطاقة: ثالث ارتفاع شهري"
+      ]
+    }
+  ],
+  "arabicTicker": "صادرات العراق النفطية 2.34 مليون برميل يومياً في آب · 71% من مستوى ما قبل الحرب · المرسومي يعزوها إلى خصم 25-30 دولاراً للبرميل · شحن وتأمين 17 دولاراً وهامش 10 · المصدر: شفق نيوز",
+  "endQuestion": "سمعت بهذا الخصم قبل اليوم؟ إي لو لا؟",
+  "sources": "شفق نيوز · نبيل المرسومي · وحدة أبحاث الطاقة"
+}

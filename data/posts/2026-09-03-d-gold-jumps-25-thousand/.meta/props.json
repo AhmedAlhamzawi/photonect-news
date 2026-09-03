@@ -1,0 +1,130 @@
+{
+  "dateLabel": "SEP 03 • 2026",
+  "arabicDateLabel": "3 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "أسعار الذهب",
+    "arabicHeadline": "سعر الذهب ببغداد: مثقال الجملة قفز 25 ألف دينار",
+    "englishSubhead": "GOLD | BAGHDAD WHOLESALE 970,000 | +25,000 IN ONE SESSION | SHAFAQ NEWS",
+    "heroMedia": "images/news/2026-09-03-d-gold-jumps-25-thousand/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "970 ألفاً لمثقال الجملة الخليجي ببغداد",
+      "arabicBody": "بسوق الجملة في شارع النهر، بيع المثقال الخليجي عيار 21 عند 970,000 دينار وشراؤه 966,000، مقابل 945,000 يوم الأربعاء (شفق نيوز · 3 أيلول 2026).",
+      "bigStat": {
+        "value": "+25,000",
+        "label": "One-session rise, Baghdad wholesale sell against wholesale sell (derived)",
+        "arabicLabel": "ديناراً بجلسة واحدة (محتسب · جملة مقابل جملة)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع الجملة",
+          "value": "970,000"
+        },
+        {
+          "label": "شراء الجملة",
+          "value": "966,000"
+        },
+        {
+          "label": "الأربعاء",
+          "value": "945,000"
+        }
+      ],
+      "broll": "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "في سوق الجملة بشارع النهر ببغداد",
+        "970 ألف دينار بيع المثقال الخليجي",
+        "مقابل 945 ألفاً يوم الأربعاء",
+        "فارق محتسب 25 ألفاً بجلسة واحدة"
+      ]
+    },
+    {
+      "label": "لماذا يهم؟",
+      "arabicHeading": "الصاغة تطلب نطاقاً لا رقماً واحداً",
+      "arabicBody": "في الصاغة يُعرض المثقال الخليجي ضمن نطاق 975,000 إلى 980,000 ديناراً، والعراقي 940,000 إلى 950,000؛ وهذا سعر تجزئة يختلف عن الجملة (شفق نيوز · 3 أيلول).",
+      "bigStat": {
+        "value": "975-980",
+        "label": "Thousand-dinar range asked in Baghdad retail shops, not one price",
+        "arabicLabel": "ألف دينار نطاق الصاغة (تجزئة لا جملة)"
+      },
+      "supportingStats": [
+        {
+          "label": "صاغة خليجي",
+          "value": "975-980 ألف"
+        },
+        {
+          "label": "صاغة عراقي",
+          "value": "940-950 ألف"
+        },
+        {
+          "label": "جملة عراقي",
+          "value": "940,000"
+        }
+      ],
+      "broll": "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "سعر الصاغة نطاق يُطلب لا رقم واحد",
+        "بين 975 و980 ألف دينار للخليجي",
+        "والعراقي بين 940 و950 ألفاً",
+        "وهذا سعر تجزئة يختلف عن الجملة"
+      ]
+    },
+    {
+      "label": "الرقم الأهم",
+      "arabicHeading": "أربيل: عيار 22 تجاوز المليون",
+      "arabicBody": "في أربيل بلغ مثقال عيار 22 نحو 1,004,000 دينار، وعيار 21 عند 960,000، وعيار 18 عند 822,000، ولم يورد المصدر سعر الأربعاء لأربيل (شفق نيوز).",
+      "bigStat": {
+        "value": "1,004,000",
+        "label": "Dinars for a 22-carat mithqal in Erbil, above one million",
+        "arabicLabel": "دينار · مثقال عيار 22 بأربيل"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل 22",
+          "value": "1,004,000"
+        },
+        {
+          "label": "أربيل 21",
+          "value": "960,000"
+        },
+        {
+          "label": "أربيل 18",
+          "value": "822,000"
+        }
+      ],
+      "broll": "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-03-d-gold-jumps-25-thousand/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "في أربيل عيار 22 عند 1,004,000 دينار",
+        "وعيار 21 بـ960,000 وعيار 18 بـ822,000",
+        "ولم يورد المصدر سعر الأربعاء لأربيل"
+      ]
+    }
+  ],
+  "arabicTicker": "سعر الذهب ببغداد: مثقال الجملة قفز 25 ألف دينار (محتسب · جملة مقابل جملة) · بيع الجملة 970,000 بعد 945,000 · الصاغة نطاق 975-980 ألفاً وهو سعر تجزئة · أربيل عيار 22 عند 1,004,000 · المصدر شفق نيوز · عندك ذهب بالبيت؟",
+  "endQuestion": "تشتري ذهب بهذا السعر لو تنطر؟",
+  "sources": "شفق نيوز · أسواق الجملة بشارع النهر"
+}
