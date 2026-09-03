@@ -65,6 +65,25 @@ def beat(label, heading, body, stat_v, stat_en, stat_ar, pills, slug, broll, acc
     }
 
 
+
+def _validate(slug: str, props: dict) -> None:
+    """Guard the schema mistakes that only surface at render time.
+
+    `sources` MUST be a list of {name, domain} dicts: NewsReel/scenes/Sources.tsx
+    calls sources.map(), so a bare string throws `sources.map is not a function`
+    at ~frame 1450 and kills the whole slug. V11 slugs never draw that scene, so
+    the bug hides until a slug renders V10.1 (or a V11 slug falls back) — which is
+    exactly how it took down the 2026-09-03 control on the first run.
+    """
+    src = props.get("sources")
+    if not isinstance(src, list) or not all(
+        isinstance(x, dict) and {"name", "domain"} <= set(x) for x in src
+    ):
+        raise SystemExit(
+            f"{slug}: props['sources'] must be a list of {{name, domain}} dicts, "
+            f"got {type(src).__name__} -> Sources.tsx will throw at render time"
+        )
+
 SLATE: dict[str, dict] = {}
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -440,6 +459,7 @@ SLATE[s] = {
 
 def main() -> int:
     for slug, payload in SLATE.items():
+        _validate(slug, payload["props"])
         d = POSTS / slug / ".meta"
         d.mkdir(parents=True, exist_ok=True)
         (d / "props.json").write_text(
