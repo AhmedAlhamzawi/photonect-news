@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-06-a-dollar-rumour-1460",
+  "date": "2026-09-06",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1027923,
+      "sha256": "777387b5294a65cf"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1330892,
+      "sha256": "39dae4221fb77b2b"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1800686,
+      "sha256": "a7205c674ca53f8d"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1465611,
+      "sha256": "afe8c5c6c2e3aa4d"
+    }
+  ]
+}

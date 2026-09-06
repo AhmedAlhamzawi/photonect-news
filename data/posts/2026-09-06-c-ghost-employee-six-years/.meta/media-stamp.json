@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-06-c-ghost-employee-six-years",
+  "date": "2026-09-06",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1017680,
+      "sha256": "dfe39615d7574ad6"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 816046,
+      "sha256": "203a7162ee0b0157"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 824529,
+      "sha256": "b68370d03674bf8e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1450293,
+      "sha256": "9288100e37f7128a"
+    }
+  ]
+}

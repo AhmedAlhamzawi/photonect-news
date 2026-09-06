@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 06 • 2026",
+  "arabicDateLabel": "6 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "global_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تجارة",
+    "arabicHeadline": "صادرات لبنان إلى العراق قفزت 47.4% في ربع واحد",
+    "englishSubhead": "LEBANESE EXPORTS TO IRAQ REACHED ABOUT $516 MILLION IN Q2 2026 AGAINST $350 MILLION IN Q1, A RISE OF $166 MILLION OR 47.4% | PEARLS, PRECIOUS STONES, JEWELLERY AND COINS LED AT $214 MILLION AGAINST $44 MILLION IN Q1 | SHAFAQ NEWS CITING THE INTERNATIONAL TRADE CENTRE TRADE MAP, SUN 6 SEP",
+    "heroMedia": "images/news/2026-09-06-b-lebanon-exports-516/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا يحدث؟",
+      "arabicHeading": "من 350 إلى 516 مليوناً في ربع واحد",
+      "arabicBody": "قفزت صادرات لبنان إلى العراق من 350 مليون دولار في الربع الأول إلى نحو 516 مليوناً في الثاني من 2026 (شفق نيوز · مركز التجارة الدولية).",
+      "bigStat": {
+        "value": "47.4%",
+        "label": "Quarter-on-quarter rise in Lebanese exports to Iraq, Q2 2026 against Q1",
+        "arabicLabel": "ارتفاع صادرات لبنان إلى العراق في الربع الثاني من 2026 عن الربع الأول، من 350 إلى 516 مليون دولار (شفق نيوز · مركز التجارة الدولية · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الربع الثاني",
+          "value": "516 م$"
+        },
+        {
+          "label": "الربع الأول",
+          "value": "350 م$"
+        },
+        {
+          "label": "الزيادة",
+          "value": "166 م$"
+        }
+      ],
+      "broll": "images/news/2026-09-06-b-lebanon-exports-516/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-06-b-lebanon-exports-516/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "من 350 مليون دولار في الربع الأول",
+        "إلى نحو 516 مليوناً في الربع الثاني",
+        "قفزة 47.4% في ثلاثة أشهر فقط"
+      ]
+    },
+    {
+      "label": "ما الذي تصدّر؟",
+      "arabicHeading": "المجوهرات والمعادن الكريمة تتصدر بـ214 مليوناً",
+      "arabicBody": "تصدّرت اللآلئ والأحجار والمعادن الكريمة ومصنوعاتها والمجوهرات والمسكوكات القائمة بـ214 مليون دولار في الربع الثاني، مقابل 44 مليوناً في الأول (شفق نيوز · مركز التجارة الدولية).",
+      "bigStat": {
+        "value": "214",
+        "label": "Millions of dollars of pearls, precious stones, jewellery and coins — the single largest export line in Q2",
+        "arabicLabel": "مليون دولار: بند اللآلئ والأحجار والمعادن الكريمة والمجوهرات والمسكوكات، أكبر بند مفرد في الربع الثاني (شفق نيوز · مركز التجارة الدولية · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البند الأول",
+          "value": "214 م$"
+        },
+        {
+          "label": "بالربع الأول",
+          "value": "44 م$"
+        },
+        {
+          "label": "ترتيبه",
+          "value": "الأول"
+        }
+      ],
+      "broll": "images/news/2026-09-06-b-lebanon-exports-516/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-06-b-lebanon-exports-516/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "اللآلئ والمعادن الكريمة والمجوهرات والمسكوكات",
+        "تصدّرت القائمة بـ214 مليون دولار",
+        "مقابل 44 مليوناً في الربع الأول"
+      ]
+    },
+    {
+      "label": "الصورة الأوسع",
+      "arabicHeading": "نصف سنة: 866 مليون دولار (محتسب)",
+      "arabicBody": "بجمع الربعين يبلغ إجمالي النصف الأول من 2026 نحو 866 مليون دولار، وتشمل القائمة أيضاً النحاس والآلات الكهربائية والأسمدة ومحضرات الخضار والفواكه والملابس (شفق نيوز).",
+      "bigStat": {
+        "value": "866",
+        "label": "Millions of dollars of Lebanese exports to Iraq across the first half of 2026 — the two published quarters added together",
+        "arabicLabel": "مليون دولار: إجمالي صادرات لبنان إلى العراق في النصف الأول من 2026، وهو حاصل جمع الربعين المنشورين (محتسب من أرقام شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "النصف الأول",
+          "value": "866 م$"
+        },
+        {
+          "label": "الاحتساب",
+          "value": "350+516"
+        },
+        {
+          "label": "المصدر",
+          "value": "مركز التجارة"
+        }
+      ],
+      "broll": "images/news/2026-09-06-b-lebanon-exports-516/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-06-b-lebanon-exports-516/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "إجمالي النصف الأول نحو 866 مليون دولار (محتسب)",
+        "وفي القائمة نحاس ورصاص وحديد وألمنيوم",
+        "وأسمدة وآلات كهربائية ومحضرات خضار وملابس"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "صادرات لبنان إلى العراق قفزت 47.4% في ربع واحد",
+    "مقابل 350 مليوناً في الربع الأول، بزيادة 166 مليوناً ونسبة 47.4%",
+    "اللآلئ والمعادن الكريمة والمجوهرات والمسكوكات أكبر بند بـ214 مليون دولار",
+    "مقابل 44 مليون دولار للبند نفسه في الربع الأول",
+    "إجمالي النصف الأول من 2026 نحو 866 مليون دولار (محتسب)",
+    "تشتري بضاعة لبنانية؟ إي لو لا؟"
+  ],
+  "endQuestion": "تشتري بضاعة لبنانية؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "مركز التجارة الدولية",
+      "domain": "intracen.org"
+    },
+    {
+      "name": "قاعدة بيانات Trade Map",
+      "domain": "trademap.org"
+    }
+  ]
+}

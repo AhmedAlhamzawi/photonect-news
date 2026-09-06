@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-06-b-lebanon-exports-516",
+  "date": "2026-09-06",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1519847,
+      "sha256": "131895f09fa5dd1b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 985326,
+      "sha256": "919e4ebdb841df43"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1660426,
+      "sha256": "11a144e3806f4690"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1106585,
+      "sha256": "0380cd37607767aa"
+    }
+  ]
+}

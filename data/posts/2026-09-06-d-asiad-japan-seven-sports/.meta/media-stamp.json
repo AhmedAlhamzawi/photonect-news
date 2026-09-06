@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-06-d-asiad-japan-seven-sports",
+  "date": "2026-09-06",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1716441,
+      "sha256": "ad586254481e8e82"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1260459,
+      "sha256": "d41fab6e5ba3ab80"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1772129,
+      "sha256": "37783d32bb17bcc5"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1373282,
+      "sha256": "74e12c7dbc7cc7f4"
+    }
+  ]
+}

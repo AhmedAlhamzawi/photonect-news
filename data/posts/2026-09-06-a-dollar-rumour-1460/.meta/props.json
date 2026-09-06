@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 06 • 2026",
+  "arabicDateLabel": "6 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "سعر الدولار اليوم في العراق.. وخبر الـ1,460 الذي نفاه البنك المركزي",
+    "englishSubhead": "A CLAIM SPREAD ON SOCIAL MEDIA ON SATURDAY THAT THE CENTRAL BANK WOULD PRICE DEPOSITS AT 1,460 DINARS PER DOLLAR FROM SUNDAY | CBI MEDIA DIRECTOR HAIDER GHAZI TOLD SHAFAQ NEWS THE REPORT IS FALSE AND AIMED AT DESTABILISING THE EXCHANGE RATE | SEPARATELY, AL-FALLUJAH TV PUT THE AL-KIFAH AND AL-HARITHIYA BOURSES AT 154,900 DINARS PER $100 ON SUNDAY AGAINST 154,650 ON SATURDAY; NO SOURCE LINKS THE TWO | SUN 6 SEP",
+    "heroMedia": "images/news/2026-09-06-a-dollar-rumour-1460/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "خبر السبت: الإيداع بـ1,460 ديناراً للدولار",
+      "arabicBody": "انتشر السبت في وسائل التواصل خبر يقول إن البنك المركزي أبلغ بأن الإيداع يكون بـ1,460 ديناراً لكل دولار من اليوم (شفق نيوز · 5 أيلول 2026).",
+      "bigStat": {
+        "value": "1,460",
+        "label": "Dinars per dollar in the circulating claim about deposit pricing — a claim the central bank denies",
+        "arabicLabel": "ديناراً للدولار في الخبر المتداول عن تسعير الإيداع، وهو خبر نفاه البنك المركزي (شفق نيوز · 5 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخبر",
+          "value": "1,460 د/$"
+        },
+        {
+          "label": "مصدره",
+          "value": "تواصل اجتماعي"
+        },
+        {
+          "label": "حالته",
+          "value": "منفي رسمياً"
+        }
+      ],
+      "broll": "images/news/2026-09-06-a-dollar-rumour-1460/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-06-a-dollar-rumour-1460/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "خبر انتشر السبت عن تغيير سعر الصرف",
+        "قال الخبر إن الإيداع بـ1,460 ديناراً للدولار من اليوم",
+        "هذا ما قاله الخبر المتداول.. فماذا قال المركزي؟"
+      ]
+    },
+    {
+      "label": "الرد الرسمي",
+      "arabicHeading": "المركزي: الخبر كاذب وعار عن الصحة",
+      "arabicBody": "نفى مدير إعلام البنك المركزي حيدر غازي الخبر، وقال لشفق نيوز إنه «كاذب وعار عن الصحة»، وإن هدفه «زعزعة الاستقرار الاقتصادي واستقرار سعر الصرف، لغايات معينة».",
+      "bigStat": {
+        "value": "0",
+        "label": "Official changes to the exchange rate in respect of the circulating claim, per the CBI media director",
+        "arabicLabel": "لا تغيير رسمي في سعر الصرف بشأن ما تداولته المواقع، بحسب مدير إعلام البنك المركزي حيدر غازي (شفق نيوز · 5 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "النافي",
+          "value": "حيدر غازي"
+        },
+        {
+          "label": "صفته",
+          "value": "مدير الإعلام"
+        },
+        {
+          "label": "الجهة",
+          "value": "البنك المركزي"
+        }
+      ],
+      "broll": "images/news/2026-09-06-a-dollar-rumour-1460/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-06-a-dollar-rumour-1460/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مدير إعلام المركزي حيدر غازي ينفي",
+        "«الخبر كاذب وعار عن الصحة»",
+        "«وهدفه زعزعة استقرار سعر الصرف»"
+      ]
+    },
+    {
+      "label": "السوق اليوم",
+      "arabicHeading": "البورصة اليوم: 154,900 لكل 100 دولار",
+      "arabicBody": "في السوق الموازية اليوم الأحد، سجّلت بورصتا الكفاح والحارثية 154,900 دينار لكل 100 دولار مقابل 154,650 أمس السبت، ولم تحدد القناة إن كان رقم أمس افتتاحاً أم إغلاقاً (قناة الفلوجة).",
+      "bigStat": {
+        "value": "154,900",
+        "label": "Dinars per $100 recorded by the Al-Kifah and Al-Harithiya bourses on Sunday",
+        "arabicLabel": "ديناراً لكل 100 دولار سجّلتها بورصتا الكفاح والحارثية اليوم الأحد، مقابل 154,650 أمس السبت — ولم تحدد القناة إن كان رقم أمس افتتاحاً أم إغلاقاً (قناة الفلوجة · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البورصة اليوم",
+          "value": "154,900"
+        },
+        {
+          "label": "أمس السبت",
+          "value": "154,650"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "+250"
+        }
+      ],
+      "broll": "images/news/2026-09-06-a-dollar-rumour-1460/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-06-a-dollar-rumour-1460/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية 154,900 دينار لكل 100 دولار",
+        "مقابل 154,650 أمس السبت",
+        "ولم تحدد القناة إن كان رقم أمس افتتاحاً أم إغلاقاً",
+        "ومحال الصيرفة ببغداد بيع 155,500 وشراء 154,500"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "خبر متداول: الإيداع بـ1,460 ديناراً لكل دولار — نفاه البنك المركزي",
+    "مدير إعلام المركزي حيدر غازي: الخبر كاذب وعار عن الصحة",
+    "بورصتا الكفاح والحارثية 154,900 لكل 100 دولار اليوم الأحد",
+    "مقابل 154,650 أمس السبت — ولم يُذكر إن كان افتتاحاً أم إغلاقاً",
+    "محال الصيرفة ببغداد: بيع 155,500 وشراء 154,500",
+    "وصلك خبر الـ1,460 أمس؟ إي لو لا؟"
+  ],
+  "endQuestion": "وصلك خبر الـ1,460 أمس؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "حيدر غازي — مدير إعلام البنك المركزي (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "قناة الفلوجة",
+      "domain": "alfallujah.tv"
+    }
+  ]
+}

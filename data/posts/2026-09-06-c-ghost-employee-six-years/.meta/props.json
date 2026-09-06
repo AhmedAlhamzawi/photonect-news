@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 06 • 2026",
+  "arabicDateLabel": "6 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "بتهمة صرف راتب موظف وهمي 6 سنوات.. النزاهة تضبط محاسباً بنينوى",
+    "englishSubhead": "IRAQ'S FEDERAL INTEGRITY COMMISSION SAYS AN ACCOUNTANT AT THE HADHAR EDUCATION SECTION IN QAYYARAH, NINEVEH, IS ACCUSED OF DRAWING MONTHLY SALARIES IN A FICTITIOUS PERSON'S NAME FROM LATE 2017 TO 2023 | HELD PENDING INVESTIGATION UNDER ARTICLE 315 | HE REMAINS ACCUSED, THERE IS NO CONVICTION | NO NAME AND NO SUM HAVE BEEN PUBLISHED | INA, LALISH NETWORK, SAT 5 SEP",
+    "heroMedia": "images/news/2026-09-06-c-ghost-employee-six-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "شنو صار؟",
+      "arabicHeading": "النزاهة تضبط محاسباً بتربية الحضر",
+      "arabicBody": "في قسم تربية الحضر بالقيارة، التابع للمديرية العامة لتربية محافظة نينوى، ضبطت هيئة النزاهة الاتحادية محاسباً بتهمة صرف وسحب رواتب شهرية باسم شخص وهمي (وكالة الأنباء العراقية · شبكة لالش · 5 أيلول 2026).",
+      "bigStat": {
+        "value": "1",
+        "label": "Accountant detained, per the Federal Integrity Commission — an accusation, not a conviction",
+        "arabicLabel": "محاسب واحد ضُبط بتهمة قيد التحقيق، لا إدانة صادرة بحقه (هيئة النزاهة عبر وكالة الأنباء العراقية · 5 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "هيئة النزاهة"
+        },
+        {
+          "label": "المكان",
+          "value": "تربية الحضر"
+        },
+        {
+          "label": "المحافظة",
+          "value": "نينوى"
+        }
+      ],
+      "broll": "images/news/2026-09-06-c-ghost-employee-six-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-06-c-ghost-employee-six-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة النزاهة الاتحادية أعلنت ضبط محاسب",
+        "في قسم تربية الحضر بالقيارة بنينوى",
+        "بتهمة صرف رواتب باسم شخص وهمي"
+      ]
+    },
+    {
+      "label": "شكد استمر؟",
+      "arabicHeading": "6 سنوات راتب.. والمبلغ لم يُعلن",
+      "arabicBody": "وبحسب هيئة النزاهة، استمر صرف الراتب باسم شخص وهمي من أواخر 2017 حتى 2023، أي نحو 6 سنوات، ولم تُعلن قيمة أي مبلغ (وكالة الأنباء العراقية · 5 أيلول 2026).",
+      "bigStat": {
+        "value": "6",
+        "label": "Years the ghost salary was drawn, late 2017 to 2023 — no amount has been published",
+        "arabicLabel": "سنوات استمر خلالها الصرف المزعوم، من أواخر 2017 حتى 2023، ولم تُعلن قيمة المبالغ (وكالة الأنباء العراقية · 5 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البداية",
+          "value": "أواخر 2017"
+        },
+        {
+          "label": "النهاية",
+          "value": "2023"
+        },
+        {
+          "label": "المبلغ",
+          "value": "لم يُعلن"
+        }
+      ],
+      "broll": "images/news/2026-09-06-c-ghost-employee-six-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-06-c-ghost-employee-six-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وبحسب الهيئة استمر الصرف من أواخر 2017 حتى 2023",
+        "أي نحو 6 سنوات",
+        "ولم تُعلن قيمة أي مبلغ"
+      ]
+    },
+    {
+      "label": "وهسه شنو؟",
+      "arabicHeading": "توقيف على ذمة التحقيق.. لا إدانة",
+      "arabicBody": "قاضي التحقيق أمر بتوقيفه على ذمة التحقيق وفق المادة 315 من قانون العقوبات العراقي. وهو ما زال متهماً ولم تصدر بحقه إدانة (وكالة الأنباء العراقية · شبكة لالش · 5 أيلول 2026).",
+      "bigStat": {
+        "value": "315",
+        "label": "Article of the Iraqi penal code cited in the detention order",
+        "arabicLabel": "مادة قانون العقوبات العراقي التي استند إليها التوقيف على ذمة التحقيق، وهو ما زال متهماً بلا إدانة (وكالة الأنباء العراقية · 5 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "توقيف"
+        },
+        {
+          "label": "المادة",
+          "value": "315"
+        },
+        {
+          "label": "صفته",
+          "value": "متهم"
+        }
+      ],
+      "broll": "images/news/2026-09-06-c-ghost-employee-six-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-06-c-ghost-employee-six-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "قاضي التحقيق قرر التوقيف على ذمة التحقيق",
+        "استناداً إلى المادة 315 من قانون العقوبات",
+        "وهو ما زال متهماً ولم تصدر بحقه إدانة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بتهمة صرف راتب موظف وهمي 6 سنوات.. النزاهة تضبط محاسباً بنينوى",
+    "النزاهة: الضبط جرى في قسم تربية الحضر بالقيارة التابع لتربية محافظة نينوى",
+    "بحسب الهيئة الصرف استمر من أواخر 2017 حتى 2023 ولم تُعلن أي قيمة للمبالغ",
+    "توقيف على ذمة التحقيق وفق المادة 315 من قانون العقوبات وهو ما زال متهماً بلا إدانة",
+    "تعرف شلون تبلّغ هيئة النزاهة؟ إي لو لا؟"
+  ],
+  "endQuestion": "تعرف شلون تبلّغ هيئة النزاهة؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية (عبر وكالة الأنباء العراقية)",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "وكالة الأنباء العراقية (واع)",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "شبكة لالش الإعلامية",
+      "domain": "lalishduhok.com"
+    }
+  ]
+}

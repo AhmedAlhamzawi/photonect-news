@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 06 • 2026",
+  "arabicDateLabel": "6 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "wildcard",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رياضة",
+    "arabicHeadline": "العراق في آسياد اليابان: 7 ألعاب.. والانطلاق 19 أيلول",
+    "englishSubhead": "IRAQ AT ASIAD | 7 SPORTS | 19 SEP-4 OCT | 11,000 ATHLETES, 45 NATIONS",
+    "heroMedia": "images/news/2026-09-06-d-asiad-japan-seven-sports/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "بأي ألعاب؟",
+      "arabicHeading": "7 ألعاب تحمل اسم العراق",
+      "arabicBody": "يدخل العراق دورة الألعاب الآسيوية العشرين باليابان بسبع ألعاب: ألعاب القوى ورفع الأثقال والملاكمة والمصارعة والتجديف والجوجيتسو والتك بول (شفق نيوز · رئيس البعثة زيدون جواد · 6 أيلول 2026).",
+      "bigStat": {
+        "value": "7",
+        "label": "Sports Iraq will contest at the 20th Asian Games, per mission chief Zaidoun Jawad",
+        "arabicLabel": "ألعاب يدخل بها العراق دورة الألعاب الآسيوية العشرين، بحسب رئيس البعثة زيدون جواد (شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الألعاب",
+          "value": "7"
+        },
+        {
+          "label": "رئيس البعثة",
+          "value": "زيدون جواد"
+        },
+        {
+          "label": "الدورة",
+          "value": "الآسيوية 20"
+        }
+      ],
+      "broll": "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "العراق يدخل آسياد اليابان بسبع ألعاب",
+        "ألعاب القوى ورفع الأثقال والملاكمة والمصارعة",
+        "والتجديف والجوجيتسو والتك بول"
+      ]
+    },
+    {
+      "label": "شوكت تبدأ؟",
+      "arabicHeading": "الانطلاق 19 أيلول والختام 4 تشرين الأول",
+      "arabicBody": "الساعة تعدّ: الدورة تنطلق في 19 أيلول وتختتم في 4 تشرين الأول، والبعثة أنهت استعداداتها (شفق نيوز · 6 أيلول 2026).",
+      "bigStat": {
+        "value": "19",
+        "label": "September start date of the Games, which close on 4 October",
+        "arabicLabel": "أيلول موعد انطلاق الدورة التي تختتم في 4 تشرين الأول، والبعثة أنهت استعداداتها بحسب رئيسها (شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الانطلاق",
+          "value": "19 أيلول"
+        },
+        {
+          "label": "الختام",
+          "value": "4 تشرين الأول"
+        },
+        {
+          "label": "البعثة",
+          "value": "أنهت الاستعداد"
+        }
+      ],
+      "broll": "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الدورة تنطلق في 19 أيلول",
+        "وتختتم في 4 تشرين الأول",
+        "والبعثة أنهت استعداداتها"
+      ]
+    },
+    {
+      "label": "شكد حجمها؟",
+      "arabicHeading": "11 ألف رياضي من 45 دولة",
+      "arabicBody": "11 ألف رياضي من 45 دولة يتنافسون، واليابان تستضيف الألعاب الآسيوية للمرة الثالثة في تاريخها بعد طوكيو 1958 وهيروشيما 1994 (شفق نيوز · 6 أيلول 2026).",
+      "bigStat": {
+        "value": "11,000",
+        "label": "Athletes taking part, from 45 countries",
+        "arabicLabel": "رياضي يشاركون قادمين من 45 دولة، واليابان تستضيف للمرة الثالثة بعد طوكيو 1958 وهيروشيما 1994 (شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرياضيون",
+          "value": "11 ألفاً"
+        },
+        {
+          "label": "الدول",
+          "value": "45"
+        },
+        {
+          "label": "استضافة اليابان",
+          "value": "الثالثة"
+        }
+      ],
+      "broll": "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-06-d-asiad-japan-seven-sports/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "11 ألف رياضي من 45 دولة يتنافسون",
+        "واليابان تستضيف الآسياد للمرة الثالثة",
+        "بعد طوكيو 1958 وهيروشيما 1994"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "العراق في آسياد اليابان: 7 ألعاب.. والانطلاق 19 أيلول",
+    "الألعاب السبع: القوى ورفع الأثقال والملاكمة والمصارعة والتجديف والجوجيتسو والتك بول",
+    "الدورة تنطلق في 19 أيلول وتختتم في 4 تشرين الأول والبعثة أنهت استعداداتها",
+    "11 ألف رياضي من 45 دولة واليابان تستضيف للمرة الثالثة بعد طوكيو 1958 وهيروشيما 1994",
+    "أي لعبة راح تتابعها؟ اكتبها بكلمة"
+  ],
+  "endQuestion": "أي لعبة راح تتابعها؟ اكتبها بكلمة",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "زيدون جواد — رئيس البعثة العراقية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-06-e-fake-investment-firms",
+  "date": "2026-09-06",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1430684,
+      "sha256": "ad4c5c1f96f73fc4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1045984,
+      "sha256": "78aec05f6ffe0677"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 821171,
+      "sha256": "96016ed675ad4c4c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1234076,
+      "sha256": "86f064540640eef7"
+    }
+  ]
+}

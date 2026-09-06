@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 06 • 2026",
+  "arabicDateLabel": "6 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تحذير",
+    "arabicHeadline": "الأوراق المالية تحذّر: تحقّق قبل ما تحوّل فلوسك",
+    "englishSubhead": "SECURITIES COMMISSION WARNS | UNLICENSED INVESTMENT FIRMS | NO CASE COUNT OR LOSS FIGURE PUBLISHED | SHAFAQ NEWS, SUN 6 SEP",
+    "heroMedia": "images/news/2026-09-06-e-fake-investment-firms/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "شنو صار؟",
+      "arabicHeading": "الهيمص يحذّر: تحقّق قبل إيداع فلوسك",
+      "arabicBody": "حذّر رئيس هيئة الأوراق المالية فيصل الهيمص من شركات وهمية وجهات غير مرخصة تروّج لفرص استثمارية، داعياً للتحقق من قانونيتها قبل إيداع أي مبلغ (شفق نيوز).",
+      "bigStat": {
+        "value": "—",
+        "label": "The statement publishes no case count and no loss figure",
+        "arabicLabel": "لم يُعلن أي رقم: لا عدد حالات ولا حجم خسائر (شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحذِّر",
+          "value": "فيصل الهيمص"
+        },
+        {
+          "label": "الجهة",
+          "value": "الأوراق المالية"
+        },
+        {
+          "label": "التاريخ",
+          "value": "6 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-06-e-fake-investment-firms/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-06-e-fake-investment-firms/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "رئيس هيئة الأوراق المالية فيصل الهيمص",
+        "حذّر من شركات وهمية وجهات غير مرخصة",
+        "وتحقّق من قانونيتها قبل إيداع أي مبلغ"
+      ]
+    },
+    {
+      "label": "شلون تشتغل؟",
+      "arabicHeading": "أسماء ومنصات وصفحات تبدو رسمية",
+      "arabicBody": "أوضح الهيمص أن بعض الجهات تستخدم أسماء تجارية ومنصات إلكترونية وصفحات تواصل لإيهام المستثمرين بأنها مؤسسات مالية معتمدة، مع وعود بعوائد مرتفعة وسريعة (شفق نيوز).",
+      "bigStat": {
+        "value": "وعود",
+        "label": "The lure the statement names: promises of high, quick returns",
+        "arabicLabel": "الطُعم الذي يذكره البيان: وعود بعوائد مرتفعة وسريعة (شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الواجهة",
+          "value": "منصات وصفحات"
+        },
+        {
+          "label": "الطُعم",
+          "value": "عوائد مرتفعة"
+        },
+        {
+          "label": "الادعاء",
+          "value": "مؤسسة معتمدة"
+        }
+      ],
+      "broll": "images/news/2026-09-06-e-fake-investment-firms/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-06-e-fake-investment-firms/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أسماء تجارية ومنصات إلكترونية وصفحات تواصل",
+        "لإيهام المستثمرين بأنها مؤسسات معتمدة",
+        "مع وعود بعوائد مرتفعة وسريعة"
+      ]
+    },
+    {
+      "label": "علامات الخطر",
+      "arabicHeading": "حساب شخصي أو دفعة مقدّمة؟ توقّف",
+      "arabicBody": "حذّر الهيمص من جهات تطلب التحويل إلى حسابات شخصية أو محافظ إلكترونية غير معروفة أو تشترط دفعاً مسبقاً، وطلب الاستفسار من الجهات الرقابية (شفق نيوز).",
+      "bigStat": {
+        "value": "3",
+        "label": "Red flags the statement names: personal accounts, unknown e-wallets, and required upfront payments",
+        "arabicLabel": "علامات خطر ذكرها البيان: حساب شخصي، أو محفظة إلكترونية غير معروفة، أو دفع مبالغ مسبقة (محتسب من نص البيان · شفق نيوز · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "علامة 1",
+          "value": "حساب شخصي"
+        },
+        {
+          "label": "علامة 2",
+          "value": "محفظة مجهولة"
+        },
+        {
+          "label": "علامة 3",
+          "value": "دفعة مسبقة"
+        }
+      ],
+      "broll": "images/news/2026-09-06-e-fake-investment-firms/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-06-e-fake-investment-firms/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "احذر من طلب التحويل إلى حساب شخصي",
+        "أو محفظة إلكترونية غير معروفة",
+        "أو اشتراط دفع مبالغ مسبقة",
+        "واستفسر من الجهات الرقابية قبل التعامل"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "قبل ما تحوّل فلوسك.. هيئة الأوراق المالية تحذّر من شركات وهمية",
+    "الهيمص: جهات تستخدم أسماء ومنصات وصفحات تواصل لإيهام المستثمرين بأنها معتمدة",
+    "علامات الخطر بحسب البيان: حساب شخصي أو محفظة مجهولة أو دفعة مسبقة",
+    "الهيئة تدعو للاستفسار من الجهات الرقابية عن الشركات المرخصة قبل التعامل",
+    "وصلك عرض استثمار عبر التواصل؟ إي لو لا؟"
+  ],
+  "endQuestion": "وصلك عرض استثمار عبر التواصل؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "فيصل الهيمص — رئيس هيئة الأوراق المالية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ]
+}
