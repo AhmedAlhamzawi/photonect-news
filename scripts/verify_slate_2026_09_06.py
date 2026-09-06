@@ -10,7 +10,13 @@ after publication:
      a slate must never invent a third outlet to satisfy a schema minimum.
   2. arabicTicker is a list of strings                (schema shape)
   3. no Persian yeh (U+06CC) / kaf (U+06A9) anywhere
-  4. exactly 2 statPops per brief, each matchWord present EXACTLY ONCE in voText
+  4. exactly 2 statPops per brief, each matchWord matching EXACTLY ONE timing word.
+     NOT a substring test on the whole voText — build_v11_props.py:114 does
+     `next(w for w in W if m in w["word"])` over the TTS word stream, so a
+     matchWord containing a space can never match anything and the pop is
+     silently dropped. That is how 2026-09-06 slug B shipped with pops=1: the
+     authored matchWord was «وستة عشر», two words, and it passed a naive
+     substring check on the joined text while matching zero timing words.
   5. voText word count in range, and no ASCII digits in voText (the VO has no
      numeral normaliser, so digits get read as raw numbers)
   6. every image path referenced exists on disk
@@ -104,12 +110,19 @@ for slug in sorted(p.name for p in POSTS.glob(f"{D}-*") if p.is_dir()):
         pops = brief.get("statPops", [])
         if len(pops) != 2:
             fails.append(f"{slug}: {len(pops)} statPops, want exactly 2")
+        toks = vo.split()
         for p in pops:
-            n = vo.count(p["matchWord"])
+            mw = p["matchWord"]
+            if " " in mw:
+                fails.append(
+                    f"{slug}: statPop matchWord {mw!r} contains a space -> build_v11_props.py matches "
+                    f"one TTS word at a time, so this pop is silently dropped. Use a single token.")
+                continue
+            n = sum(1 for t in toks if mw in t)
             if n == 0:
-                fails.append(f"{slug}: statPop matchWord {p['matchWord']!r} absent from voText -> pop dropped")
+                fails.append(f"{slug}: statPop matchWord {mw!r} matches no timing word -> pop dropped")
             elif n > 1:
-                fails.append(f"{slug}: statPop matchWord {p['matchWord']!r} occurs {n}x in voText -> anchor collision")
+                fails.append(f"{slug}: statPop matchWord {mw!r} matches {n} timing words -> anchor collision")
         w = len(vo.split())
         if not 60 <= w <= 95:
             fails.append(f"{slug}: voText {w} words (want 70-85)")
