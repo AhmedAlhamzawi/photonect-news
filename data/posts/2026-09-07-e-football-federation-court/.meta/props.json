@@ -1,0 +1,150 @@
+{
+  "dateLabel": "SEP 07 • 2026",
+  "arabicDateLabel": "7 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "كرة",
+    "arabicHeadline": "نور صبري شاهداً أمام القضاء.. أزمة انتخابات اتحاد الكرة",
+    "englishSubhead": "FORMER IRAQ GOALKEEPER NOOR SABRI IS GIVING TESTIMONY BEFORE THE IRAQI JUDICIARY IN THE DISPUTE OVER THE FOOTBALL FEDERATION'S ELECTIONS, AL-SUMARIA REPORTED ON MONDAY | THE DISPUTE CENTRES ON THE PARTICIPATION OF SAMER SAEED, REPRESENTATIVE OF THE INTERNATIONAL PLAYERS' ASSOCIATION, IN THE VOTE | FORMER PRESIDENT ADNAN DERGAL FILED COMPLAINTS WITH IRAQI COURTS AND WITH CAS, WHICH REJECTED HIS REQUEST TO FREEZE THE FEDERATION'S WORK | YOUNIS MAHMOUD WON THE 23 MAY VOTE 38-20 | MON 7 SEP",
+    "heroMedia": "images/news/2026-09-07-e-football-federation-court/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجديد",
+      "arabicHeading": "شهادة نور صبري أمام القضاء",
+      "arabicBody": "يدلي حارس المنتخب الأسبق نور صبري بشهادته أمام القضاء العراقي في نزاع انتخابات اتحاد الكرة، ومحوره مشاركة ممثل رابطة اللاعبين الدوليين سامر سعيد في التصويت (السومرية).",
+      "bigStat": {
+        "value": "1",
+        "label": "The witness giving testimony before the Iraqi judiciary in the federation election dispute",
+        "arabicLabel": "شهادة يدلي بها حارس المنتخب الأسبق نور صبري أمام القضاء العراقي في نزاع انتخابات اتحاد الكرة (السومرية · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشاهد",
+          "value": "نور صبري"
+        },
+        {
+          "label": "الملف",
+          "value": "انتخابات الاتحاد"
+        },
+        {
+          "label": "محور النزاع",
+          "value": "مشاركة سعيد"
+        }
+      ],
+      "broll": "images/news/2026-09-07-e-football-federation-court/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-07-e-football-federation-court/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "حارس المنتخب الأسبق نور صبري أمام القضاء",
+        "في نزاع انتخابات اتحاد الكرة",
+        "والنزاع يدور حول مشاركة سامر سعيد في التصويت"
+      ]
+    },
+    {
+      "label": "الطرفان",
+      "arabicHeading": "درجال يشكو.. وسعيد يرد",
+      "arabicBody": "تقدّم رئيس الاتحاد السابق عدنان درجال بشكاوى أمام القضاء العراقي ومحكمة كاس بمخالفات انتخابية، فيما يقول سامر سعيد إن رابطته ليست جزءاً من الاتحاد (السومرية).",
+      "bigStat": {
+        "value": "2",
+        "label": "The two forums where the former president says he filed complaints: the Iraqi courts and CAS",
+        "arabicLabel": "جهتان تقدّم إليهما رئيس الاتحاد السابق عدنان درجال بشكاوى: القضاء العراقي ومحكمة التحكيم الرياضي كاس (السومرية · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشاكي",
+          "value": "عدنان درجال"
+        },
+        {
+          "label": "الجهتان",
+          "value": "القضاء + كاس"
+        },
+        {
+          "label": "رد سعيد",
+          "value": "لسنا جزءاً"
+        }
+      ],
+      "broll": "images/news/2026-09-07-e-football-federation-court/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-07-e-football-federation-court/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "عدنان درجال تقدّم بشكاوى أمام القضاء العراقي ومحكمة كاس",
+        "وسامر سعيد يرد: الرابطة مرتبطة بمنظمات المجتمع المدني",
+        "وليست جزءاً من الاتحاد"
+      ]
+    },
+    {
+      "label": "الخلفية",
+      "arabicHeading": "انتخابات أيار: 38 مقابل 20",
+      "arabicBody": "في انتخابات 23 أيار 2026 فاز يونس محمود بـ38 صوتاً مقابل 20 لدرجال، ثم رفضت محكمة كاس طلب درجال تجميد عمل الاتحاد (الشرق الأوسط والعربي الجديد).",
+      "bigStat": {
+        "value": "38",
+        "label": "Votes that elected Younis Mahmoud federation president on 23 May, against 20 for Dergal",
+        "arabicLabel": "صوتاً نال بها يونس محمود رئاسة الاتحاد في انتخابات 23 أيار 2026، مقابل 20 صوتاً لعدنان درجال (الشرق الأوسط · العربي الجديد)"
+      },
+      "supportingStats": [
+        {
+          "label": "يونس محمود",
+          "value": "38"
+        },
+        {
+          "label": "عدنان درجال",
+          "value": "20"
+        },
+        {
+          "label": "طلب التجميد",
+          "value": "رفضته كاس"
+        }
+      ],
+      "broll": "images/news/2026-09-07-e-football-federation-court/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-07-e-football-federation-court/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "انتخابات 23 أيار 2026",
+        "يونس محمود 38 صوتاً مقابل 20 لدرجال",
+        "ومحكمة كاس رفضت طلب تجميد عمل الاتحاد",
+        "ورفض التجميد إجراء لا حكم في أصل النزاع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "نور صبري يدلي بشهادته أمام القضاء في نزاع انتخابات اتحاد الكرة",
+    "النزاع يدور حول مشاركة ممثل رابطة اللاعبين الدوليين سامر سعيد في التصويت",
+    "عدنان درجال تقدّم بشكاوى أمام القضاء العراقي ومحكمة كاس بمخالفات انتخابية",
+    "سامر سعيد: الرابطة مرتبطة بمنظمات المجتمع المدني وليست جزءاً من الاتحاد",
+    "يونس محمود تقدّم بشكوى ضد درجال أمام هيئة النزاهة الاتحادية",
+    "انتخابات 23 أيار: يونس محمود 38 صوتاً مقابل 20 لدرجال، وكاس رفضت طلب التجميد",
+    "تتابع أخبار اتحاد الكرة؟ إي لو لا؟"
+  ],
+  "endQuestion": "تتابع أخبار اتحاد الكرة؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "السومرية",
+      "domain": "alsumaria.tv"
+    },
+    {
+      "name": "الشرق الأوسط",
+      "domain": "aawsat.com"
+    },
+    {
+      "name": "العربي الجديد",
+      "domain": "alaraby.co.uk"
+    }
+  ]
+}

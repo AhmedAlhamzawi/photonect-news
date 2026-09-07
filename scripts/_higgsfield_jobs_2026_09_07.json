@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-07",
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "resolution": "2k",
+  "map": {
+    "1":  {"slug": "2026-09-07-a-graduates-100-tents",   "file": "hero.jpg",    "job_id": "6a5141bd-bbf5-4602-bddb-7c88a5136057"},
+    "2":  {"slug": "2026-09-07-a-graduates-100-tents",   "file": "broll_1.jpg", "job_id": "a6951888-382c-499c-b86c-5c4f47e44dd2"},
+    "3":  {"slug": "2026-09-07-a-graduates-100-tents",   "file": "broll_2.jpg", "job_id": "3c871d34-0ebf-4f28-9092-d4c7c5c07fa1"},
+    "4":  {"slug": "2026-09-07-a-graduates-100-tents",   "file": "broll_3.jpg", "job_id": "dab9d6ce-6ede-4af3-a570-518efcd93443"},
+    "5":  {"slug": "2026-09-07-b-dollar-156-taif",       "file": "hero.jpg",    "job_id": "23b3dd12-d265-472b-8b37-840ec68f7663"},
+    "6":  {"slug": "2026-09-07-b-dollar-156-taif",       "file": "broll_1.jpg", "job_id": "e586598c-a8b8-4ffa-8bd4-26176c78ff20"},
+    "7":  {"slug": "2026-09-07-b-dollar-156-taif",       "file": "broll_2.jpg", "job_id": "6d00ca28-fbfb-4991-b8da-7ec4a469e358"},
+    "8":  {"slug": "2026-09-07-b-dollar-156-taif",       "file": "broll_3.jpg", "job_id": "f7063733-58b5-4ada-bf01-87f3f089db65"},
+    "9":  {"slug": "2026-09-07-c-india-exports-317",     "file": "hero.jpg",    "job_id": "ebe695c9-72b2-4e62-95e2-66e51bfa5f0c"},
+    "10": {"slug": "2026-09-07-c-india-exports-317",     "file": "broll_1.jpg", "job_id": "91461609-0a23-40a1-aabe-21a2ee258d69"},
+    "11": {"slug": "2026-09-07-c-india-exports-317",     "file": "broll_2.jpg", "job_id": "4ec857fe-0aa6-4b05-b3af-93b592921684"},
+    "12": {"slug": "2026-09-07-c-india-exports-317",     "file": "broll_3.jpg", "job_id": "bea76e4d-9567-46b0-892a-d3c6a12f93ed"},
+    "13": {"slug": "2026-09-07-d-nazaha-104-properties", "file": "hero.jpg",    "job_id": "53f0548f-406a-4b59-9865-b99845ddff6a"},
+    "14": {"slug": "2026-09-07-d-nazaha-104-properties", "file": "broll_1.jpg", "job_id": "ef7a4f4e-ebec-46e6-b9ae-137bdf130895"},
+    "15": {"slug": "2026-09-07-d-nazaha-104-properties", "file": "broll_2.jpg", "job_id": "674bc735-b275-4f99-a31f-f0445eb820dc"},
+    "16": {"slug": "2026-09-07-d-nazaha-104-properties", "file": "broll_3.jpg", "job_id": "474bf649-3fa6-4f3e-8761-e577193d237d"},
+    "17": {"slug": "2026-09-07-e-football-federation-court", "file": "hero.jpg",    "job_id": "cc51952c-2e40-41f4-8df7-e88885da9b22"},
+    "18": {"slug": "2026-09-07-e-football-federation-court", "file": "broll_1.jpg", "job_id": "2083e9b7-6ace-4873-99ed-4eac5ede2eea"},
+    "19": {"slug": "2026-09-07-e-football-federation-court", "file": "broll_2.jpg", "job_id": "dea6db54-a7de-41f1-9e02-7f8686af7890"},
+    "20": {"slug": "2026-09-07-e-football-federation-court", "file": "broll_3.jpg", "job_id": "295b1c53-515c-4d56-98e6-b0f03292be4d"}
+  }
+}

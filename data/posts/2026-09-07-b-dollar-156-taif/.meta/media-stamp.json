@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-07-b-dollar-156-taif",
+  "date": "2026-09-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1053259,
+      "sha256": "6d13a0164297f6d5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1879982,
+      "sha256": "808d9c41c65a09db"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1880914,
+      "sha256": "4f5810486850a163"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1505850,
+      "sha256": "1c298a70995e072c"
+    }
+  ]
+}

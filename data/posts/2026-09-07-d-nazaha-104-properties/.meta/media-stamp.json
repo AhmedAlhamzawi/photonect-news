@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-07-d-nazaha-104-properties",
+  "date": "2026-09-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1950829,
+      "sha256": "38746963fcea96f5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1697569,
+      "sha256": "92b4c8e3b0a86e87"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 2221530,
+      "sha256": "3e91d4714f2b0faa"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 2049578,
+      "sha256": "1c314481caacefc6"
+    }
+  ]
+}

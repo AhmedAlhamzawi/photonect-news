@@ -1,0 +1,151 @@
+{
+  "dateLabel": "SEP 07 • 2026",
+  "arabicDateLabel": "7 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "دولار",
+    "arabicHeadline": "الدولار اليوم بشكد؟ 156 ألفاً بيعاً بمحال الصيرفة",
+    "englishSubhead": "EXCHANGE SHOPS IN BAGHDAD, ERBIL AND BASRA QUOTED A SELLING RATE OF 156,000 DINARS PER $100 AND A BUYING RATE OF 155,500 ON MONDAY, PER 964 NETWORK, WHICH PUT THE OFFICIAL CENTRAL BANK RATE AT 131,000 | MAHMOUD DAGHER, A FORMER DIRECTOR GENERAL AT THE CBI, TOLD SHAFAQ NEWS THE TWO-DAY RISE RESPONDED TO THE CRISIS AT AL-TAIF ISLAMIC BANK AND THE LOSS OF CONFIDENCE IT CAUSED | THE CBI PLACED THAT BANK UNDER GUARDIANSHIP OVER VIOLATIONS IT DESCRIBED AS GRAVE | MON 7 SEP",
+    "heroMedia": "images/news/2026-09-07-b-dollar-156-taif/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السعر اليوم",
+      "arabicHeading": "156,000 بيعاً لكل 100 دولار",
+      "arabicBody": "سجّلت محال الصيرفة ببغداد وأربيل والبصرة اليوم بيعاً بـ156,000 دينار لكل 100 دولار وشراءً بـ155,500، دون تحديد إن كان الرقم افتتاحاً أم إغلاقاً (شبكة 964).",
+      "bigStat": {
+        "value": "156,000",
+        "label": "Selling rate quoted by exchange shops in Baghdad, Erbil and Basra per $100 on Monday",
+        "arabicLabel": "ديناراً سعر البيع في محال الصيرفة ببغداد وأربيل والبصرة لكل 100 دولار، والشراء 155,500 — ولم تحدد الشبكة إن كان افتتاحاً أم إغلاقاً (شبكة 964 · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "156,000"
+        },
+        {
+          "label": "الشراء",
+          "value": "155,500"
+        },
+        {
+          "label": "الأساس",
+          "value": "محال صيرفة"
+        }
+      ],
+      "broll": "images/news/2026-09-07-b-dollar-156-taif/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-07-b-dollar-156-taif/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محال الصيرفة ببغداد وأربيل والبصرة اليوم",
+        "بيع 156,000 دينار لكل 100 دولار",
+        "وشراء 155,500",
+        "ولم تحدد الشبكة إن كان افتتاحاً أم إغلاقاً"
+      ]
+    },
+    {
+      "label": "الفجوة",
+      "arabicHeading": "الرسمي 131 ألفاً.. والسوق أعلى",
+      "arabicBody": "السعر الرسمي المعتمد من البنك المركزي 131,000 دينار لكل 100 دولار، بحسب النشرة نفسها (شبكة 964).",
+      "bigStat": {
+        "value": "131,000",
+        "label": "The official central bank rate per $100 as cited in the same bulletin",
+        "arabicLabel": "ديناراً لكل 100 دولار هو السعر الرسمي المقرر من البنك المركزي، بحسب ما أوردته شبكة 964 (7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        },
+        {
+          "label": "محال الصيرفة",
+          "value": "156,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "شبكة 964"
+        }
+      ],
+      "broll": "images/news/2026-09-07-b-dollar-156-taif/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-07-b-dollar-156-taif/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "السعر الرسمي المقرر من البنك المركزي",
+        "131,000 دينار لكل 100 دولار",
+        "بحسب النشرة نفسها"
+      ]
+    },
+    {
+      "label": "لماذا يصعد؟",
+      "arabicHeading": "داغر: أزمة مصرف الطيف وفقدان الثقة",
+      "arabicBody": "يرى المدير العام السابق بالبنك المركزي محمود داغر أن صعود الدولار خلال يومين جاء استجابة لأزمة مصرف الطيف الإسلامي وفقدان الثقة الذي رفع الطلب (شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "The number of days over which the former CBI director general says the rise took place",
+        "arabicLabel": "يومان هي المدة التي يقول المدير العام السابق في البنك المركزي محمود داغر إن صعود الدولار جرى خلالها استجابةً لأزمة مصرف الطيف الإسلامي (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "القائل",
+          "value": "محمود داغر"
+        },
+        {
+          "label": "صفته",
+          "value": "مدير عام سابق"
+        },
+        {
+          "label": "السبب المذكور",
+          "value": "فقدان الثقة"
+        }
+      ],
+      "broll": "images/news/2026-09-07-b-dollar-156-taif/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-07-b-dollar-156-taif/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محمود داغر، المدير العام السابق في البنك المركزي:",
+        "الصعود جاء استجابة لأزمة مصرف الطيف الإسلامي",
+        "وما رافقها من فقدان ثقة",
+        "رفع الطلب على الدولار"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "محال الصيرفة ببغداد وأربيل والبصرة: بيع 156,000 لكل 100 دولار",
+    "الشراء 155,500 — ولم يُذكر إن كان الرقم افتتاحاً أم إغلاقاً",
+    "السعر الرسمي المعتمد من البنك المركزي 131,000 لكل 100 دولار",
+    "محمود داغر، مدير عام سابق بالمركزي: الصعود استجابة لأزمة مصرف الطيف الإسلامي",
+    "البنك المركزي فرض الوصاية على المصرف لمخالفات وصفها بالجسيمة",
+    "والمركزي قال إن الوصاية لا تعني الإفلاس وأموال المودعين مضمونة",
+    "بشكد الدولار بمنطقتك اليوم؟"
+  ],
+  "endQuestion": "بشكد الدولار بمنطقتك اليوم؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "محمود داغر — مدير عام سابق في البنك المركزي (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ]
+}

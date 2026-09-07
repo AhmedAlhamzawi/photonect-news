@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-07-a-graduates-100-tents",
+  "date": "2026-09-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1910589,
+      "sha256": "a316818cc686f642"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1754858,
+      "sha256": "1c02c69fff6ad6a5"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1443191,
+      "sha256": "1e17ab002f4f4f7e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1881511,
+      "sha256": "560d0c508c23ca14"
+    }
+  ]
+}

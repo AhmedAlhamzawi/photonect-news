@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 07 • 2026",
+  "arabicDateLabel": "7 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "104 عقارات و10.4 مليار.. اتهامات النزاهة ببلدية الناصرية",
+    "englishSubhead": "IRAQ'S FEDERAL INTEGRITY COMMISSION SAID ON MONDAY IT UNCOVERED A MANIPULATION AND FORGERY NETWORK IN THE TRANSFER OF OWNERSHIP OF 104 PRIME PROPERTIES AT NASIRIYAH MUNICIPALITY | IT VALUED EACH AT ABOUT 100 MILLION DINARS, SOME 10.4 BILLION DINARS IN TOTAL | IT SAID ARREST WARRANTS WERE EXECUTED AGAINST THE FORMER MUNICIPALITY DIRECTOR AND A NUMBER OF EMPLOYEES UNDER ARTICLE 340 OF THE PENAL CODE | THESE ARE ACCUSATIONS; NO VERDICT HAS BEEN ISSUED | MON 7 SEP",
+    "heroMedia": "images/news/2026-09-07-d-nazaha-104-properties/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكشف",
+      "arabicHeading": "النزاهة: تلاعب بتمليك 104 عقارات",
+      "arabicBody": "أعلنت هيئة النزاهة الاتحادية كشف شبكة تلاعب وتزوير في تمليك 104 عقارات ببلدية الناصرية، بعد ضبط 30 معاملة ثم اكتشاف 12 معاملة أصلية إضافية (شفق نيوز).",
+      "bigStat": {
+        "value": "104",
+        "label": "Properties covered by the alleged ownership-transfer network, per the Integrity Commission",
+        "arabicLabel": "عقاراً شملها التحقيق في شبكة التلاعب والتزوير بتمليك عقارات بلدية الناصرية، بحسب هيئة النزاهة الاتحادية (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "العقارات",
+          "value": "104"
+        },
+        {
+          "label": "معاملات مضبوطة",
+          "value": "30"
+        },
+        {
+          "label": "معاملات إضافية",
+          "value": "12"
+        }
+      ],
+      "broll": "images/news/2026-09-07-d-nazaha-104-properties/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-07-d-nazaha-104-properties/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة النزاهة الاتحادية تعلن كشف شبكة",
+        "تلاعب وتزوير بتمليك 104 عقارات",
+        "ضمن بلدية الناصرية"
+      ]
+    },
+    {
+      "label": "القيمة",
+      "arabicHeading": "نحو 10.4 مليار دينار",
+      "arabicBody": "قدّرت الهيئة قيمة العقار الواحد بنحو 100 مليون دينار، أي نحو 10.4 مليار للمجموع، ووضعت إشارة عدم التصرف على العقارات كلها لحين حسم الإجراءات (شفق نيوز).",
+      "bigStat": {
+        "value": "10.4",
+        "label": "Billion dinars — the Integrity Commission's estimated total value of the 104 properties",
+        "arabicLabel": "مليار دينار هي القيمة التقديرية الإجمالية للعقارات الـ104 بحسب هيئة النزاهة، بواقع نحو 100 مليون دينار للعقار الواحد (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "العقار الواحد",
+          "value": "~100 مليون"
+        },
+        {
+          "label": "الإجمالي",
+          "value": "~10.4 مليار"
+        },
+        {
+          "label": "الإجراء",
+          "value": "عدم التصرف"
+        }
+      ],
+      "broll": "images/news/2026-09-07-d-nazaha-104-properties/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-07-d-nazaha-104-properties/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "نحو 100 مليون دينار قيمة العقار الواحد",
+        "أي نحو 10.4 مليار دينار إجمالاً",
+        "وإشارة عدم التصرف على العقارات كلها"
+      ]
+    },
+    {
+      "label": "أين وصلت؟",
+      "arabicHeading": "أوامر قبض.. والحكم لم يصدر",
+      "arabicBody": "نفذت هيئة النزاهة أوامر القبض بحق مدير بلدية الناصرية السابق وموظفين، وفق المادة 340 من قانون العقوبات. وهي اتهامات لم يصدر فيها حكم بعد (شفق نيوز).",
+      "bigStat": {
+        "value": "340",
+        "label": "The article of Iraq's penal code cited by the commission in the arrest warrants",
+        "arabicLabel": "المادة من قانون العقوبات التي استندت إليها أوامر القبض بحق مدير بلدية الناصرية السابق وعدد من الموظفين — وهي اتهامات لم يصدر فيها حكم بعد (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإجراء",
+          "value": "أوامر قبض"
+        },
+        {
+          "label": "المادة",
+          "value": "340"
+        },
+        {
+          "label": "الحالة",
+          "value": "لم يصدر حكم"
+        }
+      ],
+      "broll": "images/news/2026-09-07-d-nazaha-104-properties/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-07-d-nazaha-104-properties/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أوامر قبض بحق مدير البلدية السابق وعدد من الموظفين",
+        "وفق المادة 340 من قانون العقوبات",
+        "وهي اتهامات لم يصدر فيها حكم قضائي بعد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: شبكة تلاعب وتزوير بتمليك 104 عقارات ببلدية الناصرية",
+    "قيمة العقار الواحد نحو 100 مليون دينار — نحو 10.4 مليار إجمالاً",
+    "ضبط 30 معاملة تمليك ثم اكتشاف 12 معاملة أصلية إضافية",
+    "إشارة عدم تصرف على العقارات الـ104 لحين حسم الإجراءات",
+    "أوامر قبض نُفّذت بحق مدير البلدية السابق وعدد من الموظفين",
+    "وفق المادة 340 من قانون العقوبات — وهي اتهامات لم يصدر فيها حكم بعد",
+    "عندك معاملة عقار متأخرة ببلديتك؟ إي لو لا؟"
+  ],
+  "endQuestion": "عندك معاملة عقار متأخرة ببلديتك؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

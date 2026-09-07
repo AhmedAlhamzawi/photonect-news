@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-07-c-india-exports-317",
+  "date": "2026-09-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1703926,
+      "sha256": "b4518e4856542fd3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 2731901,
+      "sha256": "421530d8d08c63f6"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1164614,
+      "sha256": "dcb83a2204f70c91"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1416642,
+      "sha256": "527a2de56477c35c"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "dateLabel": "SEP 07 • 2026",
+  "arabicDateLabel": "7 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "خريجون",
+    "arabicHeadline": "تنتظر التعيين؟ 100 خيمة قبال وزارة المالية اليوم",
+    "englishSubhead": "HUNDREDS OF GRADUATES FROM SEVERAL PROVINCES GATHERED OUTSIDE IRAQ'S MINISTRY OF FINANCE IN BAGHDAD ON MONDAY AND PITCHED 100 TENTS FOR AN OPEN-ENDED SIT-IN | THEY DEMAND THE APPOINTMENT OF 150,000 GRADUATES WITHIN THE 2027 BUDGET | PROTEST REPRESENTATIVE MUHAMMAD AL-AWADI SAID 2:00 PM WAS THEIR FINAL DEADLINE BEFORE CUTTING THE MUHAMMAD AL-QASIM HIGHWAY IN BOTH DIRECTIONS | NO MINISTRY RESPONSE WAS REPORTED | MON 7 SEP",
+    "heroMedia": "images/news/2026-09-07-a-graduates-100-tents/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "ماذا حدث؟",
+      "arabicHeading": "100 خيمة أمام وزارة المالية",
+      "arabicBody": "نصب مئات الخريجين من عدة محافظات 100 خيمة أمام وزارة المالية ببغداد اليوم الاثنين، في اعتصام مفتوح شعاره «ما ننتظر بعد.. كفى تسويف» (شبكة 964).",
+      "bigStat": {
+        "value": "100",
+        "label": "Tents pitched outside the Ministry of Finance in Baghdad for an open-ended sit-in",
+        "arabicLabel": "خيمة نصبها الخريجون أمام وزارة المالية ببغداد لاعتصام مفتوح (شبكة 964 · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخيام",
+          "value": "100"
+        },
+        {
+          "label": "المكان",
+          "value": "وزارة المالية"
+        },
+        {
+          "label": "الاعتصام",
+          "value": "مفتوح"
+        }
+      ],
+      "broll": "images/news/2026-09-07-a-graduates-100-tents/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-07-a-graduates-100-tents/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مئات الخريجين أمام وزارة المالية ببغداد",
+        "نصبوا 100 خيمة لاعتصام مفتوح",
+        "شعارهم: ما ننتظر بعد.. كفى تسويف"
+      ]
+    },
+    {
+      "label": "المطلب",
+      "arabicHeading": "تعيين 150 ألف خريج بموازنة 2027",
+      "arabicBody": "المطلب المعلن: تعيين 150,000 خريج ضمن موازنة 2027، ولم يُنقل في الخبر أي رد من وزارة المالية (شبكة 964).",
+      "bigStat": {
+        "value": "150,000",
+        "label": "Graduates the protesters want appointed within the 2027 budget",
+        "arabicLabel": "خريج هو عدد التعيينات المطلوبة ضمن موازنة عام 2027، بحسب مطلب المعتصمين (شبكة 964 · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المطلوب",
+          "value": "150,000"
+        },
+        {
+          "label": "ضمن",
+          "value": "موازنة 2027"
+        },
+        {
+          "label": "رد الوزارة",
+          "value": "لم يُنقل"
+        }
+      ],
+      "broll": "images/news/2026-09-07-a-graduates-100-tents/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-07-a-graduates-100-tents/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المطلب: تعيين 150 ألف خريج",
+        "ضمن موازنة عام 2027",
+        "ولم يُنقل رد من وزارة المالية"
+      ]
+    },
+    {
+      "label": "المهلة",
+      "arabicHeading": "2:00 ظهراً.. ثم قطع الطريق",
+      "arabicBody": "محمد العوادي، ممثل المعتصمين: 2:00 ظهراً كانت المهلة الأخيرة قبل قطع طريق محمد القاسم. ودعا ممثل الخريجين السابقين حيدر الذبحاوي وزير المالية لزيارة الموقع (شبكة 964).",
+      "bigStat": {
+        "value": "2:00",
+        "label": "The deadline the protest representative set before threatening to cut the Muhammad al-Qasim highway",
+        "arabicLabel": "ظهراً هي المهلة التي حددها ممثل المعتصمين محمد العوادي قبل التهديد بقطع طريق محمد القاسم بالاتجاهين (شبكة 964 · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة",
+          "value": "2:00 ظهراً"
+        },
+        {
+          "label": "التهديد",
+          "value": "قطع الطريق"
+        },
+        {
+          "label": "الطريق",
+          "value": "محمد القاسم"
+        }
+      ],
+      "broll": "images/news/2026-09-07-a-graduates-100-tents/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-07-a-graduates-100-tents/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "ممثل المعتصمين محمد العوادي:",
+        "2:00 ظهراً كانت المهلة الأخيرة",
+        "قبل قطع طريق محمد القاسم بالاتجاهين",
+        "وحيدر الذبحاوي يدعو الوزير لزيارة الموقع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مئات الخريجين يعتصمون أمام وزارة المالية ببغداد اليوم الاثنين",
+    "100 خيمة نُصبت لاعتصام مفتوح شعاره: ما ننتظر بعد.. كفى تسويف",
+    "المطلب: تعيين 150,000 خريج ضمن موازنة 2027",
+    "ممثل المعتصمين محمد العوادي: 2:00 ظهراً كانت مهلتنا الأخيرة",
+    "التهديد: قطع طريق محمد القاسم بالاتجاهين بعد انتهاء المهلة",
+    "حيدر الذبحاوي يدعو وزير المالية إلى زيارة موقع الاعتصام",
+    "ولم يُعرف بعد ما جرى بعد انتهاء المهلة",
+    "إنت أو أحد من أهلك خريج ينتظر التعيين؟ إي لو لا؟"
+  ],
+  "endQuestion": "إنت أو أحد من أهلك خريج ينتظر التعيين؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "محمد العوادي — ممثل المعتصمين (عبر شبكة 964)",
+      "domain": "964media.com"
+    },
+    {
+      "name": "حيدر الذبحاوي — ممثل الخريجين السابقين (عبر شبكة 964)",
+      "domain": "964media.com"
+    }
+  ]
+}

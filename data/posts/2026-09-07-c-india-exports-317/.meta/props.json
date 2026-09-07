@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 07 • 2026",
+  "arabicDateLabel": "7 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "trade_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "تجارة",
+    "arabicHeadline": "شنو يجينا من الهند؟ الرقم نزل 42% بربع واحد",
+    "englishSubhead": "INDIAN EXPORTS TO IRAQ FELL TO $317 MILLION IN THE SECOND QUARTER OF 2026 FROM $545 MILLION IN THE FIRST, A DROP OF ABOUT 42%, ACCORDING TO INTERNATIONAL TRADE STATISTICS REVIEWED BY SHAFAQ NEWS | GRAINS LED AT $92 MILLION, FOLLOWED BY MEAT AND EDIBLE OFFAL AT $63 MILLION AND MINERAL FUELS AND OILS AT $53 MILLION | 88 COMMODITY GROUPS IN TOTAL | THE REPORT DRAWS NO CONCLUSION ABOUT IRAQI RETAIL PRICES | MON 7 SEP",
+    "heroMedia": "images/news/2026-09-07-c-india-exports-317/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم",
+      "arabicHeading": "317 مليون دولار في الربع الثاني",
+      "arabicBody": "بلغت صادرات الهند إلى العراق 317 مليون دولار في الربع الثاني من 2026، مقابل 545 مليوناً في الربع الأول، بتراجع نحو 42% (شفق نيوز).",
+      "bigStat": {
+        "value": "317",
+        "label": "Million dollars of Indian exports to Iraq in the second quarter of 2026",
+        "arabicLabel": "مليون دولار قيمة صادرات الهند إلى العراق في الربع الثاني من 2026، مقابل 545 مليوناً في الربع الأول (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الربع الثاني",
+          "value": "$317M"
+        },
+        {
+          "label": "الربع الأول",
+          "value": "$545M"
+        },
+        {
+          "label": "التراجع",
+          "value": "~42%"
+        }
+      ],
+      "broll": "images/news/2026-09-07-c-india-exports-317/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-07-c-india-exports-317/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "صادرات الهند للعراق 317 مليون دولار بالربع الثاني",
+        "مقابل 545 مليوناً بالربع الأول",
+        "تراجع بنحو 42%"
+      ]
+    },
+    {
+      "label": "شنو يجينا؟",
+      "arabicHeading": "حبوب ولحوم وأدوية بالمقدمة",
+      "arabicBody": "تصدّرت الحبوب القائمة بـ92 مليون دولار، ثم اللحوم ومخلفاتها الصالحة للأكل بـ63 مليوناً، فالوقود والزيوت المعدنية بـ53 مليوناً، والأدوية بـ25 مليوناً (شفق نيوز).",
+      "bigStat": {
+        "value": "92",
+        "label": "Million dollars of grains — the largest single category of Indian exports to Iraq in Q2",
+        "arabicLabel": "مليون دولار قيمة الحبوب، وهي أكبر مجموعة سلعية في صادرات الهند للعراق بالربع الثاني، تليها اللحوم بـ63 مليوناً (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "حبوب",
+          "value": "$92M"
+        },
+        {
+          "label": "لحوم",
+          "value": "$63M"
+        },
+        {
+          "label": "أدوية",
+          "value": "$25M"
+        }
+      ],
+      "broll": "images/news/2026-09-07-c-india-exports-317/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-07-c-india-exports-317/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الحبوب بالمقدمة: 92 مليون دولار",
+        "اللحوم ومخلفاتها 63 مليوناً",
+        "الوقود والزيوت المعدنية 53 مليوناً",
+        "والأدوية 25 مليوناً"
+      ]
+    },
+    {
+      "label": "الاتساع",
+      "arabicHeading": "88 مجموعة سلعية في ربع واحد",
+      "arabicBody": "صدّرت الهند 88 مجموعة سلعية، منها البن والشاي والبهارات بـ14 مليون دولار والفواكه والمكسرات بـ9.4 مليون. ولم يورد التقرير استنتاجاً عن أسعار التجزئة (شفق نيوز).",
+      "bigStat": {
+        "value": "88",
+        "label": "Commodity groups India exported to Iraq in the quarter",
+        "arabicLabel": "مجموعة سلعية صدّرتها الهند إلى العراق خلال الربع الثاني، ولم يورد التقرير أي استنتاج بشأن أسعار التجزئة في العراق (شفق نيوز · 7 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموعات",
+          "value": "88"
+        },
+        {
+          "label": "بن وشاي",
+          "value": "$14M"
+        },
+        {
+          "label": "فواكه",
+          "value": "$9.4M"
+        }
+      ],
+      "broll": "images/news/2026-09-07-c-india-exports-317/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-07-c-india-exports-317/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "88 مجموعة سلعية في ربع واحد",
+        "البن والشاي والبهارات 14 مليون دولار",
+        "الفواكه والمكسرات 9.4 مليون",
+        "ولم يورد التقرير استنتاجاً عن أسعار التجزئة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "صادرات الهند للعراق 317 مليون دولار بالربع الثاني من 2026",
+    "مقابل 545 مليون دولار بالربع الأول — تراجع بنحو 42%",
+    "الحبوب أكبر مجموعة سلعية: 92 مليون دولار",
+    "اللحوم 63 مليوناً والوقود والزيوت 53 مليوناً والأدوية 25 مليوناً",
+    "88 مجموعة سلعية دخلت العراق من الهند في ربع واحد",
+    "الأرقام من إحصاءات تجارة دولية راجعتها شفق نيوز",
+    "ولم يورد التقرير أي استنتاج عن أسعار التجزئة في العراق"
+  ],
+  "endQuestion": "تنتبه لبلد المنشأ على المواد الغذائية اللي تشتريها؟ إي لو لا؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "إحصاءات التجارة الدولية (عبر شفق نيوز)",
+      "domain": "shafaq.com"
+    }
+  ]
+}
