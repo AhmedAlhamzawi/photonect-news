@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 09 • 2026",
+  "arabicDateLabel": "9 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "احتجاج",
+    "arabicHeadline": "قطعوا شارع 60 بالحلة.. والسبب سعر الكاز",
+    "englishSubhead": "HILLA, BABIL · SEP 9 | FARMERS CLOSE STREET 60 | KEROSENE PRICING + FUEL SUBSIDY CUT | 964",
+    "heroMedia": "images/news/2026-09-09-a-kerosene-road-hilla/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اليوم",
+      "arabicHeading": "عشرات الفلاحين يقطعون شارع 60 وسط الحلة",
+      "arabicBody": "عشرات الفلاحين وأصحاب الآليات والمعدات الثقيلة قطعوا شارع 60 وسط الحلة اليوم، اعتراضاً على رفع أسعار الكاز الذي يرفع كلفة العمل الزراعي والإنشائي (964).",
+      "bigStat": {
+        "value": "60",
+        "label": "Street 60, central Hilla, closed by protesters on Sep 9",
+        "arabicLabel": "شارع 60 وسط الحلة قطعه عشرات الفلاحين وأصحاب الآليات الثقيلة اعتراضاً على رفع أسعار الكاز ورفع الدعم عن الوقود (شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "وسط الحلة"
+        },
+        {
+          "label": "المحتجون",
+          "value": "فلاحون وأصحاب آليات"
+        },
+        {
+          "label": "المادة",
+          "value": "الكاز"
+        }
+      ],
+      "broll": "images/news/2026-09-09-a-kerosene-road-hilla/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-09-a-kerosene-road-hilla/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "فلاحون وأصحاب آليات ثقيلة",
+        "قطعوا شارع 60 وسط الحلة اليوم",
+        "اعتراضاً على رفع أسعار الكاز"
+      ]
+    },
+    {
+      "label": "التهديد",
+      "arabicHeading": "«رسالة تنبيهية أولى».. وتهديد باعتصام مفتوح",
+      "arabicBody": "المحتجون وصفوا ما فعلوه بأنه رسالة تنبيهية أولى للحكومة، وهدّدوا بالانتقال إلى اعتصام مفتوح وقطع الطريق بشكل دائم (964).",
+      "bigStat": {
+        "value": "1",
+        "label": "Protesters call it a first warning to the government",
+        "arabicLabel": "«رسالة تنبيهية أولى» هو الوصف الذي أطلقه المحتجون على قطع الطريق، مع تهديد بالانتقال إلى اعتصام مفتوح وقطع دائم إذا طُبّق التسعير الجديد (شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوصف",
+          "value": "رسالة أولى"
+        },
+        {
+          "label": "التهديد",
+          "value": "اعتصام مفتوح"
+        },
+        {
+          "label": "السبب",
+          "value": "كلفة الإنتاج"
+        }
+      ],
+      "broll": "images/news/2026-09-09-a-kerosene-road-hilla/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-09-a-kerosene-road-hilla/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وصفوها برسالة تنبيهية أولى للحكومة",
+        "وهدّدوا باعتصام مفتوح",
+        "وقطع الطريق بشكل دائم"
+      ]
+    },
+    {
+      "label": "قطاع ثانٍ",
+      "arabicHeading": "قطاع ثاني ومادة غير الكاز: 100 ← 480",
+      "arabicBody": "قبل ثلاثة أيام وبالمحافظة نفسها، قال أصحاب معامل الطابوق إن لتر النفط الأسود — مادة غير الكاز — قفز من 100 إلى 480 ديناراً (964 · 6 أيلول).",
+      "bigStat": {
+        "value": "480",
+        "label": "Black oil, per litre, per protesting kiln owners (Sep 6)",
+        "arabicLabel": "ديناراً سعر لتر النفط الأسود بعد رفع الدعم مقابل 100 دينار قبله، بحسب أصحاب معامل الطابوق في بابل — مادة مختلفة عن الكاز وأرقام على لسان المحتجين لا الوزارة (شبكة 964 · 6 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل",
+          "value": "100 دينار"
+        },
+        {
+          "label": "بعد",
+          "value": "480 ديناراً"
+        },
+        {
+          "label": "المصدر",
+          "value": "أصحاب المعامل"
+        }
+      ],
+      "broll": "images/news/2026-09-09-a-kerosene-road-hilla/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-09-a-kerosene-road-hilla/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "قطاع ثاني ومادة غير الكاز",
+        "أصحاب معامل الطابوق: النفط الأسود",
+        "قفز من 100 إلى 480 ديناراً"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "قطعوا شارع 60 بالحلة.. والسبب سعر الكاز",
+    "فلاحون وأصحاب آليات ثقيلة قطعوا شارع 60 وسط الحلة اليوم اعتراضاً على رفع أسعار الكاز (964)",
+    "المحتجون: هذه رسالة تنبيهية أولى.. وتهديد باعتصام مفتوح وقطع دائم إذا طُبّق التسعير الجديد",
+    "المحتجون: رسالة تنبيهية أولى.. وتهديد باعتصام مفتوح وقطع الطريق بشكل دائم",
+    "الحكومة رفعت الدعم عن المشتقات لكل القطاعات مطلع أيلول مع استثناء الكميات المجهّزة للمواطنين، أما القطاعات الإنتاجية فتشتري بالسعر غير المدعوم",
+    "أرقام النفط الأسود على لسان أصحاب المعامل لا الوزارة، والمادة والقطاع مختلفان عن احتجاج اليوم",
+    "إنت فلاح أو عندك آلية؟ شكد زادت كلفة وقودك من أيلول؟"
+  ],
+  "endQuestion": "إنت فلاح أو عندك آلية؟ شكد زادت كلفة وقودك من أيلول؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شبكة 964 — احتجاج الحلة، 9 أيلول 2026",
+      "domain": "964media.com"
+    }
+  ]
+}

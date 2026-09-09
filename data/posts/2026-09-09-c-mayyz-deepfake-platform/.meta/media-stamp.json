@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-c-mayyz-deepfake-platform",
+  "date": "2026-09-09",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 287564,
+      "sha256": "1e111c7fb276f4f6"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1202077,
+      "sha256": "836cdcc8bdc6b9b7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 776276,
+      "sha256": "4a2fe862e4825eda"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 385319,
+      "sha256": "e3dd5ca45056c1f9"
+    }
+  ]
+}

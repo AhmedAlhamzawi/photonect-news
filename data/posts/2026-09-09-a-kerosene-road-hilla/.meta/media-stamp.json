@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-a-kerosene-road-hilla",
+  "date": "2026-09-09",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1187897,
+      "sha256": "e9eaca260ef378ea"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 801213,
+      "sha256": "f7363b5a98581a97"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1116035,
+      "sha256": "aef5b71f3bca8f21"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1388916,
+      "sha256": "b5f7e3f3197af617"
+    }
+  ]
+}

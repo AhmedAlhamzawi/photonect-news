@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-09",
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "resolution": "2k",
+  "map": {
+    "1": {
+      "slug": "2026-09-09-a-kerosene-road-hilla",
+      "file": "hero.jpg",
+      "job_id": "f04a9968-cc92-4c87-b20e-625134a52db4"
+    },
+    "2": {
+      "slug": "2026-09-09-a-kerosene-road-hilla",
+      "file": "broll_1.jpg",
+      "job_id": "47a388db-c93e-427f-80b0-6f6707fa446f"
+    },
+    "3": {
+      "slug": "2026-09-09-a-kerosene-road-hilla",
+      "file": "broll_2.jpg",
+      "job_id": "5ac2f7cd-0641-41ad-bcc4-352ccd3fa789"
+    },
+    "4": {
+      "slug": "2026-09-09-a-kerosene-road-hilla",
+      "file": "broll_3.jpg",
+      "job_id": "d82a202b-bcb8-4124-a8e5-acfc4e6cd6a2"
+    },
+    "5": {
+      "slug": "2026-09-09-b-dollar-bourse-counter",
+      "file": "hero.jpg",
+      "job_id": "dd941e6e-1466-464e-b1e5-11fc1ad8fc0f"
+    },
+    "6": {
+      "slug": "2026-09-09-b-dollar-bourse-counter",
+      "file": "broll_1.jpg",
+      "job_id": "90796365-6f40-4f22-9201-c183acfb952d"
+    },
+    "7": {
+      "slug": "2026-09-09-b-dollar-bourse-counter",
+      "file": "broll_2.jpg",
+      "job_id": "1adef3f2-ca95-4687-9c32-bf2d732408b3"
+    },
+    "8": {
+      "slug": "2026-09-09-b-dollar-bourse-counter",
+      "file": "broll_3.jpg",
+      "job_id": "3e303754-8c73-47c6-84f0-a530784f418c"
+    },
+    "9": {
+      "slug": "2026-09-09-c-mayyz-deepfake-platform",
+      "file": "hero.jpg",
+      "job_id": "7adf0fe3-7aa6-4cb1-8232-7c5cb6a13130"
+    },
+    "10": {
+      "slug": "2026-09-09-c-mayyz-deepfake-platform",
+      "file": "broll_1.jpg",
+      "job_id": "53b561b9-e49f-4fd2-b1d8-67819443b163"
+    },
+    "11": {
+      "slug": "2026-09-09-c-mayyz-deepfake-platform",
+      "file": "broll_2.jpg",
+      "job_id": "62f5f156-8dbf-4a29-aa17-d550874c3b7a"
+    },
+    "12": {
+      "slug": "2026-09-09-c-mayyz-deepfake-platform",
+      "file": "broll_3.jpg",
+      "job_id": "6adb210c-745d-4ba5-b254-65a27fbdab90"
+    },
+    "13": {
+      "slug": "2026-09-09-d-baghdad-fees-41-thousand",
+      "file": "hero.jpg",
+      "job_id": "b2a5eac1-a137-4324-bedb-5ae6b68bfcc2"
+    },
+    "14": {
+      "slug": "2026-09-09-d-baghdad-fees-41-thousand",
+      "file": "broll_1.jpg",
+      "job_id": "d46699c2-5cb3-4f67-9657-61127cb71f5e"
+    },
+    "15": {
+      "slug": "2026-09-09-d-baghdad-fees-41-thousand",
+      "file": "broll_2.jpg",
+      "job_id": "fa8a3632-20c7-4ee1-bae9-2c89c3939bd8"
+    },
+    "16": {
+      "slug": "2026-09-09-d-baghdad-fees-41-thousand",
+      "file": "broll_3.jpg",
+      "job_id": "9758147e-bbb7-4269-a2da-a3c84a01ff7d"
+    },
+    "17": {
+      "slug": "2026-09-09-e-oil-for-water-turkey",
+      "file": "hero.jpg",
+      "job_id": "edf369c5-40a6-48e4-824d-68bcc118fc52"
+    },
+    "18": {
+      "slug": "2026-09-09-e-oil-for-water-turkey",
+      "file": "broll_1.jpg",
+      "job_id": "b46570d4-7c15-436f-b7ef-09175ce23967"
+    },
+    "19": {
+      "slug": "2026-09-09-e-oil-for-water-turkey",
+      "file": "broll_2.jpg",
+      "job_id": "228eb7c8-d9f9-4011-b76a-b8f34fea7a1d"
+    },
+    "20": {
+      "slug": "2026-09-09-e-oil-for-water-turkey",
+      "file": "broll_3.jpg",
+      "job_id": "fc5faa16-0e6f-48e5-9946-b6830a00fa00"
+    }
+  }
+}

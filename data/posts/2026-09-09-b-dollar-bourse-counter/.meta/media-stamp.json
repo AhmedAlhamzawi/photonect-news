@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-b-dollar-bourse-counter",
+  "date": "2026-09-09",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 549893,
+      "sha256": "ac0465ec0237bda4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1194066,
+      "sha256": "9c034e362d7cb511"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 641657,
+      "sha256": "f1eced3b702698e8"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1272289,
+      "sha256": "2f9c2168e546331e"
+    }
+  ]
+}

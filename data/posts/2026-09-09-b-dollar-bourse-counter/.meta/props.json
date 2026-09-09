@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 09 • 2026",
+  "arabicDateLabel": "9 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار بالبورصة صعد 500.. وعلى شبّاك الصيرفة تدفع أكثر",
+    "englishSubhead": "IRAQ BOURSES · SEP 9 (964) | BAGHDAD SELL 156,500 (+500 D/D, SAME BULLETIN, CALC) | ERBIL 156,000 | BASRA 156,250 | OFFICIAL 131,000 || SHAFAQ, SEPARATE OUTLET: SHOPS 156,750 vs ITS OWN BOURSE 156,200 = 550 CALC",
+    "heroMedia": "images/news/2026-09-09-b-dollar-bourse-counter/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الصعود",
+      "arabicHeading": "بورصات بغداد: 156,500 بيعاً لكل 100 دولار",
+      "arabicBody": "بورصات بغداد اليوم: بيع 100 دولار بـ156,500 دينار وشراؤها بـ155,500 — بارتفاع 500 دينار عن نشرة أمس من المصدر نفسه وعلى الأساس ذاته (964 · محتسب).",
+      "bigStat": {
+        "value": "156,500",
+        "label": "Baghdad bourse selling rate, per $100, Sep 9",
+        "arabicLabel": "ديناراً سعر بيع 100 دولار في بورصات بغداد اليوم مقابل 156,000 في نشرة أمس من المصدر نفسه — بارتفاع 500 دينار (محتسب · شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "156,500"
+        },
+        {
+          "label": "شراء بغداد",
+          "value": "155,500"
+        },
+        {
+          "label": "الأساس",
+          "value": "بورصات"
+        }
+      ],
+      "broll": "images/news/2026-09-09-b-dollar-bourse-counter/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-09-b-dollar-bourse-counter/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بورصات بغداد اليوم",
+        "بيع 100 دولار بـ156,500 دينار",
+        "بارتفاع 500 دينار عن نشرة أمس"
+      ]
+    },
+    {
+      "label": "بالتساوي",
+      "arabicHeading": "أربيل والبصرة صعدتا 500 بالضبط.. وأربيل الأدنى",
+      "arabicBody": "أربيل 156,000 والبصرة 156,250 بيعاً في النشرة نفسها، وكل مدينة ارتفعت 500 دينار بالضبط عن نشرة أمس — الفارق محتسب من نشرتَي المصدر ذاته (964).",
+      "bigStat": {
+        "value": "500",
+        "label": "Identical overnight rise in all three cities, calculated",
+        "arabicLabel": "ديناراً هو مقدار ارتفاع سعر البيع في بغداد وأربيل والبصرة معاً بين نشرتَي أمس واليوم — محتسب من نشرتَي شبكة 964 وعلى أساس البورصات نفسه (9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيع",
+          "value": "156,000"
+        },
+        {
+          "label": "البصرة بيع",
+          "value": "156,250"
+        },
+        {
+          "label": "الارتفاع",
+          "value": "500 لكلٍّ"
+        }
+      ],
+      "broll": "images/news/2026-09-09-b-dollar-bourse-counter/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-09-b-dollar-bourse-counter/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أربيل 156,000 والبصرة 156,250 بيعاً",
+        "وكل مدينة ارتفعت 500 دينار بالضبط",
+        "الفارق محتسب من نشرتَي المصدر ذاته"
+      ]
+    },
+    {
+      "label": "الشبّاك",
+      "arabicHeading": "على الشبّاك تدفع أكثر: 156,750 بمحال بغداد",
+      "arabicBody": "تقرير شفق نيوز اليوم يضع بيع محال الصيرفة ببغداد عند 156,750 ديناراً مقابل 156,200 لبورصات بغداد في التقرير نفسه — فارق 550 ديناراً (محتسب من التقرير ذاته).",
+      "bigStat": {
+        "value": "156,750",
+        "label": "Baghdad exchange-shop selling rate, per $100, per Shafaq",
+        "arabicLabel": "ديناراً سعر بيع 100 دولار في محال الصيرفة ببغداد بحسب تقرير شفق نيوز اليوم، أي 550 ديناراً فوق سعر بورصات بغداد في التقرير نفسه (محتسب · شفق نيوز · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "محال بغداد",
+          "value": "156,750"
+        },
+        {
+          "label": "بورصة بغداد",
+          "value": "156,200"
+        },
+        {
+          "label": "الفارق",
+          "value": "550 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-09-09-b-dollar-bourse-counter/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-09-b-dollar-bourse-counter/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "على شبّاك الصيرفة تدفع أكثر",
+        "بيع المحال ببغداد 156,750 ديناراً",
+        "أي 550 ديناراً فوق بورصة التقرير نفسه"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الدولار بالبورصة صعد 500.. وعلى شبّاك الصيرفة تدفع أكثر",
+    "بورصات العراق 9 أيلول: بغداد بيع 156,500 وشراء 155,500 لكل 100 دولار (964)",
+    "أربيل بيع 156,000 والبصرة بيع 156,250 في النشرة نفسها",
+    "المدن الثلاث ارتفعت 500 دينار بالضبط عن نشرة أمس — محتسب من نشرتَي المصدر نفسه",
+    "السعر الرسمي المعتمد من البنك المركزي 131,000 لكل 100 دولار بحسب النشرة ذاتها",
+    "شفق نيوز: بيع محال الصيرفة ببغداد 156,750 مقابل 156,200 لبورصات بغداد في التقرير نفسه — فارق 550 (محتسب)",
+    "بشكد انحسب عليك الدولار اليوم بالمحل؟"
+  ],
+  "endQuestion": "بشكد انحسب عليك الدولار اليوم بالمحل؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

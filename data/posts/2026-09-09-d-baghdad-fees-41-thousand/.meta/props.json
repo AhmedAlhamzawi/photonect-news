@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 09 • 2026",
+  "arabicDateLabel": "9 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "رسوم أمانة بغداد: 41 ألف ما دفعوا.. وتوصية تمس إجازتك",
+    "englishSubhead": "FEDERAL INTEGRITY COMMISSION ON BAGHDAD MUNICIPALITY | 37BN IQD COLLECTED IN 2025 | 41,000+ REGISTRANTS REFUSED TO PAY | RECOMMENDATION ONLY · 964 · SEP 9",
+    "heroMedia": "images/news/2026-09-09-d-baghdad-fees-41-thousand/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجباية",
+      "arabicHeading": "أمانة بغداد حصّلت أكثر من 37 مليار دينار",
+      "arabicBody": "تقرير هيئة النزاهة الاتحادية يقول إن أمانة بغداد حصّلت أكثر من 37 مليار دينار سنة 2025 من رسوم المهن والإعلانات وطمر النفايات، فوق الهدف المخطط (964).",
+      "bigStat": {
+        "value": "37",
+        "label": "Billion IQD collected by Baghdad Municipality in 2025",
+        "arabicLabel": "مليار دينار أكثر من حصيلة أمانة بغداد سنة 2025 من رسوم المهن والإعلانات وطمر النفايات عبر خمس مديريات بلدية — فوق الهدف المخطط بحسب تقرير هيئة النزاهة الاتحادية (شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحصيلة",
+          "value": "+37 مليار"
+        },
+        {
+          "label": "السنة",
+          "value": "2025"
+        },
+        {
+          "label": "المديريات",
+          "value": "5"
+        }
+      ],
+      "broll": "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "تقرير هيئة النزاهة الاتحادية",
+        "الأمانة حصّلت أكثر من 37 مليار دينار",
+        "من رسوم المهن والإعلانات والنفايات"
+      ]
+    },
+    {
+      "label": "الممتنعون",
+      "arabicHeading": "وبالمقابل: أكثر من 41 ألف مكلَّف امتنعوا",
+      "arabicBody": "التقرير نفسه يذكر أن أكثر من 41 ألف مكلَّف في خمس مديريات بلدية امتنعوا عن تسديد ما بذمتهم لسنة 2025، والتسعيرة ما زالت تسعيرة 2018 (964).",
+      "bigStat": {
+        "value": "41,000",
+        "label": "Registrants who refused to pay their 2025 dues",
+        "arabicLabel": "مكلَّفاً أكثر من امتنعوا عن تسديد ما بذمتهم لسنة 2025 في خمس مديريات بلدية، مع بقاء تقديرات رسوم المهن على تسعيرة 2018 (تقرير هيئة النزاهة الاتحادية عبر شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الممتنعون",
+          "value": "+41,000"
+        },
+        {
+          "label": "التسعيرة",
+          "value": "منذ 2018"
+        },
+        {
+          "label": "السنة",
+          "value": "2025"
+        }
+      ],
+      "broll": "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أكثر من 41 ألف مكلَّف امتنعوا",
+        "عن تسديد ما بذمتهم لسنة 2025",
+        "والتسعيرة ما زالت تسعيرة 2018"
+      ]
+    },
+    {
+      "label": "التوصية",
+      "arabicHeading": "توصية: بلا براءة ذمة.. ما تتجدد الإجازة",
+      "arabicBody": "الهيئة أوصت الوزارات والبنك المركزي بعدم منح الإجازات أو تجديدها لمن لا يحمل براءة ذمة، ومنهم أصحاب المولدات ومحطات الوقود والصاغة والعيادات. توصية لا قرار نافذ.",
+      "bigStat": {
+        "value": "0",
+        "label": "A recommendation in a report — not an enforced decision",
+        "arabicLabel": "التوصية ليست قراراً نافذاً: هيئة النزاهة أوصت بعدم منح الإجازات أو تجديدها لمن لا يحمل براءة ذمة من أمانة بغداد، ولم يُوجَّه في التقرير اتهام إلى شخص بعينه (شبكة 964 · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالة",
+          "value": "توصية"
+        },
+        {
+          "label": "الشرط",
+          "value": "براءة ذمة"
+        },
+        {
+          "label": "الشمول",
+          "value": "مولدات ووقود وصاغة"
+        }
+      ],
+      "broll": "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-09-d-baghdad-fees-41-thousand/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أوصت بعدم تجديد الإجازة",
+        "لمن لا يحمل براءة ذمة من الأمانة",
+        "وهي توصية لا قرار نافذ"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "رسوم أمانة بغداد: 41 ألف ما دفعوا.. وتوصية تمس إجازتك",
+    "تقرير هيئة النزاهة الاتحادية عن جباية الرسوم في أمانة بغداد (964 · 9 أيلول 2026)",
+    "الأمانة حصّلت أكثر من 37 مليار دينار سنة 2025 من رسوم المهن والإعلانات وطمر النفايات",
+    "أكثر من 41 ألف مكلَّف في خمس مديريات بلدية امتنعوا عن تسديد ما بذمتهم لسنة 2025",
+    "تقديرات رسوم المهن ما زالت معتمدة على تسعيرة 2018",
+    "الهيئة أوصت بعدم منح الإجازات أو تجديدها لمن لا يحمل براءة ذمة — توصية لا قرار نافذ، ولا اتهام لشخص بعينه",
+    "عندك محل أو مولدة؟ شكد رسوم الأمانة عليك بالسنة؟"
+  ],
+  "endQuestion": "عندك محل أو مولدة؟ شكد رسوم الأمانة عليك بالسنة؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "هيئة النزاهة الاتحادية عبر شبكة 964 — 9 أيلول 2026",
+      "domain": "964media.com"
+    }
+  ]
+}

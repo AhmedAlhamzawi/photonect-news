@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 09 • 2026",
+  "arabicDateLabel": "9 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_domestic",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "تقنية",
+    "arabicHeadline": "منصة عراقية تدرّبك تميّز الفيديو المفبرك.. بس بعدها بالتجربة",
+    "englishSubhead": "IRAQ NSS ANNOUNCES «MAYYZ» AI DEEPFAKE-SPOTTING TRAINING PLATFORM | STILL IN INITIAL TESTING, NOT PUBLIC | 964 · SEP 8",
+    "heroMedia": "images/news/2026-09-09-c-mayyz-deepfake-platform/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "«ميّز التزييف».. تدرّبك تفرّق الحقيقي من المفبرك",
+      "arabicBody": "جهاز الأمن الوطني أعلن أمس منصة تفاعلية اسمها «ميّز التزييف»، تدرّب المستخدم على التمييز بين الصورة والفيديو والصوت الحقيقي وما يصنعه الذكاء الاصطناعي (964 · 8 أيلول).",
+      "bigStat": {
+        "value": "3",
+        "label": "Three media types the platform covers: image, video, audio",
+        "arabicLabel": "أنواع من المحتوى تغطيها المنصة: الصورة والفيديو والصوت — تدريب على التمييز بين الحقيقي وما يصنعه الذكاء الاصطناعي (جهاز الأمن الوطني عبر شبكة 964 · 8 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاسم",
+          "value": "ميّز التزييف"
+        },
+        {
+          "label": "الأنواع",
+          "value": "صورة وفيديو وصوت"
+        },
+        {
+          "label": "الإعلان",
+          "value": "8 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "جهاز الأمن الوطني أعلن منصة تفاعلية",
+        "اسمها «ميّز التزييف»",
+        "تدرّبك تفرّق الحقيقي من المفبرك"
+      ]
+    },
+    {
+      "label": "الصناعة",
+      "arabicHeading": "صُمّمت داخل الأمن السيبراني.. وخوادمها حكومية",
+      "arabicBody": "المتحدث باسم الجهاز أرشد الحكيم قال إن المنصة صُمّمت بالكامل داخل مديرية الأمن السيبراني، وإن بياناتها تُخزَّن على خوادم منصة «أمان» الحكومية بإشراف قضائي مباشر (964).",
+      "bigStat": {
+        "value": "1",
+        "label": "Built in-house by the agency's Cybersecurity Directorate",
+        "arabicLabel": "مديرية واحدة داخل جهاز الأمن الوطني — مديرية الأمن السيبراني — صمّمت المنصة بالكامل، والبيانات تُخزَّن على خوادم منصة «أمان» الحكومية بإشراف قضائي مباشر (أرشد الحكيم عبر شبكة 964 · 8 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "الأمن السيبراني"
+        },
+        {
+          "label": "الخوادم",
+          "value": "منصة أمان"
+        },
+        {
+          "label": "الإشراف",
+          "value": "قضائي مباشر"
+        }
+      ],
+      "broll": "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "المتحدث أرشد الحكيم: صُمّمت بالكامل",
+        "داخل مديرية الأمن السيبراني",
+        "وبياناتها على خوادم منصة «أمان»"
+      ]
+    },
+    {
+      "label": "التحفّظ",
+      "arabicHeading": "مو متاحة بعد: «مرحلة التجارب الأولية»",
+      "arabicBody": "الحكيم أوضح أن المنصة ما تزال في مرحلة التجارب الأولية ولم تُطرح بعد لعموم المواطنين، وستكون متاحة في الفترة المقبلة (964).",
+      "bigStat": {
+        "value": "0",
+        "label": "Not yet open to the public — initial testing phase",
+        "arabicLabel": "المنصة لم تُتَح بعد لعموم المواطنين: المتحدث باسم الجهاز يصفها بأنها في «مرحلة التجارب الأولية» وستُطرح في الفترة المقبلة (شبكة 964 · 8 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالة",
+          "value": "تجارب أولية"
+        },
+        {
+          "label": "للجمهور",
+          "value": "لم تُطرح بعد"
+        },
+        {
+          "label": "«الأولى»",
+          "value": "وصف الجهاز"
+        }
+      ],
+      "broll": "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-09-c-mayyz-deepfake-platform/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "ما تزال بمرحلة التجارب الأولية",
+        "ولم تُطرح بعد لعموم المواطنين",
+        "ووصفها بالأولى منسوب للجهاز نفسه"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "منصة عراقية تدرّبك تميّز الفيديو المفبرك.. بس بعدها بالتجربة",
+    "جهاز الأمن الوطني يعلن منصة «ميّز التزييف» التفاعلية (964 · 8 أيلول 2026)",
+    "المنصة تدرّب المستخدم على التمييز بين الصورة والفيديو والصوت الحقيقي وما يصنعه الذكاء الاصطناعي",
+    "المتحدث أرشد الحكيم: صُمّمت بالكامل داخل مديرية الأمن السيبراني",
+    "البيانات تُخزَّن على خوادم منصة «أمان» الحكومية وتحت إشراف قضائي مباشر",
+    "الحكيم: ما نزال في مرحلة التجارب الأولية، ولم تُطرح بعد لعموم المواطنين",
+    "وصلك مقطع شككت إنه مفبرك؟"
+  ],
+  "endQuestion": "وصلك مقطع شككت إنه مفبرك؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "جهاز الأمن الوطني عبر شبكة 964 — 8 أيلول 2026",
+      "domain": "964media.com"
+    }
+  ]
+}

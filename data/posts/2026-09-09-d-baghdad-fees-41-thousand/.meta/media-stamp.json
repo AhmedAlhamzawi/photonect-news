@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-d-baghdad-fees-41-thousand",
+  "date": "2026-09-09",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1546989,
+      "sha256": "da086dd0eefda927"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1196653,
+      "sha256": "7c8a75ff64425ac0"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1157119,
+      "sha256": "abf9f5fc7bd5b0a4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1417616,
+      "sha256": "d9502e586dbea549"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-e-oil-for-water-turkey",
+  "date": "2026-09-09",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1319292,
+      "sha256": "fb8045416f90867e"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 830870,
+      "sha256": "4d08ef8d6a8415bb"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1314038,
+      "sha256": "ec6f85dbaa77a665"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1236368,
+      "sha256": "590e5dc173fad8c1"
+    }
+  ]
+}
