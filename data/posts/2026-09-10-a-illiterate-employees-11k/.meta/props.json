@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 10 • 2026",
+  "arabicDateLabel": "10 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رقم رسمي",
+    "arabicHeadline": "أكثر من 11 ألف موظف بالدولة ما يقرون",
+    "englishSubhead": "IRAQ · SEP 10 | EDUCATION MINISTRY SPOKESMAN KARIM AL-SAYED TO RUDAW: 11,000+ STATE EMPLOYEES, CIVIL AND MILITARY, CANNOT READ OR WRITE | 2024 CENSUS ILLITERACY 15.3%",
+    "heroMedia": "images/news/2026-09-10-a-illiterate-employees-11k/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم",
+      "arabicHeading": "أكثر من 11 ألف موظف مدني وعسكري",
+      "arabicBody": "المتحدث باسم وزارة التربية كريم السيد قال لرووداو اليوم إن أكثر من 11 ألف موظف حكومي، مدني وعسكري، لا يجيدون القراءة والكتابة.",
+      "bigStat": {
+        "value": "11,000+",
+        "label": "State employees who cannot read or write, per Education Ministry",
+        "arabicLabel": "موظف حكومي في القطاعين المدني والعسكري لا يجيدون القراءة والكتابة بحسب وزارة التربية العراقية (رووداو · 10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "مدنيون",
+          "value": "5,832"
+        },
+        {
+          "label": "عسكريون",
+          "value": "+6,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "وزارة التربية"
+        }
+      ],
+      "broll": "images/news/2026-09-10-a-illiterate-employees-11k/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-10-a-illiterate-employees-11k/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أكثر من 11 ألف موظف حكومي",
+        "مدني وعسكري",
+        "لا يجيدون القراءة والكتابة"
+      ]
+    },
+    {
+      "label": "وين يشتغلون",
+      "arabicHeading": "بالنفط والكهرباء.. وبالدفاع والداخلية والحشد",
+      "arabicBody": "بحسب ما قالته الوزارة لرووداو، يعمل هؤلاء في وزارات بينها النفط والكهرباء، وفي مؤسسات أمنية بينها الدفاع والداخلية وهيئة الحشد الشعبي.",
+      "bigStat": {
+        "value": "5,832",
+        "label": "Civil servants enrolled in literacy programmes",
+        "arabicLabel": "موظفاً مدنياً مسجلون في برامج محو الأمية، إلى جانب أكثر من 6,000 منتسب في القطاع العسكري (وزارة التربية · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "مدنيون",
+          "value": "5,832"
+        },
+        {
+          "label": "عسكريون",
+          "value": "+6,000"
+        },
+        {
+          "label": "الإجمالي",
+          "value": "+11,000"
+        }
+      ],
+      "broll": "images/news/2026-09-10-a-illiterate-employees-11k/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-10-a-illiterate-employees-11k/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وزارات النفط والكهرباء",
+        "والدفاع والداخلية والحشد الشعبي",
+        "مسجلون في برامج محو الأمية"
+      ]
+    },
+    {
+      "label": "الصورة الأكبر",
+      "arabicHeading": "15.3% نسبة الأمية بحسب تعداد 2024",
+      "arabicBody": "بحسب التعداد العام لعام 2024 بلغت نسبة الأمية 15.3%، والأعلى في المثنى ونينوى وميسان. الوزارة تدير 1,200 مركز استفاد منها أكثر من مليون و500 ألف.",
+      "bigStat": {
+        "value": "15.3%",
+        "label": "Illiteracy rate in Iraq and the Kurdistan Region, 2024 census",
+        "arabicLabel": "نسبة الأمية في العراق وإقليم كوردستان بحسب التعداد العام للسكان لعام 2024 (رووداو · 10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المراكز",
+          "value": "1,200"
+        },
+        {
+          "label": "الدارسون",
+          "value": "57,512"
+        },
+        {
+          "label": "المستفيدون",
+          "value": "+1.5 مليون"
+        }
+      ],
+      "broll": "images/news/2026-09-10-a-illiterate-employees-11k/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-10-a-illiterate-employees-11k/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "نسبة الأمية 15.3%",
+        "الأعلى في المثنى ونينوى وميسان",
+        "1,200 مركز لمحو الأمية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وزارة التربية لرووداو: أكثر من 11 ألف موظف حكومي لا يجيدون القراءة والكتابة",
+    "الدارسون في برامج محو الأمية 57,512 بينهم 5,832 موظفاً مدنياً وأكثر من 6 آلاف عسكري",
+    "14 فريقاً لتعليم الكبار و1,200 مركز لمحو الأمية في جميع المحافظات",
+    "تعداد 2024: نسبة الأمية 15.3% — الأعلى في المثنى ونينوى وميسان",
+    "تعرف شخص تعلّم القراءة بعد ما كبر؟"
+  ],
+  "endQuestion": "تعرف شخص تعلّم القراءة بعد ما كبر؟",
+  "sources": [
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "وزارة التربية العراقية",
+      "domain": "moedu.gov.iq"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-10-c-tanker-iraqi-waters",
+  "date": "2026-09-10",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 990830,
+      "sha256": "045907d673c6a7f2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1142062,
+      "sha256": "8ace0067a76926d8"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1355668,
+      "sha256": "e9d67734ef046ef4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1842543,
+      "sha256": "27fe4fe8356f9153"
+    }
+  ]
+}

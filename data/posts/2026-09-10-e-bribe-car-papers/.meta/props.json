@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 10 • 2026",
+  "arabicDateLabel": "10 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "أخذوا فلوس لقاء أوراق سيارة.. 3 سنين حبس",
+    "englishSubhead": "DIYALA · SEP 10 | CRIMINAL COURT: 3 YEARS FOR A NOTARY-ENFORCEMENT OFFICER AND EMPLOYEE IN BAQUBAH OVER A BRIBE TO RETURN VEHICLE PAPERS (JUDICIARY VIA 964) | NINEVEH: INTEGRITY COMMISSION CATCHES 2 MUNICIPAL STAFF OVER 60 RECEIPT BOOKS (SUMARIA)",
+    "heroMedia": "images/news/2026-09-10-e-bribe-car-papers/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "بعقوبة",
+      "arabicHeading": "منفذ عدل وموظف.. حبس شديد 3 سنوات",
+      "arabicBody": "بحسب إعلام القضاء، حكمت محكمة جنايات ديالى بالحبس الشديد 3 سنوات على منفذ عدل وموظف في دائرة تنفيذ عدل بعقوبة بجريمة الرشوة (شبكة 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Years of rigorous imprisonment for bribery, Diyala Criminal Court",
+        "arabicLabel": "سنوات حبس شديد لمنفذ عدل وموظف في دائرة تنفيذ عدل بعقوبة بجريمة الرشوة، بحسب إعلام القضاء (شبكة 964 · 10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحكمة",
+          "value": "جنايات ديالى"
+        },
+        {
+          "label": "الحكم",
+          "value": "حبس شديد"
+        },
+        {
+          "label": "المدة",
+          "value": "3 سنوات"
+        }
+      ],
+      "broll": "images/news/2026-09-10-e-bribe-car-papers/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-10-e-bribe-car-papers/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "محكمة جنايات ديالى",
+        "حبس شديد 3 سنوات",
+        "منفذ عدل وموظف بجريمة الرشوة"
+      ]
+    },
+    {
+      "label": "المقابل",
+      "arabicHeading": "فلوس من مواطن.. لقاء أوراق سيارة",
+      "arabicBody": "بحسب بيان القضاء، أخذ المدانان مبالغ من مواطن لقاء إعادة أوراق ملكية عجلة مرتبطة بإضبارة تنفيذية، والحكم استند إلى المادة 307 من قانون العقوبات.",
+      "bigStat": {
+        "value": "307",
+        "label": "Penal Code article applied in the bribery ruling",
+        "arabicLabel": "المادة من قانون العقوبات العراقي التي استند إليها الحكم بحق المدانَين، بحسب إعلام القضاء (شبكة 964 · 10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجريمة",
+          "value": "رشوة"
+        },
+        {
+          "label": "المادة",
+          "value": "307"
+        },
+        {
+          "label": "المقابل",
+          "value": "أوراق ملكية"
+        }
+      ],
+      "broll": "images/news/2026-09-10-e-bribe-car-papers/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-10-e-bribe-car-papers/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مبالغ من مواطن",
+        "لقاء إعادة أوراق ملكية عجلة",
+        "المادة 307 من قانون العقوبات"
+      ]
+    },
+    {
+      "label": "الموصل",
+      "arabicHeading": "60 دفتر وصولات جباية.. والنزاهة تضبط موظفَين",
+      "arabicBody": "بحسب السومرية نيوز، أعلنت هيئة النزاهة ضبط موظفَين في دائرة بلدية بنينوى متهمَين بسرقة 60 دفتر وصولات جباية لجباية أموال خلافاً للقانون.",
+      "bigStat": {
+        "value": "60",
+        "label": "Collection receipt books allegedly stolen, per Integrity Commission",
+        "arabicLabel": "دفتر وصولات جباية تقول هيئة النزاهة إن موظفَين في بلدية بنينوى سرقاها لجباية أموال خلافاً للقانون (السومرية نيوز · 10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "هيئة النزاهة"
+        },
+        {
+          "label": "الموظفون",
+          "value": "2"
+        },
+        {
+          "label": "الدفاتر",
+          "value": "60"
+        }
+      ],
+      "broll": "images/news/2026-09-10-e-bribe-car-papers/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-10-e-bribe-car-papers/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة النزاهة في نينوى",
+        "ضبط موظفَين في دائرة بلدية",
+        "60 دفتر وصولات جباية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "جنايات ديالى: حبس شديد 3 سنوات لمنفذ عدل وموظف في تنفيذ عدل بعقوبة بجريمة الرشوة",
+    "القضاء: أخذا مبالغ من مواطن لقاء إعادة أوراق ملكية عجلة مرتبطة بإضبارة تنفيذية",
+    "الحكم استند إلى المادة 307 من قانون العقوبات",
+    "النزاهة: ضبط موظفَين في دائرة بلدية بنينوى بتهمة سرقة 60 دفتر وصولات جباية",
+    "راجعت دائرة تنفيذ قبل؟"
+  ],
+  "endQuestion": "راجعت دائرة تنفيذ قبل؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "السومرية نيوز",
+      "domain": "alsumaria.tv"
+    }
+  ]
+}

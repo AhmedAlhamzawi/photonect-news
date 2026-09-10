@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-10-a-illiterate-employees-11k",
+  "date": "2026-09-10",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1943761,
+      "sha256": "a9021bddf51bd56a"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 990450,
+      "sha256": "b058289196ba2c72"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1754391,
+      "sha256": "d23722b2db7bf813"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1250831,
+      "sha256": "00e322649fdbc6ff"
+    }
+  ]
+}

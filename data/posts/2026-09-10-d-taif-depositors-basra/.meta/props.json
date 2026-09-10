@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 10 • 2026",
+  "arabicDateLabel": "10 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "مصارف",
+    "arabicHeadline": "المركزي يقدّم الرواتب.. ومودعو الطيف ينتظرون",
+    "englishSubhead": "BASRA · SEP 10 | 200+ ALTAIF ISLAMIC BANK DEPOSITORS PROTEST IN AL-AKWAT (964) | CBI: 18-MONTH TRUSTEESHIP, DEPOSITS 'PRESERVED', SALARIES FIRST | PRIVATE BANKS ASSOCIATION: 18% RESERVE, 100% GUARANTEE UNDER 25M IQD IF BANKRUPT",
+    "heroMedia": "images/news/2026-09-10-d-taif-depositors-basra/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البصرة اليوم",
+      "arabicHeading": "بطاقات معطلة وسحب متوقف.. احتجاج وسط البصرة",
+      "arabicBody": "بحسب شبكة 964، احتج مودعو مصرف الطيف في الأكوات وسط البصرة بعد تعطل البطاقات وتوقف السحب لأكثر من 200 متضرر، بعضهم ودائعه تصل 750 مليون دينار.",
+      "bigStat": {
+        "value": "200+",
+        "label": "Affected Altaif depositors, per 964",
+        "arabicLabel": "متضرر من مودعي مصرف الطيف الإسلامي تعطلت بطاقاتهم وتوقفت سحوباتهم، بحسب شبكة 964 (10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "الأكوات"
+        },
+        {
+          "label": "أكبر وديعة",
+          "value": "750 مليون"
+        },
+        {
+          "label": "المطلب",
+          "value": "صرف الودائع"
+        }
+      ],
+      "broll": "images/news/2026-09-10-d-taif-depositors-basra/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-10-d-taif-depositors-basra/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "احتجاج مودعي الطيف وسط البصرة",
+        "تعطل البطاقات وتوقف السحب",
+        "ودائع تصل إلى 750 مليون دينار"
+      ]
+    },
+    {
+      "label": "المركزي",
+      "arabicHeading": "وصاية 18 شهراً.. «لا تعني إفلاسه»",
+      "arabicBody": "البنك المركزي قال إن حقوق المودعين محفوظة، وإن الوصاية إجراء وقائي، وإنه ينظّم السحب تدريجياً مع أولوية لرواتب الموظفين الموطّنة (رووداو · شفق نيوز).",
+      "bigStat": {
+        "value": "18",
+        "label": "Months of Central Bank trusteeship over Altaif",
+        "arabicLabel": "شهراً مدة وصاية البنك المركزي العراقي على مصرف الطيف الإسلامي، إجراء رقابي «لا يعني إفلاسه» بحسب البنك (شفق نيوز · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوصي",
+          "value": "عماد محمد حمد"
+        },
+        {
+          "label": "الأولوية",
+          "value": "الرواتب"
+        },
+        {
+          "label": "السحب",
+          "value": "تدريجي"
+        }
+      ],
+      "broll": "images/news/2026-09-10-d-taif-depositors-basra/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-10-d-taif-depositors-basra/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "حقوق المودعين محفوظة",
+        "الوصاية إجراء وقائي",
+        "الأولوية لرواتب الموظفين الموطّنة"
+      ]
+    },
+    {
+      "label": "الضمان",
+      "arabicHeading": "رابطة المصارف: احتياطي 18% لدى المركزي",
+      "arabicBody": "وديع الحنظل، رئيس رابطة المصارف الخاصة: احتياطي 18% لدى المركزي يمكن صرفه للمودعين، وفي حال الإفلاس تضمن شركة الضمان 100% لما دون 25 مليون دينار (رووداو).",
+      "bigStat": {
+        "value": "25 مليون",
+        "label": "Deposit ceiling covered 100% by the deposit-guarantee company in a bankruptcy, per banks association",
+        "arabicLabel": "دينار حد الوديعة التي تضمنها شركة ضمان الودائع بالكامل في حال الإفلاس، بحسب رئيس رابطة المصارف الخاصة وديع الحنظل (رووداو · 9 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الاحتياطي",
+          "value": "18%"
+        },
+        {
+          "label": "الضمان",
+          "value": "100%"
+        },
+        {
+          "label": "الحد",
+          "value": "25 مليون"
+        }
+      ],
+      "broll": "images/news/2026-09-10-d-taif-depositors-basra/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-10-d-taif-depositors-basra/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "احتياطي قانوني 18% لدى المركزي",
+        "ضمان كامل لما دون 25 مليون دينار",
+        "في حال الإفلاس فقط"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "احتجاج مودعي مصرف الطيف الإسلامي في الأكوات وسط البصرة (شبكة 964)",
+    "البنك المركزي: حقوق مودعي الطيف محفوظة والوصاية إجراء رقابي وقائي",
+    "الوصاية 18 شهراً والوصي عماد محمد حمد — الأولوية لرواتب الموظفين الموطّنة",
+    "مظهر محمد صالح لشفق نيوز: لا مؤشرات عامة تستدعي إجراءات استثنائية بشأن السحوبات",
+    "وديع الحنظل لرووداو: احتياطي 18% لدى المركزي وضمان كامل لما دون 25 مليون عند الإفلاس",
+    "عندك حساب بمصرف الطيف؟"
+  ],
+  "endQuestion": "عندك حساب بمصرف الطيف؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-10-d-taif-depositors-basra",
+  "date": "2026-09-10",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1024098,
+      "sha256": "fbae2fe47528a617"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 682625,
+      "sha256": "fb5931f0f64b81d7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1100861,
+      "sha256": "81dbcf2a7a320c2c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1124923,
+      "sha256": "8394ec7d4cf09694"
+    }
+  ]
+}

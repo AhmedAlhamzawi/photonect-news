@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 10 • 2026",
+  "arabicDateLabel": "10 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "بسعر البورصة، 100 دولار تكلفك 25,750 فوق الرسمي",
+    "englishSubhead": "IRAQ BOURSES · SEP 10 (964) | BAGHDAD SELL 156,750 BUY 155,750 | ERBIL 156,250 | BASRA 156,250 | OFFICIAL 131,000 | GAP 25,750 PER $100 (CALC, SAME BULLETIN) || SHAFAQ, SEPARATE: BAGHDAD SHOPS SELL 156,500",
+    "heroMedia": "images/news/2026-09-10-b-dollar-official-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "بغداد اليوم: 156,750 لكل 100 دولار",
+      "arabicBody": "نشرة بورصات العراق صباح اليوم: بغداد بيع 156,750 وشراء 155,750، وأربيل 156,250 والبصرة 156,250 بيعاً لكل 100 دولار (شبكة 964).",
+      "bigStat": {
+        "value": "156,750",
+        "label": "Baghdad bourse selling rate per $100, Sep 10",
+        "arabicLabel": "ديناراً سعر بيع 100 دولار في بورصات بغداد صباح اليوم بحسب نشرة شبكة 964 (10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "156,750"
+        },
+        {
+          "label": "أربيل",
+          "value": "156,250"
+        },
+        {
+          "label": "البصرة",
+          "value": "156,250"
+        }
+      ],
+      "broll": "images/news/2026-09-10-b-dollar-official-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-10-b-dollar-official-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "بورصات بغداد صباح اليوم",
+        "بيع 100 دولار بـ156,750 دينار",
+        "أربيل والبصرة 156,250"
+      ]
+    },
+    {
+      "label": "الرسمي",
+      "arabicHeading": "السعر الرسمي 131,000.. والفارق 25,750",
+      "arabicBody": "في النشرة نفسها السعر الرسمي المعتمد من البنك المركزي 131,000 دينار لكل 100 دولار، أي أن بورصة بغداد أعلى بـ25,750 ديناراً (محتسب · 964).",
+      "bigStat": {
+        "value": "25,750",
+        "label": "Gap between Baghdad bourse and official rate per $100, calculated",
+        "arabicLabel": "ديناراً فارق سعر بيع بورصة بغداد (156,750) عن السعر الرسمي (131,000) لكل 100 دولار — محتسب من نشرة شبكة 964 نفسها (10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        },
+        {
+          "label": "بورصة بغداد",
+          "value": "156,750"
+        },
+        {
+          "label": "الفارق",
+          "value": "25,750"
+        }
+      ],
+      "broll": "images/news/2026-09-10-b-dollar-official-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-10-b-dollar-official-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "السعر الرسمي 131,000 دينار",
+        "بورصة بغداد 156,750",
+        "الفارق 25,750 على كل 100 دولار"
+      ]
+    },
+    {
+      "label": "جيبك",
+      "arabicHeading": "ألف دولار = 257,500 دينار فوق الرسمي",
+      "arabicBody": "من يشتري 1,000 دولار بسعر بورصة بغداد يدفع 257,500 ديناراً فوق السعر الرسمي (محتسب من نشرة 964 نفسها).",
+      "bigStat": {
+        "value": "257,500",
+        "label": "Extra paid over the official rate on $1,000 at the Baghdad bourse rate, calculated",
+        "arabicLabel": "ديناراً يدفعها من يشتري 1,000 دولار بسعر بورصة بغداد فوق السعر الرسمي — محتسب من نشرة شبكة 964 (10 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "لكل 1,000 دولار",
+          "value": "257,500"
+        },
+        {
+          "label": "السعر الرسمي",
+          "value": "131,000"
+        },
+        {
+          "label": "الأساس",
+          "value": "بورصة"
+        }
+      ],
+      "broll": "images/news/2026-09-10-b-dollar-official-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-10-b-dollar-official-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "من يشتري 1,000 دولار",
+        "يدفع 257,500 دينار فوق الرسمي",
+        "محتسب من النشرة نفسها"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بورصات العراق 10 أيلول: بغداد بيع 156,750 وشراء 155,750 لكل 100 دولار (964)",
+    "أربيل بيع 156,250 وشراء 155,250 — البصرة بيع 156,250 وشراء 155,750",
+    "السعر الرسمي المعتمد من البنك المركزي 131,000 لكل 100 دولار بحسب النشرة ذاتها",
+    "الفارق بين بورصة بغداد والسعر الرسمي 25,750 ديناراً لكل 100 دولار (محتسب)",
+    "شفق نيوز صباحاً: بيع محال الصيرفة ببغداد 156,500 وشراء 155,500",
+    "بشكد اشتريت آخر مية دولار؟"
+  ],
+  "endQuestion": "بشكد اشتريت آخر مية دولار؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

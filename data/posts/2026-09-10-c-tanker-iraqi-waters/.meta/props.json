@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 10 • 2026",
+  "arabicDateLabel": "10 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الخليج",
+    "arabicHeadline": "ناقلة وقود عراقي انضربت بمياهنا.. والمصدر مجهول",
+    "englishSubhead": "IRAQI WATERS · SEP 9 05:30 | PANAMA-FLAGGED TANKER CARRYING IRAQI FUEL OIL HIT FROM 'UNKNOWN SOURCE' — TRANSPORT & OIL MINISTRIES | REUTERS: NEW ANDROS, ~2M BBL, DRONE | HORMUZ: 7 SHIPS ON SEP 9",
+    "heroMedia": "images/news/2026-09-10-c-tanker-iraqi-waters/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "فجر الأربعاء",
+      "arabicHeading": "الساعة 5:30 فجراً.. إصابة من مصدر مجهول",
+      "arabicBody": "وزارة النقل: سفينة خزان ترفع علم بنما ومخصصة لزيت الوقود أُصيبت فجر الأربعاء 9 أيلول من مصدر مجهول داخل المياه الإقليمية العراقية، بلا إصابات ولا تسرب.",
+      "bigStat": {
+        "value": "5:30",
+        "label": "Time the tanker was hit inside Iraqi territorial waters, Sep 9",
+        "arabicLabel": "فجر الأربعاء 9 أيلول 2026 أُصيبت الناقلة داخل المياه الإقليمية العراقية من مصدر مجهول، بحسب وزارة النقل (شبكة 964 · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "العَلَم",
+          "value": "بنما"
+        },
+        {
+          "label": "الإصابات",
+          "value": "لا توجد"
+        },
+        {
+          "label": "التسرب",
+          "value": "لا يوجد"
+        }
+      ],
+      "broll": "images/news/2026-09-10-c-tanker-iraqi-waters/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-10-c-tanker-iraqi-waters/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الساعة 5:30 فجر الأربعاء",
+        "إصابة من مصدر مجهول",
+        "داخل المياه الإقليمية العراقية"
+      ]
+    },
+    {
+      "label": "الحمولة",
+      "arabicHeading": "نحو مليوني برميل من زيت الوقود العراقي",
+      "arabicBody": "رويترز عن مسؤولين بالموانئ: «نيو أندروس» تحمل نحو مليوني برميل وضُربت بمسيّرة، وطاقمها 22 بلا إصابات. ولم تعلن أي جهة مسؤوليتها حتى الآن (رووداو).",
+      "bigStat": {
+        "value": "2 مليون",
+        "label": "Barrels of Iraqi fuel oil aboard, approx., per Reuters",
+        "arabicLabel": "برميل تقريباً من زيت الوقود العراقي على متن الناقلة «نيو أندروس» بحسب مسؤولين في الموانئ لرويترز (رووداو · شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الناقلة",
+          "value": "نيو أندروس"
+        },
+        {
+          "label": "الطاقم",
+          "value": "22"
+        },
+        {
+          "label": "المستأجر",
+          "value": "ناقلات النفط"
+        }
+      ],
+      "broll": "images/news/2026-09-10-c-tanker-iraqi-waters/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-10-c-tanker-iraqi-waters/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الناقلة نيو أندروس",
+        "نحو مليوني برميل من زيت الوقود",
+        "الطاقم 22 بلا إصابات"
+      ]
+    },
+    {
+      "label": "هرمز",
+      "arabicHeading": "الأربعاء عبرت هرمز 7 سفن فقط",
+      "arabicBody": "بيانات تتبع نقلتها شفق نيوز: 7 سفن عبرت هرمز الأربعاء مقابل 12 قبلها بيوم، ومتوسط 10 أيام 14. وبعض السفن تعبر بأجهزة تتبع مطفأة.",
+      "bigStat": {
+        "value": "7",
+        "label": "Ships that crossed Hormuz on Sep 9, per tracking data",
+        "arabicLabel": "سفن فقط عبرت مضيق هرمز يوم الأربعاء 9 أيلول مقابل 12 في اليوم السابق ومتوسط 14 خلال 10 أيام، بحسب بيانات تتبع السفن (شفق نيوز · رويترز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اليوم السابق",
+          "value": "12"
+        },
+        {
+          "label": "متوسط 10 أيام",
+          "value": "14"
+        },
+        {
+          "label": "البصرة المتوسط",
+          "value": "$92.02"
+        }
+      ],
+      "broll": "images/news/2026-09-10-c-tanker-iraqi-waters/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-10-c-tanker-iraqi-waters/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "7 سفن فقط عبرت هرمز الأربعاء",
+        "مقابل 12 في اليوم السابق",
+        "وبعض السفن بأجهزة تتبع مطفأة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وزارة النقل: إصابة ناقلة زيت وقود ترفع علم بنما داخل المياه الإقليمية العراقية فجر 9 أيلول",
+    "وزارة النفط: الناقلة مستأجرة من شركة ناقلات النفط العراقية — ضرر مادي طفيف ولا تسرب",
+    "رويترز عن مسؤولين بالموانئ: الناقلة «نيو أندروس» ضُربت بمسيّرة وأُخمد الحريق",
+    "7 سفن عبرت هرمز الأربعاء مقابل 12 في اليوم السابق (شفق نيوز)",
+    "البصرة المتوسط 92.02 دولاراً والبصرة الثقيل 88.72 دولاراً (شفق نيوز)",
+    "شغلك مرتبط بالنفط أو الموانئ؟"
+  ],
+  "endQuestion": "شغلك مرتبط بالنفط أو الموانئ؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

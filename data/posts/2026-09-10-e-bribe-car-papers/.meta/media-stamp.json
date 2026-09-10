@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-10-e-bribe-car-papers",
+  "date": "2026-09-10",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 887332,
+      "sha256": "777af22827001f14"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1880130,
+      "sha256": "dcdc482044e066ac"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 995930,
+      "sha256": "24ffb1dc33f165f7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1744781,
+      "sha256": "61546270666d9ecb"
+    }
+  ]
+}
