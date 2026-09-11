@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-11-c-muaythai-13-medals",
+  "date": "2026-09-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 804319,
+      "sha256": "b024aa6ab165a174"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 871263,
+      "sha256": "b18d35dde23fbb3b"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1194190,
+      "sha256": "db3344443bbc169f"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 864983,
+      "sha256": "43ef73607b6457a7"
+    }
+  ]
+}

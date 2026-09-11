@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-11",
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "resolution": "2k",
+  "map": {
+    "1": {
+      "slug": "2026-09-11-a-fuel-state-price-list",
+      "file": "hero.jpg",
+      "job_id": "c847e648-20e2-4f79-85af-dcacf22bab48"
+    },
+    "2": {
+      "slug": "2026-09-11-a-fuel-state-price-list",
+      "file": "broll_1.jpg",
+      "job_id": "33e93598-4be1-43d4-8428-6bf9d375c20e"
+    },
+    "3": {
+      "slug": "2026-09-11-a-fuel-state-price-list",
+      "file": "broll_2.jpg",
+      "job_id": "b8ea75fd-4789-48ee-9bc4-6bfb67e996a1"
+    },
+    "4": {
+      "slug": "2026-09-11-a-fuel-state-price-list",
+      "file": "broll_3.jpg",
+      "job_id": "58e30a93-4e6d-45e3-9920-0e912a3e828b"
+    },
+    "5": {
+      "slug": "2026-09-11-b-dollar-two-weeks-2300",
+      "file": "hero.jpg",
+      "job_id": "b09a6639-9716-474b-95a4-c1e278eec418"
+    },
+    "6": {
+      "slug": "2026-09-11-b-dollar-two-weeks-2300",
+      "file": "broll_1.jpg",
+      "job_id": "fb8ae5f7-a725-4340-92e5-1e26a08385cc"
+    },
+    "7": {
+      "slug": "2026-09-11-b-dollar-two-weeks-2300",
+      "file": "broll_2.jpg",
+      "job_id": "5588bfda-b048-474e-8d02-6678c6fb92a3"
+    },
+    "8": {
+      "slug": "2026-09-11-b-dollar-two-weeks-2300",
+      "file": "broll_3.jpg",
+      "job_id": "0c8f3038-b98b-4e69-8be0-ebf967d5dd33"
+    },
+    "9": {
+      "slug": "2026-09-11-c-muaythai-13-medals",
+      "file": "hero.jpg",
+      "job_id": "7c022830-97b4-426a-8d54-44feff987df1"
+    },
+    "10": {
+      "slug": "2026-09-11-c-muaythai-13-medals",
+      "file": "broll_1.jpg",
+      "job_id": "4718a3a8-7db6-478f-8dbc-90ceb933833f"
+    },
+    "11": {
+      "slug": "2026-09-11-c-muaythai-13-medals",
+      "file": "broll_2.jpg",
+      "job_id": "377a939c-312d-4390-b05a-8315506d02b9"
+    },
+    "12": {
+      "slug": "2026-09-11-c-muaythai-13-medals",
+      "file": "broll_3.jpg",
+      "job_id": "d0a9d8c5-6034-4648-8047-0b4bc04362fa"
+    },
+    "13": {
+      "slug": "2026-09-11-d-tikrit-land-arrest",
+      "file": "hero.jpg",
+      "job_id": "1d9b339d-ce36-4da1-b231-690fb5a71ff4"
+    },
+    "14": {
+      "slug": "2026-09-11-d-tikrit-land-arrest",
+      "file": "broll_1.jpg",
+      "job_id": "205c6a58-83cf-489d-8bbd-f35037a7fe99"
+    },
+    "15": {
+      "slug": "2026-09-11-d-tikrit-land-arrest",
+      "file": "broll_2.jpg",
+      "job_id": "801ef47d-94a4-4aab-bc71-c7ae2d1b17b8"
+    },
+    "16": {
+      "slug": "2026-09-11-d-tikrit-land-arrest",
+      "file": "broll_3.jpg",
+      "job_id": "c787fc60-5d4c-48bb-a430-0a78f6f880f2"
+    },
+    "17": {
+      "slug": "2026-09-11-e-us-sanctions-iraqi-firms",
+      "file": "hero.jpg",
+      "job_id": "6adb8ef9-edba-4348-bf31-a12e828dc134"
+    },
+    "18": {
+      "slug": "2026-09-11-e-us-sanctions-iraqi-firms",
+      "file": "broll_1.jpg",
+      "job_id": "532733e9-05dd-43f7-8b8e-633b303c501d"
+    },
+    "19": {
+      "slug": "2026-09-11-e-us-sanctions-iraqi-firms",
+      "file": "broll_2.jpg",
+      "job_id": "2986ef6c-229d-4283-a5a8-e6427ab16d2f"
+    },
+    "20": {
+      "slug": "2026-09-11-e-us-sanctions-iraqi-firms",
+      "file": "broll_3.jpg",
+      "job_id": "037a4819-6c25-494c-82f2-8e44e7f7d955"
+    }
+  },
+  "regens": {
+    "a/broll_1": {
+      "rejected": "English 'GOVERNMENT M…' stamp",
+      "job_id": "b449d163-810b-46d3-b761-db8e78edf114"
+    },
+    "b/broll_1": {
+      "rejected": "garbled Arabic neon shop signs",
+      "job_id": "27d80509-f66b-46b0-8254-b3c0a20dcd53"
+    },
+    "b/broll_3": {
+      "gate": "mirrored $100 notes (AI tell)",
+      "job_id": "9b0b9934-e6a9-476f-912c-b35c9de719d3"
+    },
+    "b/broll_2": {
+      "rejected": "slot re-filled after the move",
+      "job_id": "516d2a66-323f-493b-a6fc-eab0f768f23d"
+    },
+    "c/hero": {
+      "rejected": "Syrian flag (two green stars)",
+      "job_id": "609cd1c6-4854-4785-ad74-6402672247fc"
+    },
+    "d/*": {
+      "note": "old hero (Saddam-era 25-dinar + $1 bills) rejected; aerial Tikrit -> hero, land stakes -> broll_1"
+    },
+    "d/broll_2": {
+      "gate": "gold+files read as real seizure photo (de693569); regen 5612f5a8 rejected for English 'MUNICIPAL FILE' text",
+      "job_id": "d4db7663-6026-4276-9795-ffaec99ba5f0"
+    },
+    "e/broll_2": {
+      "rejected": "2986ef6c failed silently at provider",
+      "job_id": "58fef112-0221-4f5a-9c7b-c0c0169dd7f3"
+    },
+    "a/hero": {
+      "gate": "queue-of-cars cover implied unsourced shortage; attendant shot (orig broll_3, job 58e30a93) promoted to hero"
+    },
+    "a/broll_3": {
+      "gate": "refilled after promotion",
+      "job_id": "d9961f2b-5963-4304-b0e1-ee01361f7eca"
+    },
+    "c/broll_1": {
+      "gate": "plain tricolour without takbir reads as Yemen",
+      "job_id": "aa188247-8a51-46a0-958b-30ad566baced"
+    }
+  }
+}

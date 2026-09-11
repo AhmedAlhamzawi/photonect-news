@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-11-b-dollar-two-weeks-2300",
+  "date": "2026-09-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1027187,
+      "sha256": "ce48624221f75422"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 973018,
+      "sha256": "f134180eec0e2c48"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1076518,
+      "sha256": "493fdc94277ce211"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 897435,
+      "sha256": "ee0bc6775931acb4"
+    }
+  ]
+}

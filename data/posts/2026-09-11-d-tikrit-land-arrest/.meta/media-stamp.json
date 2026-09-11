@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-11-d-tikrit-land-arrest",
+  "date": "2026-09-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1480215,
+      "sha256": "f841443c5ebc4661"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 955590,
+      "sha256": "88e4996fc742b94e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1112128,
+      "sha256": "39ec01eb741d84e5"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1405552,
+      "sha256": "98a7b5141c12a337"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 11 • 2026",
+  "arabicDateLabel": "11 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "مدير ثانٍ ببلدية تكريت موقوف خلال 3 أيام",
+    "englishSubhead": "TIKRIT · SEP 11 | INTEGRITY COMMISSION: HEAD OF INVESTMENT DEPT, TIKRIT MUNICIPALITY, ARRESTED, ACCUSED OF PROMOTING LAND GRANTS BY USUFRUCT WITHOUT APPROVALS; DINARS, DOLLARS, GOLD SEIZED; HELD UNDER ART. 331 (SHAFAQ) | SEP 8: PROPERTY-DEPT HEAD + EMPLOYEE HELD, 94 DEEDS FOUND (964, SHAFAQ) | BOTH UNDER INVESTIGATION",
+    "heroMedia": "images/news/2026-09-11-d-tikrit-land-arrest/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اليوم",
+      "arabicHeading": "مدير الاستثمار ببلدية تكريت موقوف قيد التحقيق",
+      "arabicBody": "هيئة النزاهة أعلنت اليوم القبض على مدير قسم الاستثمار في بلدية تكريت، بتهمة ترويج معاملات لمنح أراضٍ بالمساطحة دون الموافقات الأصولية (بيان الهيئة · شفق نيوز).",
+      "bigStat": {
+        "value": "331",
+        "label": "Penal Code article under which the investment-dept head is held",
+        "arabicLabel": "المادة من قانون العقوبات التي قرر قاضي تحقيق صلاح الدين توقيف المتهم بموجبها، بحسب هيئة النزاهة (شفق نيوز · 11 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "النزاهة"
+        },
+        {
+          "label": "المادة",
+          "value": "331"
+        },
+        {
+          "label": "الحال",
+          "value": "موقوف"
+        }
+      ],
+      "broll": "images/news/2026-09-11-d-tikrit-land-arrest/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-11-d-tikrit-land-arrest/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "هيئة النزاهة — صلاح الدين",
+        "مدير قسم الاستثمار ببلدية تكريت",
+        "منح أراضٍ بالمساطحة دون موافقات"
+      ]
+    },
+    {
+      "label": "بمنزله",
+      "arabicHeading": "الهيئة: دنانير ودولارات وذهب بمنزل المتهم",
+      "arabicBody": "بحسب الهيئة، ضُبطت في منزل المتهم أوليات تخص بلدية تكريت ومبالغ بالدينار والدولار ومصوغات ذهبية، وقرر قاضي التحقيق توقيفه (شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "Tikrit municipality department heads held since Sep 8, per the Integrity Commission",
+        "arabicLabel": "مديرا قسمين في بلدية تكريت أوقفتهما هيئة النزاهة منذ 8 أيلول: الأملاك ثم الاستثمار (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "المضبوطات",
+          "value": "دينار ودولار"
+        },
+        {
+          "label": "وأيضاً",
+          "value": "ذهب"
+        },
+        {
+          "label": "القرار",
+          "value": "توقيف"
+        }
+      ],
+      "broll": "images/news/2026-09-11-d-tikrit-land-arrest/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-11-d-tikrit-land-arrest/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "أوليات تخص البلدية",
+        "مبالغ بالدينار والدولار",
+        "ومصوغات ذهبية"
+      ]
+    },
+    {
+      "label": "قبلها بـ3 أيام",
+      "arabicHeading": "8 أيلول: 94 سند عقار بمنزل مدير الأملاك",
+      "arabicBody": "في 8 أيلول أعلنت الهيئة توقيف مدير الأملاك بالبلدية نفسها وموظفاً آخر، وعُثر بمنزل المدير على 94 سند عقار باسم المديرية، والقضيتان قيد التحقيق (964).",
+      "bigStat": {
+        "value": "94",
+        "label": "Property deeds found at the property-dept head's home, Sep 8",
+        "arabicLabel": "سند عقار باسم مديرية بلدية تكريت عُثر عليها في منزل مدير قسم الأملاك، بحسب هيئة النزاهة (شبكة 964 · 8 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "السندات",
+          "value": "94"
+        },
+        {
+          "label": "الموقوفون",
+          "value": "2"
+        },
+        {
+          "label": "التاريخ",
+          "value": "8 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-11-d-tikrit-land-arrest/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-11-d-tikrit-land-arrest/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "مدير قسم الأملاك وموظف آخر",
+        "94 سند عقار باسم المديرية",
+        "القضيتان قيد التحقيق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة: القبض على مدير قسم الاستثمار في بلدية تكريت بتهمة منح أراضٍ بالمساطحة دون موافقات (شفق نيوز)",
+    "ضبط أوليات للبلدية ومبالغ بالدينار والدولار ومصوغات ذهبية في منزل المتهم — التوقيف وفق المادة 331",
+    "8 أيلول: توقيف مدير قسم الأملاك بالبلدية نفسها وموظف آخر وضبط 94 سند عقار (شبكة 964)",
+    "قدّمت على قطعة أرض سكنية قبل؟"
+  ],
+  "endQuestion": "قدّمت على قطعة أرض سكنية قبل؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

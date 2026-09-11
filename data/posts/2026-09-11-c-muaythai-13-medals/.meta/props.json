@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 11 • 2026",
+  "arabicDateLabel": "11 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "region_sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "فخر",
+    "arabicHeadline": "13 وساماً.. والعراق ثامن جدول الأوسمة ببطولة العالم",
+    "englishSubhead": "DECANI, KOSOVO · SENIOR WORLD MUAY THAI CHAMPIONSHIPS 2026 | IRAQ: 13 MEDALS — 3 GOLD, 6 SILVER, 4 BRONZE | 8TH IN THE MEDAL TABLE (SHAFAQ, AL-FALLUJAH TV) | IFMA: IRAQ AMONG MOST WINS IN QUARTER-FINALS (PER SHAFAQ)",
+    "heroMedia": "images/news/2026-09-11-c-muaythai-13-medals/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحصيلة",
+      "arabicHeading": "13 وساماً في بطولة العالم للكبار",
+      "arabicBody": "منتخب العراق للمواي تاي حصد 13 وساماً ملوناً في بطولة العالم للكبار المقامة في مدينة ديجان بكوسوفو (شفق نيوز · قناة الفلوجة).",
+      "bigStat": {
+        "value": "13",
+        "label": "Medals won by Iraq at the senior Muay Thai world championships",
+        "arabicLabel": "وساماً ملوناً حصدها منتخب العراق للمواي تاي في بطولة العالم للكبار في ديجان بكوسوفو (شفق نيوز · قناة الفلوجة · 11 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "ذهب",
+          "value": "3"
+        },
+        {
+          "label": "فضة",
+          "value": "6"
+        },
+        {
+          "label": "برونز",
+          "value": "4"
+        }
+      ],
+      "broll": "images/news/2026-09-11-c-muaythai-13-medals/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-11-c-muaythai-13-medals/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "13 وساماً ملوناً",
+        "بطولة العالم للكبار",
+        "ديجان — كوسوفو"
+      ]
+    },
+    {
+      "label": "الترتيب",
+      "arabicHeading": "الثامن عالمياً بجدول الأوسمة",
+      "arabicBody": "الحصيلة: ثلاث ذهبيات وست فضيات وأربع برونزيات، وضعت العراق في المركز الثامن عالمياً بجدول ترتيب الأوسمة (شفق نيوز · قناة الفلوجة).",
+      "bigStat": {
+        "value": "8",
+        "label": "Iraq's position in the championship medal table",
+        "arabicLabel": "المركز الذي احتله العراق في جدول ترتيب الأوسمة ببطولة العالم للمواي تاي 2026 (شفق نيوز · قناة الفلوجة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الترتيب",
+          "value": "8"
+        },
+        {
+          "label": "الأوسمة",
+          "value": "13"
+        },
+        {
+          "label": "الذهب",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-09-11-c-muaythai-13-medals/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-11-c-muaythai-13-medals/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "3 ذهبيات و6 فضيات و4 برونزيات",
+        "المركز الثامن عالمياً",
+        "بجدول ترتيب الأوسمة"
+      ]
+    },
+    {
+      "label": "ربع النهائي",
+      "arabicHeading": "الاتحاد الدولي: العراق بين الأكثر انتصاراً",
+      "arabicBody": "بحسب شفق نيوز، أشار الاتحاد الدولي للمواي تاي إلى أن العراق كان بين أكثر الدول تحقيقاً للانتصارات في الدور ربع النهائي.",
+      "bigStat": {
+        "value": "3",
+        "label": "Gold medals for Iraq at the championships",
+        "arabicLabel": "أوسمة ذهبية للعراق ضمن حصيلته في البطولة، بحسب شفق نيوز وقناة الفلوجة (11 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الذهب",
+          "value": "3"
+        },
+        {
+          "label": "الدور",
+          "value": "ربع النهائي"
+        },
+        {
+          "label": "الاتحاد",
+          "value": "الدولي"
+        }
+      ],
+      "broll": "images/news/2026-09-11-c-muaythai-13-medals/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-11-c-muaythai-13-medals/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الاتحاد الدولي للمواي تاي",
+        "العراق بين الأكثر انتصاراً",
+        "في الدور ربع النهائي"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "منتخب العراق للمواي تاي يحصد 13 وساماً في بطولة العالم للكبار في ديجان بكوسوفو",
+    "الحصيلة: 3 ذهبيات و6 فضيات و4 برونزيات — المركز الثامن عالمياً (شفق نيوز · قناة الفلوجة)",
+    "الاتحاد الدولي: العراق بين أكثر الدول تحقيقاً للانتصارات في ربع النهائي (شفق نيوز)",
+    "جرّبت المواي تاي قبل؟"
+  ],
+  "endQuestion": "جرّبت المواي تاي قبل؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "قناة الفلوجة",
+      "domain": "alfallujah.tv"
+    }
+  ]
+}

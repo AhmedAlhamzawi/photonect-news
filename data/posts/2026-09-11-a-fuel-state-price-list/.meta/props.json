@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 11 • 2026",
+  "arabicDateLabel": "11 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "وقود",
+    "arabicHeadline": "بنزينك غلى؟ الشركة: لا.. الأسعار الجديدة للدوائر",
+    "englishSubhead": "IRAQ · SEP 11 | OIL PRODUCTS DISTRIBUTION CO. (SOUTH) DOCUMENT DATED SEP 10: PRICES FROM SEP 1 — REGULAR 750, IMPROVED 1,000, SUPER 1,250, GASOIL 1,000, KEROSENE 1,000 IQD/L (SHAFAQ) | COMPANY: LIST IS FOR STATE BODIES AND SOME SECTORS; CITIZEN FUEL STILL SUBSIDISED, UNCHANGED (964, SHAFAQ)",
+    "heroMedia": "images/news/2026-09-11-a-fuel-state-price-list/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الوثيقة",
+      "arabicHeading": "قائمة الدوائر: العادي بـ750 للتر",
+      "arabicBody": "وثيقة لشركة توزيع المنتجات النفطية (فرع الجنوب) مؤرخة 10 أيلول: من 1 أيلول، البنزين العادي 750 ديناراً للتر، والمحسن 1,000، والسوبر 1,250 (شفق نيوز).",
+      "bigStat": {
+        "value": "750",
+        "label": "IQD per litre, regular petrol, on the state-bodies list from Sep 1",
+        "arabicLabel": "ديناراً للتر سعر البنزين العادي في قائمة شركة توزيع المنتجات النفطية المعتمدة من 1 أيلول، بحسب وثيقة نشرتها شفق نيوز (11 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "العادي",
+          "value": "750"
+        },
+        {
+          "label": "المحسن",
+          "value": "1,000"
+        },
+        {
+          "label": "السوبر",
+          "value": "1,250"
+        }
+      ],
+      "broll": "images/news/2026-09-11-a-fuel-state-price-list/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-11-a-fuel-state-price-list/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "وثيقة شركة توزيع المنتجات النفطية",
+        "البنزين العادي 750 للتر",
+        "المحسن 1,000 والسوبر 1,250"
+      ]
+    },
+    {
+      "label": "الشركة",
+      "arabicHeading": "الشركة: وقود المواطن ما تغيّر",
+      "arabicBody": "الشركة نفت اليوم أي زيادة على وقود المواطنين: القائمة تخص دوائر الدولة وبعض القطاعات، والبيع للجمهور بالأسعار المدعومة (964 · شفق نيوز).",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD per litre, gasoil and kerosene, on the same state-bodies list",
+        "arabicLabel": "ديناراً للتر سعر زيت الغاز والنفط الأبيض في القائمة نفسها، وهي بحسب الشركة تخص دوائر الدولة وبعض القطاعات لا المواطنين (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "زيت الغاز",
+          "value": "1,000"
+        },
+        {
+          "label": "النفط الأبيض",
+          "value": "1,000"
+        },
+        {
+          "label": "للمواطن",
+          "value": "مدعوم"
+        }
+      ],
+      "broll": "images/news/2026-09-11-a-fuel-state-price-list/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-11-a-fuel-state-price-list/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الشركة تنفي زيادة وقود المواطنين",
+        "القائمة لدوائر الدولة وبعض القطاعات",
+        "البيع للجمهور بالأسعار المدعومة"
+      ]
+    },
+    {
+      "label": "القرار",
+      "arabicHeading": "قرار 19 آب: 4 مواد مستثناة للمواطن",
+      "arabicBody": "الحكومة أعلنت في 19 آب رفع الدعم عن أسعار المنتجات النفطية للقطاعات كافة من 1 أيلول، واستثنت البنزين وزيت الغاز والنفط الأبيض والغاز السائل المجهزة للمواطنين.",
+      "bigStat": {
+        "value": "4",
+        "label": "Citizen fuel products exempted from the Sep 1 subsidy removal",
+        "arabicLabel": "مواد مستثناة من رفع الدعم للمواطنين حصراً: البنزين وزيت الغاز والنفط الأبيض والغاز السائل، بحسب بيان المكتب الإعلامي لرئيس الوزراء (19 آب 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "19 آب"
+        },
+        {
+          "label": "التطبيق",
+          "value": "1 أيلول"
+        },
+        {
+          "label": "المستثنى",
+          "value": "4 مواد"
+        }
+      ],
+      "broll": "images/news/2026-09-11-a-fuel-state-price-list/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-11-a-fuel-state-price-list/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "رفع الدعم للقطاعات من 1 أيلول",
+        "أربع مواد مستثناة للمواطن",
+        "البنزين وزيت الغاز والنفط الأبيض والغاز السائل"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وثيقة لشركة توزيع المنتجات النفطية (فرع الجنوب) مؤرخة 10 أيلول: العادي 750 والمحسن 1,000 والسوبر 1,250 ديناراً للتر (شفق نيوز)",
+    "الشركة: الأسعار المتداولة تخص دوائر الدولة وبعض القطاعات ولا تمس وقود المواطنين (شبكة 964)",
+    "مصدر في صحة ذي قار لشفق نيوز: توجيه بعدم تجهيز الإسعاف بالبنزين إلا بالتسعيرة الجديدة",
+    "قرار 19 آب: رفع الدعم للقطاعات كافة من 1 أيلول مع استثناء 4 مواد للمواطنين",
+    "بشكد فوّلت سيارتك آخر مرة؟"
+  ],
+  "endQuestion": "بشكد فوّلت سيارتك آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 11 • 2026",
+  "arabicDateLabel": "11 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "عقوبات",
+    "arabicHeadline": "9 عراقيين وشركتان بقائمة عقوبات الخزانة الأمريكية",
+    "englishSubhead": "WASHINGTON · SEP 10 | TREASURY/OFAC 'OPERATION ECONOMIC OUTCAST' ROUND: TARGETS IN IRAQ, LEBANON, UAE, TÜRKIYE ACCUSED OF BACKING KATA'IB HIZBALLAH AND HIZBALLAH | 9 IRAQI INDIVIDUALS + 2 IRAQI COMPANIES (AL-BROUJ GENERAL CONTRACTING; AIN AL-IRAQ PROTECTION TECH) PER TREASURY LIST (SHAFAQ, 964, RUDAW)",
+    "heroMedia": "images/news/2026-09-11-e-us-sanctions-iraqi-firms/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القائمة",
+      "arabicHeading": "الخزانة تدرج 9 عراقيين وشركتين",
+      "arabicBody": "الخزانة الأمريكية أدرجت الخميس مستهدفين في العراق ولبنان والإمارات وتركيا، بينهم 9 عراقيين وشركتان عراقيتان، تتهمهم بدعم كتائب حزب الله وحزب الله (شفق نيوز · بيان الخزانة).",
+      "bigStat": {
+        "value": "9",
+        "label": "Iraqi individuals on the Sep 10 Treasury list",
+        "arabicLabel": "أفراد عراقيون أدرجتهم وزارة الخزانة الأمريكية على قائمة العقوبات في 10 أيلول 2026، بحسب القائمة التي نشرتها الوزارة (شفق نيوز · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "عراقيون",
+          "value": "9"
+        },
+        {
+          "label": "شركات عراقية",
+          "value": "2"
+        },
+        {
+          "label": "الدول",
+          "value": "4"
+        }
+      ],
+      "broll": "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "الخزانة الأمريكية — الخميس",
+        "9 عراقيين وشركتان عراقيتان",
+        "الخزانة تتهمهم بدعم كتائب حزب الله"
+      ]
+    },
+    {
+      "label": "الشركتان",
+      "arabicHeading": "الخزانة تسمّي: البروج وعين العراق",
+      "arabicBody": "الشركتان العراقيتان بحسب الخزانة: البروج للمقاولات العامة، وعين العراق لتكنولوجيا أنظمة الحماية والحلول الصوتية والمرئية والاتصالات (شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "Iraqi companies on the Sep 10 Treasury list",
+        "arabicLabel": "شركتان عراقيتان أُضيفتا إلى قائمة مكتب مراقبة الأصول الأجنبية: البروج للمقاولات العامة وعين العراق لتكنولوجيا أنظمة الحماية (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأولى",
+          "value": "البروج"
+        },
+        {
+          "label": "الثانية",
+          "value": "عين العراق"
+        },
+        {
+          "label": "الجهة",
+          "value": "OFAC"
+        }
+      ],
+      "broll": "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "البروج للمقاولات العامة",
+        "عين العراق لتكنولوجيا أنظمة الحماية",
+        "على قائمة OFAC"
+      ]
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "تجميد أصول.. ومنع التعامل مع الأمريكيين",
+      "arabicBody": "بحسب الخزانة، تُجمَّد أصول المدرجين داخل الولايات المتحدة أو بيد أمريكيين، ويُحظر على الأمريكيين التعامل معهم. والوزير بيسنت قال: «سنقطعهم عن النظام المالي الأمريكي».",
+      "bigStat": {
+        "value": "4",
+        "label": "Countries where the Sep 10 targets are based, per Treasury",
+        "arabicLabel": "دول توزع عليها المستهدفون بجولة 10 أيلول: العراق ولبنان والإمارات وتركيا، بحسب بيان وزارة الخزانة الأمريكية"
+      },
+      "supportingStats": [
+        {
+          "label": "الأصول",
+          "value": "تجميد"
+        },
+        {
+          "label": "التعامل",
+          "value": "محظور"
+        },
+        {
+          "label": "العملية",
+          "value": "المنبوذ"
+        }
+      ],
+      "broll": "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-11-e-us-sanctions-iraqi-firms/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "تجميد الأصول في أمريكا",
+        "حظر تعامل الأمريكيين معهم",
+        "«سنقطعهم عن النظام المالي الأمريكي»"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الخزانة الأمريكية: عقوبات جديدة ضمن عملية «المنبوذ اقتصادياً» على من تتهمهم بدعم كتائب حزب الله وحزب الله",
+    "القائمة تضم 9 عراقيين وشركتين عراقيتين بحسب شفق نيوز ورووداو",
+    "المستهدفون موزعون على العراق ولبنان والإمارات وتركيا بحسب بيان الخزانة",
+    "العقوبات تعني تجميد الأصول داخل أمريكا وحظر تعامل الأمريكيين مع المدرجين",
+    "سمعت بهاي العقوبات قبل اليوم؟"
+  ],
+  "endQuestion": "سمعت بهاي العقوبات قبل اليوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

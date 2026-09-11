@@ -1,0 +1,138 @@
+{
+  "dateLabel": "SEP 11 • 2026",
+  "arabicDateLabel": "11 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "بأسبوعين.. إغلاق الـ100 دولار صعد 2,300 (محتسب)",
+    "englishSubhead": "BAGHDAD BOURSES (KIFAH/HARTHIYA) · SHAFAQ | CLOSE THU SEP 10: 156,100 (MORNING 156,000) | CLOSE THU AUG 27: 153,800 | TWO-WEEK RISE 2,300 PER $100, 23,000 PER $1,000 (CALC, CLOSE VS CLOSE, SAME OUTLET) | BAGHDAD SHOPS SEP 10: SELL 156,500 BUY 155,500",
+    "heroMedia": "images/news/2026-09-11-b-dollar-two-weeks-2300/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الخميس",
+      "arabicHeading": "إغلاق الخميس: 156,100 لكل 100 دولار",
+      "arabicBody": "بورصتا الكفاح والحارثية ببغداد أغلقتا الخميس 10 أيلول على 156,100 دينار لكل 100 دولار، بعد 156,000 صباحاً (شفق نيوز).",
+      "bigStat": {
+        "value": "156,100",
+        "label": "Baghdad bourse close per $100, Thu Sep 10, per Shafaq",
+        "arabicLabel": "ديناراً لكل 100 دولار سعر إغلاق بورصتي الكفاح والحارثية ببغداد الخميس 10 أيلول 2026، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "صباح الخميس",
+          "value": "156,000"
+        },
+        {
+          "label": "الإغلاق",
+          "value": "156,100"
+        },
+        {
+          "label": "الجلسة",
+          "value": "الخميس"
+        }
+      ],
+      "broll": "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "إغلاق الخميس 156,100",
+        "بورصتا الكفاح والحارثية",
+        "آخر جلسة قبل الجمعة"
+      ]
+    },
+    {
+      "label": "قبل أسبوعين",
+      "arabicHeading": "27 آب: الإغلاق كان 153,800",
+      "arabicBody": "الخميس 27 آب أغلقت البورصتان نفسهما على 153,800 بحسب شفق نيوز، فالفرق خلال أسبوعين 2,300 دينار لكل 100 دولار (محتسب، إغلاق مقابل إغلاق).",
+      "bigStat": {
+        "value": "2,300",
+        "label": "Two-week rise in the Baghdad bourse close per $100, calculated",
+        "arabicLabel": "ديناراً ارتفاع سعر إغلاق بورصتي بغداد لكل 100 دولار بين 27 آب (153,800) و10 أيلول (156,100) — محتسب من نشرتي شفق نيوز على الأساس نفسه"
+      },
+      "supportingStats": [
+        {
+          "label": "27 آب",
+          "value": "153,800"
+        },
+        {
+          "label": "10 أيلول",
+          "value": "156,100"
+        },
+        {
+          "label": "الفرق",
+          "value": "2,300"
+        }
+      ],
+      "broll": "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "قبل أسبوعين 153,800",
+        "اليوم 156,100",
+        "الفرق 2,300 لكل 100 دولار"
+      ]
+    },
+    {
+      "label": "جيبك",
+      "arabicHeading": "على الألف دولار: 23,000 دينار زيادة (محتسب)",
+      "arabicBody": "من يشتري 1,000 دولار بسعر إغلاق البورصة يدفع 23,000 دينار أكثر مما كان قبل أسبوعين (محتسب من نشرتي شفق نيوز).",
+      "bigStat": {
+        "value": "23,000",
+        "label": "Extra paid on $1,000 at the bourse close vs two weeks earlier, calculated",
+        "arabicLabel": "ديناراً إضافية على كل 1,000 دولار بسعر إغلاق البورصة مقارنة بإغلاق 27 آب — محتسب من نشرتي شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "لكل 1,000 دولار",
+          "value": "23,000"
+        },
+        {
+          "label": "المدة",
+          "value": "أسبوعان"
+        },
+        {
+          "label": "الأساس",
+          "value": "إغلاق"
+        }
+      ],
+      "broll": "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-11-b-dollar-two-weeks-2300/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة توضيحية · Photonect AI",
+      "subtitlePhrases": [
+        "على كل 1,000 دولار",
+        "23,000 دينار زيادة",
+        "خلال أسبوعين"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: بورصتا الكفاح والحارثية أغلقتا الخميس 10 أيلول على 156,100 بعد 156,000 صباحاً",
+    "إغلاق الخميس 27 آب في البورصتين نفسيهما: 153,800 (شفق نيوز)",
+    "الفرق خلال أسبوعين 2,300 دينار لكل 100 دولار — 23,000 على كل 1,000 (محتسب)",
+    "راح تشتري دولار هالأسبوع؟"
+  ],
+  "endQuestion": "راح تشتري دولار هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

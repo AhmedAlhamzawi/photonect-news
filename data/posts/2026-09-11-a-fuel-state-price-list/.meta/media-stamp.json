@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-11-a-fuel-state-price-list",
+  "date": "2026-09-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1149789,
+      "sha256": "4ea1f51eabe12ff3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1089950,
+      "sha256": "c197943d16b9983f"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1194792,
+      "sha256": "6a11a6e2c8f8c18e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 915137,
+      "sha256": "c2d746a55a517896"
+    }
+  ]
+}
