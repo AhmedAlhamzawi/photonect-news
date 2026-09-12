@@ -27,6 +27,9 @@ import { essaySchema, computeEssayDuration } from "./compositions/Essay/schema";
 import { essayDefaultProps } from "./compositions/Essay/defaultProps";
 import { NewsReelV11 } from "./compositions/NewsReelV11/NewsReelV11";
 import { VoxReel } from "./compositions/VoxReel/VoxReel";
+import { ChatReel } from "./compositions/ChatReel/ChatReel";
+import { chatReelSchema, computeChatDuration } from "./compositions/ChatReel/schema";
+import { chatDefaultProps } from "./compositions/ChatReel/defaultProps";
 import { voxReelSchema, computeVoxDuration } from "./compositions/VoxReel/schema";
 import { voxDefaultProps } from "./compositions/VoxReel/defaultProps";
 import { newsReelV11Schema, computeV11Duration } from "./compositions/NewsReelV11/schema";
@@ -441,6 +444,10 @@ export const RemotionRoot: React.FC = () => {
           ],
         }}
       />
+      {/* CHAT REEL — chat-native product reel (tenant: Cha Dude). */}
+      <Composition id="ChatReel" component={ChatReel} durationInFrames={computeChatDuration(chatDefaultProps)}
+        fps={30} width={1080} height={1920} schema={chatReelSchema} defaultProps={chatDefaultProps}
+        calculateMetadata={({ props }) => ({ durationInFrames: computeChatDuration(props) })} />
       {/* VOX REEL — editorial motion-graphics explainer (code-animated collage). */}
       <Composition
         id="VoxReel"

@@ -1,0 +1,14 @@
+{
+  "slug": "cha-dude",
+  "brand": { "name": "Cha Dude", "arabic": "چا دود", "avatarLetter": "چ", "owner": "Photonect" },
+  "product": { "category": "whatsapp-reply-agent-as-a-service", "number": "0773 894 0795", "prices_shown": false },
+  "palette": { "ink": "#231F20", "raised": "#2E2A2B", "reply": "#24E07E", "amber": "#FDBB11", "text": "#F4F2F0", "dim": "#9A9491", "dead": "#5C5654" },
+  "fonts": { "display": "Cairo", "ui": "IBM Plex Sans Arabic", "numbers": "Inter" },
+  "voice": { "engine": "edge", "voice": "ar-IQ-BasselNeural" },
+  "words": { "use": ["چا دود", "يرد", "الرقم", "موظفة رد"], "never_in_hooks": ["بوت", "روبوت", "شات بوت", "موظف AI", "أول بالعراق", "الذكاء الاصطناعي"] },
+  "wedge": "dental/medical clinics, Baghdad (first 30 days)",
+  "cadence": { "reels_per_week": 2, "carousels_per_week": 1 },
+  "channels": { "instagram_page": "Photonect AI Studio", "upload_post_profile": "photonect-ai-studio", "tiktok": null },
+  "capture": { "box": "root@187.77.86.171", "endpoint": "/internal/wa-inbound", "test_id_range": "96477000001x", "opener": "مرحبا چا دود" },
+  "gate": { "must_contain_number": true, "no_price": true, "no_invented_customers": true, "agent_replies_verbatim": true }
+}
