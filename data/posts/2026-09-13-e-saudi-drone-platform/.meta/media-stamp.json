@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-13-e-saudi-drone-platform",
+  "date": "2026-09-13",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 284160,
+      "sha256": "070498e927ba0cef"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 546197,
+      "sha256": "b1f49ca5ffea7801"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1295553,
+      "sha256": "bd0543f680f2e34d"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1164673,
+      "sha256": "b9e9d6711a0189b2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-13-c-medical-colleges-warning",
+  "date": "2026-09-13",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 447643,
+      "sha256": "046d545c8fea08bd"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 443480,
+      "sha256": "bb835b74fe7a8739"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 895189,
+      "sha256": "e9b66a3c3c9a8262"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 329816,
+      "sha256": "858c68adbf446630"
+    }
+  ]
+}

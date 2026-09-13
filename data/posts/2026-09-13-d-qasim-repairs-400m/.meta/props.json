@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 13 • 2026",
+  "arabicDateLabel": "13 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "النزاهة: 400 مليون لتصليح آليات بلدية القاسم.. وبعضها بعده عاطل",
+    "englishSubhead": "BABIL · SEP 12 | INTEGRITY COMMISSION: HEAD AND MEMBERS OF AL-QASIM MUNICIPALITY VEHICLE-REPAIR COMMITTEE HELD — 4 ACCUSED | 400M IQD SPENT ON REPAIRS IN A SHORT PERIOD FROM START OF 2026; COMMISSION SAYS WORK WAS FICTITIOUS AND OVERPRICED, VEHICLES STILL OUT OF SERVICE, SOME SIGNATURES NOT THE DRIVERS' | HILLA INVESTIGATIVE JUDGE ORDERS DETENTION UNDER ART. 340 (964, SHAFAQ)",
+    "heroMedia": "images/news/2026-09-13-d-qasim-repairs-400m/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "4 موقوفين من لجنة تصليح الآليات",
+      "arabicBody": "هيئة النزاهة أعلنت ضبط رئيس وأعضاء لجنة تصليح الآليات في بلدية القاسم ببابل وعددهم 4 متهمين وقرر قاضي تحقيق الحلة توقيفهم (964، شفق نيوز).",
+      "bigStat": {
+        "value": "4",
+        "label": "Accused held from the vehicle-repair committee, per the Integrity Commission",
+        "arabicLabel": "متهمين من لجنة تصليح الآليات في بلدية القاسم قرر قاضي تحقيق الحلة توقيفهم وفق المادة 340، بحسب هيئة النزاهة (شبكة 964 · 12 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتهمون",
+          "value": "4"
+        },
+        {
+          "label": "المكان",
+          "value": "بلدية القاسم"
+        },
+        {
+          "label": "المادة",
+          "value": "340"
+        }
+      ],
+      "broll": "images/news/2026-09-13-d-qasim-repairs-400m/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-13-d-qasim-repairs-400m/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "هيئة النزاهة — بابل",
+        "لجنة تصليح آليات بلدية القاسم",
+        "4 متهمين موقوفين"
+      ]
+    },
+    {
+      "label": "المبلغ",
+      "arabicHeading": "400 مليون من بداية 2026",
+      "arabicBody": "بحسب الهيئة، صُرف 400 مليون دينار لتصليح الآليات خلال مدة قصيرة من بداية 2026، وتقول إن الأعمال «صورية ووهمية» وبأسعار فيها مغالاة.",
+      "bigStat": {
+        "value": "400",
+        "label": "Million IQD spent on vehicle repairs since the start of 2026, per the commission",
+        "arabicLabel": "مليون دينار صرفتها لجنتا الكشف والتصليح في بلدية القاسم على تصليح الآليات منذ بداية 2026، بحسب هيئة النزاهة (شفق نيوز · شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "400 مليون"
+        },
+        {
+          "label": "المدة",
+          "value": "منذ بداية 2026"
+        },
+        {
+          "label": "وصف الهيئة",
+          "value": "صورية"
+        }
+      ],
+      "broll": "images/news/2026-09-13-d-qasim-repairs-400m/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-13-d-qasim-repairs-400m/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "400 مليون دينار",
+        "خلال مدة قصيرة من بداية 2026",
+        "الهيئة: أعمال صورية ووهمية"
+      ]
+    },
+    {
+      "label": "التحري",
+      "arabicHeading": "الهيئة: آليات عاطلة وتواقيع مو للسواق",
+      "arabicBody": "التحري أظهر بحسب الهيئة آليات صُرفت عليها مبالغ وما زالت عاطلة، وتواقيع على طلبات تصليح لا تعود للسائقين، والقضية قيد التحقيق.",
+      "bigStat": {
+        "value": "340",
+        "label": "Penal Code article under which the four are detained",
+        "arabicLabel": "المادة من قانون العقوبات التي قرر قاضي محكمة تحقيق الحلة المختص بقضايا النزاهة توقيف المتهمين الأربعة وفقها (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الآليات",
+          "value": "عاطلة"
+        },
+        {
+          "label": "التواقيع",
+          "value": "ليست للسائقين"
+        },
+        {
+          "label": "الحال",
+          "value": "قيد التحقيق"
+        }
+      ],
+      "broll": "images/news/2026-09-13-d-qasim-repairs-400m/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-13-d-qasim-repairs-400m/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "آليات صُرف عليها وما زالت عاطلة",
+        "تواقيع لا تعود للسائقين",
+        "القضية قيد التحقيق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة: ضبط رئيس وأعضاء لجنة تصليح الآليات في بلدية القاسم ببابل — 4 متهمين (شبكة 964 · شفق نيوز)",
+    "400 مليون دينار صُرفت لتصليح الآليات خلال مدة قصيرة من بداية 2026 بحسب الهيئة",
+    "الهيئة: آليات صُرفت عليها مبالغ ما زالت عاطلة وتواقيع على طلبات التصليح لا تعود للسائقين",
+    "قاضي تحقيق الحلة قرر توقيف المتهمين وفق المادة 340 — والقضية قيد التحقيق",
+    "تتابعون قضايا النزاهة لحد صدور الحكم؟"
+  ],
+  "endQuestion": "تتابعون قضايا النزاهة لحد صدور الحكم؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

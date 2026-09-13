@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 13 • 2026",
+  "arabicDateLabel": "13 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "أمن",
+    "arabicHeadline": "بغداد تعلن ضبط منصة مسيّرات.. وتقول إنها استُخدمت ضد أنبوب سعودي",
+    "englishSubhead": "IRAQ · SEP 12 | SECURITY MEDIA CELL HEAD LT-GEN SAAD MAAN: DRONE-LAUNCH PLATFORM USED IN ATTACK ON SAUDI PIPELINE SEIZED INSIDE IRAQ; INVESTIGATION ONGOING (964 VIA STATE AGENCY) | SAUDI ARABIA SAID EAST-WEST PIPELINE HIT IN RIYADH AND MEDINA REGIONS BY DRONES 'COMING FROM IRAQ' | PM ZAIDI REPLACED MAYSAN OPERATIONS COMMANDER, REMOVED MAYSAN POLICE CHIEF, APPROVED IRANIAN REQUEST FOR JOINT PROBE | FACTIONS DENY INVOLVEMENT (SHAFAQ)",
+    "heroMedia": "images/news/2026-09-13-e-saudi-drone-platform/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المنصة",
+      "arabicHeading": "معن: ضبطنا منصة الإطلاق داخل العراق",
+      "arabicBody": "رئيس خلية الإعلام الأمني الفريق سعد معن قال إن فريقاً أمنياً ضبط داخل العراق منصة مسيّرات استُخدمت في استهداف خط أنابيب بالسعودية (964).",
+      "bigStat": {
+        "value": "1",
+        "label": "Drone-launch platform seized inside Iraq, per Lt-Gen Saad Maan",
+        "arabicLabel": "منصة لإطلاق المسيّرات أعلنت خلية الإعلام الأمني ضبطها داخل الأراضي العراقية، مع استمرار التحقيق للوصول إلى المتورطين (شبكة 964 · 12 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "الإعلام الأمني"
+        },
+        {
+          "label": "المضبوط",
+          "value": "منصة"
+        },
+        {
+          "label": "التحقيق",
+          "value": "مستمر"
+        }
+      ],
+      "broll": "images/news/2026-09-13-e-saudi-drone-platform/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-13-e-saudi-drone-platform/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "الفريق سعد معن",
+        "ضبط منصة مسيّرات داخل العراق",
+        "والتحقيق مستمر"
+      ]
+    },
+    {
+      "label": "السعودية",
+      "arabicHeading": "الرياض: مسيّرات «قادمة من العراق»",
+      "arabicBody": "السعودية أعلنت الجمعة استهداف خط أنابيب شرق-غرب في منطقتي الرياض والمدينة المنورة بمسيّرات «قادمة من العراق»، وقالت إنها آثرت عدم الرد (شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "Saudi regions where the East-West pipeline was targeted, per Riyadh",
+        "arabicLabel": "منطقتان سعوديتان — الرياض والمدينة المنورة — قالت السعودية إن خط أنابيب شرق-غرب استُهدف فيهما بمسيّرات «قادمة من العراق» (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخط",
+          "value": "شرق-غرب"
+        },
+        {
+          "label": "المنطقتان",
+          "value": "الرياض والمدينة"
+        },
+        {
+          "label": "الرد",
+          "value": "لا رد حالياً"
+        }
+      ],
+      "broll": "images/news/2026-09-13-e-saudi-drone-platform/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-13-e-saudi-drone-platform/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "خط أنابيب شرق-غرب",
+        "الرياض والمدينة المنورة",
+        "السعودية: آثرنا عدم الرد"
+      ]
+    },
+    {
+      "label": "بغداد",
+      "arabicHeading": "إعفاءات بميسان.. وتحقيق مشترك مع إيران",
+      "arabicBody": "الزيدي أعفى قائدي عمليات ميسان وشرطتها ووافق على تحقيق مشترك طلبته إيران، والفصائل نفت ضلوعها. ومعن قال إن إغلاق منافذ الشيب ومندلي والشلامجة مؤقت.",
+      "bigStat": {
+        "value": "2",
+        "label": "Maysan commanders removed: operations commander and police chief",
+        "arabicLabel": "قائدان أُعفيا في ميسان بقرار من رئيس الوزراء: قائد العمليات وقائد الشرطة، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "الإعفاءات",
+          "value": "2"
+        },
+        {
+          "label": "التحقيق",
+          "value": "مشترك مع إيران"
+        },
+        {
+          "label": "الفصائل",
+          "value": "تنفي"
+        }
+      ],
+      "broll": "images/news/2026-09-13-e-saudi-drone-platform/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-13-e-saudi-drone-platform/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "إعفاء قائدي العمليات والشرطة بميسان",
+        "تحقيق مشترك بطلب إيراني",
+        "الفصائل تنفي ضلوعها"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سعد معن: ضبط منصة إطلاق مسيّرات داخل العراق استُخدمت في استهداف خط أنابيب سعودي (شبكة 964)",
+    "السعودية: مسيّرات «قادمة من العراق» استهدفت خط شرق-غرب وآثرنا عدم الرد (شفق نيوز)",
+    "تعيين اللواء الركن علي الماجدي قائداً لعمليات ميسان وإعفاء قائد شرطة المحافظة",
+    "معن: منفذا زرباطية والمنذرية مستمران باستقبال المسافرين وإغلاق الشيب ومندلي والشلامجة مؤقت",
+    "سافرت لإيران برّاً هالشهر؟"
+  ],
+  "endQuestion": "سافرت لإيران برّاً هالشهر؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

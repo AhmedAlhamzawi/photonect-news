@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-13-a-farmers-dues-500bn",
+  "date": "2026-09-13",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 700730,
+      "sha256": "763e9c125aede335"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1799348,
+      "sha256": "6600905283c6f6ea"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 902219,
+      "sha256": "0ba953e3a1e9e337"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1163763,
+      "sha256": "1b0879e179cfe13c"
+    }
+  ]
+}

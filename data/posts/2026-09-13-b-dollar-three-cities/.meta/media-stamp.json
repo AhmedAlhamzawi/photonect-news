@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-13-b-dollar-three-cities",
+  "date": "2026-09-13",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1312388,
+      "sha256": "32a6285d0c34f5dd"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 741732,
+      "sha256": "1a2bf63285e5d179"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1729101,
+      "sha256": "27ef3d25dfca8bf0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 613325,
+      "sha256": "03ae1f696c844fb8"
+    }
+  ]
+}

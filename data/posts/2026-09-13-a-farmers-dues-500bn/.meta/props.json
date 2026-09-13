@@ -1,0 +1,146 @@
+{
+  "dateLabel": "SEP 13 • 2026",
+  "arabicDateLabel": "13 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "فلوس الفلاح",
+    "arabicHeadline": "500 مليار دينار للفلاحين هالشهر.. والمالية توعد بتصفير الباقي",
+    "englishSubhead": "BAGHDAD · SEP 13 | FINANCE MINISTER FALEH SARI: 500BN IQD OF FARMERS' DUES RELEASED DURING SEPTEMBER; MINISTRY TO KEEP PAYING IN COMING MONTHS UNTIL DUES ARE 'ZEROED' (MINISTRY STATEMENT VIA SHAFAQ, 964) | JUL 19: FARMERS PROTESTED AT TRADE MINISTRY OVER LATE DUES (AL-MADA)",
+    "heroMedia": "images/news/2026-09-13-a-farmers-dues-500bn/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "500 مليار دينار للفلاحين بأيلول",
+      "arabicBody": "أعلن وزير المالية فالح ساري إطلاق 500 مليار دينار من مستحقات المزارعين خلال أيلول ضمن تسوية ما بذمة الدولة للقطاع الزراعي (شفق نيوز، 964).",
+      "bigStat": {
+        "value": "500",
+        "label": "Billion IQD of farmers' dues released in September",
+        "arabicLabel": "مليار دينار من مستحقات المزارعين أطلقتها وزارة المالية خلال أيلول، بحسب بيان الوزير فالح ساري (شفق نيوز · شبكة 964 · 13 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "500 مليار"
+        },
+        {
+          "label": "الشهر",
+          "value": "أيلول"
+        },
+        {
+          "label": "الجهة",
+          "value": "المالية"
+        }
+      ],
+      "broll": "images/news/2026-09-13-a-farmers-dues-500bn/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-13-a-farmers-dues-500bn/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "وزير المالية فالح ساري",
+        "500 مليار دينار للمزارعين",
+        "خلال شهر أيلول"
+      ]
+    },
+    {
+      "label": "الوعد",
+      "arabicHeading": "الوزارة: نكمل الدفع لحد التصفير",
+      "arabicBody": "بحسب البيان، الوزارة ماضية في تسديد مستحقات المزارعين خلال الأشهر المقبلة وصولاً إلى «تصفير» ما بذمة الدولة لهم، لضمان تمويل الموسم الزراعي.",
+      "bigStat": {
+        "value": "0",
+        "label": "Target: farmers' outstanding dues zeroed, per the ministry",
+        "arabicLabel": "الهدف المعلن: تصفير مستحقات المزارعين خلال الأشهر المقبلة، بحسب بيان وزارة المالية (13 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "تصفير"
+        },
+        {
+          "label": "المدة",
+          "value": "الأشهر المقبلة"
+        },
+        {
+          "label": "الغاية",
+          "value": "الموسم الزراعي"
+        }
+      ],
+      "broll": "images/news/2026-09-13-a-farmers-dues-500bn/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-13-a-farmers-dues-500bn/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "الدفع مستمر بالأشهر المقبلة",
+        "لحد تصفير المستحقات",
+        "لتمويل الموسم الزراعي"
+      ]
+    },
+    {
+      "label": "قبل شهرين",
+      "arabicHeading": "تموز: فلاحون على باب وزارة التجارة",
+      "arabicBody": "في 19 تموز تظاهر فلاحون من محافظات عدة أمام وزارة التجارة في بغداد، مطالبين بصرف مستحقات متأخرة ورفع تسعيرة الحنطة (المدى).",
+      "bigStat": {
+        "value": "19 تموز",
+        "label": "Farmers protested at the Trade Ministry over late dues",
+        "arabicLabel": "تاريخ تظاهر فلاحين من محافظات عدة أمام وزارة التجارة ببغداد للمطالبة بمستحقاتهم المتأخرة ورفع تسعيرة الحنطة (المدى · 19 تموز 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "التاريخ",
+          "value": "19 تموز"
+        },
+        {
+          "label": "المكان",
+          "value": "وزارة التجارة"
+        },
+        {
+          "label": "المطلب",
+          "value": "المستحقات"
+        }
+      ],
+      "broll": "images/news/2026-09-13-a-farmers-dues-500bn/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-13-a-farmers-dues-500bn/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "19 تموز — أمام وزارة التجارة",
+        "فلاحون من محافظات عدة",
+        "طالبوا بمستحقاتهم ورفع تسعيرة الحنطة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "500 مليار دينار للفلاحين هالشهر.. والمالية توعد بتصفير الباقي",
+    "الوزارة ماضية في تسديد المستحقات خلال الأشهر المقبلة وصولاً إلى تصفيرها",
+    "19 تموز: فلاحون تظاهروا أمام وزارة التجارة ببغداد للمطالبة بمستحقات متأخرة (المدى)",
+    "مستحقاتكم الزراعية وصلتكم لو بعد؟"
+  ],
+  "endQuestion": "مستحقاتكم الزراعية وصلتكم لو بعد؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

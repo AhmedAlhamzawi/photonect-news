@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 13 • 2026",
+  "arabicDateLabel": "13 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "region_health",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "طب أهلي",
+    "arabicHeadline": "إنذار لـ7 كليات طب أهلية.. تزيل المخالفات أو يتعلق القبول",
+    "englishSubhead": "BAGHDAD · SEP 12 | HIGHER EDUCATION MINISTER (ACTING) ABDUL-HUSSEIN AL-MOUSAWI APPROVES WARNING TO THE SEVEN PRIVATE-UNIVERSITY MEDICAL COLLEGES: FIX FLAGGED VIOLATIONS BY OCT 15 OR ADMISSION SUSPENDED | COLLEGES WITHOUT A HOSPITAL MUST CONTRACT HEALTH MINISTRY, PAY ≥1BN IQD/YR | INTAKE CAPPED AT 3 STUDENTS PER OCCUPIED BED (SHAFAQ, 964)",
+    "heroMedia": "images/news/2026-09-13-c-medical-colleges-warning/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإنذار",
+      "arabicHeading": "إنذار لكليات الطب الأهلية السبع",
+      "arabicBody": "وزير التعليم العالي وكالةً عبد الحسين الموسوي صادق على إنذار كليات الطب السبع في الجامعات الأهلية لإزالة مخالفات أشّرتها لجنة كشف وزارية (شفق نيوز · 964).",
+      "bigStat": {
+        "value": "7",
+        "label": "Private-university medical colleges warned",
+        "arabicLabel": "كليات طب في الجامعات الأهلية وجّه إليها وزير التعليم العالي وكالةً إنذاراً لإزالة المخالفات، بحسب بيان الوزارة (شفق نيوز · شبكة 964 · 12 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكليات",
+          "value": "7"
+        },
+        {
+          "label": "الجهة",
+          "value": "التعليم العالي"
+        },
+        {
+          "label": "الأساس",
+          "value": "لجنة كشف"
+        }
+      ],
+      "broll": "images/news/2026-09-13-c-medical-colleges-warning/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-13-c-medical-colleges-warning/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "وزير التعليم العالي وكالةً",
+        "إنذار لكليات الطب السبع",
+        "بالجامعات الأهلية"
+      ]
+    },
+    {
+      "label": "المهلة",
+      "arabicHeading": "لحد 15 تشرين الأول.. وإلا يتعلق القبول",
+      "arabicBody": "بحسب البيان، المهلة أقصاها 15 تشرين الأول لإزالة المخالفات، وبخلافه يُعلَّق القبول في الكليات السبع.",
+      "bigStat": {
+        "value": "15",
+        "label": "October deadline to fix violations, or admission is suspended",
+        "arabicLabel": "تشرين الأول آخر موعد لإزالة المخالفات، وبخلافه يُعلّق القبول في الكليات السبع، بحسب بيان وزارة التعليم العالي"
+      },
+      "supportingStats": [
+        {
+          "label": "المهلة",
+          "value": "15 تشرين الأول"
+        },
+        {
+          "label": "وبخلافه",
+          "value": "تعليق القبول"
+        },
+        {
+          "label": "الكليات",
+          "value": "7"
+        }
+      ],
+      "broll": "images/news/2026-09-13-c-medical-colleges-warning/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-13-c-medical-colleges-warning/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "المهلة: 15 تشرين الأول",
+        "إزالة المخالفات المؤشرة",
+        "وإلا تعليق القبول"
+      ]
+    },
+    {
+      "label": "المستشفى",
+      "arabicHeading": "بلا مستشفى؟ مليار دينار سنوياً",
+      "arabicBody": "الكلية التي لا تملك مستشفى جامعياً تتعاقد مع وزارة الصحة لتأهيل مستشفى تعليمي، وتقدّم مليار دينار سنوياً على الأقل، والقبول بواقع 3 طلبة لكل سرير مشغول لمجموع مراحل الدراسة.",
+      "bigStat": {
+        "value": "1 مليار",
+        "label": "IQD per year minimum a college without a hospital must provide",
+        "arabicLabel": "دينار سنوياً على الأقل تقدّمه الكلية الأهلية غير المالكة لمستشفى جامعي لإدامة مستشفى تعليمي تديره وزارة الصحة (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "سنوياً",
+          "value": "مليار دينار"
+        },
+        {
+          "label": "لكل سرير",
+          "value": "3 طلبة"
+        },
+        {
+          "label": "الإدارة",
+          "value": "الصحة"
+        }
+      ],
+      "broll": "images/news/2026-09-13-c-medical-colleges-warning/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-13-c-medical-colleges-warning/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "بلا مستشفى جامعي؟",
+        "تعاقد مع الصحة ومليار دينار سنوياً",
+        "3 طلبة لكل سرير مشغول"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "التعليم العالي: إنذار لكليات الطب السبع في الجامعات الأهلية لإزالة المخالفات حتى 15 تشرين الأول",
+    "بخلاف ذلك يُعلّق القبول في الكليات السبع (بيان الوزارة عبر شفق نيوز وشبكة 964)",
+    "الكلية بلا مستشفى جامعي: تعاقد مع وزارة الصحة ومليار دينار سنوياً على الأقل",
+    "القبول مرتبط بالطاقة الاستيعابية: 3 طلبة لكل سرير مشغول لمجموع مراحل الدراسة",
+    "عندكم أحد يدرس طب بكلية أهلية؟"
+  ],
+  "endQuestion": "عندكم أحد يدرس طب بكلية أهلية؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

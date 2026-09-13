@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 13 • 2026",
+  "arabicDateLabel": "13 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار اليوم: 157 ألفاً ببغداد والبصرة.. وأربيل أرخص بالنشرتين",
+    "englishSubhead": "SUN SEP 13 MORNING · PER $100 | SHAFAQ: BAGHDAD BOURSES (KIFAH/HARTHIYA) 156,500 vs SAT MORNING 156,350; BAGHDAD SHOPS SELL 157,000 BUY 156,000; ERBIL SELL 156,450 | 964: BAGHDAD SELL 157,000, BASRA SELL 157,000, ERBIL SELL 156,750; CBI OFFICIAL 131,000",
+    "heroMedia": "images/news/2026-09-13-b-dollar-three-cities/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "بورصة بغداد: 156,500 صباح الأحد",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا صباح اليوم 156,500 دينار لكل 100 دولار، مقابل 156,350 صباح السبت (شفق نيوز).",
+      "bigStat": {
+        "value": "156,500",
+        "label": "Baghdad bourse rate per $100, Sunday morning, per Shafaq",
+        "arabicLabel": "ديناراً لكل 100 دولار في بورصتي الكفاح والحارثية ببغداد صباح الأحد 13 أيلول 2026، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "السبت صباحاً",
+          "value": "156,350"
+        },
+        {
+          "label": "الأحد صباحاً",
+          "value": "156,500"
+        },
+        {
+          "label": "الفرق",
+          "value": "+150"
+        }
+      ],
+      "broll": "images/news/2026-09-13-b-dollar-three-cities/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-13-b-dollar-three-cities/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية",
+        "156,500 صباح الأحد",
+        "بعد 156,350 صباح السبت"
+      ]
+    },
+    {
+      "label": "بغداد والبصرة",
+      "arabicHeading": "البيع ببغداد والبصرة: 157,000",
+      "arabicBody": "سعر البيع في بغداد 157,000 دينار لكل 100 دولار بحسب شفق نيوز وشبكة 964، وفي البصرة 157,000 أيضاً بحسب 964.",
+      "bigStat": {
+        "value": "157,000",
+        "label": "Sell rate per $100 in Baghdad (Shafaq, 964) and Basra (964)",
+        "arabicLabel": "ديناراً لكل 100 دولار سعر البيع في بغداد (شفق نيوز · شبكة 964) والبصرة (شبكة 964) صباح 13 أيلول 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد",
+          "value": "157,000"
+        },
+        {
+          "label": "البصرة",
+          "value": "157,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق · 964"
+        }
+      ],
+      "broll": "images/news/2026-09-13-b-dollar-three-cities/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-13-b-dollar-three-cities/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "بغداد بيعاً 157,000",
+        "البصرة 157,000",
+        "بحسب شفق نيوز وشبكة 964"
+      ]
+    },
+    {
+      "label": "أربيل",
+      "arabicHeading": "أربيل أرخص من بغداد بالنشرتين",
+      "arabicBody": "في أربيل سعر البيع 156,750 بحسب شبكة 964، و156,450 بحسب شفق نيوز، والسعر الرسمي للبنك المركزي 131,000 (964).",
+      "bigStat": {
+        "value": "131,000",
+        "label": "CBI official rate per $100, per 964",
+        "arabicLabel": "ديناراً لكل 100 دولار السعر الرسمي المقرر من البنك المركزي العراقي، بحسب شبكة 964 (13 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل · 964",
+          "value": "156,750"
+        },
+        {
+          "label": "أربيل · شفق",
+          "value": "156,450"
+        },
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        }
+      ],
+      "broll": "images/news/2026-09-13-b-dollar-three-cities/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-13-b-dollar-three-cities/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "أربيل بيعاً 156,750 (964)",
+        "و156,450 (شفق نيوز)",
+        "الرسمي 131,000"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: بورصتا الكفاح والحارثية 156,500 لكل 100 دولار صباح الأحد بعد 156,350 صباح السبت",
+    "محال الصيرفة ببغداد: بيع 157,000 وشراء 156,000 (شفق نيوز)",
+    "شبكة 964: البيع في بغداد والبصرة 157,000 وفي أربيل 156,750 — الرسمي 131,000",
+    "بيا مدينة تشتري دولارك؟"
+  ],
+  "endQuestion": "بيا مدينة تشتري دولارك؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

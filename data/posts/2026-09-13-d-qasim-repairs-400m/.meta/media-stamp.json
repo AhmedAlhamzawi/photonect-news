@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-13-d-qasim-repairs-400m",
+  "date": "2026-09-13",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 449643,
+      "sha256": "d22b07733745806e"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 605981,
+      "sha256": "a216691854df57b1"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 673544,
+      "sha256": "8b67a2a4814506bb"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 634321,
+      "sha256": "1b2c0462369984f0"
+    }
+  ]
+}
