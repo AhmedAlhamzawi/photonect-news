@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 14 • 2026",
+  "arabicDateLabel": "14 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "region_health",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "البصرة",
+    "arabicHeadline": "تسرب الأمونيا في البصرة: وفاتان و114 إصابة بحسب الحصيلة النهائية للصحة",
+    "englishSubhead": "BASRA · SEP 13-14 | AMMONIA LEAK AT THE STATE SOUTHERN FERTILIZER COMPANY, KHOR AL-ZUBAIR | HEALTH MINISTRY (SPOKESMAN SAIF AL-BADR, VIA STATE AGENCY/964): FINAL TOLL 2 DEAD, 114 INJURED; 21 STILL IN HOSPITAL, ALL STABLE BUT ONE; 50+ AMBULANCES | CIVIL DEFENCE RESCUED 10 TRAPPED (SHAFAQ) | ZUBAIR DISTRICT CHIEF: PUMP EXPLOSION, PLANT HALTED | GOVERNOR AL-EIDANI ORDERS PROBE: ACCIDENTAL OR EXTERNAL",
+    "heroMedia": "images/news/2026-09-14-c-basra-ammonia-114/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحصيلة",
+      "arabicHeading": "الحصيلة النهائية: وفاتان و114 إصابة",
+      "arabicBody": "وزارة الصحة أعلنت اليوم الحصيلة النهائية لتسرب الأمونيا في الشركة العامة لصناعة الأسمدة الجنوبية بخور الزبير: وفاتان و114 إصابة (شبكة 964).",
+      "bigStat": {
+        "value": "114",
+        "label": "Injured in the Khor al-Zubair ammonia leak — final Health Ministry toll",
+        "arabicLabel": "إصابة مع حالتي وفاة، الحصيلة النهائية لتسرب الأمونيا في شركة الأسمدة الجنوبية بخور الزبير، بحسب وزارة الصحة (شبكة 964 · 14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفيات",
+          "value": "2"
+        },
+        {
+          "label": "الإصابات",
+          "value": "114"
+        },
+        {
+          "label": "المكان",
+          "value": "خور الزبير"
+        }
+      ],
+      "broll": "images/news/2026-09-14-c-basra-ammonia-114/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-14-c-basra-ammonia-114/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "شركة الأسمدة الجنوبية — خور الزبير",
+        "وفاتان",
+        "و114 إصابة"
+      ]
+    },
+    {
+      "label": "المستشفيات",
+      "arabicHeading": "21 مصاباً بعدهم راقدين",
+      "arabicBody": "بحسب المتحدث باسم الصحة سيف البدر، 21 مصاباً ما زالوا راقدين: 12 بمستشفى الزبير و2 بالسياب و7 بالكويتي، وكلهم مستقرون عدا حالة واحدة.",
+      "bigStat": {
+        "value": "21",
+        "label": "Injured still in hospital, all stable except one, per the Health Ministry",
+        "arabicLabel": "مصاباً ما زالوا راقدين في مستشفيات الزبير والسياب والكويتي، وجميعهم مستقرون عدا حالة واحدة، بحسب المتحدث باسم وزارة الصحة"
+      },
+      "supportingStats": [
+        {
+          "label": "الزبير",
+          "value": "12"
+        },
+        {
+          "label": "السياب",
+          "value": "2"
+        },
+        {
+          "label": "الكويتي",
+          "value": "7"
+        }
+      ],
+      "broll": "images/news/2026-09-14-c-basra-ammonia-114/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-14-c-basra-ammonia-114/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "21 مصاباً راقدين",
+        "12 الزبير · 2 السياب · 7 الكويتي",
+        "مستقرون عدا حالة واحدة"
+      ]
+    },
+    {
+      "label": "التحقيق",
+      "arabicHeading": "عرضي أم تأثير خارجي؟ المحافظ يطلب تحقيقاً",
+      "arabicBody": "بحسب قائمقام الزبير عباس ماهر، بدأ الحادث بانفجار في إحدى المضخات وأُوقف المعمل. والمحافظ أسعد العيداني طلب تحقيقاً: عرضي أم بتأثير خارجي (964).",
+      "bigStat": {
+        "value": "10",
+        "label": "Workers trapped inside the plant rescued by civil defence, per Shafaq",
+        "arabicLabel": "عمال كانوا محاصرين داخل الشركة العامة لصناعة الأسمدة الجنوبية أنقذتهم فرق الدفاع المدني، بحسب مدير الدفاع المدني في البصرة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب الأولي",
+          "value": "انفجار مضخة"
+        },
+        {
+          "label": "المعمل",
+          "value": "متوقف"
+        },
+        {
+          "label": "التحقيق",
+          "value": "مطلوب"
+        }
+      ],
+      "broll": "images/news/2026-09-14-c-basra-ammonia-114/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-14-c-basra-ammonia-114/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "انفجار بإحدى المضخات",
+        "إيقاف المعمل",
+        "المحافظ: تحقيق — عرضي أم خارجي؟"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "تسرب الأمونيا في البصرة: وفاتان و114 إصابة بحسب الحصيلة النهائية للصحة",
+    "21 مصاباً ما زالوا راقدين في مستشفيات الزبير والسياب والكويتي — مستقرون عدا حالة واحدة",
+    "الدفاع المدني: إنقاذ 10 عمال كانوا محاصرين داخل المعمل (شفق نيوز)",
+    "المحافظ أسعد العيداني يطلب تحقيقاً لمعرفة إن كان الحادث عرضياً أم بتأثير خارجي",
+    "تعرف أحداً يشتغل بمعمل الأسمدة بخور الزبير؟"
+  ],
+  "endQuestion": "تعرف أحداً يشتغل بمعمل الأسمدة بخور الزبير؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

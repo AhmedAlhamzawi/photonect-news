@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 14 • 2026",
+  "arabicDateLabel": "14 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "إنتاج النفط العراقي: الزيدي يطرح هدف 10 ملايين برميل يومياً",
+    "englishSubhead": "PARIS · SEP 14 | PM ALI AL-ZAIDI MEETS TOTALENERGIES CEO PATRICK POUYANNE ON FIRST LEG OF EUROPE TOUR (FRANCE, THEN GERMANY) | PM'S OFFICE: PLANS TO EXPAND OUTPUT TO 10M BPD WITHIN FIVE YEARS, EXPAND ASSOCIATED-GAS INVESTMENT TO SELF-SUFFICIENCY, WIDEN EXPLORATION; BAGHDAD PREPARING INTERNATIONAL ENERGY CONFERENCE | POUYANNE: TOTAL'S IRAQ OIL INVESTMENTS REACH $12BN, PLANNED TO RISE TO $16BN (964, SHAFAQ)",
+    "heroMedia": "images/news/2026-09-14-e-zaidi-total-10m-barrels/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللقاء",
+      "arabicHeading": "الزيدي يستقبل رئيس توتال بباريس",
+      "arabicBody": "رئيس الوزراء علي الزيدي استقبل رئيس توتال إنيرجيز باتريك بوينيه في باريس، أولى محطات جولته الأوروبية التي تشمل ألمانيا (شبكة 964 · شفق نيوز).",
+      "bigStat": {
+        "value": "2",
+        "label": "Countries on Zaidi's European tour: France, then Germany, per 964",
+        "arabicLabel": "بلدان تشملهما جولة رئيس الوزراء علي الزيدي الأوروبية — فرنسا ثم ألمانيا — بحسب شبكة 964 (14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المدينة",
+          "value": "باريس"
+        },
+        {
+          "label": "الشركة",
+          "value": "توتال إنيرجيز"
+        },
+        {
+          "label": "المحطة التالية",
+          "value": "ألمانيا"
+        }
+      ],
+      "broll": "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "رئيس الوزراء علي الزيدي",
+        "رئيس توتال باتريك بوينيه",
+        "باريس — أولى محطات الجولة"
+      ]
+    },
+    {
+      "label": "الهدف",
+      "arabicHeading": "10 ملايين برميل خلال 5 سنوات",
+      "arabicBody": "بحسب بيان مكتب الزيدي، خطط الحكومة تستهدف رفع الإنتاج إلى 10 ملايين برميل يومياً خلال السنوات الخمس المقبلة، والتوسع باستثمار الغاز المصاحب.",
+      "bigStat": {
+        "value": "10",
+        "label": "Million barrels a day — output target within five years, per the PM's office",
+        "arabicLabel": "ملايين برميل يومياً هدف الإنتاج النفطي الذي تطرحه الحكومة خلال السنوات الخمس المقبلة، بحسب بيان مكتب رئيس الوزراء (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "10 ملايين ب/ي"
+        },
+        {
+          "label": "المدة",
+          "value": "5 سنوات"
+        },
+        {
+          "label": "الغاز",
+          "value": "هدف اكتفاء"
+        }
+      ],
+      "broll": "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "هدف 10 ملايين برميل يومياً",
+        "خلال 5 سنوات",
+        "والغاز المصاحب للاكتفاء الذاتي"
+      ]
+    },
+    {
+      "label": "توتال",
+      "arabicHeading": "توتال: 12 مليار دولار.. ونخطط لـ16",
+      "arabicBody": "بوينيه قال إن استثمارات الشركة النفطية في العراق تصل إلى 12 مليار دولار مع التخطيط لرفعها إلى 16 ملياراً، وبغداد تحضّر لمؤتمر دولي للطاقة.",
+      "bigStat": {
+        "value": "12",
+        "label": "TotalEnergies' oil investments in Iraq, planned to rise to $16bn, per Pouyanne",
+        "arabicLabel": "مليار دولار استثمارات توتال إنيرجيز النفطية في العراق بحسب رئيسها باتريك بوينيه، مع التخطيط لرفعها إلى 16 مليار دولار (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحالي",
+          "value": "$12 مليار"
+        },
+        {
+          "label": "المخطط",
+          "value": "$16 مليار"
+        },
+        {
+          "label": "القادم",
+          "value": "مؤتمر ببغداد"
+        }
+      ],
+      "broll": "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-14-e-zaidi-total-10m-barrels/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "توتال: 12 مليار دولار بالعراق",
+        "والخطة 16 ملياراً",
+        "ومؤتمر دولي للطاقة ببغداد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "إنتاج النفط العراقي: الزيدي يطرح هدف 10 ملايين برميل يومياً",
+    "مكتب الزيدي: خطط لبلوغ إنتاج 10 ملايين برميل يومياً خلال خمس سنوات والتوسع باستثمار الغاز المصاحب",
+    "بوينيه: استثمارات توتال النفطية في العراق تصل إلى 12 مليار دولار والخطة رفعها إلى 16 ملياراً",
+    "تشتغل بقطاع النفط أو الغاز؟"
+  ],
+  "endQuestion": "تشتغل بقطاع النفط أو الغاز؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 14 • 2026",
+  "arabicDateLabel": "14 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "سعر الدولار اليوم: محال بغداد تبيع 157,000 وتشتري 156,000 لكل 100 دولار",
+    "englishSubhead": "MON SEP 14 MORNING · PER $100 | SHAFAQ: BAGHDAD BOURSES (KIFAH/HARTHIYA) 156,500 — SAME AS SUNDAY; BAGHDAD SHOPS SELL 157,000 BUY 156,000; ERBIL SELL 156,200 BUY 156,150 (SUN CLOSE 156,250/156,200) | 964: BAGHDAD SELL 156,750 BUY 156,250; ERBIL 156,750/156,300; BASRA 157,000/156,500; CBI OFFICIAL 131,000 | SPREADS COMPUTED WITHIN EACH OUTLET",
+    "heroMedia": "images/news/2026-09-14-b-dollar-buy-sell-gap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "بورصة بغداد: 156,500.. نفس الأحد",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا صباح اليوم 156,500 دينار لكل 100 دولار، وهو نفس سعر الأحد (شفق نيوز).",
+      "bigStat": {
+        "value": "156,500",
+        "label": "Baghdad bourse rate per $100, Monday morning — unchanged from Sunday, per Shafaq",
+        "arabicLabel": "ديناراً لكل 100 دولار في بورصتي الكفاح والحارثية ببغداد صباح الاثنين 14 أيلول 2026، وهو سعر الأحد نفسه، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد",
+          "value": "156,500"
+        },
+        {
+          "label": "الاثنين",
+          "value": "156,500"
+        },
+        {
+          "label": "الحال",
+          "value": "استقرار"
+        }
+      ],
+      "broll": "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية",
+        "156,500 صباح الاثنين",
+        "نفس سعر الأحد"
+      ]
+    },
+    {
+      "label": "الفرق",
+      "arabicHeading": "محال بغداد: فرق 1,000 دينار (محتسب)",
+      "arabicBody": "بحسب شفق نيوز، محال الصيرفة ببغداد تبيع 100 دولار بـ157,000 وتشتريها بـ156,000. الفرق 1,000 دينار (محتسب). ونشرة 964 لبغداد (بيع وشراء): 156,750 و156,250.",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD gap per $100 between shop sell and buy in Baghdad (Shafaq figures, computed)",
+        "arabicLabel": "دينار الفرق بين سعر البيع 157,000 وسعر الشراء 156,000 لكل 100 دولار في محال صيرفة بغداد صباح الاثنين (أرقام شفق نيوز · محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "157,000"
+        },
+        {
+          "label": "الشراء",
+          "value": "156,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "1,000"
+        }
+      ],
+      "broll": "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "محال بغداد تبيع 157,000",
+        "وتشتري 156,000",
+        "الفرق 1,000 دينار"
+      ]
+    },
+    {
+      "label": "أربيل والبصرة",
+      "arabicHeading": "أربيل انخفضت.. والرسمي 131,000",
+      "arabicBody": "بحسب شفق نيوز، أربيل تبيع 156,200 وتشتري 156,150 بعد 156,250 و156,200 عند إغلاق الأحد. والبصرة 157,000 بيعاً والرسمي 131,000 (شبكة 964).",
+      "bigStat": {
+        "value": "131,000",
+        "label": "CBI official rate per $100, per 964",
+        "arabicLabel": "ديناراً لكل 100 دولار السعر الرسمي المقرر من البنك المركزي العراقي، بحسب شبكة 964 (14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل بيعاً",
+          "value": "156,200"
+        },
+        {
+          "label": "البصرة بيعاً",
+          "value": "157,000"
+        },
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        }
+      ],
+      "broll": "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-14-b-dollar-buy-sell-gap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "أربيل بيعاً 156,200 (شفق)",
+        "البصرة 157,000 (964)",
+        "الرسمي 131,000"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سعر الدولار اليوم: محال بغداد تبيع 157,000 وتشتري 156,000 لكل 100 دولار",
+    "شفق نيوز: بورصتا الكفاح والحارثية 156,500 لكل 100 دولار صباح الاثنين — نفس سعر الأحد",
+    "فرق البيع والشراء بمحال بغداد 1,000 دينار (محتسب من أرقام شفق) — وبنشرة شبكة 964: 156,750 و156,250",
+    "أربيل: بيع 156,200 وشراء 156,150 (شفق نيوز) · البصرة: 157,000 و156,500 (شبكة 964) · الرسمي 131,000",
+    "هالأسبوع تبيع دولار لو تشتري؟"
+  ],
+  "endQuestion": "هالأسبوع تبيع دولار لو تشتري؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

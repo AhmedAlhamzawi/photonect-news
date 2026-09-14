@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 14 • 2026",
+  "arabicDateLabel": "14 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "رواتب",
+    "arabicHeadline": "رواتب المتقاعدين: محتجون ببغداد يطالبون بمليون دينار حداً أدنى",
+    "englishSubhead": "BAGHDAD · SEP 14 | RETIREES FROM SEVERAL PROVINCES PROTEST IN ALLAWI, MARCH TOWARD CABINET AND PARLIAMENT (SHAFAQ, 964) | DEMANDS: IQD 1 MILLION MINIMUM PENSION; RETIREMENT AGE BACK TO 63; AMEND ARTICLES 13 AND 28 OF THE RETIREMENT LAW (SHAFAQ) | A RETIREE TOLD 964 HIS PENSION FELL FROM 1.5M TO 500K; ANOTHER SAID PROTESTERS SERVED 30-40 YEARS",
+    "heroMedia": "images/news/2026-09-14-d-retirees-million-minimum/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الوقفة",
+      "arabicHeading": "من المحافظات إلى العلاوي.. نحو الوزراء والنواب",
+      "arabicBody": "متقاعدون قادمون من محافظات عدة تظاهروا اليوم في العلاوي وسط بغداد، وتوجهوا نحو مجلسي الوزراء والنواب مطالبين بتعديل قانون التقاعد (شفق نيوز · 964).",
+      "bigStat": {
+        "value": "2",
+        "label": "Councils the retirees marched toward: cabinet and parliament, per Shafaq",
+        "arabicLabel": "مجلسان توجه نحوهما المتقاعدون المحتجون — الوزراء والنواب — للمطالبة بتعديل قانون التقاعد، بحسب شفق نيوز (14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "العلاوي"
+        },
+        {
+          "label": "الوجهة",
+          "value": "الوزراء والنواب"
+        },
+        {
+          "label": "المطلب",
+          "value": "تعديل القانون"
+        }
+      ],
+      "broll": "images/news/2026-09-14-d-retirees-million-minimum/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-14-d-retirees-million-minimum/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "متقاعدون من محافظات عدة",
+        "العلاوي وسط بغداد",
+        "نحو مجلسي الوزراء والنواب"
+      ]
+    },
+    {
+      "label": "المطالب",
+      "arabicHeading": "مليون حد أدنى.. وسن التقاعد 63",
+      "arabicBody": "أبرز المطالب بحسب شفق نيوز: مليون دينار حداً أدنى للراتب التقاعدي، وإعادة سن التقاعد إلى 63 عاماً، وتعديل المادتين 13 و28 من القانون.",
+      "bigStat": {
+        "value": "1,000,000",
+        "label": "IQD minimum pension demanded by the protesters",
+        "arabicLabel": "دينار حد أدنى للراتب التقاعدي يطالب به المتقاعدون المحتجون، بحسب شفق نيوز وشبكة 964 (14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحد الأدنى",
+          "value": "مليون دينار"
+        },
+        {
+          "label": "سن التقاعد",
+          "value": "63"
+        },
+        {
+          "label": "المواد",
+          "value": "13 و28"
+        }
+      ],
+      "broll": "images/news/2026-09-14-d-retirees-million-minimum/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-14-d-retirees-million-minimum/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "مليون دينار حداً أدنى",
+        "سن التقاعد 63 عاماً",
+        "تعديل المادتين 13 و28"
+      ]
+    },
+    {
+      "label": "شهادات",
+      "arabicHeading": "متقاعد: «كان مليون ونص.. صار 500 ألف»",
+      "arabicBody": "المتقاعد سعيد الدبي قال لشبكة 964 إن راتبه كان مليوناً ونصف المليون وأصبح 500 ألف دينار. وقال متقاعد آخر إن خدمة المحتجين تتجاوز 30 و40 عاماً.",
+      "bigStat": {
+        "value": "500",
+        "label": "Thousand IQD — one retiree's current pension, as he told 964",
+        "arabicLabel": "ألف دينار راتب أحد المتقاعدين المحتجين حالياً بعد أن كان مليوناً ونصف المليون، بحسب ما قاله لشبكة 964 (رواية شخصية)"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل",
+          "value": "1,500,000"
+        },
+        {
+          "label": "الآن",
+          "value": "500,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "متقاعد لـ964"
+        }
+      ],
+      "broll": "images/news/2026-09-14-d-retirees-million-minimum/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-14-d-retirees-million-minimum/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "متقاعد: كان راتبي مليون ونص",
+        "صار 500 ألف",
+        "وخدمتنا 30 و40 سنة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "رواتب المتقاعدين: محتجون ببغداد يطالبون بمليون دينار حداً أدنى",
+    "المطالب: مليون دينار حداً أدنى للراتب التقاعدي وإعادة سن التقاعد إلى 63 وتعديل المادتين 13 و28 (شفق نيوز)",
+    "متقاعد لشبكة 964 عن راتبه: كان مليوناً ونصف وصار 500 ألف دينار — بحسب روايته",
+    "ببيتكم أحد يستلم راتب تقاعد؟"
+  ],
+  "endQuestion": "ببيتكم أحد يستلم راتب تقاعد؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

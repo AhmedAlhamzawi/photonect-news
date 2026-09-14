@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-14-c-basra-ammonia-114",
+  "date": "2026-09-14",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1179868,
+      "sha256": "da94162d5a6943bd"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 312878,
+      "sha256": "feff507ab543dab4"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 765750,
+      "sha256": "6b3e86d9b0d13583"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1017485,
+      "sha256": "11a51398f072f6f6"
+    }
+  ]
+}

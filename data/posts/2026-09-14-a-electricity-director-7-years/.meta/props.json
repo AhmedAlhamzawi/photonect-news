@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 14 • 2026",
+  "arabicDateLabel": "14 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "مدير توزيع كهرباء الوسط: سجن 7 سنوات وإلزامه برد 25,7 مليار دينار",
+    "englishSubhead": "BAGHDAD · SEP 14 | CENTRAL ANTI-CORRUPTION CRIMINAL COURT: 7 YEARS FOR ALAA SAMIR RASHID, DIRECTOR GENERAL OF THE CENTRAL ELECTRICITY DISTRIBUTION COMPANY, FOR ILLICIT GAIN (ART. 19/2, INTEGRITY LAW 30/2011) | ORDERED TO RETURN IQD 5,524,135,000 AND $5,538,593 PLUS AN EQUAL FINE — IQD 25.7BN IN TOTAL, PER THE INTEGRITY COMMISSION | ASSET SEIZURE UPHELD (964, SHAFAQ)",
+    "heroMedia": "images/news/2026-09-14-a-electricity-director-7-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحكم",
+      "arabicHeading": "المحكمة: 7 سنوات سجن لمدير كهرباء الوسط",
+      "arabicBody": "محكمة جنايات مكافحة الفساد المركزية حكمت بسجن علاء سمير راشد، المدير العام لشركة توزيع كهرباء الوسط، 7 سنوات عن الكسب غير المشروع، بحسب هيئة النزاهة.",
+      "bigStat": {
+        "value": "7",
+        "label": "Years in prison for the Central Electricity Distribution DG, per the Integrity Commission",
+        "arabicLabel": "سنوات سجن بحق المدير العام لشركة توزيع كهرباء الوسط عن جريمة الكسب غير المشروع، بحسب بيان هيئة النزاهة (شبكة 964 · شفق نيوز · 14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "7 سنوات"
+        },
+        {
+          "label": "التهمة",
+          "value": "كسب غير مشروع"
+        },
+        {
+          "label": "المحكمة",
+          "value": "مكافحة الفساد"
+        }
+      ],
+      "broll": "images/news/2026-09-14-a-electricity-director-7-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-14-a-electricity-director-7-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "محكمة جنايات مكافحة الفساد",
+        "مدير توزيع كهرباء الوسط",
+        "7 سنوات سجن"
+      ]
+    },
+    {
+      "label": "المبلغ",
+      "arabicHeading": "25,7 مليار دينار.. رد وغرامة تعادلها",
+      "arabicBody": "ألزمته المحكمة برد 5,524,135,000 دينار و5,538,593 دولاراً قيمة الكسب غير المشروع، وبغرامة تعادلها. المجموع بحسب الهيئة: 25,7 مليار دينار.",
+      "bigStat": {
+        "value": "25,7",
+        "label": "Billion IQD to be returned plus equal fine, per the Integrity Commission",
+        "arabicLabel": "مليار دينار مجموع قيمة الكسب غير المشروع والغرامة المالية التي تعادلها، بحسب بيان هيئة النزاهة (14 أيلول 2026)"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار",
+          "value": "5,524,135,000"
+        },
+        {
+          "label": "بالدولار",
+          "value": "$5,538,593"
+        },
+        {
+          "label": "المجموع",
+          "value": "25,7 مليار"
+        }
+      ],
+      "broll": "images/news/2026-09-14-a-electricity-director-7-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-14-a-electricity-director-7-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "رد 5,524,135,000 دينار",
+        "و5,538,593 دولاراً",
+        "مع غرامة تعادلها"
+      ]
+    },
+    {
+      "label": "الأموال",
+      "arabicHeading": "حجز أمواله.. والتعويض بعد القطعية",
+      "arabicBody": "الحكم أيّد الحجز على أموال المدان المنقولة وغير المنقولة، وأعطى هيئة النزاهة حق المطالبة بالتعويض بعد اكتساب الحكم الدرجة القطعية.",
+      "bigStat": {
+        "value": "19",
+        "label": "Article of the Integrity & Illicit Gain Law (No. 30 of 2011) the ruling rests on",
+        "arabicLabel": "المادة من قانون هيئة النزاهة والكسب غير المشروع رقم 30 لسنة 2011 التي صدر الحكم استناداً إليها (شبكة 964 · شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحجز",
+          "value": "مؤيَّد"
+        },
+        {
+          "label": "التعويض",
+          "value": "بعد القطعية"
+        },
+        {
+          "label": "القانون",
+          "value": "30 لسنة 2011"
+        }
+      ],
+      "broll": "images/news/2026-09-14-a-electricity-director-7-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-14-a-electricity-director-7-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "تأييد الحجز على أمواله",
+        "المنقولة وغير المنقولة",
+        "والتعويض بعد اكتساب القطعية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مدير توزيع كهرباء الوسط: سجن 7 سنوات وإلزامه برد 25,7 مليار دينار",
+    "هيئة النزاهة: إلزامه برد 5,524,135,000 دينار و5,538,593 دولاراً مع غرامة تعادلها (شبكة 964 · شفق نيوز)",
+    "تأييد الحجز على أمواله المنقولة وغير المنقولة وحق الهيئة بالتعويض بعد اكتساب الحكم الدرجة القطعية",
+    "تتابع أحكام محكمة مكافحة الفساد؟"
+  ],
+  "endQuestion": "تتابع أحكام محكمة مكافحة الفساد؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

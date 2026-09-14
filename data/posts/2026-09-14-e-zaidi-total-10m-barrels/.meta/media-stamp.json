@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-14-e-zaidi-total-10m-barrels",
+  "date": "2026-09-14",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1468067,
+      "sha256": "d354cb0eba0e722c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 362536,
+      "sha256": "6242968844df8c48"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 874000,
+      "sha256": "518f2c9d72fd61a6"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 971051,
+      "sha256": "af41f77b9fe5f322"
+    }
+  ]
+}
