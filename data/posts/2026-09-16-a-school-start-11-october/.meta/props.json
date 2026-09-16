@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 16 • 2026",
+  "arabicDateLabel": "16 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "التربية",
+    "arabicHeadline": "دوام ولدك تأجل لـ11 تشرين الأول.. إلا بكوردستان",
+    "englishSubhead": "BAGHDAD · SEP 15-16 | FEDERAL EDUCATION MINISTRY POSTPONES 2026-2027 SCHOOL YEAR START FROM SUN 20 SEP TO SUN 11 OCT, PER A MINISTRY DOCUMENT DATED 15 SEP (RUDAW) | SPOKESMAN KARIM AL-SAYYID DENIES ANY LINK TO SECURITY; CITES TEACHERS' APPEALS, DILAPIDATED SCHOOLS, POWER CUTS, HEAT; MID-YEAR EXAM DATES MAY BE REVISED (964) | KURDISTAN REGION SCHOOLS START 20 SEP (RUDAW)",
+    "heroMedia": "images/news/2026-09-16-a-school-start-11-october/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الموعد",
+      "arabicHeading": "الدوام: 11 تشرين الأول بدل 20 أيلول",
+      "arabicBody": "وزارة التربية أجلت بدء العام الدراسي 2026-2027 من الأحد 20 أيلول إلى الأحد 11 تشرين الأول، بحسب وثيقة للوزارة نشرتها رووداو.",
+      "bigStat": {
+        "value": "11",
+        "label": "October 11 — new start date of the 2026-2027 school year (was Sep 20), per a ministry document via Rudaw",
+        "arabicLabel": "تشرين الأول 2026 الموعد الجديد لبدء العام الدراسي بدلاً من 20 أيلول، بحسب وثيقة لوزارة التربية مؤرخة في 15 أيلول نشرتها رووداو"
+      },
+      "supportingStats": [
+        {
+          "label": "القديم",
+          "value": "20 أيلول"
+        },
+        {
+          "label": "الجديد",
+          "value": "11 تشرين الأول"
+        },
+        {
+          "label": "العام",
+          "value": "2026-2027"
+        }
+      ],
+      "broll": "images/news/2026-09-16-a-school-start-11-october/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-16-a-school-start-11-october/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "العام الدراسي 2026-2027",
+        "من 20 أيلول",
+        "إلى 11 تشرين الأول"
+      ]
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "التربية تنفي: لا علاقة للتأجيل بالوضع الأمني",
+      "arabicBody": "المتحدث باسم الوزارة كريم السيد نفى أي علاقة للتأجيل بالوضع الأمني، وقال إن السبب مناشدات المعلمين وتهالك مدارس وانقطاع الكهرباء والحر (شبكة 964).",
+      "bigStat": {
+        "value": "80%",
+        "label": "Share of textbooks the ministry relies on from books returned by students, per spokesman (964)",
+        "arabicLabel": "من المناهج تعتمد فيها الوزارة على الكتب المسترجعة من الطلبة، بحسب المتحدث باسم وزارة التربية كريم السيد (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الدور الثاني",
+          "value": "ينتهي 24 أيلول"
+        },
+        {
+          "label": "الدور الخاص",
+          "value": "يبدأ 26 أيلول"
+        },
+        {
+          "label": "نصف السنة",
+          "value": "قد يتغير"
+        }
+      ],
+      "broll": "images/news/2026-09-16-a-school-start-11-october/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-16-a-school-start-11-october/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "نفي أي علاقة بالوضع الأمني",
+        "مناشدات المعلمين وتهالك مدارس",
+        "وانقطاع الكهرباء والحر"
+      ]
+    },
+    {
+      "label": "الإقليم",
+      "arabicHeading": "كوردستان تسبق البقية بنحو 3 أسابيع",
+      "arabicBody": "وزارة التربية في إقليم كوردستان حددت 20 أيلول لبدء الدراسة، أي قبل بقية المحافظات بنحو 3 أسابيع (رووداو).",
+      "bigStat": {
+        "value": "3",
+        "label": "Weeks, roughly, between Kurdistan Region's school start and the rest of Iraq, per Rudaw",
+        "arabicLabel": "أسابيع تقريباً تفصل بين بدء الدراسة في إقليم كوردستان (20 أيلول) وبقية المحافظات (11 تشرين الأول)، بحسب رووداو"
+      },
+      "supportingStats": [
+        {
+          "label": "الإقليم",
+          "value": "20 أيلول"
+        },
+        {
+          "label": "بقية المحافظات",
+          "value": "11 تشرين الأول"
+        },
+        {
+          "label": "الفارق",
+          "value": "نحو 3 أسابيع"
+        }
+      ],
+      "broll": "images/news/2026-09-16-a-school-start-11-october/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-16-a-school-start-11-october/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "إقليم كوردستان يبدأ 20 أيلول",
+        "بقية المحافظات 11 تشرين الأول",
+        "فارق نحو 3 أسابيع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وزارة التربية تؤجل بدء العام الدراسي 2026-2027 من 20 أيلول إلى 11 تشرين الأول (رووداو)",
+    "المتحدث كريم السيد: لا علاقة للتأجيل بالوضع الأمني — مناشدات المعلمين وتهالك مدارس وانقطاع الكهرباء والحر (شبكة 964)",
+    "الدور الثاني ينتهي 24 أيلول والدور الخاص يبدأ 26 أيلول، وموعد امتحانات نصف السنة قد يُعاد النظر فيه",
+    "إقليم كوردستان يبدأ الدراسة في 20 أيلول (رووداو)",
+    "كم طفل عندكم بالمدارس؟"
+  ],
+  "endQuestion": "كم طفل عندكم بالمدارس؟",
+  "sources": [
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

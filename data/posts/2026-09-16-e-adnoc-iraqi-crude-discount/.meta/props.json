@@ -1,0 +1,148 @@
+{
+  "dateLabel": "SEP 16 • 2026",
+  "arabicDateLabel": "16 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "نفط",
+    "arabicHeadline": "رويترز: أدنوك تشتري النفط العراقي بخصم يصل 27 دولاراً للبرميل",
+    "englishSubhead": "NEW DELHI/BAGHDAD · REUTERS SEP 15 (THREE SOURCES) | ADNOC AGREED TO BUY 32M IRAQI BARRELS IN AUGUST AT DISCOUNTS OF $24.90-$27/BBL AND 40M IN SEPTEMBER (10M AT $18, 30M AT $25); LIFTED 20M OF AUGUST ALLOCATION DUE TO EXPORT CONSTRAINTS; IRAQ EXPORTS ~2M BPD IN SEPT VS 2.354M IN AUG (KPLER) | RUDAW SEP 16: OIL ~88% OF GOVERNMENT REVENUE IN 2025 (WORLD BANK) | REPORTED BY BAGHDAD TODAY SEP 15-16",
+    "heroMedia": "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "آب",
+      "arabicHeading": "32 مليون برميل.. بخصم لحد 27 دولار",
+      "arabicBody": "مصدر عراقي لرويترز: أدنوك اتفقت على 32 مليون برميل بآب بخصم بين 24.90 و27 دولاراً. ورويترز: سومو عرضت خصومات كبيرة لمشترين آخرين أيضاً.",
+      "bigStat": {
+        "value": "32",
+        "label": "Million Iraqi barrels ADNOC agreed to buy in August at $24.90-$27 discounts, per Reuters sources",
+        "arabicLabel": "مليون برميل من الخام العراقي اتفقت أدنوك على شرائها في آب بخصومات بين 24.90 و27 دولاراً للبرميل، بحسب مصادر تحدثت لرويترز"
+      },
+      "supportingStats": [
+        {
+          "label": "الخصم الأدنى",
+          "value": "$24.90"
+        },
+        {
+          "label": "الخصم الأعلى",
+          "value": "$27"
+        },
+        {
+          "label": "المشتري",
+          "value": "أدنوك"
+        }
+      ],
+      "broll": "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "أدنوك الإماراتية",
+        "32 مليون برميل في آب",
+        "بخصم 24.90 إلى 27 دولاراً"
+      ]
+    },
+    {
+      "label": "أيلول",
+      "arabicHeading": "أيلول: 40 مليون برميل.. بخصم 18 و25 دولاراً",
+      "arabicBody": "مصدر لرويترز: 40 مليون برميل بأيلول، 10 ملايين بخصم 18 دولاراً و30 مليوناً بخصم 25. ومصدر ثانٍ: حمّلت 20 مليوناً فقط من حصة آب لقيود التصدير.",
+      "bigStat": {
+        "value": "40",
+        "label": "Million barrels in September: 10M at an $18 discount, 30M at $25, per a Reuters source",
+        "arabicLabel": "مليون برميل في أيلول: 10 ملايين بخصم 18 دولاراً و30 مليوناً بخصم 25 دولاراً للبرميل، بحسب مصدر عراقي لرويترز"
+      },
+      "supportingStats": [
+        {
+          "label": "بخصم $18",
+          "value": "10 ملايين"
+        },
+        {
+          "label": "بخصم $25",
+          "value": "30 مليوناً"
+        },
+        {
+          "label": "حُمّل من حصة آب",
+          "value": "20 مليوناً"
+        }
+      ],
+      "broll": "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "40 مليون برميل في أيلول",
+        "10 ملايين بخصم 18 دولاراً",
+        "و30 مليوناً بخصم 25"
+      ]
+    },
+    {
+      "label": "الإيرادات",
+      "arabicHeading": "النفط = 88% من إيرادات الدولة",
+      "arabicBody": "بحسب بيانات البنك الدولي، وفّر النفط نحو 88% من إيرادات الحكومة في 2025. وتقول رووداو إن أي انخفاض طويل بالصادرات يمس قدرة الدولة على تمويل الرواتب.",
+      "bigStat": {
+        "value": "88%",
+        "label": "Share of Iraqi government revenue from oil in 2025, per World Bank data cited by Rudaw",
+        "arabicLabel": "من إيرادات الحكومة العراقية وفّرها النفط في 2025، بحسب بيانات البنك الدولي كما أوردتها رووداو"
+      },
+      "supportingStats": [
+        {
+          "label": "الإيرادات من النفط",
+          "value": "88%"
+        },
+        {
+          "label": "صادرات أيلول",
+          "value": "نحو 2 مليون ب/ي"
+        },
+        {
+          "label": "صادرات آب",
+          "value": "2.354 مليون ب/ي"
+        }
+      ],
+      "broll": "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-16-e-adnoc-iraqi-crude-discount/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "النفط نحو 88% من الإيرادات",
+        "صادرات أيلول نحو 2 مليون ب/ي",
+        "وآب 2.354 مليون",
+        "رووداو: الانخفاض الطويل يمس الرواتب"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "رويترز: أدنوك اتفقت على شراء 32 مليون برميل عراقي في آب بخصومات بين 24.90 و27 دولاراً للبرميل",
+    "و40 مليون برميل في أيلول — 10 ملايين بخصم 18 دولاراً و30 مليوناً بخصم 25 دولاراً (مصدر عراقي لرويترز)",
+    "صادرات العراق نحو مليوني برميل يومياً في أيلول مقابل 2.354 مليون في آب (Kpler عبر رويترز)",
+    "رووداو عن البنك الدولي: النفط وفّر نحو 88% من إيرادات الحكومة في 2025 — وأي انخفاض طويل بالصادرات يمس تمويل الرواتب",
+    "راتبك حكومي لو قطاع خاص؟"
+  ],
+  "endQuestion": "راتبك حكومي لو قطاع خاص؟",
+  "sources": [
+    {
+      "name": "رويترز",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

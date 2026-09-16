@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-16-c-danagas-1000-megawatts",
+  "date": "2026-09-16",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1122346,
+      "sha256": "96daf7b90e9b5a3c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 853430,
+      "sha256": "6dc14a0887ae01a7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 722543,
+      "sha256": "21cc60422066ba83"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 696868,
+      "sha256": "05d32116451f52c0"
+    }
+  ]
+}

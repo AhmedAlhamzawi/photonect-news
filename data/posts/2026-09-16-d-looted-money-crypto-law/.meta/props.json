@@ -1,0 +1,146 @@
+{
+  "dateLabel": "SEP 16 • 2026",
+  "arabicDateLabel": "16 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "الأموال المنهوبة وين تنخبى؟ مسؤول بالنزاهة: حتى بالعملات المشفرة أحياناً",
+    "englishSubhead": "BAGHDAD · SEP 14-16 | INTEGRITY COMMISSION OFFICIAL (UNNAMED) TO 964: HIDING METHODS NOW SPAN COMPANIES, PROXY NAMES, TRANSFERS ABROAD AND, IN SOME CASES, CRYPTOCURRENCY; ASSETS OF OFFICIALS WHO ENTERED STATE POSTS IN THE LAST 3-4 YEARS EASIER TO REACH | MP DIAA SHAGHATI (PARLIAMENT INTEGRITY COMMITTEE): DRAFT LAW TO RECOVER LOOTED FUNDS BEING WRITTEN WITH PM OFFICE AND PRESIDENCY, NOT FINAL (964) | INTEGRITY HEAD MOHAMMED ALI AL-LAMI MET INTERPOL IN PARIS; SAYS SOME IMPLICATED TRIED TO LEAVE IRAQ (BAGHDAD TODAY, RUDAW) | TRIAL SESSIONS OF TWO MPs AND A FORMER MP POSTPONED TO SEP 16-17 (964)",
+    "heroMedia": "images/news/2026-09-16-d-looted-money-crypto-law/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإخفاء",
+      "arabicHeading": "مسؤول بالنزاهة: شركات وأسماء بديلة.. وكريبتو أحياناً",
+      "arabicBody": "مسؤول بالنزاهة، طلب عدم ذكر اسمه، قال لشبكة 964 إن إخفاء أموال الفساد امتد لشركات وأسماء بديلة وتحويلات للخارج، وحتى عملات مشفرة أحياناً.",
+      "bigStat": {
+        "value": "3-4",
+        "label": "Years: assets of officials who took posts in the last 3-4 years are easier to reach, per an Integrity official (964)",
+        "arabicLabel": "سنوات: الوصول إلى أموال المسؤولين الذين دخلوا مواقع الدولة خلال آخر 3 أو 4 سنوات أسهل نسبياً، بحسب مسؤول في هيئة النزاهة طلب عدم ذكر اسمه (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الواجهة",
+          "value": "أسماء بديلة"
+        },
+        {
+          "label": "الوجهة",
+          "value": "الخارج"
+        },
+        {
+          "label": "أحياناً",
+          "value": "عملات مشفرة"
+        }
+      ],
+      "broll": "images/news/2026-09-16-d-looted-money-crypto-law/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-16-d-looted-money-crypto-law/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "شركات وأسماء بديلة",
+        "تحويلات إلى الخارج",
+        "وعملات مشفرة أحياناً"
+      ]
+    },
+    {
+      "label": "القانون",
+      "arabicHeading": "مسودة قانون لاسترداد المنهوب",
+      "arabicBody": "النائب ضياء شغاتي، عضو لجنة النزاهة النيابية، قال إن مسودة قانون لاسترداد الأموال المنهوبة داخل العراق وخارجه قيد الصياغة ولم تكتمل (شبكة 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Bodies drafting the recovery law: parliament's integrity committee, PM's office, presidency — per MP Shaghati (964)",
+        "arabicLabel": "جهات تعمل على مسودة قانون استرداد الأموال: لجنة النزاهة النيابية ورئاسة الوزراء ورئاسة الجمهورية، بحسب النائب ضياء شغاتي (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهات",
+          "value": "3"
+        },
+        {
+          "label": "النطاق",
+          "value": "بالداخل والخارج"
+        },
+        {
+          "label": "الصياغة",
+          "value": "لم تكتمل"
+        }
+      ],
+      "broll": "images/news/2026-09-16-d-looted-money-crypto-law/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-16-d-looted-money-crypto-law/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "مسودة قانون جديد",
+        "لاسترداد الأموال المنهوبة",
+        "الصياغة لم تكتمل بعد"
+      ]
+    },
+    {
+      "label": "الملاحقة",
+      "arabicHeading": "النزاهة والإنتربول.. ومحاكمات 16 و17 أيلول",
+      "arabicBody": "رئيس هيئة النزاهة محمد علي اللامي بحث في باريس مع الإنتربول ملاحقة المطلوبين، وقال إن بعض المتورطين حاولوا مغادرة البلاد (بغداد اليوم · رووداو).",
+      "bigStat": {
+        "value": "16 و17",
+        "label": "September 16-17: postponed trial sessions of two MPs and a former MP in the 'Dawn' campaign, per 964",
+        "arabicLabel": "أيلول: موعدا جلسات محاكمة نائبتين ونائبة سابقة ضمن «صولة الفجر» بعد تأجيلها، بحسب شبكة 964"
+      },
+      "supportingStats": [
+        {
+          "label": "الشريك",
+          "value": "الإنتربول"
+        },
+        {
+          "label": "اللقاء",
+          "value": "باريس"
+        },
+        {
+          "label": "المحاكمات",
+          "value": "16 و17 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-16-d-looted-money-crypto-law/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-16-d-looted-money-crypto-law/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "اللامي والإنتربول في باريس",
+        "ملاحقة المطلوبين بالخارج",
+        "ومحاكمات 16 و17 أيلول"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مسؤول في النزاهة طلب عدم ذكر اسمه لشبكة 964: أساليب إخفاء أموال الفساد امتدت إلى الشركات والأسماء البديلة والعملات المشفرة في بعض الحالات",
+    "النائب ضياء شغاتي: مسودة قانون لاسترداد الأموال المنهوبة تُكتب مع رئاستي الوزراء والجمهورية ولم تكتمل",
+    "اللامي من باريس: بعض المتورطين حاولوا مغادرة البلاد — تعاون مع الإنتربول لملاحقة المطلوبين (بغداد اليوم · رووداو)",
+    "تتابع محاكمات صولة الفجر؟"
+  ],
+  "endQuestion": "تتابع محاكمات صولة الفجر؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

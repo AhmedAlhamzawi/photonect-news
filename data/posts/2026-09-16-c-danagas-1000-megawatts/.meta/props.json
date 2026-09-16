@@ -1,0 +1,146 @@
+{
+  "dateLabel": "SEP 16 • 2026",
+  "arabicDateLabel": "16 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الكهرباء",
+    "arabicHeadline": "كوردستان تفقد نحو 1000 ميغاواط.. وسبب خفض الغاز لم يُعلن",
+    "englishSubhead": "ERBIL · SEP 16 | KRG ELECTRICITY MINISTRY: UAE'S DANA GAS CUT GAS SUPPLY TO POWER PLANTS — ABOUT 1000 MW OF GENERATION LOST; CUT 'DIRECTLY' HIT SUPPLY HOURS (964); NO REASON GIVEN, NO COMPANY STATEMENT YET (SHAFAQ, RUDAW) | DANA GAS SAYS KHOR MOR GAS FUELS >75% OF KURDISTAN GENERATION CAPACITY; JULY ATTACK HALTED OUTPUT, ~2500 MW DROP (RUDAW)",
+    "heroMedia": "images/news/2026-09-16-c-danagas-1000-megawatts/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الخسارة",
+      "arabicHeading": "الوزارة: فقدنا نحو 1000 ميغاواط",
+      "arabicBody": "وزارة الكهرباء في الإقليم أعلنت فقدان نحو 1000 ميغاواط بعد خفض دانة غاز الإماراتية كميات الغاز للمحطات، وقالت إن ساعات التجهيز تأثرت مباشرة.",
+      "bigStat": {
+        "value": "1000",
+        "label": "Megawatts of generation lost in Kurdistan Region after Dana Gas cut supply, per KRG Electricity Ministry",
+        "arabicLabel": "ميغاواط فقدتها منظومة كهرباء إقليم كوردستان بعد خفض شركة دانة غاز الإماراتية إمدادات الغاز، بحسب وزارة الكهرباء في الإقليم (شبكة 964 · شفق نيوز · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "المفقود",
+          "value": "1000 ميغاواط"
+        },
+        {
+          "label": "الشركة",
+          "value": "دانة غاز"
+        },
+        {
+          "label": "الأثر",
+          "value": "ساعات التجهيز"
+        }
+      ],
+      "broll": "images/news/2026-09-16-c-danagas-1000-megawatts/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-16-c-danagas-1000-megawatts/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "دانة غاز تخفض الغاز",
+        "نحو 1000 ميغاواط",
+        "وساعات التجهيز تتأثر"
+      ]
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "السبب؟ الوزارة ما ذكرته",
+      "arabicBody": "الوزارة قالت إنها تتواصل مع الشركة ووزارة الثروات الطبيعية لإعادة الضخ، ولم تذكر أسباب الخفض، ولا توضيح من الشركة بعد (شفق نيوز · رووداو).",
+      "bigStat": {
+        "value": "3",
+        "label": "Main plants run on Khor Mor gas — Erbil, Bazian, Chamchamal — per Rudaw",
+        "arabicLabel": "محطات رئيسية (أربيل وبازيان وجمجمال) تعمل بغاز حقل خور مور، بحسب رووداو"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسباب",
+          "value": "لم تُذكر"
+        },
+        {
+          "label": "الشركة",
+          "value": "لا توضيح بعد"
+        },
+        {
+          "label": "المحطات",
+          "value": "أربيل · بازيان · جمجمال"
+        }
+      ],
+      "broll": "images/news/2026-09-16-c-danagas-1000-megawatts/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-16-c-danagas-1000-megawatts/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "الأسباب لم تُذكر",
+        "تواصل مع الشركة",
+        "لإعادة الضخ"
+      ]
+    },
+    {
+      "label": "خور مور",
+      "arabicHeading": "خور مور: أكثر من 75% من التوليد",
+      "arabicBody": "بحسب دانة غاز، يشغّل غاز خور مور أكثر من 75% من التوليد بالإقليم. وتوقف إنتاجه في تموز الماضي إثر هجوم، فانخفض التوليد نحو 2500 ميغاواط (رووداو).",
+      "bigStat": {
+        "value": "75%",
+        "label": "Share of Kurdistan Region generation capacity fuelled by Khor Mor gas, per Dana Gas via Rudaw",
+        "arabicLabel": "من قدرة توليد الكهرباء في إقليم كوردستان يشغّلها غاز حقل خور مور، بحسب شركة دانة غاز كما نقلت رووداو"
+      },
+      "supportingStats": [
+        {
+          "label": "خور مور",
+          "value": "+75% من التوليد"
+        },
+        {
+          "label": "تموز",
+          "value": "نحو 2500 ميغاواط"
+        },
+        {
+          "label": "اليوم",
+          "value": "نحو 1000 ميغاواط"
+        }
+      ],
+      "broll": "images/news/2026-09-16-c-danagas-1000-megawatts/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-16-c-danagas-1000-megawatts/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "خور مور يشغّل أكثر من 75%",
+        "تموز الماضي: هجوم وتوقف الإنتاج",
+        "وانخفاض نحو 2500 ميغاواط حينها"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "كهرباء كوردستان: خفض دانة غاز الإماراتية إمدادات الغاز يفقد المنظومة نحو 1000 ميغاواط (شبكة 964 · شفق نيوز · رووداو)",
+    "الوزارة: التنسيق جارٍ مع وزارة الثروات الطبيعية والتواصل مع الشركة لإعادة الضخ — ولم تذكر الأسباب",
+    "دانة غاز: غاز خور مور يوفر الوقود لأكثر من 75% من قدرة التوليد في الإقليم (رووداو)",
+    "كم ساعة كهرباء وصلتكم اليوم؟"
+  ],
+  "endQuestion": "كم ساعة كهرباء وصلتكم اليوم؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}
