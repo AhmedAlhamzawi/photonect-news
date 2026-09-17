@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-b-dollar-158850-159000",
+  "date": "2026-09-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 773894,
+      "sha256": "9cea36bc91fab9c0"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 519218,
+      "sha256": "006275da7d3b8a93"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1650204,
+      "sha256": "5ef711277b0882a0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 975317,
+      "sha256": "c16c3fd08ae6ef94"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-c-hormuz-45-billion",
+  "date": "2026-09-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 645676,
+      "sha256": "1c240b62c5b24705"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 749233,
+      "sha256": "a44806419345cf92"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1366037,
+      "sha256": "4def503483c47b36"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 941121,
+      "sha256": "362f420847fbf0d7"
+    }
+  ]
+}

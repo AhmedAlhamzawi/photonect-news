@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-e-basra-crude-minus-8",
+  "date": "2026-09-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 482612,
+      "sha256": "166b22994e5f3f9d"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 890447,
+      "sha256": "e8e5e81b56dd15c2"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 729533,
+      "sha256": "8b207cdcbc2eb669"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 908881,
+      "sha256": "a66dcfc6f39fafdc"
+    }
+  ]
+}

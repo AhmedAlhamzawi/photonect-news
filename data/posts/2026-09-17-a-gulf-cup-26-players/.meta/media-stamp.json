@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-a-gulf-cup-26-players",
+  "date": "2026-09-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 451812,
+      "sha256": "d12c6598339c25db"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 501505,
+      "sha256": "cc8cf960b5c86195"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 434755,
+      "sha256": "1c39915b344364b1"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1199738,
+      "sha256": "7b9f4d94e1a57f5a"
+    }
+  ]
+}

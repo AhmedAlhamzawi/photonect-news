@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 17 • 2026",
+  "arabicDateLabel": "17 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "هرمز",
+    "arabicHeadline": "3 سفن بس عبرت هرمز.. وكم خسر العراق؟",
+    "englishSubhead": "HORMUZ · SEP 16-17 | KPLER SHIP-TRACKING (VIA SHAFAQ/REUTERS): ONLY 3 CARGO VESSELS CROSSED HORMUZ ON WED VS 12 ON TUE AND A ~17 10-DAY AVERAGE; FIGURES EXCLUDE SHIPS WITH TRANSPONDERS OFF | FORMER MINISTER & ENERGY ACADEMIC LUAY AL-KHATIB TO RUDAW: PER MARKET ESTIMATES IRAQ LOST UP TO $45BN OIL REVENUE IN THE CRISIS'S FIRST SIX MONTHS; TRANSPORT & INSURANCE COSTS UP MORE THAN FIVEFOLD; SOMO DISCOUNTS MAY REACH 30%; WARNS OF WIDER DEFICIT, INFLATION, WEAKER DINAR",
+    "heroMedia": "images/news/2026-09-17-c-hormuz-45-billion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الممر",
+      "arabicHeading": "هرمز: 3 سفن بس يوم الأربعاء",
+      "arabicBody": "بيانات أولية من كبلر: 3 سفن شحن عبرت هرمز الأربعاء مقابل 12 الثلاثاء ومتوسط نحو 17، ولا تشمل سفناً ربما عبرت بأجهزة إرسال مطفأة (شفق نيوز).",
+      "bigStat": {
+        "value": "3",
+        "label": "Cargo ships that crossed Hormuz on Wednesday, vs 12 Tuesday and a ~17 ten-day average — Kpler data via Shafaq",
+        "arabicLabel": "سفن شحن فقط عبرت مضيق هرمز يوم الأربعاء، مقابل 12 يوم الثلاثاء ومتوسط نحو 17 سفينة خلال الأيام العشرة الماضية، بحسب بيانات كبلر (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأربعاء",
+          "value": "3 سفن"
+        },
+        {
+          "label": "الثلاثاء",
+          "value": "12 سفينة"
+        },
+        {
+          "label": "متوسط 10 أيام",
+          "value": "نحو 17"
+        }
+      ],
+      "broll": "images/news/2026-09-17-c-hormuz-45-billion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-17-c-hormuz-45-billion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "3 سفن فقط أمس",
+        "مقابل 12 الثلاثاء",
+        "ومتوسط نحو 17"
+      ]
+    },
+    {
+      "label": "الخسارة",
+      "arabicHeading": "خسارة تصل 45 مليار دولار.. حسب تقديرات الأسواق",
+      "arabicBody": "لؤي الخطيب، الوزير الأسبق المتخصص بالطاقة، قال لرووداو إن العراق خسر حسب تقديرات الأسواق إيرادات نفطية تصل إلى 45 مليار دولار بأول 6 أشهر من الأزمة.",
+      "bigStat": {
+        "value": "$45B",
+        "label": "Iraqi oil revenue lost in the crisis's first six months, per market estimates cited by Luay al-Khatib (Rudaw)",
+        "arabicLabel": "مليار دولار إيرادات نفطية خسرها العراق في أول ستة أشهر من أزمة هرمز حسب تقديرات الأسواق، بحسب الوزير الأسبق لؤي الخطيب (رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخسارة",
+          "value": "حتى 45 مليار $"
+        },
+        {
+          "label": "المدة",
+          "value": "أول 6 أشهر"
+        },
+        {
+          "label": "المصدر",
+          "value": "تقديرات الأسواق"
+        }
+      ],
+      "broll": "images/news/2026-09-17-c-hormuz-45-billion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-17-c-hormuz-45-billion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "إيرادات نفطية",
+        "تصل إلى 45 مليار دولار",
+        "بأول 6 أشهر من الأزمة"
+      ]
+    },
+    {
+      "label": "الكلفة",
+      "arabicHeading": "النقل والتأمين: أكثر من 5 أضعاف",
+      "arabicBody": "الخطيب قال إن كلفة النقل والتأمين تضاعفت لأكثر من 5 أضعاف، وخصومات سومو قد تصل 30%، محذراً من عجز وتضخم وتراجع الدينار (رووداو).",
+      "bigStat": {
+        "value": "30%",
+        "label": "Possible SOMO discount off world market price to cover transport and insurance, per al-Khatib (Rudaw)",
+        "arabicLabel": "من سعر السوق العالمي قد تصل إليها خصومات سومو للمشترين لتغطية كلفة النقل والتأمين، بحسب لؤي الخطيب (رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "النقل والتأمين",
+          "value": "+5 أضعاف"
+        },
+        {
+          "label": "خصم سومو",
+          "value": "حتى 30%"
+        },
+        {
+          "label": "التحذير",
+          "value": "عجز وتضخم"
+        }
+      ],
+      "broll": "images/news/2026-09-17-c-hormuz-45-billion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-17-c-hormuz-45-billion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "النقل والتأمين أكثر من 5 أضعاف",
+        "خصومات سومو حتى 30%",
+        "وتحذير من العجز والتضخم"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "كبلر عبر شفق نيوز: 3 سفن شحن فقط عبرت مضيق هرمز الأربعاء مقابل 12 الثلاثاء — والأرقام لا تشمل سفناً ربما عبرت بأجهزة إرسال مطفأة",
+    "لؤي الخطيب لرووداو: العراق خسر حسب تقديرات الأسواق إيرادات نفطية تصل إلى 45 مليار دولار بأول 6 أشهر من الأزمة",
+    "الخطيب: كلفة النقل والتأمين تضاعفت لأكثر من 5 أضعاف وخصومات سومو قد تصل إلى 30% من سعر السوق",
+    "تتابع أخبار مضيق هرمز؟"
+  ],
+  "endQuestion": "تتابع أخبار مضيق هرمز؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 17 • 2026",
+  "arabicDateLabel": "17 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار بمحلات بغداد يتخطى 159 ألفاً.. ليش صاعد؟",
+    "englishSubhead": "BAGHDAD · SEP 17 | SHAFAQ: KIFAH & HARITHIYA BOURSES 158,850 IQD PER $100 THU MORNING VS 157,250 WED (+1,600, COMPUTED WITHIN SHAFAQ'S OWN SERIES); BAGHDAD EXCHANGE SHOPS SELL 159,250 / BUY 158,250; ERBIL SELL 158,500 / BUY 158,400 | 964: BAGHDAD SELLING RATE 159,000; CBI OFFICIAL RATE 131,000 | ECONOMIST ALI DAADOUSH (SHAFAQ): POLITICIANS' STATEMENTS, UNCERTAINTY, SPECULATION, LOWER DOLLAR SUPPLY, DELAYED IMPORT TRANSFERS; PASSES INTO IMPORTED-GOODS PRICES",
+    "heroMedia": "images/news/2026-09-17-b-dollar-158850-159000/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة تصعد: 158,850 لكل 100 دولار",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا صباح الخميس 158,850 ديناراً لكل 100 دولار، مقابل 157,250 الأربعاء (شفق نيوز). وسعر البيع ببغداد 159,000 بحسب شبكة 964.",
+      "bigStat": {
+        "value": "+1,600",
+        "label": "Dinars rise per $100 in Baghdad bourses, Thu morning vs Wed — computed within Shafaq's own figures",
+        "arabicLabel": "دينار ارتفاع سعر كل 100 دولار في بورصتي بغداد صباح الخميس عن الأربعاء (محتسب من أرقام شفق نيوز نفسها: 158,850 مقابل 157,250)"
+      },
+      "supportingStats": [
+        {
+          "label": "أمس",
+          "value": "157,250"
+        },
+        {
+          "label": "اليوم",
+          "value": "158,850"
+        },
+        {
+          "label": "964: البيع",
+          "value": "159,000"
+        }
+      ],
+      "broll": "images/news/2026-09-17-b-dollar-158850-159000/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-17-b-dollar-158850-159000/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "بورصتا الكفاح والحارثية",
+        "158,850 لكل 100 دولار",
+        "أمس كان 157,250"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "محلات بغداد تبيع المية بـ159,250",
+      "arabicBody": "محال الصيرفة ببغداد باعت 100 دولار بـ159,250 واشترت بـ158,250. وفي أربيل البيع 158,500 والشراء 158,400 (شفق نيوز). والسعر الرسمي 131,000 (شبكة 964).",
+      "bigStat": {
+        "value": "159,250",
+        "label": "Selling price per $100 at Baghdad exchange shops Thursday morning, per Shafaq",
+        "arabicLabel": "دينار سعر بيع كل 100 دولار في محال الصيرفة ببغداد صباح الخميس، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد شراء",
+          "value": "158,250"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "158,500"
+        },
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        }
+      ],
+      "broll": "images/news/2026-09-17-b-dollar-158850-159000/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-17-b-dollar-158850-159000/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "البيع 159,250",
+        "الشراء 158,250",
+        "والرسمي 131,000"
+      ]
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "دعدوش: تصريحات ومضاربة.. والأثر على المستورد",
+      "arabicBody": "الخبير الاقتصادي علي دعدوش قال لشفق نيوز إن تصريحات بعض السياسيين والمضاربة وتراجع المعروض الدولاري وراء الارتفاع، وإنه ينعكس على أسعار السلع المستوردة.",
+      "bigStat": {
+        "value": "131,000",
+        "label": "CBI official rate in dinars per $100, per 964",
+        "arabicLabel": "دينار السعر الرسمي لكل 100 دولار المقرر من البنك المركزي العراقي، بحسب شبكة 964"
+      },
+      "supportingStats": [
+        {
+          "label": "السبب 1",
+          "value": "تصريحات سياسيين"
+        },
+        {
+          "label": "السبب 2",
+          "value": "المضاربة"
+        },
+        {
+          "label": "الأثر",
+          "value": "أسعار المستورد"
+        }
+      ],
+      "broll": "images/news/2026-09-17-b-dollar-158850-159000/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-17-b-dollar-158850-159000/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "تصريحات بعض السياسيين",
+        "والمضاربة وتراجع المعروض",
+        "والأثر على أسعار السلع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 158,850 ديناراً لكل 100 دولار صباح الخميس مقابل 157,250 الأربعاء (شفق نيوز)",
+    "محال الصيرفة ببغداد: البيع 159,250 والشراء 158,250 — أربيل: البيع 158,500 والشراء 158,400 (شفق نيوز)",
+    "شبكة 964: سعر البيع ببغداد 159,000 — والسعر الرسمي 131,000 لكل 100 دولار",
+    "الخبير علي دعدوش: تصريحات بعض السياسيين وعدم اليقين والمضاربة وراء الارتفاع (شفق نيوز)",
+    "بكم اشتريت آخر مية دولار؟"
+  ],
+  "endQuestion": "بكم اشتريت آخر مية دولار؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

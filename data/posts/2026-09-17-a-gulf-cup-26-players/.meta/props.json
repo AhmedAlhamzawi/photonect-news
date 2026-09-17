@@ -1,0 +1,146 @@
+{
+  "dateLabel": "SEP 17 • 2026",
+  "arabicDateLabel": "17 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "region_sport",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "خليجي 27",
+    "arabicHeadline": "قائمة خليجي 27 نزلت.. أيمن حسين يقود وجلال حسن غائب",
+    "englishSubhead": "BAGHDAD · SEP 16 | IRAQ FA NAMES 26-MAN SQUAD FOR 27TH GULF CUP IN SAUDI ARABIA, LED BY STRIKER AYMEN HUSSEIN; GOALKEEPER JALAL HASSAN ABSENT (964) | TOURNAMENT 23 SEP - 6 OCT IN JEDDAH; IRAQ IN GROUP A WITH SAUDI ARABIA, OMAN, KUWAIT (ASHARQ SPORTS) | COACH GRAHAM ARNOLD: 'WE ARE GOING TO WIN THE TITLE'; HUSSEIN ALI OUT, NEEDS SURGERY (AL-MADA)",
+    "heroMedia": "images/news/2026-09-17-a-gulf-cup-26-players/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القائمة",
+      "arabicHeading": "26 لاعباً.. وجلال حسن خارج القائمة",
+      "arabicBody": "الاتحاد العراقي أعلن 26 لاعباً لخليجي 27 بقيادة المهاجم أيمن حسين، وشبكة 964 رصدت غياب الحارس جلال حسن عن القائمة.",
+      "bigStat": {
+        "value": "26",
+        "label": "Players in Iraq's Gulf Cup 27 squad, led by striker Aymen Hussein, per Al-Mada",
+        "arabicLabel": "لاعباً في قائمة المنتخب العراقي لبطولة خليجي 27 بقيادة المهاجم أيمن حسين، بحسب المدى"
+      },
+      "supportingStats": [
+        {
+          "label": "القائد",
+          "value": "أيمن حسين"
+        },
+        {
+          "label": "الغائب",
+          "value": "جلال حسن"
+        },
+        {
+          "label": "الحراس",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-09-17-a-gulf-cup-26-players/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-17-a-gulf-cup-26-players/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "قائمة من 26 لاعباً",
+        "بقيادة أيمن حسين",
+        "وغياب جلال حسن"
+      ]
+    },
+    {
+      "label": "المجموعة",
+      "arabicHeading": "بمجموعة العراق: السعودية وعُمان والكويت",
+      "arabicBody": "البطولة في جدة من 23 أيلول إلى 6 تشرين الأول، والعراق بالمجموعة الأولى مع السعودية وعُمان والكويت (الشرق رياضة).",
+      "bigStat": {
+        "value": "23",
+        "label": "September 23 — Gulf Cup 27 kicks off in Jeddah, runs to October 6, per Asharq Sports",
+        "arabicLabel": "أيلول موعد انطلاق خليجي 27 في جدة، وتستمر البطولة حتى 6 تشرين الأول، بحسب الشرق رياضة"
+      },
+      "supportingStats": [
+        {
+          "label": "المدينة",
+          "value": "جدة"
+        },
+        {
+          "label": "الانطلاق",
+          "value": "23 أيلول"
+        },
+        {
+          "label": "الختام",
+          "value": "6 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-09-17-a-gulf-cup-26-players/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-17-a-gulf-cup-26-players/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "جدة من 23 أيلول",
+        "إلى 6 تشرين الأول",
+        "السعودية وعُمان والكويت"
+      ]
+    },
+    {
+      "label": "المدرب",
+      "arabicHeading": "أرنولد: «نحن ذاهبون للفوز بالبطولة»",
+      "arabicBody": "أرنولد قال إنه لم يدرب فريقاً «من أجل الظهور فقط»، وإن حسين علي خرج من الحسابات لإصابة تحتاج عملية جراحية (المدى).",
+      "bigStat": {
+        "value": "35",
+        "label": "Players in the preliminary list registered about a month ago, per coach Graham Arnold (Al-Mada)",
+        "arabicLabel": "لاعباً في القائمة الأولية التي سُجلت قبل نحو شهر وفق تعليمات البطولة، بحسب المدرب غراهام أرنولد (المدى)"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "اللقب"
+        },
+        {
+          "label": "المصاب",
+          "value": "حسين علي"
+        },
+        {
+          "label": "القائمة الأولية",
+          "value": "35 لاعباً"
+        }
+      ],
+      "broll": "images/news/2026-09-17-a-gulf-cup-26-players/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-17-a-gulf-cup-26-players/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Wikimedia Commons",
+      "subtitlePhrases": [
+        "نحن ذاهبون للفوز بالبطولة",
+        "حسين علي خارج الحسابات",
+        "إصابة تحتاج عملية جراحية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الاتحاد العراقي يعلن قائمة من 26 لاعباً لخليجي 27 بقيادة أيمن حسين وغياب الحارس جلال حسن (شبكة 964)",
+    "البطولة في جدة من 23 أيلول إلى 6 تشرين الأول — العراق بالمجموعة الأولى مع السعودية وعُمان والكويت (الشرق رياضة)",
+    "أرنولد: نحن ذاهبون للفوز بالبطولة — وحسين علي خارج الحسابات بسبب الإصابة (المدى)",
+    "راح تتابع مباريات المنتخب بكأس الخليج؟"
+  ],
+  "endQuestion": "راح تتابع مباريات المنتخب بكأس الخليج؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "الشرق رياضة",
+      "domain": "sports.asharq.com"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

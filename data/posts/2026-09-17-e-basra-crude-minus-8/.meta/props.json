@@ -1,0 +1,146 @@
+{
+  "dateLabel": "SEP 17 • 2026",
+  "arabicDateLabel": "17 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo_economy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "النفط",
+    "arabicHeadline": "خام البصرة نزل 8 دولارات.. وبكم تحسب موازنة 2027 البرميل؟",
+    "englishSubhead": "SEP 16-17 | SHAFAQ: BASRA HEAVY $94.57 (-$8, -7.80%), BASRA MEDIUM $97.87 (-7.56%) THURSDAY; OPEC BASKET $124.63 (+1.52) | REUTERS VIA 964: BRENT FUTURES -$1.24 TO $104.59 AT 00:49 GMT AFTER SOURCES SAID SAUDI ARABIA OFFERS EXTRA CRUDE VIA SHIP-TO-SHIP TRANSFERS OFF SOHAR, OMAN, EASING FEARS AFTER EAST-WEST PIPELINE ATTACKS | PARLIAMENT FINANCE COMMITTEE MEMBER JAMAL KOJAR (BAGHDAD TODAY): IRAQ EXPECTED TO PRICE 2027 BUDGET BARREL AT $53-56; KUWAIT USED $57; GOVT MAY CONSIDER $60-70",
+    "heroMedia": "images/news/2026-09-17-e-basra-crude-minus-8/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البصرة",
+      "arabicHeading": "البصرة الثقيل ينزل إلى 94.57 دولاراً",
+      "arabicBody": "شفق نيوز: خام البصرة الثقيل سجل 94.57 دولاراً للبرميل منخفضاً 8 دولارات بنسبة 7.80%، والمتوسط 97.87 دولاراً متراجعاً بالمقدار نفسه بنسبة 7.56%.",
+      "bigStat": {
+        "value": "-7.80%",
+        "label": "Basra Heavy's drop to $94.57 a barrel on Thursday, per Shafaq",
+        "arabicLabel": "نسبة تراجع خام البصرة الثقيل إلى 94.57 دولاراً للبرميل يوم الخميس، بحسب شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "الثقيل",
+          "value": "94.57 $"
+        },
+        {
+          "label": "المتوسط",
+          "value": "97.87 $"
+        },
+        {
+          "label": "التراجع",
+          "value": "8 دولارات"
+        }
+      ],
+      "broll": "images/news/2026-09-17-e-basra-crude-minus-8/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-17-e-basra-crude-minus-8/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "البصرة الثقيل 94.57",
+        "والمتوسط 97.87",
+        "تراجع 8 دولارات"
+      ]
+    },
+    {
+      "label": "السعودية",
+      "arabicHeading": "رويترز: شحنات سعودية عبر عُمان.. وبرنت ينزل",
+      "arabicBody": "رويترز نقلت عن مصادر أن السعودية تطرح شحنات إضافية عبر النقل من سفينة لأخرى قبالة صحار في عُمان، وبرنت نزل 1.24 دولار إلى 104.59 (شبكة 964).",
+      "bigStat": {
+        "value": "104.59",
+        "label": "Brent futures, $ a barrel, down $1.24 at 00:49 GMT Thursday — Reuters via 964",
+        "arabicLabel": "دولاراً سعر العقود الآجلة لخام برنت بعد تراجعه 1.24 دولار صباح الخميس، بحسب رويترز كما نقلت شبكة 964"
+      },
+      "supportingStats": [
+        {
+          "label": "برنت",
+          "value": "104.59 $"
+        },
+        {
+          "label": "التراجع",
+          "value": "1.24 $"
+        },
+        {
+          "label": "الممر",
+          "value": "صحار · عُمان"
+        }
+      ],
+      "broll": "images/news/2026-09-17-e-basra-crude-minus-8/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-17-e-basra-crude-minus-8/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "شحنات سعودية إضافية",
+        "عبر صحار في عُمان",
+        "وبرنت 104.59"
+      ]
+    },
+    {
+      "label": "الموازنة",
+      "arabicHeading": "كوجر: برميل موازنة 2027 بين 53 و56",
+      "arabicBody": "عضو اللجنة المالية النيابية جمال كوجر قال لبغداد اليوم إن المتوقع احتساب البرميل بموازنة 2027 بين 53 و56 دولاراً، وقد تفكر الحكومة بين 60 و70.",
+      "bigStat": {
+        "value": "53-56",
+        "label": "Expected 2027 budget oil price range, $ a barrel, per finance committee member Jamal Kojar (Baghdad Today)",
+        "arabicLabel": "دولاراً للبرميل النطاق المتوقع لاحتساب سعر النفط في موازنة 2027، بحسب عضو اللجنة المالية النيابية جمال كوجر (بغداد اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "المتوقع",
+          "value": "53-56 $"
+        },
+        {
+          "label": "الكويت",
+          "value": "57 $"
+        },
+        {
+          "label": "خيار الحكومة",
+          "value": "60-70 $"
+        }
+      ],
+      "broll": "images/news/2026-09-17-e-basra-crude-minus-8/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-17-e-basra-crude-minus-8/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "موازنة 2027",
+        "البرميل بين 53 و56",
+        "وقد تفكر الحكومة بـ60-70"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: خام البصرة الثقيل 94.57 دولاراً (-7.80%) والمتوسط 97.87 دولاراً (-7.56%)",
+    "رويترز: السعودية تطرح شحنات خام إضافية عبر النقل من سفينة إلى أخرى قبالة صحار في عُمان — برنت 104.59 دولاراً (شبكة 964)",
+    "جمال كوجر لبغداد اليوم: سعر البرميل المتوقع في موازنة 2027 بين 53 و56 دولاراً — والكويت بنت موازنتها على 57",
+    "تشتغل بقطاع النفط؟"
+  ],
+  "endQuestion": "تشتغل بقطاع النفط؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

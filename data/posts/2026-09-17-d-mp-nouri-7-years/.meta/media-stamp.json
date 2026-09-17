@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-d-mp-nouri-7-years",
+  "date": "2026-09-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 592826,
+      "sha256": "86a8863bf6b331ad"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1548239,
+      "sha256": "9d80f020222fe077"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 552142,
+      "sha256": "dc2b3e68c5e58937"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1085694,
+      "sha256": "0ecd40cdad2de25e"
+    }
+  ]
+}

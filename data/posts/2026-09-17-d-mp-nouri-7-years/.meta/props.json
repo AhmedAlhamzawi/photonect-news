@@ -1,0 +1,150 @@
+{
+  "dateLabel": "SEP 17 • 2026",
+  "arabicDateLabel": "17 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "النزاهة: سجن نائب 7 سنوات.. وأكثر من 40 مليار دينار",
+    "englishSubhead": "BAGHDAD · SEP 16 | FEDERAL INTEGRITY COMMISSION: CENTRAL ANTI-CORRUPTION FELONY COURT SENTENCES MP BAHAA AL-NOURI (BAHAA AL-DIN NOOR MOHAMMED HUSSEIN) TO 7 YEARS FOR ILLICIT GAIN, ART. 19/II, LAW 30 OF 2011 | ORDERED TO REPAY IQD 5,887,850,000 AND $10,990,787 PLUS AN EQUAL FINE — OVER IQD 40BN IN TOTAL | SEPARATE 3-YEAR SENTENCE FOR HIDING INFORMATION IN FINANCIAL DISCLOSURE; HARSHER PENALTY APPLIED; ASSET SEIZURE UPHELD (SHAFAQ, 964, BAGHDAD TODAY, RUDAW)",
+    "heroMedia": "images/news/2026-09-17-d-mp-nouri-7-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحكم",
+      "arabicHeading": "السجن 7 سنوات للنائب بهاء النوري",
+      "arabicBody": "هيئة النزاهة أعلنت أن محكمة جنايات مكافحة الفساد المركزية حكمت بسجن النائب بهاء النوري 7 سنوات عن جريمة الكسب غير المشروع (شفق نيوز · شبكة 964).",
+      "bigStat": {
+        "value": "7",
+        "label": "Years in prison for MP Bahaa al-Nouri for illicit gain, per the Integrity Commission (Shafaq, 964)",
+        "arabicLabel": "سنوات سجن للنائب بهاء النوري عن جريمة الكسب غير المشروع، بقرار محكمة جنايات مكافحة الفساد المركزية كما أعلنت هيئة النزاهة (شفق نيوز · شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "المحكمة",
+          "value": "مكافحة الفساد"
+        },
+        {
+          "label": "التهمة",
+          "value": "كسب غير مشروع"
+        },
+        {
+          "label": "المادة",
+          "value": "19/ثانياً"
+        }
+      ],
+      "broll": "images/news/2026-09-17-d-mp-nouri-7-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-17-d-mp-nouri-7-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "محكمة مكافحة الفساد",
+        "السجن 7 سنوات",
+        "عن الكسب غير المشروع"
+      ]
+    },
+    {
+      "label": "المبالغ",
+      "arabicHeading": "ردّ مليارات الدنانير وملايين الدولارات.. وغرامة تعادلها",
+      "arabicBody": "المحكمة ألزمته برد 5,887,850,000 دينار و10,990,787 دولاراً قيمة الكسب غير المشروع، مع غرامة تعادلها، بحسب بيان هيئة النزاهة.",
+      "bigStat": {
+        "value": "+40",
+        "label": "Billion dinars: illicit gain to be repaid plus an equal fine, per the Integrity Commission",
+        "arabicLabel": "مليار دينار: مجموع قيمة الكسب غير المشروع الواجب ردها والغرامة المالية التي تعادلها، بحسب هيئة النزاهة"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار",
+          "value": "5,887,850,000"
+        },
+        {
+          "label": "بالدولار",
+          "value": "10,990,787"
+        },
+        {
+          "label": "الغرامة",
+          "value": "تعادل القيمة"
+        }
+      ],
+      "broll": "images/news/2026-09-17-d-mp-nouri-7-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-17-d-mp-nouri-7-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "5,887,850,000 دينار",
+        "و10,990,787 دولاراً",
+        "وغرامة تعادلها"
+      ]
+    },
+    {
+      "label": "الذمة",
+      "arabicHeading": "و3 سنوات حبس شديد لإخفاء معلومات الذمة المالية",
+      "arabicBody": "المحكمة أصدرت حكماً آخر بالحبس الشديد 3 سنوات لإخفائه معلومات في استمارة الذمة المالية، وطبقت العقوبة الأشد وأيدت الحجز على أمواله (بغداد اليوم · رووداو).",
+      "bigStat": {
+        "value": "3",
+        "label": "Years' strict imprisonment for hiding information in his financial disclosure; the harsher 7-year term applies (Integrity Commission)",
+        "arabicLabel": "سنوات حبس شديد في حكم ثانٍ لإخفاء معلومات في استمارة الذمة المالية، مع تطبيق العقوبة الأشد، بحسب هيئة النزاهة (بغداد اليوم · رووداو)"
+      },
+      "supportingStats": [
+        {
+          "label": "الحكم الثاني",
+          "value": "3 سنوات"
+        },
+        {
+          "label": "المطبق",
+          "value": "العقوبة الأشد"
+        },
+        {
+          "label": "الأموال",
+          "value": "الحجز مؤيد"
+        }
+      ],
+      "broll": "images/news/2026-09-17-d-mp-nouri-7-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-17-d-mp-nouri-7-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#4CC9F0",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "حبس شديد 3 سنوات",
+        "إخفاء معلومات الذمة المالية",
+        "والحجز على أمواله"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: السجن 7 سنوات للنائب بهاء النوري عن جريمة الكسب غير المشروع (شفق نيوز · شبكة 964)",
+    "إلزامه برد 5,887,850,000 دينار و10,990,787 دولاراً مع غرامة تعادلها — أكثر من 40 مليار دينار",
+    "حكم ثانٍ بالحبس الشديد 3 سنوات لإخفاء معلومات في استمارة الذمة المالية وتطبيق العقوبة الأشد (بغداد اليوم · رووداو)",
+    "تتابع أحكام قضايا الفساد؟"
+  ],
+  "endQuestion": "تتابع أحكام قضايا الفساد؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}
