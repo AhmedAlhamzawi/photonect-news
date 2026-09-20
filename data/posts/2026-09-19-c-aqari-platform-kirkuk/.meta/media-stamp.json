@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-19-c-aqari-platform-kirkuk",
+  "date": "2026-09-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1276558,
+      "sha256": "17a3d44647b9ab52"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 987901,
+      "sha256": "14cb9276c906c529"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 783426,
+      "sha256": "8533f601ed71289e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 427986,
+      "sha256": "8c9eadadb4df946e"
+    }
+  ]
+}

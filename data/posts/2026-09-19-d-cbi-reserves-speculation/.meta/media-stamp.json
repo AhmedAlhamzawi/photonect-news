@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-19-d-cbi-reserves-speculation",
+  "date": "2026-09-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 566187,
+      "sha256": "fb9ea8a3151dda90"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 908048,
+      "sha256": "b8e4070944af383e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 468590,
+      "sha256": "43510a46652166f5"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 947330,
+      "sha256": "aaef8ae14df31833"
+    }
+  ]
+}

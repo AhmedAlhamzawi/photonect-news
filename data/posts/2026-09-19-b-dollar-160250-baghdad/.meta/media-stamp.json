@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-19-b-dollar-160250-baghdad",
+  "date": "2026-09-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 918417,
+      "sha256": "94339d3615f67133"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1367114,
+      "sha256": "46efce83e25c98a0"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 727029,
+      "sha256": "530d891fcc809207"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 471518,
+      "sha256": "29b42ceb7d397c71"
+    }
+  ]
+}

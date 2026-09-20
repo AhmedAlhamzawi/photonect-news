@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 19 • 2026",
+  "arabicDateLabel": "19 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نزاهة",
+    "arabicHeadline": "النزاهة: ختم مزوّر على وصل كهرباء.. وتوقيف اثنين بالنجف",
+    "englishSubhead": "NAJAF · SEP 19 | 964 (12:32): FEDERAL INTEGRITY COMMISSION DETAINS TWO AT NAJAF ELECTRICITY DISTRIBUTION DIRECTORATE — AN EMPLOYEE AND A COLLECTOR (جابٍ) | ACCUSED OF TAKING MONEY FROM CITIZENS WITHOUT DEPOSITING IT TO THE TREASURY AND USING A FORGED STAMP ON COLLECTION RECEIPTS | COMMISSION FILED A SEIZURE REPORT; COURT ORDERED DETENTION PENDING INVESTIGATION — ACCUSATION ONLY, NO CONVICTION ISSUED | NO SUM DISCLOSED",
+    "heroMedia": "images/news/2026-09-19-a-najaf-electricity-graft/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "ضبط موظف وجابٍ في كهرباء النجف",
+      "arabicBody": "هيئة النزاهة الاتحادية أعلنت ضبط موظف وجابٍ في دائرة توزيع كهرباء النجف، بتهمة استحصال أموال من المواطنين دون إيداعها في الخزينة العامة (شبكة 964).",
+      "bigStat": {
+        "value": "2",
+        "label": "Detained at Najaf electricity distribution directorate, per the Federal Integrity Commission",
+        "arabicLabel": "موقوفان في كهرباء النجف (هيئة النزاهة الاتحادية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الموقوفون",
+          "value": "2"
+        },
+        {
+          "label": "الجهة",
+          "value": "النزاهة"
+        },
+        {
+          "label": "الدائرة",
+          "value": "كهرباء النجف"
+        }
+      ],
+      "broll": "images/news/2026-09-19-a-najaf-electricity-graft/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-19-a-najaf-electricity-graft/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "النزاهة تعلن ضبط اثنين",
+        "في دائرة كهرباء النجف",
+        "أموال ما وصلت الخزينة"
+      ]
+    },
+    {
+      "label": "الطريقة",
+      "arabicHeading": "بيان الهيئة: ختم مزوّر على الوصل",
+      "arabicBody": "بحسب بيان الهيئة، استُخدم ختم مزوّر على وصولات القبض لإيهام المواطنين بأن الاستيفاء قانوني، والجابي كان يزوّد الموظف بالوصولات.",
+      "bigStat": {
+        "value": "1",
+        "label": "Forged stamp used on collection receipts to make the charge look official, per the Commission",
+        "arabicLabel": "ختم مزوّر على وصولات القبض (بيان الهيئة)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأداة",
+          "value": "ختم مزوّر"
+        },
+        {
+          "label": "المستند",
+          "value": "وصل قبض"
+        },
+        {
+          "label": "الوجهة",
+          "value": "خارج الخزينة"
+        }
+      ],
+      "broll": "images/news/2026-09-19-a-najaf-electricity-graft/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-19-a-najaf-electricity-graft/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "ختم مزوّر على الوصل",
+        "حتى يبين الاستيفاء قانوني",
+        "والوصولات من الجابي"
+      ]
+    },
+    {
+      "label": "القضاء",
+      "arabicHeading": "توقيف على ذمة التحقيق.. لا إدانة",
+      "arabicBody": "الهيئة نظّمت محضر ضبط أصولياً وعرضته على القضاء، فقرر توقيفهما على ذمة التحقيق. ولم تصدر إدانة بحق أي منهما، ولم يُعلن المبلغ.",
+      "bigStat": {
+        "value": "0",
+        "label": "Convictions issued so far — the court ordered detention pending investigation only",
+        "arabicLabel": "إدانة صدرت حتى الآن — القرار توقيف على ذمة التحقيق فقط"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "توقيف"
+        },
+        {
+          "label": "الإدانات",
+          "value": "0"
+        },
+        {
+          "label": "المبلغ",
+          "value": "لم يُعلن"
+        }
+      ],
+      "broll": "images/news/2026-09-19-a-najaf-electricity-graft/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-19-a-najaf-electricity-graft/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#D72638",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "القضاء قرر التوقيف",
+        "على ذمة التحقيق",
+        "وماكو إدانة لحد الآن"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة الاتحادية: ضبط موظف وجابٍ في دائرة توزيع كهرباء النجف (شبكة 964 — 19 أيلول)",
+    "التهمة: استحصال أموال من المواطنين دون إيداعها في الخزينة العامة",
+    "الهيئة: ختم مزوّر استُخدم على وصولات القبض لإيهام المواطنين بقانونية الاستيفاء",
+    "القضاء قرر توقيفهما على ذمة التحقيق — ولم تصدر إدانة، والمبلغ لم يُعلن"
+  ],
+  "endQuestion": "دفعت فلوس لجابي الكهرباء بوصل بدون ختم رسمي؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    }
+  ]
+}

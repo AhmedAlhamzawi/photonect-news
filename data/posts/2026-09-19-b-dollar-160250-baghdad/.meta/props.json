@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 19 • 2026",
+  "arabicDateLabel": "19 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار كسر 160 ألف ببغداد.. والرسمي بعده 131",
+    "englishSubhead": "BAGHDAD · SEP 19 | 964 (11:36): BAGHDAD EXCHANGE SHOPS SELL 160,250 / BUY 159,250 PER $100; ERBIL SELL 159,450 / BUY 159,000; BASRA SELL 159,500 / BUY 159,000; CBI OFFICIAL RATE 131,000 | SHAFAQ (CLOSE): KIFAH & HARITHIYA BOURSES CLOSED 159,750; BAGHDAD SHOPS SELL 160,250 / BUY 159,250; ERBIL CLOSE SELL 159,400 / BUY 159,300 | VS OUR SEP 17 POST: BAGHDAD SHOPS SELL WAS 159,250 (+1,000 SHOP-SELL TO SHOP-SELL, MORNING TO MORNING, COMPUTED) | GAP TO OFFICIAL 29,250 (COMPUTED)",
+    "heroMedia": "images/news/2026-09-19-b-dollar-160250-baghdad/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "بغداد",
+      "arabicHeading": "محال بغداد تبيع المية بـ160,250",
+      "arabicBody": "محال الصيرفة في بغداد باعت 100 دولار بـ160,250 ديناراً واشترت بـ159,250 (شبكة 964). وبمنشورنا يوم الخميس كان البيع 159,250 — أعلى بألف دينار اليوم.",
+      "bigStat": {
+        "value": "160,250",
+        "label": "Selling price per $100 at Baghdad exchange shops, Saturday, per 964",
+        "arabicLabel": "دينار سعر بيع 100 دولار بمحال بغداد السبت (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخميس",
+          "value": "159,250"
+        },
+        {
+          "label": "اليوم",
+          "value": "160,250"
+        },
+        {
+          "label": "الفرق",
+          "value": "+1,000"
+        }
+      ],
+      "broll": "images/news/2026-09-19-b-dollar-160250-baghdad/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-19-b-dollar-160250-baghdad/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "محال بغداد تبيع المية",
+        "بـ160,250 ديناراً",
+        "أعلى بألف عن الخميس"
+      ]
+    },
+    {
+      "label": "المدن",
+      "arabicHeading": "أربيل 159,450 والبصرة 159,500",
+      "arabicBody": "في أربيل البيع 159,450 والشراء 159,000، وفي البصرة البيع 159,500 والشراء 159,000 (شبكة 964). وبورصتا الكفاح والحارثية أغلقتا على 159,750 (شفق نيوز).",
+      "bigStat": {
+        "value": "159,750",
+        "label": "Closing rate at Baghdad's Kifah and Harithiya bourses per $100, per Shafaq",
+        "arabicLabel": "دينار إغلاق بورصتي الكفاح والحارثية لكل 100 دولار (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل",
+          "value": "159,450"
+        },
+        {
+          "label": "البصرة",
+          "value": "159,500"
+        },
+        {
+          "label": "الإغلاق",
+          "value": "159,750"
+        }
+      ],
+      "broll": "images/news/2026-09-19-b-dollar-160250-baghdad/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-19-b-dollar-160250-baghdad/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "أربيل 159,450",
+        "والبصرة 159,500",
+        "والإغلاق 159,750"
+      ]
+    },
+    {
+      "label": "الفجوة",
+      "arabicHeading": "الرسمي 131 ألف.. والفرق 29,250",
+      "arabicBody": "السعر الرسمي للبنك المركزي 131,000 دينار لكل 100 دولار. الفرق بينه وبين بيع بغداد 29,250 ديناراً على كل 100 دولار — محتسب من رقمَي 964.",
+      "bigStat": {
+        "value": "29,250",
+        "label": "Dinars between the official 131,000 and Baghdad's 160,250 shop-sell per $100 — computed from 964's own two figures",
+        "arabicLabel": "دينار فرق بين الرسمي 131,000 وبيع بغداد 160,250 (محتسب من رقمَي شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        },
+        {
+          "label": "السوق",
+          "value": "160,250"
+        },
+        {
+          "label": "الفرق",
+          "value": "29,250"
+        }
+      ],
+      "broll": "images/news/2026-09-19-b-dollar-160250-baghdad/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-19-b-dollar-160250-baghdad/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "الرسمي 131 ألف",
+        "والسوق 160,250",
+        "الفرق 29,250 بالمية دولار"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "محال الصيرفة ببغداد: البيع 160,250 والشراء 159,250 لكل 100 دولار (شبكة 964 — 19 أيلول)",
+    "أربيل: البيع 159,450 والشراء 159,000 — البصرة: البيع 159,500 والشراء 159,000 (شبكة 964)",
+    "إغلاق بورصتي الكفاح والحارثية 159,750 ديناراً لكل 100 دولار (شفق نيوز)",
+    "السعر الرسمي للبنك المركزي 131,000 دينار لكل 100 دولار — الفرق 29,250 (محتسب)"
+  ],
+  "endQuestion": "بكم بعت أو اشتريت الدولار اليوم؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

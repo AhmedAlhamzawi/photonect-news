@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 19 • 2026",
+  "arabicDateLabel": "19 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عقارات",
+    "arabicHeadline": "مكاتب كركوك تتظاهر: «عقاري» تكشف بيانات البايع والمشتري",
+    "englishSubhead": "KIRKUK · SEP 19 | 964 (13:26): REAL-ESTATE OFFICE OWNERS IN KIRKUK PROTESTED SATURDAY AGAINST THE «عقاري» PROPERTY PLATFORM — THEY SAY IT IS UNSAFE AND LETS COMPANIES REACH BUYERS' AND SELLERS' PERSONAL DATA, AND THAT THE APP IS TOO COMPLEX: «تطبيق معقد والمواطن هو المتضرر الأول» | NO OFFICIAL NAMED IN THE REPORT; NO GOVERNMENT RESPONSE PUBLISHED | BAGHDAD TODAY (JUN 25): PLATFORM APPLIES FROM JUL 1 2026, SALE/PURCHASE NEEDS AN ELECTRONIC LETTER VIA LICENSED OFFICES INCLUDING PROPERTY DETAILS AND SOURCE OF FUNDS, AHEAD OF TITLE TRANSFER AT REAL-ESTATE REGISTRATION DIRECTORATES",
+    "heroMedia": "images/news/2026-09-19-c-aqari-platform-kirkuk/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التظاهرة",
+      "arabicHeading": "مكاتب كركوك تتظاهر ضد «عقاري»",
+      "arabicBody": "أصحاب مكاتب عقارية في كركوك تظاهروا السبت ضد منصة «عقاري» الإلكترونية المخصصة لمعاملات بيع وشراء العقارات (شبكة 964).",
+      "bigStat": {
+        "value": "1",
+        "label": "Protest staged Saturday by Kirkuk real-estate office owners against the «عقاري» platform, per 964",
+        "arabicLabel": "تظاهرة لأصحاب المكاتب العقارية في كركوك السبت (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "كركوك"
+        },
+        {
+          "label": "اليوم",
+          "value": "السبت"
+        },
+        {
+          "label": "الجهة",
+          "value": "مكاتب عقارية"
+        }
+      ],
+      "broll": "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2b2b2b",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "مكاتب كركوك تتظاهر",
+        "ضد منصة «عقاري»",
+        "منصة بيع وشراء العقارات"
+      ]
+    },
+    {
+      "label": "الاتهام",
+      "arabicHeading": "المتظاهرون: غير آمنة وبياناتنا مكشوفة",
+      "arabicBody": "المتظاهرون قالوا إن المنصة غير آمنة وتتيح للشركات الوصول إلى البيانات الشخصية للمشترين والبائعين، ووصفوها بأنها «تطبيق معقد والمواطن هو المتضرر الأول». ولم يُنشر رد حكومي.",
+      "bigStat": {
+        "value": "2",
+        "label": "Groups whose personal data the protesters say is exposed — buyers and sellers (their claim; no official response in the report)",
+        "arabicLabel": "طرفان يقول المتظاهرون إن بياناتهما مكشوفة: المشتري والبائع — اتهامهم، ولا رد حكومي منشور"
+      },
+      "supportingStats": [
+        {
+          "label": "الادعاء",
+          "value": "غير آمنة"
+        },
+        {
+          "label": "المكشوف",
+          "value": "بيانات شخصية"
+        },
+        {
+          "label": "رد حكومي",
+          "value": "لم يُنشر"
+        }
+      ],
+      "broll": "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2b2b2b",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "يقولون المنصة غير آمنة",
+        "وبيانات المشتري والبائع مكشوفة",
+        "وماكو رد حكومي منشور"
+      ]
+    },
+    {
+      "label": "الإلزام",
+      "arabicHeading": "مطبّقة من 1 تموز.. وتسأل مصدر الفلوس",
+      "arabicBody": "المنصة مطبّقة منذ 1 تموز 2026، وإتمام البيع يتطلب مكاتبة إلكترونية عبر مكاتب معتمدة تتضمن بيانات العقار ومصدر الأموال، قبل نقل الملكية بالتسجيل العقاري (بغداد اليوم).",
+      "bigStat": {
+        "value": "1 تموز",
+        "label": "Date the electronic property platform became the required route for sales, per Baghdad Today",
+        "arabicLabel": "2026 بدأ العمل بالمنصة الإلكترونية طريقاً لإتمام البيع والشراء (بغداد اليوم)"
+      },
+      "supportingStats": [
+        {
+          "label": "التطبيق",
+          "value": "1 تموز"
+        },
+        {
+          "label": "المطلوب",
+          "value": "مكاتبة إلكترونية"
+        },
+        {
+          "label": "يُسأل عن",
+          "value": "مصدر الأموال"
+        }
+      ],
+      "broll": "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-19-c-aqari-platform-kirkuk/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#2b2b2b",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "مطبّقة من 1 تموز",
+        "مكاتبة إلكترونية بمكتب معتمد",
+        "ويسألون عن مصدر الأموال"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "أصحاب مكاتب عقارية في كركوك تظاهروا السبت ضد منصة «عقاري» (شبكة 964 — 19 أيلول)",
+    "المتظاهرون: المنصة غير آمنة وتتيح للشركات الوصول إلى البيانات الشخصية للمشترين والبائعين",
+    "من تصريحاتهم: «تطبيق معقد والمواطن هو المتضرر الأول» — ولم يرد في التقرير رد حكومي",
+    "المنصة مطبّقة منذ 1 تموز 2026 وتشترط مكاتبة إلكترونية عبر مكاتب معتمدة تتضمن مصدر الأموال (بغداد اليوم)"
+  ],
+  "endQuestion": "سويت معاملة عقار بعد تموز؟ كم يوم أخذت؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

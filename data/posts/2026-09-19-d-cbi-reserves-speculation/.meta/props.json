@@ -1,0 +1,142 @@
+{
+  "dateLabel": "SEP 19 • 2026",
+  "arabicDateLabel": "19 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "المركزي",
+    "arabicHeadline": "المركزي: الاحتياطي كافٍ والسبب مضاربات.. ومرصد يقول أسباب متداخلة",
+    "englishSubhead": "BAGHDAD · SEP 19 | 964 (16:32): CENTRAL BANK OF IRAQ STATEMENT — RESERVES ARE «كفاية» TO MEET FOREIGN-CURRENCY DEMAND AT THE OFFICIAL RATE FOR FOREIGN-TRADE FINANCE, BANK CARDS AND TRAVELLERS; ATTRIBUTES THE DOLLAR'S RISE TO «المضاربات في الأسواق والتوقعات وسوء استخدام الظروف الجيوسياسية» | NO RESERVE FIGURE GIVEN IN THE STATEMENT | MUSTAQILA (SEP 19): «ECO IRAQ» OBSERVATORY SAYS THE RISE IS «مجموعة عوامل متداخلة لا يمكن اختزالها بسبب واحد» INCLUDING ANXIETY OVER WHAT FOLLOWS SEP 30; PM'S FINANCIAL ADVISER DENIED ANY ANNOUNCED US PLAN TO HALT DOLLAR SHIPMENTS | 964 (718166): COMMANDER-IN-CHIEF'S SPOKESMAN ON SEP 30 — «تسقط أي مبرر للتحرك خارج سلطة الدولة»",
+    "heroMedia": "images/news/2026-09-19-d-cbi-reserves-speculation/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البيان",
+      "arabicHeading": "المركزي: الاحتياطي يكفي الطلب",
+      "arabicBody": "البنك المركزي العراقي قال في بيان إن لديه كفاية من الاحتياطيات الأجنبية لتلبية الطلب بالسعر الرسمي: تمويل التجارة الخارجية وبطاقات المصارف وطلبات المسافرين (شبكة 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Channels the CBI says it covers at the official rate: foreign trade, bank cards, travellers",
+        "arabicLabel": "قنوات يقول المركزي إنه يغطيها بالسعر الرسمي: التجارة الخارجية والبطاقات والمسافرون"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "المركزي"
+        },
+        {
+          "label": "الموقف",
+          "value": "الاحتياطي كافٍ"
+        },
+        {
+          "label": "الرقم",
+          "value": "لم يُذكر"
+        }
+      ],
+      "broll": "images/news/2026-09-19-d-cbi-reserves-speculation/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-19-d-cbi-reserves-speculation/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "المركزي: الاحتياطي يكفي",
+        "الطلب بالسعر الرسمي",
+        "تجارة وبطاقات ومسافرين"
+      ]
+    },
+    {
+      "label": "التفسير",
+      "arabicHeading": "المركزي: السبب مضاربات وتوقعات",
+      "arabicBody": "البيان عزا ارتفاع الدولار إلى «المضاربات في الأسواق والتوقعات وسوء استخدام الظروف الجيوسياسية» من جهات تسعى لإرباك الوضع الاقتصادي. ولم يورد البيان أي رقم للاحتياطيات.",
+      "bigStat": {
+        "value": "0",
+        "label": "Reserve figures disclosed in the statement — the CBI gave no number",
+        "arabicLabel": "رقم للاحتياطيات ورد في البيان — المركزي لم يذكر أي مبلغ"
+      },
+      "supportingStats": [
+        {
+          "label": "مضاربات",
+          "value": "نعم"
+        },
+        {
+          "label": "توقعات",
+          "value": "نعم"
+        },
+        {
+          "label": "رقم معلن",
+          "value": "0"
+        }
+      ],
+      "broll": "images/news/2026-09-19-d-cbi-reserves-speculation/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-19-d-cbi-reserves-speculation/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "مضاربات وتوقعات",
+        "وسوء استخدام الظروف الجيوسياسية",
+        "بس بلا رقم للاحتياطي"
+      ]
+    },
+    {
+      "label": "الرواية الثانية",
+      "arabicHeading": "مرصد: السبب مو واحد",
+      "arabicBody": "«إيكو عراق»: الأسباب «متداخلة لا يمكن اختزالها بسبب واحد»، منها القلق مما بعد 30 أيلول. ومستشار رئيس الوزراء المالي نفى خطة أميركية معلنة لوقف شحنات الدولار.",
+      "bigStat": {
+        "value": "30",
+        "label": "September — the date the market anxiety is pegged to; the PM's financial adviser denies any announced US plan to halt dollar shipments",
+        "arabicLabel": "أيلول — الموعد الذي يُعلَّق عليه قلق السوق، ومستشار رئيس الوزراء المالي ينفي خطة أميركية معلنة (وكالة الصحافة المستقلة)"
+      },
+      "supportingStats": [
+        {
+          "label": "المرصد",
+          "value": "إيكو عراق"
+        },
+        {
+          "label": "التاريخ",
+          "value": "30 أيلول"
+        },
+        {
+          "label": "الخطة",
+          "value": "منفية"
+        }
+      ],
+      "broll": "images/news/2026-09-19-d-cbi-reserves-speculation/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-19-d-cbi-reserves-speculation/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية · Pexels",
+      "subtitlePhrases": [
+        "مرصد يقول أسباب متداخلة",
+        "منها القلق مما بعد 30 أيلول",
+        "والمستشار ينفي الخطة الأميركية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بيان البنك المركزي العراقي: لدينا كفاية من الاحتياطيات الأجنبية لتلبية الطلب بالسعر الرسمي (شبكة 964 — 19 أيلول)",
+    "المركزي يعزو الارتفاع إلى «المضاربات في الأسواق والتوقعات وسوء استخدام الظروف الجيوسياسية»",
+    "البيان لم يذكر رقماً للاحتياطيات — والتمويل يشمل التجارة الخارجية وبطاقات المصارف وطلبات المسافرين",
+    "مرصد «إيكو عراق»: الارتفاع «مجموعة عوامل متداخلة لا يمكن اختزالها بسبب واحد» (وكالة الصحافة المستقلة)"
+  ],
+  "endQuestion": "تصدّق سبب الغلاء مضاربة لو شي ثاني؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "وكالة الصحافة المستقلة",
+      "domain": "mustaqila.com"
+    }
+  ]
+}
