@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-20-b-dollar-159750-zero-rumor",
+  "date": "2026-09-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1116076,
+      "sha256": "868e626f5522f2f0"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 962925,
+      "sha256": "d8702c126a82db5d"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 889200,
+      "sha256": "28e70cb959f82470"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1275584,
+      "sha256": "c3702bc285ac756a"
+    }
+  ]
+}

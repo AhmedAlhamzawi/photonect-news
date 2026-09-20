@@ -1,0 +1,39 @@
+{
+ "date": "2026-09-20",
+ "note": "All 20 slate stills generated with KIE Nano Banana Pro (nano-banana-pro, 9:16, 2K). No stock, no Commons, no real person depicted. Two frames were rejected on Read-verify and regenerated: b/hero.jpg (returned face-up banknotes with a visible portrait and garbled pseudo-Arabic lettering -> reshot with no currency in frame) and a/broll_3.jpg (reshot as a border-crossing lorry queue so beat 3 matches its text).",
+ "model": "kie nano-banana-pro",
+ "aspect": "9:16",
+ "resolution": "2K",
+ "slugs": {
+  "2026-09-20-a-us-warning-flights": {
+   "hero.jpg": "KIE nano-banana-pro (generated)",
+   "broll_1.jpg": "KIE nano-banana-pro (generated)",
+   "broll_2.jpg": "KIE nano-banana-pro (generated)",
+   "broll_3.jpg": "KIE nano-banana-pro (generated)"
+  },
+  "2026-09-20-b-dollar-159750-zero-rumor": {
+   "hero.jpg": "KIE nano-banana-pro (generated)",
+   "broll_1.jpg": "KIE nano-banana-pro (generated)",
+   "broll_2.jpg": "KIE nano-banana-pro (generated)",
+   "broll_3.jpg": "KIE nano-banana-pro (generated)"
+  },
+  "2026-09-20-c-sandstorms-300-days": {
+   "hero.jpg": "KIE nano-banana-pro (generated)",
+   "broll_1.jpg": "KIE nano-banana-pro (generated)",
+   "broll_2.jpg": "KIE nano-banana-pro (generated)",
+   "broll_3.jpg": "KIE nano-banana-pro (generated)"
+  },
+  "2026-09-20-d-solar-loans-30-million": {
+   "hero.jpg": "KIE nano-banana-pro (generated)",
+   "broll_1.jpg": "KIE nano-banana-pro (generated)",
+   "broll_2.jpg": "KIE nano-banana-pro (generated)",
+   "broll_3.jpg": "KIE nano-banana-pro (generated)"
+  },
+  "2026-09-20-e-public-debt-109-trillion": {
+   "hero.jpg": "KIE nano-banana-pro (generated)",
+   "broll_1.jpg": "KIE nano-banana-pro (generated)",
+   "broll_2.jpg": "KIE nano-banana-pro (generated)",
+   "broll_3.jpg": "KIE nano-banana-pro (generated)"
+  }
+ }
+}

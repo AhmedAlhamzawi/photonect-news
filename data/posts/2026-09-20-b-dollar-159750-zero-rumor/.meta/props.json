@@ -1,0 +1,149 @@
+{
+ "dateLabel": "SEP 20 • 2026",
+ "arabicDateLabel": "20 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "الدولار اليوم",
+  "arabicHeadline": "الدولار تحت 160 ألفاً.. والسعر الرسمي بعده 131 ألفاً",
+  "englishSubhead": "BAGHDAD · SEP 20 | 964 MORNING LIST (10:45, SUN 20 SEP), IRAQ BOURSES PER $100: BAGHDAD SELL 159,750 / BUY 159,000; ERBIL SELL 158,700 / BUY 158,250; BASRA SELL 159,000 / BUY 158,500; CBI OFFICIAL RATE 131,000 | SHAFAQ (MORNING, SUN 20 SEP): KIFAH & HARITHIYA BOURSES 159,250, DOWN FROM 159,750 ON SATURDAY PER SHAFAQ'S OWN COMPARISON; BAGHDAD SHOPS SELL 159,750 / BUY 158,750 | GAP TO OFFICIAL 28,750 (COMPUTED FROM 964'S OWN TWO FIGURES) | GOLD, SHAFAQ SUN 20 SEP: NAHR ST WHOLESALE 21K GULF MITHQAL SELL 983,000, DOWN FROM 985,000 SATURDAY",
+  "heroMedia": "images/news/2026-09-20-b-dollar-159750-zero-rumor/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الأسعار",
+   "arabicHeading": "قائمة 964 اليوم: البيع 159,750 ببغداد",
+   "arabicBody": "قائمة 964 الصباحية اليوم الأحد: بيع 100 دولار في بغداد بـ159,750 ديناراً، وأربيل بـ158,700، والبصرة بـ159,000 — والرسمي عند المركزي 131,000.",
+   "bigStat": {
+    "value": "159,750",
+    "label": "Dinars, selling price per $100 at Baghdad bourses, Sunday morning, per 964",
+    "arabicLabel": "دينار سعر بيع 100 دولار في بغداد صباح الأحد (قائمة شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "أربيل",
+     "value": "158,700"
+    },
+    {
+     "label": "البصرة",
+     "value": "159,000"
+    },
+    {
+     "label": "الرسمي",
+     "value": "131,000"
+    }
+   ],
+   "broll": "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "قائمة 964 الصباحية",
+    "بغداد البيع 159,750",
+    "والرسمي 131,000"
+   ]
+  },
+  {
+   "label": "ليش",
+   "arabicHeading": "عمرو هشام: حديث حذف الأصفار دفع للتحوّط",
+   "arabicBody": "الباحث الاقتصادي عمرو هشام عزا الصعود الأخير إلى تصريحات عن \"حذف أصفار\" من العملة، دفعت قسماً من المواطنين لشراء الدولار تحوّطاً (شبكة 964).",
+   "bigStat": {
+    "value": "4",
+    "label": "Drivers the researcher listed: zero-deletion talk, regional tension, reserve pressure, delayed dollar shipment",
+    "arabicLabel": "أسباب عدّها الباحث: حذف الأصفار، توترات المنطقة، ضغط الاحتياطيات، تأخر شحنة الدولار"
+   },
+   "supportingStats": [
+    {
+     "label": "السبب الأول",
+     "value": "حذف الأصفار"
+    },
+    {
+     "label": "الثاني",
+     "value": "التوترات"
+    },
+    {
+     "label": "الثالث",
+     "value": "الاحتياطيات"
+    }
+   ],
+   "broll": "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الباحث عمرو هشام يوضّح السبب",
+    "تصريحات عن حذف أصفار العملة",
+    "دفعت مواطنين لشراء الدولار"
+   ]
+  },
+  {
+   "label": "الذهب",
+   "arabicHeading": "الذهب نزل وياه: المثقال 983 ألفاً",
+   "arabicBody": "وبالتوازي، نزل بيع مثقال الذهب الخليجي عيار 21 بشارع النهر إلى 983 ألف دينار بعد 985 ألفاً أمس (شفق نيوز).",
+   "bigStat": {
+    "value": "983,000",
+    "label": "Dinars, wholesale selling price of one 21k Gulf mithqal on Nahr St, Sunday, per Shafaq",
+    "arabicLabel": "دينار سعر بيع مثقال الذهب الخليجي عيار 21 بشارع النهر الأحد (شفق نيوز)"
+   },
+   "supportingStats": [
+    {
+     "label": "أمس",
+     "value": "985,000"
+    },
+    {
+     "label": "اليوم",
+     "value": "983,000"
+    },
+    {
+     "label": "الذهب العراقي",
+     "value": "953,000"
+    }
+   ],
+   "broll": "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-20-b-dollar-159750-zero-rumor/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "وبالتوازي.. الذهب نزل وياه",
+    "المثقال الخليجي 983 ألفاً",
+    "بعد 985 ألفاً أمس"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "قائمة 964 الصباحية للأحد: بيع 100 دولار في بغداد 159,750 ديناراً والشراء 159,000 (شبكة 964 — 20 أيلول)",
+  "أربيل: البيع 158,700 والشراء 158,250 — البصرة: البيع 159,000 والشراء 158,500 (شبكة 964)",
+  "شفق نيوز: تراجع طفيف بأسعار صرف الدولار في بغداد وأربيل خلال تداولات صباح اليوم الأحد",
+  "السعر الرسمي للبنك المركزي 131,000 دينار لكل 100 دولار — الفرق عن بيع بغداد 28,750 (محتسب من رقمَي شبكة 964)",
+  "البنك المركزي أمس: الاحتياطيات الأجنبية كافية والارتفاع سببه المضاربات والتوقعات وسوء استخدام الظروف الجيوسياسية (شبكة 964 — 19 أيلول)",
+  "الذهب: مثقال عيار 21 الخليجي بشارع النهر 983,000 دينار بعد 985,000 أمس (شفق نيوز)",
+  "بكم اشتريت الدولار آخر مرة؟"
+ ],
+ "endQuestion": "بكم اشتريت الدولار آخر مرة؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "البنك المركزي العراقي",
+   "domain": "cbi.iq"
+  }
+ ]
+}

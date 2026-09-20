@@ -1,0 +1,148 @@
+{
+ "dateLabel": "SEP 20 • 2026",
+ "arabicDateLabel": "20 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_05.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "C",
+ "breaking": {
+  "arabicKicker": "الدين الداخلي",
+  "arabicHeadline": "الدين الداخلي 109.5 تريليون.. زاد 19 تريليوناً بسبعة أشهر",
+  "englishSubhead": "BAGHDAD · SEP 20 | CBI DATA VIA SHAFAQ, SUN 20 SEP: TOTAL INTERNAL PUBLIC DEBT ~109.5 TRILLION DINARS AT END-JULY 2026 VS ~90.5 TRILLION AT END-2025, +19 TRILLION / +21% IN SEVEN MONTHS; PATH 103.2T END-MAY, 106.1T END-JUNE, 109.5T END-JULY; COMPOSITION: MOF CLAIMS HELD BY CBI 72.5T, LOANS 18.95T, BONDS 9.33T, TREASURY TRANSFERS 8.74T | ECONOMIST NABIL AL-MARSOUMI VIA 964, SUN 20 SEP: DISCOUNTED TRANSFERS AT THE CBI ARE 66% OF INTERNAL DEBT; BORROWING SPENT ON SALARIES AND CONSUMPTION LIFTS IMPORT DEMAND AND DRAINS FX RESERVES",
+  "heroMedia": "images/news/2026-09-20-e-public-debt-109-trillion/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الرقم",
+   "arabicHeading": "بنهاية تموز: الدين الداخلي 109.5 تريليون",
+   "arabicBody": "بيانات البنك المركزي تُظهر صعود الدين العام الداخلي إلى نحو 109.5 تريليون دينار بنهاية تموز، مقابل 90.5 تريليون بنهاية 2025 (شفق نيوز).",
+   "bigStat": {
+    "value": "109.5",
+    "label": "Trillion dinars, Iraq's internal public debt at end-July 2026, CBI data via Shafaq",
+    "arabicLabel": "تريليون دينار الدين العام الداخلي بنهاية تموز 2026 (بيانات البنك المركزي عبر شفق نيوز)"
+   },
+   "supportingStats": [
+    {
+     "label": "نهاية 2025",
+     "value": "90.5"
+    },
+    {
+     "label": "تموز 2026",
+     "value": "109.5"
+    },
+    {
+     "label": "الزيادة",
+     "value": "19"
+    }
+   ],
+   "broll": "images/news/2026-09-20-e-public-debt-109-trillion/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-20-e-public-debt-109-trillion/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الدين العام الداخلي يصعد",
+    "109.5 تريليون دينار بنهاية تموز",
+    "بعد 90.5 تريليون نهاية 2025"
+   ]
+  },
+  {
+   "label": "التوزيع",
+   "arabicHeading": "72.5 تريليوناً منها لدى البنك المركزي",
+   "arabicBody": "يتوزع الدين بين 72.5 تريليون مطالبات على وزارة المالية لصالح البنك المركزي، و18.95 تريليون قروضاً، و9.33 تريليون سندات، و8.74 تريليون حوالات خزينة (شفق نيوز).",
+   "bigStat": {
+    "value": "66%",
+    "label": "Share of internal debt made up of transfers discounted at the CBI, economist Nabil al-Marsoumi via 964",
+    "arabicLabel": "حصة الحوالات المخصومة لدى المركزي — 72.5 تريليون من أصل 109.5 (نبيل المرسومي عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "المركزي",
+     "value": "72.5"
+    },
+    {
+     "label": "قروض",
+     "value": "18.95"
+    },
+    {
+     "label": "سندات",
+     "value": "9.33"
+    }
+   ],
+   "broll": "images/news/2026-09-20-e-public-debt-109-trillion/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-20-e-public-debt-109-trillion/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "72.5 تريليوناً مطالبات",
+    "لصالح البنك المركزي",
+    "أي 66% من الدين"
+   ]
+  },
+  {
+   "label": "الاحتياطي",
+   "arabicHeading": "المرسومي: قروض الرواتب تستنزف الاحتياطي",
+   "arabicBody": "الخبير نبيل المرسومي قال إن تخصيص الاقتراض الداخلي للرواتب والإنفاق الاستهلاكي يرفع الطلب على المستوردات ويستنزف جزءاً من الاحتياطيات الأجنبية (شبكة 964).",
+   "bigStat": {
+    "value": "21%",
+    "label": "Rise in Iraq's internal debt across seven months of 2026, CBI data via Shafaq",
+    "arabicLabel": "نسبة ارتفاع الدين الداخلي خلال سبعة أشهر من 2026 (بيانات البنك المركزي عبر شفق نيوز)"
+   },
+   "supportingStats": [
+    {
+     "label": "أيار",
+     "value": "103.2"
+    },
+    {
+     "label": "حزيران",
+     "value": "106.1"
+    },
+    {
+     "label": "تموز",
+     "value": "109.5"
+    }
+   ],
+   "broll": "images/news/2026-09-20-e-public-debt-109-trillion/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-20-e-public-debt-109-trillion/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "المرسومي: الاقتراض يمشي للرواتب",
+    "والطلب على المستوردات يرتفع",
+    "ويستنزف جزءاً من الاحتياطي"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "بيانات البنك المركزي: الدين العام الداخلي نحو 109.5 تريليون دينار بنهاية تموز 2026 (شفق نيوز — 20 أيلول)",
+  "مقابل نحو 90.5 تريليون دينار بنهاية 2025، أي زيادة 19 تريليوناً وبنسبة 21% خلال سبعة أشهر (شفق نيوز)",
+  "المسار: 103.2 تريليون نهاية أيار، 106.1 نهاية حزيران، 109.5 نهاية تموز (شفق نيوز)",
+  "التوزيع: 72.5 تريليون مطالبات على وزارة المالية لصالح المركزي، 18.95 تريليون قروض، 9.33 تريليون سندات، 8.74 تريليون حوالات خزينة (شفق نيوز)",
+  "نبيل المرسومي: الحوالات المخصومة لدى المركزي (72.5 تريليون) تشكل 66% من الدين الداخلي (شبكة 964 — 20 أيلول)",
+  "راتبك من الحكومة لو من الخاص؟"
+ ],
+ "endQuestion": "راتبك من الحكومة لو من الخاص؟",
+ "sources": [
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "البنك المركزي العراقي",
+   "domain": "cbi.iq"
+  }
+ ]
+}

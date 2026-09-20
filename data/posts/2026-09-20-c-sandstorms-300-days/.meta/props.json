@@ -1,0 +1,147 @@
+{
+ "dateLabel": "SEP 20 • 2026",
+ "arabicDateLabel": "20 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_03.mp3",
+ "topicBucket": "region_health",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "تحذير مناخي",
+  "arabicHeadline": "مرصد العراق الأخضر يتوقع 300 يوم غبار سنوياً خلال عقد",
+  "englishSubhead": "BAGHDAD · SEP 20 | IRAQ GREEN OBSERVATORY STATEMENT, SUN 20 SEP, VIA 964: DUST AND SAND STORMS FORECAST TO REACH 300 DAYS A YEAR WITHIN THE NEXT TEN YEARS; 6 HOTSPOTS IDENTIFIED IN CENTRAL, WESTERN AND SOUTHERN IRAQ, MOSTLY ENDEMIC TO SOUTHERN PROVINCES, FORMED BY DESERTIFICATION; MAXIMUM 1951-1990 WAS ABOUT 24 STORMS A YEAR | ALSO CARRIED BY SHAFAQ",
+  "heroMedia": "images/news/2026-09-20-c-sandstorms-300-days/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "التوقع",
+   "arabicHeading": "مرصد يتوقع 300 يوم عواصف خلال عقد",
+   "arabicBody": "مرصد العراق الأخضر توقّع اليوم الأحد أن تصل العواصف الترابية والرملية إلى 300 يوم سنوياً خلال السنوات العشر المقبلة (شبكة 964).",
+   "bigStat": {
+    "value": "300",
+    "label": "Days of dust and sand storms a year forecast within ten years, Iraq Green Observatory via 964",
+    "arabicLabel": "يوم عواصف ترابية ورملية سنوياً متوقعة خلال عشر سنوات (مرصد العراق الأخضر عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "المدى",
+     "value": "10 سنوات"
+    },
+    {
+     "label": "المتوقع",
+     "value": "300 يوم"
+    },
+    {
+     "label": "البؤر",
+     "value": "6"
+    }
+   ],
+   "broll": "images/news/2026-09-20-c-sandstorms-300-days/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-20-c-sandstorms-300-days/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "مرصد العراق الأخضر يحذّر اليوم",
+    "300 يوم عواصف في السنة",
+    "خلال السنوات العشر المقبلة"
+   ]
+  },
+  {
+   "label": "البؤر",
+   "arabicHeading": "6 بؤر ساخنة أغلبها متوطن بالجنوب",
+   "arabicBody": "المرصد حدّد 6 بؤر تنطلق منها العواصف في وسط العراق وغربه وجنوبه، وقال إن غالبيتها متوطنة بالمحافظات الجنوبية بفعل التصحّر (شبكة 964).",
+   "bigStat": {
+    "value": "6",
+    "label": "Hotspots the observatory identified in central, western and southern Iraq",
+    "arabicLabel": "بؤر ساخنة حدّدها المرصد في وسط العراق وغربه وجنوبه (مرصد العراق الأخضر)"
+   },
+   "supportingStats": [
+    {
+     "label": "الوسط",
+     "value": "بؤر"
+    },
+    {
+     "label": "الغرب",
+     "value": "بؤر"
+    },
+    {
+     "label": "الجنوب",
+     "value": "الأغلب"
+    }
+   ],
+   "broll": "images/news/2026-09-20-c-sandstorms-300-days/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-20-c-sandstorms-300-days/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "ست بؤر ساخنة حدّدها المرصد",
+    "بوسط العراق وغربه وجنوبه",
+    "وأغلبها متوطن بالمحافظات الجنوبية"
+   ]
+  },
+  {
+   "label": "المقارنة",
+   "arabicHeading": "24 عاصفة سنوياً بالماضي.. والتوقع 300 يوم",
+   "arabicBody": "الحد الأقصى بين 1951 و1990 كان نحو 24 عاصفة سنوياً، مقابل ما يصل إلى 300 يوم متوقعة خلال عقد، بحسب المرصد (شبكة 964).",
+   "bigStat": {
+    "value": "24",
+    "label": "Maximum storms a year recorded 1951-1990, per the observatory via 964",
+    "arabicLabel": "أقصى عدد عواصف سنوياً بين 1951 و1990 (مرصد العراق الأخضر عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "1951-1990",
+     "value": "24"
+    },
+    {
+     "label": "المتوقع",
+     "value": "300"
+    },
+    {
+     "label": "السبب",
+     "value": "التصحّر"
+    }
+   ],
+   "broll": "images/news/2026-09-20-c-sandstorms-300-days/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-20-c-sandstorms-300-days/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "بين 1951 و1990",
+    "الحد الأقصى 24 عاصفة سنوياً",
+    "واليوم التوقع 300 يوم"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "مرصد العراق الأخضر: العواصف الترابية والرملية قد تصل 300 يوم سنوياً خلال السنوات العشر المقبلة (شبكة 964 — 20 أيلول)",
+  "المرصد حدّد 6 بؤر ساخنة تنطلق منها العواصف بوسط العراق وغربه وجنوبه، أغلبها متوطن بالجنوب",
+  "المرصد: الحد الأقصى بين 1951 و1990 كان نحو 24 عاصفة في السنة",
+  "المرصد يربط تكوّن هذه البؤر بالتصحّر الذي أصاب غالبية الأراضي في تلك المناطق (شبكة 964)",
+  "شكد يوم تعطّل دوام أولادك بسبب الغبار؟"
+ ],
+ "endQuestion": "شكد يوم تعطّل دوام أولادك بسبب الغبار؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "مرصد العراق الأخضر",
+   "domain": "964media.com"
+  }
+ ]
+}

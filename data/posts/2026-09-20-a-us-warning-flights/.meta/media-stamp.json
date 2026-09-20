@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-20-a-us-warning-flights",
+  "date": "2026-09-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 824595,
+      "sha256": "425746524e8c50e5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 965274,
+      "sha256": "b7cdad74a15be888"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 899719,
+      "sha256": "2e0978af699712e0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 966072,
+      "sha256": "2595386135f148e4"
+    }
+  ]
+}

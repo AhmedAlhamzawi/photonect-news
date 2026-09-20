@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-20-c-sandstorms-300-days",
+  "date": "2026-09-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1985947,
+      "sha256": "92a80e7f7bdf52a5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 860699,
+      "sha256": "a62cd89ffe847bc4"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1072907,
+      "sha256": "535ff591a383a9ba"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 543031,
+      "sha256": "b05b768f4625a4d3"
+    }
+  ]
+}

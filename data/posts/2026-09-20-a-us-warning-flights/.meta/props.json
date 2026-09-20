@@ -1,0 +1,147 @@
+{
+ "dateLabel": "SEP 20 • 2026",
+ "arabicDateLabel": "20 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_01.mp3",
+ "topicBucket": "mena_geo",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "تحذير سفر",
+  "arabicHeadline": "السفارة الأميركية ببغداد: احتمال إلغاء رحلات وإغلاق المجال الجوي",
+  "englishSubhead": "BAGHDAD · SEP 20 | US EMBASSY BAGHDAD STATEMENT, SUN 20 SEP: WARNS OF POSSIBLE \"UNEXPECTED ESCALATION\", SECURITY ENVIRONMENT \"REMAINS COMPLEX\"; URGES AWARENESS OF FLIGHT CANCELLATIONS, AIRSPACE CLOSURES, TRAVEL DISRUPTION | CONTEXT SAT 19 SEP (REUTERS VIA 964): EXPLOSIONS AND CIVIL-DEFENCE EMERGENCY NEAR KING KHALID INTL, RIYADH; WARNINGS COVERED RIYADH AND AL-KHARJ | IRAQ TRANSPORT MINISTRY SAT 19 SEP: LAND TRANSPORT STILL ACTIVE, >7,000 INTERNATIONAL TRANSITS REACHING CENTRAL ASIA, ~1,500 TRUCKS VIA THE WESTERN CROSSING",
+  "heroMedia": "images/news/2026-09-20-a-us-warning-flights/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "التحذير",
+   "arabicHeading": "السفارة الأميركية تحذّر رعاياها من تصعيد مفاجئ",
+   "arabicBody": "بيان السفارة الأميركية ببغداد اليوم الأحد حذّر رعاياها من \"تصعيد غير متوقع\"، ووصف البيئة الأمنية بأنها \"لا تزال معقدة\"، ودعاهم لمتابعة احتمال إلغاء الرحلات (شبكة 964).",
+   "bigStat": {
+    "value": "3",
+    "label": "Disruptions the embassy named: flight cancellations, airspace closures, travel disruption",
+    "arabicLabel": "اضطرابات ذكرتها السفارة: إلغاء رحلات، إغلاق مجال جوي، تعطّل سفر"
+   },
+   "supportingStats": [
+    {
+     "label": "إلغاء",
+     "value": "رحلات"
+    },
+    {
+     "label": "إغلاق",
+     "value": "أجواء"
+    },
+    {
+     "label": "تعطّل",
+     "value": "سفر"
+    }
+   ],
+   "broll": "images/news/2026-09-20-a-us-warning-flights/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-20-a-us-warning-flights/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "بيان أميركي في بغداد اليوم",
+    "تحذير من تصعيد غير متوقع",
+    "وإلغاء الرحلات احتمال مطروح"
+   ]
+  },
+  {
+   "label": "الرياض",
+   "arabicHeading": "أمس: لهب ودخان قرب مطار الملك خالد",
+   "arabicBody": "أمس السبت شوهدت ألسنة لهب وأعمدة دخان قرب مطار الملك خالد بالرياض وأعلن الدفاع المدني الطوارئ، والإنذار شمل الرياض والخرج (رويترز عبر شبكة 964).",
+   "bigStat": {
+    "value": "2",
+    "label": "Saudi cities covered by Saturday's alerts: Riyadh and Al-Kharj, per Reuters via 964",
+    "arabicLabel": "مدينتان شملهما إنذار السبت: الرياض والخرج (رويترز عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الرياض",
+     "value": "إنذار"
+    },
+    {
+     "label": "الخرج",
+     "value": "إنذار"
+    },
+    {
+     "label": "التاريخ",
+     "value": "19 أيلول"
+    }
+   ],
+   "broll": "images/news/2026-09-20-a-us-warning-flights/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-20-a-us-warning-flights/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "ألسنة لهب وأعمدة دخان",
+    "قرب مطار الملك خالد",
+    "والإنذار شمل الخرج"
+   ]
+  },
+  {
+   "label": "على الأرض",
+   "arabicHeading": "لكن البر ماشي: 7,000 عبور دولي",
+   "arabicBody": "وزارة النقل قالت السبت إن تأثير الحرب \"لا يزال محدوداً\"، والعبور الدولي تجاوز 7,000 ووصل أواسط آسيا، و1,500 شاحنة تمرّ عبر المنفذ الغربي (شبكة 964).",
+   "bigStat": {
+    "value": "7,000",
+    "label": "International transits through Iraq reaching Central Asia, Transport Ministry, Sat 19 Sep, per 964",
+    "arabicLabel": "عبور دولي عبر العراق وصل أواسط آسيا (وزارة النقل عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "عبور دولي",
+     "value": "7,000"
+    },
+    {
+     "label": "المنفذ الغربي",
+     "value": "1,500"
+    },
+    {
+     "label": "التأثير",
+     "value": "محدود"
+    }
+   ],
+   "broll": "images/news/2026-09-20-a-us-warning-flights/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-20-a-us-warning-flights/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "وزارة النقل: التأثير لا يزال محدوداً",
+    "العبور الدولي تجاوز 7,000",
+    "و1,500 شاحنة عبر المنفذ الغربي"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "السفارة الأميركية ببغداد تحذّر رعاياها من \"تصعيد غير متوقع\" والبيئة الأمنية \"لا تزال معقدة\" (شبكة 964 — 20 أيلول)",
+  "السفارة دعت لمتابعة احتمالات إلغاء الرحلات وإغلاق المجال الجوي واضطرابات السفر (شبكة 964 — 20 أيلول)",
+  "أمس السبت: ألسنة لهب وأعمدة دخان وطوارئ دفاع مدني قرب مطار الملك خالد، والإنذار شمل الرياض والخرج (رويترز عبر شبكة 964 — 19 أيلول)",
+  "وزارة النقل: العبور الدولي تجاوز 7,000 ووصل أواسط آسيا و1,500 شاحنة عبر المنفذ الغربي (شبكة 964 — 19 أيلول)",
+  "عندك سفرة قريبة لو لا؟"
+ ],
+ "endQuestion": "عندك سفرة قريبة لو لا؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "رويترز",
+   "domain": "reuters.com"
+  },
+  {
+   "name": "وزارة النقل العراقية",
+   "domain": "motrans.gov.iq"
+  }
+ ]
+}

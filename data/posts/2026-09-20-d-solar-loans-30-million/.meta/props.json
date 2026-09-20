@@ -1,0 +1,147 @@
+{
+ "dateLabel": "SEP 20 • 2026",
+ "arabicDateLabel": "20 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_newsroom.mp3",
+ "topicBucket": "iraq_services",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "قروض",
+  "arabicHeadline": "قرض حتى 30 مليوناً للطاقة الشمسية بفائدة 3% وإمهال 6 أشهر",
+  "englishSubhead": "BAGHDAD · SEP 20 | RASHEED BANK STATEMENT, SUN 20 SEP, VIA 964: LOANS LAUNCHED FOR RENEWABLE AND SOLAR SYSTEMS, FUNDED BY THE CENTRAL BANK OF IRAQ, CEILING 30 MILLION DINARS; OPEN TO CITIZENS AND STATE EMPLOYEES; TOTAL INTEREST 3% A YEAR; REPAYMENT UP TO 7 YEARS; GRACE PERIOD UP TO 6 MONTHS",
+  "heroMedia": "images/news/2026-09-20-d-solar-loans-30-million/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "القرض",
+   "arabicHeading": "الرشيد يفتح قرضاً حتى 30 مليون دينار",
+   "arabicBody": "مصرف الرشيد أعلن اليوم الأحد قروضاً لشراء منظومات الطاقة الشمسية والمتجددة، بتمويل من البنك المركزي وبحد أقصى 30 مليون دينار (شبكة 964).",
+   "bigStat": {
+    "value": "30",
+    "label": "Million dinars, the loan ceiling, Rasheed Bank statement Sun 20 Sep via 964",
+    "arabicLabel": "مليون دينار الحد الأقصى للقرض (مصرف الرشيد عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الفائدة",
+     "value": "3%"
+    },
+    {
+     "label": "السداد",
+     "value": "7 سنوات"
+    },
+    {
+     "label": "الإمهال",
+     "value": "6 أشهر"
+    }
+   ],
+   "broll": "images/news/2026-09-20-d-solar-loans-30-million/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-20-d-solar-loans-30-million/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "مصرف الرشيد يعلن اليوم",
+    "قرضاً حتى 30 مليون دينار",
+    "لمنظومات الطاقة الشمسية"
+   ]
+  },
+  {
+   "label": "الشروط",
+   "arabicHeading": "فائدة 3% وسداد يوصل 7 سنوات",
+   "arabicBody": "القرض يشمل المواطنين والموظفين، بفائدة إجمالية 3% سنوياً، ومدة سداد تصل إلى 7 سنوات، مع فترة إمهال تصل إلى 6 أشهر (شبكة 964).",
+   "bigStat": {
+    "value": "3%",
+    "label": "Total annual interest on the loan, per Rasheed Bank via 964",
+    "arabicLabel": "الفائدة الإجمالية السنوية على القرض (مصرف الرشيد عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "المشمولون",
+     "value": "مواطنون وموظفون"
+    },
+    {
+     "label": "السداد",
+     "value": "7 سنوات"
+    },
+    {
+     "label": "الفائدة",
+     "value": "3%"
+    }
+   ],
+   "broll": "images/news/2026-09-20-d-solar-loans-30-million/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-20-d-solar-loans-30-million/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "للمواطنين والموظفين معاً",
+    "فائدة إجمالية 3% سنوياً",
+    "وسداد يوصل سبع سنوات"
+   ]
+  },
+  {
+   "label": "ليش يهمك",
+   "arabicHeading": "إمهال 6 أشهر قبل أول قسط",
+   "arabicBody": "المصرف قال إن المبادرة تأتي لدعم استخدام الطاقة النظيفة وتقليل الاعتماد على مصادر الطاقة التقليدية، والتمويل مقدَّم من البنك المركزي (شبكة 964).",
+   "bigStat": {
+    "value": "6",
+    "label": "Months of grace before repayment starts, per Rasheed Bank via 964",
+    "arabicLabel": "أشهر فترة الإمهال قبل بدء السداد (مصرف الرشيد عبر شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الإمهال",
+     "value": "6 أشهر"
+    },
+    {
+     "label": "التمويل",
+     "value": "البنك المركزي"
+    },
+    {
+     "label": "الجهة",
+     "value": "مصرف الرشيد"
+    }
+   ],
+   "broll": "images/news/2026-09-20-d-solar-loans-30-million/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-20-d-solar-loans-30-million/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "إمهال ستة أشهر",
+    "قبل أول قسط",
+    "والتمويل من البنك المركزي"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "مصرف الرشيد يطلق قروضاً لشراء منظومات الطاقة الشمسية والمتجددة بحد أقصى 30 مليون دينار (شبكة 964 — 20 أيلول)",
+  "التمويل من البنك المركزي العراقي، والقروض تشمل المواطنين والموظفين (مصرف الرشيد)",
+  "الفائدة الإجمالية 3% سنوياً ومدة السداد تصل إلى 7 سنوات (شبكة 964)",
+  "فترة إمهال تصل إلى 6 أشهر قبل أول قسط (مصرف الرشيد عبر شبكة 964)",
+  "شكد تدفع للمولدة بالشهر؟"
+ ],
+ "endQuestion": "شكد تدفع للمولدة بالشهر؟",
+ "sources": [
+  {
+   "name": "مصرف الرشيد",
+   "domain": "rasheedbank.gov.iq"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "البنك المركزي العراقي",
+   "domain": "cbi.iq"
+  }
+ ]
+}
