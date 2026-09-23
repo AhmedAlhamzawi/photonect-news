@@ -1,0 +1,141 @@
+{
+ "dateLabel": "SEP 23 • 2026",
+ "arabicDateLabel": "23 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_01.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "عاجل",
+  "arabicHeadline": "بيوم واحد.. حكم بسجن نائبتين 7 سنوات وهو قابل للطعن",
+  "englishSubhead": "BAGHDAD · SEP 23 | CENTRAL FELONY COURT FOR CORRUPTION CASES SENTENCED TWO SITTING MPs ON WEDNESDAY 23 SEP, EACH TO 7 YEARS FOR ILLICIT ENRICHMENT PLUS 3 YEARS FOR CONCEALING FINANCIAL DISCLOSURE DATA, THE HEAVIER TERM APPLIED | ALIA NASSIF JASSIM: RESTITUTION 14.239BN IQD + $12.442M, FINE EQUAL TO THE GAINS, SEIZURE OF MOVABLE AND IMMOVABLE ASSETS UPHELD | ASHWAQ SALEM HASSAN: RESTITUTION ~11.9BN IQD ON THE SAME COUNTS | INTEGRITY COMMISSION MAY PURSUE FURTHER COMPENSATION ONCE THE RULINGS BECOME FINAL — I.E. THEY ARE NOT YET FINAL | SEPARATELY SEP 23, IRAQ AGREED WITH 4 ARAB STATES TO EXCHANGE INFORMATION ON CROSS-BORDER CORRUPTION | SOURCE: 964 NETWORK",
+  "heroMedia": "images/news/2026-09-23-a-two-mps-seven-years/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الحكم",
+   "arabicHeading": "نائبتان.. ونفس العقوبة بنفس اليوم",
+   "arabicBody": "محكمة الجنايات المركزية المختصة بقضايا الفساد حكمت اليوم الأربعاء بسجن النائبتين عالية نصيف وأشواق سالم حسن 7 سنوات عن الكسب غير المشروع (شبكة 964).",
+   "bigStat": {
+    "value": "7",
+    "label": "Years in prison for each of two sitting MPs, ruled Wednesday 23 Sep",
+    "arabicLabel": "سنوات سجناً لكل من النائبتين بحكم صدر الأربعاء 23 أيلول (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "نائبتان",
+     "value": "2"
+    },
+    {
+     "label": "تهمة ثانية",
+     "value": "3 سنوات"
+    },
+    {
+     "label": "تاريخ الحكم",
+     "value": "23 أيلول"
+    }
+   ],
+   "broll": "images/news/2026-09-23-a-two-mps-seven-years/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-23-a-two-mps-seven-years/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "نائبتان بحكم واحد بنفس اليوم",
+    "السجن 7 سنوات لكل واحدة",
+    "والتهمة: الكسب غير المشروع"
+   ]
+  },
+  {
+   "label": "المبالغ",
+   "arabicHeading": "المطلوب ردّه: 14.239 مليار دينار و12.442 مليون دولار",
+   "arabicBody": "ألزمت المحكمة عالية نصيف بردّ 14.239 مليار دينار و12.442 مليون دولار، مع غرامة بمقدار المبلغ، وألزمت أشواق سالم حسن بردّ نحو 11.9 مليار دينار (شبكة 964).",
+   "bigStat": {
+    "value": "14.239",
+    "label": "Billion dinars Alia Nassif was ordered to return, alongside $12.442m",
+    "arabicLabel": "مليار دينار ألزمت المحكمة عالية نصيف بردّها إضافة إلى 12.442 مليون دولار (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "بالدولار",
+     "value": "12.442 مليون"
+    },
+    {
+     "label": "الثانية",
+     "value": "11.9 مليار"
+    },
+    {
+     "label": "الغرامة",
+     "value": "بمقدار المبلغ"
+    }
+   ],
+   "broll": "images/news/2026-09-23-a-two-mps-seven-years/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-23-a-two-mps-seven-years/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "ردّ 14.239 مليار دينار",
+    "و12.442 مليون دولار",
+    "والثانية نحو 11.9 مليار"
+   ]
+  },
+  {
+   "label": "بعدين",
+   "arabicHeading": "الحكم مو بات.. والحجز على الأموال مستمر",
+   "arabicBody": "صادقت المحكمة على الحجز على أموال منقولة وغير منقولة، ولهيئة النزاهة المطالبة بتعويضات بعد اكتساب الحكم الدرجة القطعية — أي أنه قابل للطعن (شبكة 964).",
+   "bigStat": {
+    "value": "4",
+    "label": "Arab states Iraq is coordinating with to exchange cross-border corruption information",
+    "arabicLabel": "دول عربية ينسق معها العراق لتبادل معلومات جرائم الفساد العابرة للحدود (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الحجز",
+     "value": "منقول وغير منقول"
+    },
+    {
+     "label": "الطعن",
+     "value": "ما زال ممكناً"
+    },
+    {
+     "label": "تعاون عربي",
+     "value": "4 دول"
+    }
+   ],
+   "broll": "images/news/2026-09-23-a-two-mps-seven-years/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-23-a-two-mps-seven-years/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الحكم لسه قابل للطعن",
+    "والحجز على الأموال مستمر",
+    "وتعاون مع 4 دول عربية"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "بيوم واحد.. حكم بسجن نائبتين 7 سنوات وهو قابل للطعن (شبكة 964 — 23 أيلول)",
+  "محكمة الجنايات المركزية المختصة بقضايا الفساد: السجن 7 سنوات للنائبة عالية نصيف جاسم عن الكسب غير المشروع (شبكة 964)",
+  "والسجن 7 سنوات للنائبة أشواق سالم حسن عن التهمة نفسها — وكلٌّ من الحكمين تضمّن أيضاً 3 سنوات عن إخفاء بيانات الذمة المالية ونُفّذت العقوبة الأشد (شبكة 964)",
+  "إلزام عالية نصيف بردّ 14.239 مليار دينار و12.442 مليون دولار وغرامة بمقدار مبلغ الكسب غير المشروع (شبكة 964)",
+  "إلزام أشواق سالم حسن بردّ نحو 11.9 مليار دينار وغرامة مماثلة (شبكة 964)",
+  "تصديق الحجز على الأموال المنقولة وغير المنقولة، ولهيئة النزاهة المطالبة بتعويضات بعد اكتساب الحكم الدرجة القطعية (شبكة 964)",
+  "خلصت معاملة بدائرة حكومية بدون واسطة؟"
+ ],
+ "endQuestion": "خلصت معاملة بدائرة حكومية بدون واسطة؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  }
+ ]
+}

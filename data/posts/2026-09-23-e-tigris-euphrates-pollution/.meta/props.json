@@ -1,0 +1,141 @@
+{
+ "dateLabel": "SEP 23 • 2026",
+ "arabicDateLabel": "23 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_05.mp3",
+ "topicBucket": "region_health",
+ "variant": "C",
+ "breaking": {
+  "arabicKicker": "بيئة",
+  "arabicHeadline": "لجنة نيابية: عشرات مشاكل التلوث بدجلة والفرات وتوصيات بالطوارئ القصوى",
+  "englishSubhead": "BAGHDAD · SEP 23 | PARLIAMENTARY COMMITTEE No. 63 OF 2026 ON TIGRIS AND EUPHRATES POLLUTION, CHAIRED BY MP YOUSUF AL-KALABI, SAID ON WED 23 SEP THERE ARE DOZENS OF POLLUTION PROBLEMS IN BOTH RIVERS CAUSING CATASTROPHIC OUTCOMES INCLUDING CANCER AND KIDNEY FAILURE | AL-KALABI SAID WHAT IRAQ LOSES ANNUALLY TO WATER POLLUTION 'MAY MATCH THE NUMBER OF TERRORISM VICTIMS' — HIS CHARACTERISATION, NOT A MEASURED FIGURE; NO CASE COUNT WAS PUBLISHED | THE COMMITTEE EXAMINED THE DIYALA TRIBUTARY'S DISCHARGE INTO THE TIGRIS | RECOMMENDATIONS DUE 24 SEP INCLUDE DECLARING MAXIMUM EMERGENCY, A NATIONAL CAMPAIGN LED BY THE PM, AND HEAVIER PENALTIES UNDER THE ENVIRONMENT LAW | SOURCE: 964 NETWORK, 14:35",
+  "heroMedia": "images/news/2026-09-23-e-tigris-euphrates-pollution/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "التحذير",
+   "arabicHeading": "دجلة والفرات وديالى.. عشرات مشاكل التلوث",
+   "arabicBody": "اللجنة النيابية رقم 63 لسنة 2026 الخاصة بتلوث دجلة والفرات قالت إن بالنهرين عشرات مشاكل التلوث تسبب أمراضاً كارثية منها السرطان والفشل الكلوي (شبكة 964).",
+   "bigStat": {
+    "value": "عشرات",
+    "label": "Dozens of pollution problems in the Tigris and Euphrates, per the committee",
+    "arabicLabel": "مشاكل تلوث في دجلة والفرات بحسب اللجنة النيابية (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "اللجنة",
+     "value": "رقم 63"
+    },
+    {
+     "label": "الأنهر",
+     "value": "دجلة والفرات"
+    },
+    {
+     "label": "الرافد",
+     "value": "ديالى"
+    }
+   ],
+   "broll": "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "لجنة نيابية تفحص النهرين",
+    "عشرات مشاكل التلوث",
+    "سرطان وفشل كلوي بحسب اللجنة"
+   ]
+  },
+  {
+   "label": "المقارنة",
+   "arabicHeading": "الكلابي: خسائرنا قد توازي ضحايا الإرهاب",
+   "arabicBody": "النائب يوسف الكلابي، رئيس اللجنة، قال إن ما يخسره العراق سنوياً من تلوث المياه قد يوازي ضحايا الإرهاب. توصيف منه، ولم تُنشر أرقام حالات (شبكة 964).",
+   "bigStat": {
+    "value": "63",
+    "label": "The number of the parliamentary committee formed on river pollution this year",
+    "arabicLabel": "رقم اللجنة النيابية المشكّلة هذا العام بشأن تلوث النهرين (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "المتحدث",
+     "value": "يوسف الكلابي"
+    },
+    {
+     "label": "الصفة",
+     "value": "رئيس اللجنة"
+    },
+    {
+     "label": "أرقام الحالات",
+     "value": "غير منشورة"
+    }
+   ],
+   "broll": "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الكلابي: قد توازي ضحايا الإرهاب",
+    "توصيف منه لا رقم",
+    "وما نُشرت أرقام حالات"
+   ]
+  },
+  {
+   "label": "التوصيات",
+   "arabicHeading": "التوصيات بكرة: طوارئ قصوى وعقوبات أشد",
+   "arabicBody": "اللجنة قالت إن توصياتها تُعلن في 24 أيلول وتشمل إعلان حالة طوارئ قصوى وحملة وطنية برئاسة رئيس الوزراء، وتشديد عقوبات قانون البيئة (شبكة 964).",
+   "bigStat": {
+    "value": "24",
+    "label": "September — the day the committee said its recommendations would be announced",
+    "arabicLabel": "أيلول موعد إعلان توصيات اللجنة بحسب ما نقلته الشبكة (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الطوارئ",
+     "value": "قصوى"
+    },
+    {
+     "label": "الحملة",
+     "value": "برئاسة الوزراء"
+    },
+    {
+     "label": "العقوبات",
+     "value": "تشديد"
+    }
+   ],
+   "broll": "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-23-e-tigris-euphrates-pollution/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "التوصيات تُعلن بـ24 أيلول",
+    "طوارئ قصوى وحملة وطنية",
+    "وتشديد عقوبات البيئة"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "اللجنة النيابية رقم (63) لسنة 2026 الخاصة بتلوث نهري دجلة والفرات تحذّر من عشرات مشاكل التلوث في النهرين (شبكة 964 — 23 أيلول)",
+  "اللجنة: التلوث يسبب مشاكل كارثية من بينها السرطان والفشل الكلوي (شبكة 964)",
+  "رئيس اللجنة النائب يوسف الكلابي: ما يخسره العراق سنوياً من تلوث المياه قد يوازي عدد ضحايا الإرهاب — توصيف منه ولم تُنشر أرقام حالات",
+  "اللجنة بحثت اندفاع المياه من رافد ديالى إلى نهر دجلة (شبكة 964)",
+  "التوصيات تُعلن في 24 أيلول وتشمل إعلان حالة طوارئ قصوى وحملة وطنية برئاسة رئيس مجلس الوزراء (شبكة 964)",
+  "ومن التوصيات كذلك تشديد العقوبات في قانون حماية وتحسين البيئة (شبكة 964)",
+  "تشرب من مي الإسالة لو تشتري؟"
+ ],
+ "endQuestion": "تشرب من مي الإسالة لو تشتري؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  }
+ ]
+}

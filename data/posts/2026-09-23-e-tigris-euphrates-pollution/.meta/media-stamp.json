@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-23-e-tigris-euphrates-pollution",
+  "date": "2026-09-23",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1496114,
+      "sha256": "e69598e33fb1404c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1508948,
+      "sha256": "dbfa844463f0a842"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1773672,
+      "sha256": "9195d714ff29b0d4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1125035,
+      "sha256": "32144d7221f51434"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+ "dateLabel": "SEP 23 • 2026",
+ "arabicDateLabel": "23 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_03.mp3",
+ "topicBucket": "mena_geo",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "بغداد وواشنطن",
+  "arabicHeadline": "30 أيلول: واشنطن تتحدث عن الانسحاب والمالكي عن حصر السلاح",
+  "englishSubhead": "BAGHDAD / WASHINGTON · SEP 23 | A US STATE DEPARTMENT SPOKESPERSON TOLD SHAFAQ NEWS (08:02, WED 23 SEP) WASHINGTON IS PROCEEDING ON THE TRANSITION TIMELINE AGREED WITH BAGHDAD TO END COALITION MILITARY OPERATIONS, AND IS 'FOCUSED ON COMPLETING THE WITHDRAWAL OF OUR FORCES BY 30 SEPTEMBER', ALIGNED WITH THE END OF OPERATION INHERENT RESOLVE | SAME DAY, NOURI AL-MALIKI TOLD US CHARGE D'AFFAIRES STEPHEN FAGEN IRAQ IS PROCEEDING ON PLACING WEAPONS IN STATE HANDS PER CONSTITUTION AND LAW, AND THAT A PLAN AND TIMELINE WILL BE ANNOUNCED ON 30 SEPTEMBER | AL-MALIKI RESTATED IRAQ REJECTS ITS TERRITORY BEING USED TO ATTACK NEIGHBOURS | THE SPOKESPERSON DID NOT STATE A POSITION ON A DISARMAMENT PLAN RUNNING TO MID-2027 | BAHAA AL-ARAJI SAYS FACTIONS ACCEPTED THE PRINCIPLE, DISPUTE IS OVER THE HANDOVER DEADLINE",
+  "heroMedia": "images/news/2026-09-23-c-withdrawal-30-september/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الانسحاب",
+   "arabicHeading": "واشنطن: نركز على إكمال الانسحاب بـ30 أيلول",
+   "arabicBody": "متحدث باسم الخارجية الأميركية لشفق نيوز: ماضون بالجدول المتفق عليه مع بغداد لإنهاء عمليات التحالف، ونركز على إكمال الانسحاب بحلول 30 أيلول.",
+   "bigStat": {
+    "value": "30",
+    "label": "September — the date Washington says it is focused on completing the withdrawal by",
+    "arabicLabel": "أيلول الموعد الذي تقول واشنطن إنها تركز على إكمال الانسحاب بحلوله (شفق نيوز)"
+   },
+   "supportingStats": [
+    {
+     "label": "المصدر",
+     "value": "الخارجية الأميركية"
+    },
+    {
+     "label": "العملية",
+     "value": "العزم الصلب"
+    },
+    {
+     "label": "التاريخ",
+     "value": "30 أيلول"
+    }
+   ],
+   "broll": "images/news/2026-09-23-c-withdrawal-30-september/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-23-c-withdrawal-30-september/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الخارجية الأميركية تتحدث لشفق نيوز",
+    "نركز على إكمال الانسحاب",
+    "بحلول 30 أيلول"
+   ]
+  },
+  {
+   "label": "السلاح",
+   "arabicHeading": "المالكي لفيغن: الخطة والسقف الزمني بنفس اليوم",
+   "arabicBody": "نوري المالكي أبلغ القائم بالأعمال الأميركي ستيفن فيغن أن العراق ماضٍ بحصر السلاح وفق الدستور والقانون، وأن خطة وسقفاً زمنياً يُعلنان في 30 أيلول (شبكة 964).",
+   "bigStat": {
+    "value": "7",
+    "label": "Days between the 23 Sep statements and the 30 Sep announcement (computed)",
+    "arabicLabel": "أيام تفصل بين تصريح 23 أيلول وموعد الإعلان في 30 أيلول (محتسب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الجهة",
+     "value": "نوري المالكي"
+    },
+    {
+     "label": "المخاطَب",
+     "value": "ستيفن فيغن"
+    },
+    {
+     "label": "الإعلان",
+     "value": "30 أيلول"
+    }
+   ],
+   "broll": "images/news/2026-09-23-c-withdrawal-30-september/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-23-c-withdrawal-30-september/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "المالكي يبلغ ستيفن فيغن",
+    "حصر السلاح وفق الدستور والقانون",
+    "والخطة تُعلن بـ30 أيلول"
+   ]
+  },
+  {
+   "label": "الخلاف",
+   "arabicHeading": "الاتفاق على المبدأ.. والخلاف على المهلة",
+   "arabicBody": "بهاء الأعرجي: الفصائل وافقت على حصر السلاح، والخلاف على مهلة التسليم. والمتحدث الأميركي لم يُبدِ موقفاً من خطة تمتد إلى منتصف 2027 (شبكة 964، شفق نيوز).",
+   "bigStat": {
+    "value": "2027",
+    "label": "Mid-year of a disarmament plan the US spokesperson declined to take a position on",
+    "arabicLabel": "منتصف العام الذي تمتد إليه خطة لحصر السلاح لم يُبدِ المتحدث الأميركي موقفاً منها (شفق نيوز)"
+   },
+   "supportingStats": [
+    {
+     "label": "الموقف",
+     "value": "الفصائل وافقت"
+    },
+    {
+     "label": "الخلاف",
+     "value": "مهلة التسليم"
+    },
+    {
+     "label": "واشنطن",
+     "value": "بلا موقف معلن"
+    }
+   ],
+   "broll": "images/news/2026-09-23-c-withdrawal-30-september/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-23-c-withdrawal-30-september/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الفصائل وافقت على المبدأ",
+    "والخلاف على مهلة التسليم",
+    "وواشنطن لم تُبدِ موقفاً"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "متحدث باسم الخارجية الأميركية لشفق نيوز: نركز على استكمال انسحاب قواتنا من العراق بحلول 30 أيلول (شفق نيوز — 23 أيلول)",
+  "واشنطن: ماضون وفق الجدول الانتقالي المتفق عليه مع بغداد لإنهاء العمليات العسكرية لقوات التحالف (شفق نيوز)",
+  "نوري المالكي للقائم بالأعمال الأميركي ستيفن فيغن: خطة وسقف زمني لحصر السلاح سيُعلنان في 30 أيلول (شبكة 964 — 23 أيلول)",
+  "المالكي: معالجة الملف عبر الحوار والتفاهم ووفق الأطر الدستورية والقانونية، ورفض استخدام أرض العراق لمهاجمة أي دولة جوار (شبكة 964)",
+  "المتحدث الأميركي لم يحدد موقفاً من خطة لحصر السلاح تمتد إلى منتصف 2027 (شفق نيوز)",
+  "بهاء الأعرجي: الفصائل وافقت على حصر السلاح والخلاف حول مهلة التسليم (شبكة 964)",
+  "تحس منطقتك أأمن من قبل سنة؟"
+ ],
+ "endQuestion": "تحس منطقتك أأمن من قبل سنة؟",
+ "sources": [
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  }
+ ]
+}

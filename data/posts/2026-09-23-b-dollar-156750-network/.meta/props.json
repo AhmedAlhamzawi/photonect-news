@@ -1,0 +1,145 @@
+{
+ "dateLabel": "SEP 23 • 2026",
+ "arabicDateLabel": "23 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "الدولار اليوم",
+  "arabicHeadline": "بورصة بغداد تغلق عند 156,750.. و5 موقوفين بشبهة المضاربة",
+  "englishSubhead": "BAGHDAD · SEP 23 | 964 MORNING LIST (11:19, WED 23 SEP), PER $100: BAGHDAD SELL 157,000 / BUY 156,750; ERBIL SELL 157,000 / BUY 156,500; BASRA SELL 156,750 / BUY 156,250; CBI OFFICIAL 131,000 | SHAFAQ AT CLOSE (13:26, WED): KIFAH & HARITHIYA CLOSED 156,750, DOWN FROM 157,000 THAT MORNING; BAGHDAD SHOPS SELL 157,250 / BUY 156,250; ERBIL SELL 156,750 / BUY 156,700 | 964'S OWN MORNING LIST ON SUN 20 SEP PUT BAGHDAD SELL AT 159,750 — A LIKE-FOR-LIKE FALL OF 2,750 IN THREE DAYS (COMPUTED FROM 964'S TWO LISTS) | GOLD, SHAFAQ WED: NAHR ST WHOLESALE 21K FOREIGN MITHQAL SELL 973,000, UP FROM 965,000 TUESDAY | INTERIOR MINISTRY FEDERAL INTELLIGENCE AGENCY DISMANTLED A CURRENCY-SPECULATION RING IN RUSAFA: 5 HELD, $240,000 SEIZED, REFERRED UNDER ARTICLE 57 OF THE BANKING LAW",
+  "heroMedia": "images/news/2026-09-23-b-dollar-156750-network/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "السعر",
+   "arabicHeading": "قائمة 964: بيع 157,000 ببغداد صباحاً",
+   "arabicBody": "صباح الأربعاء، قائمة شبكة 964: بيع 100 دولار ببغداد 157,000 دينار، وأربيل 157,000، والبصرة 156,750 — بينما الرسمي عند البنك المركزي 131,000.",
+   "bigStat": {
+    "value": "157,000",
+    "label": "Dinars, selling price per $100 in Baghdad, 964 morning list, Wednesday",
+    "arabicLabel": "دينار سعر بيع 100 دولار ببغداد في قائمة شبكة 964 صباح الأربعاء"
+   },
+   "supportingStats": [
+    {
+     "label": "أربيل",
+     "value": "157,000"
+    },
+    {
+     "label": "البصرة",
+     "value": "156,750"
+    },
+    {
+     "label": "الرسمي",
+     "value": "131,000"
+    }
+   ],
+   "broll": "images/news/2026-09-23-b-dollar-156750-network/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-23-b-dollar-156750-network/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "قائمة 964 صباح الأربعاء",
+    "بغداد البيع 157,000",
+    "والرسمي عند المركزي 131,000"
+   ]
+  },
+  {
+   "label": "النزول",
+   "arabicHeading": "بثلاثة أيام.. نزل 2,750 ديناراً",
+   "arabicBody": "عند الإغلاق سجّلت شفق نيوز 156,750 بعد 157,000 صباحاً، وقائمة 964 نفسها كانت 159,750 يوم الأحد — نزول 2,750 ديناراً بثلاثة أيام (محتسب من قائمتَي 964).",
+   "bigStat": {
+    "value": "2,750",
+    "label": "Dinars the 964 Baghdad morning sell price fell between Sunday and Wednesday (computed)",
+    "arabicLabel": "ديناراً نزول سعر بيع بغداد بين قائمتَي 964 يوم الأحد ويوم الأربعاء (محتسب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الأحد",
+     "value": "159,750"
+    },
+    {
+     "label": "الأربعاء",
+     "value": "157,000"
+    },
+    {
+     "label": "الإغلاق",
+     "value": "156,750"
+    }
+   ],
+   "broll": "images/news/2026-09-23-b-dollar-156750-network/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-23-b-dollar-156750-network/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الإغلاق 156,750",
+    "والأحد كان 159,750",
+    "فرق 2,750 ديناراً (محتسب)"
+   ]
+  },
+  {
+   "label": "المضاربة",
+   "arabicHeading": "الاستخبارات تضبط 5 بشبهة المتاجرة بالعملة",
+   "arabicBody": "وكالة الاستخبارات والتحقيقات الاتحادية بالداخلية أعلنت ضبط 5 أشخاص بالرصافة بشبهة المضاربة بالدولار، وضبطت 240 ألف دولار وأحالتهم وفق المادة 57 من قانون المصارف (شبكة 964).",
+   "bigStat": {
+    "value": "240,000",
+    "label": "US dollars seized with five suspects referred in the Rusafa speculation case",
+    "arabicLabel": "دولار ضبطتها الاستخبارات مع 5 أشخاص بقضية المضاربة بالرصافة (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "الموقوفون",
+     "value": "5"
+    },
+    {
+     "label": "المادة",
+     "value": "57"
+    },
+    {
+     "label": "المكان",
+     "value": "الرصافة"
+    }
+   ],
+   "broll": "images/news/2026-09-23-b-dollar-156750-network/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-23-b-dollar-156750-network/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "الاستخبارات تعلن ضبط 5 أشخاص",
+    "بالرصافة وبتهمة المتاجرة بالعملة",
+    "وضبط 240 ألف دولار"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "الدولار يغلق عند 156,750 ببغداد.. و5 موقوفين بشبهة المضاربة (شبكة 964 وشفق نيوز — 23 أيلول)",
+  "قائمة شبكة 964 صباح الأربعاء: بيع 100 دولار ببغداد 157,000 دينار والشراء 156,750 (شبكة 964)",
+  "أربيل: البيع 157,000 والشراء 156,500 — البصرة: البيع 156,750 والشراء 156,250 (شبكة 964)",
+  "شفق نيوز عند الإغلاق: بورصتا الكفاح والحارثية 156,750 بعد 157,000 في الصباح، ومحال بغداد بيع 157,250 وشراء 156,250",
+  "قائمة 964 يوم الأحد 20 أيلول كانت 159,750 لبيع بغداد — نزول 2,750 ديناراً بثلاثة أيام (محتسب من قائمتَي الشبكة نفسها)",
+  "السعر الرسمي للبنك المركزي 131,000 دينار لكل 100 دولار — والذهب: مثقال الأجنبي عيار 21 بشارع النهر بيع 973,000 بعد 965,000 الثلاثاء (شفق نيوز)",
+  "الصيرفة بمنطقتك بيعتك بكم اليوم؟"
+ ],
+ "endQuestion": "الصيرفة بمنطقتك بيعتك بكم اليوم؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  }
+ ]
+}

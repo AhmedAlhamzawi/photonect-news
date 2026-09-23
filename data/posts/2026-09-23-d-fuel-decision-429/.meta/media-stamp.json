@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-23-d-fuel-decision-429",
+  "date": "2026-09-23",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 649743,
+      "sha256": "e722a09266f04a50"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 862394,
+      "sha256": "fc7da2bc91b80426"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 949094,
+      "sha256": "9d88addf1ae0e999"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1349407,
+      "sha256": "72d2283075d49749"
+    }
+  ]
+}

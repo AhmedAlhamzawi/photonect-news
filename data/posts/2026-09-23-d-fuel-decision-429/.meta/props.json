@@ -1,0 +1,145 @@
+{
+ "dateLabel": "SEP 23 • 2026",
+ "arabicDateLabel": "23 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_newsroom.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "قرار نيابي",
+  "arabicHeadline": "البرلمان يطالب بإعادة النظر بقرار رفع أسعار المشتقات.. وسعر اللتر لم يُعلن",
+  "englishSubhead": "BAGHDAD · SEP 23 | PARLIAMENT ISSUED LEGISLATIVE DECISION No. 55 OF 2026 CALLING ON THE GOVERNMENT TO RECONSIDER CABINET DECISION No. 429 OF 2026, WHICH RAISED PETROLEUM-DERIVATIVE PRICES, AND TO COMMISSION A STUDY OF THE ECONOMIC AND SOCIAL EFFECTS ON TRANSPORT, PRODUCTION AND EMPLOYMENT COSTS | 12 RECOMMENDATIONS INCLUDE RESTORING THE AGRICULTURAL FUEL SUBSIDY, ELECTRONIC MONITORING AGAINST SMUGGLING, AND TIMELINES FOR REFINERY PROJECTS | SHAFAQ REPORTS THE RECOMMENDATIONS WERE VOTED ON MON 21 SEP WITH 232 MPs PRESENT | NEITHER SOURCE PUBLISHED A PER-LITRE PRICE | SOURCES: 964, SHAFAQ",
+  "heroMedia": "images/news/2026-09-23-d-fuel-decision-429/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "القرار",
+   "arabicHeading": "قرار نيابي 55 يطالب بمراجعة قرار 429",
+   "arabicBody": "مجلس النواب أصدر القرار رقم 55 لسنة 2026 يدعو الحكومة لإعادة النظر بقرار مجلس الوزراء 429 الذي رفع أسعار المشتقات النفطية (شبكة 964).",
+   "bigStat": {
+    "value": "55",
+    "label": "The parliamentary decision number issued on 23 Sep against Cabinet decision 429",
+    "arabicLabel": "رقم القرار النيابي الصادر في 23 أيلول بمواجهة قرار مجلس الوزراء 429 (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "قرار الوزراء",
+     "value": "429"
+    },
+    {
+     "label": "قرار النواب",
+     "value": "55"
+    },
+    {
+     "label": "السنة",
+     "value": "2026"
+    }
+   ],
+   "broll": "images/news/2026-09-23-d-fuel-decision-429/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-23-d-fuel-decision-429/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "قرار نيابي رقم 55",
+    "يطلب إعادة النظر",
+    "بقرار مجلس الوزراء 429"
+   ]
+  },
+  {
+   "label": "الطلبات",
+   "arabicHeading": "12 توصية.. وإعادة دعم الوقود للزراعة",
+   "arabicBody": "التوصيات شملت دراسة الآثار الاقتصادية والاجتماعية على كلف النقل والإنتاج، وإعادة دعم الوقود للقطاع الزراعي، ومراقبة إلكترونية لمنع التهريب، وسقوفاً زمنية لمشاريع المصافي (شبكة 964).",
+   "bigStat": {
+    "value": "12",
+    "label": "Recommendations parliament attached to its decision",
+    "arabicLabel": "توصية أرفقها مجلس النواب بقراره (شبكة 964)"
+   },
+   "supportingStats": [
+    {
+     "label": "النقل",
+     "value": "دراسة الكلف"
+    },
+    {
+     "label": "الزراعة",
+     "value": "إعادة الدعم"
+    },
+    {
+     "label": "التهريب",
+     "value": "مراقبة إلكترونية"
+    }
+   ],
+   "broll": "images/news/2026-09-23-d-fuel-decision-429/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-23-d-fuel-decision-429/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "12 توصية أرفقها البرلمان",
+    "إعادة دعم الوقود للزراعة",
+    "ومراقبة إلكترونية للتهريب"
+   ]
+  },
+  {
+   "label": "الغامض",
+   "arabicHeading": "232 نائباً بالجلسة.. وسعر اللتر ما انذكر",
+   "arabicBody": "شفق نيوز: التصويت جرى الاثنين بحضور 232 نائباً. لا نص القرار ولا تغطية الجلسة ذكرا سعر اللتر، والبرلمان طلب تقريراً بالإنتاج والاستهلاك والخزين.",
+   "bigStat": {
+    "value": "232",
+    "label": "MPs present at the vote on the fuel recommendations, per Shafaq",
+    "arabicLabel": "نائباً حضروا التصويت على توصيات أزمة الوقود بحسب شفق نيوز"
+   },
+   "supportingStats": [
+    {
+     "label": "التصويت",
+     "value": "الاثنين 21 أيلول"
+    },
+    {
+     "label": "الحضور",
+     "value": "232 نائباً"
+    },
+    {
+     "label": "سعر اللتر",
+     "value": "غير معلن"
+    }
+   ],
+   "broll": "images/news/2026-09-23-d-fuel-decision-429/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-23-d-fuel-decision-429/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية · KIE",
+   "subtitlePhrases": [
+    "232 نائباً حضروا الجلسة",
+    "وسعر اللتر ما انذكر",
+    "والبرلمان يطلب تقريراً بالأرقام"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "مجلس النواب يصدر القرار النيابي رقم (55) لسنة 2026 داعياً لإعادة النظر بقرار مجلس الوزراء رقم (429) لسنة 2026 برفع أسعار المشتقات النفطية (شبكة 964 — 23 أيلول)",
+  "البرلمان يطالب بدراسة تقييمية للآثار الاقتصادية والاجتماعية الناجمة عن الترفيع، وخصوصاً على كلف النقل والإنتاج والتشغيل (شبكة 964)",
+  "من التوصيات: إعادة دعم الوقود للقطاع الزراعي، ومراقبة إلكترونية لمنع التهريب، وسقوف زمنية لمشاريع تطوير المصافي (شبكة 964)",
+  "ومنها كذلك: خطة عاجلة لمنع تكرار أزمات الوقود وضمان انسيابية التجهيز بين المحافظات (شفق نيوز)",
+  "وتقرير مفصل إلى المجلس يتضمن حجم الإنتاج والاستيراد والاستهلاك والكلف والخزين الستراتيجي (شفق نيوز)",
+  "شفق نيوز: التصويت على التوصيات جرى الاثنين 21 أيلول بحضور 232 نائباً — ولم يُعلَن سعر اللتر في أي من التغطيتين",
+  "شكد تدفع بنزين بالأسبوع؟"
+ ],
+ "endQuestion": "شكد تدفع بنزين بالأسبوع؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  }
+ ]
+}
