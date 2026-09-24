@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 24 • 2026",
+  "arabicDateLabel": "24 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "سعر الدولار في العراق اليوم — بغداد 157,000 بقائمة 964، أقل 2,000 بأسبوع",
+    "englishSubhead": "964 LIST | BAGHDAD 157,000 | -2,000 WEEK (COMPUTED)",
+    "heroMedia": "images/news/2026-09-24-b-dollar-week-2000/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اليوم",
+      "arabicHeading": "قائمة 964: بيع 100 دولار ببغداد 157,000",
+      "arabicBody": "بحسب قائمة شبكة 964 صباح الخميس، بيع 100 دولار في بغداد وأربيل والبصرة 157,000 دينار، والسعر الرسمي للبنك المركزي 131,000.",
+      "bigStat": {
+        "value": "157,000",
+        "label": "Dinars, sell price per $100 in Baghdad, 964 morning list, Thursday 24 Sep",
+        "arabicLabel": "بيع بغداد · قائمة 964"
+      },
+      "supportingStats": [
+        {
+          "label": "أربيل",
+          "value": "157,000"
+        },
+        {
+          "label": "البصرة",
+          "value": "157,000"
+        },
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        }
+      ],
+      "broll": "images/news/2026-09-24-b-dollar-week-2000/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-24-b-dollar-week-2000/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بغداد 157,000 بقائمة شبكة 964",
+        "أربيل والبصرة على نفس الرقم",
+        "والسعر الرسمي 131,000"
+      ]
+    },
+    {
+      "label": "الأسبوع",
+      "arabicHeading": "قائمة الخميس الماضي: بغداد 159,000",
+      "arabicBody": "قائمة شبكة 964 نفسها صباح الخميس 17 أيلول سجّلت بيع بغداد 159,000 دينار. الفرق عن قائمة اليوم 2,000 دينار خلال أسبوع (محتسب من القائمتين).",
+      "bigStat": {
+        "value": "2,000",
+        "label": "Dinars lower: 964 Baghdad morning sell, Thu 17 Sep vs Thu 24 Sep (computed)",
+        "arabicLabel": "الفرق بأسبوع (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "17 أيلول",
+          "value": "159,000"
+        },
+        {
+          "label": "24 أيلول",
+          "value": "157,000"
+        },
+        {
+          "label": "المصدر",
+          "value": "قائمتا 964"
+        }
+      ],
+      "broll": "images/news/2026-09-24-b-dollar-week-2000/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-24-b-dollar-week-2000/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "قائمة 964 الخميس الماضي: 159,000",
+        "وقائمة اليوم: 157,000",
+        "الفرق 2,000 دينار (محتسب)"
+      ]
+    },
+    {
+      "label": "الذهب",
+      "arabicHeading": "شفق نيوز: مثقال الذهب بشارع النهر 945,000",
+      "arabicBody": "بحسب شفق نيوز صباح الخميس، مثقال الذهب الخليجي والتركي والأوروبي عيار 21 بجملة شارع النهر بيع 945,000 دينار وشراء 941,000، والعراقي بيع 915,000.",
+      "bigStat": {
+        "value": "945,000",
+        "label": "Dinars, sell price per mithqal of 21K foreign gold, Nahr St wholesale, Thursday (Shafaq)",
+        "arabicLabel": "مثقال عيار 21 · شفق نيوز"
+      },
+      "supportingStats": [
+        {
+          "label": "الشراء",
+          "value": "941,000"
+        },
+        {
+          "label": "العراقي",
+          "value": "915,000"
+        },
+        {
+          "label": "عيار",
+          "value": "21"
+        }
+      ],
+      "broll": "images/news/2026-09-24-b-dollar-week-2000/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-24-b-dollar-week-2000/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "شفق نيوز: الأجنبي عيار 21 بـ945,000",
+        "والعراقي 915,000",
+        "بجملة شارع النهر ببغداد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سعر الدولار في العراق اليوم — بغداد 157,000 بقائمة 964، أقل 2,000 بأسبوع",
+    "قائمة شبكة 964 صباح الخميس 24 أيلول: بغداد بيع 157,000 وشراء 156,750، والرسمي 131,000",
+    "أربيل بيع 157,000 وشراء 156,250، والبصرة بيع 157,000 وشراء 156,500 — قائمة شبكة 964",
+    "قائمة 964 صباح الخميس 17 أيلول سجّلت بيع بغداد 159,000 — الفرق 2,000 دينار بأسبوع (محتسب)",
+    "شفق نيوز صباح الخميس: بورصتا الكفاح والحارثية 156,800، ومحال بغداد بيع 157,250 وشراء 156,250",
+    "شفق نيوز: مثقال الذهب الأجنبي عيار 21 بجملة شارع النهر 945,000، والعراقي 915,000",
+    "بدّلت دولار هالأسبوع؟"
+  ],
+  "endQuestion": "بدّلت دولار هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

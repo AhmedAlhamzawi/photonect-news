@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-24-a-france-13-million",
+  "date": "2026-09-24",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 947330,
+      "sha256": "aaef8ae14df31833"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1310786,
+      "sha256": "27521018d53812ff"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 366281,
+      "sha256": "bc57ef3d562432ce"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 645100,
+      "sha256": "d5afef342096d7a5"
+    }
+  ]
+}

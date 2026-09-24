@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-24-e-mehran-453-million",
+  "date": "2026-09-24",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1344339,
+      "sha256": "bad033075cdeb231"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 967260,
+      "sha256": "af4ca1c31887d4be"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 940426,
+      "sha256": "b2639ca7d5b485fc"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1155614,
+      "sha256": "c18bf20d70a3aeee"
+    }
+  ]
+}

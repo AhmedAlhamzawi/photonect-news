@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 24 • 2026",
+  "arabicDateLabel": "24 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "13 مليون دولار كانت محجوزة في بنوك فرنسا.. الصندوق يعلن عودتها للخزينة",
+    "englishSubhead": "BAGHDAD · SEP 24 | IRAQ'S ASSET RECOVERY FUND SAID ON THURSDAY 24 SEP IT RETURNED $13M OF IRAQI FUNDS FROZEN IN FRENCH BANKS UNDER JUDICIAL RULINGS TO THE STATE TREASURY (SHAFAQ NEWS; 964) | DEPOSITED IN FINANCE MINISTRY ACCOUNTS IN COORDINATION WITH ARAB SWISS BANK, SAID FUND CHAIR MOHAMMED ALI AL-LAMI, WHO ALSO HEADS THE INTEGRITY COMMISSION | 964: THE RETURN FOLLOWED UNDERSTANDINGS IN PARIS WITH THE FRENCH ANTI-CORRUPTION AGENCY AND JUSTICE MINISTRY DURING PM ALI AL-ZAIDI'S DELEGATION VISIT; TALKS COVERED EXTRADITION OF WANTED PERSONS AND FREEZING IRAQI ASSETS SMUGGLED ABROAD | THE OWNER/CASE BEHIND THE FUNDS WAS NOT DISCLOSED",
+    "heroMedia": "images/news/2026-09-24-a-france-13-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المبلغ",
+      "arabicHeading": "13 مليون دولار كانت محجوزة بقرارات قضائية",
+      "arabicBody": "أعلن صندوق استرداد أموال العراق، الخميس، استعادة 13 مليون دولار من أموال عراقية محجوزة في بنوك فرنسية بموجب قرارات قضائية، وإعادتها إلى خزينة الدولة (شفق نيوز).",
+      "bigStat": {
+        "value": "13",
+        "label": "Million US dollars of frozen Iraqi funds returned from French banks, 24 Sep",
+        "arabicLabel": "مليون دولار أموال عراقية محجوزة ببنوك فرنسا رجعت للخزينة (شفق نيوز، شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "بنوك فرنسية"
+        },
+        {
+          "label": "السند",
+          "value": "قرارات قضائية"
+        },
+        {
+          "label": "الوجهة",
+          "value": "خزينة الدولة"
+        }
+      ],
+      "broll": "images/news/2026-09-24-a-france-13-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-24-a-france-13-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "13 مليون دولار كانت محجوزة في فرنسا",
+        "والحجز كان بموجب قرارات قضائية",
+        "والصندوق يعلن عودتها إلى خزينة الدولة"
+      ]
+    },
+    {
+      "label": "إلى أين؟",
+      "arabicHeading": "إلى أين ذهب المبلغ؟ حسابات وزارة المالية",
+      "arabicBody": "قال رئيس الصندوق محمد علي اللامي إن المبلغ أُودع في حسابات وزارة المالية بالتنسيق مع البنك العربي السويسري (شفق، 964).",
+      "bigStat": {
+        "value": "24",
+        "label": "September — date the fund announced the deposit into Finance Ministry accounts",
+        "arabicLabel": "أيلول: إعلان إيداع المبلغ بحسابات وزارة المالية (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "وزارة المالية"
+        },
+        {
+          "label": "بالتنسيق",
+          "value": "العربي السويسري"
+        },
+        {
+          "label": "الإعلان",
+          "value": "24 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-24-a-france-13-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-24-a-france-13-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المبلغ أُودع في حسابات وزارة المالية",
+        "بالتنسيق مع البنك العربي السويسري",
+        "والإعلان صدر اليوم الخميس"
+      ]
+    },
+    {
+      "label": "باريس",
+      "arabicHeading": "تفاهمات باريس: تسليم مطلوبين وتجميد أصول",
+      "arabicBody": "حسب شبكة 964، جاء الاسترداد بعد تفاهمات في باريس خلال زيارة وفد الزيدي، حيث بحث اللامي مع ثلاث جهات فرنسية تسليم المطلوبين وتجميد الأصول المهربة.",
+      "bigStat": {
+        "value": "3",
+        "label": "French bodies al-Lami met in Paris: anti-corruption agency, asset-recovery agency, justice ministry",
+        "arabicLabel": "جهات فرنسية بحث معها اللامي بباريس: مكافحة الفساد واسترداد الموجودات والعدل (شبكة 964)"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف",
+          "value": "تسليم المطلوبين"
+        },
+        {
+          "label": "الأصول",
+          "value": "تجميد المهرّب"
+        },
+        {
+          "label": "الهدف",
+          "value": "اتفاق رسمي"
+        }
+      ],
+      "broll": "images/news/2026-09-24-a-france-13-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-24-a-france-13-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الاسترداد جاء بعد تفاهمات في باريس",
+        "اللامي بحث تسليم المطلوبين وتجميد الأصول",
+        "وبغداد تتطلع لاتفاق رسمي مع الوكالة الفرنسية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "13 مليون دولار كانت محجوزة في بنوك فرنسا.. الصندوق يعلن عودتها للخزينة",
+    "رئيس الصندوق محمد علي اللامي: المبلغ أُودع في حسابات وزارة المالية بالتنسيق مع البنك العربي السويسري",
+    "الأموال كانت محجوزة في البنوك الفرنسية بموجب قرارات قضائية (شفق نيوز)",
+    "شبكة 964: الخطوة جاءت بعد تفاهمات في باريس مع الوكالة الفرنسية لمكافحة الفساد ووزارة العدل",
+    "التفاهمات جرت على هامش زيارة الوفد الحكومي برئاسة رئيس الوزراء علي الزيدي إلى فرنسا (شبكة 964)",
+    "اللامي بحث تسليم المطلوبين وتجميد الأصول المهربة، وبغداد تتطلع لاتفاق رسمي مع الوكالة الفرنسية (شبكة 964)",
+    "هل سمعت بصندوق استرداد أموال العراق قبل اليوم؟"
+  ],
+  "endQuestion": "هل سمعت بصندوق استرداد أموال العراق قبل اليوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

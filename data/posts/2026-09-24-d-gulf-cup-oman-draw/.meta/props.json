@@ -1,0 +1,149 @@
+{
+ "dateLabel": "SEP 24 • 2026",
+ "arabicDateLabel": "24 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_newsroom.mp3",
+ "topicBucket": "region_sport",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "خليجي 27",
+  "arabicHeadline": "العراق وعُمان في خليجي 27: هدف بالدقيقة 6.. وتعادل بالـ67",
+  "englishSubhead": "IRAQ 1-1 OMAN | GULF CUP 27 | JEDDAH | KUWAIT NEXT",
+  "heroMedia": "images/news/2026-09-24-d-gulf-cup-oman-draw/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "النتيجة",
+   "arabicHeading": "أسود الرافدين يفتتحون خليجي 27 بتعادل في جدة",
+   "arabicBody": "صافرة البداية في ملعب الأمير عبد الله الفيصل بجدة، والمنتخب العراقي يخرج بنقطة أمام عُمان مساء الأربعاء في افتتاح مشواره بالمجموعة الأولى (الخليج).",
+   "bigStat": {
+    "value": "1-1",
+    "label": "Iraq 1-1 Oman",
+    "arabicLabel": "العراق وعُمان"
+   },
+   "supportingStats": [
+    {
+     "label": "الملعب",
+     "value": "ملعب الفيصل بجدة"
+    },
+    {
+     "label": "المدينة",
+     "value": "جدة"
+    },
+    {
+     "label": "المجموعة",
+     "value": "الأولى"
+    }
+   ],
+   "broll": "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "صافرة جدة: العراق وعُمان 1-1",
+    "نقطة أولى لأسود الرافدين",
+    "والمجموعة الأولى بدأت للتو"
+   ]
+  },
+  {
+   "label": "الأهداف",
+   "arabicHeading": "رأسية أيمن حسين.. ومحمد قاسم يهز الشباك مبكراً",
+   "arabicBody": "هدف مبكر وجميل: محمد قاسم يسجل بالدقيقة 6 إثر رأسية من أيمن حسين، والرواحي يعادل بالدقيقة 67، والعراق يصنع فرصاً أكثر بعدها بلا هدف ثانٍ (الخليج).",
+   "bigStat": {
+    "value": "6'",
+    "label": "Iraq's goal, sixth minute",
+    "arabicLabel": "دقيقة الهدف"
+   },
+   "supportingStats": [
+    {
+     "label": "هدفنا",
+     "value": "محمد قاسم"
+    },
+    {
+     "label": "الصناعة",
+     "value": "رأسية أيمن حسين"
+    },
+    {
+     "label": "التعادل",
+     "value": "الدقيقة 67"
+    }
+   ],
+   "broll": "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "محمد قاسم يفتتح التسجيل بالدقيقة 6",
+    "رأسية أيمن حسين صنعت الهدف",
+    "والرواحي يعادل لعُمان بالدقيقة 67"
+   ]
+  },
+  {
+   "label": "الخطوة التالية",
+   "arabicHeading": "السعودية تتصدر.. والكويت محطة العراق السبت",
+   "arabicBody": "السعودية فازت على الكويت 1-0 وتصدرت المجموعة. العراق يلاقي الكويت السبت 26 أيلول الساعة 18:55 بتوقيت بغداد، والأول والثاني فقط يعبران لنصف النهائي (شفق نيوز، المشهد).",
+   "bigStat": {
+    "value": "26",
+    "label": "September: Iraq vs Kuwait, Saturday",
+    "arabicLabel": "أيلول، السبت"
+   },
+   "supportingStats": [
+    {
+     "label": "الخصم",
+     "value": "الكويت"
+    },
+    {
+     "label": "الموعد",
+     "value": "السبت 18:55"
+    },
+    {
+     "label": "المتأهلون",
+     "value": "الأول والثاني"
+    }
+   ],
+   "broll": "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-24-d-gulf-cup-oman-draw/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "السعودية تتصدر بعد 1-0 على الكويت",
+    "العراق والكويت السبت 18:55 بتوقيت بغداد",
+    "الأول والثاني فقط إلى نصف النهائي"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "العراق وعُمان في خليجي 27: هدف بالدقيقة 6.. وتعادل بالـ67",
+  "محمد قاسم يسجل بالدقيقة 6 إثر رأسية من أيمن حسين، وناصر الرواحي يعادل بالدقيقة 67 (الخليج، المشهد)",
+  "السعودية تهزم الكويت 1-0 وتتصدر المجموعة الأولى بعد تعادل العراق وعُمان (شفق نيوز)",
+  "العراق صنع فرصاً هجومية أكثر بعد هدف التعادل العُماني، لكن الهدف الثاني لم يأتِ (الخليج)",
+  "العراق يلاقي الكويت يوم السبت 26 أيلول الساعة 18:55 بتوقيت بغداد (المشهد)",
+  "8 منتخبات في جدة من 23 أيلول إلى 6 تشرين الأول، والأول والثاني من كل مجموعة يتأهلان (شفق نيوز)",
+  "راح تتابع مباراة الكويت السبت؟"
+ ],
+ "endQuestion": "راح تتابع مباراة الكويت السبت؟",
+ "sources": [
+  {
+   "name": "صحيفة الخليج",
+   "domain": "alkhaleej.ae"
+  },
+  {
+   "name": "المشهد",
+   "domain": "almashhad.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  }
+ ]
+}

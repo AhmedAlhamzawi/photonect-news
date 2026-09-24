@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-24-b-dollar-week-2000",
+  "date": "2026-09-24",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1081757,
+      "sha256": "6226f86e2f18d3e4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 452059,
+      "sha256": "b89b1ee133d07b4b"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 492691,
+      "sha256": "f5249661ee36d1d9"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1294074,
+      "sha256": "0bafad8ec8c5b71d"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 24 • 2026",
+  "arabicDateLabel": "24 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "اقتصاد العراق",
+    "arabicHeadline": "البنك الأوروبي: اقتصاد العراق ينكمش 12% هذا العام بسبب اضطراب هرمز",
+    "englishSubhead": "LONDON/BAGHDAD · SEP 24 | EBRD REGIONAL ECONOMIC PROSPECTS, 24 SEP 2026: IRAQ'S ECONOMY IS EXPECTED TO CONTRACT BY 12.0% IN 2026 BEFORE REBOUNDING BY 14.0% IN 2027 | THE DOWNTURN REFLECTS SEVERE DISRUPTIONS TO OIL EXPORTS THROUGH THE STRAIT OF HORMUZ; ALTERNATIVE ROUTES CARRIED LESS THAN A QUARTER OF IRAQ'S NORMAL EXPORT VOLUMES, WITH A SUBSTANTIAL IMPACT ON GROWTH, PUBLIC FINANCES AND FX RESERVES | THE 2027 REBOUND ASSUMES OIL EXPORTS NORMALISE | SHAFAQ: THE LARGEST DOWNGRADE AMONG ECONOMIES COVERED; LEBANON -5% | SEMED REGION -0.7% IN 2026 (EBRD)",
+    "heroMedia": "images/news/2026-09-24-c-ebrd-minus-12/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التوقع",
+      "arabicHeading": "اقتصاد العراق ناقص 12% هذا العام",
+      "arabicBody": "البنك الأوروبي لإعادة الإعمار والتنمية توقّع، بتقرير صدر الخميس، انكماش اقتصاد العراق 12% خلال 2026. شفق نيوز وصفته بأكبر خفض بين الاقتصادات التي يغطيها التقرير.",
+      "bigStat": {
+        "value": "-12%",
+        "label": "Iraq GDP forecast, 2026",
+        "arabicLabel": "توقع 2026"
+      },
+      "supportingStats": [
+        {
+          "label": "لبنان",
+          "value": "-5%"
+        },
+        {
+          "label": "المنطقة",
+          "value": "-0.7%"
+        },
+        {
+          "label": "التقرير",
+          "value": "41 اقتصاداً"
+        }
+      ],
+      "broll": "images/news/2026-09-24-c-ebrd-minus-12/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-24-c-ebrd-minus-12/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البنك الأوروبي: اقتصاد العراق ينكمش 12% بـ2026",
+        "شفق نيوز: أكبر خفض بين اقتصادات التقرير",
+        "ولبنان ينكمش 5% هذا العام"
+      ]
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "هرمز: البدائل نقلت أقل من ربع الصادرات",
+      "arabicBody": "بحسب البنك، السبب اضطراب صادرات النفط عبر مضيق هرمز. الطرق البديلة نقلت أقل من ربع الكميات المعتادة، فتراجعت إيرادات الدولة وتأثرت المالية العامة واحتياطيات العملة.",
+      "bigStat": {
+        "value": "<25%",
+        "label": "Normal export volumes via alternatives",
+        "arabicLabel": "من الصادرات المعتادة"
+      },
+      "supportingStats": [
+        {
+          "label": "المضيق",
+          "value": "هرمز"
+        },
+        {
+          "label": "الإيرادات",
+          "value": "تراجع كبير"
+        },
+        {
+          "label": "الاحتياطيات",
+          "value": "تأثر كبير"
+        }
+      ],
+      "broll": "images/news/2026-09-24-c-ebrd-minus-12/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-24-c-ebrd-minus-12/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البنك: الخلل بصادرات النفط عبر هرمز",
+        "الطرق البديلة نقلت أقل من الربع",
+        "وإيرادات الدولة تراجعت بشكل كبير"
+      ]
+    },
+    {
+      "label": "الافتراض",
+      "arabicHeading": "2027: نمو 14%.. بافتراض عودة الصادرات",
+      "arabicBody": "البنك يتوقع أن يرتد الاقتصاد 14% في 2027، لكنه يربط هذا التوقع صراحةً بعودة صادرات النفط إلى طبيعتها وتعافي النشاط الاقتصادي معها.",
+      "bigStat": {
+        "value": "+14%",
+        "label": "Iraq GDP forecast, 2027",
+        "arabicLabel": "توقع 2027"
+      },
+      "supportingStats": [
+        {
+          "label": "الافتراض",
+          "value": "عودة الصادرات"
+        },
+        {
+          "label": "2026",
+          "value": "-12%"
+        },
+        {
+          "label": "2027",
+          "value": "+14%"
+        }
+      ],
+      "broll": "images/news/2026-09-24-c-ebrd-minus-12/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-24-c-ebrd-minus-12/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البنك يتوقع ارتداداً بنسبة 14% في 2027",
+        "بافتراض عودة صادرات النفط لطبيعتها",
+        "والسؤال: متى تعود الصادرات فعلاً؟"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "البنك الأوروبي: اقتصاد العراق ينكمش 12% هذا العام بسبب اضطراب هرمز",
+    "السبب بحسب البنك: اضطراب صادرات النفط عبر مضيق هرمز الذي ضرب النمو والإيرادات",
+    "الطرق البديلة نقلت أقل من ربع صادرات العراق المعتادة، وفق تقرير البنك الأوروبي",
+    "البنك: الاضطراب أثّر بشكل كبير في النمو والمالية العامة واحتياطيات العملة الأجنبية",
+    "شفق نيوز: خفض توقع العراق هو الأكبر بين الاقتصادات التي يغطيها التقرير",
+    "البنك يتوقع نمواً بنسبة 14% في 2027 بافتراض عودة صادرات النفط إلى طبيعتها",
+    "حسّيت بتباطؤ السوق بمنطقتك هالسنة؟"
+  ],
+  "endQuestion": "حسّيت بتباطؤ السوق بمنطقتك هالسنة؟",
+  "sources": [
+    {
+      "name": "البنك الأوروبي لإعادة الإعمار والتنمية",
+      "domain": "ebrd.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

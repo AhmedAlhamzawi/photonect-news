@@ -1,0 +1,139 @@
+{
+ "dateLabel": "SEP 24 • 2026",
+ "arabicDateLabel": "24 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_05.mp3",
+ "topicBucket": "mena_geo",
+ "variant": "C",
+ "breaking": {
+  "arabicKicker": "تجارة الحدود",
+  "arabicHeadline": "453 مليون دولار صادرات إيرانية عبر منفذ مهران للعراق والمنطقة بـ6 أشهر",
+  "englishSubhead": "MEHRAN | $453M | 6 MONTHS | IRAN'S FIGURES",
+  "heroMedia": "images/news/2026-09-24-e-mehran-453-million/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الرقم",
+   "arabicHeading": "منفذ واحد.. 453 مليون دولار بـ6 أشهر",
+   "arabicBody": "مدير جمارك إيلام سهراب كمري قال لإرنا: 453 مليون دولار قيمة ما صدّرته إيران عبر مهران بآخر 6 أشهر، نحو العراق وباقي دول المنطقة.",
+   "bigStat": {
+    "value": "453",
+    "label": "Million dollars in six months",
+    "arabicLabel": "مليون دولار"
+   },
+   "supportingStats": [
+    {
+     "label": "المنفذ",
+     "value": "مهران - إيلام"
+    },
+    {
+     "label": "المدة",
+     "value": "6 أشهر"
+    },
+    {
+     "label": "الوجهة",
+     "value": "العراق والمنطقة"
+    }
+   ],
+   "broll": "images/news/2026-09-24-e-mehran-453-million/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-24-e-mehran-453-million/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "جمارك إيلام تعلن الرقم عبر إرنا",
+    "453 مليون دولار بستة أشهر",
+    "نحو العراق وباقي دول المنطقة"
+   ]
+  },
+  {
+   "label": "الوزن",
+   "arabicHeading": "أكثر من مليون طن عبرت الحدود",
+   "arabicBody": "حسب كمري، وزن البضائع المصدّرة بلغ 1,046,579 طناً. الأرقام إيرانية، والتصريح لم يحدد حصة العراق منها.",
+   "bigStat": {
+    "value": "1,046,579",
+    "label": "Tonnes exported via Mehran",
+    "arabicLabel": "طن"
+   },
+   "supportingStats": [
+    {
+     "label": "المصدر",
+     "value": "جمارك إيلام"
+    },
+    {
+     "label": "الوكالة",
+     "value": "إرنا"
+    },
+    {
+     "label": "حصة العراق",
+     "value": "غير محددة"
+    }
+   ],
+   "broll": "images/news/2026-09-24-e-mehran-453-million/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-24-e-mehran-453-million/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "أكثر من مليون و46 ألف طن",
+    "الأرقام من جمارك إيلام",
+    "والتصريح لم يحدد حصة العراق"
+   ]
+  },
+  {
+   "label": "شنو يعبر",
+   "arabicHeading": "بلاط وحديد تسليح وسمك حي",
+   "arabicBody": "أبرز السلع حسب كمري: محاصيل زراعية، بلاط وسيراميك، أوانٍ بلاستيكية، زجاج، حديد تسليح، أسماك حية، حجر الحديد، أنابيب PVC وأحجار بناء.",
+   "bigStat": {
+    "value": "6",
+    "label": "Months covered by the figure",
+    "arabicLabel": "أشهر"
+   },
+   "supportingStats": [
+    {
+     "label": "بناء",
+     "value": "بلاط وحديد"
+    },
+    {
+     "label": "غذاء",
+     "value": "محاصيل وسمك"
+    },
+    {
+     "label": "بيت",
+     "value": "بلاستيك وزجاج"
+    }
+   ],
+   "broll": "images/news/2026-09-24-e-mehran-453-million/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-24-e-mehran-453-million/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "بلاط وسيراميك وأوانٍ بلاستيكية",
+    "حديد تسليح وزجاج وأنابيب PVC",
+    "ومحاصيل زراعية وأسماك حية"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "453 مليون دولار صادرات إيرانية عبر منفذ مهران للعراق والمنطقة بـ6 أشهر",
+  "جمارك إيلام عبر إرنا: الوزن 1,046,579 طناً صُدّرت إلى العراق وباقي دول المنطقة",
+  "أبرز السلع: محاصيل زراعية، بلاط وسيراميك، زجاج، حديد تسليح، أسماك حية، أنابيب PVC",
+  "الأرقام إيرانية، والتصريح لم يحدد حصة العراق من المجموع",
+  "كاشي بيتك إيراني لو محلي؟"
+ ],
+ "endQuestion": "كاشي بيتك إيراني لو محلي؟",
+ "sources": [
+  {
+   "name": "شفق نيوز (نقلاً عن إرنا)",
+   "domain": "shafaq.com"
+  }
+ ]
+}
