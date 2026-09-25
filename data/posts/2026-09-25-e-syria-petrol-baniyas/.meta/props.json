@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 25 • 2026",
+  "arabicDateLabel": "25 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "أول شحنة بنزين للعراق عبر موانئ سوريا",
+    "englishSubhead": "FIRST PETROL | SYRIA → IRAQ | 32,000 T | 150 TRUCKS/DAY",
+    "heroMedia": "images/news/2026-09-25-e-syria-petrol-baniyas/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الموانئ",
+      "arabicHeading": "أول ناقلة فرّغت 32 ألف طن بنزين",
+      "arabicBody": "الشركة السورية للبترول أعلنت الجمعة انطلاق أولى شحنات البنزين من موانئها نحو المعابر العراقية، وأول ناقلة فرّغت نحو 32 ألف طن (شفق نيوز).",
+      "bigStat": {
+        "value": "32,000",
+        "label": "Tonnes of petrol unloaded from the first tanker at Syrian ports (Syrian Petroleum Company)",
+        "arabicLabel": "طن بنزين"
+      },
+      "supportingStats": [
+        {
+          "label": "الميناء",
+          "value": "بانياس"
+        },
+        {
+          "label": "الوجهة",
+          "value": "المعابر العراقية"
+        },
+        {
+          "label": "الإعلان",
+          "value": "25 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-25-e-syria-petrol-baniyas/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-25-e-syria-petrol-baniyas/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "أولى شحنات البنزين تنطلق نحو العراق",
+        "أول ناقلة فرّغت نحو 32 ألف طن",
+        "والوجهة: المعابر الحدودية العراقية"
+      ]
+    },
+    {
+      "label": "الناقلات",
+      "arabicHeading": "3 ناقلات وصلت.. واثنتان تنتظران دورهما",
+      "arabicBody": "بحسب الشركة، وصلت 3 ناقلات محمّلة بالمشتقات النفطية. وقالت قناة الرشيد إن شحنة بانياس جاءت من هيوستن الأمريكية بمسار يقارب 13 ألف كيلومتر.",
+      "bigStat": {
+        "value": "3",
+        "label": "Tankers of petroleum products arrived at Syrian ports; two await unloading",
+        "arabicLabel": "ناقلات وصلت"
+      },
+      "supportingStats": [
+        {
+          "label": "فُرّغت",
+          "value": "1"
+        },
+        {
+          "label": "تنتظر",
+          "value": "2"
+        },
+        {
+          "label": "رواية الرشيد",
+          "value": "هيوستن · 13,000 كم"
+        }
+      ],
+      "broll": "images/news/2026-09-25-e-syria-petrol-baniyas/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-25-e-syria-petrol-baniyas/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "3 ناقلات وصلت الموانئ السورية",
+        "واحدة فُرّغت واثنتان تنتظران الدور",
+        "الرشيد: شحنة بانياس جاءت من هيوستن"
+      ]
+    },
+    {
+      "label": "الصهاريج",
+      "arabicHeading": "قافلتان حُمّلتا.. والموانئ جاهزة لـ150 صهريجاً يومياً",
+      "arabicBody": "التحميل بدأ في 22 أيلول: قافلة من 10 صهاريج ثم 55. وبغداد ومحافظات أخرى تعيش أزمة بنزين منذ أسابيع (شفق نيوز).",
+      "bigStat": {
+        "value": "150",
+        "label": "Road tankers a day — loading capacity Syrian ports say they are ready for",
+        "arabicLabel": "صهريجاً يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "القافلة 1",
+          "value": "10"
+        },
+        {
+          "label": "القافلة 2",
+          "value": "55"
+        },
+        {
+          "label": "بدء التحميل",
+          "value": "22 أيلول"
+        }
+      ],
+      "broll": "images/news/2026-09-25-e-syria-petrol-baniyas/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-25-e-syria-petrol-baniyas/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "التحميل بدأ في 22 أيلول",
+        "قافلة من 10 صهاريج ثم 55",
+        "والجاهزية 150 صهريجاً في اليوم"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "أول شحنة بنزين للعراق عبر موانئ سوريا",
+    "الشركة السورية للبترول: 3 ناقلات وصلت، وتفريغ الأولى انتهى بنحو 32 ألف طن بنزين",
+    "التحميل بدأ في 22 أيلول: قافلة من 10 صهاريج ثم قافلة من 55 صهريجاً",
+    "الموانئ والكوادر جاهزة لرفع الطاقة التحميلية إلى 150 صهريجاً يومياً، بحسب الشركة",
+    "قناة الرشيد: شحنة بانياس جاءت من هيوستن الأمريكية بمسار يقارب 13 ألف كيلومتر",
+    "قناة الرشيد: أزمة البنزين في العراق تفاقمت مع إغلاق مضيق هرمز، بعد الاعتماد على الإمارات والهند",
+    "لقيت بنزين بمحطتك هالأسبوع؟"
+  ],
+  "endQuestion": "لقيت بنزين بمحطتك هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "المدن",
+      "domain": "almodon.com"
+    },
+    {
+      "name": "قناة الرشيد",
+      "domain": "alrasheedmedia.com"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-25-c-najaf-iran-flights",
+  "date": "2026-09-25",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 435381,
+      "sha256": "80e80efd404e70d2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 691266,
+      "sha256": "b1a19ae8e4dc39c6"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 626544,
+      "sha256": "ea9e608bcbae4f07"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 659836,
+      "sha256": "c6a658ee0d81e752"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 25 • 2026",
+  "arabicDateLabel": "25 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "مطار النجف يوقف رحلات إيران.. والبديل براً حتى 25 ساعة",
+    "englishSubhead": "NAJAF | IRAN FLIGHTS | HALTED | 02:00 FRI",
+    "heroMedia": "images/news/2026-09-25-c-najaf-iran-flights/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البوابة",
+      "arabicHeading": "عالقون عند بوابة النجف: «سندفع مرتين»",
+      "arabicBody": "صباح الجمعة، مُنع عشرات المسافرين من دخول مطار النجف بعد إيقاف رحلات إيران. قال أحدهم لشبكة 964: سندفع مرتين، للحجز الملغى وللنقل البري.",
+      "bigStat": {
+        "value": "02:00",
+        "label": "Najaf halted all Iran flights",
+        "arabicLabel": "فجر الجمعة"
+      },
+      "supportingStats": [
+        {
+          "label": "النجف",
+          "value": "متوقف"
+        },
+        {
+          "label": "أربيل",
+          "value": "معلّق"
+        },
+        {
+          "label": "السليمانية",
+          "value": "معلّق"
+        }
+      ],
+      "broll": "images/news/2026-09-25-c-najaf-iran-flights/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-25-c-najaf-iran-flights/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "رحلات إيران توقفت فجر الجمعة",
+        "عشرات المسافرين عالقون عند البوابة",
+        "«سندفع مرتين» — مسافر لشبكة 964"
+      ]
+    },
+    {
+      "label": "الخارجية",
+      "arabicHeading": "بغداد أبلغت طهران.. وستناقش واشنطن",
+      "arabicBody": "قال وزير الخارجية فؤاد حسين مساء الجمعة إن بغداد أبلغت إيران بالحظر النافذ منذ الأربعاء، وستناقش مع واشنطن تقديم الخدمات للطيران الإيراني (شفق نيوز).",
+      "bigStat": {
+        "value": "27",
+        "label": "Iranian airlines under US sanctions",
+        "arabicLabel": "شركة طيران"
+      },
+      "supportingStats": [
+        {
+          "label": "العقوبات",
+          "value": "8 أيلول"
+        },
+        {
+          "label": "الجهات",
+          "value": "36"
+        },
+        {
+          "label": "الحظر",
+          "value": "منذ الأربعاء"
+        }
+      ],
+      "broll": "images/news/2026-09-25-c-najaf-iran-flights/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-25-c-najaf-iran-flights/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "فؤاد حسين: أبلغنا إيران بالحظر",
+        "والملف سيُناقش مع واشنطن",
+        "الخزانة الأمريكية عاقبت 27 شركة طيران"
+      ]
+    },
+    {
+      "label": "البديل",
+      "arabicHeading": "حجوزات السفر كانت على الطيران الإيراني",
+      "arabicBody": "قال ممثل شركة سفر لشفق نيوز الأربعاء إن نحو 75% من حجوزات الشركات على الطيران الإيراني، والرحلة براً تستغرق 20 إلى 25 ساعة.",
+      "bigStat": {
+        "value": "75%",
+        "label": "Bookings on Iranian carriers (agent)",
+        "arabicLabel": "من الحجوزات"
+      },
+      "supportingStats": [
+        {
+          "label": "براً",
+          "value": "20-25 ساعة"
+        },
+        {
+          "label": "رحلات يومياً",
+          "value": "~50"
+        },
+        {
+          "label": "المتضررون",
+          "value": "مرضى وطلاب"
+        }
+      ],
+      "broll": "images/news/2026-09-25-c-najaf-iran-flights/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-25-c-najaf-iran-flights/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "75% من الحجوزات على الطيران الإيراني",
+        "والطريق البري حتى 25 ساعة",
+        "وفق عاملين في شركات سفر لشفق نيوز"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مطار النجف يوقف رحلات إيران.. والبديل براً حتى 25 ساعة",
+    "مطار النجف أوقف رحلات إيران من الساعة 2 فجر الجمعة حتى إشعار آخر (السومرية، شفق نيوز)",
+    "مدير مطار أربيل لشفق نيوز: رحلات إيران إلى أربيل والسليمانية متوقفة حتى إشعار آخر",
+    "مسافر عالق عند بوابة مطار النجف لشبكة 964: سندفع مرتين، للحجز الملغى وللنقل البري",
+    "فؤاد حسين: أبلغنا إيران بالحظر النافذ منذ الأربعاء وسنناقش الملف مع الجانب الأمريكي (شفق نيوز)",
+    "عاملون في شركات سفر لشفق نيوز الأربعاء: نحو 50 رحلة إيرانية يومياً إلى العراق، و75% من الحجوزات",
+    "عندك سفرة لإيران هالشهر؟"
+  ],
+  "endQuestion": "عندك سفرة لإيران هالشهر؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "السومرية نيوز",
+      "domain": "alsumaria.tv"
+    }
+  ]
+}

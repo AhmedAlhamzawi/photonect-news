@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 25 • 2026",
+  "arabicDateLabel": "25 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "آخر سعر قبل العطلة",
+    "arabicHeadline": "تشتري 100 دولار وتبيعها ببغداد؟ تخسر 1,000 دينار بحسابنا",
+    "englishSubhead": "BAGHDAD | $100 = 157,100 IQD | SPREAD 1,000 (COMPUTED)",
+    "heroMedia": "images/news/2026-09-25-b-dollar-friday-spread/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإغلاق",
+      "arabicHeading": "آخر سعر قبل العطلة: 157,100",
+      "arabicBody": "شفق نيوز: بورصتا الكفاح والحارثية أغلقتا الخميس، آخر جلسة قبل العطلة، على 157,100 دينار لكل 100 دولار، بعد 156,800 صباح اليوم نفسه.",
+      "bigStat": {
+        "value": "157,100",
+        "label": "IQD per $100, Thursday close",
+        "arabicLabel": "إغلاق الخميس"
+      },
+      "supportingStats": [
+        {
+          "label": "الصباح",
+          "value": "156,800"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "157,150"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "157,100"
+        }
+      ],
+      "broll": "images/news/2026-09-25-b-dollar-friday-spread/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-25-b-dollar-friday-spread/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "آخر سعر قبل العطلة",
+        "157,100 دينار",
+        "الصبح كان 156,800"
+      ]
+    },
+    {
+      "label": "الفرق",
+      "arabicHeading": "تشتري وتبيع؟ تخسر 1,000 دينار (محتسب)",
+      "arabicBody": "محلات الصيرفة ببغداد مساء الخميس، وفق شفق نيوز: البيع 157,500 والشراء 156,500. تشتري 100 دولار ثم تبيعها، فتخسر 1,000 دينار (محتسب).",
+      "bigStat": {
+        "value": "1,000",
+        "label": "Buy-sell spread per $100 (computed)",
+        "arabicLabel": "الفرق (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "157,500"
+        },
+        {
+          "label": "الشراء",
+          "value": "156,500"
+        },
+        {
+          "label": "الفرق",
+          "value": "1,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-09-25-b-dollar-friday-spread/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-25-b-dollar-friday-spread/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البيع 157,500",
+        "الشراء 156,500",
+        "الفرق 1,000 دينار (محتسب)"
+      ]
+    },
+    {
+      "label": "الصبح",
+      "arabicHeading": "صباحاً عند المكاتب: فرق 1,050 (محتسب)",
+      "arabicBody": "موقع كلمة صباح الخميس: مكاتب الصيرفة اشترت من المواطنين بـ156,850 وباعت لهم بـ157,900 لكل 100 دولار، أي فرق 1,050 دينار (محتسب).",
+      "bigStat": {
+        "value": "1,050",
+        "label": "Morning office spread (computed)",
+        "arabicLabel": "فرق الصباح (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "شراء",
+          "value": "156,850"
+        },
+        {
+          "label": "بيع",
+          "value": "157,900"
+        },
+        {
+          "label": "البورصة صباحاً",
+          "value": "156,850"
+        }
+      ],
+      "broll": "images/news/2026-09-25-b-dollar-friday-spread/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-25-b-dollar-friday-spread/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الشراء 156,850",
+        "البيع 157,900",
+        "فرق 1,050 دينار (محتسب)"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "تشتري 100 دولار وتبيعها ببغداد؟ تخسر 1,000 دينار بحسابنا",
+    "شفق نيوز: إغلاق الخميس في بورصتي الكفاح والحارثية 157,100 دينار لكل 100 دولار",
+    "صباح الخميس سجّلت البورصتان 156,800 دينار لكل 100 دولار، وفق شفق نيوز",
+    "محلات الصيرفة ببغداد مساء الخميس: البيع 157,500 والشراء 156,500 دينار لكل 100 دولار",
+    "أربيل مساء الخميس: البيع 157,150 والشراء 157,100 دينار لكل 100 دولار، وفق شفق نيوز",
+    "موقع كلمة صباح الخميس: مكاتب الصيرفة تشتري بـ156,850 وتبيع بـ157,900، فرق 1,050 (محتسب)",
+    "تشتري دولار لو تبيع هالأسبوع؟"
+  ],
+  "endQuestion": "تشتري دولار لو تبيع هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "موقع كلمة",
+      "domain": "kalimaiq.com"
+    }
+  ]
+}

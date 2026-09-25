@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 25 • 2026",
+  "arabicDateLabel": "25 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "نفط العراق",
+    "arabicHeadline": "بلومبرغ: العراق يبحث بعجلة عن مشترين لنفطه وسط أجور شحن مرتفعة",
+    "englishSubhead": "SOMO | $20/BBL FREIGHT | VITOL 25M BBL | BLOOMBERG · REUTERS",
+    "heroMedia": "images/news/2026-09-25-d-somo-oil-buyers/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "العرض",
+      "arabicHeading": "سومو تعرض شحنات في آخر لحظة",
+      "arabicBody": "بلومبرغ عن مصادر مطلعة: سومو عرضت خاماً للتحميل أواخر أيلول على شركتين على الأقل، في مؤشر على انسحاب بعض التجار. ولم يتضح من انسحب.",
+      "bigStat": {
+        "value": "2",
+        "label": "Buyers offered late cargoes",
+        "arabicLabel": "شركتان على الأقل"
+      },
+      "supportingStats": [
+        {
+          "label": "المسوّق",
+          "value": "سومو"
+        },
+        {
+          "label": "التحميل",
+          "value": "أواخر أيلول"
+        },
+        {
+          "label": "المؤشر",
+          "value": "انسحاب تجار"
+        }
+      ],
+      "broll": "images/news/2026-09-25-d-somo-oil-buyers/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-25-d-somo-oil-buyers/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بلومبرغ: سومو عرضت شحنات في آخر لحظة",
+        "على شركتين على الأقل للتحميل أواخر أيلول",
+        "مؤشر على انسحاب بعض التجار"
+      ]
+    },
+    {
+      "label": "الشحن",
+      "arabicHeading": "الشحن يعادل نحو خُمس قيمة البرميل",
+      "arabicBody": "حسابات بلومبرغ: الشحن من خليج عُمان إلى شرق آسيا يضيف نحو 20 دولاراً للبرميل الذي يتجاوز 100 دولار عند التحميل. قبل الحرب كان جزءاً ضئيلاً.",
+      "bigStat": {
+        "value": "$20",
+        "label": "Freight per barrel to East Asia",
+        "arabicLabel": "دولار شحن للبرميل"
+      },
+      "supportingStats": [
+        {
+          "label": "النسبة",
+          "value": "نحو الخُمس"
+        },
+        {
+          "label": "سعر التحميل",
+          "value": "فوق 100$"
+        },
+        {
+          "label": "الوجهة",
+          "value": "شرق آسيا"
+        }
+      ],
+      "broll": "images/news/2026-09-25-d-somo-oil-buyers/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-25-d-somo-oil-buyers/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "نحو 20 دولاراً شحن على كل برميل",
+        "قرابة خُمس قيمة الخام حسب بلومبرغ",
+        "وقبل الحرب كان جزءاً ضئيلاً"
+      ]
+    },
+    {
+      "label": "المشترون",
+      "arabicHeading": "فيتول اشترت 25 مليون برميل على الأقل",
+      "arabicBody": "رويترز عن مصدرين: فيتول، أكبر تاجر نفط بالعالم، اشترت 25 مليون برميل عراقي على الأقل خلال أيلول. وسومو طرحت عطاءً لمليوني برميل من البصرة الثقيل.",
+      "bigStat": {
+        "value": "25M",
+        "label": "Barrels Vitol bought in September",
+        "arabicLabel": "مليون برميل"
+      },
+      "supportingStats": [
+        {
+          "label": "العطاء",
+          "value": "مليونا برميل"
+        },
+        {
+          "label": "الخام",
+          "value": "البصرة الثقيل"
+        },
+        {
+          "label": "التحميل",
+          "value": "1-7 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-09-25-d-somo-oil-buyers/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-25-d-somo-oil-buyers/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "رويترز: فيتول اشترت 25 مليون برميل عراقي",
+        "بخصومات كبيرة خلال أيلول",
+        "وعطاء جديد لمليوني برميل من البصرة الثقيل"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بلومبرغ: العراق يبحث بعجلة عن مشترين لنفطه وسط أجور شحن مرتفعة",
+    "بلومبرغ عن مصادر: سومو عرضت خاماً للتحميل أواخر أيلول على شركتين على الأقل بعد انسحاب بعض التجار",
+    "حسابات بلومبرغ: الشحن من خليج عُمان إلى شرق آسيا يضيف نحو 20 دولاراً للبرميل، قرابة خُمس قيمته",
+    "بلومبرغ: العراق عرض خصومات كبيرة وخفّض أسعار البصرة المتوسط والبصرة الثقيل في مناقصات حديثة",
+    "بلومبرغ عن رئيس سومو علي نزار: بعض المشترين تحولوا إلى موردين خليجيين قدّموا خصومات أكبر",
+    "رويترز: فيتول اشترت 25 مليون برميل عراقي على الأقل بأيلول، وسومو طرحت عطاءً لمليوني برميل",
+    "تتابع أخبار نفط العراق؟"
+  ],
+  "endQuestion": "تتابع أخبار نفط العراق؟",
+  "sources": [
+    {
+      "name": "بلومبرغ",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "رويترز",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

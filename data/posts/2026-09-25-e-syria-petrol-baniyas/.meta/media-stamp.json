@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-25-e-syria-petrol-baniyas",
+  "date": "2026-09-25",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 660189,
+      "sha256": "5ac41c62efa0f17b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 527088,
+      "sha256": "ac1344a93699a28e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 745001,
+      "sha256": "eb51f7b77b286ebf"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 312852,
+      "sha256": "dfc8e4f09ba13ab2"
+    }
+  ]
+}

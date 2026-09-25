@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-25-b-dollar-friday-spread",
+  "date": "2026-09-25",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1120032,
+      "sha256": "bdf0ec37f10d1554"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 662458,
+      "sha256": "321caaa05ee1d4bd"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 778283,
+      "sha256": "b188376cc236f12e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 787352,
+      "sha256": "291f6ca1d82e4d6c"
+    }
+  ]
+}

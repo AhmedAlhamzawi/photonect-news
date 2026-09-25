@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 25 • 2026",
+  "arabicDateLabel": "25 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عاجل",
+    "arabicHeadline": "التحقيقات الأولية: نحو 500 مليون دينار شهرياً من خرقين بأنبوب نفط في المثنى",
+    "englishSubhead": "MUTHANNA · SEP 25 | IRAQ'S NATIONAL SECURITY SERVICE SAID ON FRIDAY IT DISMANTLED A NETWORK STEALING CRUDE FROM A STRATEGIC PIPELINE RUNNING FROM SOUTHERN IRAQ TOWARD HADITHA; 4 SUSPECTS ARRESTED UNDER JUDICIAL WARRANTS (AL-MADA; SHAFAQ NEWS; 964) | TWO TAPS ON THE PIPE AND ~270 M OF HIDDEN BURIED PIPING INTO A FARM USED AS A DEN; CEMENT TRUCKS CONVERTED TO CARRY CRUDE AS CAMOUFLAGE | PRELIMINARY INVESTIGATION PER THE SERVICE: PROCEEDS REACHED ~500M IQD A MONTH; CORROSION SHOWS THE TAP WAS LONG-STANDING | TAPS SEALED; SUSPECTS REFERRED TO JUDICIARY",
+    "heroMedia": "images/news/2026-09-25-a-oil-theft-500-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الشبكة",
+      "arabicHeading": "خرقان في أنبوب ينقل النفط نحو الشمال",
+      "arabicBody": "أعلن جهاز الأمن الوطني الجمعة تفكيك شبكة لسرقة النفط الخام من أنبوب استراتيجي يمتد نحو حديثة، واعتقال 4 متهمين بموافقات قضائية (المدى، شفق نيوز).",
+      "bigStat": {
+        "value": "4",
+        "label": "Suspects arrested by Iraq's National Security Service, Muthanna, 25 Sep",
+        "arabicLabel": "متهمين معتقلين"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظة",
+          "value": "المثنى"
+        },
+        {
+          "label": "الخروقات",
+          "value": "2"
+        },
+        {
+          "label": "الأنبوب",
+          "value": "الجنوب ← حديثة"
+        }
+      ],
+      "broll": "images/news/2026-09-25-a-oil-theft-500-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-25-a-oil-theft-500-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "شبكة لسرقة النفط الخام في المثنى",
+        "خرقان في أنبوب يمتد نحو حديثة",
+        "و4 متهمين بموافقات قضائية"
+      ]
+    },
+    {
+      "label": "التمويه",
+      "arabicHeading": "أنابيب مدفونة 270 متراً حتى المزرعة",
+      "arabicBody": "بحسب بيان الجهاز، امتدت أنابيب مخفية تحت الأرض نحو 270 متراً إلى مزرعة اتُّخذت وكراً، وحُوّرت شاحنات إسمنت لنقل الخام للتمويه (شبكة 964، المدى).",
+      "bigStat": {
+        "value": "270",
+        "label": "Metres of hidden buried piping from the tap into a farm (National Security Service)",
+        "arabicLabel": "متراً تحت الأرض"
+      },
+      "supportingStats": [
+        {
+          "label": "الوكر",
+          "value": "مزرعة"
+        },
+        {
+          "label": "النقل",
+          "value": "شاحنات إسمنت"
+        },
+        {
+          "label": "الأنابيب",
+          "value": "مدفونة"
+        }
+      ],
+      "broll": "images/news/2026-09-25-a-oil-theft-500-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-25-a-oil-theft-500-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "أنابيب مخفية تحت الأرض",
+        "نحو 270 متراً حتى المزرعة",
+        "وشاحنات إسمنت محوّرة للتمويه"
+      ]
+    },
+    {
+      "label": "العائدات",
+      "arabicHeading": "نحو 500 مليون دينار شهرياً.. حسب التحقيقات الأولية",
+      "arabicBody": "قال الجهاز إن التحقيقات الأولية أظهرت عائدات بنحو 500 مليون دينار شهرياً، وإن آثار التآكل تشير إلى خرق قديم. أُغلق الخرقان وأُحيل المتهمون للجهات المختصة (المدى).",
+      "bigStat": {
+        "value": "500",
+        "label": "Million IQD a month in proceeds, per the service's preliminary investigation",
+        "arabicLabel": "مليون دينار شهرياً (تحقيقات أولية)"
+      },
+      "supportingStats": [
+        {
+          "label": "الخرق",
+          "value": "قديم"
+        },
+        {
+          "label": "الأنبوب",
+          "value": "أُغلق"
+        },
+        {
+          "label": "المتهمون",
+          "value": "أُحيلوا للجهات المختصة"
+        }
+      ],
+      "broll": "images/news/2026-09-25-a-oil-theft-500-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-25-a-oil-theft-500-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "نحو 500 مليون دينار شهرياً",
+        "حسب التحقيقات الأولية للجهاز",
+        "وآثار التآكل تشير إلى خرق قديم"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "التحقيقات الأولية: نحو 500 مليون دينار شهرياً من خرقين بأنبوب نفط في المثنى",
+    "جهاز الأمن الوطني: تفكيك شبكة لسرقة النفط الخام في المثنى واعتقال 4 متهمين بموافقات قضائية (25 أيلول)",
+    "العملية بدأت بمعلومة استخبارية من مديريتي أمن البصرة والمثنى، حسب بيان الجهاز (المدى، شفق نيوز)",
+    "الأنبوب يمتد من جنوب العراق باتجاه حديثة ومرتبط بمنظومة نقل النفط نحو شمال البلاد (المدى)",
+    "خرقان في الأنبوب وأنابيب مدفونة بطول نحو 270 متراً وصولاً إلى مزرعة اتُّخذت وكراً (شبكة 964)",
+    "شاحنات إسمنت حُوّرت لنقل الخام للتمويه — الخرقان أُغلقا والمتهمون أُحيلوا للجهات المختصة (بيان الجهاز)",
+    "هل سمعت بخرق أنبوب نفط في منطقتك من قبل؟"
+  ],
+  "endQuestion": "هل سمعت بخرق أنبوب نفط في منطقتك من قبل؟",
+  "sources": [
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

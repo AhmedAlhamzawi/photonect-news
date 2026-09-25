@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-25-a-oil-theft-500-million",
+  "date": "2026-09-25",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1284254,
+      "sha256": "cc6878b65f052ef5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 772408,
+      "sha256": "ed48c1d956da49e1"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 742006,
+      "sha256": "1cec85150e497ad7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1062306,
+      "sha256": "fa50be132bcd45f5"
+    }
+  ]
+}
