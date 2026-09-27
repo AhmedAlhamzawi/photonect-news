@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-27-d-electricity-52-percent-lost",
+  "date": "2026-09-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 511820,
+      "sha256": "3cb140f26f5bd895"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1555744,
+      "sha256": "1b84f2c721ae523a"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 674945,
+      "sha256": "4e06ef2a0b14e46e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 672996,
+      "sha256": "28c03d0b7e88b5a4"
+    }
+  ]
+}

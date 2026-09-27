@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 27 • 2026",
+  "arabicDateLabel": "27 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الكهرباء",
+    "arabicHeadline": "تقرير وزارة الكهرباء: أكثر من نصف كهرباء العراق ضاع خلال عام",
+    "englishSubhead": "52% LOST | 80.6M MWH | MOE 2025 REPORT",
+    "heroMedia": "images/news/2026-09-27-d-electricity-52-percent-lost/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التقرير",
+      "arabicHeading": "من كل 100 ميغاواط ساعة.. 52 لم تُبَع",
+      "arabicBody": "تقرير وزارة الكهرباء السنوي لـ2025: شبكات التوزيع استلمت 153,975,051 ميغاواط ساعة، وضاع منها 80,613,400 — أي 52% سُجّلت ضائعات لم تُبَع.",
+      "bigStat": {
+        "value": "52%",
+        "label": "Share of received power lost",
+        "arabicLabel": "ضائعات 2025"
+      },
+      "supportingStats": [
+        {
+          "label": "المستلمة",
+          "value": "153,975,051"
+        },
+        {
+          "label": "الضائعة",
+          "value": "80,613,400"
+        },
+        {
+          "label": "الوحدة",
+          "value": "ميغاواط ساعة"
+        }
+      ],
+      "broll": "images/news/2026-09-27-d-electricity-52-percent-lost/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-27-d-electricity-52-percent-lost/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "52% من الكهرباء المستلمة ضاعت",
+        "أكثر من 80 مليون ميغاواط ساعة",
+        "خلال عام 2025 وحده"
+      ]
+    },
+    {
+      "label": "المباع",
+      "arabicHeading": "ما ضاع أكبر مما بيع للناس",
+      "arabicBody": "شركات التوزيع استلمت 153,975,051 ميغاواط ساعة، وباعت للمستهلكين 73,361,651 فقط. الباقي، 80,613,400، سُجّل ضائعات: الضائع تجاوز المباع.",
+      "bigStat": {
+        "value": "73,361,651",
+        "label": "MWh sold to consumers, 2025",
+        "arabicLabel": "المباع فعلاً"
+      },
+      "supportingStats": [
+        {
+          "label": "المباعة",
+          "value": "73,361,651"
+        },
+        {
+          "label": "الضائعة",
+          "value": "80,613,400"
+        },
+        {
+          "label": "السنة",
+          "value": "2025"
+        }
+      ],
+      "broll": "images/news/2026-09-27-d-electricity-52-percent-lost/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-27-d-electricity-52-percent-lost/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بيع للمستهلكين نحو 73 مليوناً",
+        "وضاع أكثر من 80 مليوناً",
+        "الضائع تجاوز المباع"
+      ]
+    },
+    {
+      "label": "المحافظات",
+      "arabicHeading": "كربلاء تتصدّر: 67% من كهربائها ضاعت",
+      "arabicBody": "على مستوى المحافظات، كربلاء أعلى نسبة ضائعات بـ67%، تلتها بغداد/الصدر 65%، ميسان 62%، صلاح الدين 61%. والنجف الأدنى بين المذكورة: 41%. أين محافظتك؟",
+      "bigStat": {
+        "value": "67%",
+        "label": "Karbala loss rate, highest province",
+        "arabicLabel": "كربلاء الأعلى"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد/الصدر",
+          "value": "65%"
+        },
+        {
+          "label": "ميسان",
+          "value": "62%"
+        },
+        {
+          "label": "النجف",
+          "value": "41%"
+        }
+      ],
+      "broll": "images/news/2026-09-27-d-electricity-52-percent-lost/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-27-d-electricity-52-percent-lost/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "كربلاء الأعلى بنسبة 67%",
+        "بغداد/الصدر 65% وميسان 62%",
+        "والنجف الأدنى بين المذكورة 41%"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "تقرير وزارة الكهرباء: أكثر من نصف كهرباء العراق ضاع خلال عام",
+    "شبكات التوزيع استلمت 153,975,051 ميغاواط ساعة خلال 2025، وضاع منها 80,613,400 — أي 52%",
+    "المباع للمستهلكين طوال العام 73,361,651 ميغاواط ساعة فقط — أقل من الضائع",
+    "كربلاء الأعلى بين المحافظات بنسبة ضائعات 67%، تلتها بغداد/الصدر 65% وميسان 62%",
+    "صلاح الدين 61% — كركوك 58% — الديوانية 58% — بابل 56% — البصرة 52% — النجف 41%",
+    "حسب المناطق: بغداد 56%، الفرات الأوسط 55%، الجنوب والشمال 54%، والوسط الأقل 36%",
+    "كم ساعة كهرباء وطنية توصلك اليوم؟"
+  ],
+  "endQuestion": "كم ساعة كهرباء وطنية توصلك اليوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "المستقلة",
+      "domain": "mustaqila.com"
+    },
+    {
+      "name": "وزارة الكهرباء",
+      "domain": "moelc.gov.iq"
+    }
+  ]
+}

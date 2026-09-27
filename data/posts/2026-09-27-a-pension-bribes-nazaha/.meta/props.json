@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 27 • 2026",
+  "arabicDateLabel": "27 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "هيئة النزاهة",
+    "arabicHeadline": "النزاهة تضبط متهمين بالرشوة في التقاعد والتأمين ببغداد والأنبار",
+    "englishSubhead": "INTEGRITY COMMISSION | 3 BRIBERY CASES | BAGHDAD · ANBAR | SEP 27",
+    "heroMedia": "images/news/2026-09-27-a-pension-bribes-nazaha/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التأمين",
+      "arabicHeading": "النزاهة: مدير قانوني ضُبط متلبساً بتسلّم رشوة",
+      "arabicBody": "بحسب هيئة النزاهة، ضُبط مدير القسم القانوني في شركة التأمين الوطنية متلبساً بتسلّم رشوة لقاء تجديد عقد تأجير قطعتي أرض بالديوانية، وضُبط كتاب بلدية الديوانية بالخصوص.",
+      "bigStat": {
+        "value": "2",
+        "label": "Separate Baghdad stings, commission says",
+        "arabicLabel": "عمليتا ضبط ببغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "الشركة",
+          "value": "التأمين الوطنية"
+        },
+        {
+          "label": "العقد",
+          "value": "قطعتا أرض"
+        },
+        {
+          "label": "المكان",
+          "value": "الديوانية"
+        }
+      ],
+      "broll": "images/news/2026-09-27-a-pension-bribes-nazaha/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-27-a-pension-bribes-nazaha/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "النزاهة: مدير قانوني ضُبط متلبساً",
+        "لقاء تجديد عقد قطعتي أرض",
+        "وكتاب بلدية الديوانية ضُبط أيضاً"
+      ]
+    },
+    {
+      "label": "التقاعد",
+      "arabicHeading": "النزاهة: مليونا دينار لصرف رواتب متراكمة",
+      "arabicBody": "بحسب الهيئة، ضُبط موظف في هيئة التقاعد الوطنية، قسم السجناء السياسيين، أثناء تسلّمه مليوني دينار من مراجِعة مقابل صرف رواتبها المتراكمة، وبطاقتها المصرفية بحوزته.",
+      "bigStat": {
+        "value": "2 مليون",
+        "label": "IQD taken from applicant, commission says",
+        "arabicLabel": "دينار من مراجِعة"
+      },
+      "supportingStats": [
+        {
+          "label": "القسم",
+          "value": "السجناء السياسيين"
+        },
+        {
+          "label": "المضبوط",
+          "value": "بطاقتها المصرفية"
+        },
+        {
+          "label": "القرار",
+          "value": "توقيف"
+        }
+      ],
+      "broll": "images/news/2026-09-27-a-pension-bribes-nazaha/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-27-a-pension-bribes-nazaha/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "موظف في قسم السجناء السياسيين",
+        "2 مليون دينار من مراجِعة",
+        "وبطاقتها المصرفية بحوزته، بحسب الهيئة"
+      ]
+    },
+    {
+      "label": "الأنبار",
+      "arabicHeading": "الأنبار: 3 ملايين لرفع حجز عن حصة تقاعدية",
+      "arabicBody": "بحسب الهيئة، ضُبط متهم في تقاعد الأنبار يتسلّم 3 ملايين دينار من مراجع لرفع الحجز عن حصة والدته وشقيقته، مدعياً أنها لموظفين، واحتفظ بها لنفسه.",
+      "bigStat": {
+        "value": "3 ملايين",
+        "label": "IQD in Anbar pension case",
+        "arabicLabel": "دينار بالأنبار"
+      },
+      "supportingStats": [
+        {
+          "label": "الدائرة",
+          "value": "تقاعد الأنبار"
+        },
+        {
+          "label": "الحصة",
+          "value": "والدته وشقيقته"
+        },
+        {
+          "label": "المادة",
+          "value": "312 عقوبات"
+        }
+      ],
+      "broll": "images/news/2026-09-27-a-pension-bribes-nazaha/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-27-a-pension-bribes-nazaha/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "3 ملايين دينار لرفع حجز تقاعدي",
+        "ادّعى أن المال لموظفين",
+        "والهيئة: احتفظ به لنفسه"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة تضبط متهمين بالرشوة في التقاعد والتأمين ببغداد والأنبار",
+    "هيئة النزاهة: عمليتا ضبط منفصلتان ببغداد في شركة التأمين الوطنية وهيئة التقاعد الوطنية",
+    "بحسب الهيئة، مدير القسم القانوني بالتأمين ضُبط متلبساً لقاء تجديد عقد قطعتي أرض بالديوانية",
+    "موظف بقسم السجناء السياسيين ضُبط يتسلّم 2 مليون دينار من مراجِعة لصرف رواتبها المتراكمة",
+    "قاضي تحقيق الرصافة المختص بقضايا النزاهة قرر توقيف المتهمَين بحسب بيان الهيئة",
+    "الأنبار: متهم ضُبط يتسلّم 3 ملايين دينار لرفع حجز عن حصة تقاعدية، والقاضي أوقفه وفق المادة 312",
+    "معاملتك بالتقاعد خلصت بموعدها؟"
+  ],
+  "endQuestion": "معاملتك بالتقاعد خلصت بموعدها؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "السومرية نيوز",
+      "domain": "alsumaria.tv"
+    }
+  ]
+}

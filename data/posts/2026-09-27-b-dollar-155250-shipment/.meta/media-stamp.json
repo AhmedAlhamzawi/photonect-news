@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-27-b-dollar-155250-shipment",
+  "date": "2026-09-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 778283,
+      "sha256": "b188376cc236f12e"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 526999,
+      "sha256": "cda179b9d6f9ba32"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 652486,
+      "sha256": "7ef9a10cbf593b0e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 987177,
+      "sha256": "c4656d905f4e8107"
+    }
+  ]
+}

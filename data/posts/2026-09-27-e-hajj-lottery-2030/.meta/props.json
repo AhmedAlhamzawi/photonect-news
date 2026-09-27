@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 27 • 2026",
+  "arabicDateLabel": "27 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "قرعة الحج",
+    "arabicHeadline": "نتائج قرعة الحج في العراق صدرت… والأولوية هذه المرة لكبار السن",
+    "englishSubhead": "IRAQ HAJJ LOTTERY | 2027–2030 | ELDERLY FIRST | 7 WATCHDOGS",
+    "heroMedia": "images/news/2026-09-27-e-hajj-lottery-2030/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "النتائج",
+      "arabicHeading": "قرعة 4 مواسم حج دفعة واحدة",
+      "arabicBody": "في مراسم إعلان ببغداد، كشفت الهيئة العليا للحج والعمرة الأحد نتائج القرعة الإلكترونية لمواسم 2027 التكميلي و2028 و2029 و2030 (شفق نيوز، واع).",
+      "bigStat": {
+        "value": "4",
+        "label": "Hajj seasons in one draw",
+        "arabicLabel": "مواسم حج"
+      },
+      "supportingStats": [
+        {
+          "label": "من",
+          "value": "2027 تكميلي"
+        },
+        {
+          "label": "إلى",
+          "value": "2030"
+        },
+        {
+          "label": "الطريقة",
+          "value": "إلكترونية"
+        }
+      ],
+      "broll": "images/news/2026-09-27-e-hajj-lottery-2030/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-27-e-hajj-lottery-2030/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "هيئة الحج تكشف نتائج القرعة الإلكترونية",
+        "أربعة مواسم من 2027 التكميلي حتى 2030",
+        "والسؤال في كل بيت: من طلع اسمه؟"
+      ]
+    },
+    {
+      "label": "الأولوية",
+      "arabicHeading": "كبار السن أولاً… والحصة محدودة",
+      "arabicBody": "رئيس الهيئة سامي المسعودي قال إن قرعة هذه الأعوام مخصصة لكبار السن، وإن محدودية حصة العراق أمام أعداد المتقدمين تجعل الاختيار صعباً (واع).",
+      "bigStat": {
+        "value": "2027",
+        "label": "Supplementary season opens the round",
+        "arabicLabel": "موسم تكميلي"
+      },
+      "supportingStats": [
+        {
+          "label": "الفئة",
+          "value": "كبار السن"
+        },
+        {
+          "label": "الحصة",
+          "value": "محدودة"
+        },
+        {
+          "label": "المتقدمون",
+          "value": "أكثر منها"
+        }
+      ],
+      "broll": "images/news/2026-09-27-e-hajj-lottery-2030/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-27-e-hajj-lottery-2030/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المسعودي: القرعة هذه الأعوام لكبار السن",
+        "حصة العراق محدودة أمام أعداد المتقدمين",
+        "والاختيار صعب بكلام رئيس الهيئة نفسه"
+      ]
+    },
+    {
+      "label": "الرقابة",
+      "arabicHeading": "7 جهات وقضاة… وأسماء وهمية خارج القرعة",
+      "arabicBody": "أشرفت 7 جهات حكومية وقضاة من مجلس القضاء الأعلى، والقاضي المشرف قال إن جامعتين فحصتا البرنامج، والهيئة تقول إنها استبعدت أسماء وهمية.",
+      "bigStat": {
+        "value": "7",
+        "label": "Government bodies supervised the draw",
+        "arabicLabel": "جهات حكومية"
+      },
+      "supportingStats": [
+        {
+          "label": "الفحص",
+          "value": "جامعتان"
+        },
+        {
+          "label": "الإشراف",
+          "value": "قضاة"
+        },
+        {
+          "label": "الأسماء الوهمية",
+          "value": "استُبعدت"
+        }
+      ],
+      "broll": "images/news/2026-09-27-e-hajj-lottery-2030/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-27-e-hajj-lottery-2030/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "7 جهات حكومية وقضاة على القرعة",
+        "المستنصرية والتكنولوجية فحصتا برنامج القرعة",
+        "والهيئة تقول: الأسماء الوهمية استُبعدت"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "نتائج قرعة الحج في العراق صدرت… والأولوية هذه المرة لكبار السن",
+    "المسعودي: قرعة الأعوام 2027 التكميلي حتى 2030 مخصصة لكبار السن وحصة العراق محدودة (واع)",
+    "7 جهات حكومية وقضاة من مجلس القضاء الأعلى أشرفوا على القرعة الإلكترونية بحسب الهيئة (شفق نيوز)",
+    "القاضي المشرف: المستنصرية والتكنولوجية فحصتا البرنامج واختبارات عشوائية أكدت صلاحيته (شفق نيوز)",
+    "هل ظهر اسمك أو اسم أحد من أهلك في القرعة؟"
+  ],
+  "endQuestion": "هل ظهر اسمك أو اسم أحد من أهلك في القرعة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "وكالة الأنباء العراقية",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

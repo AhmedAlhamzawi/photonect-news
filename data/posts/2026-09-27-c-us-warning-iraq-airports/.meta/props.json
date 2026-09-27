@@ -1,0 +1,145 @@
+{
+  "dateLabel": "SEP 27 • 2026",
+  "arabicDateLabel": "27 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "مطارات العراق",
+    "arabicHeadline": "مصدر حكومي: عقوبات أمريكية قد تطال أي مطار عراقي يستقبل طائرات إيران",
+    "englishSubhead": "US WARNING (SOURCE) | ~50 FLIGHTS/DAY | $242M (MP EST.) | 100K+ STUDENTS",
+    "heroMedia": "images/news/2026-09-27-c-us-warning-iraq-airports/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التحذير",
+      "arabicHeading": "مصدر حكومي: العقوبات قد تطال المطار نفسه",
+      "arabicBody": "قال مصدر حكومي لشفق نيوز إن واشنطن أبلغت بغداد أن العقوبات قد تشمل أي مطار أو شركة تقدّم الهبوط أو المناولة أو الوقود لطيران إيراني معاقب.",
+      "bigStat": {
+        "value": "36",
+        "label": "Iranian aviation entities under US Treasury sanctions (Sep 8), per Shafaq",
+        "arabicLabel": "جهة طيران إيرانية معاقبة"
+      },
+      "supportingStats": [
+        {
+          "label": "الهبوط",
+          "value": "ضمن التحذير"
+        },
+        {
+          "label": "المناولة",
+          "value": "ضمن التحذير"
+        },
+        {
+          "label": "الوقود",
+          "value": "ضمن التحذير"
+        }
+      ],
+      "broll": "images/news/2026-09-27-c-us-warning-iraq-airports/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-27-c-us-warning-iraq-airports/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مصدر حكومي لشفق نيوز: تحذير أمريكي لبغداد",
+        "العقوبات قد تطال المطار لا الشركة فقط",
+        "الهبوط والمناولة والوقود ضمن التحذير"
+      ]
+    },
+    {
+      "label": "الكلفة",
+      "arabicHeading": "نائب بصري: نحو 50 رحلة يومياً متوقفة",
+      "arabicBody": "النائب فالح الخزعلي قدّر الخسائر بنحو 242 مليون دولار سنوياً في الخدمات الأرضية. ونواب البصرة أمهلوا الحكومة 48 ساعة للتراجع عن الحظر ولوّحوا باستضافة رئيس الوزراء.",
+      "bigStat": {
+        "value": "$242M",
+        "label": "Yearly ground-service loss, MP estimate",
+        "arabicLabel": "تقدير خسائر سنوية"
+      },
+      "supportingStats": [
+        {
+          "label": "الرحلات",
+          "value": "~50 يومياً"
+        },
+        {
+          "label": "مهلة النواب",
+          "value": "48 ساعة"
+        },
+        {
+          "label": "المطلب",
+          "value": "رفع الحظر"
+        }
+      ],
+      "broll": "images/news/2026-09-27-c-us-warning-iraq-airports/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-27-c-us-warning-iraq-airports/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "نائب بصري: نحو 50 رحلة يومياً متوقفة",
+        "خسائر تقديرية 242 مليون دولار سنوياً",
+        "ونواب البصرة يمهلون الحكومة 48 ساعة"
+      ]
+    },
+    {
+      "label": "الاستثناء",
+      "arabicHeading": "بغداد تفاوض واشنطن على استثناءات",
+      "arabicBody": "بحسب المصدر الحكومي، تسعى بغداد لاستثناء رحلات علاجية وتعليمية ودينية. ونواب يقولون إن أكثر من 100 ألف طالب عراقي يدرسون في إيران.",
+      "bigStat": {
+        "value": "100,000+",
+        "label": "Iraqi students in Iran, per MPs",
+        "arabicLabel": "طالب في إيران (نواب)"
+      },
+      "supportingStats": [
+        {
+          "label": "علاج",
+          "value": "استثناء مطلوب"
+        },
+        {
+          "label": "دراسة",
+          "value": "استثناء مطلوب"
+        },
+        {
+          "label": "زيارات دينية",
+          "value": "استثناء مطلوب"
+        }
+      ],
+      "broll": "images/news/2026-09-27-c-us-warning-iraq-airports/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-27-c-us-warning-iraq-airports/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بغداد تفاوض واشنطن على استثناءات إنسانية",
+        "علاج ودراسة وزيارات دينية على الطاولة",
+        "ونواب: أكثر من 100 ألف طالب في إيران"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مصدر حكومي: عقوبات أمريكية قد تطال أي مطار عراقي يستقبل طائرات إيران",
+    "بحسب المصدر، التحذير يشمل خدمات الهبوط والمناولة الأرضية والتزود بالوقود للرحلات الإيرانية المعاقبة",
+    "شبكة 964: مطارات بينها بغداد والبصرة والنجف أوقفت استقبال الطائرات الإيرانية بعد القرار",
+    "النائب فالح الخزعلي يقدّر توقف نحو 50 رحلة يومياً وخسائر 242 مليون دولار سنوياً",
+    "نواب البصرة يمهلون الحكومة 48 ساعة ويجمعون تواقيع لاستضافة رئيس الوزراء في البرلمان",
+    "المصدر الحكومي: بغداد تفاوض واشنطن على استثناءات لرحلات علاجية وتعليمية ودينية",
+    "عندك قريب يدرس أو يتعالج بإيران؟"
+  ],
+  "endQuestion": "عندك قريب يدرس أو يتعالج بإيران؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

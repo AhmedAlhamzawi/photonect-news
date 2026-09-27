@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-27-e-hajj-lottery-2030",
+  "date": "2026-09-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 998118,
+      "sha256": "6c33d5914313d346"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 746096,
+      "sha256": "fcf449dafa66f24a"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 551326,
+      "sha256": "542035885b709516"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1306853,
+      "sha256": "78ecd07ed88e523b"
+    }
+  ]
+}

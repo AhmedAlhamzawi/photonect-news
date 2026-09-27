@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-27-c-us-warning-iraq-airports",
+  "date": "2026-09-27",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 799285,
+      "sha256": "0694cb6aff2e4d9f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 766354,
+      "sha256": "5d0c2e2751821750"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 934220,
+      "sha256": "d16c8745812c6e80"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 560044,
+      "sha256": "275e59c4a50f4d1e"
+    }
+  ]
+}

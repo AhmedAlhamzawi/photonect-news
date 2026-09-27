@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 27 • 2026",
+  "arabicDateLabel": "27 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار نزل تحت 156 ألف.. والحكومة تتحدث عن شحنة",
+    "englishSubhead": "BAGHDAD · SEP 27 | SHAFAQ NEWS: KIFAH & HARITHIYA BOURSES 155,250 IQD PER $100 SUNDAY MORNING, DOWN FROM 156,800 ON SATURDAY (−1,550, COMPUTED) | BAGHDAD EXCHANGE SHOPS: SELL 155,750 / BUY 154,750; ERBIL SELL 155,350 / BUY 155,250 | GOVERNMENT SPOKESMAN HAIDAR AL-ABOUDI (964, 26 SEP): PM ALI AL-ZAIDI REACHED AN UNDERSTANDING IN THE US ON CONTINUED CASH-DOLLAR SHIPMENTS; A NEW SHIPMENT DUE IN THE COMING DAYS, VALUE NOT DISCLOSED | ECONOMIST MOHAMMED AL-HUSNI (SHAFAQ) ATTRIBUTES PART OF THE DROP TO SHIPMENT NEWS",
+    "heroMedia": "images/news/2026-09-27-b-dollar-155250-shipment/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة نزلت إلى 155,250 صباح الأحد",
+      "arabicBody": "بحسب شفق نيوز، سجّلت بورصتا الكفاح والحارثية صباح الأحد 155,250 ديناراً لكل 100 دولار، بعد 156,800 السبت، أي أقل بـ1,550 بحسابنا.",
+      "bigStat": {
+        "value": "155,250",
+        "label": "IQD per $100, Kifah & Harithiya bourses, Sunday morning (Shafaq News)",
+        "arabicLabel": "بورصتا الكفاح والحارثية"
+      },
+      "supportingStats": [
+        {
+          "label": "السبت",
+          "value": "156,800"
+        },
+        {
+          "label": "الفرق",
+          "value": "1,550- (محتسب)"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "155,350"
+        }
+      ],
+      "broll": "images/news/2026-09-27-b-dollar-155250-shipment/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-27-b-dollar-155250-shipment/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البورصة نزلت صباح الأحد",
+        "155,250 دينار لكل 100 دولار",
+        "والسبت كان 156,800"
+      ]
+    },
+    {
+      "label": "الشحنة",
+      "arabicHeading": "الحكومة: شحنة دولار نقدي خلال أيام",
+      "arabicBody": "المتحدث باسم الحكومة حيدر العبودي (شبكة 964): الزيدي توصّل خلال زيارته لأميركا لتفاهم على استمرار شحنات الدولار النقدي، وشحنة جديدة تصل خلال أيام، قيمتها غير محددة.",
+      "bigStat": {
+        "value": "160,000+",
+        "label": "IQD per $100 — level the rate passed in recent days, before the drop (Shafaq News)",
+        "arabicLabel": "مستوى الأيام الماضية"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "المتحدث الحكومي"
+        },
+        {
+          "label": "القيمة",
+          "value": "غير محددة"
+        },
+        {
+          "label": "الموعد",
+          "value": "الأيام المقبلة"
+        }
+      ],
+      "broll": "images/news/2026-09-27-b-dollar-155250-shipment/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-27-b-dollar-155250-shipment/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الحكومة: شحنة دولار نقدي قادمة",
+        "خلال الأيام المقبلة",
+        "وقيمتها لم تُحدَّد بعد"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "بغداد: البيع 155,750 والشراء 154,750",
+      "arabicBody": "محلات الصيرفة ببغداد: البيع 155,750 والشراء 154,750. الخبير محمد الحسني عزا لشفق نيوز جزءاً من التراجع إلى أنباء الشحنة، وقال إن استمراره يرتبط بأثرها على المعروض.",
+      "bigStat": {
+        "value": "155,750",
+        "label": "IQD per $100, Baghdad exchange-shop selling price, Sunday morning (Shafaq News)",
+        "arabicLabel": "بيع محلات بغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "155,750"
+        },
+        {
+          "label": "الشراء",
+          "value": "154,750"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "155,250"
+        }
+      ],
+      "broll": "images/news/2026-09-27-b-dollar-155250-shipment/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-27-b-dollar-155250-shipment/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محلات بغداد تبيع بـ155,750",
+        "الحسني يربط جزءاً من النزول بالشحنة",
+        "والاستمرار مرهون بالمعروض"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: الدولار في بورصتي الكفاح والحارثية 155,250 ديناراً لكل 100 دولار صباح الأحد، بعد 156,800 السبت",
+    "محال الصيرفة ببغداد: البيع 155,750 والشراء 154,750 — أربيل: البيع 155,350 والشراء 155,250",
+    "المتحدث باسم الحكومة حيدر العبودي: شحنة جديدة من الدولار النقدي تصل خلال الأيام المقبلة (شبكة 964)",
+    "الخبير الاقتصادي محمد الحسني عزا جزءاً من التراجع إلى أنباء قرب وصول الشحنة (شفق نيوز)",
+    "راح تشتري دولار هالأسبوع؟"
+  ],
+  "endQuestion": "راح تشتري دولار هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}
