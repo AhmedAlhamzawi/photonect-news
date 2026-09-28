@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 28 • 2026",
+  "arabicDateLabel": "28 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النفط",
+    "arabicHeadline": "رويترز: صفقة هندية لخام البصرة بخصم نحو 28$ عبر ميركوريا",
+    "englishSubhead": "BASRAH CRUDE | ~$28 BELOW DUBAI | SELLER: MERCURIA | REUTERS",
+    "heroMedia": "images/news/2026-09-28-c-basra-crude-28-discount/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الصفقة",
+      "arabicHeading": "صفقة هندية لخام البصرة عبر ميركوريا",
+      "arabicBody": "رويترز: مؤسسة النفط الهندية اشترت مليوني برميل من خامي البصرة المتوسط والثقيل من شركة ميركوريا للتداول، بخصم نحو 28 دولاراً عن خام دبي، وفق مصدرين تجاريين.",
+      "bigStat": {
+        "value": "~$28",
+        "label": "Discount per barrel vs Dubai",
+        "arabicLabel": "خصم عن دبي"
+      },
+      "supportingStats": [
+        {
+          "label": "الكمية",
+          "value": "2 مليون برميل"
+        },
+        {
+          "label": "البائع",
+          "value": "ميركوريا"
+        },
+        {
+          "label": "التسليم",
+          "value": "21-31 أكتوبر"
+        }
+      ],
+      "broll": "images/news/2026-09-28-c-basra-crude-28-discount/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-28-c-basra-crude-28-discount/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "صفقة هندية لخام البصرة",
+        "البائع شركة ميركوريا للتداول",
+        "بخصم نحو 28$ عن دبي"
+      ]
+    },
+    {
+      "label": "برنت",
+      "arabicHeading": "برنت يعود فوق 105$ بعد رفض ترامب",
+      "arabicBody": "رويترز: العقود الآجلة لبرنت صعدت 1.27% إلى 105.64 دولار صباح الاثنين، بعد رفض ترامب مقترح سلام إيرانياً، مع توقعه محادثات جديدة هذا الأسبوع.",
+      "bigStat": {
+        "value": "$105.64",
+        "label": "Brent per barrel, Monday",
+        "arabicLabel": "برميل برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "الارتفاع",
+          "value": "1.27%"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "93.11$"
+        },
+        {
+          "label": "السياق",
+          "value": "رفض ترامب"
+        }
+      ],
+      "broll": "images/news/2026-09-28-c-basra-crude-28-discount/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-28-c-basra-crude-28-discount/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "برنت عند 105.64 دولار",
+        "بعد رفض ترامب مقترح إيران",
+        "ومحادثات متوقعة هذا الأسبوع"
+      ]
+    },
+    {
+      "label": "الصادرات",
+      "arabicHeading": "صادرات الشرق الأوسط الأعلى منذ بدء الحرب",
+      "arabicBody": "كبلر عبر رويترز: صادرات خام كبار منتجي الشرق الأوسط، ومنهم العراق، بلغت أولياً 12.8 مليون برميل يومياً بأيلول، وما زالت أقل بنحو 6 ملايين من شباط.",
+      "bigStat": {
+        "value": "12.8M",
+        "label": "Mideast crude exports, September",
+        "arabicLabel": "برميل يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "شباط",
+          "value": "18.8 مليون"
+        },
+        {
+          "label": "الفرق",
+          "value": "~6 ملايين"
+        },
+        {
+          "label": "عبر هرمز",
+          "value": "~7.4 مليون"
+        }
+      ],
+      "broll": "images/news/2026-09-28-c-basra-crude-28-discount/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-28-c-basra-crude-28-discount/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "12.8 مليون برميل يومياً",
+        "الأعلى منذ بدء الحرب",
+        "وأقل بنحو 6 ملايين"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "رويترز: صفقة هندية لخام البصرة بخصم نحو 28$ عبر ميركوريا",
+    "خاما البصرة الثقيل والمتوسط تراجعا بأكثر من 9 دولارات للبرميل في آخر جلسات الأسبوع الماضي",
+    "برنت يرتفع 1.27% إلى 105.64 دولار بعد رفض ترامب مقترحاً إيرانياً للسلام (رويترز عبر شبكة 964)",
+    "كبلر: صادرات خام الشرق الأوسط 12.8 مليون برميل يومياً بأيلول — الأعلى منذ اندلاع الحرب في شباط",
+    "تشتغل بقطاع النفط أو عندك أحد بيه؟"
+  ],
+  "endQuestion": "تشتغل بقطاع النفط أو عندك أحد بيه؟",
+  "sources": [
+    {
+      "name": "رويترز",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

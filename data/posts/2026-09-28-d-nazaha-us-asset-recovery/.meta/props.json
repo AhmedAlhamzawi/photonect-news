@@ -1,0 +1,143 @@
+{
+  "dateLabel": "SEP 28 • 2026",
+  "arabicDateLabel": "28 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "استرداد أموال العراق المهربة على طاولة النزاهة والسفارة الأمريكية",
+    "englishSubhead": "INTEGRITY × US EMBASSY | ASSET RECOVERY TALKS | NINEVEH: 3 VEHICLES SEIZED | SEP 28",
+    "heroMedia": "images/news/2026-09-28-d-nazaha-us-asset-recovery/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللقاء",
+      "arabicHeading": "النزاهة والسفارة الأمريكية: توسيع تعاون الاسترداد",
+      "arabicBody": "بحث رئيس هيئة النزاهة محمد علي اللامي مع القائم بأعمال السفارة الأمريكية ستيفن فاجن توسيع التعاون لاسترداد الأموال المهربة وتسليم المطلوبين (واع، شبكة 964).",
+      "bigStat": {
+        "value": "5",
+        "label": "UNCAC asset-recovery chapter cited",
+        "arabicLabel": "فصل الاسترداد الأممي"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف",
+          "value": "استرداد الأموال"
+        },
+        {
+          "label": "والثاني",
+          "value": "تسليم المطلوبين"
+        },
+        {
+          "label": "الطرف",
+          "value": "السفارة الأمريكية"
+        }
+      ],
+      "broll": "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "اللامي وفاجن على طاولة واحدة",
+        "ملف الأموال المهربة للخارج",
+        "وتسليم المطلوبين"
+      ]
+    },
+    {
+      "label": "العقبة",
+      "arabicHeading": "3 معوقات للاسترداد حسب رئيس الهيئة",
+      "arabicBody": "حسب بيان الهيئة، دعا اللامي إلى إزالة معوقات الاسترداد: ازدواج الجنسية، واختلاف التشريعات، ومزاعم الاستهداف السياسي (واع، شبكة 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Recovery obstacles named by commission head",
+        "arabicLabel": "معوقات مذكورة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأولى",
+          "value": "ازدواج الجنسية"
+        },
+        {
+          "label": "الثانية",
+          "value": "اختلاف التشريعات"
+        },
+        {
+          "label": "الثالثة",
+          "value": "مزاعم الاستهداف"
+        }
+      ],
+      "broll": "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "ازدواج الجنسية",
+        "اختلاف التشريعات",
+        "ومزاعم الاستهداف السياسي"
+      ]
+    },
+    {
+      "label": "نينوى",
+      "arabicHeading": "نينوى: حجز 3 عجلات إحداها مصفحة، حسب الهيئة",
+      "arabicBody": "أعلنت هيئة النزاهة بنينوى ضبط متهم بتضخم أمواله، وعُثر بداريه على حوالات وعقود عقارات، وحجز 3 عجلات إحداها مصفحة لموقوف ادّعى صفة أمنية (شبكة 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Vehicles seized in Nineveh, one armoured",
+        "arabicLabel": "عجلات محجوزة"
+      },
+      "supportingStats": [
+        {
+          "label": "المتهم الأول",
+          "value": "تضخم أموال"
+        },
+        {
+          "label": "المضبوطات",
+          "value": "حوالات وعقود"
+        },
+        {
+          "label": "الموقوف الثاني",
+          "value": "ادّعى صفة أمنية"
+        }
+      ],
+      "broll": "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-28-d-nazaha-us-asset-recovery/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "متهم بتضخم أمواله حسب الهيئة",
+        "حوالات وعقود عقارات بداريه",
+        "وعجلة مصفحة لموقوف ادّعى صفة أمنية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "استرداد أموال العراق المهربة على طاولة النزاهة والسفارة الأمريكية",
+    "اللامي دعا لإزالة معوقات الاسترداد: ازدواج الجنسية واختلاف التشريعات ومزاعم الاستهداف السياسي (واع)",
+    "فاجن أبدى رغبة بلاده في تكثيف التعاون مع العراق بمجالات النزاهة ومكافحة الفساد (واع)",
+    "نينوى، حسب الهيئة: ضبط متهم بتضخم أمواله وعُثر بداريه على حوالات وعقود عقارات تجارية (شبكة 964)",
+    "بلّغت عن فساد بدائرة حكومية يوماً؟"
+  ],
+  "endQuestion": "بلّغت عن فساد بدائرة حكومية يوماً؟",
+  "sources": [
+    {
+      "name": "وكالة الأنباء العراقية",
+      "domain": "ina.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

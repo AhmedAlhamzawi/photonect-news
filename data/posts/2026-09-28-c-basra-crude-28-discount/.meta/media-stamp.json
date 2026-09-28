@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-28-c-basra-crude-28-discount",
+  "date": "2026-09-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 482612,
+      "sha256": "166b22994e5f3f9d"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 849810,
+      "sha256": "81c34020a928ce81"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 722096,
+      "sha256": "1fc5032fc2fb022d"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 749233,
+      "sha256": "a44806419345cf92"
+    }
+  ]
+}

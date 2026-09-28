@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-28-d-nazaha-us-asset-recovery",
+  "date": "2026-09-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 962086,
+      "sha256": "7150a239906addc6"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1638082,
+      "sha256": "a7e22d3c2762262e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 928421,
+      "sha256": "723c9d627dd2121c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 797840,
+      "sha256": "8b12d9c1409dcd82"
+    }
+  ]
+}

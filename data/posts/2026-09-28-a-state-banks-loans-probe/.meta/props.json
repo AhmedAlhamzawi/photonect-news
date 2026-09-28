@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 28 • 2026",
+  "arabicDateLabel": "28 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تحقيق مصرفي",
+    "arabicHeadline": "سلف وقروض المصارف الحكومية.. المالية تشكّل لجنة تدقق طريقة منحها",
+    "englishSubhead": "BAGHDAD · SEP 28 | STATE-BANK LOANS PROBE | NO FINDINGS YET",
+    "heroMedia": "images/news/2026-09-28-a-state-banks-loans-probe/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اللجنة",
+      "arabicHeading": "لجنة بالمالية تدقق طريقة منح السلف",
+      "arabicBody": "حسب وثيقة نشرتها شفق نيوز، اللجنة تفحص سلامة إجراءات منح القروض والسلف، وأقساط تأمين التسليف الإلكتروني، والسيولة، والفروع الخارجية، والعقود.",
+      "bigStat": {
+        "value": "5",
+        "label": "Files before the Finance Ministry's audit committee (ministry document via Shafaq News; count computed)",
+        "arabicLabel": "ملفات بالوثيقة (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "القروض والسلف",
+          "value": "قيد التدقيق"
+        },
+        {
+          "label": "السيولة",
+          "value": "قيد التدقيق"
+        },
+        {
+          "label": "العقود",
+          "value": "قيد التدقيق"
+        }
+      ],
+      "broll": "images/news/2026-09-28-a-state-banks-loans-probe/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-28-a-state-banks-loans-probe/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "وثيقة للمالية عبر شفق نيوز",
+        "لجنة تدقق طريقة منح السلف",
+        "5 ملفات بالقائمة (محتسب)"
+      ]
+    },
+    {
+      "label": "المصارف",
+      "arabicHeading": "الرافدين والرشيد في صدارة المراجعات",
+      "arabicBody": "حسب مصادر شفق نيوز في 5 أيلول والمستقلة الاثنين، المراجعات الرقابية تركّز خصوصاً على مصرفي الرافدين والرشيد: الموافقات الاستثنائية والتسهيلات الكبيرة.",
+      "bigStat": {
+        "value": "2",
+        "label": "State banks at the centre of earlier probes: Rafidain and Rasheed (Shafaq News; Al-Mustaqila)",
+        "arabicLabel": "مصرفان بالصدارة"
+      },
+      "supportingStats": [
+        {
+          "label": "الرافدين",
+          "value": "مشمول"
+        },
+        {
+          "label": "الرشيد",
+          "value": "مشمول"
+        },
+        {
+          "label": "الموافقات",
+          "value": "قيد المراجعة"
+        }
+      ],
+      "broll": "images/news/2026-09-28-a-state-banks-loans-probe/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-28-a-state-banks-loans-probe/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "شفق نيوز والمستقلة تسمّيان مصرفين",
+        "الرافدين والرشيد في الصدارة",
+        "الموافقات الاستثنائية قيد المراجعة"
+      ]
+    },
+    {
+      "label": "النتائج",
+      "arabicHeading": "التقرير يُرفع لـ4 جهات رقابية",
+      "arabicBody": "التقرير يُرفع لرقابة المالية والبنك المركزي وديوان الرقابة المالية وهيئة النزاهة. المستقلة: المبالغ غير محددة، ولا نتائج رسمية، والتدقيق بحد ذاته لا يعني ثبوت فساد.",
+      "bigStat": {
+        "value": "4",
+        "label": "Oversight bodies that will receive the committee's report (Finance Ministry document)",
+        "arabicLabel": "جهات رقابية"
+      },
+      "supportingStats": [
+        {
+          "label": "المبالغ",
+          "value": "غير محددة"
+        },
+        {
+          "label": "النتائج",
+          "value": "لم تصدر"
+        },
+        {
+          "label": "المسؤولية",
+          "value": "لم تُحدَّد"
+        }
+      ],
+      "broll": "images/news/2026-09-28-a-state-banks-loans-probe/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-28-a-state-banks-loans-probe/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "التقرير لـ4 جهات رقابية",
+        "المبالغ غير محددة حسب المستقلة",
+        "ولا نتائج رسمية حتى الآن"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سلف وقروض المصارف الحكومية.. المالية تشكّل لجنة تدقق طريقة منحها",
+    "وثيقة للمالية عبر شفق نيوز: لجنة تدقق القروض والسلف وأقساط تأمين التسليف الإلكتروني والسيولة والفروع الخارجية والعقود",
+    "التقرير يُرفع إلى رقابة وزارة المالية والبنك المركزي وديوان الرقابة المالية الاتحادي وهيئة النزاهة، حسب الوثيقة",
+    "حسب شفق نيوز والمستقلة، المراجعات الرقابية تركّز خصوصاً على مصرفي الرافدين والرشيد",
+    "مصدر لشفق نيوز يتحدث عن ضغوط للتأثير في عمل لجان التحقيق بالمصارف الحكومية",
+    "المستقلة: المبالغ غير محددة، ولا نتائج رسمية تحمّل أحداً المسؤولية، والتدقيق لا يعني ثبوت فساد",
+    "قدّمت على سلفة من مصرف حكومي؟"
+  ],
+  "endQuestion": "قدّمت على سلفة من مصرف حكومي؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "المستقلة",
+      "domain": "mustaqila.com"
+    },
+    {
+      "name": "وزارة المالية",
+      "domain": "mof.gov.iq"
+    }
+  ]
+}

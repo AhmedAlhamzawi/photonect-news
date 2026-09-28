@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-28-e-gulf-cup-28-iraq",
+  "date": "2026-09-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 706805,
+      "sha256": "d2686b345bebe693"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 799487,
+      "sha256": "dd403cea640a7597"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1134213,
+      "sha256": "9debf1200a838c60"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 830828,
+      "sha256": "c36662afd82a5b8a"
+    }
+  ]
+}

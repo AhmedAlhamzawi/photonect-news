@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 28 • 2026",
+  "arabicDateLabel": "28 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "خليجي 28",
+    "arabicHeadline": "خليجي 28 رسمياً بالعراق.. والحكومة تختار المدينة والملاعب",
+    "englishSubhead": "JEDDAH · SEP 28 | GULF CUP 28 | IRAQ HOSTS | DEC 9-22, 2028",
+    "heroMedia": "images/news/2026-09-28-e-gulf-cup-28-iraq/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "خليجي 28 بالعراق.. والمدينة لم تُحسم",
+      "arabicBody": "اتحاد كأس الخليج قرر في جدة إقامة خليجي 28 بالعراق. سرمد عبد الإله: من 9 إلى 22 كانون الأول 2028، والحكومة تختار المدينة والملاعب (شفقنا).",
+      "bigStat": {
+        "value": "2028",
+        "label": "Gulf Cup 28 in Iraq",
+        "arabicLabel": "موعد خليجي 28"
+      },
+      "supportingStats": [
+        {
+          "label": "من",
+          "value": "9 كانون الأول"
+        },
+        {
+          "label": "إلى",
+          "value": "22 كانون الأول"
+        },
+        {
+          "label": "المدن",
+          "value": "تحددها الحكومة"
+        }
+      ],
+      "broll": "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "رسمياً: خليجي 28 بالعراق",
+        "من 9 إلى 22 كانون الأول 2028",
+        "والمدينة تختارها الحكومة"
+      ]
+    },
+    {
+      "label": "التاريخ",
+      "arabicHeading": "ثالث استضافة بتاريخ العراق",
+      "arabicBody": "بغداد استضافت خليجي 5 عام 1979، والبصرة خليجي 25 عام 2023. وخليجي 28 ثالث نسخة يستضيفها العراق (شفق نيوز، الإمارات اليوم).",
+      "bigStat": {
+        "value": "3",
+        "label": "Iraq's third Gulf Cup",
+        "arabicLabel": "استضافات عراقية"
+      },
+      "supportingStats": [
+        {
+          "label": "خليجي 5",
+          "value": "بغداد 1979"
+        },
+        {
+          "label": "خليجي 25",
+          "value": "البصرة 2023"
+        },
+        {
+          "label": "خليجي 28",
+          "value": "2028"
+        }
+      ],
+      "broll": "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "خليجي 5 ببغداد 1979",
+        "خليجي 25 بالبصرة 2023",
+        "والثالثة خليجي 28"
+      ]
+    },
+    {
+      "label": "قبلها",
+      "arabicHeading": "الأولمبي الخليجي بالبصرة.. والثلاثاء السعودية",
+      "arabicBody": "العراق يستضيف بطولة المنتخبات الأولمبية الخليجية بالبصرة من 21 آذار إلى 3 نيسان 2027 (شفقنا). والثلاثاء يواجه المنتخب السعودية وله 4 نقاط من مباراتين (شفق نيوز).",
+      "bigStat": {
+        "value": "2027",
+        "label": "Gulf Olympic championship, Basra",
+        "arabicLabel": "الأولمبي بالبصرة"
+      },
+      "supportingStats": [
+        {
+          "label": "من",
+          "value": "21 آذار"
+        },
+        {
+          "label": "إلى",
+          "value": "3 نيسان"
+        },
+        {
+          "label": "نقاط العراق",
+          "value": "4"
+        }
+      ],
+      "broll": "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-28-e-gulf-cup-28-iraq/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الأولمبي الخليجي بالبصرة 2027",
+        "العراق 4 نقاط من مباراتين",
+        "والثلاثاء السعودية بجدة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "خليجي 28 رسمياً بالعراق.. والحكومة تختار المدينة والملاعب",
+    "سرمد عبد الإله: خليجي 28 للفترة من 9 إلى 22 كانون الأول 2028، والحكومة تحدد المدينة والملاعب (شفقنا)",
+    "العراق يستضيف بطولة المنتخبات الأولمبية الخليجية في البصرة من 21 آذار إلى 3 نيسان 2027",
+    "المنتخب العراقي يواجه السعودية غداً الثلاثاء في جدة وله 4 نقاط: تعادل مع عُمان 1-1 وفاز على الكويت 3-2 (شفق نيوز)",
+    "حضرت خليجي 25 بالبصرة؟"
+  ],
+  "endQuestion": "حضرت خليجي 25 بالبصرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "الإمارات اليوم",
+      "domain": "emaratalyoum.com"
+    },
+    {
+      "name": "شفقنا العراق",
+      "domain": "iraq.shafaqna.com"
+    }
+  ]
+}

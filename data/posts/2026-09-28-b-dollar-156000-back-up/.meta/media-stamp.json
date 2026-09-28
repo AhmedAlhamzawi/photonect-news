@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-28-b-dollar-156000-back-up",
+  "date": "2026-09-28",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 721362,
+      "sha256": "c29b94507fcbae7f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 413873,
+      "sha256": "539891b2e7a5e24d"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 831959,
+      "sha256": "3f1811fc5e3598da"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1693918,
+      "sha256": "9f24fc25461882c6"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "dateLabel": "SEP 28 • 2026",
+  "arabicDateLabel": "28 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار رجع يصعد: الـ100 دولار بـ156,000 دينار في بورصة بغداد",
+    "englishSubhead": "BAGHDAD BOURSE | 156,000 IQD / $100 | +750 VS SUNDAY (COMPUTED) | SHAFAQ NEWS",
+    "heroMedia": "images/news/2026-09-28-b-dollar-156000-back-up/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة ترجع تصعد: 156,000 صباح الاثنين",
+      "arabicBody": "حسب شفق نيوز، سجّلت بورصتا الكفاح والحارثية ببغداد صباح الاثنين 156,000 دينار لكل 100 دولار، بعد 155,250 يوم الأحد.",
+      "bigStat": {
+        "value": "156,000",
+        "label": "IQD per $100, Kifah & Harithiya bourses, Monday morning (Shafaq News)",
+        "arabicLabel": "دينار لكل 100 دولار"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد",
+          "value": "155,250"
+        },
+        {
+          "label": "الفرق",
+          "value": "750+ (محتسب)"
+        },
+        {
+          "label": "المصدر",
+          "value": "شفق نيوز"
+        }
+      ],
+      "broll": "images/news/2026-09-28-b-dollar-156000-back-up/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-28-b-dollar-156000-back-up/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الدولار يعاود الصعود ببغداد",
+        "156,000 دينار لكل 100 دولار",
+        "يوم الأحد كان 155,250"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "محال بغداد تبيع الـ100 دولار بـ156,500",
+      "arabicBody": "وفي محال الصيرفة ببغداد، بلغ البيع 156,500 والشراء 155,500 دينار لكل 100 دولار. وفي أربيل: البيع 156,300 والشراء 156,200، حسب شفق نيوز.",
+      "bigStat": {
+        "value": "156,500",
+        "label": "IQD per $100, Baghdad exchange-shop selling price, Monday morning (Shafaq News)",
+        "arabicLabel": "سعر البيع ببغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد شراء",
+          "value": "155,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "156,300"
+        },
+        {
+          "label": "أربيل شراء",
+          "value": "156,200"
+        }
+      ],
+      "broll": "images/news/2026-09-28-b-dollar-156000-back-up/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-28-b-dollar-156000-back-up/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محال بغداد: البيع 156,500",
+        "والشراء 155,500 دينار",
+        "أربيل: البيع 156,300"
+      ]
+    },
+    {
+      "label": "الرسمي",
+      "arabicHeading": "البورصة فوق الرسمي بـ25,000 دينار (محتسب)",
+      "arabicBody": "السعر الرسمي المقرر من البنك المركزي 131,000 دينار لكل 100 دولار (شبكة 964). يعني سعر البورصة اليوم أعلى منه بـ25,000 دينار (محتسب).",
+      "bigStat": {
+        "value": "25,000",
+        "label": "IQD gap per $100 between today's bourse rate and the official central-bank rate (computed)",
+        "arabicLabel": "فرق عن الرسمي (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        },
+        {
+          "label": "البورصة",
+          "value": "156,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "25,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-09-28-b-dollar-156000-back-up/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-28-b-dollar-156000-back-up/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الرسمي 131,000 دينار",
+        "البورصة 156,000 دينار",
+        "الفرق 25,000 (محتسب)"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الدولار رجع يصعد: الـ100 دولار بـ156,000 دينار في بورصة بغداد",
+    "شفق نيوز: بورصتا الكفاح والحارثية 156,000 دينار لكل 100 دولار صباح الاثنين، بعد 155,250 الأحد",
+    "محال الصيرفة ببغداد: البيع 156,500 والشراء 155,500 دينار لكل 100 دولار (شفق نيوز)",
+    "أربيل: البيع 156,300 والشراء 156,200 دينار لكل 100 دولار (شفق نيوز)",
+    "السعر الرسمي من البنك المركزي 131,000 دينار (شبكة 964) — البورصة أعلى بـ25,000 (محتسب)",
+    "سعر الصيرفة بمنطقتك كم اليوم؟"
+  ],
+  "endQuestion": "سعر الصيرفة بمنطقتك كم اليوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}
