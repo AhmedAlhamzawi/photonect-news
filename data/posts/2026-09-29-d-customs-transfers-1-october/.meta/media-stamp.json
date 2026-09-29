@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-29-d-customs-transfers-1-october",
+  "date": "2026-09-29",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 546920,
+      "sha256": "414dce72de8e053f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 875493,
+      "sha256": "f8422e500daec310"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1048093,
+      "sha256": "764b55e139316ee4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 867498,
+      "sha256": "a6f64d4592d13616"
+    }
+  ]
+}

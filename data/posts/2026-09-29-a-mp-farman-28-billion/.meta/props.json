@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 29 • 2026",
+  "arabicDateLabel": "29 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "حكم بسجن نائب حالي 7 سنوات.. وردّ وغرامة تتجاوز 28 مليار دينار",
+    "englishSubhead": "SITTING MP | 7 YEARS | IQD 28BN+ | INTEGRITY COMMISSION",
+    "heroMedia": "images/news/2026-09-29-a-mp-farman-28-billion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحكم",
+      "arabicHeading": "حكم حضوري بسجن نائب حالي 7 سنوات",
+      "arabicBody": "محكمة جنايات مكافحة الفساد المركزية أصدرت حكماً حضورياً بسجن النائب محمد فرمان شاهر الجبوري 7 سنوات بجريمة الكسب غير المشروع (هيئة النزاهة).",
+      "bigStat": {
+        "value": "7",
+        "label": "Years prison, illicit enrichment verdict",
+        "arabicLabel": "سنوات سجن"
+      },
+      "supportingStats": [
+        {
+          "label": "الحكم",
+          "value": "حضوري"
+        },
+        {
+          "label": "المادة",
+          "value": "19/ثانياً"
+        },
+        {
+          "label": "القانون",
+          "value": "30 لسنة 2011"
+        }
+      ],
+      "broll": "images/news/2026-09-29-a-mp-farman-28-billion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-29-a-mp-farman-28-billion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "حكم حضوري بسجن نائب حالي",
+        "7 سنوات عن الكسب غير المشروع",
+        "بحسب بيان هيئة النزاهة"
+      ]
+    },
+    {
+      "label": "المبالغ",
+      "arabicHeading": "ردّ وغرامة تتجاوز 28 مليار دينار",
+      "arabicBody": "المحكمة ألزمته بردّ 11,795,949,238 ديناراً و1,729,300 دولار، مع غرامة تعادل قيمة الكسب، والمجموع 28,157,250,476 ديناراً (النزاهة عبر شفق نيوز و964).",
+      "bigStat": {
+        "value": "+28 مليار",
+        "label": "IQD returned plus equal fine",
+        "arabicLabel": "دينار ردّ وغرامة"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار",
+          "value": "11,795,949,238"
+        },
+        {
+          "label": "بالدولار",
+          "value": "1,729,300$"
+        },
+        {
+          "label": "الغرامة",
+          "value": "تعادل الكسب"
+        }
+      ],
+      "broll": "images/news/2026-09-29-a-mp-farman-28-billion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-29-a-mp-farman-28-billion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "ردّ قيمة الكسب بالدينار والدولار",
+        "وغرامة مالية تعادل القيمة نفسها",
+        "المجموع يتجاوز 28 مليار دينار"
+      ]
+    },
+    {
+      "label": "الأموال",
+      "arabicHeading": "حكم ثانٍ بالحبس.. والحجز على أمواله",
+      "arabicBody": "حكم آخر بحبسه حبساً شديداً 3 سنوات عن جريمة الإخفاء مع تطبيق العقوبة الأشد، وتأييد الحجز على أمواله، والتعويض بعد اكتساب الحكم الدرجة القطعية.",
+      "bigStat": {
+        "value": "3",
+        "label": "Years hard imprisonment, concealment",
+        "arabicLabel": "سنوات حبس شديد"
+      },
+      "supportingStats": [
+        {
+          "label": "أمواله",
+          "value": "الحجز مؤيَّد"
+        },
+        {
+          "label": "التعويض",
+          "value": "بعد القطعية"
+        },
+        {
+          "label": "23 أيلول",
+          "value": "نائبتان بالسجن"
+        }
+      ],
+      "broll": "images/news/2026-09-29-a-mp-farman-28-billion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-29-a-mp-farman-28-billion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "حبس شديد 3 سنوات عن الإخفاء",
+        "وتُطبَّق العقوبة الأشد",
+        "التعويض بعد اكتساب الحكم الدرجة القطعية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: حكم حضوري بسجن النائب محمد فرمان شاهر سلمان الجبوري 7 سنوات عن جريمة الكسب غير المشروع (29 أيلول)",
+    "المحكمة ألزمته بردّ 11,795,949,238 ديناراً و1,729,300 دولار مع غرامة تعادلها — المجموع 28,157,250,476 ديناراً",
+    "حكم ثانٍ بالحبس الشديد 3 سنوات عن جريمة الإخفاء مع تطبيق العقوبة الأشد، وتأييد الحجز على أمواله المنقولة وغير المنقولة",
+    "شفق نيوز: الحكم يأتي بعد حكمين بسجن النائبتين عالية نصيف وأشواق سالم حسن 7 سنوات في 23 أيلول",
+    "تعرف اسم نائب منطقتك؟"
+  ],
+  "endQuestion": "تعرف اسم نائب منطقتك؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

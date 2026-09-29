@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 29 • 2026",
+  "arabicDateLabel": "29 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "التعليم العالي",
+    "arabicHeadline": "مقاعد القبول المتبادل بين بغداد والإقليم: من 500 إلى 1250 طالباً",
+    "englishSubhead": "BAGHDAD · SEP 29 | FEDERAL HIGHER EDUCATION MINISTRY: MUTUAL ADMISSION BETWEEN FEDERAL AND KURDISTAN REGION UNIVERSITIES RAISED TO 1,250 STUDENTS A YEAR FROM 500 | UNDERGRADUATE SEATS 400 → 1,000; POSTGRADUATE 100 → 250, FOR NEXT ACADEMIC YEAR | MEETING CHAIRED BY DEPUTY MINISTER HAIDAR ABD DHAHAD WITH KRG MINISTRY ADVISER SABAH IBRAHIM WAIS; ADMINISTRATIVE HURDLES AND DEGREE EQUIVALENCY DISCUSSED (MINISTRY STATEMENT VIA SHAFAQ NEWS, KALIMA)",
+    "heroMedia": "images/news/2026-09-29-e-kurdistan-seats-1250/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "مقاعد القبول المتبادل: من 500 إلى 1250",
+      "arabicBody": "أعلنت وزارة التعليم العالي توسيع القبول المتبادل بين الجامعات الاتحادية وجامعات إقليم كوردستان إلى 1250 طالباً بعدما كان 500 فقط سنوياً (بيان الوزارة عبر شفق نيوز).",
+      "bigStat": {
+        "value": "1,250",
+        "label": "Students a year in federal–Kurdistan mutual university admission, up from 500 (Higher Education Ministry)",
+        "arabicLabel": "طالباً سنوياً بالقبول المتبادل بدل 500 (وزارة التعليم العالي)"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل",
+          "value": "500"
+        },
+        {
+          "label": "بعد",
+          "value": "1,250"
+        },
+        {
+          "label": "الزيادة",
+          "value": "750 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-09-29-e-kurdistan-seats-1250/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-29-e-kurdistan-seats-1250/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — جامعة السليمانية",
+      "subtitlePhrases": [
+        "القبول المتبادل",
+        "من 500",
+        "إلى 1250"
+      ]
+    },
+    {
+      "label": "الأولية",
+      "arabicHeading": "الدراسات الأولية: 400 تصير 1000",
+      "arabicBody": "للعام الدراسي المقبل، ترتفع مقاعد الدراسات الأولية من 400 إلى 1000 طالب من كلا الجانبين، بحسب بيان الوزارة.",
+      "bigStat": {
+        "value": "1,000",
+        "label": "Undergraduate mutual-admission seats for next academic year, up from 400 (Higher Education Ministry)",
+        "arabicLabel": "مقعد للدراسات الأولية بدل 400 (وزارة التعليم العالي)"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل",
+          "value": "400"
+        },
+        {
+          "label": "بعد",
+          "value": "1,000"
+        },
+        {
+          "label": "الموعد",
+          "value": "العام الدراسي المقبل"
+        }
+      ],
+      "broll": "images/news/2026-09-29-e-kurdistan-seats-1250/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-29-e-kurdistan-seats-1250/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — جامعة بغداد",
+      "subtitlePhrases": [
+        "الدراسات الأولية",
+        "من 400",
+        "إلى 1000"
+      ]
+    },
+    {
+      "label": "العليا",
+      "arabicHeading": "الدراسات العليا: 100 تصير 250",
+      "arabicBody": "مقاعد الدراسات العليا ترتفع من 100 إلى 250 من كلا الجانبين، وبحث الاجتماع تذليل عقبات القبول ومعادلة الشهادات (الوزارة، شفق نيوز، كلمة).",
+      "bigStat": {
+        "value": "250",
+        "label": "Postgraduate mutual-admission seats, up from 100 (Higher Education Ministry)",
+        "arabicLabel": "مقعداً للدراسات العليا بدل 100 (وزارة التعليم العالي)"
+      },
+      "supportingStats": [
+        {
+          "label": "قبل",
+          "value": "100"
+        },
+        {
+          "label": "بعد",
+          "value": "250"
+        },
+        {
+          "label": "بُحث أيضاً",
+          "value": "معادلة الشهادات"
+        }
+      ],
+      "broll": "images/news/2026-09-29-e-kurdistan-seats-1250/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-29-e-kurdistan-seats-1250/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — طلبة في السليمانية",
+      "subtitlePhrases": [
+        "الدراسات العليا",
+        "من 100 إلى 250",
+        "ومعادلة الشهادات"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مقاعد القبول المتبادل بين بغداد والإقليم: من 500 إلى 1250 طالباً — بيان وزارة التعليم العالي (29 أيلول)",
+    "الدراسات الأولية: من 400 إلى 1000 مقعد — الدراسات العليا: من 100 إلى 250 مقعداً للعام الدراسي المقبل",
+    "الاجتماع برئاسة وكيل الوزارة للشؤون العلمية حيدر عبد ضهد وبحضور مستشار وزارة التعليم العالي في الإقليم صباح إبراهيم ويس",
+    "الجانبان بحثا تذليل العقبات الإدارية والفنية أمام القبول المتبادل ومعادلة الشهادات",
+    "عندك أحد يدرس بجامعة بالإقليم؟"
+  ],
+  "endQuestion": "عندك أحد يدرس بجامعة بالإقليم؟",
+  "sources": [
+    {
+      "name": "وزارة التعليم العالي",
+      "domain": "mohesr.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "كلمة",
+      "domain": "kalimaiq.com"
+    }
+  ]
+}

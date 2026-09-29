@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-29-b-dollar-157000-gold-up",
+  "date": "2026-09-29",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 845950,
+      "sha256": "dd8cfddb0422c2cd"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 465988,
+      "sha256": "ba9daaa7ffbcb275"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 889908,
+      "sha256": "37467fccc54982b1"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1016358,
+      "sha256": "fbcb7a0358a596cf"
+    }
+  ]
+}

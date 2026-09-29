@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-29-a-mp-farman-28-billion",
+  "date": "2026-09-29",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1190830,
+      "sha256": "5f5b094c00195190"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1605150,
+      "sha256": "7cdf13bd7ed05232"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1599821,
+      "sha256": "d01fe31bad94952d"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1131442,
+      "sha256": "f2ff2056d26d704a"
+    }
+  ]
+}

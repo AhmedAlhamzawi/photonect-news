@@ -1,0 +1,143 @@
+{
+ "dateLabel": "SEP 29 • 2026",
+ "arabicDateLabel": "29 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_03.mp3",
+ "topicBucket": "mena_geo",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "صورة أرشيفية · تموز",
+  "arabicHeadline": "حسب الناطق الحكومي: الزيدي التقى ترامب منفرداً في نيويورك.. والنفط على الطاولة",
+  "englishSubhead": "ARCHIVE PHOTO: WHITE HOUSE, 14 JULY 2026 | NEW YORK MEETING PER GOVT SPOKESMAN",
+  "heroMedia": "images/news/2026-09-29-c-zaidi-trump-oil-firms/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "اللقاء",
+   "arabicHeading": "حسب العبودي: لقاء منفرد في نيويورك",
+   "arabicBody": "قال الناطق الحكومي حيدر العبودي إن الزيدي التقى ترامب منفرداً بعد استقبال جماعي أقامه لقادة اجتماعات الأمم المتحدة، وناقشا الاستثمار والشركات الأميركية بالنفط (دجلة عبر 964).",
+   "bigStat": {
+    "value": "منفرد",
+    "label": "One-on-one meeting after a group reception, per spokesman al-Aboudi (Dijla via 964)",
+    "arabicLabel": "لقاء بعد استقبال جماعي (العبودي)"
+   },
+   "supportingStats": [
+    {
+     "label": "المكان",
+     "value": "نيويورك"
+    },
+    {
+     "label": "من الملفات",
+     "value": "الفساد والسلاح"
+    },
+    {
+     "label": "المصدر",
+     "value": "الناطق الحكومي"
+    }
+   ],
+   "broll": "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية — مقر الأمم المتحدة",
+   "subtitlePhrases": [
+    "حسب العبودي: لقاء منفرد",
+    "الشركات الأميركية بالنفط والطاقة",
+    "وعرض ملفي الفساد والسلاح"
+   ]
+  },
+  {
+   "label": "الهدف",
+   "arabicHeading": "هدف الحكومة: 10 ملايين برميل يومياً بـ2030",
+   "arabicBody": "حسب العبودي، تستهدف الحكومة إنتاج 10 ملايين برميل يومياً بحلول 2030، وقرار أنبوب بانياس اتُّخذ، والعقود مع ائتلاف شركات دولية «في طور التبلور».",
+   "bigStat": {
+    "value": "10M",
+    "label": "Barrels per day — government output target for 2030 (spokesman al-Aboudi via 964)",
+    "arabicLabel": "برميل يومياً بـ2030"
+   },
+   "supportingStats": [
+    {
+     "label": "الموعد",
+     "value": "2030"
+    },
+    {
+     "label": "عقود بانياس",
+     "value": "قيد التبلور"
+    },
+    {
+     "label": "التنفيذ",
+     "value": "ائتلاف دولي"
+    }
+   ],
+   "broll": "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "هدف الحكومة: 10 ملايين برميل",
+    "بحلول 2030 حسب العبودي",
+    "وعقود بانياس قيد التبلور"
+   ]
+  },
+  {
+   "label": "الإطار",
+   "arabicHeading": "مصدر: الزيدي أطلع الإطار على تفاهماته مع ترامب",
+   "arabicBody": "قال مصدر لشفق نيوز إن الزيدي أطلع قادة الإطار على تفاهماته مع ترامب، في اجتماع خُصص لحظر الطيران الإيراني، غاب عنه المالكي والعامري لالتزامات خاصة.",
+   "bigStat": {
+    "value": "36",
+    "label": "Iranian aviation-linked entities sanctioned by the US Treasury on 8 September (Shafaq News)",
+    "arabicLabel": "جهة طيران إيرانية عاقبتها الخزانة الأميركية في 8 أيلول"
+   },
+   "supportingStats": [
+    {
+     "label": "الاجتماع",
+     "value": "تشاوري"
+    },
+    {
+     "label": "الملف",
+     "value": "الطيران الإيراني"
+    },
+    {
+     "label": "الغائبان",
+     "value": "المالكي والعامري"
+    }
+   ],
+   "broll": "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-29-c-zaidi-trump-oil-firms/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "مصدر: الإطار سمع التفاصيل",
+    "حظر الطيران الإيراني على الجدول",
+    "بغياب المالكي والعامري"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "حسب الناطق الحكومي: الزيدي التقى ترامب منفرداً في نيويورك.. والنفط على الطاولة",
+  "العبودي: اللقاء تناول الاستثمار وحضور الشركات الأميركية في قطاعي النفط والطاقة (دجلة عبر شبكة 964)",
+  "العبودي: الحكومة تستهدف إنتاج 10 ملايين برميل يومياً بحلول 2030، وقرار أنبوب بانياس اتُّخذ",
+  "مصدر لشفق نيوز: الزيدي أطلع قادة الإطار التنسيقي على تفاهماته مع ترامب بغياب المالكي والعامري",
+  "تشتغل بشركة نفطية؟"
+ ],
+ "endQuestion": "تشتغل بشركة نفطية؟",
+ "sources": [
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  }
+ ]
+}

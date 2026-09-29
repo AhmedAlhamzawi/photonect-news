@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 29 • 2026",
+  "arabicDateLabel": "29 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الكمارك",
+    "arabicHeadline": "من الخميس: لا دولار يُحوَّل للاستيراد قبل دفع الرسوم",
+    "englishSubhead": "SEP 28 | FROM 1 OCT | DUTIES BEFORE TRANSFER | DECISION 413",
+    "heroMedia": "images/news/2026-09-29-d-customs-transfers-1-october/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القاعدة",
+      "arabicHeading": "من الخميس: لا تحويل استيراد قبل الرسوم",
+      "arabicBody": "مدير الكمارك ثامر قاسم داود: من 1 تشرين الأول تُستوفى الرسوم الكمركية والأمانات الضريبية مسبقاً، قبل تحويل أموال الاستيراد عبر المصارف أو حوالات المكاتب (964).",
+      "bigStat": {
+        "value": "413",
+        "label": "Cabinet decision 413 of 2026",
+        "arabicLabel": "قرار مجلس الوزراء"
+      },
+      "supportingStats": [
+        {
+          "label": "البدء",
+          "value": "1 تشرين الأول"
+        },
+        {
+          "label": "النظام",
+          "value": "الأسيكودا"
+        },
+        {
+          "label": "البيان",
+          "value": "07 للتحويلات"
+        }
+      ],
+      "broll": "images/news/2026-09-29-d-customs-transfers-1-october/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-29-d-customs-transfers-1-october/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "من الخميس، الأول من تشرين الأول",
+        "الرسوم والأمانات الضريبية تُدفع أولاً",
+        "ثم يُحوَّل دولار الاستيراد"
+      ]
+    },
+    {
+      "label": "المصارف",
+      "arabicHeading": "المصرف يتحقق من البيان قبل التحويل",
+      "arabicBody": "بيان الكمارك: المصرف يتحقق من البيان المسبق ويضيف رقمه للتحويل. ومن يستورد دون تحويل مصرفي يُصرّح بمصدر أمواله في البيان 06 (المستقلة، شفقنا، 964).",
+      "bigStat": {
+        "value": "06",
+        "label": "Form 06: imports without transfer",
+        "arabicLabel": "بيان دون تحويل"
+      },
+      "supportingStats": [
+        {
+          "label": "المصرف",
+          "value": "يتحقق من البيان"
+        },
+        {
+          "label": "بدون تحويل",
+          "value": "تصريح بالمصدر"
+        },
+        {
+          "label": "الاسترداد",
+          "value": "بعد إعادة المبلغ"
+        }
+      ],
+      "broll": "images/news/2026-09-29-d-customs-transfers-1-october/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-29-d-customs-transfers-1-october/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المصرف يتحقق من البيان المسبق",
+        "رقم البيان يُضاف إلى التحويل",
+        "ودون تحويل: تصريح بمصدر الأموال"
+      ]
+    },
+    {
+      "label": "الإيرادات",
+      "arabicHeading": "داود: إيرادات الكمارك «غير مسبوقة»",
+      "arabicBody": "داود: الإيرادات المسجلة بلغت 3 تريليون و150 مليار دينار، «غير مسبوقة». ويقول إن القرار «لا يتعلق بإيران»، وإن أكثر التبادل التجاري عبر سوريا (964).",
+      "bigStat": {
+        "value": "3,150 مليار",
+        "label": "IQD recorded customs revenue (Dawood)",
+        "arabicLabel": "دينار إيرادات مسجلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأول بالتبادل",
+          "value": "سوريا"
+        },
+        {
+          "label": "المنافذ",
+          "value": "ربيعة والوليد"
+        },
+        {
+          "label": "إيران",
+          "value": "الرابعة"
+        }
+      ],
+      "broll": "images/news/2026-09-29-d-customs-transfers-1-october/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-29-d-customs-transfers-1-october/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "3 تريليون و150 مليار دينار مسجلة",
+        "داود: القرار لا يتعلق بإيران",
+        "وأكثر التبادل التجاري عبر سوريا"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "من الخميس: لا دولار يُحوَّل للاستيراد قبل دفع الرسوم",
+    "داود لدجلة عبر 964: الرسوم الكمركية والأمانات الضريبية تُستوفى مسبقاً من 1 تشرين الأول",
+    "الآلية تطبيق لقرار مجلس الوزراء 413 لسنة 2026 عبر البيان الكمركي 07 بنظام الأسيكودا",
+    "بيان الكمارك: المصارف تتحقق من البيان المسبق وتضيف رقمه لبيانات التحويل (المستقلة، شفقنا)",
+    "الاستيراد دون تحويل مصرفي: البيان 06 مع التصريح عن مصدر الأموال",
+    "داود: القضية «لا تتعلق بإيران» وهي «عملية تنظيمية رقابية» (964)",
+    "تشتغل بالاستيراد أو التحويل؟"
+  ],
+  "endQuestion": "تشتغل بالاستيراد أو التحويل؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المستقلة",
+      "domain": "mustaqila.com"
+    },
+    {
+      "name": "شفقنا العراق",
+      "domain": "iraq.shafaqna.com"
+    }
+  ]
+}
