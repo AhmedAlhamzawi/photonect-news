@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 30 • 2026",
+  "arabicDateLabel": "30 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "مبادرة وطن",
+    "arabicHeadline": "275 ألف قطعة أرض اكتملت إجراءاتها.. والتسجيل الشهر المقبل",
+    "englishSubhead": "BAGHDAD · SEP 29 | PM OFFICE: AT THE HIGH COMMITTEE OF THE ONE-MILLION RESIDENTIAL PLOTS PROJECT ('WATAN INITIATIVE'), PM CHIEF OF STAFF IHSAN AL-AWADI SAID PROCEDURES FOR 275,000 PLOTS ARE COMPLETE AND READY FOR REAL-ESTATE DEVELOPMENT; THE PROJECT SPANS 121 CITIES IN 15 GOVERNORATES; INFRASTRUCTURE CONTRACTING HAS BEGUN, FIRST FOUNDATION STONE 'IN THE COMING DAYS' | PM AL-ZAIDI: LAUNCH THE CITIZEN REGISTRATION LINK AS SOON AS POSSIBLE NEXT MONTH; DISTRIBUTION BY PLACE OF RESIDENCE AT GOVERNORATE AND DISTRICT LEVEL, COVERING ELIGIBLE AND POOR FAMILIES | JUSTICE MINISTRY TO SPEED STATE-PROPERTY DATABASE; PROPOSALS TO SPEED TITLES FOR HOMES BUILT ON FARMLAND (DECISION 320/2022) (SHAFAQ NEWS, KALIMA, SHAFAQNA)",
+    "heroMedia": "images/news/2026-09-30-d-watan-275000-plots/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الجاهز",
+      "arabicHeading": "275 ألف قطعة.. من هدف المليون",
+      "arabicBody": "بحسب مكتب رئيس الوزراء، اكتملت إجراءات 275 ألف قطعة أرض سكنية ضمن «مبادرة وطن»، وهُيّئت للتطوير العقاري، من مشروع هدفه مليون قطعة.",
+      "bigStat": {
+        "value": "275,000",
+        "label": "Residential plots with completed procedures under the Watan one-million-plots project (PM office)",
+        "arabicLabel": "قطعة اكتملت إجراءاتها"
+      },
+      "supportingStats": [
+        {
+          "label": "الهدف",
+          "value": "مليون قطعة"
+        },
+        {
+          "label": "المرحلة الأولى",
+          "value": "216 ألف قطعة"
+        },
+        {
+          "label": "قرار الإطلاق",
+          "value": "332 / 2026"
+        }
+      ],
+      "broll": "images/news/2026-09-30-d-watan-275000-plots/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-30-d-watan-275000-plots/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مبادرة وطن",
+        "275 ألف قطعة",
+        "من أصل مليون"
+      ]
+    },
+    {
+      "label": "التسجيل",
+      "arabicHeading": "رابط التسجيل خلال الشهر المقبل",
+      "arabicBody": "وجّه رئيس الوزراء علي الزيدي بإطلاق رابط تسجيل المواطنين خلال الشهر المقبل، على أن يكون التوزيع حسب محل السكن، بما يشمل العوائل المستحقة والفقيرة.",
+      "bigStat": {
+        "value": "15",
+        "label": "Governorates covered by the Watan project, across 121 cities (PM office)",
+        "arabicLabel": "محافظة يشملها المشروع"
+      },
+      "supportingStats": [
+        {
+          "label": "التسجيل",
+          "value": "الشهر المقبل"
+        },
+        {
+          "label": "التوزيع",
+          "value": "حسب محل السكن"
+        },
+        {
+          "label": "المستوى",
+          "value": "المحافظة والقضاء"
+        }
+      ],
+      "broll": "images/news/2026-09-30-d-watan-275000-plots/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-30-d-watan-275000-plots/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "رابط التسجيل",
+        "الشهر المقبل",
+        "حسب محل السكن"
+      ]
+    },
+    {
+      "label": "الخدمات",
+      "arabicHeading": "بنى تحتية.. وحجر أساس قريباً",
+      "arabicBody": "مدير مكتب رئيس الوزراء إحسان العوادي: بدأت إجراءات التعاقد على البنى التحتية للأراضي الجاهزة، وحجر الأساس بأول محافظة خلال الأيام المقبلة.",
+      "bigStat": {
+        "value": "121",
+        "label": "Cities in the Watan one-million-plots project (PM office)",
+        "arabicLabel": "مدينة ضمن المشروع"
+      },
+      "supportingStats": [
+        {
+          "label": "التعاقد",
+          "value": "بدأ"
+        },
+        {
+          "label": "حجر الأساس",
+          "value": "الأيام المقبلة"
+        },
+        {
+          "label": "بيوت الزراعي",
+          "value": "قرار 320/2022"
+        }
+      ],
+      "broll": "images/news/2026-09-30-d-watan-275000-plots/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-30-d-watan-275000-plots/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البنى التحتية",
+        "التعاقد بدأ",
+        "حجر أساس قريباً"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مكتب رئيس الوزراء: 275 ألف قطعة أرض سكنية اكتملت إجراءاتها ضمن مبادرة وطن (اجتماع الثلاثاء 29 أيلول)",
+    "المشروع يتوزع على 121 مدينة في 15 محافظة",
+    "الزيدي: إطلاق رابط التسجيل للمواطنين خلال الشهر المقبل، والتوزيع حسب محل السكن بالمحافظة والقضاء",
+    "بدء إجراءات التعاقد على البنى التحتية، وحجر الأساس بأول محافظة خلال الأيام المقبلة (إحسان العوادي)",
+    "ساكن بملك لو إيجار؟"
+  ],
+  "endQuestion": "ساكن بملك لو إيجار؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "كلمة",
+      "domain": "kalimaiq.com"
+    },
+    {
+      "name": "شفقنا العراق",
+      "domain": "iraq.shafaqna.com"
+    }
+  ]
+}

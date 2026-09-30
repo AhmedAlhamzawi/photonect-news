@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-d-watan-275000-plots",
+  "date": "2026-09-30",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1118649,
+      "sha256": "143b3ebc6f7f2433"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1618682,
+      "sha256": "7b4103ffa7696ae9"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 716767,
+      "sha256": "f7cc40dbe51183a4"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1011394,
+      "sha256": "b14fdbe9fa8a8530"
+    }
+  ]
+}

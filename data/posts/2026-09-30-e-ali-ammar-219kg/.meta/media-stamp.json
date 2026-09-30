@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-e-ali-ammar-219kg",
+  "date": "2026-09-30",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 575291,
+      "sha256": "8ee923142f430bfc"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 834115,
+      "sha256": "c966acbc08beefa7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 482838,
+      "sha256": "d30b9fdc1e69abb7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 274178,
+      "sha256": "ff6abdb76d4c749c"
+    }
+  ]
+}

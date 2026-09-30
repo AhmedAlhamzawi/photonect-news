@@ -1,0 +1,149 @@
+{
+  "dateLabel": "SEP 30 • 2026",
+  "arabicDateLabel": "30 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "آسياد ناغويا",
+    "arabicHeadline": "علي عمار يسجّل رقماً عالمياً بالخطف.. والذهب يفلت بكيلو واحد",
+    "englishSubhead": "SNATCH WORLD RECORD 219 KG | SILVER 465 | 1 KG SHORT | REUTERS",
+    "heroMedia": "images/news/2026-09-30-e-ali-ammar-219kg/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرقم",
+      "arabicHeading": "219 كغم بالخطف.. رقم عالمي",
+      "arabicBody": "الثلاثاء في ناغويا، رفع علي عمار 219 كغم بالخطف في وزن +110 كغم، مسجّلاً رقماً عالمياً بحسب رويترز، ودخل النتر بأفضلية مريحة.",
+      "bigStat": {
+        "value": "219",
+        "label": "KG snatch world record by Iraq's Ali Ammar (Reuters)",
+        "arabicLabel": "كغم خطف — رقم عالمي"
+      },
+      "supportingStats": [
+        {
+          "label": "خطف داوودي",
+          "value": "204 كغم"
+        },
+        {
+          "label": "الوزن",
+          "value": "+110 كغم"
+        },
+        {
+          "label": "الدورة",
+          "value": "آسياد ناغويا"
+        }
+      ],
+      "broll": "images/news/2026-09-30-e-ali-ammar-219kg/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-30-e-ali-ammar-219kg/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "علي عمار في ناغويا",
+        "219 كيلو بالخطف",
+        "رقم عالمي.. بحسب رويترز"
+      ]
+    },
+    {
+      "label": "الفارق",
+      "arabicHeading": "465 مقابل 466.. والفضية للعراق",
+      "arabicBody": "بالنتر، محاولته الثانية 246 كغم تركت مجموعه 465، أقل بكيلو واحد من الإيراني علي داوودي 466. البرونزية للبحريني غور ميناسيان بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "465",
+        "label": "KG total for Ali Ammar, silver, 1 kg behind Iran's Ali Davoudi (Reuters)",
+        "arabicLabel": "كغم مجموع — الفضية"
+      },
+      "supportingStats": [
+        {
+          "label": "مجموع داوودي",
+          "value": "466 كغم"
+        },
+        {
+          "label": "الفارق",
+          "value": "1 كغم"
+        },
+        {
+          "label": "نتر عمار",
+          "value": "246 كغم"
+        }
+      ],
+      "broll": "images/news/2026-09-30-e-ali-ammar-219kg/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-30-e-ali-ammar-219kg/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "246 بالنتر",
+        "المجموع 465 مقابل 466",
+        "الذهب يفلت بكيلو واحد"
+      ]
+    },
+    {
+      "label": "الاعتراض",
+      "arabicHeading": "اللجنة الأولمبية العراقية تعترض على التوقيت",
+      "arabicBody": "بحسب اللجنة الأولمبية العراقية، بدأ العدّ تحت العلم الإيراني ثم استُبدل بالعراقي. وقال عمار لرويترز إنه ظنّ أن لديه دقيقتين: «لو عندي 10 ثوانٍ إضافية».",
+      "bigStat": {
+        "value": "10",
+        "label": "Extra seconds Ali Ammar told Reuters he needed",
+        "arabicLabel": "ثوانٍ إضافية"
+      },
+      "supportingStats": [
+        {
+          "label": "المحاولة",
+          "value": "الأخيرة بالنتر"
+        },
+        {
+          "label": "مهلة المحاولة",
+          "value": "دقيقتان"
+        },
+        {
+          "label": "الموقف",
+          "value": "اعتراض رسمي"
+        }
+      ],
+      "broll": "images/news/2026-09-30-e-ali-ammar-219kg/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-30-e-ali-ammar-219kg/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "اعتراض عراقي على التوقيت",
+        "العلم تبدّل والعدّ مستمر",
+        "«لو عندي 10 ثوانٍ إضافية»"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "علي عمار يسجّل رقماً عالمياً بالخطف.. والذهب يفلت بكيلو واحد",
+    "رويترز: علي عمار سجّل رقماً عالمياً في الخطف 219 كغم بوزن +110 كغم",
+    "المجموع: علي عمار 465 كغم فضية، والإيراني علي داوودي 466 كغم ذهبية",
+    "البرونزية للبحريني غور ميناسيان بحسب شفق نيوز والمشهد",
+    "اللجنة الأولمبية العراقية: العدّ بدأ تحت العلم الإيراني ثم تبدّل العلم",
+    "علي عمار لرويترز: لو كان عندي 10 ثوانٍ إضافية لكان الأمر رائعاً",
+    "كم كيلو تكدر ترفع؟"
+  ],
+  "endQuestion": "كم كيلو تكدر ترفع؟",
+  "sources": [
+    {
+      "name": "رويترز",
+      "domain": "reuters.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "المشهد",
+      "domain": "almashhad.com"
+    }
+  ]
+}

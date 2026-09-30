@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-b-dollar-157250-third-rise",
+  "date": "2026-09-30",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 511837,
+      "sha256": "a94c75552b2724c2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 929710,
+      "sha256": "28ba5ded02043d72"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1061157,
+      "sha256": "387ca034bbde08d8"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 562340,
+      "sha256": "2ee9c283c0345105"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "dateLabel": "SEP 30 • 2026",
+  "arabicDateLabel": "30 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geopolitics",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "يوم السيادة",
+    "arabicHeadline": "انتهت مهمة التحالف.. والصدر يحل «اليوم الموعود»",
+    "englishSubhead": "BAGHDAD · SEP 30 | PM ALI AL-ZAIDI, AT AN OFFICIAL 'SOVEREIGNTY DAY' CEREMONY ATTENDED BY THE COALITION COMMANDER, ANNOUNCED THE OFFICIAL END OF THE INTERNATIONAL COALITION'S ANTI-ISIS MISSION IN IRAQ: 'NO WEAPONS OUTSIDE THE UMBRELLA OF THE LAW' (PM OFFICE VIA SHAFAQ NEWS, SHAFAQNA, INA) | PENTAGON: ORDERLY WITHDRAWAL OF COALITION FORCES AND EQUIPMENT FROM ERBIL AIR BASE CONCLUDES OPERATION INHERENT RESOLVE IN IRAQ; TARGETED TRAINING AND INTELLIGENCE SUPPORT CONTINUE | GOVT PLAN (ANNOUNCED 21 SEP): 90-DAY DE-ESCALATION, THEN WEAPONS HANDOVER COMPLETE BY 30 JUNE 2027 (SHAFAQ NEWS) | MUQTADA AL-SADR DISSOLVES 'PROMISED DAY BRIGADE', DEMANDS US COMPENSATION (SADR ON X VIA SHAFAQ NEWS, ARABI21)",
+    "heroMedia": "images/news/2026-09-30-c-coalition-mission-ends/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "الزيدي: مهمة التحالف انتهت رسمياً",
+      "arabicBody": "في حفل يوم السيادة ببغداد، وبحضور قائد التحالف، أعلن الزيدي الانتهاء الرسمي لمهمة التحالف ضد داعش، وقال: «لا سلاح خارج مظلة القانون».",
+      "bigStat": {
+        "value": "30",
+        "label": "September 2026 — 'Sovereignty Day', official end of the coalition mission (PM office)",
+        "arabicLabel": "أيلول — يوم السيادة وانتهاء مهمة التحالف (مكتب رئيس الوزراء)"
+      },
+      "supportingStats": [
+        {
+          "label": "المهمة",
+          "value": "محاربة داعش"
+        },
+        {
+          "label": "الحضور",
+          "value": "قائد التحالف"
+        },
+        {
+          "label": "الشعار",
+          "value": "لا سلاح خارج القانون"
+        }
+      ],
+      "broll": "images/news/2026-09-30-c-coalition-mission-ends/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-30-c-coalition-mission-ends/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — علي الزيدي",
+      "subtitlePhrases": [
+        "يوم السيادة",
+        "انتهت مهمة التحالف",
+        "لا سلاح خارج القانون"
+      ]
+    },
+    {
+      "label": "البنتاغون",
+      "arabicHeading": "البنتاغون: الانسحاب من أربيل يختم المهمة",
+      "arabicBody": "البنتاغون: الانسحاب من قاعدة أربيل الجوية يختتم «العزم الصلب»، مع استمرار التدريب والدعم الاستخباري. وخطة الحكومة المعلنة 21 أيلول: تهدئة 90 يوماً ثم تسليم السلاح.",
+      "bigStat": {
+        "value": "90",
+        "label": "Day de-escalation phase in the government's weapons plan announced 21 Sep (Shafaq News)",
+        "arabicLabel": "يوماً مرحلة تهدئة بخطة الحكومة لحصر السلاح (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "القاعدة",
+          "value": "أربيل الجوية"
+        },
+        {
+          "label": "يستمر",
+          "value": "تدريب واستخبارات"
+        },
+        {
+          "label": "اكتمال التسليم",
+          "value": "30 حزيران 2027"
+        }
+      ],
+      "broll": "images/news/2026-09-30-c-coalition-mission-ends/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-30-c-coalition-mission-ends/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — مطار أربيل",
+      "subtitlePhrases": [
+        "الانسحاب من قاعدة أربيل",
+        "ختام «العزم الصلب» بحسب البنتاغون",
+        "تدريب ودعم استخباري مستمر"
+      ]
+    },
+    {
+      "label": "الصدر",
+      "arabicHeading": "الصدر يحل «لواء اليوم الموعود» فوراً",
+      "arabicBody": "في تدوينة على «إكس»، أعلن الصدر حل «لواء اليوم الموعود» وتحويل «جيش الإمام» إلى مؤسسة، وطالب الجيش الأميركي بتعويضات، ودعا لحصر السلاح بيد الدولة.",
+      "bigStat": {
+        "value": "2027",
+        "label": "30 June 2027 — deadline for completing the weapons handover in the government plan (Shafaq News)",
+        "arabicLabel": "حزيران — موعد اكتمال تسليم السلاح بخطة الحكومة (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "اللواء",
+          "value": "حُلّ فوراً"
+        },
+        {
+          "label": "جيش الإمام",
+          "value": "صار مؤسسة"
+        },
+        {
+          "label": "طالب",
+          "value": "تعويضات أميركية"
+        }
+      ],
+      "broll": "images/news/2026-09-30-c-coalition-mission-ends/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-30-c-coalition-mission-ends/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — مقتدى الصدر 2019",
+      "subtitlePhrases": [
+        "الصدر يعلن حل اللواء",
+        "ويطالب واشنطن بتعويضات",
+        "ويدعو لحصر السلاح بيد الدولة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "انتهت مهمة التحالف الدولي في العراق رسمياً — الزيدي يعلنها في حفل يوم السيادة ببغداد",
+    "البنتاغون: الانسحاب المنظم من قاعدة أربيل الجوية يمثل ختام المهمة العسكرية للتحالف في العراق",
+    "خطة الحكومة لحصر السلاح: تهدئة 90 يوماً ثم تسليم يكتمل بحلول 30 حزيران 2027 (شفق نيوز)",
+    "مقتدى الصدر في تدوينة: حل لواء اليوم الموعود فوراً ومطالبة الجيش الأميركي بتعويضات",
+    "كم كان عمرك لما بدأت الحرب على داعش؟"
+  ],
+  "endQuestion": "كم كان عمرك لما بدأت الحرب على داعش؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شفقنا العراق",
+      "domain": "iraq.shafaqna.com"
+    },
+    {
+      "name": "عربي21",
+      "domain": "arabi21.com"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+ "dateLabel": "SEP 30 • 2026",
+ "arabicDateLabel": "30 أيلول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_01.mp3",
+ "topicBucket": "iraq_corruption",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "النزاهة",
+  "arabicHeadline": "5 كيلو و250 غراماً من الذهب.. بقضية معاونة مدير التسجيل العقاري",
+  "englishSubhead": "SALAHUDDIN | 5.25 KG GOLD | 95 DEEDS | NO VERDICT",
+  "heroMedia": "images/news/2026-09-30-a-gold-5kg-land-registry/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الضبط",
+   "arabicHeading": "5 كيلو و250 غراماً من الذهب",
+   "arabicBody": "هيئة النزاهة: ضبط 5.250 كغم مصوغات ذهبية تعود لمتهمة موقوفة، معاونة مدير التسجيل العقاري في صلاح الدين، بقضية تضخم أموال وكسب غير مشروع.",
+   "bigStat": {
+    "value": "5.25",
+    "label": "KG of gold jewellery seized, Salahuddin land-registry case (Integrity Commission)",
+    "arabicLabel": "كغم مصوغات ذهبية"
+   },
+   "supportingStats": [
+    {
+     "label": "المتهمة",
+     "value": "موقوفة"
+    },
+    {
+     "label": "القضية",
+     "value": "كسب غير مشروع"
+    },
+    {
+     "label": "المحافظة",
+     "value": "صلاح الدين"
+    }
+   ],
+   "broll": "images/news/2026-09-30-a-gold-5kg-land-registry/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-09-30-a-gold-5kg-land-registry/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "النزاهة تضبط 5.250 كغم مصوغات ذهبية",
+    "تعود لمتهمة موقوفة في صلاح الدين",
+    "معاونة مدير التسجيل العقاري"
+   ]
+  },
+  {
+   "label": "الطريق للذهب",
+   "arabicHeading": "اعترافات الزوج.. وذهب نُقل إلى دار أخرى",
+   "arabicBody": "بحسب الهيئة: بعد تدوين اعترافات زوجها المتهم، وصل الفريق إلى ذهب نقلته شقيقتها من منزلها إلى دار شخص آخر، وضبطه بقرار قاضي التحقيق.",
+   "bigStat": {
+    "value": "95",
+    "label": "Property deeds seized from the same accused on 30 Aug (Integrity Commission)",
+    "arabicLabel": "سند عقار (آب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الزوج",
+     "value": "متهم"
+    },
+    {
+     "label": "نقلته",
+     "value": "شقيقة المتهمة"
+    },
+    {
+     "label": "الضبط",
+     "value": "بقرار قضائي"
+    }
+   ],
+   "broll": "images/news/2026-09-30-a-gold-5kg-land-registry/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-09-30-a-gold-5kg-land-registry/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "اعترافات الزوج المتهم أولاً",
+    "الذهب نقلته الشقيقة إلى دار أخرى",
+    "والضبط بقرار قاضي التحقيق"
+   ]
+  },
+  {
+   "label": "قبل شهر",
+   "arabicHeading": "95 عقاراً و31 بياناً على بياض",
+   "arabicBody": "في 30 آب أعلنت الهيئة ضبط أوليات وسندات 95 عقاراً ببغداد وديالى وصلاح الدين، و31 بياناً مبصوماً على بياض. القضية ما زالت قيد التحقيق.",
+   "bigStat": {
+    "value": "31",
+    "label": "Blank thumb-printed forms seized on 30 Aug (Integrity Commission)",
+    "arabicLabel": "بياناً على بياض"
+   },
+   "supportingStats": [
+    {
+     "label": "العقارات",
+     "value": "95"
+    },
+    {
+     "label": "المحافظات",
+     "value": "3"
+    },
+    {
+     "label": "الحالة",
+     "value": "قيد التحقيق"
+    }
+   ],
+   "broll": "images/news/2026-09-30-a-gold-5kg-land-registry/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-09-30-a-gold-5kg-land-registry/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "في آب: سندات 95 عقاراً بثلاث محافظات",
+    "و31 بياناً مبصوماً على بياض",
+    "والقضية ما زالت قيد التحقيق"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "5 كيلو و250 غراماً من الذهب.. بقضية معاونة مدير التسجيل العقاري",
+  "بحسب الهيئة: الشقيقة نقلت الذهب من منزل المتهمة إلى دار شخص آخر، ووصل إليه الفريق بعد اعترافات الزوج",
+  "الضبط تم بقرار قاضي محكمة تحقيق صلاح الدين المختصة بقضايا النزاهة",
+  "في 30 آب: ضبط أوليات وسندات 95 عقاراً ببغداد وديالى وصلاح الدين و31 بياناً مبصوماً على بياض",
+  "هيئة النزاهة: القضية ما زالت قيد التحقيق",
+  "راجعت دائرة التسجيل العقاري هالسنة؟"
+ ],
+ "endQuestion": "راجعت دائرة التسجيل العقاري هالسنة؟",
+ "sources": [
+  {
+   "name": "هيئة النزاهة",
+   "domain": "nazaha.iq"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "المستقلة",
+   "domain": "mustaqila.com"
+  },
+  {
+   "name": "كلمة",
+   "domain": "kalimaiq.com"
+  }
+ ]
+}

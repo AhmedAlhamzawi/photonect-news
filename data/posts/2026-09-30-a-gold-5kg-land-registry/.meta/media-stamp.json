@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-a-gold-5kg-land-registry",
+  "date": "2026-09-30",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 952220,
+      "sha256": "39dd494217cf6e7e"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1043843,
+      "sha256": "8615305ae65bc6a3"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 954846,
+      "sha256": "bd052571daf66615"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1003230,
+      "sha256": "21d837ea09cdf489"
+    }
+  ]
+}

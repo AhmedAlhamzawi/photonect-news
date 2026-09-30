@@ -1,0 +1,139 @@
+{
+  "dateLabel": "SEP 30 • 2026",
+  "arabicDateLabel": "30 أيلول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار 157,250.. ومثقال الذهب يقفز 15 ألفاً",
+    "englishSubhead": "BAGHDAD · SEP 30 | SHAFAQ NEWS: KIFAH & HARITHIYA BOURSES 157,250 IQD PER $100 WEDNESDAY MORNING, UP FROM 157,000 TUESDAY MORNING (+250, COMPUTED) AND 156,000 MONDAY MORNING | BAGHDAD EXCHANGE SHOPS: SELL 157,750 / BUY 156,750 (1,000 GAP, COMPUTED); ERBIL SELL 157,450 / BUY 157,400 | GOLD, AL-NAHR ST WHOLESALE: 21K GULF/TURKISH/EUROPEAN MITHQAL SELLS AT 930,000 IQD (BUY 926,000), UP FROM 915,000 TUESDAY (+15,000, COMPUTED); IRAQI 21K 900,000 (SHAFAQ NEWS)",
+    "heroMedia": "images/news/2026-09-30-b-dollar-157250-third-rise/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "157,250 صباح الأربعاء",
+      "arabicBody": "شفق نيوز: بورصتا الكفاح والحارثية سجّلتا صباح الأربعاء 157,250 ديناراً لكل 100 دولار، بعد 157,000 صباح الثلاثاء.",
+      "bigStat": {
+        "value": "157,250",
+        "label": "IQD per $100, Kifah & Harithiya bourses, Wednesday morning (Shafaq News)",
+        "arabicLabel": "دينار لكل 100 دولار — الكفاح والحارثية صباح الأربعاء (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الثلاثاء",
+          "value": "157,000"
+        },
+        {
+          "label": "الاثنين",
+          "value": "156,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "250+ (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-09-30-b-dollar-157250-third-rise/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-09-30-b-dollar-157250-third-rise/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الدولار يواصل",
+        "157,250 دينار",
+        "الثلاثاء كان 157,000"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "بين البيع والشراء.. ألف دينار",
+      "arabicBody": "محال الصيرفة ببغداد: البيع 157,750 والشراء 156,750 لكل 100 دولار. وبأربيل: البيع 157,450 والشراء 157,400 (شفق نيوز).",
+      "bigStat": {
+        "value": "157,750",
+        "label": "IQD per $100, Baghdad exchange-shop selling price, Wednesday morning (Shafaq News)",
+        "arabicLabel": "دينار سعر البيع لكل 100 دولار بمحال بغداد (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد شراء",
+          "value": "156,750"
+        },
+        {
+          "label": "الفرق",
+          "value": "1,000 (محتسب)"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "157,450"
+        }
+      ],
+      "broll": "images/news/2026-09-30-b-dollar-157250-third-rise/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-09-30-b-dollar-157250-third-rise/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البيع 157,750",
+        "الشراء 156,750",
+        "الفرق ألف دينار"
+      ]
+    },
+    {
+      "label": "الذهب",
+      "arabicHeading": "مثقال شارع النهر 930 ألفاً",
+      "arabicBody": "شفق نيوز: مثقال عيار 21 الخليجي والتركي والأوروبي بجملة شارع النهر 930,000 دينار بيعاً، بعد 915,000 الثلاثاء. والعراقي 900,000.",
+      "bigStat": {
+        "value": "930,000",
+        "label": "IQD per mithqal, 21K Gulf/Turkish/European gold, Al-Nahr St wholesale sell price (Shafaq News)",
+        "arabicLabel": "دينار مثقال عيار 21 — جملة شارع النهر (شفق نيوز)"
+      },
+      "supportingStats": [
+        {
+          "label": "الثلاثاء",
+          "value": "915,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "15,000+ (محتسب)"
+        },
+        {
+          "label": "العراقي 21",
+          "value": "900,000"
+        }
+      ],
+      "broll": "images/news/2026-09-30-b-dollar-157250-third-rise/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-09-30-b-dollar-157250-third-rise/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الذهب يقفز بشارع النهر",
+        "المثقال 930 ألف دينار",
+        "الثلاثاء كان 915 ألفاً"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: الدولار في بورصتي الكفاح والحارثية 157,250 ديناراً لكل 100 دولار صباح الأربعاء، بعد 157,000 صباح الثلاثاء",
+    "محال الصيرفة ببغداد: البيع 157,750 والشراء 156,750 — أربيل: البيع 157,450 والشراء 157,400",
+    "الذهب بجملة شارع النهر: مثقال عيار 21 الخليجي 930,000 دينار بيعاً و926,000 شراءً، بعد 915,000 الثلاثاء",
+    "مثقال الذهب العراقي عيار 21: 900,000 دينار بيعاً (شفق نيوز)",
+    "تحفظ فلوسك ذهب لو دولار؟"
+  ],
+  "endQuestion": "تحفظ فلوسك ذهب لو دولار؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

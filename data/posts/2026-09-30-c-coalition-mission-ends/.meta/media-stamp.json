@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-c-coalition-mission-ends",
+  "date": "2026-09-30",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 555060,
+      "sha256": "4a58ae063e377521"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 579054,
+      "sha256": "f5be8be335d10f35"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 445838,
+      "sha256": "44efe14648780898"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 679213,
+      "sha256": "999d6d2886ad82ac"
+    }
+  ]
+}
