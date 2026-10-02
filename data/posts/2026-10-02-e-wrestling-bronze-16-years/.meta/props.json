@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 02 • 2026",
+  "arabicDateLabel": "2 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "آسياد ناغويا",
+    "arabicHeadline": "سجاد مكسر يُنهي 16 عاماً بلا ميدالية مصارعة عراقية في الآسياد",
+    "englishSubhead": "BRONZE | 60 KG | 16 YEARS",
+    "heroMedia": "images/news/2026-10-02-e-wrestling-bronze-16-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الميدالية",
+      "arabicHeading": "صافرة النهاية.. وبرونزية 60 كغم للعراق",
+      "arabicBody": "على بساط ناغويا، أحرز المصارع العراقي سجاد علي مكسر الخميس برونزية وزن 60 كغم بالمصارعة الرومانية، بعد فوزه على مصارع كوري جنوبي، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "60",
+        "label": "KG Greco-Roman bronze",
+        "arabicLabel": "كغم رومانية"
+      },
+      "supportingStats": [
+        {
+          "label": "الميدالية",
+          "value": "برونزية"
+        },
+        {
+          "label": "الأسلوب",
+          "value": "الروماني"
+        },
+        {
+          "label": "المنافس",
+          "value": "كوريا الجنوبية"
+        }
+      ],
+      "broll": "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "سجاد علي مكسر على بساط ناغويا",
+        "برونزية وزن 60 كغم بالمصارعة الرومانية",
+        "والفوز الأخير على مصارع كوري جنوبي"
+      ]
+    },
+    {
+      "label": "المشوار",
+      "arabicHeading": "ثلاثة انتصارات.. وخسارة واحدة أمام قرغيزستان",
+      "arabicBody": "بحسب أمين سر اتحاد المصارعة هادي حسن: فاز مكسر على مصارع من طاجكستان بدور الـ16، ثم على الفيتنامي نوغاين هوي، وخسر نصف النهائي أمام القرغيزي شارشينبيكوف.",
+      "bigStat": {
+        "value": "4",
+        "label": "Bouts on the road",
+        "arabicLabel": "نزالات"
+      },
+      "supportingStats": [
+        {
+          "label": "دور الـ16",
+          "value": "فوز"
+        },
+        {
+          "label": "ربع النهائي",
+          "value": "فوز"
+        },
+        {
+          "label": "نصف النهائي",
+          "value": "خسارة"
+        }
+      ],
+      "broll": "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "فوز على طاجكستان في دور الـ16",
+        "ثم فوز على الفيتنامي نوغاين هوي",
+        "خسارة نصف النهائي أمام شارشينبيكوف",
+        "ثم عودة وفوز بنزال البرونزية"
+      ]
+    },
+    {
+      "label": "الإنجاز",
+      "arabicHeading": "16 عاماً من الانتظار.. انتهت في اليابان",
+      "arabicBody": "قال هادي حسن لشفق نيوز إن العراق لم يحرز وسام مصارعة بالألعاب الآسيوية خلال 16 عاماً، وإن مكسر كسر هذا الصيام في نزال الخميس باليابان.",
+      "bigStat": {
+        "value": "16",
+        "label": "Years without Asian Games medal",
+        "arabicLabel": "عاماً بلا وسام"
+      },
+      "supportingStats": [
+        {
+          "label": "الانتظار",
+          "value": "16 عاماً"
+        },
+        {
+          "label": "المصدر",
+          "value": "اتحاد المصارعة"
+        },
+        {
+          "label": "المكان",
+          "value": "ناغويا، اليابان"
+        }
+      ],
+      "broll": "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-02-e-wrestling-bronze-16-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "16 عاماً بلا وسام مصارعة في الآسياد",
+        "بحسب أمين سر اتحاد المصارعة",
+        "ومكسر يكسر الصيام في اليابان"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سجاد مكسر يُنهي 16 عاماً بلا ميدالية مصارعة عراقية في الآسياد، بحسب اتحاد المصارعة",
+    "برونزية وزن 60 كغم بالمصارعة الرومانية في آسياد ناغويا بعد الفوز على كوري جنوبي (شفق نيوز)",
+    "المشوار: فوز على طاجكستان ثم فيتنام، وخسارة نصف النهائي أمام القرغيزي شارشينبيكوف",
+    "مارست المصارعة يوم؟"
+  ],
+  "endQuestion": "مارست المصارعة يوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "واع",
+      "domain": "ina.iq"
+    }
+  ]
+}

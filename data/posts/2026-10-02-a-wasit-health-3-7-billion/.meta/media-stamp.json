@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-02-a-wasit-health-3-7-billion",
+  "date": "2026-10-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 542356,
+      "sha256": "6e22485c23f11de8"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 918370,
+      "sha256": "b39bf752f8a59bf3"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 597740,
+      "sha256": "69344d1c564304e1"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1543982,
+      "sha256": "7dde78ae387e1e40"
+    }
+  ]
+}

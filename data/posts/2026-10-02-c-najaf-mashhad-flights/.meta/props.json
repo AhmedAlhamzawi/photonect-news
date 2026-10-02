@@ -1,0 +1,153 @@
+{
+  "dateLabel": "OCT 02 • 2026",
+  "arabicDateLabel": "2 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "حظر الطيران",
+    "arabicHeadline": "3 ملايين عراقي يزورون مشهد.. والرحلات من النجف فقط",
+    "englishSubhead": "NAJAF · SEP 29-OCT 2 | US TREASURY (OFAC) LICENCE LETS IRAQI AIRWAYS ALONE FLY IRAQ-IRAN VIA NAJAF AIRPORT ONLY, FOR RELIGIOUS VISITORS, ONE MONTH ENDING 28 OCT (AL-ARABY TV, RUDAW) | SENIOR SOURCE: BAN ON IRANIAN AIRLINES STILL IN FORCE (SHAFAQ NEWS) | FM FUAD HUSSEIN IN WASHINGTON: IRAQ RECEIVES ~5M IRANIAN VISITORS A YEAR, ~3M IRAQIS VISIT MASHHAD (SHAFAQ NEWS) | IRANIAN EMBASSY CALLS FOR AN 'IMMEDIATE DECISION' (SHAFAQ NEWS) | NAJAF FRIDAY PREACHER SADR AL-DIN AL-QABANCHI CALLS FOR THE DECISION TO BE REVIEWED (964)",
+    "heroMedia": "images/news/2026-10-02-c-najaf-mashhad-flights/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاستثناء",
+      "arabicHeading": "ترخيص أميركي: العراقية فقط ومن النجف فقط",
+      "arabicBody": "بحسب التلفزيون العربي، ترخيص الخزانة الأميركية يسمح للخطوط الجوية العراقية وحدها بالطيران إلى إيران عبر مطار النجف، للزوار الدينيين فقط، حتى 28 تشرين الأول.",
+      "bigStat": {
+        "value": "28",
+        "label": "October 2026 — expiry of the one-month US Treasury licence (Al-Araby TV)",
+        "arabicLabel": "تشرين الأول — نهاية الترخيص الأميركي (التلفزيون العربي)"
+      },
+      "supportingStats": [
+        {
+          "label": "الشركة",
+          "value": "العراقية فقط"
+        },
+        {
+          "label": "المطار",
+          "value": "النجف فقط"
+        },
+        {
+          "label": "المسافرون",
+          "value": "زوار دينيون"
+        }
+      ],
+      "broll": "images/news/2026-10-02-c-najaf-mashhad-flights/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-02-c-najaf-mashhad-flights/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — الخطوط الجوية العراقية",
+      "subtitlePhrases": [
+        "ترخيص أميركي",
+        "العراقية فقط",
+        "من النجف فقط"
+      ]
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "فؤاد حسين: 3 ملايين عراقي يزورون مشهد",
+      "arabicBody": "فؤاد حسين: نحو 3 ملايين عراقي يزورون مشهد سنوياً، ونحو 5 ملايين إيراني يزورون العراق. ومصدر رفيع لشفق نيوز: حظر الناقلات الإيرانية ما يزال سارياً.",
+      "bigStat": {
+        "value": "3",
+        "label": "Million Iraqis visit Mashhad yearly (FM Fuad Hussein via Shafaq News)",
+        "arabicLabel": "ملايين عراقي يزورون مشهد سنوياً (فؤاد حسين)"
+      },
+      "supportingStats": [
+        {
+          "label": "زوار إيرانيون",
+          "value": "5 ملايين سنوياً"
+        },
+        {
+          "label": "الطيران الإيراني",
+          "value": "الحظر سارٍ"
+        },
+        {
+          "label": "المصدر",
+          "value": "فؤاد حسين"
+        }
+      ],
+      "broll": "images/news/2026-10-02-c-najaf-mashhad-flights/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-02-c-najaf-mashhad-flights/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — مرقد الإمام الرضا",
+      "subtitlePhrases": [
+        "فؤاد حسين",
+        "3 ملايين عراقي",
+        "5 ملايين زائر إيراني"
+      ]
+    },
+    {
+      "label": "الضغط",
+      "arabicHeading": "السفارة الإيرانية تطالب.. وخطيب النجف يدعو للمراجعة",
+      "arabicBody": "السفارة الإيرانية طالبت بغداد عبر «إكس» بـ«قرار فوري»، قائلة إن القيود تعرقل الزوار والجامعيين والمرضى. وخطيب جمعة النجف القبانجي دعا اليوم إلى مراجعة القرار (964).",
+      "bigStat": {
+        "value": "5",
+        "label": "Million Iranian visitors to Iraq yearly (FM Fuad Hussein via Shafaq News)",
+        "arabicLabel": "ملايين زائر إيراني للعراق سنوياً (فؤاد حسين)"
+      },
+      "supportingStats": [
+        {
+          "label": "السفارة الإيرانية",
+          "value": "قرار فوري"
+        },
+        {
+          "label": "خطيب النجف",
+          "value": "مراجعة القرار"
+        },
+        {
+          "label": "الحكومة",
+          "value": "حوار مع واشنطن"
+        }
+      ],
+      "broll": "images/news/2026-10-02-c-najaf-mashhad-flights/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-02-c-najaf-mashhad-flights/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — مرقد الإمام علي",
+      "subtitlePhrases": [
+        "السفارة الإيرانية: «قرار فوري»",
+        "خطيب جمعة النجف: مراجعة القرار",
+        "الحكومة: حوار مع واشنطن"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "3 ملايين عراقي يزورون مشهد.. والرحلات من النجف فقط",
+    "التلفزيون العربي: ترخيص الخزانة الأميركية للخطوط الجوية العراقية — رحلات إيران عبر النجف فقط وللزوار الدينيين، حتى 28 تشرين الأول",
+    "مصدر رفيع لشفق نيوز: الحظر المفروض على شركات الطيران الإيرانية ما يزال سارياً",
+    "فؤاد حسين: نحو 5 ملايين زائر إيراني سنوياً ونحو 3 ملايين عراقي يزورون مشهد",
+    "السفارة الإيرانية في بغداد تدعو إلى «قرار فوري» بشأن قيود الطيران",
+    "خطيب جمعة النجف صدر الدين القبانجي يدعو إلى مراجعة القرار (964)",
+    "ناوي تزور مشهد هذا الشهر؟"
+  ],
+  "endQuestion": "ناوي تزور مشهد هذا الشهر؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "التلفزيون العربي",
+      "domain": "alaraby.com"
+    },
+    {
+      "name": "روداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "964",
+      "domain": "964media.com"
+    }
+  ]
+}

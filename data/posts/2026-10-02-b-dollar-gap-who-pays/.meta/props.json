@@ -1,0 +1,141 @@
+{
+  "dateLabel": "OCT 02 • 2026",
+  "arabicDateLabel": "2 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سعر الدولار",
+    "arabicHeadline": "صيرفي: محال الهواتف والملابس تشتري دولارها من السوق السوداء",
+    "englishSubhead": "157,300 IQD/$100 | THU CLOSE | SHAFAQ",
+    "heroMedia": "images/news/2026-10-02-b-dollar-gap-who-pays/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "إغلاق الخميس",
+      "arabicHeading": "الكفاح والحارثية تغلق الخميس على 157,300",
+      "arabicBody": "شفق نيوز: بورصتا الكفاح والحارثية أغلقتا الخميس على 157,300 دينار لكل 100 دولار، بعد 156,850 صباح اليوم نفسه.",
+      "bigStat": {
+        "value": "157,300",
+        "label": "IQD per $100, Thursday close",
+        "arabicLabel": "إغلاق الخميس"
+      },
+      "supportingStats": [
+        {
+          "label": "صباح الخميس",
+          "value": "156,850"
+        },
+        {
+          "label": "بيع الصيرفة",
+          "value": "157,750"
+        },
+        {
+          "label": "شراء الصيرفة",
+          "value": "156,750"
+        }
+      ],
+      "broll": "images/news/2026-10-02-b-dollar-gap-who-pays/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-02-b-dollar-gap-who-pays/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "إغلاق الخميس",
+        "157,300 دينار",
+        "صباحاً 156,850"
+      ]
+    },
+    {
+      "label": "منو يدفع؟",
+      "arabicHeading": "المشرفاوي: محال الهواتف تشتري من السوق السوداء",
+      "arabicBody": "الصيرفي أسامة المشرفاوي لشفق نيوز: أصحاب محال الملابس والهواتف وبعض المستوردين لا يحصلون على الدولار بالسعر الرسمي، فيشترونه من السوق السوداء.",
+      "bigStat": {
+        "value": "157,750",
+        "label": "Baghdad exchange-shop selling price",
+        "arabicLabel": "بيع الصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "الملابس",
+          "value": "دولار السوق"
+        },
+        {
+          "label": "الهواتف",
+          "value": "دولار السوق"
+        },
+        {
+          "label": "المنصة",
+          "value": "لا تغطي الصغار"
+        }
+      ],
+      "broll": "images/news/2026-10-02-b-dollar-gap-who-pays/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-02-b-dollar-gap-who-pays/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محال الملابس والهواتف",
+        "لا دولار بالسعر الرسمي",
+        "فتشتري من السوق السوداء"
+      ]
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "دعدوش: الفجوة تضغط على الأسعار",
+      "arabicBody": "الخبير الاقتصادي علي دعدوش لشفق نيوز: الفجوة ترفع كلفة المستوردات التي لا تمر عبر القنوات الرسمية وتضغط على الأسعار، والمستفيدون الوسطاء والمضاربون والتجارة غير الرسمية.",
+      "bigStat": {
+        "value": "156,750",
+        "label": "Baghdad exchange-shop buying price",
+        "arabicLabel": "شراء الصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "يتحمّلها",
+          "value": "القطاع التجاري"
+        },
+        {
+          "label": "المستفيد",
+          "value": "المضاربون"
+        },
+        {
+          "label": "الحل",
+          "value": "التعامل بالدينار"
+        }
+      ],
+      "broll": "images/news/2026-10-02-b-dollar-gap-who-pays/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-02-b-dollar-gap-who-pays/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الفجوة ترفع كلفة المستوردات",
+        "وتضغط على الأسعار",
+        "المستفيد: الوسطاء والمضاربون"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "صيرفي: محال الهواتف والملابس تشتري دولارها من السوق السوداء",
+    "شفق نيوز: بورصتا الكفاح والحارثية 157,300 دينار لكل 100 دولار عند إغلاق الخميس، بعد 156,850 صباحاً",
+    "محال الصيرفة ببغداد عند الإغلاق: البيع 157,750 والشراء 156,750 لكل 100 دولار",
+    "الصيرفي أسامة المشرفاوي: محال الملابس والهواتف لا تحصل على الدولار بالسعر الرسمي",
+    "الخبير علي دعدوش: الفجوة ترفع كلفة المستوردات خارج القنوات الرسمية وتضغط على الأسعار",
+    "الخبير مصطفى حنتوش: المنصة لا تغطي التجار الصغار",
+    "اشتريت شي بالدولار هالأسبوع؟"
+  ],
+  "endQuestion": "اشتريت شي بالدولار هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

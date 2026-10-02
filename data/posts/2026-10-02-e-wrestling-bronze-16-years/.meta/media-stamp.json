@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-02-e-wrestling-bronze-16-years",
+  "date": "2026-10-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1288251,
+      "sha256": "3a730f0546de703c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 290532,
+      "sha256": "c4dcfcd641887e01"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 311778,
+      "sha256": "43f1fd08b240cfc3"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 595718,
+      "sha256": "38d89046a7462dca"
+    }
+  ]
+}

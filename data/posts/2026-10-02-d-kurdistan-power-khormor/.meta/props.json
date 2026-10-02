@@ -1,0 +1,149 @@
+{
+  "dateLabel": "OCT 02 • 2026",
+  "arabicDateLabel": "2 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الكهرباء",
+    "arabicHeadline": "ساعات كهرباء أقل في كوردستان شهراً كاملاً.. والسبب صيانة حقل كورمور",
+    "englishSubhead": "ERBIL · OCT 1-2 | KRG MINISTRY OF ELECTRICITY: DANA GAS MAINTENANCE AT KHOR MOR FIELD FROM 2 OCT TO 2 NOV WILL REDUCE POWER SUPPLY BY SEVERAL HOURS THROUGHOUT; MINISTRY TO COORDINATE TO MINIMISE IMPACT ON THE 24-HOUR 'RUNAKI' PROJECT (SHAFAQ NEWS) | KRG MINISTRY OF NATURAL RESOURCES: OUTPUT 640 MMSCF/D FALLS TO 520 DURING MAINTENANCE; HOUSEHOLD GAS NOT AFFECTED (964) | SULAYMANIYAH GAS COMMITTEE: STOCKS BUILT OVER TWO MONTHS, NO HOUSEHOLD GAS CRISIS EXPECTED (SHAFAQ NEWS)",
+    "heroMedia": "images/news/2026-10-02-d-kurdistan-power-khormor/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "شهر صيانة.. وساعات كهرباء أقل",
+      "arabicBody": "وزارة كهرباء الإقليم: صيانة «دانة غاز» الإماراتية لحقل كورمور تبدأ 2 تشرين الأول حتى 2 تشرين الثاني، وتخفض تجهيز الكهرباء لعدة ساعات طوال المدة.",
+      "bigStat": {
+        "value": "31",
+        "label": "Days of Khor Mor maintenance, 2 Oct–2 Nov (KRG Ministry of Electricity)",
+        "arabicLabel": "يوماً مدة الصيانة (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "البداية",
+          "value": "2 تشرين الأول"
+        },
+        {
+          "label": "النهاية",
+          "value": "2 تشرين الثاني"
+        },
+        {
+          "label": "الحقل",
+          "value": "كورمور"
+        }
+      ],
+      "broll": "images/news/2026-10-02-d-kurdistan-power-khormor/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-02-d-kurdistan-power-khormor/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "دانة غاز تبدأ صيانة حقل كورمور",
+        "من 2 تشرين الأول إلى 2 تشرين الثاني",
+        "والكهرباء تنقص لعدة ساعات طوال المدة"
+      ]
+    },
+    {
+      "label": "الغاز",
+      "arabicHeading": "إنتاج كورمور: من 640 إلى 520 يومياً",
+      "arabicBody": "بحسب وزارة الثروات الطبيعية في الإقليم، ينتج الحقل 640 مليون قدم مكعب يومياً، وينزل خلال الصيانة إلى 520 مليوناً، وتصف الوزارة الانخفاض بالمحدود.",
+      "bigStat": {
+        "value": "520",
+        "label": "Million cubic feet/day Khor Mor output during maintenance, down from 640 (KRG Natural Resources via 964)",
+        "arabicLabel": "مليون قدم مكعب يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنتاج الحالي",
+          "value": "640"
+        },
+        {
+          "label": "خلال الصيانة",
+          "value": "520"
+        },
+        {
+          "label": "الفرق",
+          "value": "120 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-02-d-kurdistan-power-khormor/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-02-d-kurdistan-power-khormor/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الإنتاج الحالي 640 مليون قدم مكعب يومياً",
+        "خلال الصيانة ينزل إلى 520 مليوناً",
+        "والوزارة تصف الانخفاض بالمحدود"
+      ]
+    },
+    {
+      "label": "غاز البيوت",
+      "arabicHeading": "غاز المنازل لن يتأثر.. بحسب الوزارة",
+      "arabicBody": "وزارة الثروات الطبيعية: حصص غاز المنازل لن تتأثر. ومشرف لجنة غاز السليمانية عمر عبد الله لشفق نيوز: اللجنة خزّنت كميات كافية خلال الشهرين الماضيين.",
+      "bigStat": {
+        "value": "2",
+        "label": "Months Sulaymaniyah gas committee spent building stocks (Shafaq News)",
+        "arabicLabel": "شهران من التخزين"
+      },
+      "supportingStats": [
+        {
+          "label": "غاز المنازل",
+          "value": "لن يتأثر"
+        },
+        {
+          "label": "التخزين",
+          "value": "خلال شهرين"
+        },
+        {
+          "label": "الصيانة",
+          "value": "كل تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-02-d-kurdistan-power-khormor/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-02-d-kurdistan-power-khormor/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — السليمانية",
+      "subtitlePhrases": [
+        "غاز المنازل لن يتأثر بحسب الوزارة",
+        "لجنة السليمانية خزّنت الغاز خلال شهرين",
+        "ولا مؤشرات على أزمة بحسب اللجنة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "ساعات كهرباء أقل في كوردستان شهراً كاملاً.. والسبب صيانة حقل كورمور",
+    "وزارة كهرباء الإقليم: صيانة دانة غاز لحقل كورمور من 2 تشرين الأول حتى 2 تشرين الثاني",
+    "الوزارة: تجهيز الكهرباء ينخفض لعدة ساعات طوال مدة الصيانة (شفق نيوز)",
+    "الوزارة تنسق مع الثروات الطبيعية لتقليل الأثر على مشروع «رووناكي» للكهرباء 24 ساعة",
+    "الثروات الطبيعية: إنتاج الحقل 640 مليون قدم مكعب يومياً وينخفض إلى 520 خلال الصيانة (964)",
+    "لجنة غاز السليمانية لشفق نيوز: خزين كافٍ ولا مؤشرات على أزمة بغاز المنازل",
+    "كم ساعة كهرباء توصلك اليوم؟"
+  ],
+  "endQuestion": "كم ساعة كهرباء توصلك اليوم؟",
+  "sources": [
+    {
+      "name": "كهرباء إقليم كوردستان",
+      "domain": "gov.krd"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "964",
+      "domain": "964media.com"
+    }
+  ]
+}

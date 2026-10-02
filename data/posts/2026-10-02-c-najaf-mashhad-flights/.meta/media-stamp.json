@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-02-c-najaf-mashhad-flights",
+  "date": "2026-10-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 317717,
+      "sha256": "563f61333e285b46"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 744112,
+      "sha256": "fdae9adacd1aab72"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 893653,
+      "sha256": "4950ddc2a9acb3fa"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 655490,
+      "sha256": "2491956ba14208c3"
+    }
+  ]
+}

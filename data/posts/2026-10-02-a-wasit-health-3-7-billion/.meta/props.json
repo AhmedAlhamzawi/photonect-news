@@ -1,0 +1,149 @@
+{
+  "dateLabel": "OCT 02 • 2026",
+  "arabicDateLabel": "2 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "اختلاس 3.78 مليار من صحة واسط.. ولبنان يسلّم المدانة للعراق",
+    "englishSubhead": "WASIT | 3.78B IQD | LIFE SENTENCE | INTERPOL",
+    "heroMedia": "images/news/2026-10-02-a-wasit-health-3-7-billion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المبلغ",
+      "arabicHeading": "مبلغان من صحة واسط.. والمجموع 3.78 مليار",
+      "arabicBody": "حسب هيئة النزاهة، أُدينت موظفة سابقة في دائرة صحة واسط بالاشتراك باختلاس مبلغين: 2.855 مليار و923 مليون دينار، مجموعهما 3,779,032,824 ديناراً.",
+      "bigStat": {
+        "value": "3.779",
+        "label": "Billion IQD, two amounts combined",
+        "arabicLabel": "مليار دينار"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ الأول",
+          "value": "2.855 مليار"
+        },
+        {
+          "label": "المبلغ الثاني",
+          "value": "923 مليون"
+        },
+        {
+          "label": "المجموع",
+          "value": "3,779,032,824"
+        }
+      ],
+      "broll": "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "موظفة سابقة في دائرة صحة واسط",
+        "مبلغان مجموعهما 3.78 مليار دينار",
+        "حسب النزاهة: أُدينت بالاشتراك في الاختلاس"
+      ]
+    },
+    {
+      "label": "الاسترداد",
+      "arabicHeading": "من لبنان إلى العراق.. عبر الإنتربول",
+      "arabicBody": "حسب الهيئة، أعدّت دائرة الاسترداد ملفها وأرسلته إلى السلطات اللبنانية، فقُبض عليها وسُلّمت للعراق عبر مديرية الشرطة العربية والدولية (الإنتربول).",
+      "bigStat": {
+        "value": "2.6",
+        "label": "Million USD equivalent (Al-Modon)",
+        "arabicLabel": "مليون دولار (المدن)"
+      },
+      "supportingStats": [
+        {
+          "label": "البلد",
+          "value": "لبنان"
+        },
+        {
+          "label": "التسليم",
+          "value": "الإنتربول"
+        },
+        {
+          "label": "الإعلان",
+          "value": "1 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "ملف استرداد يُرسل إلى السلطات اللبنانية",
+        "السلطات اللبنانية تقبض عليها وتسلّمها",
+        "التسليم عبر الإنتربول بالتنسيق مع السفارة العراقية"
+      ]
+    },
+    {
+      "label": "الحكم",
+      "arabicHeading": "مؤبد غيابي.. وإلزام بإعادة المبلغ كاملاً",
+      "arabicBody": "حسب الهيئة، حكمت محكمة جنايات واسط عليها غيابياً بالسجن المؤبد وفق المادة 315 من قانون العقوبات، وألزمتها بتأدية 3,779,032,824 ديناراً للدائرة.",
+      "bigStat": {
+        "value": "315",
+        "label": "Iraqi Penal Code article applied",
+        "arabicLabel": "مادة العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "الحكم",
+          "value": "مؤبد غيابي"
+        },
+        {
+          "label": "المحكمة",
+          "value": "جنايات واسط"
+        },
+        {
+          "label": "الإلزام",
+          "value": "إعادة المبلغ"
+        }
+      ],
+      "broll": "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-02-a-wasit-health-3-7-billion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محكمة جنايات واسط تحكم غيابياً بالمؤبد",
+        "وفق المادة 315 من قانون العقوبات",
+        "وإلزام بإعادة 3.78 مليار دينار للدائرة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "اختلاس 3.78 مليار من صحة واسط.. ولبنان يسلّم المدانة للعراق",
+    "حسب هيئة النزاهة: المدانة موظفة سابقة في دائرة صحة واسط، والاسترداد أُعلن الخميس 1 تشرين الأول",
+    "المبلغان حسب الهيئة: 2,855,313,401 و923,719,423 ديناراً، والمجموع 3,779,032,824 ديناراً",
+    "صحيفة المدن تقدّر المجموع بنحو 2.6 مليون دولار",
+    "التسليم عبر مديرية الشرطة العربية والدولية (الإنتربول) بالتنسيق مع الادعاء العام والسفارة العراقية في لبنان",
+    "محكمة جنايات واسط: السجن المؤبد غيابياً وفق المادة 315، وإلزامها بإعادة المبلغ كاملاً",
+    "سمعت بهالقضية قبل اليوم؟"
+  ],
+  "endQuestion": "سمعت بهالقضية قبل اليوم؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "المدن",
+      "domain": "almodon.com"
+    }
+  ]
+}

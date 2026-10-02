@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-02-d-kurdistan-power-khormor",
+  "date": "2026-10-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1205192,
+      "sha256": "f44ecf9654ecc883"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1024456,
+      "sha256": "957fff0e7823d834"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1086853,
+      "sha256": "ce76c5af250ca21a"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 502753,
+      "sha256": "07a591ab7d22144e"
+    }
+  ]
+}

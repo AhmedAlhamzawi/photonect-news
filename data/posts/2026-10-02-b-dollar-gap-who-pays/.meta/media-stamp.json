@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-02-b-dollar-gap-who-pays",
+  "date": "2026-10-02",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1199523,
+      "sha256": "0f2bcd4a9b6f03a5"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1149029,
+      "sha256": "51087f226a7e23cb"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1422194,
+      "sha256": "36d5b44c75b427a7"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 957462,
+      "sha256": "643b4abea58436f2"
+    }
+  ]
+}
