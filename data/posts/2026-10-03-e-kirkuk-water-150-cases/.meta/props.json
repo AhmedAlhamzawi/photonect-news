@@ -1,0 +1,144 @@
+{
+  "dateLabel": "OCT 03 • 2026",
+  "arabicDateLabel": "3 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_health",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "صحة كركوك",
+    "arabicHeadline": "أكثر من 150 إصابة إسهال وتقيؤ في كركوك.. والسبب بانتظار المختبر",
+    "englishSubhead": "KIRKUK | 150+ CASES | 2 DAYS | LAB PENDING",
+    "heroMedia": "images/news/2026-10-03-e-kirkuk-water-150-cases/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإصابات",
+      "arabicHeading": "أكثر من 150 حالة خلال يومين",
+      "arabicBody": "ارتفعت أعداد المراجعين في مركز صحي الرياض. جاسم ياسين حسين من صحة كركوك لشفق نيوز: الناحية سجلت أكثر من 150 حالة إسهال وتقيؤ يومي الثلاثاء والأربعاء.",
+      "bigStat": {
+        "value": "150",
+        "label": "Diarrhoea and vomiting cases in al-Riyadh, Kirkuk, over two days (Kirkuk Health via Shafaq News)",
+        "arabicLabel": "+ حالة خلال يومين"
+      },
+      "supportingStats": [
+        {
+          "label": "أول يوم",
+          "value": "نحو 70"
+        },
+        {
+          "label": "الناحية",
+          "value": "الرياض"
+        },
+        {
+          "label": "القضاء",
+          "value": "الحويجة"
+        }
+      ],
+      "broll": "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "ناحية الرياض في قضاء الحويجة",
+        "أكثر من 150 حالة إسهال وتقيؤ",
+        "خلال يومي الثلاثاء والأربعاء"
+      ]
+    },
+    {
+      "label": "الفحص",
+      "arabicHeading": "عينات للمختبر.. والسبب لم يُحدَّد بعد",
+      "arabicBody": "فرق الأمراض الانتقالية زارت مشروع ماء الرياض، أخذت نماذج للفحص المختبري، ووزعت حبوب الكلور. حسين: النتائج ستحدد أسباب الإصابات رسمياً.",
+      "bigStat": {
+        "value": "70",
+        "label": "Cases received by the health centre on the first day (Kirkuk Health via Shafaq News)",
+        "arabicLabel": "حالة بأول يوم"
+      },
+      "supportingStats": [
+        {
+          "label": "العينات",
+          "value": "للمختبر"
+        },
+        {
+          "label": "حبوب الكلور",
+          "value": "توزيع"
+        },
+        {
+          "label": "السبب",
+          "value": "بانتظار النتائج"
+        }
+      ],
+      "broll": "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "زيارة ميدانية لمشروع ماء الرياض",
+        "نماذج للفحص وتوزيع حبوب كلور",
+        "والسبب الرسمي بانتظار نتائج المختبر"
+      ]
+    },
+    {
+      "label": "التعقيم",
+      "arabicHeading": "المسؤول الصحي: أغلب مشاريع الماء بلا شروط تعقيم",
+      "arabicBody": "قال حسين إن أغلب مشاريع دائرة ماء كركوك لا تتوفر فيها شروط التعقيم الصحية، مؤكداً أن ذلك يتطلب تعزيز التعقيم والرقابة على مصادر مياه الشرب.",
+      "bigStat": {
+        "value": "2",
+        "label": "Days over which the 150+ cases were recorded — Tuesday and Wednesday (Kirkuk Health via Shafaq News)",
+        "arabicLabel": "يومان من الإصابات"
+      },
+      "supportingStats": [
+        {
+          "label": "المشاريع",
+          "value": "أغلبها بلا تعقيم"
+        },
+        {
+          "label": "المطلوب",
+          "value": "تعزيز الرقابة"
+        },
+        {
+          "label": "المصدر",
+          "value": "صحة كركوك"
+        }
+      ],
+      "broll": "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-03-e-kirkuk-water-150-cases/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — كركوك",
+      "subtitlePhrases": [
+        "أغلب مشاريع ماء كركوك بلا شروط تعقيم",
+        "والمطلوب تعزيز التعقيم والرقابة",
+        "وأسباب الإصابات بانتظار المختبر"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "أكثر من 150 إصابة إسهال وتقيؤ في كركوك.. والسبب بانتظار المختبر",
+    "المركز الصحي في ناحية الرياض استقبل نحو 70 حالة في أول يوم",
+    "فرق الأمراض الانتقالية أخذت نماذج من مشروع ماء الرياض ووزعت حبوب الكلور",
+    "صحة كركوك: نتائج الفحوصات المخبرية هي التي ستحدد أسباب الإصابات رسمياً",
+    "المسؤول الصحي: أغلب مشاريع دائرة ماء كركوك لا تتوفر فيها شروط التعقيم",
+    "تتأكد من صلاحية مي الشرب قبل تشربه؟"
+  ],
+  "endQuestion": "تتأكد من صلاحية مي الشرب قبل تشربه؟",
+  "sources": [
+    {
+      "name": "دائرة صحة كركوك",
+      "domain": "moh.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

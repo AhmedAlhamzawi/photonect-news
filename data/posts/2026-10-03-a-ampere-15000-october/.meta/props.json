@@ -1,0 +1,153 @@
+{
+  "dateLabel": "OCT 03 • 2026",
+  "arabicDateLabel": "3 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الكهرباء",
+    "arabicHeadline": "أمبير المولدة بتشرين: 15 ألف للذهبي.. و10 لليلي",
+    "englishSubhead": "BAGHDAD | OCT 2026 | 15,000 GOLDEN | 10,000 NIGHT",
+    "heroMedia": "images/news/2026-10-03-a-ampere-15000-october/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التسعيرة",
+      "arabicHeading": "15 ألف للأمبير الذهبي",
+      "arabicBody": "بحسب وثيقة نشرتها «بغداد اليوم»، حدّد مجلس محافظة بغداد الأمبير الذهبي لتشرين بـ15 ألف دينار بالتناوب مع الوطنية، والليلي بـ10 آلاف، ومنع استيفاء مبالغ إضافية.",
+      "bigStat": {
+        "value": "15,000",
+        "label": "IQD per amp, 24h 'golden' line, October 2026 (Baghdad council document via Baghdad Today)",
+        "arabicLabel": "دينار للذهبي"
+      },
+      "supportingStats": [
+        {
+          "label": "الليلي",
+          "value": "10,000 دينار"
+        },
+        {
+          "label": "يبدأ الليلي",
+          "value": "12 ظهراً"
+        },
+        {
+          "label": "الذهبي",
+          "value": "24 ساعة بالتناوب"
+        }
+      ],
+      "broll": "images/news/2026-10-03-a-ampere-15000-october/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-03-a-ampere-15000-october/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "تسعيرة تشرين",
+        "15 ألف للذهبي",
+        "10 آلاف لليلي"
+      ]
+    },
+    {
+      "label": "مقارنة بأيلول",
+      "arabicHeading": "الليلي زاد ألف دينار عن أيلول",
+      "arabicBody": "في أيلول، حدّدت محافظة بغداد الذهبي بـ15 ألف دينار والليلي بـ9 آلاف (قناة الفلوجة، الرشيد). الذهبي بقي كما هو، والليلي زاد ألف دينار (محتسب).",
+      "bigStat": {
+        "value": "1,000",
+        "label": "IQD rise in the night-line amp price vs September (computed from Al-Fallujah TV / Al-Rasheed)",
+        "arabicLabel": "زيادة الليلي (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "ليلي أيلول",
+          "value": "9,000"
+        },
+        {
+          "label": "ليلي تشرين",
+          "value": "10,000"
+        },
+        {
+          "label": "الذهبي",
+          "value": "ثابت 15,000"
+        }
+      ],
+      "broll": "images/news/2026-10-03-a-ampere-15000-october/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-03-a-ampere-15000-october/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "أيلول 9 آلاف",
+        "تشرين 10 آلاف",
+        "الذهبي ثابت"
+      ]
+    },
+    {
+      "label": "قبل سنة",
+      "arabicHeading": "تشرين الماضي: الذهبي 9 آلاف",
+      "arabicBody": "في تشرين الأول 2025 حدّد مجلس بغداد الأمبير الذهبي للمولدات الأهلية بـ9 آلاف والليلي بـ7 آلاف (وكالة نينا). الذهبي في تشرين 2026 أعلى بـ6 آلاف (محتسب).",
+      "bigStat": {
+        "value": "6,000",
+        "label": "IQD more per golden amp than October 2025 (computed: 15,000 vs 9,000 per NINA)",
+        "arabicLabel": "زيادة عن 2025 (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "ذهبي 2025",
+          "value": "9,000"
+        },
+        {
+          "label": "ليلي 2025",
+          "value": "7,000"
+        },
+        {
+          "label": "ذهبي 2026",
+          "value": "15,000"
+        }
+      ],
+      "broll": "images/news/2026-10-03-a-ampere-15000-october/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-03-a-ampere-15000-october/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "تشرين الماضي",
+        "9 آلاف للذهبي",
+        "تشرين 2026: 15 ألف"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مجلس محافظة بغداد: تسعيرة تشرين الأول 15 ألف دينار للأمبير الذهبي و10 آلاف لليلي (وثيقة عبر بغداد اليوم)",
+    "التشغيل الليلي من الساعة 12 ظهراً حتى 6 صباحاً، والذهبي 24 ساعة بالتناوب مع الكهرباء الوطنية",
+    "المجلس وضع ضوابط لمتابعة الالتزام بالتسعيرة ومنع استيفاء مبالغ إضافية من المواطنين (بغداد اليوم)",
+    "تسعيرة أيلول: 15 ألفاً للذهبي و9 آلاف لليلي (قناة الفلوجة، الرشيد)",
+    "الذهبي بقي ثابتاً عن أيلول، والليلي زاد ألف دينار (محتسب)",
+    "تشرين الأول 2025: 9 آلاف للذهبي و7 آلاف لليلي للمولدات الأهلية (وكالة نينا)",
+    "شكد تدفع للمولدة هالشهر؟"
+  ],
+  "endQuestion": "شكد تدفع للمولدة هالشهر؟",
+  "sources": [
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "قناة الرشيد",
+      "domain": "alrasheedmedia.com"
+    },
+    {
+      "name": "قناة الفلوجة",
+      "domain": "alfallujah.tv"
+    },
+    {
+      "name": "وكالة نينا",
+      "domain": "ninanews.com"
+    }
+  ]
+}

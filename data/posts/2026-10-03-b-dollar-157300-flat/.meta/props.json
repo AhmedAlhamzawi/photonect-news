@@ -1,0 +1,141 @@
+{
+  "dateLabel": "OCT 03 • 2026",
+  "arabicDateLabel": "3 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سعر الدولار",
+    "arabicHeadline": "الدولار يغلق السبت على 157,300.. نفس إغلاق الخميس",
+    "englishSubhead": "157,300 IQD | FLAT VS THU CLOSE | ERBIL SHOP 157,550 | 265,050 TOMAN",
+    "heroMedia": "images/news/2026-10-03-b-dollar-157300-flat/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "إغلاق السبت",
+      "arabicHeading": "157,300.. نفس إغلاق الخميس",
+      "arabicBody": "بحسب شفق نيوز، افتتحت بورصتا الكفاح والحارثية الأسبوع على 157,250 وأغلقتا السبت على 157,300 لكل 100 دولار، وهو سعر إغلاق الخميس نفسه.",
+      "bigStat": {
+        "value": "157,300",
+        "label": "IQD per $100, Kifah & Harithiya, Saturday close — unchanged from Thursday close (Shafaq News)",
+        "arabicLabel": "دينار لكل 100 دولار"
+      },
+      "supportingStats": [
+        {
+          "label": "افتتاح السبت",
+          "value": "157,250"
+        },
+        {
+          "label": "إغلاق الخميس",
+          "value": "157,300"
+        },
+        {
+          "label": "التغيّر",
+          "value": "صفر (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-03-b-dollar-157300-flat/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-03-b-dollar-157300-flat/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الكفاح تفتح السبت على 157,250",
+        "وتغلق على 157,300 لكل 100 دولار",
+        "نفس إغلاق الخميس — لا تغيّر (محتسب)"
+      ]
+    },
+    {
+      "label": "محال الصيرفة",
+      "arabicHeading": "البيع بمحال أربيل أقل بـ200 دينار (محتسب)",
+      "arabicBody": "عند إغلاق السبت، بحسب شفق نيوز: محال صيرفة بغداد تبيع بـ157,750 وتشتري بـ156,750، ومحال أربيل تبيع بـ157,550 وتشتري بـ157,500.",
+      "bigStat": {
+        "value": "157,550",
+        "label": "IQD per $100, Erbil exchange-shop selling price at Saturday close (Shafaq News)",
+        "arabicLabel": "بيع محال أربيل"
+      },
+      "supportingStats": [
+        {
+          "label": "بيع بغداد",
+          "value": "157,750"
+        },
+        {
+          "label": "بيع أربيل",
+          "value": "157,550"
+        },
+        {
+          "label": "الفرق",
+          "value": "200 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-03-b-dollar-157300-flat/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-03-b-dollar-157300-flat/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محال بغداد تبيع الـ100 دولار بـ157,750",
+        "ومحال أربيل تبيعها بـ157,550",
+        "فرق البيع 200 دينار (محتسب)"
+      ]
+    },
+    {
+      "label": "الجارة إيران",
+      "arabicHeading": "التومان: نحو 265 ألفاً للدولار",
+      "arabicBody": "في إيران، بلغ سعر بيع الدولار نحو 265,050 توماناً، بارتفاع 1,150 توماناً (0.44%) عن اليوم السابق، وفق بيانات السوق الإيرانية عبر شفق نيوز.",
+      "bigStat": {
+        "value": "265,050",
+        "label": "Toman per US dollar, Iranian free-market selling price (Iranian market data via Shafaq News)",
+        "arabicLabel": "تومان للدولار"
+      },
+      "supportingStats": [
+        {
+          "label": "أمس",
+          "value": "263,900"
+        },
+        {
+          "label": "الزيادة",
+          "value": "1,150 تومان"
+        },
+        {
+          "label": "النسبة",
+          "value": "0.44%"
+        }
+      ],
+      "broll": "images/news/2026-10-03-b-dollar-157300-flat/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-03-b-dollar-157300-flat/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية — الريال الإيراني",
+      "subtitlePhrases": [
+        "الدولار في إيران بنحو 265,050 توماناً",
+        "أعلى بـ1,150 توماناً من اليوم السابق",
+        "مستوى جديد في السوق الحرة بحسب شفق نيوز"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الدولار يغلق السبت على 157,300.. نفس إغلاق الخميس",
+    "شفق نيوز: الكفاح والحارثية افتتحتا السبت على 157,250 ثم أغلقتا على 157,300 لكل 100 دولار",
+    "إغلاق الخميس كان 157,300 أيضاً (شفق نيوز، 1 تشرين الأول) — لا تغيّر (محتسب)",
+    "محال صيرفة بغداد عند الإغلاق: البيع 157,750 والشراء 156,750",
+    "محال أربيل عند الإغلاق: البيع 157,550 والشراء 157,500 — أقل بـ200 دينار بيعاً (محتسب)",
+    "إيران: الدولار بنحو 265,050 توماناً، بارتفاع 0.44% عن اليوم السابق",
+    "بيش صرفت الدولار آخر مرة؟"
+  ],
+  "endQuestion": "بيش صرفت الدولار آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

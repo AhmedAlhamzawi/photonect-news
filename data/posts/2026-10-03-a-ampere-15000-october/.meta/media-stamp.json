@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-03-a-ampere-15000-october",
+  "date": "2026-10-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 917119,
+      "sha256": "d1855b1a64f4e120"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 960309,
+      "sha256": "814365ce6acf4a2f"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 2378022,
+      "sha256": "5d34afb926a95a60"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1535590,
+      "sha256": "d58cba54894e6ad5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-03-c-ceyhan-basra-pipeline",
+  "date": "2026-10-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1263539,
+      "sha256": "2f3a9c457b6b817b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 692977,
+      "sha256": "51a7d14ed2d58a96"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 749233,
+      "sha256": "a44806419345cf92"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 918306,
+      "sha256": "88216e6da5280148"
+    }
+  ]
+}

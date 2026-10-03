@@ -1,0 +1,153 @@
+{
+  "dateLabel": "OCT 03 • 2026",
+  "arabicDateLabel": "3 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط العراق",
+    "arabicHeadline": "تركيا تطرح مدّ خط كركوك–جيهان إلى البصرة بديلاً عن هرمز",
+    "englishSubhead": "ANKARA TALKS | CEYHAN→BASRA? | 970 KM | 750K BPD",
+    "heroMedia": "images/news/2026-10-03-c-ceyhan-basra-pipeline/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المقترح",
+      "arabicHeading": "بيرقدار يطرح مدّ الخط إلى البصرة",
+      "arabicBody": "قال وزير الطاقة التركي ألب أرسلان بيرقدار إن تمديد خط كركوك–جيهان إلى البصرة وزيادة طاقته «بديل قوي» للخليج وهرمز. بيان وزارة النفط العراقية لم يذكر البصرة.",
+      "bigStat": {
+        "value": "970",
+        "label": "Km Kirkuk–Ceyhan pipeline length",
+        "arabicLabel": "كم طول الخط"
+      },
+      "supportingStats": [
+        {
+          "label": "البداية",
+          "value": "كركوك"
+        },
+        {
+          "label": "النهاية",
+          "value": "ميناء جيهان"
+        },
+        {
+          "label": "المقترح التركي",
+          "value": "حتى البصرة"
+        }
+      ],
+      "broll": "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بيرقدار: مدّ خط كركوك–جيهان إلى البصرة",
+        "«بديل قوي» للخليج ومضيق هرمز",
+        "وبيان وزارة النفط العراقية لم يذكر البصرة"
+      ]
+    },
+    {
+      "label": "المفاوضات",
+      "arabicHeading": "بغداد وأنقرة تفتحان مفاوضات الاتفاقية الإطارية",
+      "arabicBody": "قالت وزارة النفط إن الوزير باسم محمد خضير العبادي ترأس وفد العراق في أنقرة الجمعة، والهدف: «وضع أسس للتعاون المشترك» في النفط والغاز والطاقة.",
+      "bigStat": {
+        "value": "2",
+        "label": "October — Ankara talks opened",
+        "arabicLabel": "تشرين الأول"
+      },
+      "supportingStats": [
+        {
+          "label": "الوفد العراقي",
+          "value": "باسم العبادي"
+        },
+        {
+          "label": "الجانب التركي",
+          "value": "بيرقدار"
+        },
+        {
+          "label": "الملفات",
+          "value": "نفط وغاز وطاقة"
+        }
+      ],
+      "broll": "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "العبادي يقود وفد العراق في أنقرة",
+        "مفاوضات اتفاقية إطارية للنفط والغاز",
+        "الوزارة: «وضع أسس للتعاون المشترك»"
+      ]
+    },
+    {
+      "label": "الأرقام",
+      "arabicHeading": "750 ألف برميل.. والهدف مليون",
+      "arabicBody": "اتفاق آب لعام واحد: نقل 750 ألف برميل يومياً (الترا عراق). وبيرقدار ذكر هدف توريد مليون برميل أشار إليه رئيس الوزراء علي الزيدي.",
+      "bigStat": {
+        "value": "750,000",
+        "label": "Barrels per day, August deal",
+        "arabicLabel": "برميل يومياً"
+      },
+      "supportingStats": [
+        {
+          "label": "مدة اتفاق آب",
+          "value": "سنة"
+        },
+        {
+          "label": "الهدف",
+          "value": "مليون برميل"
+        },
+        {
+          "label": "الجديد",
+          "value": "اتفاقية أشمل"
+        }
+      ],
+      "broll": "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-03-c-ceyhan-basra-pipeline/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "اتفاق آب لعام واحد",
+        "750 ألف برميل يومياً عبر الخط",
+        "وبيرقدار يذكر هدف مليون برميل"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "تركيا تطرح مدّ خط كركوك–جيهان إلى البصرة بديلاً عن هرمز",
+    "وزارة النفط: مفاوضات الاتفاقية الإطارية مع تركيا انطلقت في أنقرة الجمعة 2 تشرين الأول",
+    "بيرقدار: مدّ الخط إلى البصرة وزيادة طاقته بديل قوي للخليج ومضيق هرمز",
+    "بيان وزارة النفط العراقية تحدث عن أسس للتعاون المشترك ولم يذكر البصرة",
+    "الترا عراق: طول خط كركوك–جيهان نحو 970 كم وصولاً إلى ميناء جيهان",
+    "اتفاق آب لعام واحد: 750 ألف برميل يومياً، وبيرقدار يذكر هدف مليون برميل",
+    "سمعت بخط كركوك جيهان قبل؟"
+  ],
+  "endQuestion": "سمعت بخط كركوك جيهان قبل؟",
+  "sources": [
+    {
+      "name": "وزارة النفط",
+      "domain": "oil.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "الترا عراق",
+      "domain": "ultrairaq.ultrasawt.com"
+    },
+    {
+      "name": "قناة الرشيد",
+      "domain": "alrasheedmedia.com"
+    }
+  ]
+}

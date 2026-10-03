@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-03-d-moi-september-308",
+  "date": "2026-10-03",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 537217,
+      "sha256": "9bc5cf5ad3fb5966"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1548239,
+      "sha256": "9d80f020222fe077"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1047759,
+      "sha256": "0c53806a9c716a8e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 770276,
+      "sha256": "f86c89fe0a18a2fb"
+    }
+  ]
+}

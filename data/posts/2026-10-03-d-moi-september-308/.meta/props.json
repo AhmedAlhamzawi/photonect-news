@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 03 • 2026",
+  "arabicDateLabel": "3 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "حصيلة أيلول",
+    "arabicHeadline": "الداخلية: فرقة الرد السريع قبضت على 308 متهمين وصادرت مليون دولار خلال أيلول",
+    "englishSubhead": "BAGHDAD · OCT 3 | 308 SUSPECTS | $1,000,000 SEIZED | MOI VIA SHAFAQ",
+    "heroMedia": "images/news/2026-10-03-d-moi-september-308/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاعتقالات",
+      "arabicHeading": "فرقة الرد السريع تقبض على 308 متهمين",
+      "arabicBody": "حسب اللواء مقداد ميري، قبضت فرقة الرد السريع خلال أيلول على 308 متهمين عبر 124 واجباً، بينهم 31 بقضايا نزاهة و16 وفق المادة 4 إرهاب.",
+      "bigStat": {
+        "value": "308",
+        "label": "Suspects arrested in September",
+        "arabicLabel": "متهمين خلال أيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "نزاهة",
+          "value": "31"
+        },
+        {
+          "label": "م4 إرهاب",
+          "value": "16"
+        },
+        {
+          "label": "مذكرات قبض",
+          "value": "206"
+        }
+      ],
+      "broll": "images/news/2026-10-03-d-moi-september-308/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-03-d-moi-september-308/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "308 متهمين بحسب بيان الداخلية",
+        "31 متهماً بقضايا نزاهة",
+        "206 متهمين بمذكرات قبض"
+      ]
+    },
+    {
+      "label": "المضبوطات",
+      "arabicHeading": "مليون دولار بين المضبوطات",
+      "arabicBody": "وفق بيان الداخلية، صادرت الفرقة 1,000,000 دولار و6,047,000 دينار، إلى جانب 21 قطعة سلاح و356 قطعة عتاد و18 هاتفاً محمولاً.",
+      "bigStat": {
+        "value": "1,000,000",
+        "label": "US dollars seized",
+        "arabicLabel": "دولار مصادَر"
+      },
+      "supportingStats": [
+        {
+          "label": "بالدينار",
+          "value": "6,047,000"
+        },
+        {
+          "label": "أسلحة",
+          "value": "21 قطعة"
+        },
+        {
+          "label": "عتاد",
+          "value": "356 قطعة"
+        }
+      ],
+      "broll": "images/news/2026-10-03-d-moi-september-308/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-03-d-moi-september-308/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "1,000,000 دولار مصادرة",
+        "و6,047,000 دينار عراقي",
+        "21 قطعة سلاح و356 قطعة عتاد"
+      ]
+    },
+    {
+      "label": "المخدرات",
+      "arabicHeading": "1,425 غراماً من الكريستال",
+      "arabicBody": "وبحسب البيان، ضبطت قطعات الفرقة 1,425 غراماً من الكريستال و305 غرامات من الحشيشة و92 حبة مخدرة وأدوات تعاطٍ، فيما بلغ عدد المتهمين بقضايا المخدرات 55.",
+      "bigStat": {
+        "value": "1,425",
+        "label": "Grams of crystal meth seized",
+        "arabicLabel": "غراماً كريستال"
+      },
+      "supportingStats": [
+        {
+          "label": "حشيشة",
+          "value": "305 غرامات"
+        },
+        {
+          "label": "حبوب مخدرة",
+          "value": "92"
+        },
+        {
+          "label": "متهمو مخدرات",
+          "value": "55"
+        }
+      ],
+      "broll": "images/news/2026-10-03-d-moi-september-308/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-03-d-moi-september-308/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "1,425 غراماً من الكريستال",
+        "305 غرامات من الحشيشة",
+        "92 حبة مخدرة وأدوات تعاطٍ"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الداخلية: فرقة الرد السريع قبضت على 308 متهمين وصادرت مليون دولار خلال أيلول",
+    "بينهم 31 بقضايا نزاهة و55 بقضايا مخدرات و16 وفق المادة 4 إرهاب و206 بمذكرات قبض",
+    "المضبوطات بحسب البيان: 1,000,000 دولار و6,047,000 دينار و21 قطعة سلاح و356 قطعة عتاد",
+    "وضبطت الفرقة 1,425 غراماً من الكريستال و305 غرامات من الحشيشة و92 حبة مخدرة",
+    "سمعت بفرقة الرد السريع قبل؟"
+  ],
+  "endQuestion": "سمعت بفرقة الرد السريع قبل؟",
+  "sources": [
+    {
+      "name": "وزارة الداخلية",
+      "domain": "moi.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}
