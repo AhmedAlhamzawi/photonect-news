@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 04 • 2026",
+  "arabicDateLabel": "4 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_accountability",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "النزاهة تضبط معاون مدير مجمع حبوب الإسحاقي بتهمة مساومة الفلاحين",
+    "englishSubhead": "ISHAQI GRAIN | ART. 307 | ACCUSED | NOT CONVICTED",
+    "heroMedia": "images/news/2026-10-04-d-ishaqi-wheat-bribe/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "ضبط معاون مدير مجمع حبوب الإسحاقي",
+      "arabicBody": "هيئة النزاهة الاتحادية أعلنت الأحد ضبط معاون مدير مجمع حبوب الإسحاقي في صلاح الدين بتهمة طلب منفعة لقاء الإخلال بواجبات وظيفته.",
+      "bigStat": {
+        "value": "1",
+        "label": "Accused official detained (Federal Integrity Commission statement via Shafaq / Kitabat)",
+        "arabicLabel": "متهم موقوف"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظة",
+          "value": "صلاح الدين"
+        },
+        {
+          "label": "المعلومة من",
+          "value": "مخابرات المحافظة"
+        },
+        {
+          "label": "المنفّذ",
+          "value": "مكتب تحقيق النزاهة"
+        }
+      ],
+      "broll": "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "هيئة النزاهة تضبط",
+        "معاون مدير مجمع الإسحاقي",
+        "بعد معلومات من المخابرات"
+      ]
+    },
+    {
+      "label": "التهمة",
+      "arabicHeading": "الهيئة: مبالغ من الفلاحين وحنطة رديئة",
+      "arabicBody": "بحسب بيان الهيئة، المتهم ساوم الفلاحين وتقاضى منهم مبالغ مقابل تسويق الحنطة واستلامها، وقبل حنطة رديئة وغيّر أصنافها، واعترف بتسلّم المبالغ.",
+      "bigStat": {
+        "value": "307",
+        "label": "Article of Iraqi Penal Code (bribery by a public employee) under which the judge ordered detention",
+        "arabicLabel": "مادة التوقيف بقانون العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "المحصول",
+          "value": "الحنطة"
+        },
+        {
+          "label": "التهمة",
+          "value": "مساومة الفلاحين"
+        },
+        {
+          "label": "بحسب الهيئة",
+          "value": "اعترف بالمبالغ"
+        }
+      ],
+      "broll": "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مبالغ مقابل استلام الحنطة",
+        "حنطة رديئة بشوائب",
+        "والهيئة: اعترف"
+      ]
+    },
+    {
+      "label": "القضاء",
+      "arabicHeading": "توقيف وفق المادة 307.. ولا إدانة بعد",
+      "arabicBody": "قاضي تحقيق النزاهة في صلاح الدين قرر توقيفه وفق المادة 307 من قانون العقوبات، وحدّها الأعلى السجن 10 سنوات. ولم تصدر إدانة بعد.",
+      "bigStat": {
+        "value": "10",
+        "label": "Years — maximum prison term under Art. 307(1), Penal Code No. 111 of 1969",
+        "arabicLabel": "سنوات حدّها الأعلى"
+      },
+      "supportingStats": [
+        {
+          "label": "القانون",
+          "value": "111 لسنة 1969"
+        },
+        {
+          "label": "الإجراء",
+          "value": "توقيف للتحقيق"
+        },
+        {
+          "label": "الحكم",
+          "value": "لم يصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-04-d-ishaqi-wheat-bribe/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "توقيف وفق المادة 307",
+        "عقوبتها تصل 10 سنوات",
+        "ولا إدانة بعد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة الاتحادية تضبط معاون مدير مجمع حبوب الإسحاقي في صلاح الدين بتهمة مساومة الفلاحين",
+    "الهيئة: المتهم ساوم الفلاحين وتقاضى مبالغ مقابل تسويق واستلام الحنطة",
+    "الهيئة: قبول حنطة رديئة تحتوي شوائب وتغيير أصنافها، والمتهم اعترف بتسلّم المبالغ",
+    "قاضي التحقيق قرر توقيفه وفق المادة 307 من قانون العقوبات — ولم تصدر إدانة",
+    "سوّقت حنطة هالموسم؟"
+  ],
+  "endQuestion": "سوّقت حنطة هالموسم؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "كتابات",
+      "domain": "kitabat.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

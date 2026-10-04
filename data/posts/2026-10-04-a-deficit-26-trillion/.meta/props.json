@@ -1,0 +1,145 @@
+{
+  "dateLabel": "OCT 04 • 2026",
+  "arabicDateLabel": "4 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عجز الموازنة",
+    "arabicHeadline": "بسبعة أشهر.. الرواتب والرعاية تفوق كل إيرادات العراق، بحسب بيانات المالية",
+    "englishSubhead": "IRAQ BUDGET JAN-JUL 2026 | REVENUE 39.096T IQD | DEFICIT 26.329T | MOF VIA SHAFAQ",
+    "heroMedia": "images/news/2026-10-04-a-deficit-26-trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإيرادات",
+      "arabicHeading": "الإيرادات 39.096 تريليون.. 78% منها نفط",
+      "arabicBody": "بحسب بيانات وزارة المالية لتنفيذ الموازنة حتى نهاية تموز، عبر شفق نيوز: دخل الخزينة 39.096 تريليون دينار، منها 30.356 تريليون من النفط وحده.",
+      "bigStat": {
+        "value": "39.096",
+        "label": "Trillion IQD total revenue, Jan-Jul 2026 (Ministry of Finance data via Shafaq News)",
+        "arabicLabel": "تريليون إيرادات"
+      },
+      "supportingStats": [
+        {
+          "label": "النفطية",
+          "value": "30.356 تريليون"
+        },
+        {
+          "label": "غير النفطية",
+          "value": "8.740 تريليون"
+        },
+        {
+          "label": "حصة النفط",
+          "value": "78%"
+        }
+      ],
+      "broll": "images/news/2026-10-04-a-deficit-26-trillion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-04-a-deficit-26-trillion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "دخل سبعة أشهر: 39.096 تريليون دينار",
+        "30.356 تريليون منها من النفط",
+        "و8.740 فقط من خارج النفط"
+      ]
+    },
+    {
+      "label": "الإنفاق",
+      "arabicHeading": "الإنفاق 65.424 تريليون.. والعجز 26.329",
+      "arabicBody": "المصروفات بلغت 65.424 تريليون دينار، بعجز 26.329 تريليون وفق البيانات نفسها. تصدّرتها الرواتب بـ35.875 تريليون، ثم الرعاية الاجتماعية بـ15.989 تريليون.",
+      "bigStat": {
+        "value": "26.329",
+        "label": "Trillion IQD gap between spending (65.424T) and revenue (39.096T), Jan-Jul 2026 (MoF data via Shafaq)",
+        "arabicLabel": "تريليون عجز"
+      },
+      "supportingStats": [
+        {
+          "label": "الرواتب",
+          "value": "35.875 تريليون"
+        },
+        {
+          "label": "الرعاية",
+          "value": "15.989 تريليون"
+        },
+        {
+          "label": "خدمة الدين",
+          "value": "6.239 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-10-04-a-deficit-26-trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-04-a-deficit-26-trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المصروفات 65.424 تريليون دينار",
+        "العجز 26.329 تريليون بسبعة أشهر",
+        "والرواتب وحدها 35.875 تريليون"
+      ]
+    },
+    {
+      "label": "قراءة خبير",
+      "arabicHeading": "المرسومي: الإيرادات غطّت 76% فقط من الرواتب والرعاية",
+      "arabicBody": "الخبير الاقتصادي نبيل المرسومي قال، في تغريدة على إكس، إن الرواتب والرعاية الاجتماعية بلغت 51 تريليون دينار بسبعة أشهر، وإن الإيرادات لم تغطِّ سوى 76% منها.",
+      "bigStat": {
+        "value": "76%",
+        "label": "Share of salaries + social care covered by total revenue, Jan-Jul 2026 (economist Nabil al-Marsoumi via Shafaq / 964)",
+        "arabicLabel": "تغطية الرواتب والرعاية"
+      },
+      "supportingStats": [
+        {
+          "label": "رواتب ورعاية",
+          "value": "51 تريليون"
+        },
+        {
+          "label": "الإيرادات",
+          "value": "39 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-10-04-a-deficit-26-trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-04-a-deficit-26-trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المرسومي: رواتب ورعاية بـ51 تريليون",
+        "مقابل إيرادات بـ39 تريليون",
+        "تغطية 76% فقط بحسب قراءته"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بسبعة أشهر.. الرواتب والرعاية تفوق كل إيرادات العراق، بحسب بيانات المالية",
+    "وزارة المالية عبر شفق نيوز: الإيرادات حتى نهاية تموز 2026 بلغت 39.096 تريليون دينار",
+    "الإيرادات النفطية 30.356 تريليون (78%) مقابل 8.740 تريليون غير نفطية (22%)",
+    "المصروفات 65.424 تريليون دينار، بعجز 26.329 تريليون خلال الأشهر السبعة الأولى",
+    "الرواتب 35.875 تريليون، الرعاية الاجتماعية 15.989 تريليون، خدمة الدين 6.239 تريليون",
+    "المرسومي: الإيرادات لم تغطِّ سوى 76% من الرواتب والرعاية الاجتماعية (شفق نيوز، شبكة 964)",
+    "تستلم راتباً أو إعانة من الدولة؟"
+  ],
+  "endQuestion": "تستلم راتباً أو إعانة من الدولة؟",
+  "sources": [
+    {
+      "name": "وزارة المالية",
+      "domain": "mof.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

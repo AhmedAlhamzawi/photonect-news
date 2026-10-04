@@ -1,0 +1,149 @@
+{
+  "dateLabel": "OCT 04 • 2026",
+  "arabicDateLabel": "4 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_culture",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الحج",
+    "arabicHeadline": "1,443,000 متقدم لقرعة الحج.. والفائزون نحو 5.5% فقط بحسب الهيئة",
+    "englishSubhead": "HAJJ LOTTERY | 1,443,000 APPLIED | ~5.5% WON | QUOTA 39,690",
+    "heroMedia": "images/news/2026-10-04-e-hajj-lottery-5-5-percent/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المتقدمون",
+      "arabicHeading": "1,443,000 متقدم.. والفائزون نحو 5.5%",
+      "arabicBody": "بحسب بيان الهيئة العليا للحج والعمرة يوم السبت، شملت القرعة الإلكترونية لمواسم 2027 التكميلي حتى 2030 1,443,000 مواطن، فاز منهم نحو 5.5% فقط.",
+      "bigStat": {
+        "value": "1,443,000",
+        "label": "Citizens registered for the Hajj e-lottery, seasons 2027 (supplementary) to 2030 (Hajj Authority via Shafaq / Al-Sumaria)",
+        "arabicLabel": "متقدم للقرعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائزون",
+          "value": "نحو 5.5%"
+        },
+        {
+          "label": "المواسم",
+          "value": "2027-2030"
+        },
+        {
+          "label": "العمر",
+          "value": "45 فما فوق"
+        }
+      ],
+      "broll": "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مليون و443 ألف متقدم للقرعة",
+        "الفائزون نحو 5.5% فقط",
+        "لمواسم 2027 التكميلي حتى 2030"
+      ]
+    },
+    {
+      "label": "الحصة",
+      "arabicHeading": "حصة العراق من السعودية: 39,690 حاجاً سنوياً",
+      "arabicBody": "تقول الهيئة إن الحصة السنوية التي تمنحها السعودية تُقسَّم وفق القوانين النافذة: 5,465 للإقليم، و4,737 لمؤسسة الشهداء، و350 للسجناء، و2,645 لقطاع الخدمات.",
+      "bigStat": {
+        "value": "39,690",
+        "label": "Iraq's annual Hajj quota granted by Saudi Arabia (Hajj Authority via Shafaq / Al-Sumaria)",
+        "arabicLabel": "حصة العراق السنوية"
+      },
+      "supportingStats": [
+        {
+          "label": "الإقليم",
+          "value": "5,465"
+        },
+        {
+          "label": "الشهداء",
+          "value": "4,737"
+        },
+        {
+          "label": "الخدمات",
+          "value": "2,645"
+        }
+      ],
+      "broll": "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الحصة السنوية 39,690 حاجاً",
+        "5,465 لإقليم كردستان",
+        "4,737 لمؤسسة الشهداء"
+      ]
+    },
+    {
+      "label": "المحافظات",
+      "arabicHeading": "الباقي للمحافظات: 26,493 مقعداً",
+      "arabicBody": "يتبقى 26,493 مقعداً توزَّع على المحافظات غير المنتظمة بإقليم حسب آخر تعداد سكاني. والهيئة تقول إن عدم الفوز لا يعني عدم الاستحقاق، وإنها تطالب بزيادة الحصة.",
+      "bigStat": {
+        "value": "26,493",
+        "label": "Seats left for governorates not in a region, distributed by the latest census (Hajj Authority via Shafaq / Al-Sumaria)",
+        "arabicLabel": "مقعد للمحافظات"
+      },
+      "supportingStats": [
+        {
+          "label": "السجناء",
+          "value": "350"
+        },
+        {
+          "label": "التوزيع",
+          "value": "حسب التعداد"
+        },
+        {
+          "label": "الطلب",
+          "value": "زيادة الحصة"
+        }
+      ],
+      "broll": "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-04-e-hajj-lottery-5-5-percent/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "26,493 مقعداً للمحافظات",
+        "توزَّع حسب آخر تعداد سكاني",
+        "الهيئة: عدم الفوز لا يعني عدم الاستحقاق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "1,443,000 متقدم لقرعة الحج.. والفائزون نحو 5.5% فقط بحسب الهيئة",
+    "الهيئة: السبب محدودية مقاعد العراق أمام الأعداد الكبيرة للمتقدمين",
+    "الحصة السنوية التي تمنحها السعودية للعراق 39,690 حاجاً بحسب الهيئة",
+    "حصص بحسب الهيئة: الإقليم 5,465، الشهداء 4,737، السجناء 350، الخدمات 2,645",
+    "26,493 مقعداً للمحافظات غير المنتظمة بإقليم حسب آخر تعداد سكاني",
+    "التسجيل كان مخصصاً لمن أعمارهم 45 عاماً فما فوق، والهيئة تطالب بزيادة الحصة",
+    "سجلت بقرعة الحج هالمرة؟"
+  ],
+  "endQuestion": "سجلت بقرعة الحج هالمرة؟",
+  "sources": [
+    {
+      "name": "الهيئة العليا للحج والعمرة",
+      "domain": "hajj.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "السومرية نيوز",
+      "domain": "alsumaria.tv"
+    }
+  ]
+}

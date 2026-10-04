@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-04-a-deficit-26-trillion",
+  "date": "2026-10-04",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 967923,
+      "sha256": "1017d11561b754ad"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 667128,
+      "sha256": "110a06af0fbb12e1"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 725270,
+      "sha256": "d6d277a9e0ff348c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 742006,
+      "sha256": "1cec85150e497ad7"
+    }
+  ]
+}

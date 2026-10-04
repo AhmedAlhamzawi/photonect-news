@@ -1,0 +1,145 @@
+{
+  "dateLabel": "OCT 04 • 2026",
+  "arabicDateLabel": "4 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سعر الدولار",
+    "arabicHeadline": "الدولار يفتح الأحد على 157,950.. والذهب يصعد معه",
+    "englishSubhead": "157,950 IQD/$100 SUN AM | SAT CLOSE 157,300 | BAGHDAD SHOP 158,500 | GOLD 21K 922,000",
+    "heroMedia": "images/news/2026-10-04-b-dollar-157950-gold/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "صباح الأحد",
+      "arabicHeading": "الكفاح: 157,950 صباح الأحد",
+      "arabicBody": "بحسب شفق نيوز، سجلت بورصتا الكفاح والحارثية صباح الأحد 157,950 ديناراً لكل 100 دولار، بعد إغلاق السبت على 157,300.",
+      "bigStat": {
+        "value": "157,950",
+        "label": "IQD per $100, Kifah & Harithiya, Sunday morning (Shafaq News)",
+        "arabicLabel": "لكل 100 دولار"
+      },
+      "supportingStats": [
+        {
+          "label": "إغلاق السبت",
+          "value": "157,300"
+        },
+        {
+          "label": "الفرق",
+          "value": "+650 (محتسب)"
+        },
+        {
+          "label": "الرسمي",
+          "value": "131,000"
+        }
+      ],
+      "broll": "images/news/2026-10-04-b-dollar-157950-gold/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-04-b-dollar-157950-gold/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الكفاح والحارثية 157,950",
+        "إغلاق السبت 157,300",
+        "أعلى بـ650 دينار (محتسب)"
+      ]
+    },
+    {
+      "label": "محال بغداد",
+      "arabicHeading": "محال بغداد تبيع بـ158,500",
+      "arabicBody": "بحسب شفق نيوز وشبكة 964، باعت محال الصيرفة ببغداد الـ100 دولار بـ158,500 دينار. الشراء وأربيل بحسب شفق، والرسمي 131 ألفاً بحسب 964.",
+      "bigStat": {
+        "value": "158,500",
+        "label": "IQD per $100, Baghdad exchange-shop selling price, Sunday morning (Shafaq News; 964)",
+        "arabicLabel": "بيع محال بغداد"
+      },
+      "supportingStats": [
+        {
+          "label": "شراء بغداد",
+          "value": "157,500"
+        },
+        {
+          "label": "بيع أربيل",
+          "value": "157,800"
+        },
+        {
+          "label": "فوق الرسمي",
+          "value": "27,500 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-04-b-dollar-157950-gold/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-04-b-dollar-157950-gold/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "محال بغداد تبيع بـ158,500",
+        "شفق: أربيل تبيع بـ157,800",
+        "الرسمي 131,000 بحسب 964"
+      ]
+    },
+    {
+      "label": "الذهب",
+      "arabicHeading": "مثقال الخليجي عيار 21: 922 ألفاً",
+      "arabicBody": "بشارع النهر ببغداد، سجل مثقال الذهب الخليجي عيار 21 سعر بيع 922 ألف دينار صباح الأحد، مقابل 917 ألفاً السبت، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "922,000",
+        "label": "IQD per mithqal, 21K Gulf/Turkish/European gold, wholesale sell, al-Nahr St, Sunday (Shafaq News)",
+        "arabicLabel": "مثقال خليجي 21"
+      },
+      "supportingStats": [
+        {
+          "label": "السبت",
+          "value": "917,000"
+        },
+        {
+          "label": "العراقي عيار 21",
+          "value": "892,000"
+        },
+        {
+          "label": "أربيل عيار 21",
+          "value": "935,000"
+        }
+      ],
+      "broll": "images/news/2026-10-04-b-dollar-157950-gold/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-04-b-dollar-157950-gold/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المثقال الخليجي 922 ألف",
+        "السبت كان 917 ألف",
+        "العراقي 892 ألف"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الدولار يفتح الأحد على 157,950.. والذهب يصعد معه",
+    "شفق نيوز: الكفاح والحارثية صباح الأحد 157,950 ديناراً لكل 100 دولار",
+    "إغلاق السبت 157,300 (شفق نيوز) — صباح الأحد أعلى بـ650 دينار (محتسب)",
+    "شفق نيوز: محال بغداد تبيع بـ158,500 وتشتري بـ157,500 — أربيل تبيع بـ157,800",
+    "شبكة 964: السعر الرسمي 131 ألف دينار لكل 100 دولار",
+    "شفق نيوز: الذهب الخليجي عيار 21 بشارع النهر 922 ألف دينار للمثقال، مقابل 917 ألفاً السبت",
+    "شكد اشتريت مثقال الذهب آخر مرة؟"
+  ],
+  "endQuestion": "شكد اشتريت مثقال الذهب آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

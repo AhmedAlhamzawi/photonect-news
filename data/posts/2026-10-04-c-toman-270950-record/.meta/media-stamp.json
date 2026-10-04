@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-04-c-toman-270950-record",
+  "date": "2026-10-04",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1150922,
+      "sha256": "14d37a989f89da86"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 814005,
+      "sha256": "87fd7672edad9f43"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 902721,
+      "sha256": "d5dee6ae440ad95c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 849218,
+      "sha256": "0421ea6ff4e35a61"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-04-b-dollar-157950-gold",
+  "date": "2026-10-04",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 460782,
+      "sha256": "2e1c2c6bc50d21d3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1410205,
+      "sha256": "24a07d0b424bca44"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1373581,
+      "sha256": "d1eeb76e7ed81888"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1693918,
+      "sha256": "9f24fc25461882c6"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 04 • 2026",
+  "arabicDateLabel": "4 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "إيران",
+    "arabicHeadline": "الدولار في السوق الإيرانية الحرة يتجاوز 270 ألف تومان رغم خطة المركزي",
+    "englishSubhead": "TEHRAN USD 270,950 TOMAN | +74.75% IN 6 MONTHS | CBI PLAN UP TO $2B | CPI +89.8% Y/Y",
+    "heroMedia": "images/news/2026-10-04-c-toman-270950-record/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "سعر اليوم",
+      "arabicHeading": "270,950 تومان للدولار",
+      "arabicBody": "بحسب بيانات صرف اطلعت عليها شفق نيوز، بلغ سعر بيع الدولار في السوق الإيرانية الحرة 270,950 توماناً صباح الأحد، بارتفاع 0.54% عن اليوم السابق.",
+      "bigStat": {
+        "value": "270,950",
+        "label": "Toman per US dollar, Iranian free-market selling price, Sunday 11:00 Tehran (FX data via Shafaq News)",
+        "arabicLabel": "تومان للدولار"
+      },
+      "supportingStats": [
+        {
+          "label": "أمس",
+          "value": "269,500"
+        },
+        {
+          "label": "خلال أسبوع",
+          "value": "+14.79%"
+        },
+        {
+          "label": "خلال 6 أشهر",
+          "value": "+74.75%"
+        }
+      ],
+      "broll": "images/news/2026-10-04-c-toman-270950-record/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-04-c-toman-270950-record/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الدولار بـ270,950 توماناً صباح الأحد",
+        "اليوم السابق 269,500",
+        "+74.75% خلال 6 أشهر"
+      ]
+    },
+    {
+      "label": "خطة المركزي",
+      "arabicHeading": "خطة ملياري دولار.. والتومان يواصل الهبوط",
+      "arabicBody": "أعلن البنك المركزي الإيراني الأربعاء الماضي خطة لطرح ما يصل إلى ملياري دولار نقداً، ورفع سقف الشراء بالبطاقة الوطنية إلى 10 آلاف دولار، بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "10,000",
+        "label": "USD — new cap on foreign-currency purchases with the national ID card, adults 18+ (Central Bank of Iran via Shafaq News)",
+        "arabicLabel": "سقف الشراء بالبطاقة"
+      },
+      "supportingStats": [
+        {
+          "label": "خطة الطرح",
+          "value": "حتى 2 مليار $"
+        },
+        {
+          "label": "المرحلة الأولى",
+          "value": "1 مليار $"
+        },
+        {
+          "label": "الفئة",
+          "value": "فوق 18 سنة"
+        }
+      ],
+      "broll": "images/news/2026-10-04-c-toman-270950-record/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-04-c-toman-270950-record/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "خطة لطرح حتى ملياري دولار",
+        "سقف شراء 10 آلاف دولار",
+        "والتومان يواصل الهبوط"
+      ]
+    },
+    {
+      "label": "الأسعار",
+      "arabicHeading": "مركز الإحصاء: الأسعار أعلى بـ89.8% من العام الماضي",
+      "arabicBody": "مركز الإحصاء الإيراني: أسعار المستهلكين بشهر شهريور أعلى بـ89.8% منها قبل سنة، بحسب تسنيم عبر شفق نيوز. مستشار محافظ المركزي مهدي دارابي وصف الهبوط بالمؤقت.",
+      "bigStat": {
+        "value": "89.8%",
+        "label": "Year-on-year consumer price rise, Shahrivar (ended September) (Statistical Centre of Iran via Tasnim / Shafaq)",
+        "arabicLabel": "ارتفاع الأسعار سنوياً"
+      },
+      "supportingStats": [
+        {
+          "label": "متوسط التضخم",
+          "value": "73.6%"
+        },
+        {
+          "label": "التضخم الشهري",
+          "value": "4.2%"
+        },
+        {
+          "label": "لكل 100$ (محتسب)",
+          "value": "27,095,000"
+        }
+      ],
+      "broll": "images/news/2026-10-04-c-toman-270950-record/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-04-c-toman-270950-record/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مركز الإحصاء: الأسعار +89.8% بسنة",
+        "التضخم الشهري 4.2%",
+        "مستشار محافظ المركزي: هبوط مؤقت"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الدولار في السوق الإيرانية الحرة يتجاوز 270 ألف تومان رغم خطة المركزي",
+    "شفق نيوز: 270,950 توماناً بيعاً و268,250 شراءً، بارتفاع 0.54% عن اليوم السابق و74.75% خلال ستة أشهر",
+    "المركزي الإيراني: طرح حتى ملياري دولار نقداً، والمرحلة الأولى مليار دولار",
+    "مركز الإحصاء الإيراني (عبر تسنيم): أسعار المستهلكين أعلى بـ89.8% على أساس سنوي",
+    "سافرت لإيران هالسنة؟"
+  ],
+  "endQuestion": "سافرت لإيران هالسنة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "GuruFocus",
+      "domain": "gurufocus.com"
+    }
+  ]
+}
