@@ -1,0 +1,148 @@
+{
+  "dateLabel": "OCT 05 • 2026",
+  "arabicDateLabel": "5 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_accountability",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "النزاهة: 141 بطاقة ماستر كارد بحوزة موظفَين متهمَين في تربية الديوانية",
+    "englishSubhead": "DIWANIYAH | 141 CARDS | ART. 308 | NOT CONVICTED",
+    "heroMedia": "images/news/2026-10-05-d-diwaniya-141-cards/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "ملحق تعيينات التربية تحت تحقيق النزاهة",
+      "arabicBody": "تقول هيئة النزاهة الاتحادية إنها ضبطت موظفَين في مديرية تربية الديوانية، بتهمة التلاعب بأوامر ملحق التعيينات الأخير مقابل مبالغ مالية.",
+      "bigStat": {
+        "value": "2",
+        "label": "Education-directorate employees detained (Federal Integrity Commission statement via 964 / Ultra Iraq)",
+        "arabicLabel": "موظفان متهمان"
+      },
+      "supportingStats": [
+        {
+          "label": "الملف",
+          "value": "ملحق التعيينات"
+        },
+        {
+          "label": "المحافظة",
+          "value": "الديوانية"
+        },
+        {
+          "label": "المجموع",
+          "value": "3 موظفين"
+        }
+      ],
+      "broll": "images/news/2026-10-05-d-diwaniya-141-cards/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-05-d-diwaniya-141-cards/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "النزاهة تضبط موظفَين بتربية الديوانية",
+        "التهمة: التلاعب بأوامر التعيينات",
+        "مقابل مبالغ مالية، بحسب الهيئة"
+      ]
+    },
+    {
+      "label": "البطاقات",
+      "arabicHeading": "141 بطاقة ماستر كارد بحوزة الموظفَين",
+      "arabicBody": "بحسب بيان الهيئة، ضُبطت بحوزة الموظفَين 141 بطاقة ماستر كارد صدرت بالاشتراك مع بعض الموظفين. ولم يوضح البيان الغرض منها.",
+      "bigStat": {
+        "value": "141",
+        "label": "MasterCard cards found with the two accused employees (Federal Integrity Commission via 964 / Ultra Iraq)",
+        "arabicLabel": "بطاقة ماستر كارد"
+      },
+      "supportingStats": [
+        {
+          "label": "النوع",
+          "value": "ماستر كارد"
+        },
+        {
+          "label": "المصدر",
+          "value": "بيان النزاهة"
+        },
+        {
+          "label": "الإدانة",
+          "value": "لم تصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-05-d-diwaniya-141-cards/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-05-d-diwaniya-141-cards/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "141 بطاقة ماستر كارد بحوزة الموظفَين",
+        "صدرت بالاشتراك مع موظفين آخرين",
+        "والبيان لم يوضح الغرض منها"
+      ]
+    },
+    {
+      "label": "ديوان المحافظة",
+      "arabicHeading": "وموظف ثالث بديوان المحافظة بتهمة رشوة",
+      "arabicBody": "وبعملية منفصلة، تقول الهيئة إنها ضبطت موظفاً بديوان المحافظة بتهمة تسلّم رشوة لقاء التوسط بتخصيص قطعة أرض. والثلاثة موقوفون وفق المادة 308، بلا إدانة.",
+      "bigStat": {
+        "value": "308",
+        "label": "Iraqi Penal Code article (with RCC decision 160/1983) under which the investigating judge ordered detention",
+        "arabicLabel": "مادة التوقيف"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "160 لسنة 1983"
+        },
+        {
+          "label": "الإجراء",
+          "value": "توقيف للتحقيق"
+        },
+        {
+          "label": "الحكم",
+          "value": "لم يصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-05-d-diwaniya-141-cards/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-05-d-diwaniya-141-cards/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "موظف ثالث بديوان المحافظة",
+        "بتهمة رشوة لتخصيص قطعة أرض",
+        "توقيف وفق المادة 308، ولا إدانة بعد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة: 141 بطاقة ماستر كارد بحوزة موظفَين متهمَين في تربية الديوانية",
+    "الهيئة: تهمة التلاعب بالأوامر الإدارية لملحق التعيينات الأخير مقابل مبالغ مالية",
+    "الهيئة: البطاقات صدرت بالاشتراك مع بعض الموظفين، والبيان لم يوضح الغرض منها",
+    "وبعملية منفصلة: ضبط موظف في ديوان المحافظة بتهمة تسلّم رشوة لتخصيص قطعة أرض",
+    "قاضي التحقيق قرر التوقيف وفق المادة 308 — ولم تصدر إدانة",
+    "قدّمت على تعيين بالتربية؟"
+  ],
+  "endQuestion": "قدّمت على تعيين بالتربية؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "ألترا عراق",
+      "domain": "ultrairaq.ultrasawt.com"
+    }
+  ]
+}

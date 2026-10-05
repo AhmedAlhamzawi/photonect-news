@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-05-c-iraqi-line-umm-qasr",
+  "date": "2026-10-05",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 755126,
+      "sha256": "8def9d8610646ed3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 700125,
+      "sha256": "ab98ff84b2d54461"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 965342,
+      "sha256": "39ff509adcb2b0e0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 893950,
+      "sha256": "9168cb0af7aa4859"
+    }
+  ]
+}

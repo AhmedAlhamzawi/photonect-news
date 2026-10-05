@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 05 • 2026",
+  "arabicDateLabel": "5 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_culture",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "النخيل",
+    "arabicHeadline": "سوسة النخيل الحمراء بأكثر من 7 محافظات.. كيف تكشفها مبكراً؟",
+    "englishSubhead": "RED PALM WEEVIL | 7+ GOVERNORATES | NAJAF · OCT 4",
+    "heroMedia": "images/news/2026-10-05-e-palm-weevil-7-provinces/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الانتشار",
+      "arabicHeading": "بأكثر من 7 محافظات.. وبنسب متفاوتة",
+      "arabicBody": "يقول أمير صاحب الحداد، رئيس قسم الوقاية بزراعة النجف، إن الإصابة سُجلت بأكثر من 7 محافظات، خصوصاً قرب البؤر المصابة، كالمنيثر المحاذية لبابل وكربلاء والنجف.",
+      "bigStat": {
+        "value": "7",
+        "label": "Governorates and more where red palm weevil infestation has been recorded (Najaf plant-protection head via Shafaq / Video News Agency)",
+        "arabicLabel": "محافظات وأكثر"
+      },
+      "supportingStats": [
+        {
+          "label": "النجف",
+          "value": "منذ تموز 2025"
+        },
+        {
+          "label": "الأصل",
+          "value": "هندي (الحداد)"
+        },
+        {
+          "label": "نخيل النجف",
+          "value": "نحو 31 ألف دونم"
+        }
+      ],
+      "broll": "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "سوسة النخيل الحمراء بأكثر من 7 محافظات",
+        "خصوصاً قرب البؤر المصابة",
+        "والمنيثر على حدود بابل وكربلاء والنجف"
+      ]
+    },
+    {
+      "label": "بؤرة واحدة",
+      "arabicHeading": "بؤرة واحدة: 28 نخلة.. و25 عولجت",
+      "arabicBody": "بحسب الحداد، أصيبت 28 نخلة في بؤرة البو منيثم، عولجت 25 منها وأظهرت نتائج شفاء جيدة، وسقطت 3 حالات متقدمة بفعل الرياح الشديدة.",
+      "bigStat": {
+        "value": "28",
+        "label": "Palms infected in one Najaf focus (Al-Bu Munaythim): 25 treated, 3 advanced cases fell (al-Haddad via Shafaq)",
+        "arabicLabel": "نخلة ببؤرة واحدة"
+      },
+      "supportingStats": [
+        {
+          "label": "عولجت",
+          "value": "25"
+        },
+        {
+          "label": "سقطت",
+          "value": "3"
+        },
+        {
+          "label": "المعالجة بالنجف",
+          "value": "مجانية"
+        }
+      ],
+      "broll": "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "28 نخلة مصابة ببؤرة واحدة",
+        "25 عولجت بنتائج شفاء جيدة",
+        "و3 حالات متقدمة سقطت"
+      ]
+    },
+    {
+      "label": "الفسيلة",
+      "arabicHeading": "الفسيلة تنقلها.. والكشف المبكر يحدّ منها",
+      "arabicBody": "الحداد: الفسائل المصابة العامل الأساسي بالنقل، لذا تُعقَّم 3 أيام وتُمنح شهادة صحية. واليرقة دودة بيضاء برأس أسود، وكشفها المبكر ومعالجتها قد يوقفان دورتها.",
+      "bigStat": {
+        "value": "3",
+        "label": "Days of dipping or spraying an offshoot before a transfer permit is issued (al-Haddad via Shafaq)",
+        "arabicLabel": "أيام تعقيم"
+      },
+      "supportingStats": [
+        {
+          "label": "الطيران",
+          "value": "500 م - 1 كم"
+        },
+        {
+          "label": "اليرقة",
+          "value": "بيضاء برأس أسود"
+        },
+        {
+          "label": "النقل",
+          "value": "بشهادة صحية"
+        }
+      ],
+      "broll": "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-05-e-palm-weevil-7-provinces/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الفسائل المصابة الناقل الأساسي",
+        "تعقيم 3 أيام وشهادة صحية",
+        "يرقة بيضاء برأس أسود.. والكشف المبكر يحدّ منها"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "سوسة النخيل الحمراء بأكثر من 7 محافظات.. كيف تكشفها مبكراً؟",
+    "الحداد: اليرقة تتغذى داخل جذع النخلة، ومختصون: قد تبدو الشجرة سليمة في البداية",
+    "بؤرة البو منيثم بالنجف: 28 نخلة مصابة، عولجت 25 وسقطت 3",
+    "الفسائل المصابة العامل الأساسي بالنقل — تعقيم 3 أيام وشهادة صحية",
+    "عدكم نخل بالبيت؟"
+  ],
+  "endQuestion": "عدكم نخل بالبيت؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "وكالة فيديو الإخبارية",
+      "domain": "video-agencyia.iq"
+    }
+  ]
+}

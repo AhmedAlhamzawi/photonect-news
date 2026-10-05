@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 05 • 2026",
+  "arabicDateLabel": "5 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النقل البحري",
+    "arabicHeadline": "بعد أكثر من نصف قرن.. الخط البحري العراقي يستعد لعودته إلى الخليج",
+    "englishSubhead": "IRAQI LINE | FIRST VOYAGE OCT 15 | JEBEL ALI TO UMM QASR | FIRST SINCE MID-1960s",
+    "heroMedia": "images/news/2026-10-05-c-iraqi-line-umm-qasr/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الموعد",
+      "arabicHeading": "15 تشرين الأول.. أول رحلة منذ الستينيات",
+      "arabicBody": "تقول وزارة النقل إن الخط البحري العراقي (Iraqi Line) يستعد لاستئناف نشاطه التجاري في الخليج، وأولى رحلاته مقررة في 15 تشرين الأول.",
+      "bigStat": {
+        "value": "15",
+        "label": "October 2026 — first voyage of the Iraqi Line (Ministry of Transport via Shafaq News / 964)",
+        "arabicLabel": "تشرين الأول: أول رحلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الانطلاق",
+          "value": "جبل علي"
+        },
+        {
+          "label": "الوصول",
+          "value": "أم قصر"
+        },
+        {
+          "label": "النقل",
+          "value": "حاويات وبضائع"
+        }
+      ],
+      "broll": "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الخط البحري العراقي يستعد للعودة",
+        "أول رحلة مقررة في 15 تشرين الأول",
+        "من جبل علي إلى أم قصر"
+      ]
+    },
+    {
+      "label": "التوقف",
+      "arabicHeading": "آخر رحلات الشحن العراقية بالمنطقة: منتصف الستينيات",
+      "arabicBody": "بحسب الوزارة، تعود آخر رحلات سفن الشحن العراقية في المنطقة إلى منتصف ستينيات القرن الماضي، ما يعني توقفاً دام أكثر من نصف قرن.",
+      "bigStat": {
+        "value": "50",
+        "label": "Years and more since Iraqi cargo ships last sailed regional routes, mid-1960s (Ministry of Transport via Shafaq / 964)",
+        "arabicLabel": "عاماً وأكثر من التوقف"
+      },
+      "supportingStats": [
+        {
+          "label": "آخر الرحلات",
+          "value": "منتصف الستينيات"
+        },
+        {
+          "label": "الناقل",
+          "value": "Iraqi Line"
+        },
+        {
+          "label": "الوزير",
+          "value": "وهب الحسني"
+        }
+      ],
+      "broll": "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "آخر رحلة منتصف الستينيات",
+        "توقف أكثر من 50 عاماً",
+        "والعودة بتوجيه من وزير النقل"
+      ]
+    },
+    {
+      "label": "الهدف",
+      "arabicHeading": "الهدف: دعم التجارة عبر الموانئ العراقية",
+      "arabicBody": "تقول الوزارة إن الهدف تعزيز نقل البضائع عبر الموانئ العراقية، ودعم التجارة مع دول المنطقة، وزيادة حضور الناقل الوطني في الخطوط الإقليمية.",
+      "bigStat": {
+        "value": "2",
+        "label": "Ports on the first voyage: Jebel Ali (UAE) and Umm Qasr (Iraq) (Ministry of Transport via Shafaq / 964)",
+        "arabicLabel": "ميناءان في أول رحلة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإمارات",
+          "value": "جبل علي"
+        },
+        {
+          "label": "العراق",
+          "value": "أم قصر"
+        },
+        {
+          "label": "الهدف",
+          "value": "تجارة إقليمية"
+        }
+      ],
+      "broll": "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-05-c-iraqi-line-umm-qasr/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "جبل علي ← أم قصر",
+        "الهدف: دعم التجارة مع المنطقة",
+        "وخيار وطني لنقل الحاويات والبضائع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بعد أكثر من نصف قرن.. الخط البحري العراقي يستعد لعودته إلى الخليج",
+    "وزارة النقل: أولى الرحلات في 15 تشرين الأول من ميناء جبل علي الإماراتي إلى أم قصر",
+    "الوزارة: آخر رحلات سفن الشحن العراقية في المنطقة تعود إلى منتصف الستينيات",
+    "الهدف بحسب الوزارة: تعزيز نقل البضائع عبر الموانئ العراقية ودعم التجارة الإقليمية",
+    "تستورد بضاعة من الإمارات؟"
+  ],
+  "endQuestion": "تستورد بضاعة من الإمارات؟",
+  "sources": [
+    {
+      "name": "وزارة النقل",
+      "domain": "motc.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

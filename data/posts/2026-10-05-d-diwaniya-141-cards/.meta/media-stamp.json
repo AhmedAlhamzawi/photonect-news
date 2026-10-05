@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-05-d-diwaniya-141-cards",
+  "date": "2026-10-05",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 633403,
+      "sha256": "1cc7513556db85ad"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 594937,
+      "sha256": "44f094db9029243e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 881018,
+      "sha256": "8e8006f8a92aaaf6"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 542356,
+      "sha256": "6e22485c23f11de8"
+    }
+  ]
+}

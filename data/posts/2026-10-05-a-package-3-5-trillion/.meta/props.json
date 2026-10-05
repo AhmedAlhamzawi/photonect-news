@@ -1,0 +1,152 @@
+{
+  "dateLabel": "OCT 05 • 2026",
+  "arabicDateLabel": "5 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الحزمة الاقتصادية",
+    "arabicHeadline": "الزيدي يطلق حزمة بـ3.5 تريليون دينار.. لمن تذهب؟",
+    "englishSubhead": "IRAQ | 3.5T IQD | AL-ZAIDI PACKAGE | OCT 4",
+    "heroMedia": "images/news/2026-10-05-a-package-3-5-trillion/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإسكان والصناعة",
+      "arabicHeading": "تريليونان للسكن والمصانع",
+      "arabicBody": "بحسب بيان مكتب الزيدي: تريليون دينار من مبادرات البنك المركزي القائمة يوجَّه للعقار والإسكان، وتريليون إضافي على الأقل لمصرفي التجارة والصناعي.",
+      "bigStat": {
+        "value": "2",
+        "label": "Trillion IQD: 1T of CBI initiatives to housing + at least 1T extra liquidity for TBI & Industrial Bank (PM office via Shafaq / 964)",
+        "arabicLabel": "تريليون للإسكان والصناعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإسكان",
+          "value": "1 تريليون"
+        },
+        {
+          "label": "التجارة والصناعي",
+          "value": "1 تريليون على الأقل"
+        },
+        {
+          "label": "مجموع الحزمة",
+          "value": "3.5 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-10-05-a-package-3-5-trillion/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-05-a-package-3-5-trillion/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "حزمة 3.5 تريليون بحسب 964",
+        "تريليون من مبادرات قائمة للإسكان",
+        "وتريليون على الأقل للمصارف"
+      ]
+    },
+    {
+      "label": "المستحقات",
+      "arabicHeading": "500 مليار للمزارعين.. و500 للمقاولين",
+      "arabicBody": "بحسب البيان، تموّل وزارة المالية مستحقات المقاولين بـ500 مليار دينار، وتُسدَّد مستحقات المزارعين بـ500 مليار دينار أخرى.",
+      "bigStat": {
+        "value": "500",
+        "label": "Billion IQD each: contractors' dues (funded by MoF) and farmers' dues (PM office statement via Shafaq / 964 / Ultra Iraq)",
+        "arabicLabel": "مليار لكل منهما"
+      },
+      "supportingStats": [
+        {
+          "label": "المزارعون",
+          "value": "500 مليار"
+        },
+        {
+          "label": "المقاولون",
+          "value": "500 مليار"
+        },
+        {
+          "label": "المجموع",
+          "value": "1 تريليون"
+        }
+      ],
+      "broll": "images/news/2026-10-05-a-package-3-5-trillion/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-05-a-package-3-5-trillion/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مستحقات المزارعين 500 مليار",
+        "المقاولين 500 مليار",
+        "المجموع تريليون"
+      ]
+    },
+    {
+      "label": "صندوق الأجيال",
+      "arabicHeading": "صندوق الأجيال يصعد إلى 1.5 تريليون",
+      "arabicBody": "بحسب البيان، تضاف 500 مليار دينار لمبادرة صندوق الأجيال فوق رصيده البالغ تريليون دينار، ووجّه الزيدي بالإسراع في التنفيذ.",
+      "bigStat": {
+        "value": "1.5",
+        "label": "Trillion IQD Generations Fund balance after the 500B top-up (was 1T) (PM office via Shafaq / 964)",
+        "arabicLabel": "تريليون رصيد الصندوق"
+      },
+      "supportingStats": [
+        {
+          "label": "الرصيد السابق",
+          "value": "1 تريليون"
+        },
+        {
+          "label": "الإضافة",
+          "value": "500 مليار"
+        },
+        {
+          "label": "التوجيه",
+          "value": "الإسراع بالتنفيذ"
+        }
+      ],
+      "broll": "images/news/2026-10-05-a-package-3-5-trillion/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-05-a-package-3-5-trillion/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "صندوق الأجيال +500 مليار",
+        "الرصيد 1.5 تريليون",
+        "والتوجيه: تنفيذ سريع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الزيدي يطلق حزمة تمويلية بـ3.5 تريليون دينار، بحسب شبكة 964",
+    "تريليون دينار من مبادرات البنك المركزي القائمة يوجَّه للعقار والإسكان",
+    "تريليون دينار إضافي على الأقل للمصرف العراقي للتجارة والمصرف الصناعي",
+    "500 مليار لمستحقات المقاولين و500 مليار لمستحقات المزارعين",
+    "500 مليار إضافية لصندوق الأجيال ليرتفع رصيده إلى 1.5 تريليون",
+    "تنتظر مستحقات من الدولة؟"
+  ],
+  "endQuestion": "تنتظر مستحقات من الدولة؟",
+  "sources": [
+    {
+      "name": "مكتب رئيس الوزراء",
+      "domain": "pmo.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "ألترا عراق",
+      "domain": "ultrairaq.ultrasawt.com"
+    }
+  ]
+}
