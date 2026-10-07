@@ -1,0 +1,152 @@
+{
+  "dateLabel": "OCT 07 • 2026",
+  "arabicDateLabel": "7 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "سعر الصرف",
+    "arabicHeadline": "رسمياً: الـ100 دولار صارت بـ152 ألف دينار",
+    "englishSubhead": "BAGHDAD · OCT 7 | CABINET DECISION 544 (SESSION 22, OCT 6) + CBI CIRCULAR (VIA SHAFAQ NEWS, 964, RUDAW, BAGHDAD TODAY): MoF SELLS $ TO CBI AT 1,500 IQD, CBI SELLS TO BANKS AT 1,510, TO THE PUBLIC AT 1,520 (152,000 PER $100), EFFECTIVE OCT 7 | BUDGET-LAW RATE WAS 130,000 PER $100 (RUDAW) | MoF HALTS CUSTOMS PRE-PAYMENT DECISION 413",
+    "heroMedia": "images/news/2026-10-07-a-dinar-1520-official/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "1,520 ديناراً للدولار.. من اليوم",
+      "arabicBody": "قرار مجلس الوزراء 544: البنك المركزي يشتري الدولار من المالية بـ1,500 دينار، ويبيعه للمصارف بـ1,510، وللمواطنين بـ1,520، اعتباراً من الأربعاء.",
+      "bigStat": {
+        "value": "1,520",
+        "label": "IQD per dollar — new CBI cash sale price to the public from Oct 7 (Cabinet decision 544 / CBI, via Shafaq / 964 / Rudaw)",
+        "arabicLabel": "دينار للدولار"
+      },
+      "supportingStats": [
+        {
+          "label": "شراء من المالية",
+          "value": "1,500"
+        },
+        {
+          "label": "بيع للمصارف",
+          "value": "1,510"
+        },
+        {
+          "label": "لكل 100 دولار",
+          "value": "152,000"
+        }
+      ],
+      "broll": "images/news/2026-10-07-a-dinar-1520-official/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-07-a-dinar-1520-official/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الدولار الرسمي 1,520",
+        "المصارف 1,510",
+        "المالية 1,500"
+      ]
+    },
+    {
+      "label": "الفرق",
+      "arabicHeading": "سعر الموازنة كان 130 ألفاً",
+      "arabicBody": "بحسب رووداو، ثُبّت سعر 100 دولار عند 130 ألف دينار في قانون الموازنة الثلاثية. سعر وزارة المالية الجديد أعلى منه بـ200 دينار لكل دولار (محتسب).",
+      "bigStat": {
+        "value": "200",
+        "label": "IQD per dollar: MoF rate 1,500 vs budget-law 1,300 (Rudaw; computed)",
+        "arabicLabel": "دينار زيادة (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "سعر الموازنة",
+          "value": "130,000"
+        },
+        {
+          "label": "سعر المالية الجديد",
+          "value": "150,000"
+        },
+        {
+          "label": "لكل 100 دولار",
+          "value": "+20,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-07-a-dinar-1520-official/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-07-a-dinar-1520-official/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الموازنة: 130 ألف",
+        "المالية الآن: 150 ألف",
+        "+200 دينار للدولار (محتسب)"
+      ]
+    },
+    {
+      "label": "ردود الفعل",
+      "arabicHeading": "المركزي يطمئن.. ونواب يطلبون جلسة طارئة",
+      "arabicBody": "البنك المركزي يصف القرار بأنه خطوة استراتيجية ويؤكد أن احتياطياته تكفي التحويل والبطاقات والمسافرين دون قيود. ونواب يطالبون بجلسة طارئة للتراجع عنه.",
+      "bigStat": {
+        "value": "544",
+        "label": "Number of the Cabinet decision changing the rate (MoF statement via Shafaq / 964)",
+        "arabicLabel": "رقم القرار"
+      },
+      "supportingStats": [
+        {
+          "label": "المالية",
+          "value": "إيقاف الاستيفاء المسبق"
+        },
+        {
+          "label": "المركزي",
+          "value": "الاحتياطيات كافية"
+        },
+        {
+          "label": "نواب",
+          "value": "جلسة طارئة"
+        }
+      ],
+      "broll": "images/news/2026-10-07-a-dinar-1520-official/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-07-a-dinar-1520-official/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "المركزي: الاحتياطي كافٍ",
+        "المالية توقف الاستيفاء المسبق",
+        "نواب: جلسة طارئة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مجلس الوزراء يعدّل سعر الصرف بالقرار 544 — التطبيق من الأربعاء 7 تشرين الأول",
+    "البنك المركزي: 1,500 شراء من المالية، 1,510 للمصارف، 1,520 للمواطنين",
+    "رووداو: سعر 100 دولار كان 130 ألف دينار في قانون الموازنة الثلاثية",
+    "وزارة المالية توقف قرار الاستيفاء المسبق للرسوم الجمركية رقم 413",
+    "المركزي: الاحتياطيات تلبي التحويل والبطاقات والمسافرين دون قيود",
+    "راتبك بالدينار لو بالدولار؟"
+  ],
+  "endQuestion": "راتبك بالدينار لو بالدولار؟",
+  "sources": [
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

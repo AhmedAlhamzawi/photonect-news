@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 07 • 2026",
+  "arabicDateLabel": "7 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_life",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "العاصفة الترابية",
+    "arabicHeadline": "عاصفة الغبار: 139 حالة اختناق بين النجف وديالى",
+    "englishSubhead": "NAJAF / DIYALA · OCT 6 | NAJAF HEALTH MEDIA DIRECTOR MAHER AL-ABOUDI (VIA SHAFAQ NEWS): 129 SUFFOCATION CASES (AL-HAKIM 52, AL-HURRIYA 27, NAJAF TEACHING 36, AL-QADISIYA 14) | BAQUBA TEACHING: 10 | METEOROLOGY (VIA SHAFAQ, 964): DUST FROM THE WEST TO SALAH AL-DIN, BAGHDAD, NAJAF, KARBALA, NASIRIYAH | GREEN IRAQ OBSERVATORY: STORMS LIKELY THROUGH WINTER, 6 ACTIVE HOTSPOTS, >23% DESERTIFIED LAND",
+    "heroMedia": "images/news/2026-10-07-e-dust-139-cases/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "النجف",
+      "arabicHeading": "129 حالة اختناق بالنجف",
+      "arabicBody": "مدير إعلام صحة النجف ماهر العبودي: 129 حالة اختناق؛ 52 في مستشفى الحكيم، و36 في النجف التعليمي، و27 في الحرية، و14 في القادسية، والأعداد في تزايد.",
+      "bigStat": {
+        "value": "129",
+        "label": "Suffocation cases in Najaf hospitals from Tuesday's dust storm (Najaf Health media director via Shafaq)",
+        "arabicLabel": "حالة اختناق"
+      },
+      "supportingStats": [
+        {
+          "label": "الحكيم",
+          "value": "52"
+        },
+        {
+          "label": "النجف التعليمي",
+          "value": "36"
+        },
+        {
+          "label": "الحرية + القادسية",
+          "value": "27 + 14"
+        }
+      ],
+      "broll": "images/news/2026-10-07-e-dust-139-cases/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-07-e-dust-139-cases/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "صحة النجف: 129 حالة",
+        "الحكيم وحده 52",
+        "علاج ربو وأوكسجين"
+      ]
+    },
+    {
+      "label": "المسار",
+      "arabicHeading": "من الغرب إلى بغداد والنجف وكربلاء",
+      "arabicBody": "طوارئ بعقوبة التعليمي استقبلت 10 حالات. وبحسب الأنواء الجوية، امتد الغبار من المناطق الغربية إلى صلاح الدين وبغداد والنجف وكربلاء والناصرية.",
+      "bigStat": {
+        "value": "139",
+        "label": "Suffocation cases across Najaf (129) and Diyala (10) (Shafaq News headline tally)",
+        "arabicLabel": "حالة اختناق"
+      },
+      "supportingStats": [
+        {
+          "label": "ديالى",
+          "value": "10"
+        },
+        {
+          "label": "الرؤية غرباً",
+          "value": "أقل من 1 كم"
+        },
+        {
+          "label": "المصدر",
+          "value": "مرتفع جوي"
+        }
+      ],
+      "broll": "images/news/2026-10-07-e-dust-139-cases/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-07-e-dust-139-cases/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "ديالى: 10 حالات",
+        "الغبار من الغرب",
+        "إلى بغداد والنجف وكربلاء"
+      ]
+    },
+    {
+      "label": "الشتاء",
+      "arabicHeading": "6 بؤر نشطة.. والعواصف مستمرة",
+      "arabicBody": "مرصد العراق الأخضر يرجّح استمرار العواصف الترابية في الشتاء، ويحدد 6 بؤر نشطة داخل العراق، ويقدّر الأراضي المتصحرة والمتروكة بأكثر من 23%.",
+      "bigStat": {
+        "value": "6",
+        "label": "Active dust hotspots inside Iraq (Green Iraq observatory via Shafaq)",
+        "arabicLabel": "بؤر نشطة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأراضي المتصحرة",
+          "value": "أكثر من 23%"
+        },
+        {
+          "label": "المتوقع",
+          "value": "عواصف بالشتاء"
+        },
+        {
+          "label": "الأكثر تضرراً",
+          "value": "مرضى الربو"
+        }
+      ],
+      "broll": "images/news/2026-10-07-e-dust-139-cases/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-07-e-dust-139-cases/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "العراق الأخضر: 6 بؤر",
+        "العواصف مستمرة بالشتاء",
+        "الأخطر على مرضى الربو"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "صحة النجف: 129 حالة اختناق جراء العاصفة الترابية (شفق نيوز)",
+    "مستشفى بعقوبة التعليمي استقبل 10 حالات اختناق",
+    "الأنواء الجوية: الغبار امتد إلى صلاح الدين وبغداد والنجف وكربلاء والناصرية",
+    "مرصد العراق الأخضر: 6 بؤر نشطة والعواصف مرجحة بالشتاء",
+    "عدكم أحد بالبيت عنده ربو؟"
+  ],
+  "endQuestion": "عدكم أحد بالبيت عنده ربو؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-07-b-dollar-168500-bourse",
+  "date": "2026-10-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 566187,
+      "sha256": "fb9ea8a3151dda90"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1120032,
+      "sha256": "bdf0ec37f10d1554"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 592134,
+      "sha256": "9e0ff8eb4b79674e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 812732,
+      "sha256": "b0131c6e98477729"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+ "dateLabel": "OCT 07 • 2026",
+ "arabicDateLabel": "7 تشرين الأول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/music_03.mp3",
+ "topicBucket": "mena_geo",
+ "variant": "A",
+ "breaking": {
+  "arabicKicker": "النفط",
+  "arabicHeadline": "مصافٍ صينية مستقلة تعوّض النفط الإيراني بخام البصرة",
+  "englishSubhead": "REUTERS / BLOOMBERG (VIA SHAFAQ NEWS), KPLER DATA: CHINESE INDEPENDENT REFINERS BOUGHT AT LEAST 12M BBL OF IRAQI + QATARI CRUDE FOR OCT-NOV (ONE TRADER: 15-20M), MOSTLY BASRA MEDIUM/HEAVY, AT $12-20 OVER ICE BRENT | CHINA'S IRANIAN IMPORTS 590K BPD IN SEPT, LOWEST SINCE JAN 2023 | IRAN EXPORTED NO CRUDE IN SEPT (KPLER)",
+  "heroMedia": "images/news/2026-10-07-c-basra-crude-china/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الصفقات",
+   "arabicHeading": "12 مليون برميل عراقي وقطري على الأقل",
+   "arabicBody": "بحسب رويترز، اشترت مصافٍ صينية مستقلة 12 مليون برميل على الأقل من الخام العراقي والقطري لشحنات تشرين الأول والثاني، وقدّرها أحد المتعاملين بين 15 و20 مليوناً.",
+   "bigStat": {
+    "value": "12",
+    "label": "Million barrels minimum of Iraqi + Qatari crude bought by Chinese independents for Oct-Nov (Reuters via Shafaq)",
+    "arabicLabel": "مليون برميل"
+   },
+   "supportingStats": [
+    {
+     "label": "تقدير تاجر",
+     "value": "15 - 20 مليون"
+    },
+    {
+     "label": "الخامات",
+     "value": "بصرة متوسط وثقيل"
+    },
+    {
+     "label": "الشاهين القطري",
+     "value": "3 ملايين برميل"
+    }
+   ],
+   "broll": "images/news/2026-10-07-c-basra-crude-china/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-10-07-c-basra-crude-china/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "مصافي الصين المستقلة",
+    "12 مليون برميل على الأقل",
+    "أغلبها من خامي البصرة"
+   ]
+  },
+  {
+   "label": "الإيراني",
+   "arabicHeading": "واردات الصين من إيران: 590 ألف برميل يومياً",
+   "arabicBody": "كبلر: واردات الصين من النفط الإيراني تراجعت في أيلول إلى 590 ألف برميل يومياً، الأدنى منذ كانون الثاني 2023، والمخزون الإيراني العائم إلى 45 مليون برميل.",
+   "bigStat": {
+    "value": "590",
+    "label": "Thousand bpd of Iranian crude into China in September, ~half year-on-year, lowest since Jan 2023 (Kpler via Reuters / Shafaq)",
+    "arabicLabel": "ألف برميل يومياً"
+   },
+   "supportingStats": [
+    {
+     "label": "المقارنة السنوية",
+     "value": "نحو النصف"
+    },
+    {
+     "label": "المخزون العائم",
+     "value": "45 مليون برميل"
+    },
+    {
+     "label": "أواخر تموز",
+     "value": "100 مليون"
+    }
+   ],
+   "broll": "images/news/2026-10-07-c-basra-crude-china/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-10-07-c-basra-crude-china/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "الإيراني إلى الصين: 590 ألف",
+    "الأدنى منذ كانون الثاني 2023",
+    "المخزون العائم: 45 مليون برميل"
+   ]
+  },
+  {
+   "label": "السعر",
+   "arabicHeading": "علاوة حتى 20 دولاراً فوق برنت",
+   "arabicBody": "بحسب رويترز، بيعت الشحنات بعلاوات بين 12 و20 دولاراً للبرميل فوق برنت، وقال أحد المتعاملين إن النفط العراقي صار المعيار الجديد للمصافي المستقلة.",
+   "bigStat": {
+    "value": "20",
+    "label": "USD per barrel — top of the $12-20 premium over ICE Brent paid for the cargoes (Reuters via Shafaq)",
+    "arabicLabel": "دولاراً فوق برنت"
+   },
+   "supportingStats": [
+    {
+     "label": "أدنى علاوة",
+     "value": "12 دولاراً"
+    },
+    {
+     "label": "أعلى علاوة",
+     "value": "20 دولاراً"
+    },
+    {
+     "label": "المشترون",
+     "value": "مصافٍ مستقلة"
+    }
+   ],
+   "broll": "images/news/2026-10-07-c-basra-crude-china/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-10-07-c-basra-crude-china/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "علاوة 12 - 20 دولاراً",
+    "فوق سعر برنت",
+    "العراقي المعيار الجديد"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "رويترز: مصافٍ صينية مستقلة اشترت 12 مليون برميل على الأقل من الخام العراقي والقطري",
+  "أغلب المشتريات من خامي البصرة المتوسط والثقيل",
+  "كبلر: واردات الصين من النفط الإيراني 590 ألف برميل يومياً في أيلول",
+  "كبلر: إيران لم تصدّر أي خام في أيلول لأول مرة منذ بدأت تتبعها عام 2013",
+  "عندك أحد يشتغل بنفط البصرة؟"
+ ],
+ "endQuestion": "عندك أحد يشتغل بنفط البصرة؟",
+ "sources": [
+  {
+   "name": "رويترز",
+   "domain": "reuters.com"
+  },
+  {
+   "name": "بلومبيرغ",
+   "domain": "bloomberg.com"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  }
+ ]
+}

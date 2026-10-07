@@ -1,0 +1,148 @@
+{
+ "dateLabel": "OCT 07 • 2026",
+ "arabicDateLabel": "7 تشرين الأول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "سعر الدولار",
+  "arabicHeadline": "بعد القرار.. البورصة تقفز إلى 168,500",
+  "englishSubhead": "168,500 IQD/$100 KIFAH & HARITHIYA WED AM (SHAFAQ) | TUE AM 159,800 | >170,000 IN SOME SHOPS (964, BAGHDAD TODAY) | NEW OFFICIAL 152,000",
+  "heroMedia": "images/news/2026-10-07-b-dollar-168500-bourse/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "صباح الأربعاء",
+   "arabicHeading": "الكفاح: 168,500 صباح الأربعاء",
+   "arabicBody": "بحسب شفق نيوز، سجلت بورصتا الكفاح والحارثية صباح الأربعاء 168,500 دينار لكل 100 دولار، بعدما كانت 159,800 صباح الثلاثاء.",
+   "bigStat": {
+    "value": "168,500",
+    "label": "IQD per $100, Kifah & Harithiya, Wednesday morning (Shafaq News)",
+    "arabicLabel": "دينار لكل 100 دولار"
+   },
+   "supportingStats": [
+    {
+     "label": "صباح الثلاثاء",
+     "value": "159,800"
+    },
+    {
+     "label": "محال بغداد بيع",
+     "value": "169,000"
+    },
+    {
+     "label": "أربيل بيع",
+     "value": "168,200"
+    }
+   ],
+   "broll": "images/news/2026-10-07-b-dollar-168500-bourse/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-10-07-b-dollar-168500-bourse/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "الكفاح 168,500",
+    "صباح الثلاثاء 159,800",
+    "أربيل 168,200"
+   ]
+  },
+  {
+   "label": "الإرباك",
+   "arabicHeading": "فوق 170 ألفاً.. ومحال توقف البيع",
+   "arabicBody": "شبكة 964 وبغداد اليوم: السعر تجاوز 170 ألفاً لكل 100 دولار في بعض المحال. وبحسب شفق نيوز، أوقفت محال صيرفة في بغداد وكركوك البيع مؤقتاً.",
+   "bigStat": {
+    "value": "170,000",
+    "label": "IQD per $100 — level crossed in some shops/bourse on Wednesday (964, Baghdad Today)",
+    "arabicLabel": "دينار ببعض المحال"
+   },
+   "supportingStats": [
+    {
+     "label": "964",
+     "value": "فوق 170 ألف"
+    },
+    {
+     "label": "بغداد اليوم",
+     "value": "170 ألف"
+    },
+    {
+     "label": "كركوك",
+     "value": "تعليق التعامل"
+    }
+   ],
+   "broll": "images/news/2026-10-07-b-dollar-168500-bourse/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-10-07-b-dollar-168500-bourse/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "فوق 170 ألف ببعض المحال",
+    "صيرفات ببغداد توقف البيع",
+    "كركوك تعلّق التعامل"
+   ]
+  },
+  {
+   "label": "الفجوة والذهب",
+   "arabicHeading": "فوق الرسمي الجديد بـ16,500",
+   "arabicBody": "السعر الرسمي الجديد 152 ألفاً لكل 100 دولار، أي أن سعر الكفاح الصباحي أعلى بـ16,500 (محتسب). ومثقال الذهب الخليجي عيار 21 في شارع النهر: 978 ألفاً.",
+   "bigStat": {
+    "value": "16,500",
+    "label": "IQD per $100 above the new official 152,000 (Kifah 168,500 − 152,000, computed)",
+    "arabicLabel": "فوق الرسمي (محتسب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الرسمي الجديد",
+     "value": "152,000"
+    },
+    {
+     "label": "ذهب 21 اليوم",
+     "value": "978 ألف"
+    },
+    {
+     "label": "ذهب 21 الثلاثاء",
+     "value": "930 ألف"
+    }
+   ],
+   "broll": "images/news/2026-10-07-b-dollar-168500-bourse/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-10-07-b-dollar-168500-bourse/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "الرسمي الجديد 152 ألف",
+    "الفرق 16,500 (محتسب)",
+    "الذهب 978 ألف للمثقال"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "شفق نيوز: الكفاح والحارثية صباح الأربعاء 168,500 دينار لكل 100 دولار",
+  "صباح الثلاثاء كان 159,800 (شفق نيوز)",
+  "شبكة 964 وبغداد اليوم: تجاوز 170 ألفاً في بعض المحال",
+  "محال صيرفة في بغداد وكركوك أوقفت البيع مؤقتاً (شفق نيوز)",
+  "مثقال الذهب الخليجي عيار 21: 978 ألفاً بعد 930 ألفاً الثلاثاء",
+  "اشتريت دولار اليوم؟"
+ ],
+ "endQuestion": "اشتريت دولار اليوم؟",
+ "sources": [
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "بغداد اليوم",
+   "domain": "baghdadtoday.news"
+  }
+ ]
+}

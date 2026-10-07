@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-07-d-salahaldin-56k-receipts",
+  "date": "2026-10-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 468245,
+      "sha256": "6c893224cecfcbc2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 764447,
+      "sha256": "a8d26747d90b1ed4"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 542202,
+      "sha256": "9e26aa31f48738da"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1092343,
+      "sha256": "708f5999787651dd"
+    }
+  ]
+}

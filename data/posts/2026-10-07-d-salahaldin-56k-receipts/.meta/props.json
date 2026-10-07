@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 07 • 2026",
+  "arabicDateLabel": "7 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "النزاهة: 56 ألف وصل غرامة.. وأكثر من ملياري دينار",
+    "englishSubhead": "SALAH AL-DIN · OCT 7 | FEDERAL INTEGRITY COMMISSION (VIA SHAFAQ NEWS, 964, BAGHDAD TODAY): COLONEL HEADING THE FINES SECTION ACCUSED OF MANIPULATING 34,164 TRAFFIC-FINE RECEIPTS, EMBEZZLING 1,853,200,000 IQD | SECOND COLONEL: 22,000 RECEIPTS, 339,135,000 IQD | BOTH DETAINED PENDING INVESTIGATION (ART. 315) | 1 BRIGADIER + 2 COLONELS PROBED FOR FAILING TO AUDIT | NO CONVICTION",
+    "heroMedia": "images/news/2026-10-07-d-salahaldin-56k-receipts/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "العملية الأولى",
+      "arabicHeading": "34,164 وصلاً.. وأكثر من 1.85 مليار دينار",
+      "arabicBody": "هيئة النزاهة: عقيد مسؤول عن شعبة الغرامات في مرور صلاح الدين متهم بالتلاعب بـ34,164 وصل غرامة واختلاس 1,853,200,000 دينار. وهو موقوف على ذمة التحقيق.",
+      "bigStat": {
+        "value": "34,164",
+        "label": "Traffic-fine receipts allegedly manipulated by the fines-section colonel (Integrity Commission via Shafaq / 964)",
+        "arabicLabel": "وصل غرامة"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "1,853,200,000 دينار"
+        },
+        {
+          "label": "المتهم",
+          "value": "عقيد موقوف"
+        },
+        {
+          "label": "المادة",
+          "value": "315"
+        }
+      ],
+      "broll": "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "مرور صلاح الدين",
+        "34,164 وصل غرامة",
+        "أكثر من 1.85 مليار دينار"
+      ]
+    },
+    {
+      "label": "العملية الثانية",
+      "arabicHeading": "22 ألف وصل.. وأكثر من 339 مليوناً",
+      "arabicBody": "وفي عملية ثانية، تتهم الهيئة عقيداً آخر موقوفاً بالتلاعب بوصولات الغرامات الفورية واختلاس 339,135,000 دينار، وضُبط 22,000 وصل.",
+      "bigStat": {
+        "value": "22,000",
+        "label": "Receipts seized in the second operation; 339,135,000 IQD allegedly embezzled (Integrity Commission via Shafaq / 964)",
+        "arabicLabel": "وصل مضبوط"
+      },
+      "supportingStats": [
+        {
+          "label": "المبلغ",
+          "value": "339,135,000 دينار"
+        },
+        {
+          "label": "المجموع",
+          "value": "56,164 وصلاً (محتسب)"
+        },
+        {
+          "label": "الإجمالي",
+          "value": "2,192,335,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "عقيد ثانٍ موقوف",
+        "22,000 وصل",
+        "أكثر من 339 مليون دينار"
+      ]
+    },
+    {
+      "label": "التدقيق",
+      "arabicHeading": "التحقيق يشمل عميداً وعقيدين",
+      "arabicBody": "تقول الهيئة إن التحقيق يشمل ثلاثة ضباط آخرين، عميداً وعقيدين، لعدم تدقيقهم الإرساليات بدقة. القضية أمام قاضي التحقيق ولم تصدر إدانة.",
+      "bigStat": {
+        "value": "5",
+        "label": "Officers in the investigation: 2 detained colonels + 1 brigadier and 2 colonels probed for failing to audit (Integrity via 964)",
+        "arabicLabel": "ضباط بالتحقيق"
+      },
+      "supportingStats": [
+        {
+          "label": "موقوفان",
+          "value": "عقيدان"
+        },
+        {
+          "label": "قيد التحقيق",
+          "value": "عميد وعقيدان"
+        },
+        {
+          "label": "الحكم",
+          "value": "لم يصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-07-d-salahaldin-56k-receipts/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "5 ضباط بالتحقيق",
+        "بينهم عميد",
+        "ولا إدانة بعد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: التلاعب بأكثر من 56 ألف وصل غرامة مرورية في صلاح الدين",
+    "عقيد مسؤول شعبة الغرامات متهم باختلاس 1,853,200,000 دينار",
+    "عقيد ثانٍ متهم باختلاس 339,135,000 دينار — كلاهما موقوف على ذمة التحقيق",
+    "التحقيق يشمل عميداً وعقيدين لعدم التدقيق — ولم تصدر إدانة",
+    "دفعت غرامة مرور هالسنة؟"
+  ],
+  "endQuestion": "دفعت غرامة مرور هالسنة؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

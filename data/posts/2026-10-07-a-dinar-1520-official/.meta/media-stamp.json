@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-07-a-dinar-1520-official",
+  "date": "2026-10-07",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1266116,
+      "sha256": "f5318f7bded1f61f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 856675,
+      "sha256": "3cf4d97f6d971981"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1041972,
+      "sha256": "b3edb331a0ea1f8a"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 500219,
+      "sha256": "4e1e6ac24c5f012c"
+    }
+  ]
+}
