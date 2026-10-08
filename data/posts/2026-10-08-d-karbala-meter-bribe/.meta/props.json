@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 08 • 2026",
+  "arabicDateLabel": "8 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "النزاهة: 3 متهمين بكهرباء كربلاء برشوة لتفادي غرامة 10 ملايين",
+    "englishSubhead": "KARBALA · OCT 7 | FEDERAL INTEGRITY COMMISSION STATEMENT (VIA 964): KARBALA INVESTIGATION OFFICE AMBUSH — TWO ELECTRICITY-DIRECTORATE EMPLOYEES CAUGHT RECEIVING A BRIBE FROM A CITIZEN TO HELP HIM AVOID A 10M IQD FINE; DEAL WAS TO TAMPER WITH HIS HOME METER; THIRD PARTNER ARRESTED LATER | KARBALA INTEGRITY INVESTIGATION JUDGE ORDERED ALL 3 DETAINED UNDER RCC RESOLUTION 160/1983 | NO CONVICTION",
+    "heroMedia": "images/news/2026-10-08-d-karbala-meter-bribe/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الكمين",
+      "arabicHeading": "غرامة 10 ملايين.. وتهمة رشوة لتفاديها",
+      "arabicBody": "هيئة النزاهة: مكتب تحقيق كربلاء ضبط بكمين موظفَين في كهرباء المحافظة متلبسَين بتسلّم رشوة من مواطن، مقابل تفادي غرامة قيمتها 10 ملايين دينار.",
+      "bigStat": {
+        "value": "10",
+        "label": "Million IQD — the electricity fine the citizen was allegedly helped to avoid (Integrity Commission via 964)",
+        "arabicLabel": "ملايين دينار — قيمة الغرامة"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "كهرباء كربلاء"
+        },
+        {
+          "label": "العملية",
+          "value": "كمين"
+        },
+        {
+          "label": "المتهمون",
+          "value": "موظفون"
+        }
+      ],
+      "broll": "images/news/2026-10-08-d-karbala-meter-bribe/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-08-d-karbala-meter-bribe/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "كمين في كهرباء كربلاء",
+        "غرامة 10 ملايين دينار",
+        "والتهمة: رشوة لتفاديها"
+      ]
+    },
+    {
+      "label": "المقياس",
+      "arabicHeading": "الهيئة: الاتفاق كان التلاعب بمقياس البيت",
+      "arabicBody": "تقول الهيئة إن الاتفاق كان على التلاعب بمقياس الكهرباء في منزل المواطن، وإن الموظفَين أقرّا خلال التحقيق بوجود شريك ثالث ضُبط لاحقاً.",
+      "bigStat": {
+        "value": "3",
+        "label": "Electricity employees detained: two caught in the ambush + a third partner arrested later (Integrity Commission via 964)",
+        "arabicLabel": "متهمين"
+      },
+      "supportingStats": [
+        {
+          "label": "ضُبطوا بالكمين",
+          "value": "2"
+        },
+        {
+          "label": "ضُبط لاحقاً",
+          "value": "1"
+        },
+        {
+          "label": "الأداة",
+          "value": "مقياس الكهرباء"
+        }
+      ],
+      "broll": "images/news/2026-10-08-d-karbala-meter-bribe/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-08-d-karbala-meter-bribe/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "بحسب الهيئة: التلاعب بالمقياس",
+        "موظفان ضُبطا بالكمين",
+        "وشريك ثالث ضُبط لاحقاً"
+      ]
+    },
+    {
+      "label": "القضاء",
+      "arabicHeading": "توقيف الثلاثة.. ولا إدانة بعد",
+      "arabicBody": "عُرض المتهمون الثلاثة على قاضي محكمة التحقيق المختصة بقضايا النزاهة في كربلاء، فقرر توقيفهم وفق القرار 160 لسنة 1983. ولم تصدر إدانة.",
+      "bigStat": {
+        "value": "160",
+        "label": "RCC Resolution 160 of 1983 — legal basis for the detention order (Integrity Commission via 964)",
+        "arabicLabel": "رقم القرار — لسنة 1983"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "160 لسنة 1983"
+        },
+        {
+          "label": "الإجراء",
+          "value": "توقيف"
+        },
+        {
+          "label": "الحكم",
+          "value": "لم يصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-08-d-karbala-meter-bribe/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-08-d-karbala-meter-bribe/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "قاضي التحقيق يوقفهم",
+        "القرار 160 لسنة 1983",
+        "ولا إدانة بعد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة النزاهة: ضبط موظفَين في كهرباء كربلاء بحالة تسلّم رشوة",
+    "بحسب الهيئة: الرشوة مقابل تفادي غرامة 10 ملايين دينار عبر التلاعب بمقياس منزل",
+    "شريك ثالث ضُبط لاحقاً — والقاضي قرر توقيف المتهمين الثلاثة",
+    "التوقيف وفق القرار 160 لسنة 1983 — ولم تصدر إدانة",
+    "شكد تدفع فاتورة الوطنية بالشهر؟"
+  ],
+  "endQuestion": "شكد تدفع فاتورة الوطنية بالشهر؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+ "dateLabel": "OCT 08 • 2026",
+ "arabicDateLabel": "8 تشرين الأول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "سعر الدولار",
+  "arabicHeadline": "الدولار نزل صباحاً.. والمركزي: 1,900 طُرح ورفضناه",
+  "englishSubhead": "BAGHDAD · OCT 8 | SHAFAQ: KIFAH & HARITHIYA THU AM 166,800 IQD/$100 (WED AM 168,500); BAGHDAD SHOPS SELL 167,250, ERBIL SELL 166,350 | 964 LIST 13:25: BAGHDAD SELL 168,000, ERBIL 165,850, BASRA 166,000 | OFFICIAL 152,000 | CBI MEDIA DIRECTOR HAIDAR GHAZI (DIJLA TV VIA 964): RESERVES DRAWN TO PAY 9M+ EMPLOYEES; FIGURES PROPOSED REACHED 1,900, CBI HELD 1,500",
+  "heroMedia": "images/news/2026-10-08-b-dollar-166800-1900/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "صباح الخميس",
+   "arabicHeading": "الكفاح نزل إلى 166,800 صباح الخميس",
+   "arabicBody": "بحسب شفق نيوز، سجلت بورصتا الكفاح والحارثية صباح الخميس 166,800 دينار لكل 100 دولار، بعد 168,500 صباح الأربعاء.",
+   "bigStat": {
+    "value": "166,800",
+    "label": "IQD per $100, Kifah & Harithiya, Thursday morning (Shafaq News)",
+    "arabicLabel": "دينار لكل 100 دولار"
+   },
+   "supportingStats": [
+    {
+     "label": "صباح الأربعاء",
+     "value": "168,500"
+    },
+    {
+     "label": "محال بغداد",
+     "value": "167,250"
+    },
+    {
+     "label": "بيع أربيل",
+     "value": "166,350"
+    }
+   ],
+   "broll": "images/news/2026-10-08-b-dollar-166800-1900/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-10-08-b-dollar-166800-1900/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "الكفاح 166,800 صباح الخميس",
+    "الأربعاء كان 168,500",
+    "أربيل 166,350 بيع"
+   ]
+  },
+  {
+   "label": "الفجوة",
+   "arabicHeading": "فوق الرسمي بـ14,800 دينار (محتسب)",
+   "arabicBody": "السعر الرسمي 152 ألفاً لكل 100 دولار، أي أن سعر الكفاح الصباحي أعلى بـ14,800 (محتسب). وفي قائمة شبكة 964 ظهراً: أربيل 165,850 والبصرة 166,000.",
+   "bigStat": {
+    "value": "14,800",
+    "label": "IQD per $100 above the official 152,000 (Kifah 166,800 − 152,000, computed)",
+    "arabicLabel": "دينار فوق الرسمي (محتسب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الرسمي",
+     "value": "152,000"
+    },
+    {
+     "label": "أربيل ظهراً",
+     "value": "165,850"
+    },
+    {
+     "label": "البصرة ظهراً",
+     "value": "166,000"
+    }
+   ],
+   "broll": "images/news/2026-10-08-b-dollar-166800-1900/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-10-08-b-dollar-166800-1900/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "الرسمي 152 ألف لكل 100 دولار",
+    "الفرق 14,800 (محتسب)",
+    "البصرة ظهراً 166,000"
+   ]
+  },
+  {
+   "label": "كواليس القرار",
+   "arabicHeading": "المركزي: أرقام طُرحت وصلت 1,900",
+   "arabicBody": "مدير إعلام البنك المركزي حيدر غازي لقناة دجلة: أرقام طُرحت وصلت 1,900، لكن البنك أصرّ على 1,500. والحكومة استهلكت أجزاءً غير هيّنة من الاحتياطي للرواتب.",
+   "bigStat": {
+    "value": "1,900",
+    "label": "IQD per dollar — highest figure proposed before the CBI held 1,500 (CBI media director on Dijla TV, via 964)",
+    "arabicLabel": "دينار للدولار — رقم طُرح ورفضه المركزي"
+   },
+   "supportingStats": [
+    {
+     "label": "اختيار المركزي",
+     "value": "1,500"
+    },
+    {
+     "label": "الموظفون",
+     "value": "+9 ملايين"
+    },
+    {
+     "label": "المصدر",
+     "value": "قناة دجلة"
+    }
+   ],
+   "broll": "images/news/2026-10-08-b-dollar-166800-1900/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-10-08-b-dollar-166800-1900/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة أرشيفية",
+   "subtitlePhrases": [
+    "أرقام طُرحت حتى 1,900",
+    "المركزي اختار 1,500",
+    "رواتب أكثر من 9 ملايين موظف"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "شفق نيوز: الكفاح والحارثية صباح الخميس 166,800 دينار لكل 100 دولار",
+  "صباح الأربعاء كان 168,500 (شفق نيوز)",
+  "شبكة 964 ظهراً: أربيل 165,850 والبصرة 166,000",
+  "المركزي: أرقام طُرحت وصلت إلى 1,900 لكن البنك أصرّ على 1,500",
+  "عندك دولار مخزون بالبيت؟"
+ ],
+ "endQuestion": "عندك دولار مخزون بالبيت؟",
+ "sources": [
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "البنك المركزي العراقي",
+   "domain": "cbi.iq"
+  }
+ ]
+}

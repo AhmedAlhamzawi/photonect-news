@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 08 • 2026",
+  "arabicDateLabel": "8 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السفر",
+    "arabicHeadline": "بعد توقف منذ آذار.. رحلات يومية من النجف إلى طهران ومشهد وأصفهان",
+    "englishSubhead": "NAJAF · OCT 8 | IRAQI AIRWAYS STATEMENT (VIA RUDAW): IRAN FLIGHTS RESUME — DAILY SCHEDULED FLIGHTS NAJAF -> TEHRAN, MASHHAD, ISFAHAN; IRAN FLIGHTS HALTED SINCE EARLY MARCH | FARS (VIA 964): FIRST FLIGHT FROM NAJAF LANDED AT IMAM KHOMEINI AIRPORT THU MORNING, ROUND-TRIP SERVICE | AL-ARABY TV (OCT 2): US TREASURY LICENSE FOR IRAQI AIRWAYS VIA NAJAF ONLY, EXPIRES OCT 28",
+    "heroMedia": "images/news/2026-10-08-c-iraqi-airways-iran-daily/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الوجهات",
+      "arabicHeading": "النجف ← طهران ومشهد وأصفهان يومياً",
+      "arabicBody": "بيان الخطوط الجوية العراقية، بحسب رووداو: رحلات يومية منتظمة من مطار النجف الدولي إلى طهران ومشهد وأصفهان، بعد توقف رحلاتها إلى إيران منذ مطلع آذار.",
+      "bigStat": {
+        "value": "3",
+        "label": "Iranian destinations served daily from Najaf: Tehran, Mashhad, Isfahan (Iraqi Airways via Rudaw)",
+        "arabicLabel": "وجهات يومية من النجف"
+      },
+      "supportingStats": [
+        {
+          "label": "طهران",
+          "value": "يومياً"
+        },
+        {
+          "label": "مشهد",
+          "value": "يومياً"
+        },
+        {
+          "label": "أصفهان",
+          "value": "يومياً"
+        }
+      ],
+      "broll": "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الخطوط العراقية ترجع لإيران",
+        "طهران · مشهد · أصفهان",
+        "من مطار النجف"
+      ]
+    },
+    {
+      "label": "أول رحلة",
+      "arabicHeading": "أول رحلة هبطت صباح الخميس بمطار الخميني",
+      "arabicBody": "وكالة فارس الإيرانية، عبر شبكة 964: أول رحلة دولية من النجف هبطت صباح الخميس في مطار الإمام الخميني بطهران، بنظام الذهاب والعودة.",
+      "bigStat": {
+        "value": "7",
+        "label": "Months since Iraqi Airways halted Iran flights (early March -> October, computed from the airline statement via Rudaw)",
+        "arabicLabel": "أشهر من التوقف (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "التوقف",
+          "value": "منذ مطلع آذار"
+        },
+        {
+          "label": "الاستئناف",
+          "value": "8 تشرين الأول"
+        },
+        {
+          "label": "النظام",
+          "value": "ذهاب وعودة"
+        }
+      ],
+      "broll": "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "أول رحلة هبطت بطهران",
+        "ذهاب وعودة",
+        "بعد توقف منذ آذار"
+      ]
+    },
+    {
+      "label": "لمن؟",
+      "arabicHeading": "زيارة وعلاج ودراسة.. وترخيص ينتهي 28 تشرين الأول",
+      "arabicBody": "تقول الشركة إن الرحلات لخدمة السفر الديني والعلاجي والدراسي. وأفاد التلفزيون العربي في 2 تشرين الأول بأن الترخيص الأميركي لها ينتهي في 28 تشرين الأول.",
+      "bigStat": {
+        "value": "28",
+        "label": "October — expiry of the US Treasury license for Iraqi Airways' Najaf-Iran flights (Al-Araby TV, Oct 2)",
+        "arabicLabel": "تشرين الأول — نهاية الترخيص الأميركي"
+      },
+      "supportingStats": [
+        {
+          "label": "الأغراض",
+          "value": "ديني · علاجي · دراسي"
+        },
+        {
+          "label": "الترخيص",
+          "value": "ينتهي 28 تشرين الأول"
+        },
+        {
+          "label": "المطار",
+          "value": "النجف فقط"
+        }
+      ],
+      "broll": "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-08-c-iraqi-airways-iran-daily/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "زيارة · علاج · دراسة",
+        "ترخيص أميركي لشهر",
+        "ينتهي 28 تشرين الأول"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الخطوط الجوية العراقية تستأنف رحلاتها إلى إيران من مطار النجف (رووداو)",
+    "رحلات يومية منتظمة إلى طهران ومشهد وأصفهان",
+    "فارس عبر 964: أول رحلة من النجف هبطت في مطار الإمام الخميني صباح الخميس",
+    "التلفزيون العربي (2 تشرين الأول): الترخيص الأميركي ينتهي في 28 تشرين الأول",
+    "سافرت لمشهد بالطيارة قبل؟"
+  ],
+  "endQuestion": "سافرت لمشهد بالطيارة قبل؟",
+  "sources": [
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "التلفزيون العربي",
+      "domain": "alaraby.com"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-08-e-eu-asylum-66-percent",
+  "date": "2026-10-08",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 918370,
+      "sha256": "b39bf752f8a59bf3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 744942,
+      "sha256": "b95dbe0f7d792cda"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1177637,
+      "sha256": "bd8b2551b239ed12"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 511323,
+      "sha256": "441efa8177cd76ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-08-c-iraqi-airways-iran-daily",
+  "date": "2026-10-08",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 655490,
+      "sha256": "2491956ba14208c3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 379912,
+      "sha256": "a10b92004a094f38"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 744112,
+      "sha256": "fdae9adacd1aab72"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 592697,
+      "sha256": "1bb68e752667350c"
+    }
+  ]
+}

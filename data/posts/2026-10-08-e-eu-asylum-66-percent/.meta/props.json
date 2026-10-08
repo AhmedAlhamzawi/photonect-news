@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 08 • 2026",
+  "arabicDateLabel": "8 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_life",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "اللجوء",
+    "arabicHeadline": "الوكالة الأوروبية: رفض كامل لـ66.61% من قرارات لجوء العراقيين",
+    "englishSubhead": "EUAA DATA TO RUDAW (OCT 8): H1 2026 — 7,610 IRAQI ASYLUM DECISIONS IN EU+ (EU, NORWAY, SWITZERLAND); 5,069 FULLY REJECTED (66.61%) | REFUGEE STATUS 1,586 (20.84%), HUMANITARIAN/NATIONAL 548 (7.20%), SUBSIDIARY 407 (5.35%) | 4,670 NEW IRAQI APPLICATIONS, -19% Y/Y | NO SEPARATE TREATMENT FOR KURDISTAN REGION APPLICANTS",
+    "heroMedia": "images/news/2026-10-08-e-eu-asylum-66-percent/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرارات",
+      "arabicHeading": "5,069 رفضاً كاملاً من 7,610 قرارات",
+      "arabicBody": "وكالة اللجوء الأوروبية لرووداو: في النصف الأول من 2026، بُتّ في 7,610 طلبات لعراقيين في الاتحاد الأوروبي والنرويج وسويسرا، رُفض منها 5,069 بالكامل.",
+      "bigStat": {
+        "value": "66.61%",
+        "label": "Share of Iraqi asylum decisions fully rejected in EU+ in H1 2026 (EUAA via Rudaw)",
+        "arabicLabel": "من القرارات رُفضت بالكامل"
+      },
+      "supportingStats": [
+        {
+          "label": "قرارات",
+          "value": "7,610"
+        },
+        {
+          "label": "رفض كامل",
+          "value": "5,069"
+        },
+        {
+          "label": "الفترة",
+          "value": "النصف الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-08-e-eu-asylum-66-percent/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-08-e-eu-asylum-66-percent/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "وكالة اللجوء الأوروبية",
+        "7,610 قرار",
+        "66.61% رفض"
+      ]
+    },
+    {
+      "label": "الطلبات الجديدة",
+      "arabicHeading": "4,670 عراقياً قدّموا.. بانخفاض 19%",
+      "arabicBody": "بحسب الوكالة، قدّم 4,670 عراقياً طلبات لجوء في الدول الأوروبية خلال الأشهر الستة الأولى من العام، بانخفاض 19% عن الفترة نفسها من العام الماضي.",
+      "bigStat": {
+        "value": "4,670",
+        "label": "New Iraqi asylum applications in EU+ in H1 2026, down 19% year on year (EUAA via Rudaw)",
+        "arabicLabel": "طلب لجوء جديد"
+      },
+      "supportingStats": [
+        {
+          "label": "التغير السنوي",
+          "value": "-19%"
+        },
+        {
+          "label": "كل الجنسيات",
+          "value": "332 ألف"
+        },
+        {
+          "label": "الفترة",
+          "value": "6 أشهر"
+        }
+      ],
+      "broll": "images/news/2026-10-08-e-eu-asylum-66-percent/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-08-e-eu-asylum-66-percent/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "4,670 طلب جديد",
+        "انخفاض 19%",
+        "خلال 6 أشهر"
+      ]
+    },
+    {
+      "label": "من قُبل؟",
+      "arabicHeading": "1,586 حصلوا على صفة لاجئ",
+      "arabicBody": "حصل 1,586 على صفة اللاجئ (20.84%)، و548 على حماية إنسانية ووطنية، و407 على حماية ثانوية. وتقول الوكالة إن طلبات إقليم كوردستان تُقيَّم دون تمييز.",
+      "bigStat": {
+        "value": "1,586",
+        "label": "Iraqis granted full refugee status in EU+ in H1 2026, 20.84% of decisions (EUAA via Rudaw)",
+        "arabicLabel": "حصلوا على صفة اللاجئ"
+      },
+      "supportingStats": [
+        {
+          "label": "صفة لاجئ",
+          "value": "20.84%"
+        },
+        {
+          "label": "حماية إنسانية",
+          "value": "548"
+        },
+        {
+          "label": "حماية ثانوية",
+          "value": "407"
+        }
+      ],
+      "broll": "images/news/2026-10-08-e-eu-asylum-66-percent/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-08-e-eu-asylum-66-percent/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "1,586 صفة لاجئ",
+        "548 حماية إنسانية",
+        "407 حماية ثانوية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وكالة اللجوء الأوروبية لرووداو: رفض 66.61% من قرارات لجوء العراقيين في النصف الأول من 2026",
+    "7,610 قراراً بينها 5,069 رفضاً كاملاً",
+    "4,670 طلباً جديداً بانخفاض 19% عن الفترة نفسها من العام الماضي",
+    "1,586 حصلوا على صفة اللاجئ و548 حماية إنسانية و407 حماية ثانوية",
+    "عندك أحد من أهلك قدّم لجوء بأوروبا؟"
+  ],
+  "endQuestion": "عندك أحد من أهلك قدّم لجوء بأوروبا؟",
+  "sources": [
+    {
+      "name": "وكالة الاتحاد الأوروبي للجوء",
+      "domain": "euaa.europa.eu"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

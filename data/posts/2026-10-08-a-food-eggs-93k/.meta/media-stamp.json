@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-08-a-food-eggs-93k",
+  "date": "2026-10-08",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 592812,
+      "sha256": "7d662d74cc268050"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1424859,
+      "sha256": "eb2810170e19bcb1"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 856993,
+      "sha256": "9e7912700bbffdd5"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1361784,
+      "sha256": "145c862917565ef7"
+    }
+  ]
+}

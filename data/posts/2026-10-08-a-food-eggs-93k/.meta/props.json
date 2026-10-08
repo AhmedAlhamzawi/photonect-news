@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 08 • 2026",
+  "arabicDateLabel": "8 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الأسعار",
+    "arabicHeadline": "صندوق البيض صار بـ93 ألف.. والحكومة تؤجل الرسوم الكمركية",
+    "englishSubhead": "BAGHDAD · OCT 8 | SHAFAQ NEWS MARKET CHECK: EGG CARTON (12 TRAYS) 84,000 -> 93,000 IQD, 'MAHMOUD' RICE 65,000 -> 72,000, SUGAR 26,000 -> 30,000 | PM ALI AL-ZAIDI'S OFFICE + MoF (VIA SHAFAQ, 964, RUDAW): CUSTOMS + TAX ON IMPORTED EGGS, CHICKEN, LIVE MEAT POSTPONED | IRAQ PHARMACISTS SYNDICATE: DRUG PRICING BUILT ON 1,320 IQD/$, ASKS TO KEEP IT FOR MEDICINE IMPORTS",
+    "heroMedia": "images/news/2026-10-08-a-food-eggs-93k/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السوق",
+      "arabicHeading": "صندوق البيض: من 84 إلى 93 ألفاً",
+      "arabicBody": "شفق نيوز: صندوق البيض (12 طبقة) ارتفع الخميس من 84 إلى 93 ألفاً، والرز «محمود» من 65 إلى 72 ألفاً، والسكر من 26 إلى 30 ألفاً.",
+      "bigStat": {
+        "value": "93,000",
+        "label": "IQD per 12-tray egg carton on Thursday, up from 84,000 (Shafaq News market check)",
+        "arabicLabel": "دينار لصندوق البيض"
+      },
+      "supportingStats": [
+        {
+          "label": "الرز «محمود»",
+          "value": "65 ← 72 ألف"
+        },
+        {
+          "label": "السكر",
+          "value": "26 ← 30 ألف"
+        },
+        {
+          "label": "البيض",
+          "value": "+10.7%"
+        }
+      ],
+      "broll": "images/news/2026-10-08-a-food-eggs-93k/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-08-a-food-eggs-93k/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "البيض: من 84 إلى 93 ألف",
+        "الرز «محمود» صار 72 ألف",
+        "السكر صار 30 ألف"
+      ]
+    },
+    {
+      "label": "قرار الحكومة",
+      "arabicHeading": "الزيدي يؤجل الرسوم الكمركية على البيض والدجاج",
+      "arabicBody": "وجّه رئيس الوزراء علي الزيدي بتأجيل استيفاء الرسوم الكمركية والضريبة على البيض والدجاج واللحوم الحية المستوردة، ووجّهت المالية هيئة الكمارك بالتنفيذ.",
+      "bigStat": {
+        "value": "3",
+        "label": "Imported staples whose customs + tax are postponed: eggs, chicken, live meat (PM office + MoF via Shafaq / 964 / Rudaw)",
+        "arabicLabel": "مواد أُجّلت رسومها"
+      },
+      "supportingStats": [
+        {
+          "label": "البيض",
+          "value": "تأجيل"
+        },
+        {
+          "label": "الدجاج",
+          "value": "تأجيل"
+        },
+        {
+          "label": "اللحوم الحية",
+          "value": "تأجيل"
+        }
+      ],
+      "broll": "images/news/2026-10-08-a-food-eggs-93k/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-08-a-food-eggs-93k/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "الزيدي: تأجيل الرسوم الكمركية",
+        "بيض ودجاج ولحوم حية مستوردة",
+        "المالية توجّه هيئة الكمارك"
+      ]
+    },
+    {
+      "label": "الدواء",
+      "arabicHeading": "الصيادلة: تسعيرة الدواء مبنية على 1,320",
+      "arabicBody": "نقابة صيادلة العراق تقول إن تسعيرة الأدوية مبنية على 1,320 ديناراً للدولار، وتطالب بالإبقاء على سعر الصرف الحالي لحوالات استيراد الأدوية ومستلزماتها.",
+      "bigStat": {
+        "value": "1,320",
+        "label": "IQD per dollar on which Iraq's drug-pricing system is built, per the Pharmacists Syndicate (via Shafaq)",
+        "arabicLabel": "دينار للدولار — أساس تسعيرة الأدوية"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي الجديد",
+          "value": "1,520"
+        },
+        {
+          "label": "الفئات",
+          "value": "مزمنون وكبار سن"
+        },
+        {
+          "label": "المطلب",
+          "value": "سعر الصرف الحالي"
+        }
+      ],
+      "broll": "images/news/2026-10-08-a-food-eggs-93k/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-08-a-food-eggs-93k/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة أرشيفية",
+      "subtitlePhrases": [
+        "نقابة الصيادلة تحذّر",
+        "تسعيرة الدواء على 1,320",
+        "وتطلب إبقاءه لاستيراد الأدوية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: صندوق البيض من 84 ألفاً إلى 93 ألف دينار الخميس",
+    "الرز «محمود» من 65 إلى 72 ألفاً والسكر من 26 إلى 30 ألفاً",
+    "الزيدي يوجه بتأجيل الرسوم الكمركية والضريبة على البيض والدجاج واللحوم الحية المستوردة",
+    "نقابة الصيادلة: تسعيرة الدواء مبنية على 1,320 وتطالب بإبقائه لحوالات استيراد الأدوية",
+    "شكد صار صندوق البيض عدكم؟"
+  ],
+  "endQuestion": "شكد صار صندوق البيض عدكم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "نقابة صيادلة العراق",
+      "domain": "shafaq.com"
+    }
+  ]
+}

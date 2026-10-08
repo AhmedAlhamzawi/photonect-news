@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-08-d-karbala-meter-bribe",
+  "date": "2026-10-08",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1611982,
+      "sha256": "3157889d723d412b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1419225,
+      "sha256": "0c8bee21842beb86"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 387978,
+      "sha256": "24e01af1344fcaf0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1555744,
+      "sha256": "1b84f2c721ae523a"
+    }
+  ]
+}

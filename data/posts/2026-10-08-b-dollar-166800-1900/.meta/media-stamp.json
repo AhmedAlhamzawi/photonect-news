@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-08-b-dollar-166800-1900",
+  "date": "2026-10-08",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 721362,
+      "sha256": "c29b94507fcbae7f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1150670,
+      "sha256": "bb7bc37098e2d0b7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 500219,
+      "sha256": "4e1e6ac24c5f012c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 812732,
+      "sha256": "b0131c6e98477729"
+    }
+  ]
+}
