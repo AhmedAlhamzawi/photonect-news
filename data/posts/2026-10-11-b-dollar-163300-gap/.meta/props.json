@@ -1,0 +1,156 @@
+{
+ "dateLabel": "OCT 11 • 2026",
+ "arabicDateLabel": "11 تشرين الأول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_cinematic.mp3",
+ "topicBucket": "iraq_money",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "الدولار اليوم",
+  "arabicHeadline": "الدولار 163,300.. والفرق عن الرسمي يضيق",
+  "englishSubhead": "BAGHDAD · OCT 11 | SHAFAQ: KIFAH/HARITHIYA 163,300 IQD PER $100 SUNDAY MORNING (VS 163,600 SATURDAY MORNING); BAGHDAD SHOPS SELL 163,750 / BUY 162,750; ERBIL SELL 163,100 | WED 7 OCT MORNING (DAY 1 OF NEW OFFICIAL 152,000): 168,500 (SHAFAQ) | GAP OVER OFFICIAL 16,500 → 11,300 (COMPUTED, MORNING VS MORNING) | ECONOMIST NABIL AL-MARSOUMI (FB VIA 964): STABILITY AT 1,600-1,630 PER $ MEANS LOWER GOODS PRICES, TRADERS ALREADY PRICED AT 1,600 | RUDAW (OCT 11): TRADERS AND CITIZENS COMPLAIN GOODS PRICES HAVE STARTED RISING",
+  "heroMedia": "images/news/2026-10-11-b-dollar-163300-gap/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "البورصة",
+   "arabicHeading": "الكفاح والحارثية: 163,300 صباح الأحد",
+   "arabicBody": "شفق نيوز: سجلت بورصتا الكفاح والحارثية 163,300 دينار لكل 100 دولار صباح الأحد، بعد 163,600 صباح السبت. محال بغداد تبيع بـ163,750 وتشتري بـ162,750.",
+   "bigStat": {
+    "value": "163,300",
+    "label": "IQD per $100 at Kifah/Harithiya on Sunday morning, from 163,600 Saturday morning (Shafaq News)",
+    "arabicLabel": "دينار لكل 100 دولار — الكفاح صباح الأحد"
+   },
+   "supportingStats": [
+    {
+     "label": "السبت صباحاً",
+     "value": "163,600"
+    },
+    {
+     "label": "بيع المحال",
+     "value": "163,750"
+    },
+    {
+     "label": "أربيل بيع",
+     "value": "163,100"
+    }
+   ],
+   "broll": "images/news/2026-10-11-b-dollar-163300-gap/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-10-11-b-dollar-163300-gap/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية",
+   "subtitlePhrases": [
+    "الكفاح: 163,300 صباح الأحد",
+    "بعد 163,600 السبت",
+    "المحال تبيع بـ163,750"
+   ]
+  },
+  {
+   "label": "الفجوة",
+   "arabicHeading": "من 16,500 إلى 11,300 فوق الرسمي",
+   "arabicBody": "صباح الأربعاء، أول أيام السعر الرسمي الجديد 152,000، سجلت الكفاح 168,500 (شفق نيوز). الفرق عن الرسمي نزل من 16,500 إلى 11,300 دينار (محتسب).",
+   "bigStat": {
+    "value": "11,300",
+    "label": "IQD above the official 152,000 per $100 on Sunday morning, down from 16,500 on Wednesday morning (computed from Shafaq figures)",
+    "arabicLabel": "دينار فوق الرسمي لكل 100 دولار (محتسب)"
+   },
+   "supportingStats": [
+    {
+     "label": "الأربعاء صباحاً",
+     "value": "168,500"
+    },
+    {
+     "label": "الرسمي",
+     "value": "152,000"
+    },
+    {
+     "label": "الأحد صباحاً",
+     "value": "163,300"
+    }
+   ],
+   "broll": "images/news/2026-10-11-b-dollar-163300-gap/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-10-11-b-dollar-163300-gap/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "ويكيميديا كومنز",
+   "subtitlePhrases": [
+    "الأربعاء: 168,500",
+    "الأحد: 163,300",
+    "الفرق نزل إلى 11,300"
+   ]
+  },
+  {
+   "label": "الأسعار",
+   "arabicHeading": "المرسومي: استقرار 1,600–1,630 يعني تراجع الأسعار",
+   "arabicBody": "الخبير نبيل المرسومي (فيسبوك، عبر 964): استقرار الدولار بين 1,600 و1,630 ديناراً يعني تراجع أسعار السلع، لأن التجار كانوا يسعّرون أصلاً على 1,600 قبل القرار.",
+   "bigStat": {
+    "value": "1,600",
+    "label": "IQD per dollar that traders were already pricing goods at before the rate change, per economist Nabil al-Marsoumi (via 964)",
+    "arabicLabel": "دينار للدولار — تسعيرة التجار قبل القرار (المرسومي)"
+   },
+   "supportingStats": [
+    {
+     "label": "نطاق الاستقرار",
+     "value": "1,600–1,630"
+    },
+    {
+     "label": "التوقع",
+     "value": "تراجع الأسعار"
+    },
+    {
+     "label": "المصدر",
+     "value": "المرسومي"
+    }
+   ],
+   "broll": "images/news/2026-10-11-b-dollar-163300-gap/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-10-11-b-dollar-163300-gap/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية",
+   "subtitlePhrases": [
+    "المرسومي: استقرار 1,600–1,630",
+    "يعني تراجع أسعار السلع",
+    "التجار سعّروا على 1,600"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "شفق نيوز: الكفاح والحارثية 163,300 دينار لكل 100 دولار صباح الأحد بعد 163,600 صباح السبت",
+  "محال بغداد: بيع 163,750 — شراء 162,750 | أربيل: بيع 163,100",
+  "الفرق عن السعر الرسمي 152,000 نزل من 16,500 صباح الأربعاء إلى 11,300 (محتسب)",
+  "المرسومي: استقرار الدولار بين 1,600 و1,630 يعني تراجع أسعار السلع",
+  "رووداو: تجار ومواطنون يشكون من ارتفاع أسعار السلع بعد تغيير سعر الصرف",
+  "الأسعار عدكم نزلت لو صعدت؟"
+ ],
+ "endQuestion": "الأسعار عدكم نزلت لو صعدت؟",
+ "sources": [
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  },
+  {
+   "name": "رووداو",
+   "domain": "rudawarabia.net"
+  },
+  {
+   "name": "نبيل المرسومي (فيسبوك عبر 964)",
+   "domain": "964media.com"
+  },
+  {
+   "name": "البنك المركزي العراقي",
+   "domain": "cbi.iq"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 11 • 2026",
+  "arabicDateLabel": "11 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السكن",
+    "arabicHeadline": "ما عندك بيت؟ 95 ألف قطعة أرض مجاناً",
+    "englishSubhead": "KARBALA/NAJAF · OCT 10 | PM ALI AL-ZAIDI LAUNCHED WORKS ON 95,000 RESIDENTIAL PLOTS UNDER THE 'WATAN' INITIATIVE: 60,000 IN KARBALA, 35,000 IN NAJAF (RUDAW, 964); NINEVEH NEXT | TARGET 1 MILLION PLOTS NATIONWIDE | PM OFFICE (VIA SHAFAQ): PLOTS FULLY FREE FOR EVERY FAMILY WHERE NO MEMBER OWNS A HOME OR PROPERTY | PLANNING MINISTRY (VIA SHAFAQ): ~104,000 FULLY INFORMAL HOUSING UNITS | ZAIDI: DEEDS NEXT, GOVT WILL HELP BUILD, 'COST THE BUDGET NOT ONE DINAR'",
+    "heroMedia": "images/news/2026-10-11-a-watan-95k-plots/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإطلاق",
+      "arabicHeading": "95 ألف قطعة.. كربلاء أولاً ثم النجف",
+      "arabicBody": "أطلق رئيس الوزراء علي الزيدي السبت العمل بـ95 ألف قطعة أرض سكنية: 60 ألفاً في كربلاء و35 ألفاً في النجف، ضمن «مبادرة وطن» (رووداو، 964).",
+      "bigStat": {
+        "value": "95,000",
+        "label": "Residential plots launched on Saturday in Karbala (60,000) and Najaf (35,000) under the Watan initiative (Rudaw / 964)",
+        "arabicLabel": "قطعة أرض سكنية في كربلاء والنجف"
+      },
+      "supportingStats": [
+        {
+          "label": "كربلاء",
+          "value": "60,000"
+        },
+        {
+          "label": "النجف",
+          "value": "35,000"
+        },
+        {
+          "label": "الهدف",
+          "value": "مليون قطعة"
+        }
+      ],
+      "broll": "images/news/2026-10-11-a-watan-95k-plots/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-11-a-watan-95k-plots/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "95 ألف قطعة أرض",
+        "60 ألفاً بكربلاء و35 ألفاً بالنجف",
+        "ضمن «مبادرة وطن»"
+      ]
+    },
+    {
+      "label": "من يشمل؟",
+      "arabicHeading": "الشرط: ألا يملك أحد في عائلتك سكناً",
+      "arabicBody": "مكتب رئيس الوزراء لشفق نيوز: القطع مجانية لكل عائلة لا يملك أي من أفرادها سكناً أو عقاراً. ووزارة التخطيط تحصي نحو 104 آلاف وحدة سكنية عشوائية.",
+      "bigStat": {
+        "value": "104,000",
+        "label": "Fully informal housing units counted by the Planning Ministry (via Shafaq News)",
+        "arabicLabel": "وحدة سكنية عشوائية — وزارة التخطيط"
+      },
+      "supportingStats": [
+        {
+          "label": "السعر",
+          "value": "مجاناً"
+        },
+        {
+          "label": "الشرط",
+          "value": "بلا سكن أو عقار"
+        },
+        {
+          "label": "العشوائيات",
+          "value": "104 آلاف"
+        }
+      ],
+      "broll": "images/news/2026-10-11-a-watan-95k-plots/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-11-a-watan-95k-plots/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "القطع مجانية بالكامل",
+        "لكل عائلة لا تملك سكناً",
+        "104 آلاف وحدة عشوائية"
+      ]
+    },
+    {
+      "label": "الوعد",
+      "arabicHeading": "السندات بعد الأرض.. ونينوى المحطة التالية",
+      "arabicBody": "الزيدي: المرحلة المقبلة توزيع السندات، والحكومة ستساعد في البناء، والمبادرة «لم تكلف الموازنة ديناراً واحداً» بتعاون رجال أعمال. نينوى المحطة التالية (رووداو، 964).",
+      "bigStat": {
+        "value": "1,000,000",
+        "label": "Residential plots targeted nationwide by the Watan initiative (PM office via Rudaw / 964)",
+        "arabicLabel": "قطعة أرض هدف المبادرة في عموم العراق"
+      },
+      "supportingStats": [
+        {
+          "label": "التالي",
+          "value": "نينوى"
+        },
+        {
+          "label": "بعدها",
+          "value": "السندات"
+        },
+        {
+          "label": "الموازنة",
+          "value": "لا كلفة (الزيدي)"
+        }
+      ],
+      "broll": "images/news/2026-10-11-a-watan-95k-plots/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-11-a-watan-95k-plots/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ويكيميديا كومنز",
+      "subtitlePhrases": [
+        "الزيدي: السندات قادمة",
+        "والحكومة تساعد بالبناء",
+        "«لم تكلف الموازنة ديناراً»"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الزيدي يطلق العمل بـ95 ألف قطعة أرض سكنية في كربلاء والنجف ضمن «مبادرة وطن» (رووداو، 964)",
+    "كربلاء 60 ألف قطعة — النجف 35 ألفاً — ونينوى المحطة التالية",
+    "مكتب رئيس الوزراء: القطع مجانية لكل عائلة لا يملك أي من أفرادها سكناً أو عقاراً (شفق نيوز)",
+    "وزارة التخطيط: نحو 104 آلاف وحدة سكنية عشوائية بالكامل",
+    "ساكن ملك لو إيجار؟"
+  ],
+  "endQuestion": "ساكن ملك لو إيجار؟",
+  "sources": [
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "مكتب رئيس الوزراء",
+      "domain": "pmo.iq"
+    }
+  ]
+}

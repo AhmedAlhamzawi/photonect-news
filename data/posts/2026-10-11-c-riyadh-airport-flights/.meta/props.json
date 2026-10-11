@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 11 • 2026",
+  "arabicDateLabel": "11 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "السعودية",
+    "arabicHeadline": "مطار الرياض: 12 قتيلاً.. وبغداد تدين",
+    "englishSubhead": "RIYADH · OCT 10-11 | SAUDI GACA: ATTACK ON KING KHALID INTERNATIONAL AIRPORT SATURDAY KILLED 12 (4 SAUDIS, 8 RESIDENTS) AND INJURED 309; OPERATIONS TEMPORARILY SUSPENDED | REUTERS (VIA 964): THIRD ATTACK ON THE AIRPORT IN DAYS AMID HOUTHI MISSILE ESCALATION; ETIHAD + QATAR AIRWAYS CANCELLED RIYADH FLIGHTS | COALITION SPOKESMAN TURKI AL-MALIKI (VIA RUDAW): PROJECTILE FELL NEAR DAMMAM AIRPORT | US SECRETARY OF STATE RUBIO CONDEMNED HOUTHI ATTACKS | IRAQI COMMANDER-IN-CHIEF'S SPOKESMAN SABAH AL-NUMAN: REJECTS TARGETING CIVILIANS, CALLS FOR A COMPREHENSIVE HALT TO MILITARY ACTION | PM AL-ZAIDI TOURS SAUDI ARABIA + KUWAIT WEDNESDAY (SHAFAQ)",
+    "heroMedia": "images/news/2026-10-11-c-riyadh-airport-flights/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الرياض",
+      "arabicHeading": "12 قتيلاً و309 مصابين بمطار الملك خالد",
+      "arabicBody": "هيئة الطيران المدني السعودي: هجوم السبت على مطار الملك خالد قتل 12 بينهم 4 سعوديين وأصاب 309، وعُلّقت العمليات مؤقتاً. روبيو أدان «هجمات الحوثيين» (رووداو، 964).",
+      "bigStat": {
+        "value": "12",
+        "label": "Killed in Saturday's attack on Riyadh's King Khalid International Airport, per Saudi civil aviation authority (via Rudaw / 964)",
+        "arabicLabel": "قتيلاً — هيئة الطيران المدني السعودي"
+      },
+      "supportingStats": [
+        {
+          "label": "المصابون",
+          "value": "309"
+        },
+        {
+          "label": "سعوديون",
+          "value": "4"
+        },
+        {
+          "label": "المطار",
+          "value": "عمليات معلّقة"
+        }
+      ],
+      "broll": "images/news/2026-10-11-c-riyadh-airport-flights/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-11-c-riyadh-airport-flights/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "12 قتيلاً و309 مصابين",
+        "عمليات المطار معلّقة مؤقتاً",
+        "روبيو يدين «هجمات الحوثيين»"
+      ]
+    },
+    {
+      "label": "الأجواء",
+      "arabicHeading": "الهجوم الثالث خلال أيام.. والدمام أيضاً",
+      "arabicBody": "الهجوم الثالث على المطار خلال أيام (رويترز). وسقط مقذوف قرب مطار الدمام بحسب التحالف، والاتحاد والقطرية ألغتا رحلات إلى الرياض (رووداو، 964).",
+      "bigStat": {
+        "value": "3",
+        "label": "Attacks on Riyadh's airport within days, per Reuters (via 964) and Shafaq News",
+        "arabicLabel": "هجمات على مطار الرياض خلال أيام — رويترز"
+      },
+      "supportingStats": [
+        {
+          "label": "الدمام",
+          "value": "مقذوف قرب المطار"
+        },
+        {
+          "label": "الاتحاد والقطرية",
+          "value": "رحلات ملغاة"
+        },
+        {
+          "label": "البديل",
+          "value": "جدة والدمام"
+        }
+      ],
+      "broll": "images/news/2026-10-11-c-riyadh-airport-flights/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-11-c-riyadh-airport-flights/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الهجوم الثالث خلال أيام",
+        "مقذوف قرب مطار الدمام",
+        "شركات طيران تلغي رحلاتها"
+      ]
+    },
+    {
+      "label": "بغداد",
+      "arabicHeading": "بغداد تدين.. والزيدي إلى السعودية الأربعاء",
+      "arabicBody": "بيان صباح النعمان: العراق يرفض استهداف المدنيين ويدعو لوقف شامل للأعمال العسكرية. والزيدي يزور السعودية والكويت الأربعاء، ومصدر حكومي لشفق: أنبوب ينبع على الطاولة.",
+      "bigStat": {
+        "value": "14",
+        "label": "October (Wednesday): PM Ali al-Zaidi's Gulf tour to Saudi Arabia then Kuwait (Shafaq News)",
+        "arabicLabel": "تشرين الأول — جولة الزيدي الخليجية (الأربعاء)"
+      },
+      "supportingStats": [
+        {
+          "label": "البيان",
+          "value": "وقف شامل"
+        },
+        {
+          "label": "الجولة",
+          "value": "السعودية والكويت"
+        },
+        {
+          "label": "الملف",
+          "value": "أنبوب ينبع"
+        }
+      ],
+      "broll": "images/news/2026-10-11-c-riyadh-airport-flights/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-11-c-riyadh-airport-flights/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "بغداد: نرفض استهداف المدنيين",
+        "الزيدي إلى الرياض الأربعاء",
+        "أنبوب ينبع على الطاولة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "هيئة الطيران المدني السعودي: 12 قتيلاً و309 مصابين في هجوم مطار الملك خالد بالرياض",
+    "رويترز: الهجوم الثالث على المطار خلال أيام.. والاتحاد والقطرية تلغيان رحلات",
+    "التحالف: سقوط مقذوف قرب مطار الملك فهد بالدمام (رووداو)",
+    "بغداد: نرفض استهداف المدنيين وندعو لوقف شامل للأعمال العسكرية",
+    "عندك سفرة بالطيارة قريباً؟"
+  ],
+  "endQuestion": "عندك سفرة بالطيارة قريباً؟",
+  "sources": [
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "رويترز (عبر 964)",
+      "domain": "reuters.com"
+    }
+  ]
+}

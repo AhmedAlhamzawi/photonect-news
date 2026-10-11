@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 11 • 2026",
+  "arabicDateLabel": "11 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الخدمات",
+    "arabicHeadline": "قرابة ثلث العراقيين بلا جمع نفايات",
+    "englishSubhead": "IRAQ · OCT 11 | CENTRAL STATISTICS ORGANISATION ENVIRONMENT REPORT (OBTAINED BY RUDAW): WASTE COLLECTION COVERS 68.6% OF IRAQ'S POPULATION, 31.4% WITHOUT | CITIES 93.5% VS VILLAGES 16% | PROVINCE CENTRES: KIRKUK 100%, DHI QAR 99.2%, BAGHDAD 98.8% ... DIWANIYA LAST AT 76.6% | ONE OPERATING RECYCLING PLANT (YUSUFIYA) | 55 OF 60 TRANSFER STATIONS LACK ENVIRONMENTAL APPROVAL | DIWANIYA COUNCIL'S ZAINAB AL-ABIDI: NO STANDARD LANDFILL, DUMPS 30-35 KM AWAY",
+    "heroMedia": "images/news/2026-10-11-e-waste-third-uncollected/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الصورة",
+      "arabicHeading": "31.4% من السكان بلا جمع نفايات",
+      "arabicBody": "تقرير الجهاز المركزي للإحصاء (حصلت عليه رووداو): خدمة جمع النفايات تغطي 68.6% من سكان العراق، أي أن 31.4%، قرابة الثلث، محرومون منها.",
+      "bigStat": {
+        "value": "31.4%",
+        "label": "Share of Iraq's population without waste collection, per the Central Statistics Organisation (via Rudaw)",
+        "arabicLabel": "من السكان بلا خدمة جمع نفايات"
+      },
+      "supportingStats": [
+        {
+          "label": "التغطية",
+          "value": "68.6%"
+        },
+        {
+          "label": "المحرومون",
+          "value": "31.4%"
+        },
+        {
+          "label": "المصدر",
+          "value": "الإحصاء"
+        }
+      ],
+      "broll": "images/news/2026-10-11-e-waste-third-uncollected/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-11-e-waste-third-uncollected/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "68.6% فقط مشمولون",
+        "31.4% بلا خدمة",
+        "قرابة الثلث"
+      ]
+    },
+    {
+      "label": "القرى",
+      "arabicHeading": "المدن 93.5%.. والقرى 16% فقط",
+      "arabicBody": "التغطية 93.5% في المدن مقابل 16% في القرى، أي أن 84% من سكان القرى بلا خدمة. ومعمل تدوير واحد فقط يعمل فعلياً، في اليوسفية ببغداد.",
+      "bigStat": {
+        "value": "16%",
+        "label": "Waste-collection coverage in Iraq's villages vs 93.5% in cities (Central Statistics Organisation via Rudaw)",
+        "arabicLabel": "تغطية جمع النفايات في القرى"
+      },
+      "supportingStats": [
+        {
+          "label": "المدن",
+          "value": "93.5%"
+        },
+        {
+          "label": "القرى",
+          "value": "16%"
+        },
+        {
+          "label": "معامل التدوير",
+          "value": "1 يعمل"
+        }
+      ],
+      "broll": "images/news/2026-10-11-e-waste-third-uncollected/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-11-e-waste-third-uncollected/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "المدن 93.5%",
+        "القرى 16% فقط",
+        "معمل تدوير واحد يعمل"
+      ]
+    },
+    {
+      "label": "المحافظات",
+      "arabicHeading": "كركوك 100%.. والديوانية الأخيرة 76.6%",
+      "arabicBody": "كركوك أولى بـ100% (بلديتها: عقد مع شركتين خاصتين)، والديوانية أخيرة بـ76.6%. زينب العابدي من مجلسها: لا موقع طمر نموذجي، والمكبات تبعد أكثر من 30 كم.",
+      "bigStat": {
+        "value": "76.6%",
+        "label": "Waste-collection coverage in Diwaniya's city centre, last among province centres (CSO via Rudaw)",
+        "arabicLabel": "تغطية مركز الديوانية — الأخيرة"
+      },
+      "supportingStats": [
+        {
+          "label": "كركوك",
+          "value": "100%"
+        },
+        {
+          "label": "ذي قار",
+          "value": "99.2%"
+        },
+        {
+          "label": "الديوانية",
+          "value": "76.6%"
+        }
+      ],
+      "broll": "images/news/2026-10-11-e-waste-third-uncollected/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-11-e-waste-third-uncollected/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "كركوك 100%",
+        "الديوانية الأخيرة 76.6%",
+        "المكبات تبعد أكثر من 30 كم"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الجهاز المركزي للإحصاء: جمع النفايات يغطي 68.6% من سكان العراق.. و31.4% بلا خدمة (رووداو)",
+    "المدن 93.5% مقابل 16% فقط في القرى",
+    "كركوك أولاً بـ100%.. والديوانية أخيرة بـ76.6%",
+    "55 من أصل 60 محطة وسيطة لنقل النفايات بلا موافقات بيئية",
+    "تجي سيارة النفايات لشارعكم؟"
+  ],
+  "endQuestion": "تجي سيارة النفايات لشارعكم؟",
+  "sources": [
+    {
+      "name": "الجهاز المركزي للإحصاء (عبر رووداو)",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "بلدية كركوك",
+      "domain": "rudawarabia.net"
+    },
+    {
+      "name": "مجلس محافظة الديوانية",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

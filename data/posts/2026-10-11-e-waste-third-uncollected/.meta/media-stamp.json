@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-11-e-waste-third-uncollected",
+  "date": "2026-10-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 934437,
+      "sha256": "2f908f8466ad5704"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1445880,
+      "sha256": "00d6b9c8eccb11f7"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1386751,
+      "sha256": "400a2b9ebafe5517"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1486658,
+      "sha256": "858a3ee3efc2dfa3"
+    }
+  ]
+}

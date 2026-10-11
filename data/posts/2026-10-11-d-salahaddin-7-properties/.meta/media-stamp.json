@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-11-d-salahaddin-7-properties",
+  "date": "2026-10-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1033636,
+      "sha256": "b0419d63dddc9b0f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1495762,
+      "sha256": "c4d1f68da36b5e53"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 655854,
+      "sha256": "5998fbe956ccb1e5"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1270457,
+      "sha256": "98c55cdfcd35ab49"
+    }
+  ]
+}

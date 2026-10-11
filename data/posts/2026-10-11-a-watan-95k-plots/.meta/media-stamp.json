@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-11-a-watan-95k-plots",
+  "date": "2026-10-11",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1176092,
+      "sha256": "464aaf43561494f0"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1471197,
+      "sha256": "4059424578d17f89"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 350664,
+      "sha256": "ae46ea6f8692139e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1757392,
+      "sha256": "b6828ec7e1f46bfa"
+    }
+  ]
+}

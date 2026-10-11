@@ -1,0 +1,147 @@
+{
+ "dateLabel": "OCT 11 • 2026",
+ "arabicDateLabel": "11 تشرين الأول 2026",
+ "handle": "@photonect.news",
+ "audioBed": "audio/mood_newsroom.mp3",
+ "topicBucket": "iraq_corruption",
+ "variant": "B",
+ "breaking": {
+  "arabicKicker": "النزاهة",
+  "arabicHeadline": "7 عقارات جديدة مرتبطة بمدير حسابات موقوف",
+  "englishSubhead": "SALAHADDIN · OCT 11 | FEDERAL INTEGRITY COMMISSION (VIA SHAFAQ, 964): TEAM SEARCHED THE AL-ALAM HOME OF THE DETAINED FORMER HEAD OF ACCOUNTS AT SALAHADDIN GOVERNORATE; SEIZED FILES OF 3 HOUSES (2 IN HIS WIFE'S NAME, 1 HIS) + 4 PROPERTY DEEDS IN NAMES OF WIFE, HER BROTHER, A SON | LATE JULY: 2.5BN IQD SEIZED AT HIS HOME + 6 INVESTMENT PROPERTIES IN WIFE'S NAME | DETAINED UNDER ARTICLE 340 OVER A 425M IQD CHEQUE BASED ON FICTITIOUS DOCUMENTS | UNDER INVESTIGATION, NO CONVICTION",
+  "heroMedia": "images/news/2026-10-11-d-salahaddin-7-properties/hero.jpg",
+  "heroMediaType": "image"
+ },
+ "beats": [
+  {
+   "label": "الكشف",
+   "arabicHeading": "النزاهة: 7 عقارات جديدة باسمه وبأسماء عائلته",
+   "arabicBody": "هيئة النزاهة فتّشت دار مدير الحسابات السابق في ديوان صلاح الدين الموقوف بقضاء العلم، وضبطت أضابير 3 دور، اثنتان باسم زوجته والثالثة باسمه (شفق نيوز، 964).",
+   "bigStat": {
+    "value": "7",
+    "label": "New properties uncovered, per the Federal Integrity Commission (via Shafaq / 964)",
+    "arabicLabel": "عقارات جديدة — هيئة النزاهة"
+   },
+   "supportingStats": [
+    {
+     "label": "دور سكنية",
+     "value": "3"
+    },
+    {
+     "label": "سندات عقارية",
+     "value": "4"
+    },
+    {
+     "label": "المكان",
+     "value": "قضاء العلم"
+    }
+   ],
+   "broll": "images/news/2026-10-11-d-salahaddin-7-properties/broll_1.jpg",
+   "brolls": [
+    "images/news/2026-10-11-d-salahaddin-7-properties/broll_1.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية",
+   "subtitlePhrases": [
+    "7 عقارات جديدة",
+    "تفتيش دار في قضاء العلم",
+    "داران باسم الزوجة"
+   ]
+  },
+  {
+   "label": "السندات",
+   "arabicHeading": "4 سندات بأسماء الزوجة وشقيقها والابن",
+   "arabicBody": "وضبط أربعة سندات عقارية بأسماء الزوجة وشقيقها وأحد الأبناء. وفي تموز ضبطت الهيئة 2.5 مليار دينار بمنزله وستة عقارات استثمارية باسم زوجته.",
+   "bigStat": {
+    "value": "2.5",
+    "label": "Billion IQD seized at his home in late July, per the Integrity Commission",
+    "arabicLabel": "مليار دينار ضُبطت بمنزله في تموز — النزاهة"
+   },
+   "supportingStats": [
+    {
+     "label": "تموز",
+     "value": "2.5 مليار دينار"
+    },
+    {
+     "label": "عقارات استثمارية",
+     "value": "6"
+    },
+    {
+     "label": "الحالة",
+     "value": "قيد التحقيق"
+    }
+   ],
+   "broll": "images/news/2026-10-11-d-salahaddin-7-properties/broll_2.jpg",
+   "brolls": [
+    "images/news/2026-10-11-d-salahaddin-7-properties/broll_2.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية",
+   "subtitlePhrases": [
+    "4 سندات بأسماء العائلة",
+    "تموز: 2.5 مليار بالمنزل",
+    "و6 عقارات استثمارية"
+   ]
+  },
+  {
+   "label": "التهمة",
+   "arabicHeading": "التهمة: صكّ بـ425 مليون دينار على أوليات وهمية",
+   "arabicBody": "الهيئة تقول إن المتهم موقوف وفق المادة 340 عقوبات بتهمة تنظيم وصرف صكّ بـ425 مليون دينار استناداً إلى أوليات وهمية. القضية بالتحقيق ولم تصدر إدانة.",
+   "bigStat": {
+    "value": "425M",
+    "label": "IQD cheque he is accused of issuing on fictitious documents, per the Integrity Commission",
+    "arabicLabel": "دينار قيمة الصك — بحسب النزاهة"
+   },
+   "supportingStats": [
+    {
+     "label": "المادة",
+     "value": "340 عقوبات"
+    },
+    {
+     "label": "الحالة",
+     "value": "موقوف"
+    },
+    {
+     "label": "الحكم",
+     "value": "لا إدانة بعد"
+    }
+   ],
+   "broll": "images/news/2026-10-11-d-salahaddin-7-properties/broll_3.jpg",
+   "brolls": [
+    "images/news/2026-10-11-d-salahaddin-7-properties/broll_3.jpg"
+   ],
+   "brollType": "image",
+   "accent": "#FFC217",
+   "brollSource": "صورة توضيحية",
+   "subtitlePhrases": [
+    "صك بـ425 مليون دينار",
+    "على أوليات وهمية",
+    "القضية بالتحقيق ولا إدانة"
+   ]
+  }
+ ],
+ "arabicTicker": [
+  "النزاهة: ضبط 7 عقارات جديدة باسم مدير حسابات صلاح الدين السابق الموقوف وزوجته وشقيقها وابنه (شفق نيوز، 964)",
+  "أضابير 3 دور في مجمعات سكنية و4 سندات عقارية بأسماء الزوجة وشقيقها وأحد الأبناء",
+  "تموز الماضي: ضبط 2.5 مليار دينار في منزله و6 عقارات استثمارية باسم زوجته",
+  "التهمة بحسب الهيئة: صك بـ425 مليون دينار على أوليات وهمية — ولم تصدر إدانة",
+  "بلّغت عن فساد قبل؟"
+ ],
+ "endQuestion": "بلّغت عن فساد قبل؟",
+ "sources": [
+  {
+   "name": "هيئة النزاهة الاتحادية",
+   "domain": "nazaha.iq"
+  },
+  {
+   "name": "شفق نيوز",
+   "domain": "shafaq.com"
+  },
+  {
+   "name": "شبكة 964",
+   "domain": "964media.com"
+  }
+ ]
+}
