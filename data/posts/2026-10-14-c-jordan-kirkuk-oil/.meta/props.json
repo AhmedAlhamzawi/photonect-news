@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 14 • 2026",
+  "arabicDateLabel": "14 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق والأردن",
+    "arabicHeadline": "نفط كركوك توقف عن الأردن.. ويصل جيهان التركي",
+    "englishSubhead": "BAGHDAD · OCT 14 | 964: IRAQI KIRKUK CRUDE SUPPLY TO JORDAN HALTED SINCE EARLY THIS YEAR; OIL MINISTRY CITES INSUFFICIENT KIRKUK LIGHT AND BASRA MEDIUM UNSUITED TO JORDANIAN REFINERIES | SOMO DATA (VIA 964): ~1.76M BARRELS OF KIRKUK CRUDE TO TURKEY'S CEYHAN IN AUGUST (~56K BPD) + 2.17M BARRELS OF KURDISTAN OIL | JORDAN USED TO GET 10-15K BPD AT BRENT MINUS $16: $7.75 TRANSPORT, $3.40 QUALITY, $4.76 JORDANIAN TREASURY SAVING (964; SHAFAQ CITING JORDANIAN OFFICIAL FIGURES) | EXPERT SADIQ AL-RIKABI (964): DEEP DISCOUNT QUESTIONS THE DEAL'S FEASIBILITY",
+    "heroMedia": "images/news/2026-10-14-c-jordan-kirkuk-oil/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التوقف",
+      "arabicHeading": "تجهيز الأردن متوقف منذ بداية السنة",
+      "arabicBody": "شبكة 964: نفط كركوك للأردن متوقف منذ مطلع العام. وزارة النفط تقول إن خام كركوك الخفيف غير متوفر بالكميات المطلوبة، وخام البصرة لا يناسب المصافي الأردنية.",
+      "bigStat": {
+        "value": "15,000",
+        "label": "Barrels per day of Kirkuk crude Jordan used to receive (upper bound of 10,000-15,000, via 964 / Shafaq)",
+        "arabicLabel": "برميل يومياً كان يصل الأردن (الحد الأعلى)"
+      },
+      "supportingStats": [
+        {
+          "label": "الكمية",
+          "value": "10–15 ألف ب/ي"
+        },
+        {
+          "label": "التوقف",
+          "value": "مطلع 2026"
+        },
+        {
+          "label": "السبب الرسمي",
+          "value": "نقص الخام"
+        }
+      ],
+      "broll": "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "نفط كركوك للأردن متوقف",
+        "وزارة النفط: الكميات غير متوفرة",
+        "وخام البصرة لا يناسب مصافيه"
+      ]
+    },
+    {
+      "label": "جيهان",
+      "arabicHeading": "بينما 1.76 مليون برميل من كركوك راحت لتركيا",
+      "arabicBody": "بيانات «سومو» عبر 964: نحو 1.76 مليون برميل من خام كركوك صُدّرت إلى جيهان التركي في آب، بمعدل يقارب 56 ألف برميل يومياً.",
+      "bigStat": {
+        "value": "1.76M",
+        "label": "Barrels of Kirkuk crude exported to Turkey's Ceyhan in August, per SOMO data (via 964)",
+        "arabicLabel": "برميل من خام كركوك إلى جيهان في آب — سومو"
+      },
+      "supportingStats": [
+        {
+          "label": "آب",
+          "value": "1.76 مليون برميل"
+        },
+        {
+          "label": "المعدل",
+          "value": "~56 ألف ب/ي"
+        },
+        {
+          "label": "نفط الإقليم",
+          "value": "2.17 مليون"
+        }
+      ],
+      "broll": "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "1.76 مليون برميل لجيهان",
+        "بآب وحده",
+        "نحو 56 ألف برميل يومياً"
+      ]
+    },
+    {
+      "label": "المعادلة",
+      "arabicHeading": "برنت ناقص 16 دولاراً.. وين يروح الخصم؟",
+      "arabicBody": "عقد الأردن: برنت ناقص 16 دولاراً، منها 7.75 نقل و3.40 نوعية و4.76 وفر لخزينته (964، شفق). والخبير صادق الركابي يرى الخصم يضع جدوى الاتفاق موضع تساؤل.",
+      "bigStat": {
+        "value": "$16",
+        "label": "Per-barrel discount below Brent in the Iraq–Jordan crude formula (964 / Shafaq, citing Jordanian official figures)",
+        "arabicLabel": "دولاراً خصم للبرميل عن برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "النقل",
+          "value": "7.75$"
+        },
+        {
+          "label": "فرق النوعية",
+          "value": "3.40$"
+        },
+        {
+          "label": "وفر الأردن",
+          "value": "4.76$"
+        }
+      ],
+      "broll": "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-14-c-jordan-kirkuk-oil/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "برنت ناقص 16 دولاراً",
+        "7.75 نقل و3.40 نوعية",
+        "و4.76 وفر للخزينة الأردنية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شبكة 964: تجهيز الأردن بنفط كركوك متوقف منذ مطلع العام",
+    "وزارة النفط: خام كركوك الخفيف غير متوفر بالكميات المطلوبة وخام البصرة لا يناسب المصافي الأردنية",
+    "سومو: نحو 1.76 مليون برميل من خام كركوك إلى جيهان التركي في آب",
+    "معادلة الأردن: برنت ناقص 16 دولاراً — 7.75 نقل، 3.40 نوعية، 4.76 وفر للخزينة الأردنية",
+    "شفت صهاريج نفط على طريق الأردن؟"
+  ],
+  "endQuestion": "شفت صهاريج نفط على طريق الأردن؟",
+  "sources": [
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "سومو (عبر 964)",
+      "domain": "somooil.gov.iq"
+    },
+    {
+      "name": "وزارة النفط",
+      "domain": "oil.gov.iq"
+    }
+  ]
+}

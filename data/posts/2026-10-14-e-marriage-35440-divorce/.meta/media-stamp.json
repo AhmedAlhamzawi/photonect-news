@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-14-e-marriage-35440-divorce",
+  "date": "2026-10-14",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 505055,
+      "sha256": "0713880dba260d28"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1230491,
+      "sha256": "2915c4069ed96943"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 840049,
+      "sha256": "4fc1b0cb1af5e9cc"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1077158,
+      "sha256": "dbef89f2f1d7db6e"
+    }
+  ]
+}

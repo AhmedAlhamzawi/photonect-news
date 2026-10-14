@@ -1,0 +1,151 @@
+{
+  "dateLabel": "OCT 14 • 2026",
+  "arabicDateLabel": "14 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الأسعار",
+    "arabicHeadline": "أكلك ودواك المستورد بلا كمرك.. وبأثر رجعي",
+    "englishSubhead": "BAGHDAD · OCT 13 | IRAQ'S CABINET (23RD REGULAR SESSION, CHAIRED BY PM ALI AL-ZAIDI) EXEMPTED IMPORTED FOOD AND MEDICINES FROM CUSTOMS DUTIES, EFFECTIVE RETROACTIVELY FROM 7 OCTOBER 2026 (PM MEDIA OFFICE VIA SHAFAQ, 964, RUDAW) | STATED AIM: PROTECT FOOD AND HEALTH SECURITY | LAST THURSDAY ZAIDI ORDERED CUSTOMS + TAX ON IMPORTED EGGS, CHICKEN AND LIVE MEAT POSTPONED | SHAFAQ: FOOD PRICES ROSE NOTICEABLY AFTER THE OFFICIAL RATE WAS RAISED TO 1,520 IQD/$",
+    "heroMedia": "images/news/2026-10-14-a-customs-food-medicine/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "مجلس الوزراء: لا رسوم كمركية على الأغذية والأدوية",
+      "arabicBody": "قرر مجلس الوزراء مساء الثلاثاء، برئاسة علي الزيدي، إعفاء المواد الغذائية والأدوية المستوردة من الرسوم الكمركية، «لحماية الأمن الغذائي والصحي» (شفق نيوز، 964، رووداو).",
+      "bigStat": {
+        "value": "0",
+        "label": "Customs duty on imported food and medicines after the cabinet decision of 13 October (PM media office via Shafaq / 964 / Rudaw)",
+        "arabicLabel": "رسوم كمركية على الأغذية والأدوية المستوردة"
+      },
+      "supportingStats": [
+        {
+          "label": "يشمل",
+          "value": "الأغذية"
+        },
+        {
+          "label": "ويشمل",
+          "value": "الأدوية"
+        },
+        {
+          "label": "الجلسة",
+          "value": "23"
+        }
+      ],
+      "broll": "images/news/2026-10-14-a-customs-food-medicine/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-14-a-customs-food-medicine/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "إعفاء من الرسوم الكمركية",
+        "الأغذية والأدوية المستوردة",
+        "«لحماية الأمن الغذائي والصحي»"
+      ]
+    },
+    {
+      "label": "التوقيت",
+      "arabicHeading": "بأثر رجعي.. من 7 تشرين الأول",
+      "arabicBody": "الإعفاء يسري ابتداءً من 7 تشرين الأول، اليوم الذي بدأ فيه السعر الرسمي الجديد 1,520 ديناراً للدولار. وشفق نيوز رصدت ارتفاعاً ملحوظاً بأسعار مواد غذائية بعده.",
+      "bigStat": {
+        "value": "7",
+        "label": "October — the exemption applies retroactively from 7 October 2026, the first day of the new official rate (PM media office)",
+        "arabicLabel": "تشرين الأول — بداية الإعفاء بأثر رجعي"
+      },
+      "supportingStats": [
+        {
+          "label": "يبدأ من",
+          "value": "7 تشرين الأول"
+        },
+        {
+          "label": "السعر الرسمي",
+          "value": "1,520"
+        },
+        {
+          "label": "الأسعار",
+          "value": "ارتفعت"
+        }
+      ],
+      "broll": "images/news/2026-10-14-a-customs-food-medicine/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-14-a-customs-food-medicine/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "يسري من 7 تشرين الأول",
+        "يوم بدء السعر الرسمي 1,520",
+        "والأسعار ارتفعت بعده"
+      ]
+    },
+    {
+      "label": "قبلها",
+      "arabicHeading": "الخميس الماضي: البيض والدجاج أولاً",
+      "arabicBody": "وكان الزيدي وجّه الخميس الماضي بتأجيل الرسوم الكمركية والضريبة على البيض والدجاج واللحوم الحية المستوردة، لتوفيرها «بأسعار مناسبة» (شفق نيوز).",
+      "bigStat": {
+        "value": "1,520",
+        "label": "IQD per dollar — the new official rate in force since 7 October (CBI)",
+        "arabicLabel": "دينار للدولار — السعر الرسمي الجديد"
+      },
+      "supportingStats": [
+        {
+          "label": "البيض",
+          "value": "تأجيل الرسوم"
+        },
+        {
+          "label": "الدجاج",
+          "value": "تأجيل الرسوم"
+        },
+        {
+          "label": "اللحوم الحية",
+          "value": "تأجيل الرسوم"
+        }
+      ],
+      "broll": "images/news/2026-10-14-a-customs-food-medicine/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-14-a-customs-food-medicine/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ويكيميديا كومنز",
+      "subtitlePhrases": [
+        "الخميس: تأجيل رسوم البيض والدجاج",
+        "واللحوم الحية المستوردة",
+        "والثلاثاء: كل الأغذية والأدوية"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مجلس الوزراء يعفي المواد الغذائية والأدوية المستوردة من الرسوم الكمركية (شفق نيوز، 964، رووداو)",
+    "الإعفاء يسري بأثر رجعي ابتداءً من 7 تشرين الأول 2026",
+    "الهدف بحسب البيان الحكومي: حماية الأمن الغذائي والصحي",
+    "الخميس الماضي: تأجيل الرسوم والضريبة على البيض والدجاج واللحوم الحية المستوردة",
+    "تشتري دواء مستورد كل شهر؟"
+  ],
+  "endQuestion": "تشتري دواء مستورد كل شهر؟",
+  "sources": [
+    {
+      "name": "مكتب رئيس الوزراء",
+      "domain": "pmo.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "رووداو",
+      "domain": "rudawarabia.net"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 14 • 2026",
+  "arabicDateLabel": "14 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "احذر",
+    "arabicHeadline": "متقاعد؟ انتبه لقرض باسمك وانت ما تدري",
+    "englishSubhead": "BAGHDAD · OCT 13 | FEDERAL INTELLIGENCE AND INVESTIGATIONS AGENCY (STATEMENT VIA 964, SHAFAQ): A 4-MEMBER NETWORK TARGETING RETIREES DISMANTLED | METHOD PER THE AGENCY: LURED RETIREES WITH INSTALMENT PURCHASES OF ELECTRICAL AND ELECTRONIC GOODS, THEN USED THEIR PERSONAL DATA TO TAKE LOANS AND ADVANCES IN THEIR NAMES WITHOUT THEIR KNOWLEDGE OR CONSENT | ALL 4 ARRESTED, STATEMENTS JUDICIALLY CERTIFIED; ACCUSED, NOT CONVICTED | TIPS: FREE NUMBER 911",
+    "heroMedia": "images/news/2026-10-14-d-retirees-loans-fraud/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الشبكة",
+      "arabicHeading": "4 متهمين استهدفوا المتقاعدين",
+      "arabicBody": "وكالة الاستخبارات والتحقيقات الاتحادية أعلنت تفكيك شبكة من أربعة متهمين تمارس احتيالاً مالياً إلكترونياً يستهدف المتقاعدين (بيان عبر 964 وشفق نيوز).",
+      "bigStat": {
+        "value": "4",
+        "label": "Accused members of the network, all arrested, per the Federal Intelligence and Investigations Agency (via 964 / Shafaq)",
+        "arabicLabel": "متهمين — قُبض على جميعهم"
+      },
+      "supportingStats": [
+        {
+          "label": "المستهدفون",
+          "value": "المتقاعدون"
+        },
+        {
+          "label": "النوع",
+          "value": "احتيال إلكتروني"
+        },
+        {
+          "label": "الحالة",
+          "value": "متهمون"
+        }
+      ],
+      "broll": "images/news/2026-10-14-d-retirees-loans-fraud/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-14-d-retirees-loans-fraud/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "شبكة من 4 متهمين",
+        "احتيال مالي إلكتروني",
+        "يستهدف المتقاعدين"
+      ]
+    },
+    {
+      "label": "الطريقة",
+      "arabicHeading": "«أجهزة بالتقسيط».. ثم قروض بأسمائهم",
+      "arabicBody": "بحسب البيان: يوهمون المتقاعد بشراء أجهزة كهربائية وإلكترونية بالتقسيط، ثم يستغلون بياناته الشخصية لسحب قروض وسلف باسمه دون علمه أو موافقته.",
+      "bigStat": {
+        "value": "0",
+        "label": "Retiree consent: loans and advances were taken in their names without their knowledge or approval, per the agency statement",
+        "arabicLabel": "علم أو موافقة من المتقاعد — بحسب البيان"
+      },
+      "supportingStats": [
+        {
+          "label": "الطُّعم",
+          "value": "أجهزة بالتقسيط"
+        },
+        {
+          "label": "المسروق",
+          "value": "البيانات الشخصية"
+        },
+        {
+          "label": "النتيجة",
+          "value": "قروض وسلف"
+        }
+      ],
+      "broll": "images/news/2026-10-14-d-retirees-loans-fraud/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-14-d-retirees-loans-fraud/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الطُّعم: أجهزة بالتقسيط",
+        "ثم بياناتك الشخصية",
+        "وقروض باسمك دون علمك"
+      ]
+    },
+    {
+      "label": "الآن",
+      "arabicHeading": "القبض على الأربعة.. والتبليغ على 911",
+      "arabicBody": "الوكالة: قُبض على أفراد الشبكة جميعاً وصُدّقت أقوالهم قضائياً تمهيداً لاستكمال الإجراءات، ولم تصدر أحكام بعد. وللتبليغ: الرقم المجاني 911.",
+      "bigStat": {
+        "value": "911",
+        "label": "Free number the agency asks citizens to call with information",
+        "arabicLabel": "الرقم المجاني للتبليغ"
+      },
+      "supportingStats": [
+        {
+          "label": "المقبوض عليهم",
+          "value": "4 من 4"
+        },
+        {
+          "label": "الأقوال",
+          "value": "صُدّقت قضائياً"
+        },
+        {
+          "label": "الحكم",
+          "value": "لم يصدر"
+        }
+      ],
+      "broll": "images/news/2026-10-14-d-retirees-loans-fraud/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-14-d-retirees-loans-fraud/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "قُبض على الأربعة",
+        "وصُدّقت أقوالهم قضائياً",
+        "التبليغ على 911"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الاستخبارات الاتحادية: تفكيك شبكة من 4 متهمين تستهدف المتقاعدين بالاحتيال الإلكتروني (964، شفق نيوز)",
+    "الطريقة بحسب البيان: إغراء بشراء أجهزة بالتقسيط ثم قروض وسلف بأسماء المتقاعدين دون علمهم",
+    "القبض على جميع أفراد الشبكة وتصديق أقوالهم قضائياً — ولم تصدر أحكام",
+    "للتبليغ: الرقم المجاني 911",
+    "عرضوا عليك جهاز بالتقسيط وطلبوا بياناتك؟"
+  ],
+  "endQuestion": "عرضوا عليك جهاز بالتقسيط وطلبوا بياناتك؟",
+  "sources": [
+    {
+      "name": "وكالة الاستخبارات والتحقيقات الاتحادية",
+      "domain": "moi.gov.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

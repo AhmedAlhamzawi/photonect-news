@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 14 • 2026",
+  "arabicDateLabel": "14 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الـ100 دولار رجعت تصعد: 167 ألف بالبورصة",
+    "englishSubhead": "BAGHDAD · OCT 14 | SHAFAQ: KIFAH/HARITHIYA 167,000 IQD PER $100 WEDNESDAY MORNING (VS 165,600 TUESDAY MORNING, 166,250 TUESDAY CLOSE); BAGHDAD SHOPS SELL 167,500 / BUY 166,500; ERBIL SELL 166,500 | 964: OFFICIAL RATE 152,000 | SUNDAY MORNING (SHAFAQ, OUR OCT 11 REEL): 163,300 | GAP OVER OFFICIAL 11,300 → 15,000 (COMPUTED, MORNING VS MORNING)",
+    "heroMedia": "images/news/2026-10-14-b-dollar-167000-rebound/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "الكفاح والحارثية: 167,000 صباح الأربعاء",
+      "arabicBody": "شفق نيوز: سجلت بورصتا الكفاح والحارثية 167,000 دينار لكل 100 دولار صباح الأربعاء، بعد 165,600 صباح الثلاثاء. محال بغداد تبيع بـ167,500.",
+      "bigStat": {
+        "value": "167,000",
+        "label": "IQD per $100 at Kifah/Harithiya on Wednesday morning, from 165,600 Tuesday morning (Shafaq News)",
+        "arabicLabel": "دينار لكل 100 دولار — الكفاح صباح الأربعاء"
+      },
+      "supportingStats": [
+        {
+          "label": "الثلاثاء صباحاً",
+          "value": "165,600"
+        },
+        {
+          "label": "بيع المحال",
+          "value": "167,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "166,500"
+        }
+      ],
+      "broll": "images/news/2026-10-14-b-dollar-167000-rebound/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-14-b-dollar-167000-rebound/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الكفاح: 167,000 صباح الأربعاء",
+        "بعد 165,600 الثلاثاء",
+        "المحال تبيع بـ167,500"
+      ]
+    },
+    {
+      "label": "الارتداد",
+      "arabicHeading": "الأحد 163,300.. والأربعاء 167,000",
+      "arabicBody": "صباح الأحد سجلت الكفاح 163,300 (شفق نيوز). خلال ثلاثة أيام صعد السعر 3,700 دينار لكل 100 دولار (محتسب، صباح مقابل صباح).",
+      "bigStat": {
+        "value": "3,700",
+        "label": "IQD per $100 rise from Sunday morning (163,300) to Wednesday morning (167,000) — computed from Shafaq figures",
+        "arabicLabel": "دينار ارتفاع منذ صباح الأحد (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد صباحاً",
+          "value": "163,300"
+        },
+        {
+          "label": "الأربعاء صباحاً",
+          "value": "167,000"
+        },
+        {
+          "label": "المدة",
+          "value": "3 أيام"
+        }
+      ],
+      "broll": "images/news/2026-10-14-b-dollar-167000-rebound/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-14-b-dollar-167000-rebound/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "ويكيميديا كومنز",
+      "subtitlePhrases": [
+        "الأحد: 163,300",
+        "الأربعاء: 167,000",
+        "+3,700 بثلاثة أيام"
+      ]
+    },
+    {
+      "label": "الفجوة",
+      "arabicHeading": "15 ألف دينار فوق السعر الرسمي",
+      "arabicBody": "السعر الرسمي للبنك المركزي 152,000 دينار لكل 100 دولار (964). الفرق عن السوق صار 15,000 دينار، بعد 11,300 صباح الأحد (محتسب).",
+      "bigStat": {
+        "value": "15,000",
+        "label": "IQD above the official 152,000 per $100 on Wednesday morning, up from 11,300 on Sunday morning (computed from Shafaq / 964 figures)",
+        "arabicLabel": "دينار فوق الرسمي لكل 100 دولار (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "152,000"
+        },
+        {
+          "label": "السوق",
+          "value": "167,000"
+        },
+        {
+          "label": "الأحد",
+          "value": "11,300"
+        }
+      ],
+      "broll": "images/news/2026-10-14-b-dollar-167000-rebound/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-14-b-dollar-167000-rebound/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الرسمي: 152,000",
+        "الفرق صار 15,000",
+        "بعد 11,300 الأحد"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "شفق نيوز: الكفاح والحارثية 167,000 دينار لكل 100 دولار صباح الأربعاء بعد 165,600 صباح الثلاثاء",
+    "محال بغداد: بيع 167,500 وشراء 166,500 | أربيل: بيع 166,500 (شفق نيوز)",
+    "السعر الرسمي: 152,000 دينار لكل 100 دولار — الفرق 15,000 (محتسب)",
+    "صباح الأحد كان 163,300 — ارتفاع 3,700 خلال ثلاثة أيام (محتسب)",
+    "بكم صرفت الدولار آخر مرة؟"
+  ],
+  "endQuestion": "بكم صرفت الدولار آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    }
+  ]
+}

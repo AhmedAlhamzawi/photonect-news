@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-14-a-customs-food-medicine",
+  "date": "2026-10-14",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 808528,
+      "sha256": "c729d83136e2e383"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1109016,
+      "sha256": "35fe78086c0e4b3c"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 350664,
+      "sha256": "ae46ea6f8692139e"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 762636,
+      "sha256": "6ac84bf71ca75e82"
+    }
+  ]
+}

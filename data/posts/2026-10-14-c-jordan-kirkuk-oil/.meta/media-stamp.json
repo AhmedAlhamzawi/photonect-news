@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-14-c-jordan-kirkuk-oil",
+  "date": "2026-10-14",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1146772,
+      "sha256": "67f9472769506388"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1151939,
+      "sha256": "7651616fcdec689a"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 660915,
+      "sha256": "0031a2469afd7506"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 961655,
+      "sha256": "968f2e47ef5100d9"
+    }
+  ]
+}

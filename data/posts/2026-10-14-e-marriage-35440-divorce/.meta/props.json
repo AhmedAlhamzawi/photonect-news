@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 14 • 2026",
+  "arabicDateLabel": "14 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "المجتمع",
+    "arabicHeadline": "أكثر من 35 ألف زواج.. و6,741 طلاق بأيلول",
+    "englishSubhead": "BAGHDAD · OCT 14 | SUPREME JUDICIAL COUNCIL (VIA SHAFAQ, 964): FEDERAL COURTS (15 PROVINCES, EXCLUDING KURDISTAN REGION) REGISTERED 35,440 MARRIAGE CONTRACTS AND 6,741 DIVORCES (INCL. RATIFIED EXTERNAL DIVORCES) IN SEPTEMBER — 42,181 IN TOTAL VS ~27,000 IN AUGUST (SHAFAQ) | BAGHDAD (KARKH + RUSAFA): 8,938 MARRIAGES, 2,515 DIVORCES | NINEVEH: 4,055 MARRIAGES, 678 DIVORCES | ~19 DIVORCES PER 100 MARRIAGES NATIONALLY, ~28 IN BAGHDAD (COMPUTED)",
+    "heroMedia": "images/news/2026-10-14-e-marriage-35440-divorce/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أيلول",
+      "arabicHeading": "35,440 عقد زواج بشهر واحد",
+      "arabicBody": "مجلس القضاء الأعلى: محاكم 15 محافظة، عدا إقليم كوردستان، سجلت 35,440 عقد زواج و6,741 حالة طلاق خلال أيلول (شفق نيوز، 964).",
+      "bigStat": {
+        "value": "35,440",
+        "label": "Marriage contracts registered by federal courts in September, excluding the Kurdistan Region (Supreme Judicial Council via Shafaq / 964)",
+        "arabicLabel": "عقد زواج في أيلول — مجلس القضاء الأعلى"
+      },
+      "supportingStats": [
+        {
+          "label": "الزواج",
+          "value": "35,440"
+        },
+        {
+          "label": "الطلاق",
+          "value": "6,741"
+        },
+        {
+          "label": "المحافظات",
+          "value": "15"
+        }
+      ],
+      "broll": "images/news/2026-10-14-e-marriage-35440-divorce/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-14-e-marriage-35440-divorce/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "35,440 عقد زواج",
+        "و6,741 حالة طلاق",
+        "في أيلول وحده"
+      ]
+    },
+    {
+      "label": "النسبة",
+      "arabicHeading": "19 طلاقاً لكل 100 زواج (محتسب)",
+      "arabicBody": "يعني نحو 19 حالة طلاق مقابل كل 100 عقد زواج (محتسب). ومجموع الحالتين 42,181، بعد نحو 27 ألفاً في آب بحسب شفق نيوز.",
+      "bigStat": {
+        "value": "19",
+        "label": "Divorces per 100 marriage contracts in September (computed from Supreme Judicial Council figures)",
+        "arabicLabel": "طلاقاً لكل 100 زواج (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "المجموع",
+          "value": "42,181"
+        },
+        {
+          "label": "آب",
+          "value": "~27 ألف"
+        },
+        {
+          "label": "النسبة",
+          "value": "19% (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-14-e-marriage-35440-divorce/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-14-e-marriage-35440-divorce/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "19 طلاقاً لكل 100 زواج",
+        "المجموع 42,181",
+        "بعد نحو 27 ألفاً بآب"
+      ]
+    },
+    {
+      "label": "بغداد",
+      "arabicHeading": "بغداد الأولى.. 8,938 زواج و2,515 طلاق",
+      "arabicBody": "بغداد بجانبيها تصدرت بـ8,938 زواجاً و2,515 طلاقاً، أي نحو 28 طلاقاً لكل 100 زواج (محتسب). تلتها نينوى بـ4,055 زواجاً و678 طلاقاً.",
+      "bigStat": {
+        "value": "2,515",
+        "label": "Divorces registered in Baghdad (Karkh + Rusafa) in September, the highest of any province (Supreme Judicial Council)",
+        "arabicLabel": "حالة طلاق في بغداد خلال أيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد زواج",
+          "value": "8,938"
+        },
+        {
+          "label": "نينوى زواج",
+          "value": "4,055"
+        },
+        {
+          "label": "نينوى طلاق",
+          "value": "678"
+        }
+      ],
+      "broll": "images/news/2026-10-14-e-marriage-35440-divorce/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-14-e-marriage-35440-divorce/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "بغداد: 8,938 زواج",
+        "و2,515 طلاق",
+        "نينوى ثانياً: 4,055"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مجلس القضاء الأعلى: 35,440 عقد زواج و6,741 حالة طلاق في أيلول — عدا إقليم كوردستان (شفق نيوز، 964)",
+    "بغداد بجانبيها الأولى: 8,938 زواجاً و2,515 طلاقاً",
+    "نينوى ثانياً: 4,055 زواجاً و678 طلاقاً",
+    "نحو 19 طلاقاً مقابل كل 100 زواج (محتسب)",
+    "كم عرس حضرت هالشهر؟"
+  ],
+  "endQuestion": "كم عرس حضرت هالشهر؟",
+  "sources": [
+    {
+      "name": "مجلس القضاء الأعلى",
+      "domain": "sjc.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}
