@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-16-e-rain-north-40-south",
+  "date": "2026-10-16",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 934626,
+      "sha256": "901cbee9c9dc7964"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 721937,
+      "sha256": "3f448be71309bde4"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 543031,
+      "sha256": "b05b768f4625a4d3"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1027299,
+      "sha256": "6f02b2eaf5309db2"
+    }
+  ]
+}

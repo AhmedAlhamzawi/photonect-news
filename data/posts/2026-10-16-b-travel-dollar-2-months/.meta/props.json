@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 16 • 2026",
+  "arabicDateLabel": "16 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "دولار السفر: 2,000 كل شهرين بس",
+    "englishSubhead": "BAGHDAD · OCT 15 | CENTRAL BANK OF IRAQ (STATEMENT VIA 964, SHAFAQ): TRAVELLERS' DOLLAR ALLOCATION AT THE OFFICIAL RATE SET AT $2,000 EVERY TWO MONTHS, MAX 6 TIMES A YEAR, EFFECTIVE SUNDAY 18 OCTOBER 2026 | IN JULY THE CAP WAS CUT TO $2,000 A MONTH FROM $3,000 (SHAFAQ, AL JAZEERA) | MAX $12,000/YEAR VS UP TO $24,000 (COMPUTED) | THURSDAY CLOSE KIFAH/HARITHIYA 166,550 IQD PER $100 (SHAFAQ); OFFICIAL 1,520 IQD/$ — $2,000 = 3,040,000 OFFICIAL VS 3,331,000 MARKET, GAP 291,000 (COMPUTED)",
+    "heroMedia": "images/news/2026-10-16-b-travel-dollar-2-months/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "من الأحد: 2,000 دولار كل شهرين",
+      "arabicBody": "البنك المركزي: حصة المسافر 2,000 دولار بالسعر الرسمي كل شهرين، وبحد أقصى 6 مرات بالسنة، اعتباراً من الأحد 18 تشرين الأول (964، شفق نيوز).",
+      "bigStat": {
+        "value": "2,000",
+        "label": "US dollars per traveller every two months at the official rate, from 18 October (CBI statement via 964 / Shafaq)",
+        "arabicLabel": "دولار للمسافر كل شهرين"
+      },
+      "supportingStats": [
+        {
+          "label": "الدورية",
+          "value": "كل شهرين"
+        },
+        {
+          "label": "الحد الأقصى",
+          "value": "6 مرات بالسنة"
+        },
+        {
+          "label": "يبدأ",
+          "value": "18 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-16-b-travel-dollar-2-months/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-16-b-travel-dollar-2-months/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "2,000 دولار للمسافر",
+        "كل شهرين",
+        "من الأحد 18 تشرين الأول"
+      ]
+    },
+    {
+      "label": "بالسنة",
+      "arabicHeading": "بالسنة: 12 ألف دولار بدل 24 (محتسب)",
+      "arabicBody": "في تموز خفّض المركزي السقف إلى 2,000 دولار شهرياً بدل 3,000 (شفق نيوز، الجزيرة). الآن: 12,000 دولار بالسنة حداً أقصى، بدل 24,000 (محتسب).",
+      "bigStat": {
+        "value": "12,000",
+        "label": "US dollars a year maximum per traveller under the new rule (6 × $2,000), vs up to $24,000 under the monthly cap (computed)",
+        "arabicLabel": "دولار بالسنة (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "تموز",
+          "value": "2,000 شهرياً"
+        },
+        {
+          "label": "الآن",
+          "value": "2,000 كل شهرين"
+        },
+        {
+          "label": "السنة",
+          "value": "12,000 (محتسب)"
+        }
+      ],
+      "broll": "images/news/2026-10-16-b-travel-dollar-2-months/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-16-b-travel-dollar-2-months/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تموز: 2,000 كل شهر",
+        "الآن: كل شهرين",
+        "12 ألف بالسنة بدل 24"
+      ]
+    },
+    {
+      "label": "الفرق",
+      "arabicHeading": "الفرق عن السوق: 291 ألف دينار",
+      "arabicBody": "بورصة الكفاح أغلقت الخميس على 166,550 لكل 100 دولار (شفق نيوز). الـ2,000 دولار بالسعر الرسمي 3,040,000 دينار، وبالسوق 3,331,000: فرق 291,000 (محتسب).",
+      "bigStat": {
+        "value": "291,000",
+        "label": "IQD difference on $2,000 between the official rate (1,520) and Thursday's Kifah close (166,550 per $100) — computed",
+        "arabicLabel": "دينار فرق (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "3,040,000"
+        },
+        {
+          "label": "السوق",
+          "value": "3,331,000"
+        },
+        {
+          "label": "إغلاق الخميس",
+          "value": "166,550"
+        }
+      ],
+      "broll": "images/news/2026-10-16-b-travel-dollar-2-months/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-16-b-travel-dollar-2-months/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الكفاح: 166,550 إغلاق الخميس",
+        "الحصة بالرسمي 3,040,000",
+        "فرق 291 ألف دينار"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "البنك المركزي: 2,000 دولار للمسافر كل شهرين وبحد أقصى 6 مرات سنوياً — من الأحد 18 تشرين الأول (964، شفق نيوز)",
+    "في تموز خفّض المركزي السقف إلى 2,000 دولار شهرياً (شفق نيوز، الجزيرة) — والحد السنوي الآن 12,000 بدل 24,000 (محتسب)",
+    "إغلاق الخميس: الكفاح والحارثية 166,550 دينار لكل 100 دولار (شفق نيوز)",
+    "مسافر خلال الشهرين الجايين؟"
+  ],
+  "endQuestion": "مسافر خلال الشهرين الجايين؟",
+  "sources": [
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "الجزيرة نت",
+      "domain": "aljazeera.net"
+    }
+  ]
+}

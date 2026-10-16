@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 16 • 2026",
+  "arabicDateLabel": "16 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_society",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الطقس",
+    "arabicHeadline": "مطر بالشمال.. و40 درجة بالجنوب",
+    "englishSubhead": "BAGHDAD · OCT 16 | IRAQI METEOROLOGICAL AUTHORITY (VIA 964): FRIDAY CLOUDY WITH LIGHT-TO-MODERATE THUNDERY RAIN IN THE CENTRE AND NORTH; SOUTH CLEAR | MAX 28°C IN DUHOK, 40°C IN BASRA, MAYSAN, DHI QAR, MUTHANNA | TEMPERATURES DROP SEVERAL DEGREES FROM MONDAY WITH NW WINDS UP TO 40 KM/H; INTERMITTENT RAIN UNTIL MID-WEEK | FORECASTER SADIQ ATTIYA (VIA SHAFAQ): RAIN WITH LIGHTNING IN NINEVEH, ERBIL, DUHOK, SULAYMANIYAH; HEAVY POCKETS FRIDAY NIGHT/SATURDAY IN PARTS OF ANBAR; CAUTION FOR DOWNDRAFT WINDS AND LIGHTNING",
+    "heroMedia": "images/news/2026-10-16-e-rain-north-40-south/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "اليوم",
+      "arabicHeading": "الشمال والوسط: مطر ورعد",
+      "arabicBody": "الأنواء الجوية: أجواء غائمة مع مطر خفيف إلى معتدل ورعد متفرق في المنطقتين الوسطى والشمالية، والجنوب صحو مع بعض الغيوم (964).",
+      "bigStat": {
+        "value": "28",
+        "label": "°C — Friday's lowest maximum, in Duhok (Meteorological Authority via 964)",
+        "arabicLabel": "درجة في دهوك"
+      },
+      "supportingStats": [
+        {
+          "label": "الشمال",
+          "value": "مطر ورعد"
+        },
+        {
+          "label": "الوسط",
+          "value": "مطر متفرق"
+        },
+        {
+          "label": "الجنوب",
+          "value": "صحو"
+        }
+      ],
+      "broll": "images/news/2026-10-16-e-rain-north-40-south/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-16-e-rain-north-40-south/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مطر ورعد بالشمال والوسط",
+        "والجنوب صحو",
+        "دهوك: 28 درجة"
+      ]
+    },
+    {
+      "label": "البؤر",
+      "arabicHeading": "وين المطر أغزر؟",
+      "arabicBody": "الراصد صادق عطية يرجّح: مطر مع برق ورعد في نينوى وأربيل ودهوك والسليمانية، وبؤر غزارة ليل الجمعة/السبت في مناطق من الأنبار، والحذر من الصواعق (شفق نيوز).",
+      "bigStat": {
+        "value": "4",
+        "label": "Northern provinces named for rain with lightning: Nineveh, Erbil, Duhok, Sulaymaniyah (forecaster Sadiq Attiya via Shafaq)",
+        "arabicLabel": "محافظات شمالية"
+      },
+      "supportingStats": [
+        {
+          "label": "الشمال",
+          "value": "4 محافظات"
+        },
+        {
+          "label": "الأنبار",
+          "value": "بؤر غزارة"
+        },
+        {
+          "label": "الحذر",
+          "value": "الصواعق"
+        }
+      ],
+      "broll": "images/news/2026-10-16-e-rain-north-40-south/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-16-e-rain-north-40-south/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "نينوى وأربيل ودهوك والسليمانية",
+        "بؤر غزارة بالأنبار",
+        "احذر الصواعق"
+      ]
+    },
+    {
+      "label": "الجنوب",
+      "arabicHeading": "البصرة 40.. ومن الإثنين تنزل",
+      "arabicBody": "العظمى 40 درجة في البصرة وميسان وذي قار والمثنى. ومن الإثنين تنخفض الحرارة عدة درجات، مع رياح شمالية غربية حتى 40 كم/ساعة (الأنواء، 964).",
+      "bigStat": {
+        "value": "40",
+        "label": "°C maximum in Basra, Maysan, Dhi Qar and Muthanna on Friday (Meteorological Authority via 964)",
+        "arabicLabel": "درجة بالجنوب"
+      },
+      "supportingStats": [
+        {
+          "label": "الجنوب",
+          "value": "40°"
+        },
+        {
+          "label": "من الإثنين",
+          "value": "انخفاض"
+        },
+        {
+          "label": "الرياح",
+          "value": "40 كم/ساعة"
+        }
+      ],
+      "broll": "images/news/2026-10-16-e-rain-north-40-south/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-16-e-rain-north-40-south/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "البصرة 40 درجة",
+        "ومن الإثنين تنخفض",
+        "والمطر لمنتصف الأسبوع"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الأنواء الجوية: مطر خفيف إلى معتدل ورعد متفرق في الوسط والشمال، والجنوب صحو (964)",
+    "العظمى من 28 درجة في دهوك إلى 40 في البصرة وميسان وذي قار والمثنى",
+    "من الإثنين: انخفاض الحرارة عدة درجات ورياح حتى 40 كم/ساعة",
+    "نزل مطر عندكم هاليومين؟"
+  ],
+  "endQuestion": "نزل مطر عندكم هاليومين؟",
+  "sources": [
+    {
+      "name": "الهيئة العامة للأنواء الجوية",
+      "domain": "meteoseism.gov.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

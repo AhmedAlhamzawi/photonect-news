@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 16 • 2026",
+  "arabicDateLabel": "16 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "عقوبات",
+    "arabicHeadline": "الخزانة الأميركية تعاقب مصرفاً عراقياً.. شنو تتهمه؟",
+    "englishSubhead": "WASHINGTON / BAGHDAD · OCT 15 | US TREASURY (STATEMENT VIA 964, BAGHDAD TODAY) DESIGNATED IRAQ-BASED INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE (IDB) UNDER EO 13902 | TREASURY ALLEGES IDB GAVE IRAN ACCESS TO US DOLLARS, MISUSED ITS ACCESS TO THE NOW-DISSOLVED DOLLAR AUCTION AND KEEPS TIES WITH IRANIAN GOVERNMENT ENTITIES AND IRAN-ALIGNED ARMED GROUPS | CONSEQUENCES PER TREASURY: US-LINKED PROPERTY BLOCKED, ENTITIES 50%+ OWNED BY DESIGNATED PERSONS ALSO BLOCKED, FOREIGN BANKS RISK SECONDARY SANCTIONS",
+    "heroMedia": "images/news/2026-10-16-c-us-sanctions-iraqi-bank/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "الخزانة الأميركية تعاقب «مصرف التنمية الدولي»",
+      "arabicBody": "وزارة الخزانة الأميركية أدرجت الخميس «مصرف التنمية الدولي للاستثمار والتمويل» ومقره العراق على قائمة العقوبات، بموجب الأمر التنفيذي 13902 (964، بغداد اليوم).",
+      "bigStat": {
+        "value": "13902",
+        "label": "US executive order under which Treasury designated Iraq-based IDB on 15 October (Treasury statement via 964)",
+        "arabicLabel": "رقم الأمر التنفيذي الأميركي"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "الخزانة"
+        },
+        {
+          "label": "المصرف",
+          "value": "مقره العراق"
+        },
+        {
+          "label": "التاريخ",
+          "value": "15 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الخزانة الأميركية تعاقب مصرفاً عراقياً",
+        "مصرف التنمية الدولي",
+        "بموجب الأمر 13902"
+      ]
+    },
+    {
+      "label": "الاتهام",
+      "arabicHeading": "بحسب واشنطن: دولار لإيران",
+      "arabicBody": "بحسب بيان الخزانة: المصرف وفّر لإيران وصولاً إلى الدولار، وأساء استخدام مزاد العملة المنحلّ، وله علاقات بكيانات حكومية إيرانية وفصائل مسلحة موالية لإيران (964، بغداد اليوم).",
+      "bigStat": {
+        "value": "1",
+        "label": "Iraq-based bank designated in this package, per the Treasury statement (via 964 / Baghdad Today)",
+        "arabicLabel": "مصرف عراقي بالحزمة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاتهام 1",
+          "value": "دولار لإيران"
+        },
+        {
+          "label": "الاتهام 2",
+          "value": "مزاد العملة"
+        },
+        {
+          "label": "المصدر",
+          "value": "بيان الخزانة"
+        }
+      ],
+      "broll": "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الخزانة: دولار لإيران",
+        "وإساءة استخدام مزاد العملة",
+        "اتهامات بحسب واشنطن"
+      ]
+    },
+    {
+      "label": "الأثر",
+      "arabicHeading": "شنو يعني؟ تجميد.. وتحذير للمصارف",
+      "arabicBody": "بحسب الخزانة: تُجمّد أصول المصرف المرتبطة بأميركا، وكذلك أي كيان يملكه المُدرَجون بنسبة 50% فأكثر، والمصارف الأجنبية التي تُجري معاملات معيّنة معه قد تواجه عقوبات ثانوية.",
+      "bigStat": {
+        "value": "50%",
+        "label": "Ownership threshold: entities 50%+ owned by designated persons are also blocked (Treasury statement via 964)",
+        "arabicLabel": "ملكية تُجمَّد"
+      },
+      "supportingStats": [
+        {
+          "label": "الأصول",
+          "value": "تُجمّد"
+        },
+        {
+          "label": "الكيانات التابعة",
+          "value": "50% فأكثر"
+        },
+        {
+          "label": "المصارف الأجنبية",
+          "value": "عقوبات ثانوية"
+        }
+      ],
+      "broll": "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-16-c-us-sanctions-iraqi-bank/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تجميد الأصول المرتبطة بأميركا",
+        "وكل كيان يملك المُدرَجون 50% منه فأكثر",
+        "واحتمال عقوبات ثانوية على المتعاملين"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الخزانة الأميركية تدرج «مصرف التنمية الدولي للاستثمار والتمويل» ومقره العراق على قائمة العقوبات (964، بغداد اليوم)",
+    "بحسب بيان الخزانة: المصرف وفّر لإيران وصولاً إلى الدولار وأساء استخدام مزاد العملة المنحلّ",
+    "الأثر بحسب الخزانة: تجميد الأصول المرتبطة بأميركا، واحتمال عقوبات ثانوية على مصارف أجنبية متعاملة",
+    "سمعت باسم هذا المصرف قبل؟"
+  ],
+  "endQuestion": "سمعت باسم هذا المصرف قبل؟",
+  "sources": [
+    {
+      "name": "وزارة الخزانة الأميركية",
+      "domain": "treasury.gov"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

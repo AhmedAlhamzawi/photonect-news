@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-16-b-travel-dollar-2-months",
+  "date": "2026-10-16",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 940765,
+      "sha256": "835ba3bb0d2888c3"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 491240,
+      "sha256": "9b3af6ff5de3b8d0"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 825024,
+      "sha256": "28fac3aae7d1878c"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1090308,
+      "sha256": "5d1403dd082cf7f8"
+    }
+  ]
+}

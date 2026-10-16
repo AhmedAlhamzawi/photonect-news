@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-16-d-rafidain-cashier-6-years",
+  "date": "2026-10-16",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1599821,
+      "sha256": "d01fe31bad94952d"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 783426,
+      "sha256": "8533f601ed71289e"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 882798,
+      "sha256": "71d1d309cd88d1a3"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 705769,
+      "sha256": "618b3b1da9df435b"
+    }
+  ]
+}

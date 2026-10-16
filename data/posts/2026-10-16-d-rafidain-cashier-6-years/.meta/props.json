@@ -1,0 +1,154 @@
+{
+  "dateLabel": "OCT 16 • 2026",
+  "arabicDateLabel": "16 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "فلوس الزبائن بالرافدين.. 6 سنين سجن",
+    "englishSubhead": "BAGHDAD · OCT 15 | RUSAFA CRIMINAL COURT FOR INTEGRITY CASES SENTENCED A RAFIDAIN BANK CASHIER TO 6 YEARS AFTER CONVICTING HIM OF EMBEZZLING FROM INDIVIDUAL SAVINGS CUSTOMERS' ACCOUNTS BY MANIPULATING THEM; ORDERED TO RETURN THE FUNDS; ARTICLE 315 OF THE PENAL CODE (SUPREME JUDICIAL COUNCIL MEDIA, 964) | KIRKUK: INTEGRITY COMMISSION CAUGHT THE HEAD OF THE 4TH MUNICIPAL SECTOR RECEIVING PART OF A BRIBE — $6,000 + AN IPHONE 18 PRO MAX DEMANDED TO ALLOW A COMMERCIAL BUILDING ON AL-QUDS STREET; DETAINED PENDING INVESTIGATION, NOT CONVICTED (SHAFAQ, BAGHDAD TODAY)",
+    "heroMedia": "images/news/2026-10-16-d-rafidain-cashier-6-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحكم",
+      "arabicHeading": "أمين صندوق بالرافدين: 6 سنين سجن",
+      "arabicBody": "محكمة جنايات الرصافة للنزاهة حكمت بسجن أمين صندوق في مصرف الرافدين 6 سنوات، بعد إدانته باختلاس أموال من حسابات زبائن التوفير (إعلام القضاء، 964).",
+      "bigStat": {
+        "value": "6",
+        "label": "Years in prison for a Rafidain Bank cashier convicted of embezzling customers' savings (Supreme Judicial Council media / 964)",
+        "arabicLabel": "سنوات سجن"
+      },
+      "supportingStats": [
+        {
+          "label": "المحكمة",
+          "value": "جنايات الرصافة"
+        },
+        {
+          "label": "المدان",
+          "value": "أمين صندوق"
+        },
+        {
+          "label": "الضحايا",
+          "value": "زبائن التوفير"
+        }
+      ],
+      "broll": "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "6 سنين سجن",
+        "لأمين صندوق بالرافدين",
+        "اختلس من حسابات التوفير"
+      ]
+    },
+    {
+      "label": "الطريقة",
+      "arabicHeading": "تلاعب بأرصدة الزبائن",
+      "arabicBody": "بحسب إعلام القضاء: استغل وظيفته أميناً للصندوق وتلاعب بحسابات الزبائن واستحوذ على مبالغ من أرصدتهم. والمحكمة ألزمته بإعادة الأموال المختلسة، وفق المادة 315.",
+      "bigStat": {
+        "value": "315",
+        "label": "Article of the Iraqi Penal Code under which the cashier was sentenced (Supreme Judicial Council media)",
+        "arabicLabel": "مادة العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "الأسلوب",
+          "value": "تلاعب بالحسابات"
+        },
+        {
+          "label": "الأموال",
+          "value": "يعيدها"
+        },
+        {
+          "label": "المادة",
+          "value": "315"
+        }
+      ],
+      "broll": "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تلاعب بالحسابات",
+        "واستحوذ على الأرصدة",
+        "وملزم بإعادة الأموال"
+      ]
+    },
+    {
+      "label": "كركوك",
+      "arabicHeading": "وبكركوك: متهم بطلب 6 آلاف دولار وآيفون",
+      "arabicBody": "هيئة النزاهة: ضبط مسؤول القاطع البلدي الرابع بكركوك متلبساً بتسلّم جزء من رشوة قدرها 6,000 دولار وآيفون، مقابل بناء عمارة. موقوف على ذمة التحقيق ولم يُدَن.",
+      "bigStat": {
+        "value": "6,000",
+        "label": "US dollars plus an iPhone allegedly demanded by a Kirkuk municipal official, per the Integrity Commission (via Shafaq / Baghdad Today) — detained, not convicted",
+        "arabicLabel": "دولار + آيفون بحسب النزاهة"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "شارع القدس"
+        },
+        {
+          "label": "المقابل",
+          "value": "بناء عمارة"
+        },
+        {
+          "label": "الحالة",
+          "value": "موقوف، لم يُدَن"
+        }
+      ],
+      "broll": "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-16-d-rafidain-cashier-6-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "كركوك: 6 آلاف دولار وآيفون",
+        "مقابل السماح ببناء عمارة",
+        "موقوف على ذمة التحقيق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "جنايات الرصافة: السجن 6 سنوات لأمين صندوق في مصرف الرافدين بعد إدانته باختلاس أموال زبائن التوفير (إعلام القضاء، 964)",
+    "المحكمة ألزمت المدان بإعادة الأموال المختلسة",
+    "هيئة النزاهة: ضبط مسؤول القاطع البلدي الرابع في كركوك متلبساً بتسلم جزء من رشوة — موقوف على ذمة التحقيق ولم يُدَن (شفق نيوز، بغداد اليوم)",
+    "تتابع رصيد حسابك كل شهر؟"
+  ],
+  "endQuestion": "تتابع رصيد حسابك كل شهر؟",
+  "sources": [
+    {
+      "name": "مجلس القضاء الأعلى",
+      "domain": "sjc.iq"
+    },
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}
