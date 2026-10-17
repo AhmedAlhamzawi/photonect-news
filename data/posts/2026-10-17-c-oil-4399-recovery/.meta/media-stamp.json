@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-17-c-oil-4399-recovery",
+  "date": "2026-10-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1151939,
+      "sha256": "7651616fcdec689a"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 549690,
+      "sha256": "e920155840c89706"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1236236,
+      "sha256": "30c1c377d5e33190"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 961655,
+      "sha256": "968f2e47ef5100d9"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-17-b-dollar-166850-gold-976",
+  "date": "2026-10-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1177362,
+      "sha256": "32de114c7017f5b2"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1294074,
+      "sha256": "0bafad8ec8c5b71d"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 980051,
+      "sha256": "c14d009a306bd326"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1230933,
+      "sha256": "cb3073bcf5a4c580"
+    }
+  ]
+}

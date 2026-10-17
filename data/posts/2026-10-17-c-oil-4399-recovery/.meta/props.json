@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 17 • 2026",
+  "arabicDateLabel": "17 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "نفط العراق",
+    "arabicHeadline": "نفط العراق رجع: أيلول الأعلى هالسنة",
+    "englishSubhead": "BAGHDAD · OCT 17 | ECO IRAQ OBSERVATORY, CITING OPEC DIRECT-COMMUNICATION DATA: IRAQ'S CRUDE OUTPUT AVERAGED 4.399 MILLION B/D IN SEPTEMBER, THE HIGHEST OF 2026 | OUTPUT FELL SHARPLY FROM MARCH WITH THE REGIONAL WAR TO A LOW OF 1.406 MILLION B/D IN MAY, THEN 1.525 JUNE, 2.901 JULY, 3.746 AUGUST | (SHAFAQ, BAGHDAD TODAY, AL-MADA) | BRENT FUTURES ROSE MORE THAN $3 TO $109.58 ON FRIDAY EVENING (SHAFAQ)",
+    "heroMedia": "images/news/2026-10-17-c-oil-4399-recovery/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أيلول",
+      "arabicHeading": "أيلول: 4.399 مليون برميل يومياً",
+      "arabicBody": "مرصد «إيكو عراق»: متوسط إنتاج العراق النفطي في أيلول بلغ 4.399 ملايين برميل يومياً، الأعلى منذ بداية 2026، وفق التبليغ المباشر لأوبك (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "4.399",
+        "label": "million barrels per day — Iraq's average crude output in September 2026, highest this year (Eco Iraq via Shafaq / Baghdad Today)",
+        "arabicLabel": "مليون برميل يومياً — أيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "المصدر",
+          "value": "إيكو عراق"
+        },
+        {
+          "label": "البيانات",
+          "value": "أوبك"
+        },
+        {
+          "label": "الترتيب",
+          "value": "الأعلى بـ2026"
+        }
+      ],
+      "broll": "images/news/2026-10-17-c-oil-4399-recovery/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-17-c-oil-4399-recovery/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "أيلول: 4.399 مليون برميل",
+        "الأعلى هالسنة",
+        "بحسب إيكو عراق"
+      ]
+    },
+    {
+      "label": "أيار",
+      "arabicHeading": "أيار: القاع بـ1.406 مليون",
+      "arabicBody": "بحسب المرصد، تراجع الإنتاج بحدة من آذار مع الحرب في المنطقة حتى 1.406 مليون برميل يومياً في أيار، ثم تعافى: تموز 2.901 وآب 3.746.",
+      "bigStat": {
+        "value": "1.406",
+        "label": "million b/d — Iraq's crude output low in May 2026 (Eco Iraq)",
+        "arabicLabel": "مليون برميل يومياً — أيار"
+      },
+      "supportingStats": [
+        {
+          "label": "حزيران",
+          "value": "1.525"
+        },
+        {
+          "label": "تموز",
+          "value": "2.901"
+        },
+        {
+          "label": "آب",
+          "value": "3.746"
+        }
+      ],
+      "broll": "images/news/2026-10-17-c-oil-4399-recovery/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-17-c-oil-4399-recovery/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "من آذار تراجع حاد",
+        "أيار: 1.406 مليون",
+        "وبعدها تعافى"
+      ]
+    },
+    {
+      "label": "برنت",
+      "arabicHeading": "برنت تجاوز 109 دولارات الجمعة",
+      "arabicBody": "بالتزامن، ارتفعت العقود الآجلة لخام برنت مساء الجمعة بأكثر من 3 دولارات إلى 109.58 دولار للبرميل، وسط قلق على إمدادات الشرق الأوسط (شفق نيوز).",
+      "bigStat": {
+        "value": "$109.58",
+        "label": "Brent futures per barrel, Friday evening 16 Oct 2026 (Shafaq)",
+        "arabicLabel": "دولار لبرميل برنت — مساء الجمعة"
+      },
+      "supportingStats": [
+        {
+          "label": "الارتفاع",
+          "value": "أكثر من 3$"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "فوق 100$"
+        },
+        {
+          "label": "السبب",
+          "value": "قلق الإمدادات"
+        }
+      ],
+      "broll": "images/news/2026-10-17-c-oil-4399-recovery/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-17-c-oil-4399-recovery/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "برنت فوق 109 دولار",
+        "ارتفع أكثر من 3 دولارات",
+        "قلق على الإمدادات"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "إيكو عراق: إنتاج النفط في أيلول 4.399 ملايين برميل يومياً، الأعلى منذ بداية 2026 (شفق نيوز، بغداد اليوم)",
+    "أدنى مستوى كان في أيار: 1.406 مليون برميل يومياً (إيكو عراق)",
+    "برنت ارتفع مساء الجمعة إلى 109.58 دولار للبرميل (شفق نيوز)",
+    "تشتغل بقطاع النفط؟"
+  ],
+  "endQuestion": "تشتغل بقطاع النفط؟",
+  "sources": [
+    {
+      "name": "مرصد إيكو عراق",
+      "domain": "ecoiraq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

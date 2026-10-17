@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 17 • 2026",
+  "arabicDateLabel": "17 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "صندوق النقد",
+    "arabicHeadline": "العراق طلب قرض.. شنو يعني لجيبك؟",
+    "englishSubhead": "BANGKOK · OCT 17 | IMF MANAGING DIRECTOR KRISTALINA GEORGIEVA SAID IRAQ HAS REQUESTED A LENDING PROGRAMME AND THE FUND WILL SUPPORT IT \"WITH MONEY AND POLICIES\"; AMOUNT AND CONDITIONS NOT DISCLOSED (AL JAZEERA, SHAFAQ) | OIL EXPORTS, ~90% OF REVENUE, FELL SHARPLY FOR MONTHS; RESERVES DOWN ABOUT $20BN (AFP VIA AL JAZEERA) | ECONOMIST ZIAD AL-HASHEMI (SHAFAQ) WARNS CONDITIONS COULD INCLUDE CUTTING FUEL AND ELECTRICITY SUBSIDIES",
+    "heroMedia": "images/news/2026-10-17-a-imf-loan-request/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الطلب",
+      "arabicHeading": "جورجيفا: العراق طلب برنامج إقراض",
+      "arabicBody": "رئيسة صندوق النقد كريستالينا جورجيفا قالت السبت إن العراق طلب برنامج إقراض، والصندوق سيدعمه «بالمال والسياسات». المبلغ والشروط لم تُعلن (الجزيرة، شفق نيوز).",
+      "bigStat": {
+        "value": "1",
+        "label": "lending programme Iraq has requested, per IMF chief Georgieva (Al Jazeera / Shafaq)",
+        "arabicLabel": "برنامج إقراض طلبه العراق"
+      },
+      "supportingStats": [
+        {
+          "label": "المتحدثة",
+          "value": "جورجيفا"
+        },
+        {
+          "label": "المبلغ",
+          "value": "لم يُعلن"
+        },
+        {
+          "label": "الشروط",
+          "value": "لم تُعلن"
+        }
+      ],
+      "broll": "images/news/2026-10-17-a-imf-loan-request/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-17-a-imf-loan-request/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "العراق طلب برنامج إقراض",
+        "الدعم بالمال والسياسات",
+        "المبلغ ما انعلن"
+      ]
+    },
+    {
+      "label": "ليش",
+      "arabicHeading": "صادرات النفط تراجعت.. وهي 90% من الإيرادات",
+      "arabicBody": "صادرات النفط التي تؤمّن 90% من إيرادات العراق تراجعت بحدة لأشهر، والاحتياطي النقدي نزل بقرابة 20 مليار دولار (فرانس برس عبر الجزيرة).",
+      "bigStat": {
+        "value": "$20B",
+        "label": "approximate fall in Iraq's foreign reserves (AFP via Al Jazeera)",
+        "arabicLabel": "تراجع الاحتياطي (تقريباً)"
+      },
+      "supportingStats": [
+        {
+          "label": "حصة النفط",
+          "value": "90%"
+        },
+        {
+          "label": "الاحتياطي",
+          "value": "−20 مليار $ تقريباً"
+        },
+        {
+          "label": "الصادرات",
+          "value": "تراجع لأشهر"
+        }
+      ],
+      "broll": "images/news/2026-10-17-a-imf-loan-request/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-17-a-imf-loan-request/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "النفط 90% من الإيرادات",
+        "صادراته تراجعت لأشهر",
+        "الاحتياطي نزل 20 مليار"
+      ]
+    },
+    {
+      "label": "الشروط",
+      "arabicHeading": "رأي خبير: الشروط قد تمسّ دعم الوقود",
+      "arabicBody": "يرى الخبير الاقتصادي زياد الهاشمي (شفق نيوز) أن الشروط قد تشمل تقليص دعم الوقود والكهرباء، وأن الاقتراض يناقض تبرير خفض قيمة الدينار.",
+      "bigStat": {
+        "value": "152,000",
+        "label": "IQD per $100 — Iraq's official exchange rate since 7 Oct 2026 (CBI)",
+        "arabicLabel": "دينار لكل 100$ — السعر الرسمي"
+      },
+      "supportingStats": [
+        {
+          "label": "دعم قد يُقلَّص",
+          "value": "الوقود والكهرباء"
+        },
+        {
+          "label": "الرأي",
+          "value": "زياد الهاشمي"
+        },
+        {
+          "label": "الكلفة برأيه",
+          "value": "تظهر تدريجياً"
+        }
+      ],
+      "broll": "images/news/2026-10-17-a-imf-loan-request/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-17-a-imf-loan-request/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Pexels",
+      "subtitlePhrases": [
+        "شروط القرض؟",
+        "قد تشمل دعم الوقود والكهرباء",
+        "برأي الخبير زياد الهاشمي"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "جورجيفا: العراق طلب برنامج إقراض والصندوق سيدعمه بالمال والسياسات (الجزيرة، شفق نيوز)",
+    "صادرات النفط تؤمّن 90% من الإيرادات والاحتياطي تراجع بقرابة 20 مليار دولار (فرانس برس)",
+    "الخبير الاقتصادي زياد الهاشمي يرى أن الشروط قد تشمل تقليص دعم الوقود والكهرباء (شفق نيوز)",
+    "شكد تدفع بانزين بالأسبوع؟"
+  ],
+  "endQuestion": "شكد تدفع بانزين بالأسبوع؟",
+  "sources": [
+    {
+      "name": "الجزيرة نت",
+      "domain": "aljazeera.net"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "فرانس برس",
+      "domain": "afp.com"
+    }
+  ]
+}

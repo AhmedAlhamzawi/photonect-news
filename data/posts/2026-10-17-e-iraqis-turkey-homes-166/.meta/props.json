@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 17 • 2026",
+  "arabicDateLabel": "17 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_money",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "عقارات",
+    "arabicHeadline": "العراقيين ثاني الأجانب بشراء بيوت تركيا بأيلول",
+    "englishSubhead": "ANKARA · OCT 17 | TURKSTAT: IRAQI CITIZENS BOUGHT 166 HOMES IN TURKEY IN SEPTEMBER 2026, SECOND AMONG FOREIGNERS AFTER RUSSIANS (388); GERMANS 162, IRANIANS 159, UKRAINIANS 158, CHINESE 124 (SHAFAQ; BAZAAR TIMES) | HOME SALES TO FOREIGNERS ROSE 9.9% YEAR ON YEAR TO 2,167, 1.5% OF ALL SALES (TURKSTAT VIA SHAFAQ, BAZAAR TIMES)",
+    "heroMedia": "images/news/2026-10-17-e-iraqis-turkey-homes-166/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أيلول",
+      "arabicHeading": "أيلول: 166 بيت لعراقيين",
+      "arabicBody": "بيانات معهد الإحصاء التركي: العراقيون اشتروا 166 منزلاً في تركيا خلال أيلول، ثانياً بين الأجانب بعد الروس بـ388 منزلاً (شفق نيوز، بازار تايمز).",
+      "bigStat": {
+        "value": "166",
+        "label": "homes bought by Iraqi citizens in Turkey in September 2026 — 2nd among foreign nationalities (TurkStat via Shafaq / Bazaar Times)",
+        "arabicLabel": "منزلاً — للعراقيين بأيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "المرتبة",
+          "value": "الثانية"
+        },
+        {
+          "label": "الأول",
+          "value": "الروس 388"
+        },
+        {
+          "label": "الشهر",
+          "value": "أيلول"
+        }
+      ],
+      "broll": "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Pexels",
+      "subtitlePhrases": [
+        "166 بيت بتركيا",
+        "اشتراها عراقيون بأيلول",
+        "ثانياً بعد الروس"
+      ]
+    },
+    {
+      "label": "الترتيب",
+      "arabicHeading": "قبل الألمان والإيرانيين",
+      "arabicBody": "بعد العراقيين جاء الألمان بـ162 منزلاً، ثم الإيرانيون بـ159، والأوكرانيون بـ158، والصينيون بـ124، بحسب البيانات نفسها (شفق نيوز).",
+      "bigStat": {
+        "value": "162",
+        "label": "homes bought by Germans in Turkey in September — 3rd, behind Iraqis (TurkStat via Shafaq)",
+        "arabicLabel": "منزلاً — للألمان (الثالث)"
+      },
+      "supportingStats": [
+        {
+          "label": "الإيرانيون",
+          "value": "159"
+        },
+        {
+          "label": "الأوكرانيون",
+          "value": "158"
+        },
+        {
+          "label": "الصينيون",
+          "value": "124"
+        }
+      ],
+      "broll": "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Pexels",
+      "subtitlePhrases": [
+        "الألمان: 162",
+        "الإيرانيون: 159",
+        "العراقيون قبلهم"
+      ]
+    },
+    {
+      "label": "الصورة",
+      "arabicHeading": "مبيعات الأجانب: 2,167 منزلاً",
+      "arabicBody": "مبيعات المنازل للأجانب في تركيا ارتفعت 9.9% عن أيلول الماضي إلى 2,167 منزلاً، أي 1.5% فقط من مجمل المبيعات (معهد الإحصاء التركي).",
+      "bigStat": {
+        "value": "2,167",
+        "label": "homes sold to foreigners in Turkey in September 2026, up 9.9% y/y, 1.5% of all sales (TurkStat via Shafaq / Bazaar Times)",
+        "arabicLabel": "منزلاً — مبيعات الأجانب بأيلول"
+      },
+      "supportingStats": [
+        {
+          "label": "سنوياً",
+          "value": "+9.9%"
+        },
+        {
+          "label": "الحصة",
+          "value": "1.5%"
+        },
+        {
+          "label": "العراقيون",
+          "value": "166"
+        }
+      ],
+      "broll": "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-17-e-iraqis-turkey-homes-166/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "Pexels",
+      "subtitlePhrases": [
+        "الأجانب: 2,167 بيت",
+        "ارتفاع 9.9%",
+        "بس 1.5% من السوق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "معهد الإحصاء التركي: العراقيون ثاني أكبر مشترٍ أجنبي للمنازل في تركيا خلال أيلول بـ166 منزلاً (شفق نيوز)",
+    "الروس أولاً بـ388 منزلاً، والألمان ثالثاً بـ162",
+    "مبيعات المنازل للأجانب ارتفعت 9.9% إلى 2,167 منزلاً",
+    "عندك قريب اشترى بيت بتركيا؟"
+  ],
+  "endQuestion": "عندك قريب اشترى بيت بتركيا؟",
+  "sources": [
+    {
+      "name": "معهد الإحصاء التركي",
+      "domain": "tuik.gov.tr"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بازار تايمز",
+      "domain": "bazaartimes.com"
+    }
+  ]
+}

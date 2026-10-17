@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 17 • 2026",
+  "arabicDateLabel": "17 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "رسوم الدولة",
+    "arabicHeadline": "وزير الداخلية الجديد: الرسوم تحت المراجعة",
+    "englishSubhead": "BAGHDAD · OCT 17 | NEW INTERIOR MINISTER YASSER AL-MALIKI TOOK OFFICE AND ORDERED A REVIEW OF THE FEES AND LEVIES COLLECTED FROM CITIZENS, AND ACTIVATION OF THE CABINET DECISION ON CONTRACTS SURROUNDED BY SUSPICIONS OF CORRUPTION (MINISTER'S MEDIA OFFICE VIA BAGHDAD TODAY); NO SPECIFIC FEES OR CONTRACTS NAMED | CONTEXT: ON OCT 15 CITIZENS WERE CHARGED 101,000 IQD FOR THE E-PASSPORT; THE MINISTRY THEN SAID THE FEE STAYS AT 91,000 (BAGHDAD TODAY, SHAFAQ, 964)",
+    "heroMedia": "images/news/2026-10-17-d-interior-fees-review/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أول يوم",
+      "arabicHeading": "أول يوم: مراجعة رسوم المواطنين",
+      "arabicBody": "وزير الداخلية ياسر المالكي باشر مهامه السبت، ووجّه بإعادة النظر في الرسوم والاستيفاءات المستحصلة من المواطنين (مكتبه الإعلامي عبر بغداد اليوم).",
+      "bigStat": {
+        "value": "17",
+        "label": "October — Interior Minister Yasser al-Maliki's first day in office, when he ordered a review of citizen fees (minister's office via Baghdad Today)",
+        "arabicLabel": "تشرين الأول — أول يوم للوزير"
+      },
+      "supportingStats": [
+        {
+          "label": "الوزير",
+          "value": "ياسر المالكي"
+        },
+        {
+          "label": "التوجيه",
+          "value": "مراجعة الرسوم"
+        },
+        {
+          "label": "التفاصيل",
+          "value": "لم تُحدَّد"
+        }
+      ],
+      "broll": "images/news/2026-10-17-d-interior-fees-review/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-17-d-interior-fees-review/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "وزير الداخلية الجديد",
+        "يوجّه بمراجعة الرسوم",
+        "اللي يدفعها المواطن"
+      ]
+    },
+    {
+      "label": "العقود",
+      "arabicHeading": "والعقود المشبوهة: تفعيل قرار الوزراء",
+      "arabicBody": "ووجّه أيضاً بتفعيل قرار مجلس الوزراء بشأن العقود التي تدور حولها شبهات فساد، بحسب البيان. ولم يذكر البيان رسوماً أو عقوداً بعينها.",
+      "bigStat": {
+        "value": "2",
+        "label": "directives in the minister's first-day statement: review fees, activate the cabinet decision on suspect contracts",
+        "arabicLabel": "توجيهان: الرسوم والعقود"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "مجلس الوزراء"
+        },
+        {
+          "label": "العقود",
+          "value": "شبهات فساد"
+        },
+        {
+          "label": "الأسماء",
+          "value": "لم تُذكر"
+        }
+      ],
+      "broll": "images/news/2026-10-17-d-interior-fees-review/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-17-d-interior-fees-review/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تفعيل قرار مجلس الوزراء",
+        "بشأن العقود المشبوهة",
+        "بدون أسماء"
+      ]
+    },
+    {
+      "label": "الجواز",
+      "arabicHeading": "الخميس: الجواز بين 101 و91 ألف",
+      "arabicBody": "في سياق منفصل، الخميس استوفت دوائر الجوازات من مواطنين 101,000 دينار للجواز الإلكتروني، ثم وجّهت الداخلية بالإبقاء على 91,000 دون زيادة (بغداد اليوم، شفق نيوز، 964).",
+      "bigStat": {
+        "value": "101,000",
+        "label": "IQD e-passport fee citizens were charged on Thursday before the ministry kept it at 91,000 (Baghdad Today / Shafaq / 964)",
+        "arabicLabel": "دينار — رسم الجواز صباح الخميس"
+      },
+      "supportingStats": [
+        {
+          "label": "المعتمد",
+          "value": "91,000"
+        },
+        {
+          "label": "الفرق",
+          "value": "10,000"
+        },
+        {
+          "label": "الجواز",
+          "value": "إلكتروني"
+        }
+      ],
+      "broll": "images/news/2026-10-17-d-interior-fees-review/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-17-d-interior-fees-review/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الخميس: 101 ألف للجواز",
+        "وبالمساء: الإبقاء على 91 ألف",
+        "بدون زيادة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وزير الداخلية ياسر المالكي يوجّه بإعادة النظر في الرسوم والاستيفاءات المستحصلة من المواطنين (بغداد اليوم)",
+    "وتفعيل قرار مجلس الوزراء بشأن العقود التي تدور حولها شبهات فساد",
+    "رسم الجواز الإلكتروني باقٍ عند 91,000 دينار بحسب الداخلية (شفق نيوز، 964)",
+    "دفعت رسوم بدائرة حكومية هالشهر؟"
+  ],
+  "endQuestion": "دفعت رسوم بدائرة حكومية هالشهر؟",
+  "sources": [
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "وزارة الداخلية",
+      "domain": "moi.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    }
+  ]
+}

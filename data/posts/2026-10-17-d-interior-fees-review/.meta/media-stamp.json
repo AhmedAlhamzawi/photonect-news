@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-17-d-interior-fees-review",
+  "date": "2026-10-17",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1157119,
+      "sha256": "abf9f5fc7bd5b0a4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1033636,
+      "sha256": "b0419d63dddc9b0f"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 424159,
+      "sha256": "979d217befa33a09"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1009988,
+      "sha256": "f2a13a11a8da1254"
+    }
+  ]
+}
