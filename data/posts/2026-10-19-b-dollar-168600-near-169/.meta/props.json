@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 19 • 2026",
+  "arabicDateLabel": "19 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "شراء المية دولار بالصيرفة: 169 ألف دينار",
+    "englishSubhead": "BAGHDAD · OCT 19 (MON) | KIFAH AND HARITHIYA BOURSES 168,600 IQD PER $100 MONDAY MORNING VS 168,000 SUNDAY AND 166,850 SATURDAY MORNING (SHAFAQ); BAGHDAD TODAY: BOURSE OPENED AT 168,500 | BAGHDAD SHOPS SELL 169,000 / BUY 168,000; ERBIL SELL 168,400 / BUY 168,300 (SHAFAQ) | OFFICIAL RATE 152,000 | MP MURAD ISMAIL (OCT 18): A PARALLEL RATE OF 170,000 IS 'UNACCEPTABLE', URGES GOVERNMENT AND CBI TO CLOSE THE GAP (BAGHDAD TODAY)",
+    "heroMedia": "images/news/2026-10-19-b-dollar-168600-near-169/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة: 168,600 صباح الاثنين",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا 168,600 ديناراً لكل 100 دولار صباح الاثنين، مقابل 168,000 يوم الأحد (شفق نيوز). بغداد اليوم: الافتتاح على 168,500.",
+      "bigStat": {
+        "value": "168,600",
+        "label": "IQD per $100 at Kifah/Harithiya bourses, Monday morning (Shafaq)",
+        "arabicLabel": "دينار لكل 100$ — البورصة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأحد",
+          "value": "168,000"
+        },
+        {
+          "label": "الأحد",
+          "value": "168,000"
+        },
+        {
+          "label": "بغداد اليوم",
+          "value": "168,500"
+        }
+      ],
+      "broll": "images/news/2026-10-19-b-dollar-168600-near-169/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-19-b-dollar-168600-near-169/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "البورصة 168,600",
+        "الأحد 168,000",
+        "لكل 100 دولار"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "بالصيرفة: تشتري الـ100 بـ169 ألف",
+      "arabicBody": "محال الصيرفة ببغداد باعت الـ100 دولار بـ169,000 ديناراً واشترتها بـ168,000، وفي أربيل البيع 168,400 (شفق نيوز).",
+      "bigStat": {
+        "value": "169,000",
+        "label": "IQD — Baghdad exchange-shop selling price per $100 (Shafaq)",
+        "arabicLabel": "دينار — سعر البيع بالصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "169,000"
+        },
+        {
+          "label": "الشراء",
+          "value": "168,000"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "168,400"
+        }
+      ],
+      "broll": "images/news/2026-10-19-b-dollar-168600-near-169/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-19-b-dollar-168600-near-169/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الصيرفة تبيع بـ169 ألف",
+        "وتشتري بـ168 ألف",
+        "أربيل 168,400"
+      ]
+    },
+    {
+      "label": "الفجوة",
+      "arabicHeading": "فوق الرسمي بـ17 ألف دينار",
+      "arabicBody": "السعر الرسمي 152,000. والنائب مراد إسماعيل وصف الأحد بلوغ 170 ألفاً بـ«غير المقبول» وطالب الحكومة والمركزي بردم الفجوة (بغداد اليوم).",
+      "bigStat": {
+        "value": "17,000",
+        "label": "IQD per $100 between the shop selling price (169,000) and the official rate (152,000) — computed",
+        "arabicLabel": "دينار فرق عن الرسمي (محتسب)"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "152,000"
+        },
+        {
+          "label": "الصيرفة",
+          "value": "169,000"
+        },
+        {
+          "label": "النائب",
+          "value": "مراد إسماعيل"
+        }
+      ],
+      "broll": "images/news/2026-10-19-b-dollar-168600-near-169/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-19-b-dollar-168600-near-169/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الرسمي 152 ألف",
+        "الفرق 17 ألف",
+        "ردم الفجوة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 168,600 ديناراً لكل 100 دولار صباح الاثنين (شفق نيوز)",
+    "الصيرفة ببغداد: بيع 169,000 وشراء 168,000 (شفق نيوز)",
+    "النائب مراد إسماعيل (الأحد): 170 ألفاً غير مقبول (بغداد اليوم)",
+    "شكد اشتريت المية دولار آخر مرة؟"
+  ],
+  "endQuestion": "شكد اشتريت المية دولار آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

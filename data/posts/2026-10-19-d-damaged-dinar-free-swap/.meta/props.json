@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 19 • 2026",
+  "arabicDateLabel": "19 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "البنك المركزي",
+    "arabicHeadline": "مصرفك رفض فلوسك الممزقة؟ المركزي يحدد متى تتبدّل مجاناً",
+    "englishSubhead": "BAGHDAD · OCT 18-19 | CENTRAL BANK OF IRAQ LAUNCHED AN ELECTRONIC SYSTEM ON ITS 'UR' PLATFORM FOR DAMAGED-CURRENCY REPLACEMENT REQUESTS (CBI STATEMENT VIA SHAFAQ, OCT 18) | CBI MEDIA DIRECTOR HAIDER GHAZI (VIA INA / 964, OCT 19): SOME BANKS DO NOT ACCEPT DAMAGED NOTES; APPLICANTS ENTER DATA ON UR AND GET AN APPOINTMENT TO HAND IN NOTES REGARDLESS OF AMOUNT | REPLACED FREE IF DAMAGE IS NOT FROM NEGLIGENCE; IF FROM NEGLIGENCE, A SET PERCENTAGE IS DEDUCTED PER CBI INSTRUCTIONS",
+    "heroMedia": "images/news/2026-10-19-d-damaged-dinar-free-swap/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المنصة",
+      "arabicHeading": "الطلب صار أونلاين عبر «أور»",
+      "arabicBody": "البنك المركزي استحدث نظاماً إلكترونياً لاستبدال العملة التالفة عبر منصة «أور»: تُدخل بياناتك وتحصل على موعد (بيان البنك، شفق نيوز).",
+      "bigStat": {
+        "value": "1",
+        "label": "electronic channel for damaged-currency requests: the Ur platform (CBI)",
+        "arabicLabel": "منصة واحدة للطلبات: أور"
+      },
+      "supportingStats": [
+        {
+          "label": "المنصة",
+          "value": "أور"
+        },
+        {
+          "label": "الخطوة",
+          "value": "إدخال البيانات"
+        },
+        {
+          "label": "بعدها",
+          "value": "موعد للتسليم"
+        }
+      ],
+      "broll": "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "منصة أور",
+        "أدخل بياناتك",
+        "واحصل على موعد"
+      ]
+    },
+    {
+      "label": "المصارف",
+      "arabicHeading": "مصارف ترفض التالف.. والمركزي يفتح باباً آخر",
+      "arabicBody": "مدير إعلام المركزي حيدر غازي: بعض المصارف لا تتسلم العملة التالفة، والمنصة تحدد موعداً للتسليم بغض النظر عن المبلغ (964).",
+      "bigStat": {
+        "value": "0",
+        "label": "minimum amount required to book a replacement appointment — 'regardless of the amount' (CBI media director)",
+        "arabicLabel": "حد أدنى للمبلغ"
+      },
+      "supportingStats": [
+        {
+          "label": "المتحدث",
+          "value": "حيدر غازي"
+        },
+        {
+          "label": "المشكلة",
+          "value": "مصارف ترفض"
+        },
+        {
+          "label": "المبلغ",
+          "value": "أي مبلغ"
+        }
+      ],
+      "broll": "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "بعض المصارف ترفض",
+        "موعد للتسليم",
+        "بغض النظر عن المبلغ"
+      ]
+    },
+    {
+      "label": "الشرط",
+      "arabicHeading": "بلا إهمال = بلا مقابل",
+      "arabicBody": "إذا لم يكن التلف بسبب الإهمال تُستبدل العملة من دون مقابل، أما الإهمال فتُستوفى عنه نسبة محددة وفق التعليمات (964).",
+      "bigStat": {
+        "value": "0",
+        "label": "IQD fee when damage is not caused by negligence (CBI media director)",
+        "arabicLabel": "دينار — إذا التلف بلا إهمال"
+      },
+      "supportingStats": [
+        {
+          "label": "بلا إهمال",
+          "value": "مجاناً"
+        },
+        {
+          "label": "مع إهمال",
+          "value": "نسبة محددة"
+        },
+        {
+          "label": "المرجع",
+          "value": "تعليمات المركزي"
+        }
+      ],
+      "broll": "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-19-d-damaged-dinar-free-swap/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "بلا إهمال",
+        "تتبدل مجاناً",
+        "والإهمال له نسبة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مصرفك رفض فلوسك الممزقة؟ المركزي يحدد متى تتبدّل مجاناً",
+    "البنك المركزي: طلبات استبدال العملة التالفة عبر منصة «أور» (شفق نيوز)",
+    "حيدر غازي: بعض المصارف لا تتسلم العملة التالفة (964)",
+    "التلف بلا إهمال يُستبدل من دون مقابل، والإهمال تُستوفى عنه نسبة (964)",
+    "عندك فلوس ممزقة بالبيت؟"
+  ],
+  "endQuestion": "عندك فلوس ممزقة بالبيت؟",
+  "sources": [
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

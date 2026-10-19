@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 19 • 2026",
+  "arabicDateLabel": "19 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_sport",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "البارالمبية الآسيوية",
+    "arabicHeadline": "العراق يهزم اليابان على أرضها 3-0.. ولاعبان لنصف النهائي",
+    "englishSubhead": "NAGOYA · OCT 19 (MON) | ASIAN PARA GAMES AICHI-NAGOYA 2026 (OCT 18-24): IRAQ'S SITTING-VOLLEYBALL TEAM BEAT HOSTS JAPAN 3-0 (25-16, 25-18, 26-24) IN GROUP 1 | TABLE TENNIS: NAJLA IMAD (WOMEN'S SINGLES CLASS 6) BEAT HONG KONG'S PANG WING KA 3-0 TO REACH THE SEMI-FINAL; MUNTADHAR FAROUK BEAT A FILIPINO OPPONENT 3-0 TO REACH THE SEMI-FINAL (SHAFAQ) | GAMES DATES: IPC / ORGANISERS",
+    "heroMedia": "images/news/2026-10-19-e-para-games-japan-3-0/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الطائرة جلوس",
+      "arabicHeading": "على أرض اليابان وأمام جمهورها: 3-0",
+      "arabicBody": "صباح الاثنين، هزم منتخب الطائرة جلوس نظيره الياباني، صاحب الأرض والجمهور، بثلاثة أشواط نظيفة، وآخرها حُسم 26-24 (شفق نيوز).",
+      "bigStat": {
+        "value": "26-24",
+        "label": "Iraq's third-set score vs hosts Japan, sitting volleyball, Iraq won 3-0 (Shafaq)",
+        "arabicLabel": "الشوط الثالث"
+      },
+      "supportingStats": [
+        {
+          "label": "الشوط 1",
+          "value": "25-16"
+        },
+        {
+          "label": "الشوط 2",
+          "value": "25-18"
+        },
+        {
+          "label": "الشوط 3",
+          "value": "26-24"
+        }
+      ],
+      "broll": "images/news/2026-10-19-e-para-games-japan-3-0/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-19-e-para-games-japan-3-0/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "العراق 3 اليابان 0",
+        "أمام جمهور اليابان",
+        "والشوط الثالث حُسم 26-24"
+      ]
+    },
+    {
+      "label": "نجلة عماد",
+      "arabicHeading": "نجلة عماد: فوزان نظيفان ونصف النهائي",
+      "arabicBody": "البطلة نجلة عماد فازت 3-0 على لاعبة كوريا الجنوبية، ثم 3-0 على بانغ وينغ كا من هونغ كونغ، وتأهلت لنصف نهائي الفئة السادسة (شفق نيوز).",
+      "bigStat": {
+        "value": "6",
+        "label": "women's singles class in which Najla Imad reached the semi-final (Shafaq)",
+        "arabicLabel": "الفئة السادسة"
+      },
+      "supportingStats": [
+        {
+          "label": "الفوز الأول",
+          "value": "كوريا الجنوبية"
+        },
+        {
+          "label": "الفوز الثاني",
+          "value": "هونغ كونغ"
+        },
+        {
+          "label": "الدور",
+          "value": "نصف النهائي"
+        }
+      ],
+      "broll": "images/news/2026-10-19-e-para-games-japan-3-0/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-19-e-para-games-japan-3-0/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "نجلة عماد",
+        "فوزان بثلاثة أشواط نظيفة",
+        "والآن نصف النهائي"
+      ]
+    },
+    {
+      "label": "منتظر فاروق",
+      "arabicHeading": "ومنتظر فاروق يلحق بها",
+      "arabicBody": "منتظر فاروق فاز على منافسه الفلبيني 3-0 وتأهل لنصف النهائي، مقترباً من المنافسة على الميداليات (شفق نيوز). والألعاب مستمرة حتى 24 تشرين الأول.",
+      "bigStat": {
+        "value": "24",
+        "label": "October — closing day of the Aichi-Nagoya 2026 Asian Para Games (organisers / IPC)",
+        "arabicLabel": "ختام الألعاب"
+      },
+      "supportingStats": [
+        {
+          "label": "المنافس",
+          "value": "الفلبين"
+        },
+        {
+          "label": "النتيجة",
+          "value": "3-0"
+        },
+        {
+          "label": "الافتتاح",
+          "value": "18 تشرين الأول"
+        }
+      ],
+      "broll": "images/news/2026-10-19-e-para-games-japan-3-0/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-19-e-para-games-japan-3-0/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "منتظر فاروق",
+        "فوز 3-0 على الفلبين",
+        "والختام 24 تشرين الأول"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "العراق يهزم اليابان على أرضها 3-0.. ولاعبان لنصف النهائي",
+    "الطائرة جلوس: العراق 3 اليابان 0 (25-16، 25-18، 26-24) (شفق نيوز)",
+    "نجلة عماد إلى نصف نهائي فردي السيدات للفئة السادسة (شفق نيوز)",
+    "منتظر فاروق إلى نصف النهائي — الألعاب حتى 24 تشرين الأول",
+    "تتوقع نجلة عماد تصل للنهائي؟"
+  ],
+  "endQuestion": "تتوقع نجلة عماد تصل للنهائي؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "اللجنة البارالمبية الدولية",
+      "domain": "paralympic.org"
+    }
+  ]
+}

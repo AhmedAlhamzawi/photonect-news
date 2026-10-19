@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-19-e-para-games-japan-3-0",
+  "date": "2026-10-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1186700,
+      "sha256": "b822debbe00fe67c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 710120,
+      "sha256": "dc2a89d2defdf04d"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 595718,
+      "sha256": "38d89046a7462dca"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1194190,
+      "sha256": "db3344443bbc169f"
+    }
+  ]
+}

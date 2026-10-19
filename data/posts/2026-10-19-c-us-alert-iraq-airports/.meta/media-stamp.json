@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-19-c-us-alert-iraq-airports",
+  "date": "2026-10-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 491240,
+      "sha256": "9b3af6ff5de3b8d0"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 766354,
+      "sha256": "5d0c2e2751821750"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 934220,
+      "sha256": "d16c8745812c6e80"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 875839,
+      "sha256": "21de5aa7650c0430"
+    }
+  ]
+}

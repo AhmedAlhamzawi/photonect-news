@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-19-d-damaged-dinar-free-swap",
+  "date": "2026-10-19",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 400160,
+      "sha256": "1b9ce0ed751631d0"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 978476,
+      "sha256": "a70b9bea9d38785b"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 773894,
+      "sha256": "9cea36bc91fab9c0"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1139148,
+      "sha256": "b6b0d3d3aefc61b3"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "dateLabel": "OCT 19 • 2026",
+  "arabicDateLabel": "19 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "تنبيه السفر",
+    "arabicHeadline": "السفارة الأميركية لرعاياها: رحلات قد تُلغى",
+    "englishSubhead": "BAGHDAD · OCT 18-19 | US EMBASSY IN IRAQ SECURITY ALERT (OCT 18): POSSIBLE FLIGHT CANCELLATIONS, AIRSPACE CLOSURES AND TRAVEL DISRUPTION ACROSS THE MIDDLE EAST | IRAN AND BACKED GROUPS MAY TARGET US INTERESTS ABROAD INCLUDING BUSINESSES; EMBASSY SAYS HOUTHIS ATTACKED SAUDI ARABIA INCLUDING CIVILIAN AIRPORTS | ADVISES US TRAVELLERS TO CHECK FLIGHT STATUS VIA BAGHDAD, ERBIL, BASRA AND SULAYMANIYAH AIRPORT WEBSITES (SHAFAQ, BAGHDAD TODAY)",
+    "heroMedia": "images/news/2026-10-19-c-us-alert-iraq-airports/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "التنبيه",
+      "arabicHeading": "تنبيه 18 تشرين: رحلات قد تُلغى",
+      "arabicBody": "السفارة الأميركية في العراق حذّرت مواطنيها في الشرق الأوسط من احتمال إلغاء رحلات وإغلاق مجالات جوية واضطراب السفر (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "18",
+        "label": "October — date of the US Embassy Baghdad security alert",
+        "arabicLabel": "تشرين الأول — تاريخ التنبيه"
+      },
+      "supportingStats": [
+        {
+          "label": "الجهة",
+          "value": "السفارة الأميركية"
+        },
+        {
+          "label": "الموجّه إلى",
+          "value": "الأميركيين"
+        },
+        {
+          "label": "المنطقة",
+          "value": "الشرق الأوسط"
+        }
+      ],
+      "broll": "images/news/2026-10-19-c-us-alert-iraq-airports/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-19-c-us-alert-iraq-airports/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تنبيه أمني",
+        "إلغاء رحلات",
+        "إغلاق مجالات جوية"
+      ]
+    },
+    {
+      "label": "السبب",
+      "arabicHeading": "السفارة: الحوثيون هاجموا مطارات مدنية سعودية",
+      "arabicBody": "وقالت السفارة إن إيران وجماعات مدعومة منها قد تستهدف مصالح أميركية، وإن الحوثيين هاجموا السعودية بما فيها مطارات مدنية.",
+      "bigStat": {
+        "value": "3",
+        "label": "threats cited: Iran, Iran-backed groups, Houthi attacks on Saudi Arabia (embassy alert)",
+        "arabicLabel": "جهات ذكرها التنبيه"
+      },
+      "supportingStats": [
+        {
+          "label": "إيران",
+          "value": "وجماعات مدعومة"
+        },
+        {
+          "label": "الحوثيون",
+          "value": "مطارات سعودية"
+        },
+        {
+          "label": "الأهداف",
+          "value": "مصالح أميركية"
+        }
+      ],
+      "broll": "images/news/2026-10-19-c-us-alert-iraq-airports/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-19-c-us-alert-iraq-airports/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مصالح أميركية",
+        "مطارات مدنية",
+        "احتمال اتساع المواجهات"
+      ]
+    },
+    {
+      "label": "المطارات",
+      "arabicHeading": "للأميركيين: تابعوا مطارات بغداد وأربيل والبصرة والسليمانية",
+      "arabicBody": "ودعت المسافرين الأميركيين لمتابعة حالة الرحلات عبر مواقع مطارات بغداد وأربيل والبصرة والسليمانية، ووضع خطط بديلة (بغداد اليوم).",
+      "bigStat": {
+        "value": "4",
+        "label": "Iraqi airports named in the alert: Baghdad, Erbil, Basra, Sulaymaniyah",
+        "arabicLabel": "مطارات عراقية ذكرها التنبيه"
+      },
+      "supportingStats": [
+        {
+          "label": "بغداد",
+          "value": "أربيل"
+        },
+        {
+          "label": "البصرة",
+          "value": "السليمانية"
+        },
+        {
+          "label": "النصيحة",
+          "value": "خطط بديلة"
+        }
+      ],
+      "broll": "images/news/2026-10-19-c-us-alert-iraq-airports/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-19-c-us-alert-iraq-airports/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "4 مطارات عراقية",
+        "تابع رحلتك",
+        "خطط بديلة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "السفارة الأميركية: احتمال إلغاء رحلات وإغلاق مجالات جوية (شفق نيوز، بغداد اليوم)",
+    "التنبيه ذكر هجمات حوثية على مطارات مدنية سعودية",
+    "متابعة الرحلات عبر مطارات بغداد وأربيل والبصرة والسليمانية",
+    "عندك سفرة بالطيارة هالشهر؟"
+  ],
+  "endQuestion": "عندك سفرة بالطيارة هالشهر؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

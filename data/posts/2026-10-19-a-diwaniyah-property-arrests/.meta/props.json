@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 19 • 2026",
+  "arabicDateLabel": "19 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "الأمن الوطني",
+    "arabicHeadline": "ملف عقارات الديوانية: 4 موظفين و30 مطلوباً",
+    "englishSubhead": "DIWANIYAH · OCT 19 (MON) | IRAQ'S NATIONAL SECURITY SERVICE SAYS IT ARRESTED 4 EMPLOYEES OF A GOVERNMENT INSTITUTION ON CHARGES OF MANIPULATING THE USE OF REAL ESTATE, UNDER JUDICIAL WARRANTS | OFFICIAL DOCUMENTS, INSPECTION REPORTS, OWNERSHIP PAPERS AND OFFICIAL MAPS SEIZED | PRELIMINARY INVESTIGATION IDENTIFIED 30 MORE PEOPLE; WARRANTS ISSUED, MOST ARRESTED (NSS STATEMENT VIA SHAFAQ, 964, BAGHDAD TODAY, ALSUMARIA)",
+    "heroMedia": "images/news/2026-10-19-a-diwaniyah-property-arrests/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الاعتقال",
+      "arabicHeading": "4 موظفين بتهمة التلاعب بالعقارات",
+      "arabicBody": "جهاز الأمن الوطني قبض الاثنين على 4 موظفين بمؤسسة حكومية في الديوانية بتهمة التلاعب باستعمال العقارات، بأوامر قضائية (بيان الجهاز).",
+      "bigStat": {
+        "value": "4",
+        "label": "government employees arrested in Diwaniyah (NSS statement)",
+        "arabicLabel": "موظفين حكوميين مقبوض عليهم"
+      },
+      "supportingStats": [
+        {
+          "label": "المحافظة",
+          "value": "الديوانية"
+        },
+        {
+          "label": "التهمة",
+          "value": "التلاعب بالعقارات"
+        },
+        {
+          "label": "السند",
+          "value": "أوامر قضائية"
+        }
+      ],
+      "broll": "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "4 موظفين",
+        "بتهمة التلاعب بالعقارات",
+        "بأوامر قضائية"
+      ]
+    },
+    {
+      "label": "المضبوطات",
+      "arabicHeading": "وثائق وخرائط رسمية ضُبطت",
+      "arabicBody": "وبحسب البيان، ضُبطت وثائق رسمية ومحاضر كشف وأوراق إقرارات وتمليك، إلى جانب خرائط رسمية (شفق نيوز، 964).",
+      "bigStat": {
+        "value": "4",
+        "label": "types of material seized: documents, inspection reports, ownership papers, maps (NSS)",
+        "arabicLabel": "أنواع مضبوطات"
+      },
+      "supportingStats": [
+        {
+          "label": "وثائق",
+          "value": "رسمية"
+        },
+        {
+          "label": "محاضر",
+          "value": "كشف"
+        },
+        {
+          "label": "خرائط",
+          "value": "رسمية"
+        }
+      ],
+      "broll": "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "وثائق رسمية",
+        "أوراق تمليك",
+        "وخرائط رسمية"
+      ]
+    },
+    {
+      "label": "الملاحقة",
+      "arabicHeading": "30 مطلوباً آخرين.. أغلبهم بالقبضة بحسب الجهاز",
+      "arabicBody": "التحقيقات الأولية حددت 30 شخصاً آخرين صدرت بحقهم أوامر قبض، وقُبض على أغلبهم، والملاحقة مستمرة (بيان الجهاز عبر بغداد اليوم).",
+      "bigStat": {
+        "value": "30",
+        "label": "more people named in arrest warrants after preliminary investigation; most arrested (NSS)",
+        "arabicLabel": "شخصاً بأوامر قبض"
+      },
+      "supportingStats": [
+        {
+          "label": "أُلقي القبض",
+          "value": "على أغلبهم"
+        },
+        {
+          "label": "الملاحقة",
+          "value": "مستمرة"
+        },
+        {
+          "label": "الوضع",
+          "value": "متهمون"
+        }
+      ],
+      "broll": "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-19-a-diwaniyah-property-arrests/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "30 شخصاً آخرين",
+        "أوامر قبض",
+        "والملاحقة مستمرة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الأمن الوطني: القبض على 4 موظفين حكوميين بالديوانية بتهمة التلاعب باستعمال العقارات (شفق نيوز، 964)",
+    "ضبط وثائق ومحاضر كشف وأوراق تمليك وخرائط رسمية (بيان الجهاز)",
+    "30 شخصاً آخرين صدرت بحقهم أوامر قبض وأغلبهم بالقبضة (بغداد اليوم، السومرية)",
+    "عندك معاملة عقار بدائرة حكومية؟"
+  ],
+  "endQuestion": "عندك معاملة عقار بدائرة حكومية؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "السومرية نيوز",
+      "domain": "alsumaria.tv"
+    }
+  ]
+}
