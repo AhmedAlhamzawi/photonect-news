@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-20-a-maysan-bank-director-5-years",
+  "date": "2026-10-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 791125,
+      "sha256": "ca8deecdaeba78a4"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1799348,
+      "sha256": "6600905283c6f6ea"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 830039,
+      "sha256": "273a52595fa4001b"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 840891,
+      "sha256": "bd11f6c56adea610"
+    }
+  ]
+}

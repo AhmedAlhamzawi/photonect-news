@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-20-b-dollar-168250-dip",
+  "date": "2026-10-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 721362,
+      "sha256": "c29b94507fcbae7f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 1230933,
+      "sha256": "cb3073bcf5a4c580"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 762636,
+      "sha256": "6ac84bf71ca75e82"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 812732,
+      "sha256": "b0131c6e98477729"
+    }
+  ]
+}

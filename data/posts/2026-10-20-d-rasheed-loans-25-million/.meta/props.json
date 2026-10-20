@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 20 • 2026",
+  "arabicDateLabel": "20 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "سلف الموظفين",
+    "arabicHeadline": "مصرف الرشيد: سلفة لحد 25 مليون وبدون كفيل",
+    "englishSubhead": "BAGHDAD · OCT 20 (TUE) | STATE-OWNED RASHEED BANK ANNOUNCES LOANS AND ADVANCES PER AN OFFICIAL LETTER DATED OCT 19 (SHAFAQ, BAGHDAD TODAY) | EMPLOYEE ADVANCES IQD 5M-25M, 5 YEARS, 8% DECLINING ANNUAL INTEREST, NO GUARANTOR; CONTRACT STAFF UP TO 5M | RETIREES 5M-15M, SAME TERMS | MARRIAGE ADVANCE UP TO 10M; HOME-REPAIR LOANS UP TO 75M; VISA CREDIT CARD LIMIT UP TO 5M; UNIVERSITY ADVANCES 25M-50M | FINANCE MINISTER FALEH SARI (MON) DIRECTED RAFIDAIN TO LAUNCH EMPLOYEE LOANS",
+    "heroMedia": "images/news/2026-10-20-d-rasheed-loans-25-million/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الموظفون",
+      "arabicHeading": "موظف؟ من 5 إلى 25 مليون",
+      "arabicBody": "بحسب كتاب لمصرف الرشيد بتاريخ 19 تشرين الأول: سلف الموظفين من 5 إلى 25 مليون دينار، لخمس سنوات، بفائدة سنوية 8% متناقصة وبدون كفيل.",
+      "bigStat": {
+        "value": "25",
+        "label": "Million IQD — top employee advance, 5 years, 8% declining, no guarantor (Rasheed letter via Shafaq, Baghdad Today)",
+        "arabicLabel": "مليون دينار — سقف سلف الموظفين"
+      },
+      "supportingStats": [
+        {
+          "label": "الفائدة",
+          "value": "8% متناقصة"
+        },
+        {
+          "label": "المدة",
+          "value": "5 سنوات"
+        },
+        {
+          "label": "العقود",
+          "value": "لحد 5 ملايين"
+        }
+      ],
+      "broll": "images/news/2026-10-20-d-rasheed-loans-25-million/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-20-d-rasheed-loans-25-million/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "من 5 إلى 25 مليون",
+        "فائدة 8% متناقصة",
+        "بدون كفيل"
+      ]
+    },
+    {
+      "label": "المتقاعدون",
+      "arabicHeading": "متقاعد؟ من 5 إلى 15 مليون",
+      "arabicBody": "سلف المتقاعدين من 5 إلى 15 مليون دينار بالشروط نفسها: خمس سنوات، وفائدة 8% متناقصة، وبدون كفيل (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "15",
+        "label": "Million IQD — top retiree advance, same terms (Rasheed letter via Shafaq, Baghdad Today)",
+        "arabicLabel": "مليون دينار — سقف سلف المتقاعدين"
+      },
+      "supportingStats": [
+        {
+          "label": "الحد الأدنى",
+          "value": "5 ملايين"
+        },
+        {
+          "label": "الفائدة",
+          "value": "8%"
+        },
+        {
+          "label": "الكفيل",
+          "value": "بدون"
+        }
+      ],
+      "broll": "images/news/2026-10-20-d-rasheed-loans-25-million/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-20-d-rasheed-loans-25-million/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "المتقاعد من 5 إلى 15 مليون",
+        "خمس سنوات",
+        "بدون كفيل"
+      ]
+    },
+    {
+      "label": "غيرها",
+      "arabicHeading": "سلفة زواج وقرض لترميم البيت",
+      "arabicBody": "القائمة تشمل سلفة زواج تصل إلى 10 ملايين، وقرض ترميم سكن حتى 75 مليوناً، وبطاقة فيزا بسقف 5 ملايين دينار (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "75",
+        "label": "Million IQD — ceiling for home-repair loans (Rasheed letter via Shafaq, Baghdad Today)",
+        "arabicLabel": "مليون دينار — سقف قرض الترميم"
+      },
+      "supportingStats": [
+        {
+          "label": "الزواج",
+          "value": "10 ملايين"
+        },
+        {
+          "label": "الفيزا",
+          "value": "5 ملايين"
+        },
+        {
+          "label": "الجامعية",
+          "value": "25 - 50 مليون"
+        }
+      ],
+      "broll": "images/news/2026-10-20-d-rasheed-loans-25-million/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-20-d-rasheed-loans-25-million/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "سلفة زواج 10 ملايين",
+        "ترميم لحد 75 مليون",
+        "فيزا بسقف 5 ملايين"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مصرف الرشيد: سلفة الموظف من 5 إلى 25 مليون دينار بفائدة 8% متناقصة وبدون كفيل (شفق نيوز، بغداد اليوم)",
+    "موظفو العقود لحد 5 ملايين، والمتقاعدون من 5 إلى 15 مليوناً بالشروط نفسها",
+    "سلفة زواج لحد 10 ملايين وقرض ترميم لحد 75 مليوناً",
+    "وزير المالية وجّه الاثنين مصرف الرافدين بإطلاق القروض للموظفين",
+    "راح تقدّم على سلفة؟"
+  ],
+  "endQuestion": "راح تقدّم على سلفة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "مصرف الرشيد",
+      "domain": "rasheedbank.gov.iq"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 20 • 2026",
+  "arabicDateLabel": "20 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "الدولار ينزل شوية: المية بـ168,250 بالبورصة",
+    "englishSubhead": "BAGHDAD · OCT 20 (TUE) | KIFAH AND HARITHIYA BOURSES 168,250 IQD PER $100 TUESDAY MORNING VS 168,600 MONDAY (SHAFAQ) | BAGHDAD SHOPS SELL 168,750 / BUY 167,750 (SHAFAQ, BAGHDAD TODAY); ERBIL SELL 168,050 / BUY 167,950 (SHAFAQ) | CBI (TUE): IMPORT TRANSFER REQUESTS HALTED BEFORE THE RATE CHANGE HAVE BEEN COMPLETED; TRADERS ASKED FOR EXTRA AMOUNTS SHOULD FILE A COMPLAINT | OFFICIAL RATE 152,000 (PUBLIC), 151,000 (BANKS)",
+    "heroMedia": "images/news/2026-10-20-b-dollar-168250-dip/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة: 168,250 صباح الثلاثاء",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا 168,250 ديناراً لكل 100 دولار صباح الثلاثاء، مقابل 168,600 يوم الاثنين (شفق نيوز).",
+      "bigStat": {
+        "value": "168,250",
+        "label": "IQD per $100 at Kifah/Harithiya bourses, Tuesday morning (Shafaq)",
+        "arabicLabel": "دينار لكل 100$ — البورصة"
+      },
+      "supportingStats": [
+        {
+          "label": "الاثنين",
+          "value": "168,600"
+        },
+        {
+          "label": "الثلاثاء",
+          "value": "168,250"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "350"
+        }
+      ],
+      "broll": "images/news/2026-10-20-b-dollar-168250-dip/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-20-b-dollar-168250-dip/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "البورصة 168,250",
+        "الاثنين 168,600",
+        "لكل 100 دولار"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "بالصيرفة: البيع 168,750",
+      "arabicBody": "محال الصيرفة ببغداد باعت الـ100 دولار بـ168,750 ديناراً واشترتها بـ167,750 (شفق نيوز، بغداد اليوم). وفي أربيل البيع 168,050.",
+      "bigStat": {
+        "value": "168,750",
+        "label": "IQD — Baghdad exchange-shop selling price per $100 (Shafaq, Baghdad Today)",
+        "arabicLabel": "دينار — سعر البيع بالصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "168,750"
+        },
+        {
+          "label": "الشراء",
+          "value": "167,750"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "168,050"
+        }
+      ],
+      "broll": "images/news/2026-10-20-b-dollar-168250-dip/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-20-b-dollar-168250-dip/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الصيرفة تبيع بـ168,750",
+        "وتشتري بـ167,750",
+        "أربيل 168,050"
+      ]
+    },
+    {
+      "label": "المركزي",
+      "arabicHeading": "المركزي: حوالات الاستيراد المتوقفة اكتملت",
+      "arabicBody": "قال البنك المركزي الثلاثاء إنه أكمل طلبات تحويل الاستيرادات المتوقفة قبل تعديل الصرف، ودعا التجار للشكوى إذا طولبوا بمبالغ إضافية (شفق نيوز).",
+      "bigStat": {
+        "value": "152,000",
+        "label": "IQD per $100 — official public selling rate since 7 Oct (CBI via Shafaq)",
+        "arabicLabel": "دينار — السعر الرسمي لكل 100$"
+      },
+      "supportingStats": [
+        {
+          "label": "الرسمي",
+          "value": "152,000"
+        },
+        {
+          "label": "للمصارف",
+          "value": "151,000"
+        },
+        {
+          "label": "الصيرفة",
+          "value": "168,750"
+        }
+      ],
+      "broll": "images/news/2026-10-20-b-dollar-168250-dip/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-20-b-dollar-168250-dip/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "حوالات الاستيراد اكتملت",
+        "اشتكِ إذا طالبوك بالزيادة",
+        "الرسمي 152 ألف"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 168,250 ديناراً لكل 100 دولار صباح الثلاثاء (شفق نيوز)",
+    "الصيرفة ببغداد: بيع 168,750 وشراء 167,750 (شفق نيوز، بغداد اليوم)",
+    "المركزي: اكتمال طلبات تحويل الاستيرادات المتوقفة (شفق نيوز)",
+    "تشتري دولار هالأسبوع؟"
+  ],
+  "endQuestion": "تشتري دولار هالأسبوع؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    }
+  ]
+}

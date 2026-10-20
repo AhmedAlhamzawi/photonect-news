@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-20-c-houthi-claims-brent-110",
+  "date": "2026-10-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 965076,
+      "sha256": "d247b5ed8e6b08f7"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 961655,
+      "sha256": "968f2e47ef5100d9"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1842543,
+      "sha256": "27fe4fe8356f9153"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1238112,
+      "sha256": "3412978b36758f84"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "dateLabel": "OCT 20 • 2026",
+  "arabicDateLabel": "20 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "region_society",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "مؤشر الجوع العالمي",
+    "arabicHeadline": "مؤشر الجوع 2026: العراق بالمرتبة 61 من 122 دولة",
+    "englishSubhead": "GLOBAL · OCT 20 (TUE) | GLOBAL HUNGER INDEX 2026: IRAQ RANKS 61ST WITH A SCORE OF 11.9 ('MODERATE'), BETWEEN UKRAINE (60TH, 11.6) AND HONDURAS (62ND, 12.3) | IRAQ'S SCORE: 22.9 (2000), 17.2 (2012), 13.5 (2018), 11.9 (2026) | CHILD STUNTING DOWN FROM 28.0% (2000) TO 9.4% | REGION (WEST ASIA & NORTH AFRICA) 12.5, WORLD 18.1 | SAUDI 33RD, JORDAN & LEBANON 48TH, EGYPT 55TH; KUWAIT AND UAE BELOW 5 (GHI, SHAFAQ)",
+    "heroMedia": "images/news/2026-10-20-e-hunger-index-iraq-61/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "المرتبة",
+      "arabicHeading": "العراق 61 عالمياً بـ11.9 نقطة",
+      "arabicBody": "حلّ العراق بالمرتبة 61 في مؤشر الجوع العالمي 2026 بـ11.9 نقطة، ضمن مستوى «معتدل»، بين أوكرانيا وهندوراس (موقع المؤشر، شفق نيوز).",
+      "bigStat": {
+        "value": "61",
+        "label": "Iraq's rank in the Global Hunger Index 2026, score 11.9, 'moderate' (GHI, Shafaq)",
+        "arabicLabel": "مرتبة العراق عالمياً"
+      },
+      "supportingStats": [
+        {
+          "label": "النقاط",
+          "value": "11.9"
+        },
+        {
+          "label": "المستوى",
+          "value": "معتدل"
+        },
+        {
+          "label": "الدول المصنفة",
+          "value": "122"
+        }
+      ],
+      "broll": "images/news/2026-10-20-e-hunger-index-iraq-61/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-20-e-hunger-index-iraq-61/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "المرتبة 61",
+        "11.9 نقطة",
+        "مستوى معتدل"
+      ]
+    },
+    {
+      "label": "التحسن",
+      "arabicHeading": "نتيجة العراق: من 22.9 إلى 11.9 نقطة",
+      "arabicBody": "سجّل العراق 22.9 نقطة عام 2000 و13.5 عام 2018، والنقاط الأقل تعني جوعاً أقل. وتقزّم الأطفال دون الخامسة نزل من 28% إلى 9.4% (موقع المؤشر).",
+      "bigStat": {
+        "value": "9.4%",
+        "label": "Child stunting, under-fives, now — down from 28.0% in 2000 (GHI)",
+        "arabicLabel": "تقزّم الأطفال دون الخامسة"
+      },
+      "supportingStats": [
+        {
+          "label": "2000",
+          "value": "22.9"
+        },
+        {
+          "label": "2018",
+          "value": "13.5"
+        },
+        {
+          "label": "2026",
+          "value": "11.9"
+        }
+      ],
+      "broll": "images/news/2026-10-20-e-hunger-index-iraq-61/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-20-e-hunger-index-iraq-61/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "22.9 عام 2000",
+        "11.9 عام 2026",
+        "التقزم 9.4%"
+      ]
+    },
+    {
+      "label": "الجيران",
+      "arabicHeading": "وين العراق من الدول العربية؟",
+      "arabicBody": "السعودية بالمرتبة 33، والأردن ولبنان 48، ومصر 55، والكويت والإمارات دون 5 نقاط. ومعدل غرب آسيا وشمال أفريقيا 12.5 (المؤشر، شفق نيوز).",
+      "bigStat": {
+        "value": "12.5",
+        "label": "GHI score for West Asia & North Africa; world 18.1 (GHI)",
+        "arabicLabel": "معدل المنطقة بالنقاط"
+      },
+      "supportingStats": [
+        {
+          "label": "السعودية",
+          "value": "33"
+        },
+        {
+          "label": "الأردن",
+          "value": "48"
+        },
+        {
+          "label": "مصر",
+          "value": "55"
+        }
+      ],
+      "broll": "images/news/2026-10-20-e-hunger-index-iraq-61/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-20-e-hunger-index-iraq-61/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "السعودية 33",
+        "الأردن 48 ومصر 55",
+        "معدل المنطقة 12.5"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مؤشر الجوع العالمي 2026: العراق بالمرتبة 61 من 122 دولة بـ11.9 نقطة (موقع المؤشر، شفق نيوز)",
+    "نتيجة العراق: 22.9 عام 2000 و11.9 عام 2026، والأقل يعني جوعاً أقل",
+    "تقزّم الأطفال دون الخامسة: من 28% إلى 9.4%",
+    "السعودية 33، الأردن ولبنان 48، مصر 55",
+    "بيتكم يستلم الحصة التموينية؟"
+  ],
+  "endQuestion": "بيتكم يستلم الحصة التموينية؟",
+  "sources": [
+    {
+      "name": "مؤشر الجوع العالمي",
+      "domain": "globalhungerindex.org"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

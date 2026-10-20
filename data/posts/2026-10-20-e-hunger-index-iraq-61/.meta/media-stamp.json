@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-20-e-hunger-index-iraq-61",
+  "date": "2026-10-20",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 931236,
+      "sha256": "6f40a7f4a377c45b"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 867227,
+      "sha256": "1d70230a5c672390"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1354519,
+      "sha256": "a1881e321b2e06c8"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1398394,
+      "sha256": "f9eb121a397f8970"
+    }
+  ]
+}

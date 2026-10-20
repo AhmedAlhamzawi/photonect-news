@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 20 • 2026",
+  "arabicDateLabel": "20 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النفط والخليج",
+    "arabicHeadline": "الحوثيون يعلنون ضرب منشآت سعودية.. وبرنت فوق 110",
+    "englishSubhead": "GULF · OCT 20 (TUE) | HOUTHIS SAY (MON) THEY STRUCK AN ARAMCO SITE IN YANBU, THE SHAYBAH OILFIELD, KING KHALID INTERNATIONAL AIRPORT (RIYADH) AND ABHA AIRPORT; NO SAUDI CONFIRMATION, REUTERS COULD NOT INDEPENDENTLY VERIFY (SHAFAQ, CITING REUTERS) | BRENT FUTURES +55C TO $110.10 TUESDAY AFTER $110.70 IN THE PREVIOUS SESSION, HIGHEST SINCE MAY 20; WTI NOV $103.91 (SHAFAQ, BAGHDAD TODAY) | KPLER: AT LEAST 18 SHIPS ATTACKED IN TWO WEEKS",
+    "heroMedia": "images/news/2026-10-20-c-houthi-claims-brent-110/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الإعلان",
+      "arabicHeading": "الحوثيون: استهدفنا منشآت طاقة ومطارين",
+      "arabicBody": "أعلنت جماعة الحوثي الاثنين استهداف موقع لأرامكو في ينبع وحقل الشيبة ومطاري الرياض وأبها. لا تأكيد سعودياً، ورويترز لم تتحقق (شفق نيوز).",
+      "bigStat": {
+        "value": "4",
+        "label": "Sites the Houthis say they struck: Yanbu (Aramco), Shaybah, King Khalid airport, Abha airport — unconfirmed (Shafaq/Reuters)",
+        "arabicLabel": "مواقع بحسب إعلان الحوثيين"
+      },
+      "supportingStats": [
+        {
+          "label": "ينبع",
+          "value": "أرامكو"
+        },
+        {
+          "label": "الشيبة",
+          "value": "حقل نفط"
+        },
+        {
+          "label": "مطاران",
+          "value": "الرياض وأبها"
+        }
+      ],
+      "broll": "images/news/2026-10-20-c-houthi-claims-brent-110/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-20-c-houthi-claims-brent-110/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "ينبع والشيبة",
+        "مطارا الرياض وأبها",
+        "لا تأكيد سعودياً"
+      ]
+    },
+    {
+      "label": "برنت",
+      "arabicHeading": "برنت: 110.10 دولارات للبرميل",
+      "arabicBody": "صعد برنت الثلاثاء إلى 110.10 دولارات للبرميل، بعدما بلغ 110.70 في الجلسة السابقة، وهو الأعلى منذ 20 أيار (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "110.10",
+        "label": "USD per barrel — Brent futures, Tuesday (Shafaq, Baghdad Today)",
+        "arabicLabel": "دولار — برميل برنت"
+      },
+      "supportingStats": [
+        {
+          "label": "الجلسة السابقة",
+          "value": "110.70"
+        },
+        {
+          "label": "غرب تكساس",
+          "value": "103.91"
+        },
+        {
+          "label": "الأعلى منذ",
+          "value": "20 أيار"
+        }
+      ],
+      "broll": "images/news/2026-10-20-c-houthi-claims-brent-110/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-20-c-houthi-claims-brent-110/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "برنت 110.10",
+        "الأعلى منذ أيار",
+        "غرب تكساس 103.91"
+      ]
+    },
+    {
+      "label": "السفن",
+      "arabicHeading": "18 سفينة تعرضت لهجمات بأسبوعين",
+      "arabicBody": "بحسب شركة كبلر لتتبع السفن، تعرضت 18 سفينة على الأقل لهجمات خلال أسبوعين، ما أبقى علاوة المخاطر مرتفعة في أسواق النفط (شفق نيوز).",
+      "bigStat": {
+        "value": "18",
+        "label": "Ships attacked in two weeks, at least (Kpler, via Shafaq)",
+        "arabicLabel": "سفينة تعرضت لهجمات خلال أسبوعين"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "أسبوعان"
+        },
+        {
+          "label": "المصدر",
+          "value": "كبلر"
+        },
+        {
+          "label": "برنت",
+          "value": "110.10"
+        }
+      ],
+      "broll": "images/news/2026-10-20-c-houthi-claims-brent-110/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-20-c-houthi-claims-brent-110/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "18 سفينة",
+        "خلال أسبوعين",
+        "بحسب كبلر"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "الحوثيون يعلنون استهداف منشآت طاقة ومطارين في السعودية.. لا تأكيد سعودياً ورويترز لم تتحقق (شفق نيوز)",
+    "برنت 110.10 دولارات للبرميل الثلاثاء (شفق نيوز، بغداد اليوم)",
+    "كبلر: 18 سفينة على الأقل تعرضت لهجمات خلال أسبوعين",
+    "تتابع سعر النفط كل يوم؟"
+  ],
+  "endQuestion": "تتابع سعر النفط كل يوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "رويترز",
+      "domain": "reuters.com"
+    }
+  ]
+}

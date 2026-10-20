@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 20 • 2026",
+  "arabicDateLabel": "20 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "القضاء",
+    "arabicHeadline": "قروض خارج الضوابط.. السجن لمدير مصرف سابق",
+    "englishSubhead": "MAYSAN · OCT 20 (TUE) | MAYSAN CRIMINAL COURT SENTENCES THE FORMER DIRECTOR OF THE COOPERATIVE AGRICULTURAL BANK IN MAYSAN TO 5 YEARS AND 1 MONTH | PER THE SUPREME JUDICIAL COUNCIL: HE DISBURSED LOANS TO CITIZENS IN BREACH OF RULES, CAUSING WASTE OF PUBLIC MONEY; ARTICLE 315 PENAL CODE WITH COMPLICITY ARTICLES 47-49 (SHAFAQ, BAGHDAD TODAY) | SHAFAQ: IN AUG 2021 THE SAME COURT GAVE HIM 3 YEARS; HIS SENTENCES THEN TOTALLED 33 YEARS ACROSS 6 RULINGS FOR FORGERY AND EMBEZZLEMENT",
+    "heroMedia": "images/news/2026-10-20-a-maysan-bank-director-5-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الحكم",
+      "arabicHeading": "جنايات ميسان: 5 سنوات وشهر",
+      "arabicBody": "حكمت محكمة جنايات ميسان، الثلاثاء، بالسجن خمس سنوات وشهراً على المدير الأسبق للمصرف الزراعي التعاوني في المحافظة (مجلس القضاء الأعلى).",
+      "bigStat": {
+        "value": "5",
+        "label": "Years (plus 1 month) in prison — Maysan Criminal Court, Tue (Supreme Judicial Council)",
+        "arabicLabel": "سنوات وشهر سجن"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "5 سنوات وشهر"
+        },
+        {
+          "label": "المحكمة",
+          "value": "جنايات ميسان"
+        },
+        {
+          "label": "اليوم",
+          "value": "الثلاثاء"
+        }
+      ],
+      "broll": "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "خمس سنوات وشهر",
+        "مدير المصرف الزراعي الأسبق",
+        "جنايات ميسان"
+      ]
+    },
+    {
+      "label": "التهمة",
+      "arabicHeading": "قروض للمواطنين خلافاً للضوابط",
+      "arabicBody": "بحسب بيان القضاء، صرف المدان قروضاً للمواطنين خلافاً للضوابط والتعليمات، ما سبّب هدراً وضرراً بالمال العام (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "315",
+        "label": "Penal Code article the ruling cites, with complicity articles 47-49 (judiciary statement)",
+        "arabicLabel": "المادة من قانون العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "المادة",
+          "value": "315"
+        },
+        {
+          "label": "الاشتراك",
+          "value": "47 - 49"
+        },
+        {
+          "label": "الضرر",
+          "value": "المال العام"
+        }
+      ],
+      "broll": "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "قروض خلافاً للضوابط",
+        "هدر بالمال العام",
+        "المادة 315"
+      ]
+    },
+    {
+      "label": "السوابق",
+      "arabicHeading": "ليس الحكم الأول بحقه",
+      "arabicBody": "وفق شفق نيوز، حكمت المحكمة نفسها عليه في آب 2021 بالسجن 3 سنوات، وبلغت أحكامه حينها 6 مجموعها 33 سنة، بتهم تزوير واختلاس.",
+      "bigStat": {
+        "value": "33",
+        "label": "Years — total of his 6 earlier sentences as of Aug 2021, forgery and embezzlement (Shafaq)",
+        "arabicLabel": "سنة مجموع أحكامه حتى 2021"
+      },
+      "supportingStats": [
+        {
+          "label": "آب 2021",
+          "value": "3 سنوات"
+        },
+        {
+          "label": "الأحكام",
+          "value": "6"
+        },
+        {
+          "label": "المجموع",
+          "value": "33 سنة"
+        }
+      ],
+      "broll": "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-20-a-maysan-bank-director-5-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "آب 2021",
+        "ستة أحكام",
+        "33 سنة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "قروض خارج الضوابط.. السجن لمدير مصرف سابق",
+    "جنايات ميسان: السجن 5 سنوات وشهر للمدير الأسبق للمصرف الزراعي (مجلس القضاء الأعلى)",
+    "التهمة: صرف قروض للمواطنين خلافاً للضوابط (شفق نيوز، بغداد اليوم)",
+    "شفق نيوز: أحكامه حتى 2021 بلغت 33 سنة",
+    "أخذت قرض من مصرف حكومي؟"
+  ],
+  "endQuestion": "أخذت قرض من مصرف حكومي؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "مجلس القضاء الأعلى",
+      "domain": "sjc.iq"
+    }
+  ]
+}
