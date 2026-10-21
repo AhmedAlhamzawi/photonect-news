@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-21-b-dollar-168900-near-170",
+  "date": "2026-10-21",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 825024,
+      "sha256": "28fac3aae7d1878c"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 641657,
+      "sha256": "f1eced3b702698e8"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1120032,
+      "sha256": "bdf0ec37f10d1554"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1090308,
+      "sha256": "5d1403dd082cf7f8"
+    }
+  ]
+}

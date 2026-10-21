@@ -1,0 +1,142 @@
+{
+  "dateLabel": "OCT 21 • 2026",
+  "arabicDateLabel": "21 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "فلوس الدولة",
+    "arabicHeadline": "دين الدولة الداخلي زاد 25.4% بثمانية أشهر.. وصار 113.485 تريليون",
+    "englishSubhead": "BAGHDAD · OCT 21 (WED) | CBI DATA (VIA SHAFAQ): DOMESTIC PUBLIC DEBT 113.485 TRILLION IQD AT END-AUGUST 2026 VS 109.516 AT END-JULY, +3.969 TRILLION IN ONE MONTH | +22.97 TRILLION (+25.4%) SINCE END-2025 (90.515) | COMPONENTS: FINANCE MINISTRY CLAIMS HELD BY THE CBI 76.499, LOANS 18.945, BONDS 9.330, TREASURY BILLS 8.711 | FOREIGN RESERVES $81.538BN END-AUGUST, UP $905M ON JULY ($80.633BN) BUT $15.894BN BELOW END-2025 ($97.432BN)",
+    "heroMedia": "images/news/2026-10-21-e-debt-113-trillion-reserves/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الدين",
+      "arabicHeading": "دين الدولة الداخلي: 113.485 تريليون دينار",
+      "arabicBody": "بيانات البنك المركزي: الدين العام الداخلي بلغ 113.485 تريليون دينار بنهاية آب 2026، مقابل 109.516 تريليوناً بنهاية تموز (شفق نيوز).",
+      "bigStat": {
+        "value": "113.485",
+        "label": "Trillion IQD — domestic public debt, end-August 2026 (CBI data via Shafaq)",
+        "arabicLabel": "تريليون دينار — الدين الداخلي"
+      },
+      "supportingStats": [
+        {
+          "label": "تموز",
+          "value": "109.516"
+        },
+        {
+          "label": "آب",
+          "value": "113.485"
+        },
+        {
+          "label": "بشهر واحد",
+          "value": "3.969"
+        }
+      ],
+      "broll": "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "113.485 تريليون",
+        "نهاية آب",
+        "زيادة بشهر واحد"
+      ]
+    },
+    {
+      "label": "الزيادة",
+      "arabicHeading": "25.4% أكثر من نهاية 2025",
+      "arabicBody": "بنهاية 2025 كان الدين 90.515 تريليون دينار، أي زيادة 22.97 تريليوناً بنسبة 25.4% خلال ثمانية أشهر. ومطالبات البنك المركزي على وزارة المالية 76.499 تريليوناً (شفق نيوز).",
+      "bigStat": {
+        "value": "25.4",
+        "label": "Percent growth in domestic debt since end-2025 (CBI data via Shafaq)",
+        "arabicLabel": "% زيادة خلال 8 أشهر"
+      },
+      "supportingStats": [
+        {
+          "label": "نهاية 2025",
+          "value": "90.515"
+        },
+        {
+          "label": "قروض",
+          "value": "18.945"
+        },
+        {
+          "label": "سندات",
+          "value": "9.330"
+        }
+      ],
+      "broll": "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "نهاية 2025",
+        "+22.97 تريليون",
+        "مطالبات المركزي"
+      ]
+    },
+    {
+      "label": "الاحتياطي",
+      "arabicHeading": "الاحتياطي يرتفع بآب.. لكنه دون نهاية 2025",
+      "arabicBody": "الاحتياطيات الأجنبية ارتفعت بآب 905 ملايين دولار إلى 81.538 مليار، لكنها أقل بـ15.894 مليار من نهاية 2025 حين بلغت 97.432 مليار (شفق نيوز).",
+      "bigStat": {
+        "value": "81.538",
+        "label": "Billion USD — CBI foreign reserves, end-August 2026 (CBI data via Shafaq)",
+        "arabicLabel": "مليار دولار — الاحتياطي الأجنبي"
+      },
+      "supportingStats": [
+        {
+          "label": "تموز",
+          "value": "80.633"
+        },
+        {
+          "label": "نهاية 2025",
+          "value": "97.432"
+        },
+        {
+          "label": "زيادة آب",
+          "value": "905 ملايين"
+        }
+      ],
+      "broll": "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-21-e-debt-113-trillion-reserves/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "81.538 مليار",
+        "+905 ملايين",
+        "دون نهاية 2025"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "البنك المركزي: الدين العام الداخلي 113.485 تريليون دينار بنهاية آب (شفق نيوز)",
+    "زيادة 3.969 تريليون دينار خلال شهر واحد",
+    "الاحتياطيات الأجنبية 81.538 مليار دولار بنهاية آب",
+    "تعرف شكد دين العراق الداخلي قبل هالفيديو؟"
+  ],
+  "endQuestion": "تعرف شكد دين العراق الداخلي قبل هالفيديو؟",
+  "sources": [
+    {
+      "name": "البنك المركزي العراقي",
+      "domain": "cbi.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    }
+  ]
+}

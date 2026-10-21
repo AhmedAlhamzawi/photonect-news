@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 21 • 2026",
+  "arabicDateLabel": "21 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_economy",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "العراق وإيران",
+    "arabicHeadline": "منفذ الشيب انغلق.. وفرانس برس: معابر إيران تنغلق تباعاً",
+    "englishSubhead": "MAYSAN · OCT 21 (WED) | SHIB BORDER CROSSING WITH IRAN CLOSED FROM 6AM WEDNESDAY UNTIL FURTHER NOTICE ON FEDERAL GOVERNMENT ORDERS, PER A MAYSAN COUNCIL SOURCE (SHAFAQ) | IRAN INTERIOR MINISTRY SPOKESMAN ZEINIVAND: NO PRIOR NOTICE; UNDER THE BILATERAL AGREEMENT CLOSURES LONGER THAN ONE DAY MUST BE NOTIFIED (SHAFAQ) | BAGHDAD TODAY, CITING AFP: IRAQI GOVERNMENT SOURCES SAY CROSSINGS WILL CLOSE ONE BY ONE EXCEPT TWO; SOURCES TOLD REUTERS OF DIRECT US PRESSURE; TRADE ACROSS THE 7 CROSSINGS EXCEEDED $10BN LAST YEAR",
+    "heroMedia": "images/news/2026-10-21-c-shib-closed-iran-crossings/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الشيب",
+      "arabicHeading": "الشيب مغلق حتى إشعار آخر",
+      "arabicBody": "أُغلق منفذ الشيب مع إيران في ميسان من السادسة صباح الأربعاء وحتى إشعار آخر، بأوامر الحكومة الاتحادية، بحسب مصدر في مجلس ميسان (شفق نيوز).",
+      "bigStat": {
+        "value": "6",
+        "label": "AM Wednesday — Shib crossing closed until further notice (Maysan council source via Shafaq)",
+        "arabicLabel": "صباح الأربعاء — بدء الإغلاق"
+      },
+      "supportingStats": [
+        {
+          "label": "المنفذ",
+          "value": "الشيب"
+        },
+        {
+          "label": "المحافظة",
+          "value": "ميسان"
+        },
+        {
+          "label": "المدة",
+          "value": "حتى إشعار آخر"
+        }
+      ],
+      "broll": "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "منفذ الشيب",
+        "حتى إشعار آخر",
+        "بأوامر اتحادية"
+      ]
+    },
+    {
+      "label": "طهران",
+      "arabicHeading": "طهران: ما بلّغونا مسبقاً",
+      "arabicBody": "المتحدث باسم الداخلية الإيرانية قال إن الإغلاق جرى بلا إشعار مسبق، وإن الاتفاق المشترك يوجب الإبلاغ إذا تجاوز الإغلاق يوماً واحداً (شفق نيوز).",
+      "bigStat": {
+        "value": "1",
+        "label": "Day — closures longer than this must be notified under the bilateral agreement, per Iran's interior ministry (Shafaq)",
+        "arabicLabel": "يوم — حد الإبلاغ المسبق"
+      },
+      "supportingStats": [
+        {
+          "label": "المتحدث",
+          "value": "زيني وند"
+        },
+        {
+          "label": "الموقف",
+          "value": "استياء"
+        },
+        {
+          "label": "الملف",
+          "value": "قيد الدراسة"
+        }
+      ],
+      "broll": "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "بلا إشعار مسبق",
+        "الداخلية الإيرانية",
+        "أكثر من يوم"
+      ]
+    },
+    {
+      "label": "المعابر",
+      "arabicHeading": "فرانس برس: معبران فقط يبقيان",
+      "arabicBody": "نقلت بغداد اليوم عن فرانس برس أن المعابر تُغلق تباعاً عدا اثنين، وعن مصادر لرويترز: بضغط أمريكي. وتبادل المعابر السبعة تجاوز 10 مليارات دولار العام الماضي.",
+      "bigStat": {
+        "value": "10",
+        "label": "Billion USD — Iraq-Iran trade across the 7 crossings last year (AFP via Baghdad Today)",
+        "arabicLabel": "مليارات دولار تبادل العام الماضي"
+      },
+      "supportingStats": [
+        {
+          "label": "المعابر",
+          "value": "7"
+        },
+        {
+          "label": "تبقى مفتوحة",
+          "value": "2"
+        },
+        {
+          "label": "المصدر",
+          "value": "فرانس برس"
+        }
+      ],
+      "broll": "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-21-c-shib-closed-iran-crossings/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "عدا معبرين",
+        "ضغوط أمريكية بحسب مصادر",
+        "10 مليارات دولار"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "أُغلق منفذ الشيب مع إيران حتى إشعار آخر (شفق نيوز)",
+    "الداخلية الإيرانية: لم نتلقَّ إشعاراً مسبقاً (شفق نيوز)",
+    "بغداد اليوم عن فرانس برس: المعابر تُغلق تباعاً عدا اثنين",
+    "تسافر لإيران براً؟"
+  ],
+  "endQuestion": "تسافر لإيران براً؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "فرانس برس",
+      "domain": "afp.com"
+    }
+  ]
+}

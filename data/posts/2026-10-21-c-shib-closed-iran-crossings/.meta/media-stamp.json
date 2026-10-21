@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-21-c-shib-closed-iran-crossings",
+  "date": "2026-10-21",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1345544,
+      "sha256": "8cd973aff3ab726f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 985337,
+      "sha256": "5ba74bf9473cebf6"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 1344339,
+      "sha256": "bad033075cdeb231"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1155614,
+      "sha256": "c18bf20d70a3aeee"
+    }
+  ]
+}

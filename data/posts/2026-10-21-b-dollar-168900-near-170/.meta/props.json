@@ -1,0 +1,142 @@
+{
+  "dateLabel": "OCT 21 • 2026",
+  "arabicDateLabel": "21 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "المية دولار بالبورصة 168,900.. تقرب من 170 ألف",
+    "englishSubhead": "BAGHDAD · OCT 21 (WED) | KIFAH AND HARITHIYA BOURSES 168,900 IQD PER $100 WEDNESDAY MORNING VS 168,250 TUESDAY MORNING (SHAFAQ); BAGHDAD TODAY: BOURSE OPENED AT 169,100 | BAGHDAD SHOPS SELL 169,500 / BUY 168,500; ERBIL SELL 168,900 / BUY 168,800 (SHAFAQ) | RAMADI: A TRADER TELLS SHAFAQ IMPORTERS WHO BOUGHT ON DEFERRED DOLLARS LOST UP TO 16% OF THEIR MONEY AFTER THE RATE CHANGE; SHOPS OFFERED FOR RENT | OFFICIAL RATE 152,000 SINCE OCT 7",
+    "heroMedia": "images/news/2026-10-21-b-dollar-168900-near-170/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة: 168,900 صباح الأربعاء",
+      "arabicBody": "بورصتا الكفاح والحارثية سجلتا 168,900 دينار لكل 100 دولار صباح الأربعاء، مقابل 168,250 صباح الثلاثاء (شفق نيوز). وبغداد اليوم: الافتتاح على 169,100.",
+      "bigStat": {
+        "value": "168,900",
+        "label": "IQD per $100 at Kifah/Harithiya bourses, Wednesday morning (Shafaq)",
+        "arabicLabel": "دينار لكل 100$ — البورصة"
+      },
+      "supportingStats": [
+        {
+          "label": "الثلاثاء",
+          "value": "168,250"
+        },
+        {
+          "label": "الأربعاء",
+          "value": "168,900"
+        },
+        {
+          "label": "الفرق (محتسب)",
+          "value": "650"
+        }
+      ],
+      "broll": "images/news/2026-10-21-b-dollar-168900-near-170/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-21-b-dollar-168900-near-170/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "البورصة 168,900",
+        "الثلاثاء 168,250",
+        "لكل 100 دولار"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "بالصيرفة: البيع 169,500",
+      "arabicBody": "محال الصيرفة ببغداد باعت الـ100 دولار بـ169,500 دينار واشترتها بـ168,500. وفي أربيل البيع 168,900 والشراء 168,800 (شفق نيوز).",
+      "bigStat": {
+        "value": "169,500",
+        "label": "IQD — Baghdad exchange-shop selling price per $100 (Shafaq)",
+        "arabicLabel": "دينار — سعر البيع بالصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "169,500"
+        },
+        {
+          "label": "الشراء",
+          "value": "168,500"
+        },
+        {
+          "label": "أربيل بيع",
+          "value": "168,900"
+        }
+      ],
+      "broll": "images/news/2026-10-21-b-dollar-168900-near-170/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-21-b-dollar-168900-near-170/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الصيرفة تبيع بـ169,500",
+        "وتشتري بـ168,500",
+        "أربيل 168,900"
+      ]
+    },
+    {
+      "label": "الرمادي",
+      "arabicHeading": "بالرمادي: خسائر تجار لحد 16%",
+      "arabicBody": "صاحب مشروع تجاري بالرمادي قال لشفق نيوز إن مستوردين اشتروا بالدولار الآجل خسروا حتى 16% من أموالهم بعد تغيّر الصرف.",
+      "bigStat": {
+        "value": "16%",
+        "label": "Losses of up to 16% for importers who bought on deferred dollars — a Ramadi trader to Shafaq",
+        "arabicLabel": "خسائر تجار بالرمادي"
+      },
+      "supportingStats": [
+        {
+          "label": "إيجار محل",
+          "value": "700 ألف"
+        },
+        {
+          "label": "المولدة",
+          "value": "150 ألف"
+        },
+        {
+          "label": "الرسمي",
+          "value": "152,000"
+        }
+      ],
+      "broll": "images/news/2026-10-21-b-dollar-168900-near-170/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-21-b-dollar-168900-near-170/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "خسائر لحد 16%",
+        "الدولار الآجل",
+        "محال للإيجار"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بورصتا الكفاح والحارثية: 168,900 دينار لكل 100 دولار صباح الأربعاء (شفق نيوز)",
+    "الصيرفة ببغداد: بيع 169,500 وشراء 168,500 (شفق نيوز)",
+    "تاجر بالرمادي لشفق نيوز: خسائر لحد 16% بعد تغيّر الصرف",
+    "شكد صرف المية دولار عندكم اليوم؟"
+  ],
+  "endQuestion": "شكد صرف المية دولار عندكم اليوم؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

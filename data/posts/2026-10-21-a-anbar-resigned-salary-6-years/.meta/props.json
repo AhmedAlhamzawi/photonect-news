@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 21 • 2026",
+  "arabicDateLabel": "21 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "مستقيل من 6 سنين.. ورواتبه انصرفت بأثر رجعي",
+    "englishSubhead": "ANBAR · OCT 21 (WED) | FEDERAL INTEGRITY COMMISSION EXECUTES 4 ARREST WARRANTS AGAINST EMPLOYEES OF THE ANBAR EDUCATION DIRECTORATE (COMMISSION STATEMENT VIA SHAFAQ, BAGHDAD TODAY) | PER THE COMMISSION: THE FILE OF AN EMPLOYEE WHO RESIGNED 6 YEARS AGO WAS HIDDEN; A FORGED 'RESUMPTION OF WORK' LETTER AND A 'CONTINUITY OF SERVICE' LETTER SHOWED HIM BACK ON THE JOB, TO OBTAIN HIS SALARY AND DUES RETROACTIVELY | ARREARS PAID FOR 2020-2026; THE COMMISSION SAYS THE MONEY WAS RECOVERED (NO AMOUNT DISCLOSED) | RAMADI INTEGRITY INVESTIGATION JUDGE ORDERED THE SUSPECTS DETAINED UNDER PENAL CODE ARTICLES 289 AND 298 — ACCUSED, NOT CONVICTED",
+    "heroMedia": "images/news/2026-10-21-a-anbar-resigned-salary-6-years/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القبض",
+      "arabicHeading": "النزاهة: 4 أوامر قبض بتربية الأنبار",
+      "arabicBody": "نفّذت هيئة النزاهة الاتحادية، الأربعاء، أربعة أوامر قبض بحق موظفين في مديرية تربية الأنبار (بيان الهيئة عبر شفق نيوز وبغداد اليوم).",
+      "bigStat": {
+        "value": "4",
+        "label": "Arrest warrants executed against Anbar Education employees, Wed (Integrity Commission)",
+        "arabicLabel": "أوامر قبض"
+      },
+      "supportingStats": [
+        {
+          "label": "المديرية",
+          "value": "تربية الأنبار"
+        },
+        {
+          "label": "اليوم",
+          "value": "الأربعاء"
+        },
+        {
+          "label": "الصفة",
+          "value": "متهمون"
+        }
+      ],
+      "broll": "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "أربعة أوامر قبض",
+        "مديرية تربية الأنبار",
+        "بيان هيئة النزاهة"
+      ]
+    },
+    {
+      "label": "الوثائق",
+      "arabicHeading": "مستقيل.. وعلى الورق رجع للدوام",
+      "arabicBody": "بحسب الهيئة، أُخفيت أوليات استقالة موظف مستقيل منذ 6 سنوات، وزُوّر كتاب مباشرة وكتاب استمرارية لإظهار عودته إلى الوظيفة.",
+      "bigStat": {
+        "value": "6",
+        "label": "Years since the employee resigned (Integrity Commission)",
+        "arabicLabel": "سنوات على استقالته"
+      },
+      "supportingStats": [
+        {
+          "label": "الاستقالة",
+          "value": "قبل 6 سنوات"
+        },
+        {
+          "label": "الوثيقة",
+          "value": "كتاب مباشرة"
+        },
+        {
+          "label": "ومعه",
+          "value": "كتاب استمرارية"
+        }
+      ],
+      "broll": "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مستقيل منذ ست سنوات",
+        "كتاب مباشرة",
+        "عودة على الورق"
+      ]
+    },
+    {
+      "label": "الفلوس",
+      "arabicHeading": "فروقات 2020 - 2026.. والمبالغ استُعيدت",
+      "arabicBody": "تقول الهيئة إن فروقات مالية صُرفت عن المدة 2020 - 2026 واستُعيدت. وقاضي تحقيق النزاهة بالرمادي أوقف المتهمين وفق المادتين 289 و298.",
+      "bigStat": {
+        "value": "289",
+        "label": "Penal Code article cited for the detention, with article 298 (Integrity Commission)",
+        "arabicLabel": "المادة من قانون العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "المدة",
+          "value": "2020 - 2026"
+        },
+        {
+          "label": "المبالغ",
+          "value": "استُعيدت"
+        },
+        {
+          "label": "المواد",
+          "value": "289 و298"
+        }
+      ],
+      "broll": "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-21-a-anbar-resigned-salary-6-years/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "فروقات من 2020",
+        "المبالغ استُعيدت",
+        "توقيف على ذمة التحقيق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة: أربعة أوامر قبض بحق موظفين في تربية الأنبار (شفق نيوز، بغداد اليوم)",
+    "بحسب الهيئة: وثائق مزوّرة أظهرت عودة موظف مستقيل منذ 6 سنوات",
+    "الهيئة: استعادة المبالغ.. والمتهمون موقوفون على ذمة التحقيق",
+    "تشتغل بدائرة حكومية؟"
+  ],
+  "endQuestion": "تشتغل بدائرة حكومية؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

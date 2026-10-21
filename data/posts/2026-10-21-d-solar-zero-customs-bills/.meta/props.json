@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 21 • 2026",
+  "arabicDateLabel": "21 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_economy",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الكهرباء",
+    "arabicHeadline": "صفر كمرك على المنظومات الشمسية.. وفاتورتك تنتظر تعليمات الربط",
+    "englishSubhead": "BAGHDAD · OCT 21 (WED) | CABINET (TUE EVENING) ZEROES CUSTOMS DUTIES ON IMPORTED SOLAR ENERGY SYSTEMS TO SUPPORT THE PRIVATE SECTOR AND ENCOURAGE CITIZENS TO BUY THEM (SHAFAQ, BAGHDAD TODAY) | ELECTRICITY MINISTRY: DECISION FOLLOWS MINISTER ALI SAADI WAHEEB'S PROPOSAL OF 23 SEPT; A 40-ARTICLE DRAFT REGULATION WOULD LET CITIZENS CONNECT SOLAR SYSTEMS TO THE NATIONAL GRID WITH SMART METERS, CUTTING BILLS BY THE ENERGY EXCHANGED, ONCE APPROVED; DRAFT IS WITH THE STATE COUNCIL (BAGHDAD TODAY) | CABINET ALSO APPROVED A 600-1,000 MW POWER SUPPLY CONTRACT FOR THE NORTHERN REGION (SHAFAQ)",
+    "heroMedia": "images/news/2026-10-21-d-solar-zero-customs-bills/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "القرار",
+      "arabicHeading": "صفر كمرك على منظومتك الشمسية",
+      "arabicBody": "مجلس الوزراء وافق مساء الثلاثاء على تصفير الرسوم الكمركية على منظومات الطاقة الشمسية المستوردة، دعماً للقطاع الخاص وتشجيعاً للمواطنين على اقتنائها (شفق نيوز، بغداد اليوم).",
+      "bigStat": {
+        "value": "0",
+        "label": "Customs duty on imported solar systems after Tuesday's cabinet decision (Shafaq, Baghdad Today)",
+        "arabicLabel": "رسوم كمركية على المنظومات"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "مجلس الوزراء"
+        },
+        {
+          "label": "اليوم",
+          "value": "الثلاثاء"
+        },
+        {
+          "label": "الهدف",
+          "value": "تشجيع الاقتناء"
+        }
+      ],
+      "broll": "images/news/2026-10-21-d-solar-zero-customs-bills/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-21-d-solar-zero-customs-bills/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تصفير الكمرك",
+        "منظومات الطاقة الشمسية",
+        "قرار مجلس الوزراء"
+      ]
+    },
+    {
+      "label": "الربط",
+      "arabicHeading": "40 مادة لربط منظومتك بالشبكة الوطنية",
+      "arabicBody": "وزارة الكهرباء قالت إنها أعدّت مسودة تعليمات من 40 مادة تنظّم ربط المنظومات الشمسية بالشبكة الوطنية وتبادل الطاقة بين المواطن والشبكة (بغداد اليوم).",
+      "bigStat": {
+        "value": "40",
+        "label": "Articles in the draft grid-connection regulation (Electricity Ministry via Baghdad Today)",
+        "arabicLabel": "مادة بمسودة التعليمات"
+      },
+      "supportingStats": [
+        {
+          "label": "المسودة",
+          "value": "40 مادة"
+        },
+        {
+          "label": "الجهة",
+          "value": "وزارة الكهرباء"
+        },
+        {
+          "label": "الآن",
+          "value": "لدى مجلس الدولة"
+        }
+      ],
+      "broll": "images/news/2026-10-21-d-solar-zero-customs-bills/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-21-d-solar-zero-customs-bills/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مسودة من 40 مادة",
+        "ربط بالشبكة الوطنية",
+        "تبادل الطاقة"
+      ]
+    },
+    {
+      "label": "الفاتورة",
+      "arabicHeading": "فاتورة أقل؟ بعد إقرار التعليمات فقط",
+      "arabicBody": "بحسب الوزارة، ستتيح التعليمات بعد إقرارها الربط بمقاييس ذكية وخفض الفواتير وفق الطاقة المتبادلة، وإنها خاطبت مجلس الدولة لاستكمال صياغتها قبل رفعها لمجلس الوزراء.",
+      "bigStat": {
+        "value": "23",
+        "label": "September — date of the electricity minister's proposal behind the decision (ministry via Baghdad Today)",
+        "arabicLabel": "أيلول — تاريخ مقترح الوزير"
+      },
+      "supportingStats": [
+        {
+          "label": "المقياس",
+          "value": "ذكي"
+        },
+        {
+          "label": "الفاتورة",
+          "value": "حسب التبادل"
+        },
+        {
+          "label": "المرحلة",
+          "value": "قبل الإقرار"
+        }
+      ],
+      "broll": "images/news/2026-10-21-d-solar-zero-customs-bills/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-21-d-solar-zero-customs-bills/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مقاييس ذكية",
+        "فاتورة أقل بعد الإقرار",
+        "مجلس الدولة"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "مجلس الوزراء يصفّر الرسوم الكمركية على منظومات الطاقة الشمسية المستوردة (شفق نيوز، بغداد اليوم)",
+    "الكهرباء: مسودة من 40 مادة لربط المنظومات بالشبكة الوطنية (بغداد اليوم)",
+    "الوزارة: خفض الفواتير وفق الطاقة المتبادلة بعد إقرار التعليمات",
+    "عندك منظومة شمسية بالبيت؟"
+  ],
+  "endQuestion": "عندك منظومة شمسية بالبيت؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "وزارة الكهرباء",
+      "domain": "moelc.gov.iq"
+    }
+  ]
+}
