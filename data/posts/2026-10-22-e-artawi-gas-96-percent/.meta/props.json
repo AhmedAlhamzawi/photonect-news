@@ -1,0 +1,147 @@
+{
+  "dateLabel": "OCT 22 • 2026",
+  "arabicDateLabel": "22 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_05.mp3",
+  "topicBucket": "iraq_energy",
+  "variant": "C",
+  "breaking": {
+    "arabicKicker": "الغاز المصاحب",
+    "arabicHeadline": "وزارة النفط: غاز أرطاوي بلغ 96% من الإنجاز",
+    "englishSubhead": "BASRA · OCT 22 (THU) | OIL MINISTRY UNDERSECRETARY FOR GAS EZZAT SABER ISMAIL (VIA SHAFAQ, ECONOMY NEWS): ARTAWI FIELD EARLY GAS PROJECT (AG25) 96% COMPLETE; TARGETS 50 MILLION STANDARD CUBIC FEET OF RAW GAS TO PRODUCE OVER 40 MILLION OF DRY GAS, PRODUCTION 'SOON' | GAS MANAGEMENT PROJECT (GMP) 36% COMPLETE; PHASE 1 TARGETS 300 MILLION SCF OF RAW GAS FROM MAJNOON, WEST QURNA 2 AND ARTAWI, PHASE 2 OF SIMILAR SIZE | GOAL: CUT FLARING, BOOST FUEL FOR POWER STATIONS",
+    "heroMedia": "images/news/2026-10-22-e-artawi-gas-96-percent/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "أرطاوي",
+      "arabicHeading": "مشروع غاز أرطاوي: إنجاز 96%",
+      "arabicBody": "أعلن وكيل وزارة النفط لشؤون الغاز عزت صابر إسماعيل، الخميس، أن إنجاز مشروع غاز حقل أرطاوي المعجّل (AG25) بلغ 96%، والإنتاج «قريباً».",
+      "bigStat": {
+        "value": "96",
+        "label": "Percent complete — Artawi early gas project AG25 (Oil Ministry)",
+        "arabicLabel": "% نسبة الإنجاز"
+      },
+      "supportingStats": [
+        {
+          "label": "الحقل",
+          "value": "أرطاوي"
+        },
+        {
+          "label": "الإنجاز",
+          "value": "96%"
+        },
+        {
+          "label": "الإنتاج",
+          "value": "قريباً"
+        }
+      ],
+      "broll": "images/news/2026-10-22-e-artawi-gas-96-percent/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-22-e-artawi-gas-96-percent/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "أرطاوي 96%",
+        "الغاز المصاحب",
+        "الإنتاج قريباً"
+      ]
+    },
+    {
+      "label": "الكميات",
+      "arabicHeading": "50 مليون قدم مكعب غاز خام",
+      "arabicBody": "وفق الوكيل، يستهدف المشروع 50 مليون قدم مكعب قياسي من الغاز الخام لإنتاج أكثر من 40 مليوناً من الغاز الجاف، دعماً لإمدادات وقود محطات الكهرباء.",
+      "bigStat": {
+        "value": "50",
+        "label": "Million standard cubic feet of raw gas targeted (Oil Ministry)",
+        "arabicLabel": "مليون قدم مكعب"
+      },
+      "supportingStats": [
+        {
+          "label": "خام",
+          "value": "50 مليون"
+        },
+        {
+          "label": "جاف",
+          "value": "+40 مليون"
+        },
+        {
+          "label": "الغرض",
+          "value": "وقود المحطات"
+        }
+      ],
+      "broll": "images/news/2026-10-22-e-artawi-gas-96-percent/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-22-e-artawi-gas-96-percent/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "50 مليون خام",
+        "أكثر من 40 مليون",
+        "وقود المحطات"
+      ]
+    },
+    {
+      "label": "المعالجة",
+      "arabicHeading": "مشروع معالجة الغاز: إنجاز 36%",
+      "arabicBody": "وبحسب الوكيل، بلغ إنجاز مشروع معالجة الغاز (GMP) 36%، ويستهدف بمرحلته الأولى 300 مليون قدم مكعب قياسي من الغاز الخام من مجنون وغرب القرنة 2 وأرطاوي.",
+      "bigStat": {
+        "value": "36",
+        "label": "Percent complete — Gas Management Project GMP (Oil Ministry)",
+        "arabicLabel": "% إنجاز المعالجة"
+      },
+      "supportingStats": [
+        {
+          "label": "الإنجاز",
+          "value": "36%"
+        },
+        {
+          "label": "المرحلة 1",
+          "value": "300 مليون"
+        },
+        {
+          "label": "الحقول",
+          "value": "3"
+        }
+      ],
+      "broll": "images/news/2026-10-22-e-artawi-gas-96-percent/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-22-e-artawi-gas-96-percent/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "معالجة الغاز 36%",
+        "300 مليون قدم",
+        "ثلاثة حقول"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "وزارة النفط: غاز أرطاوي بلغ 96% من الإنجاز (شفق نيوز، الاقتصاد نيوز)",
+    "المشروع يستهدف 50 مليون قدم مكعب قياسي من الغاز الخام",
+    "الوزارة: استثمار الغاز المصاحب وتقليل حرقه يعززان وقود محطات الكهرباء",
+    "مشروع معالجة الغاز GMP بلغ 36% ومرحلته الأولى 300 مليون قدم مكعب",
+    "كم ساعة كهرباء توصلك اليوم؟"
+  ],
+  "endQuestion": "كم ساعة كهرباء توصلك اليوم؟",
+  "sources": [
+    {
+      "name": "وزارة النفط",
+      "domain": "oil.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "الاقتصاد نيوز",
+      "domain": "economy-news.net"
+    }
+  ]
+}

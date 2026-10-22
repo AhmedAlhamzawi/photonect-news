@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 22 • 2026",
+  "arabicDateLabel": "22 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_01.mp3",
+  "topicBucket": "iraq_corruption",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "النزاهة",
+    "arabicHeadline": "النزاهة: مدير حسابات ديوان ذي قار.. بالجرم المشهود",
+    "englishSubhead": "DHI QAR · OCT 22 (THU) | FEDERAL INTEGRITY COMMISSION: HEAD OF THE ACCOUNTS DEPARTMENT AT THE DHI QAR GOVERNORATE OFFICE AND ONE OF HIS STAFF CAUGHT RED-HANDED RECEIVING A BRIBE FROM A CONTRACTOR (STATEMENT VIA BAGHDAD TODAY, 964, AL-MADA) | PER THE COMMISSION: THE TWO OBSTRUCTED PAYMENT OF THE CONTRACTOR'S DUES FOR A PROJECT IN AL-NASR DISTRICT DESPITE HIM COMPLETING ALL PROCEDURES AND FOLLOWING UP REPEATEDLY | DHI QAR INTEGRITY INVESTIGATION JUDGE ORDERED BOTH DETAINED UNDER PENAL CODE ARTICLE 308 — ACCUSED, NOT CONVICTED",
+    "heroMedia": "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الضبط",
+      "arabicHeading": "النزاهة: ضبط مدير حسابات ديوان ذي قار",
+      "arabicBody": "بحسب بيان هيئة النزاهة الاتحادية، ضُبط مدير قسم الحسابات في ديوان محافظة ذي قار وموظف في القسم بالجرم المشهود، الخميس.",
+      "bigStat": {
+        "value": "2",
+        "label": "Officials caught red-handed at the Dhi Qar governorate office, Thu (Integrity Commission)",
+        "arabicLabel": "متهمان"
+      },
+      "supportingStats": [
+        {
+          "label": "المكان",
+          "value": "ديوان ذي قار"
+        },
+        {
+          "label": "اليوم",
+          "value": "الخميس"
+        },
+        {
+          "label": "الصفة",
+          "value": "متهمان"
+        }
+      ],
+      "broll": "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "ديوان محافظة ذي قار",
+        "مدير قسم الحسابات",
+        "بالجرم المشهود"
+      ]
+    },
+    {
+      "label": "المقاول",
+      "arabicHeading": "معاملة مكتملة.. ومستحقات لم تُصرف",
+      "arabicBody": "بحسب الهيئة، عرقل المتهمان صرف مستحقات مقاول عن مشروع ينفذه في قضاء النصر، رغم إكماله الإجراءات كافة وتكرار مراجعته.",
+      "bigStat": {
+        "value": "النصر",
+        "label": "District where the contractor's project is located (Integrity Commission)",
+        "arabicLabel": "قضاء المشروع"
+      },
+      "supportingStats": [
+        {
+          "label": "القضاء",
+          "value": "النصر"
+        },
+        {
+          "label": "الإجراءات",
+          "value": "مكتملة"
+        },
+        {
+          "label": "المراجعات",
+          "value": "متكررة"
+        }
+      ],
+      "broll": "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "مستحقات مقاول",
+        "الإجراءات مكتملة",
+        "مراجعات متكررة"
+      ]
+    },
+    {
+      "label": "التوقيف",
+      "arabicHeading": "قاضي التحقيق يقرر توقيف المتهمَين",
+      "arabicBody": "قرر قاضي محكمة تحقيق ذي قار المختصة بقضايا النزاهة توقيف المتهمَين وفق المادة 308 من قانون العقوبات، لاستكمال الإجراءات القانونية.",
+      "bigStat": {
+        "value": "308",
+        "label": "Penal Code article cited for the detention (Integrity Commission)",
+        "arabicLabel": "قانون العقوبات"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "توقيف"
+        },
+        {
+          "label": "المادة",
+          "value": "308"
+        },
+        {
+          "label": "الصفة",
+          "value": "متهمان"
+        }
+      ],
+      "broll": "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-22-a-dhiqar-accounts-bribe-caught/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "قاضي تحقيق النزاهة",
+        "المادة 308",
+        "توقيف لاستكمال الإجراءات"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "النزاهة: مدير حسابات ديوان ذي قار.. بالجرم المشهود",
+    "بحسب الهيئة: عرقلا صرف مستحقات مقاول رغم إكماله الإجراءات (بغداد اليوم، 964، المدى)",
+    "توقيف المتهمَين وفق المادة 308 من قانون العقوبات لاستكمال الإجراءات",
+    "كم مرة راجعت دائرة حكومية لإكمال معاملة واحدة؟"
+  ],
+  "endQuestion": "كم مرة راجعت دائرة حكومية لإكمال معاملة واحدة؟",
+  "sources": [
+    {
+      "name": "هيئة النزاهة الاتحادية",
+      "domain": "nazaha.iq"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

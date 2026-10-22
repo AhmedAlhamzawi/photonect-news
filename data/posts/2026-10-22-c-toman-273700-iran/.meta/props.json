@@ -1,0 +1,146 @@
+{
+  "dateLabel": "OCT 22 • 2026",
+  "arabicDateLabel": "22 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/music_03.mp3",
+  "topicBucket": "mena_geo",
+  "variant": "A",
+  "breaking": {
+    "arabicKicker": "إيران",
+    "arabicHeadline": "التومان يواصل التراجع: الدولار بإيران يتجاوز 273 ألف تومان",
+    "englishSubhead": "TEHRAN · OCT 22 (THU) | FREE-MARKET DOLLAR ~273,700 TOMAN, +3,900 (+1.45%) ON THE DAY (SHAFAQ); IRAN INTERNATIONAL: ABOVE 273,000, EURO ~307,000, GBP >366,000 | IRAN STATISTICAL CENTRE (VIA SHAFAQ): ANNUAL INFLATION 73.6% IN SEPTEMBER; CONSUMER PRICES +89.8% Y/Y | CENTRAL BANK OF IRAN SAID IN EARLY OCTOBER IT WOULD INJECT UP TO $2BN | IRAQ: ECONOMIST NABIL AL-MARSOUMI TELLS BAGHDAD TODAY DOLLAR DEMAND TO FINANCE TRADE WITH IRAN OUTSIDE OFFICIAL BANKING CHANNELS PRESSURES THE IRAQI MARKET; AFP (VIA BAGHDAD TODAY): IRAQ-IRAN TRADE VIA 7 CROSSINGS TOPPED $10BN LAST YEAR",
+    "heroMedia": "images/news/2026-10-22-c-toman-273700-iran/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "السوق الحرة",
+      "arabicHeading": "السوق الحرة: الدولار بنحو 273,700 تومان",
+      "arabicBody": "سعر بيع الدولار بالسوق الحرة في إيران بلغ نحو 273,700 تومان الخميس، بارتفاع 3,900 عن اليوم السابق (شفق نيوز). وإيران إنترناشيونال: فوق 273 ألفاً.",
+      "bigStat": {
+        "value": "273,700",
+        "label": "Toman per US dollar, Iran free market, Thursday (Shafaq)",
+        "arabicLabel": "تومان لكل دولار"
+      },
+      "supportingStats": [
+        {
+          "label": "الارتفاع",
+          "value": "3,900"
+        },
+        {
+          "label": "النسبة",
+          "value": "1.45%"
+        },
+        {
+          "label": "اليورو",
+          "value": "307 ألف"
+        }
+      ],
+      "broll": "images/news/2026-10-22-c-toman-273700-iran/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-22-c-toman-273700-iran/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "273,700 تومان",
+        "+3,900 بيوم",
+        "السوق الحرة"
+      ]
+    },
+    {
+      "label": "التضخم",
+      "arabicHeading": "مركز الإحصاء: تضخم سنوي 73.6%",
+      "arabicBody": "بيانات مركز الإحصاء الإيراني عبر شفق نيوز: التضخم السنوي 73.6% خلال أيلول، وأسعار المستهلكين أعلى بـ89.8% عن أيلول الماضي.",
+      "bigStat": {
+        "value": "73.6%",
+        "label": "Iran annual inflation, September (Iran Statistical Centre via Shafaq)",
+        "arabicLabel": "التضخم السنوي"
+      },
+      "supportingStats": [
+        {
+          "label": "التضخم",
+          "value": "73.6%"
+        },
+        {
+          "label": "الأسعار سنوياً",
+          "value": "89.8%"
+        },
+        {
+          "label": "ضخ المركزي",
+          "value": "حتى ملياري $"
+        }
+      ],
+      "broll": "images/news/2026-10-22-c-toman-273700-iran/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-22-c-toman-273700-iran/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تضخم 73.6%",
+        "الأسعار +89.8%",
+        "مركز الإحصاء"
+      ]
+    },
+    {
+      "label": "العراق",
+      "arabicHeading": "وبالعراق: دولار التجارة خارج المصارف",
+      "arabicBody": "الخبير نبيل المرسومي لبغداد اليوم: الطلب على الدولار لتمويل التجارة، ولا سيما مع إيران، خارج القنوات المصرفية الرسمية يُبقي الضغوط على السوق.",
+      "bigStat": {
+        "value": "$10B",
+        "label": "Iraq-Iran trade via 7 crossings last year (AFP via Baghdad Today)",
+        "arabicLabel": "التبادل التجاري"
+      },
+      "supportingStats": [
+        {
+          "label": "المعابر",
+          "value": "7"
+        },
+        {
+          "label": "التبادل",
+          "value": "+$10B"
+        },
+        {
+          "label": "المصدر",
+          "value": "فرانس برس"
+        }
+      ],
+      "broll": "images/news/2026-10-22-c-toman-273700-iran/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-22-c-toman-273700-iran/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "دولار التجارة",
+        "خارج المصارف",
+        "ضغط على السوق"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "التومان يواصل التراجع: الدولار بإيران يتجاوز 273 ألف تومان",
+    "إيران إنترناشيونال: الدولار يتجاوز 273 ألف تومان",
+    "مركز الإحصاء الإيراني (عبر شفق نيوز): تضخم سنوي 73.6% في أيلول",
+    "سافرت لإيران هالسنة؟"
+  ],
+  "endQuestion": "سافرت لإيران هالسنة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "إيران إنترناشيونال",
+      "domain": "iranintl.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    }
+  ]
+}

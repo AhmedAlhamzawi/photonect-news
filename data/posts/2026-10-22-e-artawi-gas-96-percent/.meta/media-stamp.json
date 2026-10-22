@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-22-e-artawi-gas-96-percent",
+  "date": "2026-10-22",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 853430,
+      "sha256": "6dc14a0887ae01a7"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 847552,
+      "sha256": "9eb5a1aef8522f92"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 9279341,
+      "sha256": "59f7efc00732105a"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 7037597,
+      "sha256": "7b9f50be8314597f"
+    }
+  ]
+}

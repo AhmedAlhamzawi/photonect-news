@@ -1,0 +1,150 @@
+{
+  "dateLabel": "OCT 22 • 2026",
+  "arabicDateLabel": "22 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_cinematic.mp3",
+  "topicBucket": "iraq_money",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "الدولار اليوم",
+    "arabicHeadline": "بصيرفات بغداد.. المية دولار وصلت 170 ألف دينار",
+    "englishSubhead": "BAGHDAD · OCT 22 (THU) | KIFAH AND HARITHIYA BOURSES 169,500 IQD PER $100 THURSDAY MORNING VS 168,900 WEDNESDAY (SHAFAQ) | BAGHDAD SHOPS SELL 170,000 / BUY 169,000; ERBIL SELL 169,650 (SHAFAQ) | BLOOMBERG DATA (VIA SHAFAQ): IRAQI DINAR DOWN 14.2% VS THE DOLLAR SINCE START-2026, 2ND WORST GLOBALLY AFTER THE LIBYAN DINAR (15.6%), AHEAD OF THE TURKISH LIRA (13.3%) | OFFICIAL CBI RATE 152,000 (964, AL-MADA)",
+    "heroMedia": "images/news/2026-10-22-b-dollar-170000-shops/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "البورصة",
+      "arabicHeading": "البورصة ترتفع: 169,500 صباح الخميس",
+      "arabicBody": "بحسب شفق نيوز، سجلت بورصتا الكفاح والحارثية 169,500 دينار لكل 100 دولار صباح الخميس، مقابل 168,900 يوم الأربعاء.",
+      "bigStat": {
+        "value": "169,500",
+        "label": "IQD per $100 at Kifah/Harithiya bourses, Thursday morning (Shafaq)",
+        "arabicLabel": "دينار — البورصة"
+      },
+      "supportingStats": [
+        {
+          "label": "الأربعاء",
+          "value": "168,900"
+        },
+        {
+          "label": "الخميس",
+          "value": "169,500"
+        },
+        {
+          "label": "أربيل (بيع)",
+          "value": "169,650"
+        }
+      ],
+      "broll": "images/news/2026-10-22-b-dollar-170000-shops/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-22-b-dollar-170000-shops/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "البورصة 169,500",
+        "الأربعاء 168,900",
+        "لكل 100 دولار"
+      ]
+    },
+    {
+      "label": "الصيرفة",
+      "arabicHeading": "الصيرفة ببغداد: البيع 170,000",
+      "arabicBody": "بحسب شفق نيوز، باعت محال الصيرفة ببغداد الـ100 دولار بـ170,000 دينار واشترتها بـ169,000. وفي أربيل بلغ سعر البيع 169,650.",
+      "bigStat": {
+        "value": "170,000",
+        "label": "IQD — Baghdad exchange-shop selling price per $100 (Shafaq, 964)",
+        "arabicLabel": "دينار — بيع الصيرفة"
+      },
+      "supportingStats": [
+        {
+          "label": "البيع",
+          "value": "170,000"
+        },
+        {
+          "label": "الشراء",
+          "value": "169,000"
+        },
+        {
+          "label": "الرسمي (المركزي)",
+          "value": "152,000"
+        }
+      ],
+      "broll": "images/news/2026-10-22-b-dollar-170000-shops/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-22-b-dollar-170000-shops/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الصيرفة 170,000",
+        "الشراء 169,000",
+        "الرسمي 152,000"
+      ]
+    },
+    {
+      "label": "بلومبرغ",
+      "arabicHeading": "بلومبرغ: الدينار ثاني أكثر العملات تراجعاً",
+      "arabicBody": "بيانات بلومبرغ عبر شفق نيوز: الدينار تراجع 14.2% أمام الدولار منذ مطلع 2026، بعد الدينار الليبي 15.6% وقبل الليرة التركية 13.3%.",
+      "bigStat": {
+        "value": "14.2%",
+        "label": "Iraqi dinar's fall vs the dollar since start-2026, 2nd worst globally (Bloomberg data via Shafaq)",
+        "arabicLabel": "تراجع الدينار"
+      },
+      "supportingStats": [
+        {
+          "label": "الليبي",
+          "value": "15.6%"
+        },
+        {
+          "label": "العراقي",
+          "value": "14.2%"
+        },
+        {
+          "label": "التركية",
+          "value": "13.3%"
+        }
+      ],
+      "broll": "images/news/2026-10-22-b-dollar-170000-shops/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-22-b-dollar-170000-shops/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "تراجع 14.2%",
+        "الثاني عالمياً",
+        "بيانات بلومبرغ"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "بصيرفات بغداد.. المية دولار وصلت 170 ألف دينار",
+    "بورصتا الكفاح والحارثية: 169,500 صباح الخميس مقابل 168,900 الأربعاء (شفق نيوز)",
+    "بلومبرغ: الدينار ثاني أكثر العملات تراجعاً أمام الدولار منذ مطلع 2026",
+    "بكم اشتريت المية دولار آخر مرة؟"
+  ],
+  "endQuestion": "بكم اشتريت المية دولار آخر مرة؟",
+  "sources": [
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بلومبرغ",
+      "domain": "bloomberg.com"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

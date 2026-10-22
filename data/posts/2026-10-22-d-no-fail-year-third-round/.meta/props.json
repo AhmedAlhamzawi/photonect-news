@@ -1,0 +1,154 @@
+{
+  "dateLabel": "OCT 22 • 2026",
+  "arabicDateLabel": "22 تشرين الأول 2026",
+  "handle": "@photonect.news",
+  "audioBed": "audio/mood_newsroom.mp3",
+  "topicBucket": "iraq_services",
+  "variant": "B",
+  "breaking": {
+    "arabicKicker": "التربية",
+    "arabicHeadline": "التربية: دور ثالث للمنتهية وسنة بلا رسوب",
+    "englishSubhead": "BAGHDAD · OCT 22 (THU) | EDUCATION MINISTRY'S OPINION BOARD (STATEMENT VIA SHAFAQ, BAGHDAD TODAY, 964, AL-MADA): A THIRD EXAM ROUND FOR 6TH PRIMARY, 3RD INTERMEDIATE AND 6TH PREPARATORY (ALL BRANCHES), COVERING STUDENTS WHO FAILED ALL SUBJECTS — THE RECOMMENDATION GOES TO THE COUNCIL OF MINISTERS FOR FORMAL APPROVAL | SCHOOL YEAR 2025-2026 DECLARED A 'NO-FAIL YEAR' FOR ALL STAGES",
+    "heroMedia": "images/news/2026-10-22-d-no-fail-year-third-round/hero.jpg",
+    "heroMediaType": "image"
+  },
+  "beats": [
+    {
+      "label": "الدور الثالث",
+      "arabicHeading": "دور ثالث للمراحل المنتهية",
+      "arabicBody": "بحسب بيان الوزارة، أقرت هيئة الرأي الخميس دوراً ثالثاً لطلبة السادس الابتدائي والثالث المتوسط والسادس الإعدادي بفروعه كافة، يشمل الراسبين في جميع المواد.",
+      "bigStat": {
+        "value": "3",
+        "label": "Graduating stages covered by the third exam round (Education Ministry)",
+        "arabicLabel": "مراحل منتهية"
+      },
+      "supportingStats": [
+        {
+          "label": "الابتدائية",
+          "value": "السادس"
+        },
+        {
+          "label": "المتوسطة",
+          "value": "الثالث"
+        },
+        {
+          "label": "الإعدادية",
+          "value": "السادس"
+        }
+      ],
+      "broll": "images/news/2026-10-22-d-no-fail-year-third-round/broll_1.jpg",
+      "brolls": [
+        "images/news/2026-10-22-d-no-fail-year-third-round/broll_1.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "الدور الثالث",
+        "المراحل المنتهية",
+        "الراسبون بكل المواد"
+      ]
+    },
+    {
+      "label": "الشرط",
+      "arabicHeading": "بانتظار موافقة مجلس الوزراء",
+      "arabicBody": "بحسب بيان الوزارة، تُرفع توصية هيئة الرأي إلى مجلس الوزراء لاستحصال الموافقة الأصولية على إجراء الدور الثالث.",
+      "bigStat": {
+        "value": "مجلس الوزراء",
+        "label": "Third round still needs formal cabinet approval (Education Ministry)",
+        "arabicLabel": "الموافقة الأصولية"
+      },
+      "supportingStats": [
+        {
+          "label": "القرار",
+          "value": "توصية"
+        },
+        {
+          "label": "الجهة",
+          "value": "مجلس الوزراء"
+        },
+        {
+          "label": "الحالة",
+          "value": "بانتظار"
+        }
+      ],
+      "broll": "images/news/2026-10-22-d-no-fail-year-third-round/broll_2.jpg",
+      "brolls": [
+        "images/news/2026-10-22-d-no-fail-year-third-round/broll_2.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "توصية لمجلس الوزراء",
+        "موافقة أصولية",
+        "بعدها الدور الثالث"
+      ]
+    },
+    {
+      "label": "عدم الرسوب",
+      "arabicHeading": "2025–2026 سنة عدم رسوب",
+      "arabicBody": "القرار الثاني: اعتبار العام الدراسي 2025–2026 سنة عدم رسوب لجميع المراحل الدراسية (شفق نيوز، بغداد اليوم، 964، المدى).",
+      "bigStat": {
+        "value": "2025–2026",
+        "label": "School year declared a no-fail year for all stages (Education Ministry)",
+        "arabicLabel": "سنة عدم رسوب"
+      },
+      "supportingStats": [
+        {
+          "label": "العام",
+          "value": "2025–2026"
+        },
+        {
+          "label": "يشمل",
+          "value": "كل المراحل"
+        },
+        {
+          "label": "القرار",
+          "value": "عدم رسوب"
+        }
+      ],
+      "broll": "images/news/2026-10-22-d-no-fail-year-third-round/broll_3.jpg",
+      "brolls": [
+        "images/news/2026-10-22-d-no-fail-year-third-round/broll_3.jpg"
+      ],
+      "brollType": "image",
+      "accent": "#FFC217",
+      "brollSource": "صورة توضيحية",
+      "subtitlePhrases": [
+        "سنة عدم رسوب",
+        "كل المراحل",
+        "العام 2025–2026"
+      ]
+    }
+  ],
+  "arabicTicker": [
+    "التربية: دور ثالث للسادس الابتدائي والثالث المتوسط والسادس الإعدادي (شفق نيوز، بغداد اليوم)",
+    "الدور الثالث مشروط بموافقة مجلس الوزراء الأصولية (بيان الوزارة)",
+    "العام الدراسي 2025–2026 سنة عدم رسوب لجميع المراحل",
+    "هل في بيتك طالب في مرحلة منتهية؟"
+  ],
+  "endQuestion": "هل في بيتك طالب في مرحلة منتهية؟",
+  "sources": [
+    {
+      "name": "وزارة التربية",
+      "domain": "moedu.gov.iq"
+    },
+    {
+      "name": "شفق نيوز",
+      "domain": "shafaq.com"
+    },
+    {
+      "name": "بغداد اليوم",
+      "domain": "baghdadtoday.news"
+    },
+    {
+      "name": "شبكة 964",
+      "domain": "964media.com"
+    },
+    {
+      "name": "المدى",
+      "domain": "almadapaper.net"
+    }
+  ]
+}

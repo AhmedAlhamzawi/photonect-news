@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-22-d-no-fail-year-third-round",
+  "date": "2026-10-22",
+  "images": [
+    {
+      "file": "broll_1.jpg",
+      "bytes": 1200820,
+      "sha256": "3cab66e7be92524f"
+    },
+    {
+      "file": "broll_2.jpg",
+      "bytes": 668905,
+      "sha256": "677b85526394f40b"
+    },
+    {
+      "file": "broll_3.jpg",
+      "bytes": 776521,
+      "sha256": "ee4426371738b9ea"
+    },
+    {
+      "file": "hero.jpg",
+      "bytes": 1413063,
+      "sha256": "7999cd138109ffa8"
+    }
+  ]
+}
